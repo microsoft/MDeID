@@ -1,0 +1,36 @@
+## Résumé de Sortie
+
+### Section du Diagnostic d'Admission
+Eli Lavoie a été admis en raison de complications découlant de l'aphasie.
+
+### Section du Cours de l'Hôpital
+Pendant le séjour à l'hôpital, Eli Lavoie a présenté une gamme de symptômes, y compris le clonus, l'égophonie, la parésie faciale et l'aphagie. Un plan de traitement complet a été conçu et mis en œuvre par le médecin traitant Haley Lam.
+
+### Section des Procédures
+Un certain nombre de procédures diagnostiques et thérapeutiques ont été effectuées, y compris des séances de thérapie du langage et de la parole, de la physiothérapie pour la parésie faciale et une gestion alimentaire pour l'aphagie.
+
+### Section des Soins, Traitements et Services Fournis
+Eli Lavoie a reçu des soins 24 heures sur 24, y compris la surveillance des signes vitaux, l'administration de médicaments et la consultation spécialisée au besoin. Des services supplémentaires tels que la thérapie du langage et de la parole, la physiothérapie et le conseil nutritionnel ont également été fournis pour gérer les symptômes.
+
+### Section du Diagnostic de Sortie
+À la sortie, l'état de Eli Lavoie s'était nettement amélioré. Les symptômes de l'aphasie ont été réduits et le patient a pu communiquer plus efficacement. La parésie faciale a montré des signes d'amélioration et une diminution de la rigidité musculaire a été notée. L'état de l'aphagie s'est également amélioré avec des essais de déglutition réussis.
+
+### Section des Dispositions pour les Soins de Suivi
+Les soins de suivi comprennent des rencontres programmées avec Haley Lam, la continuation de la thérapie de la parole, la physiothérapie et une surveillance constante de l'apport nutritionnel. Eli Lavoie doit signaler immédiatement tout symptôme inhabituel.
+
+### Section des Informations Fournies au Patient et à la Famille
+Des informations concernant l'état de santé, le plan de traitement, les médicaments, les modifications du mode de vie et les rendez-vous de suivi ont été partagées avec Eli Lavoie et la famille. L'importance de respecter le traitement et le calendrier de suivi a été soulignée pour une récupération optimale.
+
+### Section des Médicaments de Sortie
+Les médicaments prescrits à la sortie comprennent des médicaments pour améliorer l'aphasie, des relaxants musculaires pour le clonus et des aides à la déglutition pour la gestion de l'aphagie.
+
+### Section des Instructions de Sortie de l'Hôpital
+Il a été conseillé à Eli Lavoie de suivre un plan de médication prescrit, de continuer avec les thérapies recommandées et de maintenir des rendez-vous de suivi réguliers avec le Haley Lam. L'accent a également été mis sur le maintien d'un régime alimentaire équilibré pour aider à la récupération.
+
+### Section de la Disposition à la Sortie
+Eli Lavoie est sorti dans un état stable avec des recommandations pour les soins à domicile et les traitements de suivi.
+
+Document Préparé Par : Haley Lam
+Numéro de Dossier Médical : PhpUco 085
+
+Veuillez noter que tout changement dans l'état de Eli Lavoie doit être signalé immédiatement à l'équipe de soins. Suivez le régime de médication prescrit et les séances de thérapie pour une récupération optimale.

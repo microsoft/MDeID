@@ -1,0 +1,48 @@
+"Verpleegkundige Kras Notitie: Dengue Watch
+
+Vitals Snapshot:
+
+Temperatuur: 38.5
+Bloeddruk: 120/80
+Hartslag: 88 bpm
+Ademhaling: 16 ademhalingen per min
+
+Conditie Trefwoorden: Gewrichtspijn, Hoge Koorts, Hoofdpijn, Misselijkheid 
+
+Toegediende Behandeling: 
+Toegediend , dosering 200mg
+
+Extra Observaties:
+Uitslag waargenomen op de huid van Victor van der Linden - Verdacht van Dengue. Wacht op verdere tests.
+
+Notities:
+Victor van der Linden is onlangs verhuisd vanuit Nederland. Mogelijke blootstelling. 
+Woont op Victor van der Linden, Declensions 197, 0003 Unflexible, België - controleer op muggenbroedplaatsen.
+
+Volgende Stappen:
+Lars van der Pol om diagnose te bevestigen. 
+Informeer Cook-Hughes als dengue is bevestigd.
+
+Contacten: 592.673.2901x9815, derarsP@yandex.com, 5585766612 (In geval van nood of behoefte aan verdere discussie)
+
+----------------------------------------
+Document Voetnoten:
+
+- Persoonlijk Apparaat: Zs 6118sGT gebruikt voor monitoring
+- Details van het zorgverzekeringsplan: kfM
+- Patiënt Gebruikersnaam voor online portaal: i0BI1Twj
+- Patiënt Medisch Dossier Nummer: xqcgV ciJV
+
+Opmerking: Consultatie vond plaats op 17 jul. 2023. Alle informatie is accuraat vanaf deze datum.
+
+----------------------------------------
+
+Apparaat IP: 129.70.231.28
+Licentienummer: RLEPn DqvV
+BioID: Ipl 8091ov
+Voertuig Identificatie: F52 6TF
+Sociale Zekerheidsnummer: 835363376
+Rekeningnummer: 02 6673hjp
+
+**Vertrouwelijke Notitie**: Alleen voor intern gebruik door geautoriseerd personeel."
+

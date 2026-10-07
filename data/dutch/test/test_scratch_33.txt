@@ -1,0 +1,64 @@
+"Verpleegkundige Kras Notitie
+
+--- Patiënt Case GVyoqD-sIN---
+
+Patiënt: Sam Hermans
+Leeftijd: 10
+Biometrische ID: fQzZh-vTzb
+Account: grRa-ZXviu
+Medisch apparaat: BN-BuLfkpW
+Locatie-Overig: theater
+Adres: Sam Hermans, Predefault 129, 2372 Ichthys, Nederland
+Ziekenhuis: Royal Prince Alfred Hospital Camperdown
+
+--- Vitals ---
+
+BP: 128/80
+Pulse: 72
+Temp: 98.6F
+Resp: 16
+O2Sat: 98%
+
+--- Verpleegkundige Observaties ---
+
+Hoge gewichtstoename op korte termijn opgemerkt. Zorgen over vermoeidheid, inspanningsintolerantie. Geen zichtbare tekenen van trauma. 
+
+---Medische Info---
+
+Mogelijke medicijnreactie...? Te bevestigen door Manon Vermeiren.
+Huidig op d4FNb. 
+
+--- Diverse Info ---
+
+Gebruikersnaam: 1TjuMTqe
+IP-adres: 23.146.222.176
+Licentie: Cc ZOiKImb
+Voertuig: WEB 032
+
+--- Contact Info ---
+
+Telefoon: 238.970.8628x5061
+Email: ireano@gmail.com
+URL: https://smith.org/list/tag/searchfaq.jsp
+Fax: (535)993-2222x752
+
+--- Noodcontact ---
+
+Naam: Sam Hermans
+Relatie: 
+Telefoon: 238.970.8628x5061
+
+--- Overig ---
+
+IDNUM: grRa-ZXviu
+SOCIALE ZEKERHEID: 306-1682970-11
+PROFESSIE: Klinisch biochemicus
+ORGANISATIE: Everett Group
+STAD: Fatherlike
+LAND: België
+STAAT: 26
+STRAAT: 6343 Chapman Branch Apt. 662
+POSTCODE: 2372
+
+--- Einde van de Notitie ---"
+

@@ -1,0 +1,37 @@
+"Doctor Scratch Note:
+
+-----------------------------------
+Dr. Dennis Riley
+Davenport, Wheeler and Baker
+
+Zoé Taylor - 528300-473 - 9
+
+OBSERVATIONS:
+Vital Signs:
+Temp: 36.5\u00b0C
+HR: 90 bpm
+RR: 22/min
+BP: 108/61 mm Hg
+O2 Sat: 100% on 40% FiO2
+
+Symptoms: AMS(1wk), Fever, Neck pain, Nausea, Vomiting. No abdominal pain, headache, visual changes, focal weakness, chest pain, dyspnea. No smoking, alcohol, illicit drug use. Nocturnal activities reported, intermittent somnolence. 
+
+Physical Exam: Intubated, Admitted to ICU. Positive Brudzinski sign, neck stiffness, pupils equal and reactive to light, response to painful stimuli. Lungs clear, cardiac and abdominal exams unremarkable. 
+
+Lab Results: WBC 19,900/mm3 (81% neutrophils), HGB 11.8 g/dL, Platelet 170,000/\u00b5L, Creatinine 0.5 mg/dL, Bilirubin 0.6 mg/dL, AST 49 IU/L, ALT 81 IU/L, Alkaline phosphatase.
+
+ASSESSMENT:
+1. Acute bacterial meningitis - Fever, neck stiffness, AMS, supportive lab findings including leukocytosis with neutrophilia.
+2. Differentials - Viral encephalitis, other CNS infections.
+
+PLAN:
+1. Continued ICU monitoring, supportive care.
+2. Initiate empirical antibiotic therapy - Target common pathogens causing meningitis.
+3. Monitor neurological status and vital signs closely.
+4. Education - Zoé Taylor, family about condition, treatment plan, expected outcomes.
+5. Consultations - Neurological, Consider infectious disease if needed.
+6. Follow-up care - Discuss importance, long-term management.
+
+Dennis Riley
+-----------------------------------"
+

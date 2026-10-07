@@ -1,0 +1,47 @@
+"**Nurse's Scratch Notes**
+
+Patient: Matilda Williams
+
+* Complaints: tired, feeling sick
+* Notable Symptoms: Nose running, possible 18-yo onset
+* Check: Temp, BP, Resp, Sat (All normal)
+* Probable Diagnosis: Common Cold
+
+Vitals & Observations:
+1. Temperature:  98.6F
+2. Blood Pressure: 120/80 mmHg
+3. Respiratory Rate: 16 breaths/min
+4. Oxygen Saturation: 97%
+
+Treatment Plan: Hydrate, Rest, Vit C increase
+
+**Contact Summary**
+* Primary Contact: 001-597-627-9299x5984
+* Email: anFiel@un.org
+* Emergency Contact: 001-597-627-9299x5984
+
+**Patient Info**
+* Medical Record: 196644-535
+* Hospital: Piacenza
+* Address: Matilda Williams, 154 Highline, Unlovingness, 53 8023, Canada
+
+**Other Details**
+* SSN: 941-800-552
+* Account: getUeN 032
+* Username: WilliamsMat
+* DOB: 8
+* IP Address: 221.108.27.197
+
+**Additional Patient Context**
+* Occupation: Rural practice surveyor
+* Employer: Rodriguez Group
+* Health Plan: QEWi cTdcI
+* Doctor: Sean Fields
+* Last known location: beach
+
+**Devices & Details**
+* Medical Device ID: 648-zWkoIh
+* Biometric Profile ID: 471667-Slq
+
+_Note: For any changes please update the relevant sections._"
+

@@ -1,0 +1,103 @@
+"Nursing Scratch Note
+
+============================================
+| David Richards's Brief Snapshot |
+--------------------------------------------
+BP: 120/80 mmHg
+Pulse: 78 bpm
+Temp: 98.6\u00b0F
+
+Complains: Back pain, consistent
+
+Observation: Possible 
+
+Treatment:  underway
+
+============================================
+| Vital Signs Table |
+--------------------------------------------
+| Parameter | Value |
+|------------------|-------|
+| Heart Rate      | 78 bpm |
+| Respiratory Rate | 18 bpm |
+| Blood Pressure   | 120/80 mmHg |
+| Body Temp        | 98.6\u00b0F |
+
+============================================
+| Current Condition Card |
+--------------------------------------------
+Deciphering pain origin, monitoring David Richards's vitals. Suggest cervical spondylosis.  in progress.
+
+============================================
+| Notes on 495421 NHj |
+--------------------------------------------
+Monitoring device ref#: 495421 NHj
+
+============================================
+| David Richards's Information |
+--------------------------------------------
+Record Number: 85167 fauI
+Account: 52793 YwTd
+
+============================================
+| Care Team Contacts |
+--------------------------------------------
+Primary Doctor: Amber Freeman
+Phone: +1-765-556-7771x868
+Email: mab@unhcr.org
+
+============================================
+| David Richards's Personal Info |
+--------------------------------------------
+Username: efAeubrE
+DOB: 1.14
+
+============================================
+| Address |
+--------------------------------------------
+Address: David Richards, 108 Nongypsy, Muliebral 7 1152, Australia
+Location: market
+
+============================================
+| Additional Information |
+--------------------------------------------
+Vehicle: 63QB1
+Social Security No.: 511 511 901
+License: bR 2141RiS
+
+============================================
+| Other Identifiers |
+--------------------------------------------
+BioID: 116764 fRG
+IP Address: 123.200.4.189
+ID Number: 52793 YwTd
+
+============================================
+| Demographics |
+--------------------------------------------
+Age: 6
+
+============================================
+| David Richards's Status |
+--------------------------------------------
+Hospital: evangelical Presbyterian
+Health Plan: x6se9p
+
+============================================
+| Occupation |
+--------------------------------------------
+Profession: Research scientist (medical)
+Organization: Banks, Boyle and Coleman
+
+============================================
+| Internet Details |
+--------------------------------------------
+URL: harrison-higgins.com
+Fax: +1-504-373-9181
+
+============================================
+| Confidential Notes |
+--------------------------------------------
+Entry by: Nurse , 1.14
+"
+

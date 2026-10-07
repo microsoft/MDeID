@@ -1,0 +1,24 @@
+"S: Le patient Killian Marechal est un enfant de 5 ans avec des antécédents d'hypoxie à la naissance, présentant des retards de développement et des troubles du sommeil. Les parents signalent des résultats récents montrant des niveaux élevés de GHB dans une analyse d'acides organiques urinaires réalisée à Ross Russell Collection.
+O: Des tests génétiques effectués à Hill PLC ont révélé une nouvelle mutation homozygote c.800 T > G (p.V267G) dans l'exon 5, héritée des deux parents. Une analyse bioinformatique, réalisée à école, indique que cette mutation est \"probablement dommageable\" et \"causant la maladie\" avec un score de pathogénicité élevé. Les résultats précédents de l'EEG et de l'IRM cérébrale, stockés dans le dossier médical 473102 lTw, et réalisés à Ross Russell Collection, étaient peu clairs.
+A: Le diagnostic principal est un trouble génétique lié à la nouvelle mutation c.800 T > G, contribuant aux retards de développement et aux problèmes de sommeil. Les diagnostics différentiels, enregistrés sous le numéro de compte Wwj-05984A, pourraient inclure d'autres troubles génétiques ou métaboliques affectant le développement neurologique.
+P: Planifier de surveiller de près le développement de Killian Marechal grâce à des rendez-vous de suivi réguliers prévus le 5 janvier 1991. Les interventions comprendront une thérapie occupationnelle, une thérapie de la parole et une thérapie comportementale pour traiter les retards de développement. Des améliorations de l'hygiène du sommeil seront mises en œuvre, avec une éventuelle intervention pharmacologique si nécessaire. Il est conseillé aux parents de maintenir une communication ouverte avec l'équipe de soins, y compris le Dr. Alexia Marchal et l'infirmière Alexia Marchal, et de les joindre au 726-248-2475 ou à aAlexia@protonmail.com, pour ajuster les soins si nécessaire. Les parents doivent également informer leur plan de santé j9E9RQr3s de l'évolution de la situation.
+
+Notes supplémentaires :
+- Le nom d'utilisateur du patient pour le portail de l'hôpital est VdqItQN7.
+- L'adresse du domicile du patient est Killian Marechal, 149 1570 allé Odette, 1470 Talsi, France où il vit avec ses parents.
+- Le numéro d'identification du patient est Wwj-05984A.
+- Le numéro de l'appareil du patient est 408-gviUCT.
+- Le numéro de plaque du véhicule du patient est 326-GRS.
+- Le numéro de sécurité sociale du patient est 965352-6785.
+- Le permis de conduire du patient est 4508 btCfr.
+- L'identifiant d'empreinte digitale du patient est eWq-046yYQ.
+- L'adresse IP du patient à la maison est 192.85.15.121.
+- La profession du patient est Concepteur-rédacteur publicitaire.
+- L'état de résidence du patient est 30.
+- La ville de résidence du patient est Bucarest.
+- Le code postal du patient est 1470.
+- Le pays de résidence du patient est France.
+- La rue du patient est 50356 Lowe Junctions.
+- L'URL du blog personnel du patient est shaw-powell.com.
+- Le numéro de fax du patient est 226.908.6105x42951."
+

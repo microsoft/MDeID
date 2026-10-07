@@ -1,0 +1,12 @@
+T1	PATIENT 115 131	Heleen Gerritsen
+T2	PATIENT 335 351	Heleen Gerritsen
+T3	DOCTOR 504 523	Dirk van der Meulen
+T4	PATIENT 734 750	Heleen Gerritsen
+T5	PATIENT 1061 1077	Heleen Gerritsen
+T6	PATIENT 1638 1654	Heleen Gerritsen
+T7	DOCTOR 1784 1803	Dirk van der Meulen
+T8	DOCTOR 2262 2281	Dirk van der Meulen
+T9	MEDICALRECORD 3305 3315	JRNEl-6018
+T10	DOCTOR 3459 3478	Dirk van der Meulen
+T11	DOCTOR 3495 3514	Dirk van der Meulen
+T12	DATE 3524 3536	15 jun. 2014

@@ -1,0 +1,52 @@
+"\"Verpleegkundige Krasnotities - 18 jun. 1983\"
+
+======== Patiëntgegevens =========
+Naam: Stijn Petit
+Leeftijd: 2
+
+======== Vitale Tekens =========
+BP - 120/80
+HR - 78 bpm
+Temp - 98.6\u00b0F
+RR - 18 rpm
+
+======== Observaties =========
+Urinaire Frequentie - Verhoogd
+Ongemak - Mild 
+
+======== Diagnose =========
+Mogelijke UTI
+
+======== Behandelplan =========
+Monitor vitale functies elke 4 uur
+Dien antibiotica toe
+
+======== Diversen =========
+Locatie: museum
+Ziekenhuis: Lithuania
+Gezondheidsplan: iN6JRr 1W buhseD9
+Dokter: Barbara Jonker
+Gebruikersnaam: nAvNgacO
+IP Adres: 9.123.80.92
+Apparaat: 3708-873sn
+Medisch Dossier: 7005 83NYz
+Account: vp wdjxMWK
+IDNUM: vp wdjxMWK
+DOB: 18 jun. 1983
+Bioid: vMDmvG-20r
+Licentie: 58 68Edimn
+Sociale Zekerheid: 040144385
+Voertuig: A43-41N
+Organisatie: Miller and Sons
+Beroep: Broadcast journalist
+URL: http://mcguire.net/main/categoryterms.asp
+Adres: Stijn Petit, Fiduciary 183, 3072 Subterfluous, Netherlands
+Stad: Definitization
+Land: Belgium
+Postcode: 3072
+Telefoon: (817)434-5800
+Fax: 502.855.8068x0031 
+
+======== Notitie =========
+Patiënt Stijn Petit vertoont tekenen van UTI. Verhoogde frequentie van urineren opgemerkt, met mild ongemak. Zal beginnen met antibiotica en vitale functies elke 4 uur monitoren. Barbara Jonker op de hoogte gebracht van de situatie."
+

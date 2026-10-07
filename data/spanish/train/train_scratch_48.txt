@@ -1,0 +1,108 @@
+"Nota de Enfermería
+
+--------------------------
+
+**Perfil del Paciente**
+
+--------------------------
+
+Paciente: Chiara Schreiber
+
+Dirección: Chiara Schreiber, Continuación Zimbabwe 953 Interior 930, 147, 7777 Santa Coloma De Cervelló, Spain
+
+Edad: 100
+
+Número de Historia Clínica: agQsEX-EDv
+
+Nombre de usuario: iaraSchrei
+
+--------------------------
+
+**Observaciones Médicas**
+
+--------------------------
+
+Quejas: Venas varicosas
+
+Ubicación: Piernas
+
+Hinchazón: Sí
+
+Extensión: Avanzada
+
+Estadísticas vitales: PA: 124/78, FC: 78 LPM, SPO2: 98%
+
+--------------------------
+
+**Detalles del Tratamiento**
+
+--------------------------
+
+Administrado: Calcetines de compresión
+
+ID del dispositivo: VXFu-VUEwO
+
+--------------------------
+
+**Información Adicional**
+
+--------------------------
+
+Plan de Salud: pGn
+
+Hospital: Brooke General Army Hospital
+
+Cuenta: DB owpxCEL
+
+Doctor: Paula Alvarado
+
+--------------------------
+
+**Contacto de Emergencia**
+
+--------------------------
+
+Teléfono: (284)570-2334
+
+Teléfono de respaldo: (284)570-2334
+
+Correo electrónico: Alvaul@yandex.com
+
+Fax: (557)287-1580x47007
+
+--------------------------
+
+**Detalles Técnicos**
+
+--------------------------
+
+Dirección IP: 22.221.54.197
+
+ID BIO: YwWZHz laH
+
+Seguridad Social: 715-77-8084
+
+--------------------------
+
+**Asociaciones No Médicas**
+
+--------------------------
+
+Organización Conectada: King, Morris and Powell
+
+Profesión: Planificador financiero
+
+Detalles de la licencia: 22630 Zuew
+
+Detalles del vehículo: 3-2515R
+
+Otra ubicación: parque
+
+Número de ID: DB owpxCEL
+
+URL: reilly-murphy.info
+
+Código Postal: 7777
+
+NOTA: Se requiere reevaluación el lunes, 5 de junio de 2023."
+

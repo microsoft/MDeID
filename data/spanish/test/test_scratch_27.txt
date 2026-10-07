@@ -1,0 +1,66 @@
+"Nota de la Enfermera:
+
+Paciente: María Victoria Pascual
+Edad: 36
+
+---------------------------
+| Signos vitales          |
+---------------------------
+| PA: 112/80              |
+| FC: 78                  |
+| FR: 16                  |
+| Temp: 37.1C             |
+| SPO2: 98%               |
+---------------------------
+
+Nota:
+Malestar general, informa sentirse "con picazón". El paciente podría haber contraído una infección por hongos. Es necesario un examen. Informé a María Chamorro al respecto. Se revisaron los medicamentos recetados. 
+
+---------------------------
+| Observaciones adicionales |
+---------------------------
+| Piel: Enrojecimiento    |
+| Erupción: Sí            |
+| Picazón: Alta           |
+---------------------------
+
+---------------------------
+| Detalles de contacto    |
+---------------------------
+| Correo electrónico: roa@unicef.org          |
+| Teléfono: 350.224.6294x81214          |
+| Dirección: María Victoria Pascual, Calle Esmeralda 32 Of. 460 121, Anezeh, 23847 Benito Juárez - Distrito Federal, 64, Colombia      |
+---------------------------
+
+---------------------------
+| Detalles de identificación del paciente |
+---------------------------
+| NRM: 19648 pPsB    |
+| Cuenta: ZxAN 4332m      |
+| SSN: 224-17-6752   |
+---------------------------
+
+---------------------------
+| Otros detalles          |
+---------------------------
+| ID del dispositivo: mWKtB-MAgP     |
+| Plan de salud: wg8zBJA 63eHvN3 MV2trf WSSU|
+| Profesión: Entrenador de IT|
+| Organización: Bailey, Vasquez and Parsons|
+---------------------------
+
+---------------------------
+| Información adicional   |
+---------------------------
+| Ciudad: Benito Juárez - Distrito Federal            |
+| Estado: Tamps.          |
+| País: Peru      |
+| Licencia: 697029-927      |
+| BioID: 91-4536Ber          |
+| Nombre de usuario: aascuaictori   |
+| Hospital: www.flickr.com    |
+---------------------------
+
+Nota: Se requiere visita de seguimiento. Reevaluar la condición dentro de 20 de junio de 2005 días. Mantener bajo observación por cualquier empeoramiento de los síntomas. Informar a María Chamorro si se observan cambios.
+"
+

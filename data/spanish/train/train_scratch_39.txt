@@ -1,0 +1,54 @@
+"NOTA DE ENFERMERÍA #463-PCVldb
+
+Paciente: Pamela Rodríguez
+Proveedor de atención médica: Manuela Escalante
+
+-----------
+MOTIVO DE CONSULTA:
+Erupción cutánea - picazón, irritación.
+
+-----------
+SIGNOS VITALES:
+PA: 120/80
+FC: 75 lpm
+FR: 16 lpm
+Temp: 98.6 F
+SpO2: 98%
+
+-----------
+OBSERVACIONES:
+- Piel: Eritema y descamación notados. 
+- Extensión: Erupción difusa, mayoría en brazos y torso.
+- Prurito presente, intensidad 7/10.
+  
+-----------
+EVALUACIONES:
+- Paciente de 44 años, posible Psoriasis. 
+- Se aconseja consulta con dermatología.
+
+-----------
+PLAN:
+- Iniciar corticosteroides tópicos.
+- Monitorear reacción de la piel diariamente.
+- Fomentar la hidratación y mantener la piel húmeda.
+
+-----------
+INFORMACIÓN ADICIONAL:
+- Nombre de usuario para el portal del paciente: jeR7fxzg
+- Identificador de dispositivo para la aplicación de e-Salud: faCm-0640c
+- Número de identificación del paciente: cSh-0737dG
+
+-----------
+INFORMACIÓN DE CONTACTO:
+- Teléfono: 989-406-0333x67344
+- Dirección: Pamela Rodríguez, Andador Norte Saavedra 974 Interior 595 97, Chancito, IPAQQF37 Santecilla, Argentina
+- Correo electrónico: anuet@unicef.org
+
+-----------
+FIRMADO: 
+Enfermera jeR7fxzg, en JSC ’
+  
+NOTA: Por favor, consulte el registro médico electrónico para la documentación completa. 
+
+(El número de registro médico del paciente 463-PCVldb, número de cuenta cSh-0737dG, SSN 08322624O, dirección IP 117.193.232.137, y la información del vehículo MLM 408 están almacenados de forma segura en nuestro sistema.)"
+

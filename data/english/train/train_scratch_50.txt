@@ -1,0 +1,75 @@
+"Nursing Scratch Note
+
+---------
+[PATIENT]  Status
+---------
+Rash - Charlos Elliott - all over
+Severity - Intense
+Poss. Cause - Dengue suspicion 
+
+----------
+Vitals:
+----------
+BP: 120/80
+Temp: 99\u00b0F
+Pulse: 75 BPM
+Resp: 18 BPM
+
+----------
+Nurse's Observations:
+----------
+Skin - Abnormalities - Rash
+Pain - Reports - Severe
+Mood - Stable
+Response to Treatment - Pending
+
+----------
+Access & Communication:
+----------
+Email: eMart@microsoft.org
+Phone: 557-782-9100x4043
+Fax: (487)982-5139
+
+----------
+General Info & Contact:
+----------
+Address: Charlos Elliott, 68 Shortia, Subgape, Obliged 4751, New Zealand
+Hospital: Edessaikos F.C
+City: Obliged
+Country: New Zealand
+
+-----------
+Relevant Data:
+-----------
+Profession: Building services engineer
+Organization: Hendricks-Goodwin
+
+-----------
+Test Results:
+-----------
+Awaiting - Dengue test results
+
+----------
+Contact & IDs:
+----------
+Medical Record Number: iZPV-achUT
+Account Number: sza xHXxez
+Doctor Contact: Dr. James Martin
+Device Info: Device ID number 640-774598
+Health Plan: 3yV
+
+-------
+Miscellaneous:
+-------
+Social Security Number: 487-82-3029
+License Number: 7444-FVHAA
+Username: tClUdtbh
+Vehicle Info: Vehicle ID 5TL43
+BioID: FingerPrint ID 169261-Pjh
+IP Address: 109.2.149.26
+ID Number: sza xHXxez
+
+---------
+
+Please update regularly."
+

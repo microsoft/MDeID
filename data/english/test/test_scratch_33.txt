@@ -1,0 +1,64 @@
+"Nursing Scratch Note
+
+--- Patient Case 61666-6117---
+
+Patient: Lydia Murphy
+Age: 9-month-old
+Biometric ID: zVn oIunRz
+Account: 063-YFNsbN
+Medical Device: 43 dfoZSfG
+Location-Other: restaurant
+Address: Lydia Murphy, 58 Vialled, Indubious 63 7026, Australia
+Hospital: Vorwerk
+
+--- Vitals ---
+
+BP: 128/80
+Pulse: 72
+Temp: 98.6F
+Resp: 16
+O2Sat: 98%
+
+--- Nurse Observations ---
+
+High weight gain in short time noticed. Concerns of fatigability, exertion intolerance. No visible trauma signs. 
+
+---Medical Info---
+
+Possible drug reaction...? To be confirmed by Ava Labatt.
+Current on kAncr. 
+
+--- Misc Info ---
+
+Username: Murphd
+IP address: 119.213.209.70
+License: 48118 uKOF
+Vehicle: VME 291
+
+--- Contact Info ---
+
+Phone: 905.262.0320x94318
+Email: AvLab@outlook.com
+URL: http://www.davis.com/list/blogregister.htm
+Fax: 779.960.6616
+
+--- Emergency Contact ---
+
+Name: Lydia Murphy
+Relationship: 
+Phone: 905.262.0320x94318
+
+--- Other ---
+
+IDNUM: 063-YFNsbN
+SOCIALSECURITY: 193-23-4862
+PROFESSION: Chief Strategy Officer
+ORGANIZATION: Thompson-Murphy
+CITY: Quintato
+COUNTRY: New Zealand
+STATE: 171
+STREET: 709 Gary Meadows
+ZIP: 7026
+
+--- End of Note ---"
+

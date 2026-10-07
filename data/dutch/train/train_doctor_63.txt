@@ -1,0 +1,34 @@
+"Dokter Kras Notitie
+
+Patiënt: Christiaan Visser, ID: oToUxG-361, Leeftijd: 101
+
+S:
+Klachten omvatten 4-daagse koorts, pijnlijke zweren, zwelling van de hoofdhuid. Verminderde eetlust door symptomen. 
+
+O:
+GCS-score: 15, Bewustzijn: Aanwezig
+Zweren: Aanwezig, Pus: Aanwezig, Fistel: Aanwezig, Hoofdhuid schilfering: Ja, Gezichtszwelling: Ja
+Lab Resultaat: Neutropenie (WBC: 2.39 x 10^9/l, Neutrofielen: 0.25 x 10^9/l, Lymfocyten: 2.1 x 10^9/l)
+Ontstekingsmarkers: Verhoogd (ESR: 101 mm/uur, CRP: 272 mg/dl)
+Pus Cultuur: Positief (Enterococcus faecalis, Escherichia coli)
+Bloedcultuur: Negatief, Urinecultuur: Negatief
+CXR: Normaal, Urineanalyse: Normaal, CSF Analyse: Normaal
+Immunoglobulines: Normaal, T-cel %: Normaal
+Beenmerg: Promyelocyt/Myelocyt maturatie arrest, Geen maligniteit
+CT Hoofd: Subcutaan emfyseem, Hoofdhuid: Positief, Hersenletsel: Nee, Schedelfracturen: Nee
+
+A:
+Primaire Dx: Necrotiserende fasciitis van de hoofdhuid, Septicemie
+Andere infectieuze etiologieën: Uitgesloten
+
+P:
+Behandeling: Pentaglobin (0.5 g/kg), Antibiotica (Vancomycine, Meropenem, Metronidazol)
+G-CSF therapie: Ja (5 tot 15 µg/kg/dag)
+Ontslag: Na 46 dagen
+Vervolg: Regelmatige controle van neutrofielentelling en algemene gezondheidstoestand
+
+Zorg door: Kevin Vandenberghe, Licentie: 84 766433m, Ziekenhuis: Palatine court
+
+Contact via: Telefoon 418-660-4328x24210, Email: denberghevin@gmail.com
+"
+

@@ -1,0 +1,26 @@
+"Patientenzorg Rapport: Ademhalingsproblemen 
+
+Dispatch en Aankomst op de Scène:
+Op 05-04-1977 ontvingen we een 911-oproep voor een persoon die moeite had met ademhalen. Patiënt Kato De Wilde werd gevonden door ons team gestationeerd op supermarkt in Cacodorous, 37. Bij aankomst zat Kato De Wilde rechtop in een stoel, ogenschijnlijk in ademnood.
+
+Geschiedenis en Symptomen:
+Kato De Wilde is ongeveer 7, met een recente geschiedenis van wat ze zelf identificeerden als een gewone verkoudheid. Gedurende het gesprek gaf Kato De Wilde een hoog niveau van ongemak aan, waarbij ze aangaven een aanhoudende hoest en neusverstopping te ervaren. De patiënt was alert en georiënteerd op persoon, plaats en tijd, en had een geschiedenis van soortgelijke gebeurtenissen uit 99622-Upvl.
+
+Onderzoek:
+Een snelle fysieke evaluatie werd uitgevoerd door Reinout de Groot. De luchtweg van de patiënt was open, maar er werd moeizame ademhaling opgemerkt. Auscultatie van de borst onthulde bilaterale piepende ademhaling. De huid was bleek en koel om aan te raken, wat kan duiden op onvoldoende zuurstoftoevoer. De zuurstofsaturatie was 92% in kamerlucht van het apparaat met 15612-WQZA identificatie.
+
+Behandeling en Transport:
+De initiële behandeling bestond uit het toedienen van extra zuurstof via een non-rebreather masker met een stroomsnelheid van 15 liter per minuut. De zuurstofsaturatie van de patiënt verbeterde tot 98% na zuurstoftherapie. Kato De Wilde werd vervolgens veilig op de brancard overgebracht met de hulp van het EMS-team en werd vervoerd via TZO R10 naar het Alcatraz Federal.
+
+Tijdens het transport werd Kato De Wilde continu gemonitord. Elke 5 minuten werd een herbeoordeling gedaan door het aanwezige EMS-personeel. De toestand van de patiënt bleef stabiel gedurende het transport, en ze werden overgedragen aan het ED-team bij Alcatraz Federal met alle relevante informatie gedeeld.
+
+De details van dit rapport, inclusief de symptomen van de patiënt, de toegediende behandeling, medische bevindingen en transportinformatie, werden allemaal gedocumenteerd in het elektronisch medisch dossier van de patiënt, nummer 99622-Upvl, toegankelijk via het portaal van het ziekenhuis met URL http://www.dougherty.com/appterms.html met jMR7FmNm en GfA 4596hc.
+
+De facturering voor de ambulance-service werd verzonden naar de zorgverzekeraar van de patiënt, mQOt3, onder rekeningnummer GfA 4596hc. De ambulance-service werd gebeld door Kato De Wilde via het telefoonnummer (292)721-8861x974 en de e-mail enoo@gmail.com werd gebruikt voor het verzenden van de e-bon van de betaling. De ambulance werd bestuurd door een EMT met licentie 04609-WdVn van de organisatie Smith-Huber. De oproep werd verzonden naar ons EMS-team via IP-adres 184.241.107.174 en het faxnummer 451-227-8893 werd gebruikt voor het verzenden van de medische documenten van de patiënt naar het ziekenhuis.
+
+Rapport Voorbereid door:
+Reinout de Groot (handtekening)
+05-04-1977
+
+OPMERKING: De andere persoonlijke gegevens van de patiënt, waaronder hun adres Kato De Wilde, Ploughstilt 20, 9771 Palaeechinoidea, Nederland, stad Cacodorous, staat 37, postcode 9771, land Nederland en hun sofinummer 231-3826426-19 werden ook gedocumenteerd en zijn vertrouwelijk volgens de HIPAA-regels."
+

@@ -1,0 +1,49 @@
+"KRABBELS: Patiëntprofiel
+
+------------------------------------------------------------
+Wout Coppens | 83 | man | Ontwerper, industrieel/product | Brown en Sons
+------------------------------------------------------------
+**CONTACTGEGEVENS**:
+* Thuis: Wout Coppens, Inflamable 51, 8988 Granitiform, Nederland
+* Telefoon: 457.787.9711
+* EMAIL: ser@yandex.com
+------------------------------------------------------------
+**Patiënt's vitale functies**:
+* BP - 121/81 (Normaal)
+* Pols - 75 (Normaal)
+* Temp - 98.6 F (Normaal)
+* Ademhaling - 16 ademhalingen/min (Normaal)
+------------------------------------------------------------
+**Patiënt's medische informatie**:
+* MRN: 5121-GmScF
+* Zorgplan: xOXAUE
+* Ziekenhuis: Mississippi River valley
+* Behandelend arts: Diewertje Vos
+------------------------------------------------------------
+**Observaties**:
+- Klacht over moeite met concentreren.
+- Emotionele instabiliteit opgemerkt.
+- Vermoed: diabetes.
+- Aanbevolen: Bloedglucosetest.
+------------------------------------------------------------
+**Apparaat Info**:
+- Apparaat ID: ntcdg-fIvk
+------------------------------------------------------------
+**Overige Info**:
+* Rekeningnummer: vfKGv-Mxys
+* Kenteken: RRM-432
+* BioID: AaJstt-NBI
+* Gebruikersnaam: Ln4aMjll
+* IP-adres: 64.11.152.139
+* ID-nummer: vfKGv-Mxys
+* Locatie: bibliotheek
+* Noodcontact: Wout Coppens
+* Sociale zekerheid: 291656254
+* Staat: 337
+* Straat: 4059 Sanchez Vista Suite 350
+* URL:  www.schultz-porter.info/main/wp-contentmain.php
+* Postcode: 8988
+* Fax: (680)943-0662x413
+------------------------------------------------------------
+OPMERKING: Vervolgafspraak gepland voor volledige diagnostiek. Resultaten zullen volgende stappen in behandelplan bepalen. Neem contact op met patiënt nadat testresultaten zijn ontvangen."
+

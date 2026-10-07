@@ -1,0 +1,30 @@
+"Doctor Scratch Note
+
+Marilyn Romero: 9 woman, from Explores, common area for dengue, chikungunya, and Zika. Major complaints: Upper abdominal pain, arthralgia, myalgia, hyporexia, malaise, intermittent fever, progressive jaundice. Noteworthy past medical conditions: chronic heart failure (Stage C, NYHA III), right bundle branch block, non-valvular atrial fibrillation, hypertension, chronic venous disease.
+
+On Examination:
+- Tachycardia, tachypnea, mucocutaneous jaundice.
+- Neck: Venous neck pulsations with abdominojugular reflux. 
+- Cardio: S1 intensity increased, irregular rhythm, systolic murmur at both upper sternal borders.
+- Breath: Diminished sounds, both lung bases.
+- Abdomen: Non-painful palpable liver. Extension: 3 cm below costal border, mid-clavicular line.
+- Hematological: Leucopenia, thrombocytopenia.
+- ECG: Atrial fibrillation, rapid ventricular response, right bundle branch block.
+- Chest X-ray: Cardiomegaly, bilateral pleural effusion.
+- ICU: Hypoglycemia, renal function worsening, ventilatory support, and vasopressor support needed. Blood samples: Positive, dengue IgM-antibodies.
+
+Assessment:
+Primary diagnosis: Severe dengue, hepatic compromise. Complications: Chronic heart failure, atrial fibrillation, acute on chronic renal failure.
+Differentials: Arboviral infections (chikungunya, Zika) due to endemic library.
+Prognosis: Poor. Rapid deterioration, pulseless electrical activity, death.
+
+Plan:
+- ICU Management: Supportive treatment, antibiotic therapy (cephazolin), ventilatory and vasopressor support.
+- Monitoring: Continuous, cardiac and renal functions.
+- Outcome: Patient condition deteriorated despite aggressive management, caused death.
+- Post-Mortem: Family counselling. Explained medical efforts, sensitivity, specificity of diagnostic tests used.
+
+Jacob Williams: Dr. Jacob Williams
+Infectious disease: ICU
+Merlyn: Merlyn"
+

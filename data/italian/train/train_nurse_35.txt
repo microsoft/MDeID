@@ -1,0 +1,42 @@
+"Note Narrative Infermieristiche per paziente con Disturbo Genetico
+
+Informazioni Soggettive
+
+La madre del paziente, Lucia Palmieri, ha riferito che suo figlio, di 53 anni, ha manifestato ritardi lievi a moderati nello sviluppo e nel linguaggio. È stato inoltre diagnosticato un disturbo da deficit di attenzione. Ha assicurato che non ci sono problemi relativi al tono muscolare o all'ipotonia. Sono state notate caratteristiche fisiche specifiche nel paziente, tra cui retrognazia, ipertelorismo lieve, un philtrum pronunciato, labbro superiore sottile, mani larghe e corte, lieve sindattilia del secondo e terzo dito del piede, e un divario da sandalo in entrambi i piedi.
+
+Informazioni Oggettive
+
+Una procedura di neuroimaging, specificamente una risonanza magnetica del cervello, non ha mostrato anomalie strutturali. Il test genetico, specificamente il Whole Exome Sequencing (WES), ha rivelato una variante frameshift de novo Chr1(GRCh37):g.244217335del, NM_205768.2(ZBTB18):c.259del(p.(Leu87Cysfs*21)), indicando un codone di terminazione prematuro situato più di 400 codoni a monte del codone di terminazione canonico.
+
+Valutazione
+
+La diagnosi primaria è un disturbo genetico associato alla mutazione frameshift identificata. Questa mutazione contribuisce probabilmente ai ritardi nello sviluppo e nel linguaggio del paziente e al disturbo da deficit di attenzione. Le caratteristiche fisiche e i risultati genetici suggeriscono una sindrome specifica, che necessita di ulteriore correlazione con i risultati clinici e la consulenza genetica.
+
+Piano
+
+Il piano di gestione include visite di follow-up regolari con un logopedista, un terapista occupazionale e uno psicologo per supportare le esigenze di sviluppo del paziente e affrontare il suo disturbo da deficit di attenzione. I controlli medici regolari monitoreranno la sua crescita e la salute generale dell'Love-Brown. È inoltre consigliata la consulenza genetica per la famiglia. Questo sarà facilitato dal Fritz Meyer per discutere le implicazioni dei risultati genetici e la potenziale ereditarietà familiare.
+
+*Informazioni Aggiuntive*
+
+- Numero di Cartella Clinica del Paziente: 4471 95DZV
+- Numero di Conto del Paziente: Comoz 4457
+- Nome utente per il Portale Online: ktrpKA33
+- Numero di Previdenza Sociale: MTTNOD19J68Y069X
+- Numero di Patente della Madre: dA mdQNgky
+- Numero di ID: Comoz 4457
+- Indirizzo: Lucia Palmieri, 075 Pennington Wells Suite 276 171, 1880 Boretto, Svizzera
+- Ospedale: hollis Court
+- Altra Località: ospedale
+- Piano Sanitario: DFrl1A
+- Professione della Madre: Insegnante di musica
+- Organizzazione della Famiglia: Love-Brown
+- Data del Prossimo Follow-Up: lunedì 11 agosto 2014
+- Medico di Riferimento: Fritz Meyer
+- Indirizzo Email: Meyitz@protonmail.com
+- Numero di Telefono di Contatto: 8887490754
+- Fax: +1-812-682-4215x56414
+- Sito Web per il Portale Online:  brown.com/category/tagterms.php
+  
+Infermiera ktrpKA33, RN, BSN
+"
+

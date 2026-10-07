@@ -1,0 +1,43 @@
+"**Verpleegkundige Narratieve Notitie voor Patiënt met Buikpijn en Gediagnosticeerde Kanker**
+
+Subjectief: Een vrouwelijke patiënt, Lars Claessens, van 8 werd opgenomen met pijn in haar linker onderste kwadrant. Er werd geen significante medische voorgeschiedenis opgemerkt, en er was geen familiegeschiedenis van gastro-intestinale of eierstokkanker. Ze meldde echter dat haar broer longkanker had, haar grootmoeder van vaderskant vocht tegen bilaterale synchrone borstkanker, en haar grootvader werd gediagnosticeerd met prostaatkanker.
+
+Objectief: Bij lichamelijk onderzoek en met behulp van een vHRKN-XEDq, werd een verstopte rectosigmoidale massa ontdekt. Een colonoscopie onthulde een rectosigmoidale massa van 4,5 x 6,5 cm, gelegen op 18 cm van de anale rand. Biopsieresultaten bevestigden het als matig gedifferentieerd adenocarcinoom. Verder testen met vHRKN-XEDq, toonde geen verre metastasen. Chirurgische resectie van de massa en lokale lymfeklieren werd uitgevoerd; pathologie wees op invasief adenocarcinoom met lymfovasculaire en perineurale invasie, en 6 van de 28 lymfeklieren waren positief. Genetische tests onthulden mutaties in BRIP1 en TP53, met een normaal Lynch-syndroom scherm. Er werden geen veranderingen gevonden in KRAS, NRAS en BRAF.
+
+Beoordeling: De patiënt werd gediagnosticeerd met matig gedifferentieerd rectosigmoidaal adenocarcinoom, stadium III vanwege lymfeklierbetrokkenheid. Risicovolle kenmerken zoals lymfovasculaire en perineurale invasie waren aanwezig. Genetische analyse suggereert een mogelijke erfelijke predispositie ondanks negatieve initiële erfelijke kankerscreening.
+
+Plan: Postoperatieve follow-up zal bestaan uit het monitoren op terugkeer en het beheersen van eventuele complicaties. Aanvullende kiemlijntesten voor BRIP1 genmutatie zijn gepland. De patiënt werd voorgelicht over symptomen van terugkeer en levensstijlveranderingen ter ondersteuning van de algehele gezondheid. Regelmatige follow-ups in oncologie voor surveillance en beheer zullen noodzakelijk zijn.
+
+**Patiëntinformatie**
+- Patiënt ID: 255790 NsL
+- Accountnummer: 255790 NsL
+- Medisch Dossier Nummer: 6246 15tCc
+- Zorgplan: Szz
+
+**Contactinformatie**
+- Email: vaPV@red-cross.org
+- Telefoon: 768-781-1303
+- Adres: Lars Claessens, Wheelwrights 86, 4712 Pomacentrus, België
+
+**Noodcontact**
+- Contact Naam: Lars Claessens
+- Contact Relatie: Lars Claessens
+- Contact Telefoon: 768-781-1303
+
+**Digitale Informatie**
+- IP Adres: 93.133.40.133
+- Gebruikersnaam: aessrs
+- URL: white.chavez.jimenez.net
+
+**Overige Informatie**
+- Apparaat ID: vHRKN-XEDq
+- Voertuig ID: KJE-7881
+- Sociale Zekerheidsnummer: 442-5708867-94
+- Licentienummer: LBKorZ-40y
+- Biometrische ID: IDlm-986zq
+- Faxnummer: 794-710-5745x1888
+
+**Handtekening**
+- Paulien van Veen, Geregistreerde Verpleegkundige
+- Locatie: Mountain Madness, vliegveld"
+

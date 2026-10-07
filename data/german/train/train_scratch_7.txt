@@ -1,0 +1,47 @@
+"**Krankenschwester Notizen**
+
+Patient: Nora Schäfer
+
+* Beschwerden: müde, krank fühlen
+* Bemerkenswerte Symptome: Laufende Nase, möglicher 83 Beginn
+* Kontrolle: Temp, BP, Resp, Sat (Alle normal)
+* Wahrscheinliche Diagnose: Erkältung
+
+Vitalwerte & Beobachtungen:
+1. Temperatur:  98.6F
+2. Blutdruck: 120/80 mmHg
+3. Atemfrequenz: 16 Atemzüge/min
+4. Sauerstoffsättigung: 97%
+
+Behandlungsplan: Hydratisieren, Ruhen, Vit C erhöhen
+
+**Kontaktzusammenfassung**
+* Hauptkontakt: +1-796-282-7072x1420
+* Email: oLehne@unwomen.org
+* Notfallkontakt: +1-796-282-7072x1420
+
+**Patienteninformationen**
+* Krankenakte: HDrd-NzDdc
+* Krankenhaus: Foundation Laboratories
+* Adresse: Nora Schäfer, Pieperstr. 270 184, 2240 Vorpommern-Rügen, Belgien
+
+**Weitere Details**
+* SSN: 349836-5695
+* Konto: SVEsBc bBy
+* Benutzername: Ae80I9Z7
+* Geburtsdatum: Freitag, 24. Dezember 1976
+* IP-Adresse: 108.91.255.0
+
+**Zusätzlicher Patientenkontext**
+* Beruf: Versicherungsrisikoprüfer
+* Arbeitgeber: Gaines, Mclaughlin und Reyes
+* Gesundheitsplan: WzJQwOFx 7WcoTtOPY
+* Arzt: Roman Lehner
+* Letzter bekannter Standort: Café
+
+**Geräte & Details**
+* Medizinische Geräte-ID: 885-EfQeUi
+* Biometrisches Profil-ID: wqLeeb 665
+
+_Hinweis: Bei Änderungen bitte die entsprechenden Abschnitte aktualisieren._"
+

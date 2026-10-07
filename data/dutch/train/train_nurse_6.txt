@@ -1,0 +1,53 @@
+"Verpleegkundige Narratieve Notitie
+
+Subjectief:
+
+Kees Kuipers kwam naar de kliniek en meldde wazig zicht en fotopsieën in één oog die de afgelopen dagen aanhouden. Deze symptomen werden voorafgegaan door griepachtige symptomen, waaronder koorts en hoofdpijn gemeld door de patiënt. Kees Kuipers ontkent enige significante medische voorgeschiedenis of recent contact met dieren.
+
+Objectief:
+
+De volledige bloedtelling (CBC) van Kees Kuipers en de resultaten van borst- en sinus-röntgenfoto's waren normaal. Testresultaten voor syfilis, cytomegalovirus, herpes simplex virus, humaan immunodeficiëntievirus, Bartonella, Histoplasma capsulatum, Toxoplasma gondii, Toxocara canis en Borrelia burgdorferi waren negatief. Oculair onderzoek toont de best gecorrigeerde gezichtsscherpte van 20/20 in het rechteroog en 20/25 in het linkeroog. Biomicroscopie, pupillaire reacties en intraoculaire druk liggen binnen de normale grenzen. Kleurenfundusfotografie toont subtiele diepe retinale witte vlekken in de achterste pool en rond de oogzenuwschijf van het linkeroog. Fluoresceïne-angiografie (FA) toont kransachtige punctate gebieden van vroege hyperfluorescentie en optische schijfkleuring in de late fase. Fundus autofluorescentie (FAF) en optische coherentietomografie (OCT) bevestigen verstoring van de ellipsoïde zone (EZ) en aanwezigheid van hypereflectieve en hyporeflectieve laesies in de buitenste nucleaire laag (ONL) en choroid, respectievelijk. OCT-angiografie (OCTA) toont geen stroombeperking.
+
+Beoordeling:
+
+Op basis van de symptomen en diagnostische bevindingen van Kees Kuipers wordt een retinale pathologie gesuggereerd. Dit kan mogelijk een ontstekings- of infectieus proces zijn, hoewel infectieuze oorzaken zijn uitgesloten door negatieve serologieën. Differentiële diagnose kan auto-immuun retinopathie of een gelokaliseerde retinale loslating omvatten.
+
+Plan:
+
+Het plan is om de toestand van Kees Kuipers nauwlettend te volgen met een vervolgafspraak gepland over een paar weken om de toestand opnieuw te beoordelen. Kees Kuipers is geadviseerd om onmiddellijk elke verslechtering van de symptomen te melden. Verdere tests of een verwijzing naar een retinaspecialist kunnen worden overwogen op basis van de progressie of verandering in symptomen.
+
+[Tabel: Persoonlijke Gezondheidsinformatie (PHI)]
+| PHI Type | Masked Placeholder |
+|----------|-------------------|
+|ACCOUNT|vRJXX-5918|
+|ADRES|Kees Kuipers, Anadems 111, 7460 Sigillate, Nederland|
+|LEEFTIJD|47|
+|BIOID|067-sfzGVM|
+|STAD|Early|
+|LAND|België|
+|DATUM|22 aug. 1987|
+|APPARAAT|lInWWu tIP|
+|DOKTER|Willem Maas|
+|EMAIL|Wilaa@icloud.com|
+|GEZONDHEIDSPLAN|YNpzAe|
+|ZIEKENHUIS|Borda Hospital|
+|IDNUM|vRJXX-5918|
+|IPADRES|59.109.11.94|
+|LICENTIE|168022 WbO|
+|LOCATIE-ANDER|treinstation|
+|MEDISCH DOSSIER|0930 CpJij|
+|ORGANISATIE|Reed Ltd|
+|PATIËNT|Kees Kuipers|
+|TELEFOON|4698625227|
+|BEROEP|Hydrografisch landmeter|
+|SOCIALE ZEKERHEID|975-9883478-06|
+|STAAT|58|
+|STRAAT|45862 Teresa Mill Suite 910|
+|URL|http://torres.biz/categorycategory.htm|
+|GEBRUIKERSNAAM|qVglMpeG|
+|VOERTUIG|588 AGT|
+|POSTCODE|7460|
+|FAX|493.559.9183x15770|
+
+Ondertekend, Willem Maas"
+

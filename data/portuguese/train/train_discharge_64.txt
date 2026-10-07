@@ -1,0 +1,47 @@
+Resumo de Alta
+
+# Cabeçalho
+Disposição de Alta: Casa com Serviços
+
+# Seção de Alergias e Intolerâncias
+Nenhuma alergia conhecida relatada por Pedro Coelho.
+
+# Seção do Curso Hospitalar
+Pedro Coelho foi admitido com queixas de dor abdominal persistente e hiperventilação notável. O exame clínico e os testes diagnósticos subsequentes confirmaram uma hérnia.
+
+# Seção de Diagnóstico de Alta
+Diagnóstico Final: Hérnia
+
+# Seção de Plano de Tratamento
+Pedro Coelho foi aconselhado a fazer o acompanhamento com seu médico de atenção primária Luiz Moraes. Sessões de fisioterapia foram planejadas para ajudar a melhorar a força muscular. A continuação do monitoramento dos sintomas e check-ups regulares são necessários.
+
+# Seção de Consultas Hospitalares
+Consultas foram feitas com a equipe de cirurgia geral para possível intervenção cirúrgica. A decisão final será tomada na visita de acompanhamento com o Luiz Moraes.
+
+# Seção de Procedimentos
+Nenhum procedimento cirúrgico foi realizado durante esta estadia hospitalar. A decisão de prosseguir com a cirurgia de reparo de hérnia será baseada na progressão da hérnia e na sintomatologia do Pedro Coelho.
+
+# Seção de Resultados
+Os resultados laboratoriais mostraram resultados normais para contagem completa de sangue, eletrólitos e função renal. No entanto, a presença da hérnia foi confirmada através de um ultrassom abdominal.
+
+# Seção de Medicamentos de Alta
+Gestão da dor: Medicamento para dor de venda livre, conforme necessário.
+Nota: Informações detalhadas sobre medicamentos serão fornecidas pelo departamento de Farmácia na visita de acompanhamento.
+
+# Seções Adicionais
+
+## Seção de Queixa Principal
+Pedro Coelho foi admitido com queixas principais de dor abdominal severa e hiperventilação.
+
+## Seção de Diagnóstico de Admissão
+Diagnóstico Preliminar: Hérnia
+
+## Seção de Instruções de Alta Hospitalar
+Pedro Coelho é aconselhado a seguir uma dieta rica em fibras e manter a hidratação. Evite esforço físico e levantamento de peso. Acompanhe com o médico de atenção primária Luiz Moraes dentro de uma semana após a alta.
+
+## Seção de Sinais Vitais
+Na alta, os sinais vitais estavam estáveis. Frequência Cardíaca: 72 batimentos por minuto, Pressão Arterial: 120/80 mmHg, Temperatura: 37 C, Frequência Respiratória: 16 respirações por minuto.
+
+Este Resumo de Alta fornece um instantâneo do curso hospitalar de Pedro Coelho. O plano final para possível intervenção cirúrgica será decidido na consulta de acompanhamento com o Luiz Moraes. Encorajamos Pedro Coelho a manter todas as consultas e seguir todos os conselhos médicos dados.
+
+NOTA: Este documento não contém Informações de Saúde Pessoal (PHI). Todos os dados presentes no documento são sintéticos e não se relacionam com nenhum paciente real. Qualquer semelhança com pessoas reais, vivas ou mortas, é puramente coincidência.

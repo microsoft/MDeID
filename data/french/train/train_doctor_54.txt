@@ -1,0 +1,17 @@
+"Notes du médecin:
+
+S: 
+Le patient Loane Hoarau est un patient atteint d'acromégalie depuis longtemps. Les symptômes notables comprennent la dyspnée à l'effort et l'essoufflement (2 ans), un épisode récent de présyncope (il y a 2 semaines). Loane Hoarau traité par octréotide pendant environ 2 décennies, 2 procédures de radiochirurgie stéréotaxique au cours des 10 dernières années. Aucun antécédent familial à noter. Nie l'hypertension, le diabète sucré, l'apnée du sommeil, la mort cardiaque subite. Pas de tabagisme, consommation d'alcool.
+
+O: 
+IMC indiquant un surpoids, 39 kg/m2. Caractéristiques acromégales distinctes présentes : langue, lèvres, mains, pieds agrandis. Signes vitaux : Tension artérielle - 110/60 mmHg, Pouls - 92 battements/min, rythme sinusal, battements prématurés irréguliers, troisième bruit cardiaque pathologique, souffle systolique. L'ECG montre un BBDG, une fonction cardiaque NYHA de stade III-IV. L'IRM a confirmé un macroadénome hypophysaire. Résultats de laboratoire : BNP élevé (740 pg/ml), hormone de croissance et IGF-1 excessives.
+
+A:
+Diagnostic principal : Acromégalie. Complications : Insuffisance cardiaque (évidente à partir du BNP élevé, NYHA stade III-IV), macroadénome hypophysaire. Diagnostics différentiels : Autres causes de cardiomyopathie, effets secondaires à long terme de l'excès d'hormone de croissance.
+
+P: 
+Continuer l'octréotide, surveiller l'efficacité et les effets secondaires. Prévoir une référence à Lily Dufour (cardiologie) pour la gestion des problèmes cardiaques. Envisager d'ajuster les médicaments pour l'insuffisance cardiaque en fonction des recommandations de Lily Dufour. Des suivis réguliers pour le contrôle du niveau d'hormones et de la fonction cardiaque sont nécessaires. Éduquer Loane Hoarau sur la surveillance régulière et l'adhésion au plan de traitement. Discuter des options chirurgicales pour le macroadénome hypophysaire avec Lily Dufour (neurochirurgien).
+
+Lily Dufour
+Daniel-Benjamin"
+

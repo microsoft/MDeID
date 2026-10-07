@@ -1,0 +1,35 @@
+"Paciente Juan Carlos Paredes - niño de 94 años. 
+
+S: 
+- Se presentó en la inauguración con dificultad respiratoria, sin fiebre
+- Historia de un mes de tos y sibilancias - no responde a antibióticos y esteroides 
+- Diagnóstico de asma sospechado
+- Sin antecedentes: asfixia, disfagia, babeo, atopia, problemas perinatales 
+
+O: 
+- Consciente, afebril - Temp: 37.5\u00b0C
+- Frecuencia cardíaca: 130 lpm, Frecuencia respiratoria: 40 lpm, Saturación de O2: 93%
+- Recesión supraesternal, ronquidos dispersos, sibilancias difusas
+- Sin signos: deshidratación, desnutrición, cianosis
+- Examen cardiovascular: normal
+- Pruebas de laboratorio: CBC normal, PCR: 14 mg/l
+- Rayos X: cuerpo extraño (mediastino superior)
+
+A: 
+- Diagnóstico principal: Dificultad respiratoria debido a cuerpo extraño (botón de ropa) en el esófago torácico superior
+- Diagnóstico erróneo: Asma
+- Diagnóstico diferencial: Asma, otras causas de dificultad respiratoria pediátrica
+- Pronóstico: Bueno, después de la extracción del cuerpo extraño
+
+P: 
+- Extracción del cuerpo extraño mediante hipofaringoscopia bajo sedación
+- Manejo postoperatorio: líquidos IV, corticosteroides (reducir la inflamación periesofágica)
+- Alta: 24 horas después del procedimiento
+- Dieta: Líquidos claros
+- Sin complicaciones ni recurrencia de síntomas
+- Seguimiento: Monitorear daño esofágico, problemas respiratorios
+- Educación del cuidador: Prevenir la aspiración de cuerpos extraños
+
+Lucía Molina
+Land"
+

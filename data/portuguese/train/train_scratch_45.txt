@@ -1,0 +1,69 @@
+"===================
+INFORMAÇÕES DO PACIENTE
+===================
+-Nome do Paciente: Bernardo Moraes
+-Nome de usuário: MBernar
+-Endereço: Bernardo Moraes, Trecho Nogueira, 72 164, 5095 Tambaú, Portugal
+-Telefone: 746.826.0727x946
+-Email: uizab@yandex.com
+-Data de Nascimento: 26/03/1971
+-Segurança Social: 746.350.550-13
+-Conta: qsGg pZeOZ
+
+===================
+DADOS MÉDICOS
+===================
+-Hospital: Sugar Grove Cemetery
+-Médico: Luiza Barbosa
+-Registro Médico: Vis-7586Vq
+-Plano de Saúde: QIgc0Dtg
+-IDNUM: qsGg pZeOZ
+-Dispositivo: 16471 243E
+-LICENÇA: 74399-HQXZ
+-IPADDRESS: 185.109.122.131
+-BIOID: jZwoy DRec
+
+===================
+SINAIS VITAIS
+===================
+-Temp: 98.4 F
+-Pulso: 78 bpm
+-Respiração: 22 rpm
+-PA: 120/80 mmHg
+
+===================
+OBSERVAÇÕES
+===================
+- Aparência Geral: O paciente continua a relatar uma sensação de coceira por todo o corpo. 
+- Pele: Pálida, várias manchas vermelhas pelo tronco
+- Olhos: Icterícia notável 
+
+===================
+AVALIAÇÃO
+===================
+- Provável Malária, esfregaço de sangue solicitado para Miller, Cardenas and Cowan. 
+-Aguardando resposta do laboratório em supermercado para confirmar o diagnóstico.
+
+===================
+PLANO
+===================
+-Avance na terapia da malária conforme sugerido por Luiza Barbosa 
+-Transfusão de sangue se necessário
+-Consulta de acompanhamento após resultado de Miller, Cardenas and Cowan
+
+===================
+INFORMAÇÕES ADICIONAIS
+===================
+-Veículo do paciente: 4O GD897
+-Profissão: Gerente de patrimônio
+-Contato de emergência do paciente: Bernardo Moraes
+-Telefone de contato de emergência: 746.826.0727x946
+
+===================
+Rodapé
+===================
+Assinatura eletrônica do médico: Luiza Barbosa
+Hora de conclusão: 26/03/1971
+URL do Hospital: https://carpenter.biz/app/wp-content/appterms.asp
+Fax do Hospital: 378.667.2407"
+

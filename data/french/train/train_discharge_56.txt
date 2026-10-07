@@ -1,0 +1,58 @@
+**Résumé de Sortie**
+---
+  
+**Patient**: Marcel Steiner
+
+**Médecin**: Sara Fischer**Hôpital**: École Nationale des Beaux-Arts
+
+**Numéro de Dossier Médical**: 975533 Znz
+
+**Date d'Admission**: mercredi 7 juillet 2021
+
+**Date de Sortie**: mercredi 7 juillet 2021
+
+**Diagnostic à l'Admission**: maladie de reflux gastro-œsophagien
+
+---
+
+**Raison de l'Hospitalisation**:
+Le patient a été admis en raison de douleurs thoraciques persistantes et d'une sensation de brûlure, cohérentes avec la maladie de reflux gastro-œsophagien.
+
+**Procédures Effectuées**:
+Un examen approfondi a été effectué, y compris une palpation abdominale et une endoscopie.
+
+**Soins, Traitement et Services Fournis**:
+Le patient a immédiatement été placé sous observation et un régime médicamenteux pour la maladie de reflux gastro-œsophagien a été initié. Cela comprenait des inhibiteurs de la pompe à protons et des modifications du mode de vie.
+
+**Diagnostic de Sortie**:
+L'état du patient s'est considérablement amélioré au cours de son séjour et les symptômes de la maladie de reflux gastro-œsophagien étaient bien gérés lors de la sortie.
+
+**État du patient et disposition à la sortie**:
+Le patient a montré une réduction significative des symptômes, en particulier des douleurs thoraciques et une sensation de brûlure. Le patient est sorti dans un état stable avec des instructions pour des soins de suivi.
+
+**Informations Fournies au Patient et à la Famille**:
+Le patient et la famille ont été informés de la nature de la maladie de reflux gastro-œsophagien et des suggestions de modifications alimentaires et de changements de mode de vie qui peuvent aider à gérer la maladie ont été fournies. Ils ont également été informés sur le médicament et alertés pour revenir si les symptômes réapparaissent.
+
+**Dispositions pour les Soins de Suivi**:
+Il est conseillé au patient de continuer le médicament prescrit et de prendre un rendez-vous de suivi avec leur fournisseur de soins de santé personnel dans une semaine suivant la sortie. Le patient doit également surveiller ses symptômes et signaler tout changement ou aggravation des symptômes.
+
+---
+
+**Médicaments à la Sortie**: 
+1. Inhibiteur de la pompe à protons : À prendre comme indiqué
+2. Antiacides : À prendre au besoin
+
+**Allergies et Intolérances**:
+Aucune allergie ou intolérance connue au moment de la sortie.
+
+**Recommandations pour le Suivi**:
+Il est conseillé au patient de suivre un régime équilibré, d'éviter les repas tardifs et de gérer le stress. Ils sont également encouragés à maintenir un poids santé et à éviter les aliments qui déclenchent les symptômes de reflux.
+
+**Instructions de Sortie**:
+Il est conseillé au patient de prendre tous les médicaments comme indiqué. S'il y a une aggravation des symptômes, ou si les symptômes persistent au-delà des deux prochaines semaines, il est conseillé au patient de chercher une attention médicale immédiate.
+  
+
+**Signature du Médecin**:
+Sara Fischer---
+
+Il s'agit d'un document synthétisé et toute relation avec des événements ou des personnes réels est purement fortuite. Aucune information de santé personnelle (PHI) n'est incluse dans ce document.

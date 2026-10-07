@@ -1,0 +1,61 @@
+"Nota de Enfermería
+-----------------------
+ 
+Paciente: Josefina León
+
+Signos vitales:
+- PA: 120/80 mmHg
+- FC: 75 lpm
+- Temp: 98.6 F
+- SpO2: 98%
+
+Observaciones: 
+- Sibilancias, tos, dificultad para respirar
+- Signos de uso del inhalador de Hickman Ltd
+- Hipersensibilidad 
+
+Tratamientos:
+- Aumento de la dosis del 915-634273
+- Añadido tratamientos con nebulizador aprobados por s8IOvuKpj8x
+
+En progreso:
+- Monitoreo de 101
+- Consultar a Anna Kosunen sobre los síntomas
+- Esperando los próximos análisis del 2 jul 2012
+
+Comunicación:
+- Miembro de la familia - Josefina León
+- Contacto de emergencia: 8923505422
+
+Información del documento:
+- Nombre de usuario de la enfermera: osefinL
+- ID: QBDm-rhZQS
+- URL del informe:  www.jackson.com/categories/blog/apppost.php
+- Dirección IP: 216.175.122.183
+
+Nota adicional:
+- Paciente en la habitación estadio
+- Documento escaneado a ena@protonmail.com
+
+Referencias:
+- Especialista en alergias - Anna Kosunen
+- Referido por - Anna Kosunen
+
+Detalles varios:
+- Número de registro médico: LdOwxv GeD
+- Facturación a la cuenta: QBDm-rhZQS
+- Vehículo en el estacionamiento del hospital: EHB 7919
+
+------------------------------------
+N.B. Escaneo biométrico completado con 48-nigKGTf
+
+------------------------------------
+- Detalles de la licencia: 816181 071
+- Seguridad Social del paciente: 424-19-2884
+- Dirección del paciente: Josefina León, Pasaje Sur Roldán 259 Edif. 901, Depto. 491, 72, 7323 Cabildo, Spain
+- Ciudad del paciente: Cabildo
+- Estado del paciente: 73
+- País del paciente: Spain
+- Código postal del paciente: 7323
+- Fax del paciente: 001-608-819-7322x952"
+

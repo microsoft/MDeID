@@ -1,0 +1,61 @@
+"Note Narrative de l'Infirmière pour un Patient atteint de Polyarthrite Rhumatoïde et de Suspicions de Cancer de la Thyroïde
+
+Informations Subjectives :
+
+Le patient Victor Renard signale des migraines, qui ont commencé suite à un accident de la route entraînant une blessure crânio-cérébrale et une trachéostomie. Le patient a une histoire de polyarthrite rhumatoïde depuis 49 ans, traitée avec du méthotrexate (2,5 mg trois fois par jour) et du topiramate (200 mg deux fois par jour) pour les migraines.
+
+Informations Objectives :
+
+L'examen clinique a révélé une glande thyroïde impalpable et indolore. Les tests de laboratoire ont montré un facteur rhumatoïde positif, avec des anticorps antithyroglobuline et thyroïde peroxydase normaux (16 U/ml et 16,7 U/ml, respectivement). Une biopsie par aspiration à l'aiguille guidée par échographie de la thyroïde a détecté des nodules dans le pôle inférieur du lobe thyroïdien gauche, suggérant une malignité. Les tests de fonction thyroïdienne ont indiqué un statut euthyroïdien avec une TSH à 0,89 μIU/ml, une T3 à 1,30 ng/mL, et une T4 à 7,2 μg/dl. L'examen post-thyroïdectomie a montré des lésions nécrosantes correspondant à des nodules rhumatoïdes.
+
+Évaluation :
+
+Diagnostic primaire d'hypothyroïdie secondaire à l'implication rhumatoïde de la glande thyroïde, avec un diagnostic différentiel de malignité thyroïdienne suggérée mais non confirmée. La présence de nodules rhumatoïdes dans la glande thyroïde complique le tableau clinique.
+
+Plan :
+
+Initier un traitement à la thyroxine pour gérer l'hypothyroïdie et maintenir le statut euthyroïdien. Surveiller régulièrement la fonction thyroïdienne. Procéder à une thyroïdectomie totale pour évaluer et gérer une éventuelle malignité. Après l'opération, continuer une surveillance et une gestion étroites de la polyarthrite rhumatoïde, en ajustant les médicaments au besoin pour contrôler l'inflammation systémique et prévenir d'autres complications auto-immunes. Éduquer le patient Victor Renard sur l'importance de l'adhésion au traitement et du suivi régulier pour les tests de fonction thyroïdienne et l'évaluation rhumatologique.
+
+Note de bas de page :
+
+Informations de Contact d'Urgence du Patient :
+Téléphone : (796)340-3664
+Email : ar@microsoft.org
+
+Signature du Fournisseur : Kilian Tessier
+
+Horodatage : 15 novembre 1997
+
+Identifiants du Patient :
+Numéro de compte : FxdQ 55706
+Numéro de dossier médical : 18-272oEct
+Numéro de série de l'appareil : xjiXLX 858
+Nom d'utilisateur : U3T82pry
+Licence : iibs-89691
+
+Nom de l'Hôpital : Governor Juan F. Luis Hospital & Medical Center
+Emplacement de l'Hôpital : université
+
+Plan de Santé : DoRYd1
+Profession : Chercheur en sciences physiques
+Organisation : Peterson, Watson et Cabrera
+
+Adresse du Patient : Victor Renard, 16 90718 Séverine Heights, 6586 Chester, France
+Ville du Patient : Uetersen
+Pays du Patient : Suisse
+État du Patient : 85
+Rue du Patient : 671 James Keys Apt. 149
+Code Postal du Patient : 6586
+Fax du Patient : 4802876982
+
+Identifiants Uniques du Patient :
+Numéro de véhicule : 028 UG5
+Numéro de sécurité sociale : 3 03 83 11 670 085
+Identifiant biométrique : YqHB iOTyn
+Adresse IP : 86.88.15.16
+Numéro d'ID : FxdQ 55706 
+
+URL : http://www.hughes.com/wp-content/tags/tagsfaq.html
+
+"
+

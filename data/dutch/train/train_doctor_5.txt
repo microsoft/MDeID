@@ -1,0 +1,36 @@
+"Dokterskrabbel Notitie:
+
+- Patiënt: Milan Bogaerts
+- ID: 271 46471w
+- Leeftijd: 67
+- Conditie: Gevorderd hartfalen
+- DCM geschiedenis: Ja
+- Apparaat: CRT-D (7 jaar geleden), HeartMate II® LVAD (4 jaar geleden, brug naar transplantatie)
+- Recente symptomen: VF, rechter hartfalen, levercongestie
+- Behandeling: Amiodarone, nifekalant, mexiletine, lidocaïne, PDE5-remmer, diuretica, LVAD-snelheidsoptimalisatie
+
+Observaties (Initieel - Post LVAD-implantatie):
+- EF: 13%
+- LV-dilatatie (diastole): 51 mm
+- Aortaregurgitatie: Triviaal
+- RV-contractie (FAC): 33%
+- VF: Aanhoudend
+- AF: Toenemende frequentie (paroxysmaal)
+- Totaal Bilirubine: Verhoogd (verslechterende leverfunctie)
+
+Beoordeling:
+- Primaire diagnose: Gevorderd hartfalen (DCM)
+- Complicaties: VF, rechter hartfalen
+- Differentiële diagnoses: Progressie van hartfalen, aritmie-geïnduceerde cardiomyopathie, apparaatgerelateerde complicaties
+- Prognose: Voorzichtig
+
+Plan:
+- Blijf monitoren: Cardiale functie, leverenzymen
+- Medicatieaanpassing: Zo nodig (aritmieën, symptomen van hartfalen)
+- LVAD-instellingen: Zorg voor voldoende perfusie
+- Vervolgafspraak: Regelmatige afspraken, controleer conditie & apparaatfunctie
+- Educatie: Herken symptomen van hartfalen, naleving van behandelplan
+- Consultatie: Quentin Wouters (harttransplantatieteam)
+
+Notitie door: Quentin Wouters (Quarry manager) bij Selfe/Adams LLC"
+

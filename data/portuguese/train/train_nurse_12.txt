@@ -1,0 +1,45 @@
+"**Nota Narrativa de Enfermagem**
+
+S: Tiago Ribeiro foi levado para a sala de emergência apresentando sintomas de vômito com sangue e desorientação. O histórico do paciente inclui um padrão de diabetes mal controlado. Sintomas adicionais relatados pelo paciente foram náusea e epigastralgia, que ocorrem desde 30/12/1996.
+
+O: Ao exame, o paciente estava em estado de choque com sinais vitais indicando desidratação severa. Apesar dos esforços para reidratar, a condição do paciente não melhorou. Os resultados laboratoriais mostraram um nível de glicose no sangue de 470 mg/dL, gasometria arterial com pH de 7.2, PCO2 de 25.2 mmHg, HCO3 de 9.9 mEq/L, PO2 de 169 mmHg, e um gap anionico de 24.3 mEq/L. Além disso, os testes urinários foram positivos para cetonas e glicose. Após intubação e endoscopia de emergência, foi observada pigmentação preta em toda a mucosa esofágica. Tomografias computadorizadas mostraram espessamento edematoso circunferencial da parede esofágica e leve efusão pleural, mas inicialmente, não havia sinais de perfuração ou ar livre no mediastino. No entanto, uma tomografia computadorizada no dia 7 sugeriu perfuração esofágica, pois indicou um aumento significativo na efusão pleural direita e ar livre no mediastino.
+
+A: O diagnóstico primário foi necrose esofágica aguda (NEA) complicada por cetoacidose diabética. A condição do paciente piorou devido à suspeita de perfuração esofágica, conforme sugerido pelo aumento da efusão pleural e a presença de ar livre no mediastino.
+
+P: Tiago Ribeiro foi tratado com antibióticos, medidas de controle glicêmico, um inibidor da bomba de prótons e plasmaferese, o que levou à estabilização inicial. Após o diagnóstico de perfuração esofágica, foi realizada uma toracoscopia de emergência, e a parte necrótica do esôfago foi ressecada. Tubos de drenagem foram colocados na cavidade torácica e no mediastino. O paciente continuará sendo monitorado de perto, e o controle do diabetes será enfatizado para prevenir futuras complicações. Consultas adicionais com gastroenterologia e endocrinologia estão planejadas para otimizar o tratamento e a recuperação.
+
+**Informações do Paciente:**
+
+- Nome: Tiago Ribeiro
+- Idade: 95
+- Número do Prontuário Médico: rxzMl POOX
+- Endereço: Tiago Ribeiro, Aeroporto da Mata 20, 2155 Campeche, Portugal
+- Telefone: 801.475.8421
+- Email: alveo@who.int
+- Médico: Diego Gonçalves
+- Plano de Saúde: CWOtkB
+- Data de Admissão: 30/12/1996
+
+**Informações da Enfermeira:**
+
+- Nome: 
+- Número de ID: RLpnnS-rNH
+- Licença: MgtjD-5356
+- Contato: 801.475.8421
+
+**Informações do Hospital:**
+
+- Nome: University of Pittsburgh School of
+- Endereço: Tiago Ribeiro, Aeroporto da Mata 20, 2155 Campeche, Portugal
+- Contato: 801.475.8421
+
+Nota: Este documento não inclui nenhum elemento PHI que não faça sentido no contexto de uma nota de enfermagem. Tais elementos estão incluídos em um cabeçalho, rodapé, lista, tabela ou outras seções mais estruturadas da nota.
+
+**Rodapé:**
+
+- Documento criado em: 30/12/1996
+- URL do Documento: thomas.com
+- Nome de usuário: 5P1X0rDG
+- Endereço IP: 115.188.102.190
+- Fax: 2452215490"
+

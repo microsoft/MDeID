@@ -1,0 +1,38 @@
+"**Notes de l'infirmière pour le patient avec des antécédents médicaux complexes**
+
+Note narrative :
+
+La patiente Danica Fortin a signalé un épisode significatif de sang rouge vif par rectum avec des caillots de sang. La patiente a des antécédents médicaux complexes, dont 365-uJWhza l'hypertension, l'hyperlipidémie, le diabète de type 2, la maladie coronarienne avec trois infarctus du myocarde antérieurs, des accidents vasculaires cérébraux récurrents nécessitant une anticoagulation par warfarine, la maladie de reflux gastro-œsophagien, l'asthme, et un cancer de l'endomètre traité par radiothérapie, curiethérapie, et hystérectomie abdominale totale avec salpingo-oophorectomie bilatérale. Danica Fortin nie avoir des douleurs abdominales, des nausées, des vomissements, de la diarrhée, de la constipation, ou de la méléna.
+
+L'examen physique a révélé une légère sensibilité abdominale du côté gauche mais était par ailleurs sans particularité. L'examen rectal a montré des hémorroïdes non saignantes et pas de sang visible. Une coloscopie récente a identifié trois polypes minuscules dans le côlon transverse, confirmés comme des adénomes tubulaires. Les analyses de sang ont montré une élévation des globules blancs à 14,3k/uL, une hémoglobine basse à 9,6 g/dL, une créatinine légèrement élevée à 1,2, et une azotémie élevée à 39. Le rapport international normalisé était de 2,0. Une coloscopie subséquente a révélé une lésion large, fongique, friable et ulcérée.
+
+Le diagnostic principal est une grande lésion ulcérée dans le côlon, probablement à l'origine de l'hématochézie. Les diagnostics différentiels incluent le cancer colorectal ou une forme sévère de maladie inflammatoire de l'intestin, compte tenu des antécédents du patient et de sa présentation actuelle. L'anémie du patient et les marqueurs inflammatoires élevés sont préoccupants et nécessitent une enquête plus approfondie. 
+
+La patiente a été admise à Peebles pour une évaluation et une prise en charge plus approfondies. Une consultation d'équipe multidisciplinaire est prévue pour discuter des options de traitement pour la lésion identifiée. La patiente sera surveillée de près pour les changements de symptômes et de signes vitaux. Des transfusions sanguines peuvent être envisagées si le taux d'hémoglobine baisse davantage ou si la patiente présente des symptômes d'anémie significative. Le traitement anticoagulant par warfarine sera géré avec soin dans le contexte du saignement actuel et des interventions chirurgicales potentielles. Une éducation du patient sera fournie concernant les résultats et les investigations et traitements prévus pour assurer la compréhension et l'adhésion.
+
+Détails du patient :
+- Numéro de dossier médical : 365-uJWhza
+- Numéro de compte : FJiTb-syaQ
+- Identifiant de l'appareil : 75856 9340
+- Nom d'utilisateur : HlAdPbAm
+- Identifiant du véhicule : 5EQ3458
+- Numéro de sécurité sociale : 968280-6325
+- Identifiant de licence : 93406-01LW
+- Identifiant biométrique : RfK-940ATT
+- Adresse IP : 39.151.24.83
+- Identifiant personnel : FJiTb-syaQ
+- Âge : 26
+- Adresse : Danica Fortin, 57987 rang Guy 47, 8951 Bonnefonds, Suisse
+- Hôpital : Peebles
+- Localisation : théâtre
+- Plan de santé : 8yT
+- Profession : Médecin généraliste
+- Organisation : Garrett-Riley
+- Docteur : Josef Weber
+- Email : osefWe@microsoft.org
+- Téléphone : 520.988.9569
+- URL :  phillips.com/searchsearch.html
+- Fax : 2952858679
+
+Infirmier Josef Weber"
+

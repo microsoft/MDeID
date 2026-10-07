@@ -1,0 +1,33 @@
+"Nota do Doutor Scratch
+
+Notas do Rafael Santos:
+
+Madalena Ramos 24 anos. Recentemente, dormência, paralisia - pé esquerdo. Impacto no dia a dia. Preocupada com o diagnóstico.
+
+Resultados: 
+- Ressonância magnética: Massa tumoral L2-L4, compressão da dura-máter.
+- PET/CT: Captações nodulares de FDG - vértebras, costelas, pelve, fêmur.
+- Biópsia da vértebra L5: Sem células tumorais.
+- Testes de LCR: Normal. 
+- Microscópico: Células mononucleares (CD33+, CD68+, CD3-, CD20-, CD34-, CD56-) = EM de novo.
+- Contagem sanguínea, coagulação: Normal.
+- Citogenética: 46, XY, translocação PML/RAR\u03b1-.
+- PET/CT pós-tratamento: Sem captação anormal. 
+- 4 meses pós-tratamento: Recidiva de EM, múltiplos tumores do lado direito. 
+
+Diagnóstico: 
+- Primário: EM de novo.
+- Diferencial: Outros tumores espinhais, malignidades sistêmicas.
+- Prognóstico: Cauteloso, recidiva recente indica EM agressiva/resistente.
+
+Tratamento:
+- Inicial: Irradiação local, quimioterapia (Daunorubicina, Citarabina, Citarabina em alta dose) => Alívio temporário dos sintomas, anormalidades do PET/CT esclarecidas.
+- Devido à recidiva: Discutir outras opções de tratamento -> quimioterapia adicional, terapias experimentais.
+- Monitoramento regular: PET/CT, exames sistêmicos.
+- Educação do paciente: Natureza da doença, expectativas de tratamento, importância da comunicação com a equipe de saúde. 
+
+Rafael Santos 78221 2264
+Robinson, Marsh e Adams
+(927)491-4269
+ls@msf.org"
+

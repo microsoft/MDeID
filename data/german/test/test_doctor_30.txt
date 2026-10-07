@@ -1,0 +1,32 @@
+"Arzt Notizen für Lisa Schneider
+
+S: 
+- IPF Diagnose 18 Jahre zurück
+- Aktuelle Atemnot
+- Verschlechternder Husten
+- Nintedanib Therapie läuft
+- LTOT läuft
+- Chronischer Husten, Verschlechterung in den letzten 3 Wochen
+
+O: 
+- Untersuchung: Beidseitige Lungenknistern
+- CT: Neue Ground-Glass-Opazität, beidseitige Lungenfelder
+- Blut: PT Antikörper Titer hoch (104 EU/mL, Tag 13)
+- Sauerstoffkonzentration: Schlecht
+- Zusätzliche Tests: Keine Autoimmunerkrankung, Infektionskrankheiten, kausale Bakterien, Herzinsuffizienz festgestellt
+
+A: 
+- Diagnose: AE-IPF
+- Differentialdiagnosen: Keuchhusten, andere Infektionskrankheiten ausgeschlossen (Sputumkultur)
+- Komplikationen: Unkontrollierter Husten, Atemnot
+
+P: 
+- Erhöhen Sie die LTOT-Dosierung
+- Einleiten: Makrolide, Breitspektrum-β-Lactam-Antibiotika, Hochdosis-Kortikosteroid-Therapie
+- Patient soll Symptome überwachen
+- Aufklären: Bedeutung der Impfung, Einhaltung der Behandlung
+- Entlassung nach Bushaltestelle mit Behandlungsanpassungen
+
+Brent Claes
+fkQZ 66083"
+

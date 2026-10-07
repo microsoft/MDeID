@@ -1,0 +1,66 @@
+"**Verpleegkundige Krasnotitie**
+
+---
+
+**Patiëntinformatie**:
+- Patiënt: Amélie Petit
+- Leeftijd: 57
+- Medisch dossier: 26414-BdTS
+- Geregistreerd bij: Ellison, Griffith en Mcbride
+- Adres: Amélie Petit, Feneration 110, 5765 Cadere, België
+
+**Vitalen**:
+- BP: 120/80
+- Temp: 98.6F
+- Pols: 80 BPM
+- Ademhalingen: 16/minuut
+
+---
+
+**Noodcontact**:
+- Naam: Amélie Petit
+- Telefoon: 529-685-5918x517
+- Relatie: ...
+
+**Verzekeringsinformatie**:
+- Gezondheidsplan: 1qU
+- Account: 81 WSvLpNV
+
+---
+
+**Observaties**:
+- Nekongemak, beperking van beweging
+- Cervicale wervelkolom - degeneratieve veranderingen opgemerkt
+- Mogelijke cervicale spondylose
+
+**Behandeling**:
+- Fysiotherapie sessies - geadviseerd
+- Pijnmedicatie - toegediend
+
+---
+
+**Artsinformatie**:
+- Behandelend arts: Pauline De Smedt
+
+**Interacties**:
+- E-mail: aedt@un.org
+- Contact op: http://www.richards.com/explore/listlogin.php
+
+**Apparaatinformatie**:
+- Apparaat: 22442 11PN
+
+---
+
+**Aanvullende informatie**:
+- Sociale zekerheid: 116128903
+- Licentie: 34-953720i
+- Biometrische ID: QjH qlxsNq
+- IP-adres: 1.34.151.103
+- Voertuig: LTJ 610
+
+--- 
+
+**Handtekening**
+- Verpleegkundige: ...
+- Datum: 17 dec. 1976"
+

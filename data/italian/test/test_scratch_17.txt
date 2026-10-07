@@ -1,0 +1,45 @@
+"```
+Nota dell'Infermiera Scratch: 
+===================
+Paziente: Gaia Marino
+MRN: 81549-GodO
+
+    Vitalità & Osservazioni:
+    ----------------------
+    BP: 110/70 
+    Pulsazioni: 80 bpm 
+    Temp: 98.6 \u00b0F 
+    RR: 16 bpm 
+    O2: 100% su RA 
+    Peso: 70 Kg 
+    Altezza: 170 cm
+
+    Medico:
+    --------
+    Diagnosi: Ittero, causa in corso di indagine
+    Medicazione: In attesa delle ordini del dottore Lara Schmid
+    Laboratorio: Ordinati test di funzionalità epatica, in attesa di risultati XeEUsY 413
+
+    Commenti: Il paziente presenta ittero. Nessuna febbre. Nessun dolore al petto. 
+
+Informazioni di Contatto:
+--------------------
+Telefono: 001-230-878-3541x97317
+Indirizzo: Gaia Marino, Borgo Niscoromni, 321 Piano 0 151, 9169 Rossano, Svizzera
+Contatto di Emergenza: up2FRvcC
+
+Informazioni Aggiuntive:
+----------------------
+Piano Sanitario: Amf
+Ammesso da: mercato
+Indirizzo IP: 217.103.133.254
+Professione: Autore tecnico
+Organizzazione: Payne PLC
+Veicolo: 115 2EJ
+SSN: 265292-5881
+Licenza: vAPsGQ-09e
+Biometria: 4851 cPGZs
+
+```
+"
+

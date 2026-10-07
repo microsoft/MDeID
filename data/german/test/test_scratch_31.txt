@@ -1,0 +1,51 @@
+"Pflegekratznotiz
+-------------------------
+Patient: Anna Steiner
+Alter: 84
+Zustand: Impetigo
+
+Hauptbeobachtungen
+-------------------------
+1. Geschwüre im Gesicht bemerkt, hauptsächlich in der Nähe von Nase und Mund. 
+2. Vorgestellt von nStein.
+3. Wohnadresse: Anna Steiner, Küngstrasse 58 121, 7026 Berghofen Stadt Dortmund, Österreich
+
+Vitalwerte 
+-------------------------
+BP: 120/80
+Puls: 80 bpm
+Temp: 98.6 F
+Resp: 16 bpm
+
+Untersuchungen
+-------------------------
+1. Laborarbeit: Bestellt, erhalten von Théo Hendrickx.
+2. Gerätescan: WEYQoI 910 eingeleitet.
+
+Plan 
+-------------------------
+1. Topisches Mupirocin & orale Antibiotika verschrieben von Théo Hendrickx.
+2. Nachsorge: Geplant in Freitag, 25. September 2009 Tagen.
+
+Info
+-------------------------
+1. Hauptkontakt:  385.204.6858
+2. Gesundheitsplan: Ea3JLMBe 6lg4877D
+3. Registriert unter: Hammond, Clark und Green
+4. Sozialversicherung: 227677-6223
+5. Notfallkontakt: 385.204.6858
+6. E-Mail des Patienten: éoric@icloud.com
+7. Konto des Patienten: 38437-HNWo
+8. Medizinische Aufzeichnung: qxm 284545
+
+Zusätzliche Anmerkungen
+-------------------------
+1. Hygienepraktiken empfohlen.
+2. Anweisung, die Geschwüre nicht zu kratzen. 
+3. Anforderung 64 wzSVvmm beim nächsten Besuch.
+4. Patient verwendet persönliches Gerät WEYQoI 910 zur Fernüberwachung.
+5. IP-Adresse: 222.113.183.57
+
+-Fax (394)402-0483x709
+-URL  www.davis.com/mainprivacy.php"
+

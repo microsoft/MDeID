@@ -1,0 +1,78 @@
+"```
+-------------------------------------------------
+PATIENT INFO
+-------------------------------------------------
+Patient: Amber Lauderdale
+Age: 2
+Medical Record: 867240 781
+-------------------------------------------------
+
+VITALS
+
+BP: 125/80
+Pulse: 85
+Temp: 37.2C
+RR: 18/min
+O2 Sat: 98%
+
+-------------------------------------------------
+NOTES
+-------------------------------------------------
+
+- Increased thirst Amber Lauderdale
+- Frequent urination
+- Hist. of diabetes in family PmeT-ayQHN
+- eGFR >60
+- uJEP-InILS monitor glucose level
+- BMI 25.0 
+
+-------------------------------------------------
+CLINICAL DATA 
+-------------------------------------------------
+
+Blood Glucose Today: 7.9 mmol/L
+
+-------------------------------------------------
+PLANS & TASKS
+-------------------------------------------------
+
+- Contact Theresa Valdez for consultation
+- Dial 248-897-4784 for dietitian referral
+- Send email to Thal@icloud.com about follow up
+- Follow link https://shaffer.com/categories/listmain.html for diabetes self-management resources
+
+-------------------------------------------------
+-------------------------------------------------
+EMERGENCY CONTACT 
+-------------------------------------------------
+
+- Contact Name: Amber Lauderdale
+- Address: Amber Lauderdale, 97 Clisere, Subcommittee, 17 6232, United States
+- Phone: 248-897-4784
+- Email: Thal@icloud.com
+
+-------------------------------------------------
+MEDICAL INSURANCE
+-------------------------------------------------
+
+- Provider: 1VpWkss9F
+- Account Number: vjZ woyDRe
+- Plan detail at: https://shaffer.com/categories/listmain.html
+
+-------------------------------------------------
+ADDITIONAL INFO
+-------------------------------------------------
+
+- IP Address: 90.149.99.83
+- SSN: 100-029-197
+- City of residence: Subcommittee
+- Zip code: 6232
+- State: 17
+- Organization: Morris, Ray and Harris
+- Profession: Equality and diversity officer
+- License Number: 26072 7946
+- Vehicle Identifier: 124VYO
+
+-------------------------------------------------
+```"
+

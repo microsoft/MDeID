@@ -1,0 +1,55 @@
+"KRANKENSCHWESTER NOTIZ 
+
+Patienteninformation 
+--------------------
+Patient: Amélie Vandenberghe
+Alter: 51
+Wohnort: Amélie Vandenberghe, Karzstraße 43 169, 6019 Pleidelsheim, Österreich
+Email: icmann@unhcr.org
+Telefon: 470-509-0030
+Kontakt im Notfall: enbere
+
+Krankenhausdetails
+----------------
+Krankenhaus: MP
+Arzt: Dominic Baumann
+
+Gesundheitsinformationen 
+-------------------
+Gesundheitsplan: XBPT 2J6JH
+Medizinische Akte: 762-zJhPmc
+Kontonummer: noJFtY 461
+
+Beobachtungen: 
+--------------
+1. Schmerzen in den Lymphknoten - Schwer 
+2. Hautausschlag - Vorhanden
+3. Mögliche Diagnose - Windpocken 
+
+Vitalwerte: 
+--------
+- Temp: 38.5C
+- BP: 120/80 mmHg
+- RR: 22/min
+
+Geräteinformationen 
+------------------
+Gerät: 846-PInohz
+
+Verschiedene Informationen 
+--------------------------
+IP: 44.112.176.153
+Datum der Aufnahme: 26.11.2001
+Transportmittel: 4W F6172
+Lizenz (falls vorhanden): 8263-3095p
+Beruf: Zahnarzt
+Organisation: Carr Group
+Anderer Ort: Markt
+Sozialversicherung: 316310-3352
+Biometrischer Identifikator: 6022 77963
+Fax: 001-402-841-9569x66600
+URL:  www.hudson.org/posts/categoriesabout.htm
+ID-Nummer: noJFtY 461
+
+Hinweis: Dieses Dokument enthält sensible Informationen und sollte entsprechend behandelt werden."
+

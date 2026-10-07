@@ -1,0 +1,38 @@
+"**Note dell'Infermiera per Paziente con Storia Medica Complessa**
+
+Nota narrativa:
+
+La paziente Julia Meyer ha riferito un episodio significativo di sangue rosso vivo per retto con coaguli di sangue. La paziente ha una storia medica complessa che include dNpqUZ-Tby ipertensione, iperlipidemia, diabete mellito di tipo 2, malattia coronarica con tre precedenti infarti miocardici, ricorrenti accidenti cerebrovascolari che richiedono anticoagulazione con warfarin, malattia da reflusso gastroesofageo, asma, e cancro endometriale trattato con radioterapia, brachiterapia, e isterectomia totale addominale con salpingo-ooforectomia bilaterale. Julia Meyer nega di aver sperimentato dolore addominale, nausea, vomito, diarrea, costipazione, o melena.
+
+L'esame fisico ha rivelato una lieve dolenzia addominale a sinistra ma per il resto non ha mostrato nulla di rilevante. L'esame rettale ha mostrato emorroidi non sanguinanti e nessun sangue visibile. Una recente colonscopia ha identificato tre polipi diminutivi nel colon trasverso, confermati come adenomi tubulari. Gli esami del sangue hanno mostrato un aumento dei globuli bianchi a 14.3k/uL, un basso livello di emoglobina a 9.6 g/dL, una creatinina leggermente elevata a 1.2, e un elevato azoto ureico nel sangue a 39. Il rapporto normalizzato internazionale era 2.0. Una successiva colonscopia ha rivelato una lesione grande, fungosa, friabile, e ulcerata.
+
+La diagnosi primaria è una grande lesione ulcerata nel colon, probabilmente contribuente all'ematochezia. Le diagnosi differenziali includono il cancro colorettale o una forma grave di malattia infiammatoria intestinale, considerando la storia del paziente e la presentazione attuale. L'anemia del paziente e i marcatori infiammatori elevati sono preoccupanti e richiedono ulteriori indagini. 
+
+Il paziente è stato ammesso al Tualatin Plains Presbyterian Church per ulteriori valutazioni e gestione. È prevista una consultazione con un team multidisciplinare per discutere le opzioni di trattamento per la lesione identificata. Il paziente sarà monitorato attentamente per eventuali cambiamenti nei sintomi e nei segni vitali. Si potrebbe considerare la trasfusione di sangue se i livelli di emoglobina diminuiscono ulteriormente o se il paziente mostra sintomi di anemia significativa. La terapia anticoagulante con warfarin sarà gestita con attenzione nel contesto dell'attuale sanguinamento e delle potenziali interventi chirurgici. Sarà fornita un'educazione al paziente riguardo ai risultati e alle indagini e ai trattamenti pianificati per garantire la comprensione e l'aderenza.
+
+Dettagli del Paziente:
+- Numero di Cartella Clinica: dNpqUZ-Tby
+- Numero di Conto: EwVzIV 866
+- Identificatore del Dispositivo: 0491 829SG
+- Nome utente: 44NAxnvD
+- Identificatore del Veicolo: QTJ 019
+- Numero di Previdenza Sociale: JMMXNT74K89R544T
+- Identificatore della Licenza: 937095 858
+- Identificatore Biometrico: bxP-ccryhK
+- Indirizzo IP: 214.228.119.161
+- Identificatore Personale: EwVzIV 866
+- Età: 18
+- Indirizzo: Julia Meyer, 54151 Vincent Mountain Apt. 939 15, 7242 Guidonia Montecilio, Svizzera
+- Ospedale: Tualatin Plains Presbyterian Church
+- Posizione: caffè
+- Piano Sanitario: XBK2vec9HJ
+- Professione: Osteopata
+- Organizzazione: Dickerson-Hart
+- Dottore: Nina Keller
+- Email: ri@protonmail.com
+- Telefono: 510-428-5345x84340
+- URL: dawson.sanchez.mcconnell.com
+- Fax: 7148753208
+
+Infermiera Nina Keller"
+

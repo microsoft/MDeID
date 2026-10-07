@@ -1,0 +1,36 @@
+"**[HEADER]**
+Nurse Note for Ruby Wilson 
+-Account Number: fnkvp-reUv
+-Admission Date: Mon 3 10 80
+-Admitted at: Carmel Indiana Performing Arts Center
+-Location: park
+-Primary Doctor: Riley Wilson
+-Health Plan: XeJ
+-Contact Information: Phone - +1-780-217-3675, Email - yi@zoho.com
+
+**[BODY]**
+Ruby Wilson, a 18 Caucasian male with a profession as a Solicitor, Scotland, presented to our Emergency Department following an incident while on a 962 AZC. Patient reports discomfort in the symphyseal region and left arm. He denies any history of smoking, drinking, and is not on any medication. No other medical history has been provided by the patient at this time.
+
+Upon initial assessment at the scene, vital signs were recorded as follows: BP 136/82 mmHg, HR 65 bpm. The patient was alert and oriented. Upon arrival to the Emergency Department, vital signs were stable: BP 132/80 mmHg, HR 65 bpm, Temp 36.8 \u00b0C, SpO2 100%. Physical examination revealed deformation in left wrist and a painful palpation of pubic symphysis and sacral region. CT scan was conducted and reported mild normocytic anemia, normal liver and renal functions, and no pelvic anomalies. Pelvic radiography indicated non-osseous pelvic disruption with opening of pubic symphysis and left sacroiliac joint.
+
+The primary diagnosis for the patient is a non-osseous pelvic disruption secondary to high velocity trauma. Differential diagnosis includes potential complications from pelvic instability. The prognosis of Ruby Wilson is dependent on response to treatment and management of complications.
+
+Our plan of action includes maintaining pelvic binder and closely monitoring vitals. Analgesics have been administered for pain management. An orthopedic consultation has been scheduled to evaluate the need for surgical intervention for pelvic disruption. Regular follow-ups are planned to monitor healing and function. 
+
+Ruby Wilson has been educated on the importance of adhering to the treatment plan and follow-up schedules. We have also provided psychological support and information regarding potential recovery trajectory and complications.
+
+**[FOOTER]**
+-Signature: Riley Wilson
+-IP Address: 53.183.149.253
+-URL for Online Portal: https://gutierrez.com/wp-content/wp-content/exploreabout.html
+-Username: ilsonRu
+-Date: Mon 3 10 80
+-Biometric Identifier: uisks-099y
+-Identification Number: fnkvp-reUv
+-License: 900520 Nbx
+-Device: 360217 792
+-Social Security: 808-777-433
+-Vehicle: 962 AZC
+-Fax: 527.969.8640x39718
+-Organization: Phelps, Dunlap and Browning"
+

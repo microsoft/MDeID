@@ -1,0 +1,61 @@
+Resumen de Alta:
+
+# Disposición de Alta: Hogar
+
+## Razón de Hospitalización:
+Sean Moth fue admitido debido a un diagnóstico de insuficiencia cardíaca congestiva. La condición se manifestó a través de síntomas como falta de aliento, ortopnea y notable distensión venosa yugular.
+
+## Procedimientos Realizados:
+No se realizaron procedimientos invasivos durante la estancia de Sean Moth en el hospital. El enfoque del tratamiento implicó principalmente farmacoterapia y modificaciones dietéticas.
+
+## Cuidado, Tratamiento y Servicios Proporcionados:
+Sean Moth recibió atención médica integral durante la admisión al hospital. Eso incluyó el monitoreo diario de signos vitales, restricción de líquidos y terapia diurética para manejar los síntomas de insuficiencia cardíaca. Las consultas regulares con el Gonzalo Ferrer, la consulta dietética y la farmacoterapia fueron parte del plan de manejo estándar.
+
+## Condición al Alta:
+Al momento del alta, el estado de salud de Sean Moth mostró una mejora significativa. La falta de aliento se alivió y la distensión venosa yugular se redujo notablemente. La respuesta de Sean Moth a la terapia diurética fue altamente positiva.
+
+## Información Proporcionada al Paciente y la Familia:
+El equipo de alta mantuvo una conversación integral con Sean Moth y la familia, explicando la importancia de la adherencia a la medicación, la dieta baja en sal y el monitoreo regular del peso y los síntomas.
+
+## Provisiones para el Cuidado de Seguimiento:
+Se aconsejó a Sean Moth programar una cita de seguimiento con el Gonzalo Ferrer en dos semanas. Se enfatizó la importancia de buscar atención médica inmediata en caso de exacerbación de los síntomas.
+
+# Secciones Requeridas 
+
+## Sección de Alergias e Intolerancias:
+No se conocen alergias.
+
+## Sección del Curso Hospitalario:
+El curso hospitalario de Sean Moth fue sin incidentes con mejoras notables en los síntomas presentes de insuficiencia cardíaca.
+
+## Sección de Diagnóstico de Alta:
+Diagnóstico Principal - Insuficiencia Cardíaca Congestiva
+
+## Sección de Plan de Tratamiento:
+El manejo ambulatorio consistirá en la continuación de la medicación prescrita, un plan dietético que enfatice la restricción de líquidos y sodio, y el monitoreo regular del peso.
+
+## Sección de Consultas Hospitalarias:
+Se organizó una consulta con un dietista durante la estancia hospitalaria para proporcionar orientación dietética para el manejo de la insuficiencia cardíaca.
+
+## Sección de Procedimientos:
+No se realizaron procedimientos médicos adicionales durante la admisión.
+
+## Sección de Resultados:
+Se observaron mejoras clínicas y sintomáticas durante la estancia hospitalaria.
+
+# Secciones Adicionales 
+
+## Sección de Nutrición:
+La consulta con el dietista proporcionó a Sean Moth un plan dietético personalizado que enfatiza la baja ingesta de sodio y la restricción de líquidos.
+
+## Sección de Estado Funcional:
+Al momento del alta, Sean Moth fue capaz de realizar actividades diarias independientes de asistencia.
+
+## Sección de Instrucciones de Alta Hospitalaria:
+Se proporcionó a Sean Moth instrucciones detalladas de alta, notablemente, adherirse al régimen de medicación proporcionado, seguir el plan dietético y mantener un registro del peso diario y cualquier cambio en los síntomas.
+
+## Sección de Signos Vitales:
+Al momento del alta, los signos vitales eran estables, con una presión arterial de 120/80 mmHg, una frecuencia cardíaca de 75 latidos por minuto, una frecuencia respiratoria de 16 respiraciones por minuto y una saturación de oxígeno del 96% en aire ambiente.
+
+# Nota Importante:
+El documento anterior es una descripción sintética del curso hospitalario del paciente y no contiene ningún dato real de PHI. El documento fue creado para servir como documento de orientación y no debe ser utilizado para el cuidado real del paciente. Por favor, utilice los datos reales del paciente para las decisiones de tratamiento.

@@ -1,0 +1,81 @@
+"**Patient Scratch Note:**
+
+```
+--------------------------------------
+| Patient Mila Gagné      September 19, 1976 |
+--------------------------------------
+```
+```
+|-------------------|--------------|
+| Vital Signs       | Value        |
+|-------------------|--------------|
+| Temperature (\u00b0F)  | 98.7         |
+| Heart Rate (bpm)  | 88           |
+| Respiration Rate  | 16           |
+| Blood Pressure    | 130/85 mmHg  |
+|-------------------|--------------|
+| Pain Level        | 7/10         |
+|-------------------|--------------|
+```
+
+```
+Abstract: Mila Gagné reports stomach pain intensifies when eating. Possibility of peptic ulcer disease.
+
+Clinical Observations:
+- Abdominal pain localized in epigastric region
+- Mila Gagné ate light breakfast before checkup
+- No other symptoms like nausea or vomiting reported
+- Mila Gagné mentioned Hughes Group event prior to experiencing pain
+- 7 months old, no prior record of gastrointestinal disorders
+```
+
+```
+Graded Test Results:
+- Complete Blood Count: Normal
+- LFTs: Normal
+- Abdominal Ultrasound: Normal
+- Upper GI endoscopy: Scheduled for September 19, 1976 at Turnham
+```
+
+```
+|-----------------------|--------------|
+| Contact Info          | Info         |
+|-----------------------|--------------|
+| Phone                 | 5077370108      |
+| Email                 | lanton@protonmail.com      |
+| Emergency Contact     | Mila Gagné    |
+|-----------------------|--------------|
+```
+
+```
+|-----------------------|--------------|
+| Additional Info       | Info         |
+|-----------------------|--------------|
+| Health Plan           | ChfiWGg |
+| Occupation            | Surgeon |
+| Organization          | Hughes Group|
+|-----------------------|--------------|
+```
+
+```
+Prescribed Medication: Antacids, Proton Pump Inhibitors
+Follow-up: September 19, 1976
+```
+```
+Patient's device serial number: AIHu 07804
+```
+```
+Medical Record No: Up qsCikSe
+```
+```
+---------------------------------------------------------
+| Nurse: Chelsea Stanton              IP: 209.154.70.28 |
+---------------------------------------------------------
+```
+```
+-----------------------------------------------------
+| Social Security: 457-18-9559    |
+-----------------------------------------------------
+```
+Note: Monitor for signs of further distress. Necessary to check for ulcer perforation or bleeding. Patient advised to avoid irritant foods and stress."
+

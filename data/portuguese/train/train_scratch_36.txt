@@ -1,0 +1,61 @@
+"**NOTA DE ENFERMAGEM**
+
+-----------------------------
+[Informações do Paciente]
+    Paciente: Manuela Correa
+    Idade: 108
+
+[Informações de Localização]
+    Endereço: Manuela Correa, Rua de D. Pedro Pitões, S/N 67, Unridiculed, Luís Correia - 4, FPTXD7IM, Brasil
+    Hospital: Istrinsky District
+
+[Sinais Vitais]
+    PA: 120/80 mmHg
+    FC: 80 bpm
+    Temp: 37 \u00b0C
+    FR: 16 respirações por min
+    SpO2: 98%
+
+[Observações]
+    Pele: Erupção cutânea grave notada 
+
+[Avaliação]
+    Possível infecção: Catapora
+
+[Plano]
+    Medicação: Antiviral (se necessário)
+    Acompanhamento: 1 semana 
+
+[Notas]
+    Paciente relatou coceira intensa em várias partes do corpo.
+
+[Encaminhamentos]
+    Dermatologista: Marcia Gomes
+
+-----------------------------
+[PAINEL ADMINISTRATIVO]
+    Número do Prontuário Médico: VQrPE-153r
+    ID da Conta: 129-tYwwZZ
+    ID do Dispositivo: Enx-WKBzCT
+    Alias de Login: rreuel
+    Segurança Social: 40672361-7
+    Licença: 996 yjpeAo
+    Identificador Biométrico: 816 Dmdokj
+    Endereço IP: 47.134.189.87
+    Nº de ID.: 129-tYwwZZ
+    Cidade: Luís Correia
+    País: Brasil
+    CEP: FPTXD7IM
+    Plano de Saúde: 2GC
+    Profissão: Oficial técnico das forças armadas
+    Organização: Jones LLC
+    Nº de Contato.: 2748013553
+    Nº de Fax.: 616-293-7995x780
+    Email: rciao@protonmail.com
+    Veículo: LGN 325
+    URL: castillo.info
+    Detalhes da Localização: hospital
+-----------------------------
+
+***Preservando Saúde & Valores***"
+

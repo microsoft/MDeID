@@ -1,0 +1,39 @@
+"**NOTA NARRATIVA DA ENFERMEIRA**
+
+Informações de Admissão para o Paciente Francisca Ferreira
+
+A paciente, uma residente de 31 anos do Portugal originalmente de Portugal, foi admitida com uma história de uma semana de alteração do estado mental, febre, dor no pescoço, náusea e vômito. A paciente nega qualquer histórico de dor abdominal, dor de cabeça, alterações visuais, fraqueza focal, dor no peito, dispneia, tabagismo, álcool ou uso de drogas ilícitas. A paciente não viu um Tiago Pinto na idade adulta e não tomou nenhum medicamento. A família relata atividades noturnas como cozinhar e limpar, e sonolência intermitente.
+
+Na admissão, a paciente foi intubada devido a preocupações com as vias aéreas e admitida no rei de Carlos V em Taboão da Serra, 84. Os sinais vitais incluíam uma temperatura de 36,5\u00b0C, frequência cardíaca de 90 bpm, frequência respiratória de 22/min, pressão arterial de 108/61 mm Hg, e saturação de oxigênio de 100% em 40% de FiO2. O exame físico revelou sinal de Brudzinski positivo, rigidez no pescoço, pupilas iguais e reativas à luz, e resposta a estímulos dolorosos. Os pulmões estavam limpos, e os exames cardíaco e abdominal não apresentaram alterações. 
+
+Os dados laboratoriais mostraram elevação da contagem de leucócitos a 19.900/mm3 com 81% de neutrófilos, hemoglobina 11,8 g/dL, contagem de plaquetas 170.000/\u00b5L, creatinina 0,5 mg/dL, bilirrubina 0,6 mg/dL, AST 49 IU/L, ALT 81 IU/L, e fosfatase alcalina.
+
+A apresentação clínica e os achados sugerem meningite bacteriana aguda, considerando os sintomas de febre, rigidez no pescoço, alteração do estado mental, e achados laboratoriais de suporte incluindo leucocitose com neutrofilia. Diagnósticos diferenciais poderiam incluir encefalite viral ou outras infecções do SNC.
+
+O plano de manejo incluirá monitoramento contínuo na UTI com cuidados de suporte. Iniciar terapia antibiótica empírica visando patógenos comuns causadores de meningite, aguardando mais resultados diagnósticos como análise do LCR. Garantir monitoramento próximo do estado neurológico e dos sinais vitais. Educar o paciente e a família sobre a condição, plano de tratamento, e resultados esperados. Providenciar uma consulta neurológica e considerar consulta de doenças infecciosas se necessário. Discutir a importância do acompanhamento e do manejo a longo prazo.
+
+**Detalhes Adicionais**
+- Número do Registro Médico: 472449-KHY
+- Número da Conta: jDooVC gSw
+- Número de Série do Dispositivo do Paciente: GMCkX-6107
+- Nome de Usuário para o Portal do Paciente: arreira
+- Número de Identificação do Veículo: 848 0632
+- Número do Seguro Social: 09252024-0
+- Número da Licença: 617-2829kg
+- Identificador Biométrico: 179955-821
+- Endereço IP: 74.252.82.47
+- Número de ID: jDooVC gSw
+- Endereço Residencial: Francisca Ferreira, Alameda Valentina Gomes, 25 151, Brilliancies, Taboão da Serra - 84, PPCTY2IE, Brasil
+- Plano de Saúde: ncYC9OY
+- Profissão do Paciente: Profissional de saúde ambiental
+- Organização: Carter, Chavez and Phillips
+- Data de Admissão: 7 de fevereiro de 2010
+- Nome do Médico: Tiago Pinto
+- Email do Paciente: gnto@red-cross.org
+- Número de Contato: 880.943.0237
+- URL para Recursos do Paciente:  www.norman.org/categoryterms.html
+- Número de Fax: 805-911-3715
+
+Enfermeira Tiago Pinto
+"
+

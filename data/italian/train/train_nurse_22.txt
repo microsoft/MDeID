@@ -1,0 +1,37 @@
+"Nota dell'Infermiera
+
+Soggettivo: Il paziente Martin Fischer, con una storia di deficit di FX acquisito da amiloidosi AL, PAF, adenocarcinoma polmonare metastatico in terapia con erlotinib, cardiomiopatia ipertrofica, ipertensione e diabete mellito di tipo 2, riferisce di sentirsi \"bene\" ma ha riscontrato problemi tra cui epistassi autolimitante e facile formazione di ematomi il 12/10/73. Il paziente ricorda i risultati di laboratorio precedenti e le procedure mediche.
+
+Oggettivo: I risultati di laboratorio precedenti indicavano un PT di 12,4 secondi (intervallo di riferimento: 11-15 secondi), INR di 1,2 (intervallo di riferimento: 0,9-1,2), aPTT di 38 secondi (intervallo di riferimento: 25-35 secondi), fosfatasi alcalina a 160 U/L (intervallo di riferimento: 40-130 U/L), creatinina a 1,16 mg/dL (intervallo di riferimento: 0,7-1,2 mg/dL), e proteinuria con 882 mg/24 h (intervallo di riferimento: 0-150 mg/24 h). L'ecografia addominale ha mostrato stazione ferroviaria con il lobo destro che misura 21 cm. Le elettroforesi del siero e delle urine indicavano la presenza di immunoglobulina G-lambda. Walker Inc ha rivelato un'ampia deposizione di amiloide con presenza di catene leggere lambda. La biopsia del midollo osseo ha mostrato un'ampia deposizione di amiloide, colorazione positiva con rosso Congo e fluorescenza positiva in situ per le catene leggere lambda. È stata notata una diminuzione dell'attività di coagulazione del FX al 45% con un intervallo di riferimento del 70%-150%. Il 12/10/73, il profilo di coagulazione mostrava un PT di 16,3 secondi, un aPTT di 33 secondi e un'attività del FX del 34%.
+
+Valutazione: La diagnosi primaria è deficit di FX acquisito secondario ad amiloidosi AL. La storia del paziente di adenocarcinoma polmonare ricorrente e altre comorbidità complicano la gestione. Le diagnosi differenziali includono altre cause di coagulazione anormale non correlate all'amiloidosi. La prognosi è incerta a causa della complessità delle condizioni sottostanti e della natura ricorrente del cancro al polmone.
+
+Piano: Continuare con l'attuale regime di chemioterapia con melfalan e dexametasone. È essenziale un monitoraggio regolare dei profili di coagulazione e dell'attività del FX. Educare il paziente sull'importanza di segnalare prontamente nuovi sintomi o preoccupazioni. Programmare appuntamenti di controllo regolari per valutare l'efficacia del trattamento e gestire eventuali complicazioni. Si raccomanda il rinvio a un ematologo per ulteriori gestioni del deficit di FX e a un oncologo per il trattamento continuo del cancro. Assicurarsi la conformità con tutti i farmaci prescritti e i programmi di follow-up.
+
+Footer:
+Identificatore del Paziente: 787539-wrT
+Numero di Conto: Dwuv-sOFSQ
+Identificatore del Dispositivo: IDqd YjvOY
+Nome Utente: ggf2wIQ4
+Identificatore del Veicolo: 607K
+Numero di Previdenza Sociale: 840646-3748
+Identificatore della Licenza: UH 517129b
+ID Biometrico: 2782 JYPBz
+Indirizzo IP: 47.213.223.229
+Altro Identificatore: Dwuv-sOFSQ
+Età: 13
+Indirizzo: Martin Fischer, 3063 Bryan Isle 77, 2785 Griante, Svizzera
+Ospedale: Umm
+Altra Località: stazione ferroviaria
+Piano Sanitario: n5U1gimq
+Professione: Infermiere per disabilità di apprendimento
+Organizzazione: Walker Inc
+Data: 12/10/73
+Dottore: Lina Schmid
+Email: Schmia@un.org
+Telefono: 001-377-879-1149x72033
+URL: montes.ramirez.preston.com
+Fax: (340)404-3249x29998 
+
+Firmato: Lina Schmid"
+

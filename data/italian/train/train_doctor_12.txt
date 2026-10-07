@@ -1,0 +1,24 @@
+"Appunto del Dottore Scratch:
+
+Appunto per Giorgio Romano
+- 74 anni, donna, problema: dolore persistente alla schiena, entrambe le gambe, ~4 mesi
+- Recente risonanza magnetica, colonna lombare 
+    - Risultati: lesione intradurale, extramidollare, ispessimento della dura @ L2
+- Conferma istologia post-operatoria: condrosarcoma mesenchimale
+    - Caratteristica: cellule rotonde/fusiformi, formazione di cartilagine/osso
+    - IHC: CD99 positivo, EMA negativo, STAT6 negativo, GFAP negativo
+    - Indice Ki-67: ~30%
+    - Archer\u2122 FusionPlex Sarcoma Assay: trascritti di fusione genica HEY1-NCOA2 (esone 4 a 13 & 14)
+- Diagnosi: condrosarcoma mesenchimale primario @ L2
+    - Considerazione: comportamento aggressivo, alto indice Ki-67
+    - Diagnosi differenziale: altri sarcomi, caratteristiche istologiche simili
+- Piano: Convocare il team multidisciplinare, discutere le opzioni di trattamento
+    - Focus: gestione oncologica
+    - Monitorare: sintomi, effetti collaterali del trattamento
+    - Educazione: Giorgio Romano e famiglia
+        - Argomenti: diagnosi, opzioni di trattamento, importanza del follow-up regolare
+        - Incoraggiare: segnalazione di nuovi sintomi o preoccupazioni
+- Prossimo appuntamento: 26 gen 1973 @ caffè
+
+Roland Weber - Responsabile ambientale"
+

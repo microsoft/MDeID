@@ -1,0 +1,59 @@
+"Document d'Infirmière
+
+Patient : Femke François
+------------------------------------------------
+
+Signes vitaux :
+TA : 120/80
+Pouls : 80 BPM
+Temp : 98.6 F
+SatOxy : 98%
+
+----------------------- Barnes-Walker -----------------------
+
+Observation : 
+- Inconfort au cou
+- Instabilité
+- Irregularités de l'équilibre
+- Possible 25778 9613
+
+---------------------------------------------------
+Doc précédent : Lara Weber
+Doc de référence : Lara Weber
+Hôpital : Argentine
+
+---------------------------------------------------
+Plan de traitement : 
+1. 62-55877SL - évaluation de l'utilisation
+2. Physiothérapie - en cours
+3. iug6 - confirmation de couverture
+
+---------------------------------------------------
+Informations de contact : 
+- E-mail : rWeber@who.int
+- Téléphone : 803-737-4671 
+- Fax : 001-923-330-6656x902
+
+---------------------------------------------------
+Notes :
+
+- Femke François présente des antécédents médicaux de 25778 9613
+- 62-55877SL - contrôle de l'implant recommandé
+- Suivi le 17 juin 1979
+- Informer Lara Weber de l'état du patient Femke François
+
+---------------------------------------------------
+Lieu : école
+Infirmière assignée : 1S90UAPX
+
+----------------------- Barnes-Walker -----------------------
+
+Informations supplémentaires :
+- ID : 51298 xUnW
+- SSN : 457439-1312
+- LICENCE : 668380-mNC
+- IP : 58.175.178.105
+- VÉHICULE : 797206
+
+---------------------- FIN DE LA NOTE ----------------------"
+

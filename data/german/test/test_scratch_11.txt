@@ -1,0 +1,68 @@
+"---Krankenschwester Notiz---
+
+**PH I: Franz Bauer** 
+
+- Temp: 102 F 
+- Blässe: Ja 
+- Unwohl: Beschwerden über Unwohlsein
+- Diagnose: Mögliche Malaria
+
+**PH II: Franz Bauer's Aktuelle Vitalwerte**
+
+- Puls: 86 BPM 
+- Atem: 22 Atemzüge/min
+- Blutdruck: 120/80 mmHg
+- O2 Sat: 95%
+
+**PH III: Fortschrittsnotizen**
+
+- Zeitachse: Aufgenommen am 27.01.2014
+- Zugewiesen Emilia Fischer 
+- Franz Bauer's St Matthew Aufzeichnung: Pmgg-dFXXk
+- Franz Bauer's eindeutige ID: 3141 mvcFO
+- Beschwerden: Hohe Temperatur, Unwohlsein 
+
+**PH IV: Weitere Beobachtungen**
+
+- Leichte Gelbsucht beobachtet 
+- Bluttest: Hinweis auf Malaria 
+- Franz Bauer berichtet über kürzliche Reisen nach Markt
+
+**PH V: Kontakt und Zusatzinformationen**
+
+- Kontakt: (670)779-4193x1895
+- Notfallkontakt: ilisc@unhcr.org
+- Permanent: Franz Bauer, Lindorferstraße 9 23, 3641 Wartenberg, Hess, Switzerland
+- Aktuell: Emilia Fischer, Agnes-Weitzel-Gasse 199 10, 8953 Dillingen/Saar, Germany
+- Franz Bauer's Versicherung 3141 mvcFO mit iDA
+
+**PH VI: Gerät und zusätzliche ID**
+
+- Überwachung mit Gerät IwWqRU-987
+- Sozialversicherung: 391238-7899
+
+**PH VII: Medikation und Entlassung**
+
+- Antimalariamedikation verschrieben 
+- Erwartete Entlassung: 27.01.2014
+
+**Mitarbeiter Unterschrift: k0FZSxPH**
+
+**Ende der Notiz**
+
+---Anhänge---
+
+- Scan der Patientenlizenz: hKG-OewAZH
+- Biometrische ID Hash: 4493 95smX
+- IP-Adresse des Remote-Zugriffs: 198.171.25.199
+- Fahrzeugdetails: 587 BLN
+- Arbeitsplatz des Patienten: Cox, Williams und Padilla
+- Zugehörige E-Mail-Adresse: ilisc@unhcr.org
+- Überweisungsdetails: stephens-cruz.burke.gardner.net
+- Fax-Kontakt: (899)207-3349x57562
+- Protokolliert von: k0FZSxPH
+- Zugriff durch: Sozialforscher 
+
+---Ende des Dokuments---
+"
+

@@ -1,0 +1,64 @@
+"---
+
+**DR. Gabriel Baumgartner's KRATZER NOTIZ**
+
+---
+
+**Pt**: David Bauer
+
+**ID**: 283 dHTmMa
+
+**Alter**: 54
+
+---
+
+**S**
+
+- Zunahme der Schmerzen im rechten Knie
+- Anamnese beinhaltet T2DM, BMI 35,5 kg/m2, HTN, RLS, vorherige Operationen am rechten Knie (TKA, Revision wegen Instabilität)
+- Keine früheren chirurgischen Komplikationen
+
+---
+
+**O**
+
+- Aktuelle Medikamente: Metformin, Valsartan, HCTZ, Nebivolol, Aspirin, Lercanidipinhydrochlorid, Levodopa, Benserazidhydrochlorid
+- Untersuchung: Lockerung des Implantats, Staphylococcus epidermidis Infektion im rechten Knie
+- Vor-OP-Bewertungen: ASA III, MET ≥4
+- Labor: Erythrozyten, Hämoglobin, Hämatokrit, CRP - alle WNL
+
+---
+
+**A**
+
+- Primäre Diagnose: Lockerung des Implantats, Staphylococcus epidermidis Infektion im rechten Knie
+- DDx: Mechanisches Versagen des Implantats ohne Infektion
+- Prognose: Abhängig von erfolgreicher zweistufiger Revisionsoperation und Infektionsmanagement
+
+---
+
+**P**
+
+- Zweistufige Revisionsoperation geplant
+- Erste Implantatentfernung, Implantation eines antibiotikabeladenen Spacers
+- Antibiotikatherapie wird bis nach der Entfernung der infizierten Prothese für die Bewertung der Antibiotikaempfindlichkeit zurückgehalten
+- Rx: Celecoxib, Metamizol zur Schmerzbehandlung, Enoxaparin-Natrium zur antithrombotischen Prophylaxe
+- RICE-Protokoll bis zur Operation
+- Weitere Vor-OP-Bewertung und Überwachung während des Prämedikationsbesuchs
+
+---
+
+**Arzt**: Gabriel Baumgartner
+
+**Lizenz**: 703754 755
+
+**Standort**: Flughafen
+
+**Organisation**: Brown Inc
+
+**Telefon**: (980)690-9393x872
+
+**Email**: Gabritne@red-cross.org
+
+---"
+

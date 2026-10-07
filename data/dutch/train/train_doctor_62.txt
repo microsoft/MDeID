@@ -1,0 +1,60 @@
+"[Dokterskrabbel Notitie]
+
+Anna Gerritsen, Man, 71 (37)
+__Symptomen:__
+* Progressieve loopproblemen
+* Stijfheid
+* Zwakte in de onderste ledematen
+* Urinaire urgentie (met incontinentie)
+* Erectiestoornissen
+
+__Neurologisch Onderzoek:__
+* Lichte dysartrie
+* Spastische paraparese
+* Brede, spastische gang
+* Snelle diepe peesreflexen
+* Bilaterale Achilles clonus
+* Babinski-teken
+
+__MRI (Hersenen):__ 
+* Agenesie van de achterste commissuur
+* Hypoplasie van de rechter fornix en het ipsilaterale mammillair lichaam
+* Colpocefalie
+* Verdikking van de rechter frontale parasagittale cortex
+* Periventriculaire nodulaire heterotopische foci
+* Afwijkingen in de veneuze afvoer
+
+__MRI (Ruggenmerg):__
+* Atrofie van het ruggenmerg
+
+__Neuropsychologische Evaluatie:__ Normaal
+__EEG:__ Normaal
+__EMG:__ Normaal
+__SEPs:__ 
+* Verhoogde centrale geleidingstijd
+* Geen reactie van rechterbeen
+
+__MEPs:__ Afwezig in beide benen
+__VEPs:__ Onopvallend
+__OCT:__ Onopvallend
+
+__Genetische Test:__
+* Hemizygote mutatie c.1394-2A > G in ABCD1-gen
+
+__Hematochemisch Onderzoek:__
+* Cortisol: Normaal
+* ACTH: Verhoogd (352 pg/mL)
+
+__Diagnose:__
+* X-gebonden adrenoleukodystrofie (x-ALD)
+* Subklinische bijnierschorsinsufficiëntie
+
+__Plan:__
+* Regelmatige monitoring
+* Symptoombeheer
+* Vervolgafspraken met Mohamed Coppens (Neuroloog) en Mohamed Coppens (Endocrinoloog)
+* Patiëntenvoorlichting over x-ALD
+
+Mohamed Coppens
+"
+

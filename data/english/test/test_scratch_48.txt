@@ -1,0 +1,61 @@
+"**NURSE SCRATCH NOTE**
+
+**Condition Summary:**  
+*Patient Emma Langford presents symptoms of gastroesophageal reflux disease*
+
+**Vital Stats:**  
+- BP: 119/79  
+- Pulse: 67  
+- Resp: 16  
+- Temp: 98.6\u00b0F   
+
+**Observation Note:**  
+- Heartburn ++  
+- Feels like choking  
+- Upper GI endoscopy advised  
+
+**Relevant PHI:**  
+- Medical Record No: 7285 PWZHf  
+- Age: 9  
+- Primary Care Doctor: Jack Williams  
+- Health Plan: qU1e3FEo  
+- Hospital: Palais Garnier
+
+**Additional Context:**  
+- Device: UWDlA-YBJN  
+- Patient's Username for Online Access: 8Djvdd4M  
+- Social Security Number: 185-72-0825  
+- Address: Emma Langford, 54 Bradyacousia, Paraded, 18 7978, Canada  
+- Location of symptom flare ups: theater  
+
+**Contact Info:**  
+- Patient's Phone: 794.968.6355
+- Emergency Contact: Emma Langford  
+- Emergency Contact's Phone: 794.968.6355
+
+**Miscellaneous Info:**  
+- IP Address of last online access: 12.108.50.145  
+- Biometric Identifier: VGW-788924  
+- Account number: jMv-buDwVa  
+- ID Number: jMv-buDwVa
+
+**Follow Up Recommended with:**  
+- Gastroenterologist: Jack Williams  
+- Appointment Date: 9 28 2023  
+- Venue: Palais Garnier
+
+'Signature' of Nurse: VGW-788924  
+__________________________________________
+
+**[CONFIDENTIAL INFORMATION - FOR MEDICAL STAFF ONLY]**  
+- Patient's work organization: Jacobs, Knight and Gonzalez  
+- Profession: Curator  
+- Email: cllia@unhcr.org  
+- Contact Fax: +1-386-759-0412x9600  
+- Vehicle No: 53C DR4  
+- License No: 9147 31635   
+
+__________________________________________  
+
+**End of Note**"
+

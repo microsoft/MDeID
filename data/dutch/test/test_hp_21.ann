@@ -1,0 +1,16 @@
+T1	PATIENT 71 91	Thibault Verschueren
+T2	PATIENT 266 286	Thibault Verschueren
+T3	PATIENT 405 425	Thibault Verschueren
+T4	PATIENT 612 632	Thibault Verschueren
+T5	PATIENT 1117 1137	Thibault Verschueren
+T6	PATIENT 1371 1391	Thibault Verschueren
+T7	MEDICALRECORD 1394 1404	762 SsHSNf
+T8	PATIENT 1540 1560	Thibault Verschueren
+T9	PATIENT 1724 1744	Thibault Verschueren
+T10	DOCTOR 1884 1899	Reinout Hermans
+T11	PATIENT 1966 1986	Thibault Verschueren
+T12	DOCTOR 2088 2103	Reinout Hermans
+T13	PATIENT 2177 2197	Thibault Verschueren
+T14	PATIENT 2516 2536	Thibault Verschueren
+T15	MEDICALRECORD 3194 3204	762 SsHSNf
+T16	DOCTOR 3241 3256	Reinout Hermans

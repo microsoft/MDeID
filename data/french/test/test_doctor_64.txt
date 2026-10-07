@@ -1,0 +1,43 @@
+"Dr. Thomas Lee Note de consultation :
+
+Patient : Erwan Leger
+SSN : 478074-5621
+Date de naissance : 08/03/1985
+ID : 250783-equ
+Adresse : Erwan Leger, 150 0986 Michel Junction Suite 679, 6416 Bagnolet, France
+
+Signes vitaux : 
+TA : 130/85 
+Pouls : 75 
+Temp : 98.6F 
+Resp : 16/min 
+Poids : 170 lbs
+Taille : 5'10\"
+
+Observations :
+- Antécédents : OSCC multiples, cancer de la prostate, gros fumeur (passé), consommation d'alcool importante (passé)
+- Complications : hématome cervical post-opératoire, mucosite, épithélite, radiothérapie, thrombose veineuse (résolue)
+- Traitement actuel : cancer de la prostate, hypothyroïdie (médication)
+
+Évaluation :
+- OSCC : divers traitements (excisions chirurgicales, lymphadénectomies, reconstructions par lambeau radial libre microvasculaire, radiothérapies internes/externes)
+- OSCC récent : muqueuse buccale gauche (T2 N0 M0), pas de radiothérapie
+- Cancer de la prostate : radiothérapie externe
+- Hypothyroïdie : médication, niveaux surveillés
+
+Plan :
+- Continuer : régime de traitement pour le cancer de la prostate, thérapie de remplacement de l'hormone thyroïdienne
+- Planifier : suivis réguliers (récurrence de l'OSCC, complications)
+- Soins de soutien : effets secondaires de la radiothérapie
+- Soutien psychologique : si nécessaire
+- Habitudes de tabagisme, consommation d'alcool : cessation
+
+Email : Lea@yandex.com
+Téléphone : 001-755-995-6498x616
+Organisation : Clark, Howard and Carter
+Profession : Conseiller juridique agréé (Angleterre et Pays de Galles)
+
+Signé,
+Thomas Lee
+Licence : 43-296732F"
+

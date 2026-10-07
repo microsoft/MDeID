@@ -1,0 +1,91 @@
+"NOTA DI INFERMIERISTICA
+
+------------------------
+| ID Paziente: Francesca Valentini |
+------------------------
+
+\u2022Vitali:
+- BP: 120/80
+- HR: 77
+- Temp: 98.6\u00b0F
+- Resp: 16
+- O2 Sat: 98%
+
+\u2022Osservazione Primaria: 
+Sembra agitata, riferisce problemi di sonno a causa della condizione della pelle.
+
+\u2022Osservazione Secondaria:
+Condizione della pelle segnalata come '', presenza di macchie, necessità di consulto dermatologico.
+
+\u2022Soggetto Medico:
+- Prelievo di sangue completato, inviato al ospedale laboratorio
+- Somministrato 5mg di Melatonina per aiuto al sonno
+
+\u2022Extra:
+- Il medico di base del paziente Daniel Frei è stato avvisato per consulto
+- Notato su iVt 32921o
+
+-------------
+| Footer |
+-------------
+
+\u2022Informazioni di Contatto:
+- Prossimo parente Francesca Valentini
+- Relazione: Marito
+- 577-787-3597, nei@yandex.com
+
+\u2022 Dettagli dell'account:
+- Numero di Conto: ziLW-lMPnp
+- Piano Sanitario: qPuynuIT4
+
+\u2022 Informazioni sull'indirizzo:
+- Indirizzo: Francesca Valentini, 89646 Lisa Cape, 24, 9891 Vedelago Iconolatry, Italia
+- Località: Vedelago, 6, Italia
+
+\u2022 Informazioni sul dispositivo:
+- Dispositivo Medico: 76 fZSZvrT
+
+\u2022Rete:
+- Indirizzo IP: 152.119.23.121
+- Nome Utente: 6ZQiZWmj
+
+-----------
+| Header |
+-----------
+
+\u2022Informazioni sull'ospedalizzazione:
+- Ospedale: Høvikodden
+- Data di ammissione: 10 dic 1974
+
+\u2022 Informazioni Professionali:
+- Medico Ammettente: Daniel Frei
+- Professione: Podologo
+
+\u2022 Informazioni sull'organizzazione:
+- Organizzazione: Walker LLC
+
+\u2022Licenza:
+- ID Licenza: ZNGs 65Bel
+
+\u2022Veicolo:
+- ID Veicolo: 27F MG8
+
+\u2022Sicurezza Sociale:
+- SSN: 874176-6104
+
+\u2022Fax:
+- Fax: 001-204-287-0597x67270
+
+\u2022ID Bio:
+- ID Bio: Ho-23IWzsj
+
+\u2022Numero ID:
+- Numero ID: ziLW-lMPnp
+
+\u2022URL:
+- Sito Web:  smith-ellison.com/search/postsindex.html
+
+\u2022Cap:
+- Cap: 9891
+"
+

@@ -1,0 +1,32 @@
+"S: Patient Adam Ross, a 4-yo individual, presented with urinary retention and has a history of being born preterm at 4-yo weeks in United States with an unknown postnatal course. This patient has been diagnosed with mild gross motor developmental delay and currently exhibits fussiness, decreased ability to bear weight on lower extremities, and no trauma reported. The adoptive Radiographer, therapeutic has been caring for Adam Ross since early infancy.
+
+O: Physical examination revealed the patient's weight is below the uoZD-cekII percentile with a tx-pLtXmTK of -3.36. Adam Ross exhibits 0/5 strength, hypotonia, areflexia in bilateral lower extremities, significant head lag, and severe thoracic kyphosis. Renal ultrasound showed bilateral moderate hydronephrosis and bladder distension. Laboratory results indicated a normal creatinine level at 58374 VFLV mg/dl, urine culture positive for Enterococcus faecalis >100,000 CFU/mL, unremarkable CBC and BMP, normal TSH, and elevated creatinine kinase at >1200 U/L (six times the upper limit of normal). Spinal CT and MRI revealed complete retrospondylolisthesis of the T12 vertebra with marked spinal cord compression.
+
+A: The primary diagnosis is spinal cord compression secondary to T12 retrospondylolisthesis, contributing to lower extremity paralysis and urinary retention. Differential diagnoses include neuromuscular disorders and potential underlying infectious or inflammatory conditions, as indicated by elevated creatinine kinase. The prognosis depends on the extent of spinal damage and response to treatment.
+
+P: Immediate consultation with pediatric Radiographer, therapeutic, Radiographer, therapeutic, and Radiographer, therapeutic is planned to evaluate the need for surgical intervention and manage urinary retention. Further diagnostic testing will be conducted to assess the extent of muscle damage and potential underlying causes. The patient will be closely monitored for changes in neurological status and kidney function. Parental education will be provided regarding the condition, treatment options, and care requirements to ensure understanding and compliance with the treatment plan.
+
+Additional information:
+- Patient's Account: uoZD-cekII
+- Patient's Address: Adam Ross, 96 Alimentativeness, Gazebos, 83 0603, United States
+- Patient's City: Gazebos
+- Patient's State: 643
+- Patient's Country: United States
+- Patient's Zip Code: 0603
+- Patient's Email: LiamJon@microsoft.org
+- Patient's Phone Number: (354)671-7844x2306
+- Patient's Fax Number: 712.358.1597
+- Patient's Username: VziEZana
+- Patient's Social Security Number: 590-851-506
+- Patient's license Number: VCuvA 4664
+- Patient's IP Address: 150.198.170.203
+- Patient's Vehicle Identifier: 658 5KZ
+- Patient's Date of Birth: 1987
+- Patient's Doctor Name: Liam Jones
+- Patient's Hospital Name: Aviation Hall of Fame
+- Patient's Health Plan: jnSoaAW
+- Patient's Location: restaurant
+- Patient's Organization: Lopez PLC
+- Patient's Street Name: 939 Bell Manor
+- Patient's URL:  bennett.com/explore/taglogin.html"
+

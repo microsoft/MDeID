@@ -1,0 +1,47 @@
+"**Note dell'infermiera**
+
+S: Il tutore del paziente Giovanni Piras riferisce che il suo bambino di 17 anni è stato inviato per il trattamento di una deformità bilaterale irregolare del labbro superiore e della cavità orale con una mascella superiore posizionata in avanti.
+
+O: L'intervento ha comportato la rimozione di circa 3 mm di osso dal piatto osseo che forma la base del naso, situato dietro la lamina perpendicolare dell'osso etmoide, per allineare la mascella superiore posizionata in avanti. Il legamento tra il setto e la premaxilla, anteriore alla lamina perpendicolare dell'osso etmoide, è stato preservato per mantenere la corretta posizione della premaxilla. La mascella superiore è stata quindi riposizionata e stabilizzata utilizzando sutura all'interno dell'osso con 2-0 poliglactina 910 (Parker-Smith, Parker-Smith, Svizzera). È stata anche eseguita una riparazione muscolare del muscolo intorno alla bocca e una limitata rimodellazione del naso attraverso un'incisione a U inversa per migliorare l'aspetto nasale.
+
+A: La diagnosi primaria è una deformità bilaterale irregolare del labbro superiore e della cavità orale con una mascella superiore posizionata in avanti. Le procedure chirurgiche eseguite miravano a correggere queste deformità e migliorare la simmetria e la funzione facciale. La prognosi è generalmente positiva con una corretta guarigione e cure di follow-up.
+
+P: Le cure postoperatorie includono il monitoraggio del processo di guarigione e l'assicurazione di visite di follow-up adeguate per valutare l'esito chirurgico e affrontare eventuali complicazioni. Si consiglia al tutore del paziente di tenere d'occhio il recupero del suo bambino e di contattare il fornitore di assistenza sanitaria se sorgono preoccupazioni o domande. Ulteriori consultazioni con specialisti pediatrici e continui follow-up chirurgici sono pianificati per garantire un recupero e uno sviluppo ottimali.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Ulteriori informazioni sul paziente**
+
+ID del paziente: sBZg ymhOa
+Età: 17
+Data della procedura: mercoledì 15 aprile 2015
+Nome del dottore: Alina Keller
+Ospedale: Auburn University AL
+Numero di conto: bs 563Tmfa
+Numero ID: bs 563Tmfa
+Piano sanitario: bWyl
+
+**Informazioni di contatto**
+
+Numero di telefono della madre: 693.897.1214x6817
+Numero di telefono di contatto d'emergenza: 693.897.1214x6817
+Indirizzo email: elllina@who.int
+Indirizzo di casa: Giovanni Piras, 4828 Dylan Branch, 100, 0151 Fossano Beezer, Italia
+
+**Footer**
+
+URL: http://www.bell.com/wp-contentauthor.html
+Nome utente: irasan
+Numero di previdenza sociale: VPIBEB34Y48W516L
+Numero di licenza: 36 027sxYB
+Informazioni sul veicolo: 29YK6
+ID biometrico: Tw-02QRXoH
+Indirizzo IP: 177.117.141.28
+Professione: Ingegnere delle comunicazioni
+Organizzazione: Parker-Smith
+Stato: 80
+Città: Fossano
+Paese: Svizzera
+Via: 44878 Wallace Summit
+CAP: 0151
+Fax: (700)952-4872x0744"
+

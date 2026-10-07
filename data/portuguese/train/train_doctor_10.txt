@@ -1,0 +1,26 @@
+"Nota do Médico Scratch:
+
+P: Laura Gomez, 67 Masculino, desconforto lombar, fraqueza nas extremidades inferiores após URTI menor. O tratamento inicial para suspeita de artrite transitória nos quadris não mostrou melhora. 
+Lara Pinto: \"Terapia anti-inflamatória ineficaz, dor intensificada, paciente incapaz de andar\"
+
+O: Sem efusão articular, ultrassom do quadril
+Radiografia da coluna: Redução menor na espessura do soma L5
+MRI: Sinais de pós-realce T1 em anulus L4-L5, placas finais de L4 e L5, tecidos moles adjacentes, área osteolítica do pedículo L5. 
+Sangue: Taxa de sedimentação de eritrócitos alta (77 mm/h), proteína C-reativa alta (2,17 mg/dL), contagem normal de leucócitos, concentração sérica normal de procalcitonina, teste Quantiferon TB-gold normal. 
+Leucopenia com neutropenia severa após 3 semanas de terapia (contagem de leucócitos em 5410/mm3).
+Lara Pinto: \"Resultados de MRI e exames de sangue indicam Espondilodiscite com osteomielite\"
+
+A: Diagnóstico Primário: Espondilodiscite e osteomielite. 
+Diagnóstico Diferencial Inicial: Artrite transitória nos quadris.
+Complicação: Leucopenia com neutropenia severa.
+Lara Pinto: \"Complicação observada - leucopenia com neutropenia severa\"
+
+P: Terapia iniciada com meropenem intravenoso (900494-UsV) (100 mg/kg/dia em três doses) e vancomicina (900494-UsV) (40 mg/kg/dia em três doses). 
+Continuação do tratamento anti-inflamatório na primeira semana. 
+Plano: Monitorar de perto o progresso do paciente, ajustar o tratamento conforme necessário, especificamente para leucopenia com neutropenia severa. 
+Seguimentos regulares e exames de sangue agendados no Stars 
+Lara Pinto: \"Monitoramento próximo planejado, acompanhamentos regulares no Stars, atenção à leucopenia com neutropenia severa\"
+
+Lara Pinto - Banker 
+"
+

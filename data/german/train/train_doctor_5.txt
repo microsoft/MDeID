@@ -1,0 +1,36 @@
+"Arzt Kratz Notiz:
+
+- Patient: Vincent Pieters
+- ID: fqztO-RDew
+- Alter: 39
+- Zustand: Fortgeschrittenes Herzversagen
+- DCM-Geschichte: Ja
+- Gerät: CRT-D (vor 7 Jahren), HeartMate II® LVAD (vor 4 Jahren, Brücke zur Transplantation)
+- Aktuelle Symptome: VF, Rechtsherzversagen, Leberstauung
+- Behandlung: Amiodaron, Nifekalant, Mexiletin, Lidocain, PDE5-Inhibitor, Diuretika, LVAD-Geschwindigkeitsoptimierung
+
+Beobachtungen (Anfangs - Nach LVAD-Implantation):
+- EF: 13%
+- LV-Dilatation (Diastole): 51 mm
+- Aortenregurgitation: Geringfügig
+- RV-Kontraktion (FAC): 33%
+- VF: Anhaltend
+- AF: Zunehmende Häufigkeit (paroxysmal)
+- Gesamtbilirubin: Erhöht (verschlechterte Leberfunktion)
+
+Bewertung:
+- Primärdiagnose: Fortgeschrittenes Herzversagen (DCM)
+- Komplikationen: VF, Rechtsherzversagen
+- Differentialdiagnosen: Fortschreiten der Herzinsuffizienz, arrhythmieinduzierte Kardiomyopathie, gerätebedingte Komplikationen
+- Prognose: Ungewiss
+
+Plan:
+- Weiteres Monitoring: Herzfunktion, Leberenzyme
+- Medikamentenanpassung: Nach Bedarf (Arrhythmien, Symptome von Herzversagen)
+- LVAD-Einstellungen: Ausreichende Perfusion sicherstellen
+- Nachsorge: Regelmäßige Termine, Zustand & Gerätefunktion überwachen
+- Bildung: Erkennen von Symptomen der Herzinsuffizienz, Einhaltung des Behandlungsplans
+- Beratung: Raphael Wallner (Herztransplantationsteam)
+
+Notiz von: Raphael Wallner (Steinbruchleiter) im Landkrankenhaus/Wilson-Wade"
+

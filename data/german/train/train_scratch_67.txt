@@ -1,0 +1,66 @@
+"**Krankenschwester Notiz**
+
+Patient: Mia Wyss 
+
+Zustand:  
+
+----------
+**Vitalwerte**
+- Temp: 100.5F
+- Herzfrequenz: 88bpm
+- Atemfrequenz: 16rpm
+- Blutdruck: 120/80mmHg
+- Sauerstoffsättigung: 98%
+  
+----------
+**Symptome**
+-  
+
+----------
+**Mögliche Kontakte**
+- Familie: Mia Wyss
+- Arzt: Martha Heinrich
+- Kontakt: (562)532-7916x89530
+
+----------
+**Zusätzliche Info**
+- Krankenakte: AktXL-2867
+- Konto: 49-bQyLYio
+- Gerät: 019342 Pvi
+
+----------
+**Geschichte**
+- Kürzliche Besuche: 22.12.94
+- Vorherige Zustände: 
+
+----------
+**Ort**
+- Zuhause:Mia Wyss, Thomas-Widmann-Weg 2/8 30, 0748 Benicarló, Österreich
+- Krankenhaus:Rimini F.C
+- Andere:Bushaltestelle
+
+----------
+**Persönlich**
+- Alter: 27
+- SSN: 063-4179875-11
+- ID: 49-bQyLYio
+
+----------
+**Online**
+- Benutzername: vsw4zOd2
+- Email: thaHei@microsoft.org
+- IP Adresse: 42.233.6.119
+
+----------
+**Sonstiges**
+- Fahrzeug: 400 UBM
+- Organisation: Harrison-Carter
+- Gesundheitsplan: TDMuk
+
+----------
+**Notizen**
+Beobachtung von starken Gelenkschmerzen und Körperschmerzen. Möglicher Fall von Dengue. Bluttest vorgeschlagen. 
+
+Krankenschwester: Martha Heinrich Unterschrift: 7100 68903
+"
+

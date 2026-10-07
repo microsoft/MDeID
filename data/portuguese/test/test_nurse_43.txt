@@ -1,0 +1,41 @@
+"**Cabeçalho:**
+ID do Paciente: Sofia Carvalho
+Data de Nascimento: 14 de dezembro de 1993
+Data de Admissão: 14 de dezembro de 1993
+Número do Prontuário Médico: 0525 iNAjm
+Número da Conta: dWkKlS 743
+Número de Série do Dispositivo: tARoQD-369
+Nome de Usuário para o Portal do Paciente: HDt9HHVK
+Identificador do Veículo: 655-HLJA
+SSN: 435.548.729-19
+Número da Licença: ikLVf-iIba
+Identificador Biométrico: 502774 pzY
+Endereço IP: 223.181.68.104
+Identificador Único: dWkKlS 743
+
+**Nota Narrativa de Enfermagem:**
+
+O paciente, com 88 anos de idade, com histórico de taquicardia ventricular idiopática sustentada sintomática (TV), foi implantado com um cardioversor-desfibrilador implantável de câmara dupla (ICD) em 14 de dezembro de 1993 para prevenção secundária. Desde 14 de dezembro de 1993, o paciente experimentou várias descargas de ICD e recorrências de TV, apesar de ter passado por três procedimentos de ablação por cateter em 14 de dezembro de 1993, que foram realizados sem um sensor de força de contato (CF) e usando uma abordagem transaórtica retrógrada. O paciente relata até 97 choques de ICD apropriados desde a implantação e teve episódios de tempestades arrítmicas.
+
+O último ECG de 12 derivações registrado do paciente mostrou ritmo sinusal com contrações ventriculares prematuras originadas do meio-inferosepto do ventrículo esquerdo. A ecocardiografia transtorácica indicou função sistólica biventricular normal e regurgitação da válvula mitral de leve a moderada. Os parâmetros de ablação incluíram potência de RF a 50 W, temperatura máxima de 45°C e fluxo de irrigação a 15 mL/min.
+
+O diagnóstico principal é taquicardia ventricular idiopática recorrente, com o paciente experimentando múltiplos choques de ICD e tempestades arrítmicas, apesar das terapias de ablação anteriores e medicamentos antiarrítmicos. Os diagnósticos diferenciais podem incluir outras formas de arritmias ventriculares ou doença cardíaca estrutural, embora a fração de ejeção preservada e a origem específica da TV sugiram um processo arrítmico focal.
+
+O plano de gerenciamento inclui monitoramento próximo dos episódios arrítmicos do paciente e função do ICD. Ajustes nos medicamentos antiarrítmicos serão considerados, e mais procedimentos de ablação podem ser necessários se a TV persistir. O paciente será educado sobre o reconhecimento dos sintomas de eventos arrítmicos e a importância das visitas regulares de acompanhamento para avaliar a função do dispositivo e a eficácia do tratamento.
+
+**Rodapé:**
+
+Endereço: Sofia Carvalho, Vila Araújo 158, Culmen, São Geraldo - 77, 6I863EAC, Brasil
+Hospital: Brisbane Queensland
+Informações Adicionais de Localização: universidade
+Plano de Saúde: XijCDlas txb uaMdCZz OY82hD
+Profissão: Gerente de sistemas de informação
+Organização: Myers, Williams and Russell
+Próxima Consulta Agendada: 14 de dezembro de 1993
+Médico de Cuidados Primários: Tomás Gomes
+Email: omess@aol.com
+Contato de Emergência: Sofia Carvalho
+Número de Telefone: (828)290-6068x7873
+Número de Fax: (585)793-9814
+Website: mitchell.gregory.hurst.biz"
+

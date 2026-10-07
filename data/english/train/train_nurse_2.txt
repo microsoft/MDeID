@@ -1,0 +1,45 @@
+"Nursing Consultation Note
+
+Header: Consultation Information
+-------------------------------------
+Patient: Megan Ruiz
+Address: Megan Ruiz, 70 Puttees, Restfullest, 25 8584, Canada
+City: Restfullest
+State: 36
+Country: New Zealand
+Zip: 8584
+Age: 83 yo
+Phone: 001-736-978-3590x7544
+Email: urei@red-cross.org
+Username: Meganu
+Social Security: 475-12-5433
+Health Plan: eFxqurPc
+Doctor: Lauren Harris
+Hospital: WTKA
+-------------------------------------
+
+Subjective: The patient, identified as Megan Ruiz, a 83 yo African American male, has reported no current symptoms or discomfort. His visit is for a routine check-up. He disclosed a significant family history of prostate cancer, with his 83 yo brother having been diagnosed and treated with radiation.
+
+Objective: Currently, Megan Ruiz is asymptomatic. No physical examination records or laboratory results are associated with this consultation.
+
+Assessment: Based on the information provided, Megan Ruiz is at an increased risk for prostate cancer due to his ethnicity and family history (first-degree relative diagnosed at 83 yo). The discussion was centered around the potential benefits and risks of PSA testing, considering the varying recommendations from different health organizations.
+
+Plan: The plan is to have an in-depth conversation about PSA testing to allow Megan Ruiz make an informed decision. The patient is encouraged to do further research and prepare any questions he might have for a follow-up discussion. He was also advised to report any new symptoms or concerns in the interim.
+
+Footer: Additional Information
+-------------------------------------
+Account: rBLuj-rMCi
+Medical Record: 036135-Mdn
+Device: TY CFrFUQN
+License: SJpl-CBwEJ
+BioID: 209382-KPI
+IP Address: 187.70.149.252
+ID Number: rBLuj-rMCi
+Location: superstore
+Profession: Geologist, wellsite
+Organization: Ramos, Johnson and Ross
+Vehicle: 206JVL
+URL:  www.ellison.com/search/list/mainlogin.php
+Fax: 001-343-454-9494x98048
+-------------------------------------"
+

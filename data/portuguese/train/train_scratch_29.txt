@@ -1,0 +1,166 @@
+"Nota de Enfermagem
+
+============================================
+
+| Resumo de Thaís Barboza |
+
+--------------------------------------------
+
+PA: 120/80 mmHg
+
+Pulso: 78 bpm
+
+Temp: 98.6°F
+
+Queixas: Dor nas costas, constante
+
+Observação: Possível 
+
+Tratamento:  em andamento
+
+============================================
+
+| Tabela de Sinais Vitais |
+
+--------------------------------------------
+
+| Parâmetro | Valor |
+
+|------------------|-------|
+
+| Frequência Cardíaca | 78 bpm |
+
+| Frequência Respiratória | 18 bpm |
+
+| Pressão Arterial | 120/80 mmHg |
+
+| Temperatura Corporal | 98.6°F |
+
+============================================
+
+| Cartão de Condição Atual |
+
+--------------------------------------------
+
+Decifrando origem da dor, monitorando sinais vitais de Thaís Barboza. Sugerindo espondilose cervical.  em progresso.
+
+============================================
+
+| Notas sobre 25510 PWoh |
+
+--------------------------------------------
+
+Dispositivo de monitoramento ref#: 25510 PWoh
+
+============================================
+
+| Informações de Thaís Barboza |
+
+--------------------------------------------
+
+Número de Registro: 8117-BMsoL
+
+Conta: hdHoFP 80O
+
+============================================
+
+| Contatos da Equipe de Cuidados |
+
+--------------------------------------------
+
+Médico Principal: Leonor Mendes
+
+Telefone: 001-693-277-8195
+
+Email: orMende@outlook.com
+
+============================================
+
+| Informações Pessoais de Thaís Barboza |
+
+--------------------------------------------
+
+Nome de Usuário: sBarbo
+
+Data de Nascimento: 15 de abr. de 1980
+
+============================================
+
+| Endereço |
+
+--------------------------------------------
+
+Endereço: Thaís Barboza, Rua de Vicente, 2 144, 0681 Crateus, Portugal
+
+Localização: teatro
+
+============================================
+
+| Informações Adicionais |
+
+--------------------------------------------
+
+Veículo: 075 1PF
+
+Número do Seguro Social: 67292843-4
+
+Licença: 79-qwOTZJX
+
+============================================
+
+| Outros Identificadores |
+
+--------------------------------------------
+
+BioID: 394407-221
+
+Endereço IP: 26.158.125.74
+
+Número de ID: hdHoFP 80O
+
+============================================
+
+| Demografia |
+
+--------------------------------------------
+
+Idade: 38
+
+============================================
+
+| Status de Thaís Barboza |
+
+--------------------------------------------
+
+Hospital: Chengde
+
+Plano de Saúde: cRxlkp45J a1J
+
+============================================
+
+| Ocupação |
+
+--------------------------------------------
+
+Profissão: Hydrologist
+
+Organização: Wagner Ltd
+
+============================================
+
+| Detalhes da Internet |
+
+--------------------------------------------
+
+URL: http://carey.com/tagprivacy.php
+
+Fax: 877-846-5006
+
+============================================
+
+| Notas Confidenciais |
+
+--------------------------------------------
+
+Entrada por: Enfermeira , 15 de abr. de 1980\n"
+

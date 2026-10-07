@@ -1,0 +1,56 @@
+"**Verpleegkundige Kras Notitie**
+
+Patiëntinformatie: Evert Vink
+
+Vitale functies:
+- BP: 120/80 mmHg
+- HR: 75 bpm
+- RR: 16/min 
+- Temp: 98.6 F
+- SpO2: 98%
+
+Observaties:
+- Uitslag: Volledig lichaam
+- Huid: Droog, Schilferig
+- Conditie: Jeukend, Intens
+- Verdacht: Schimmelinfectie
+
+Behandelplan:
+- Antischimmelmedicatie
+- Hydraterende huidcrème
+- Vervolg: Na 2 weken
+
+Gestructureerde Informatie:
+
+| Element        | Placeholder   |
+| -------------- | ------------- |
+| Naam van de dokter  | Stef De Wilde      |
+| Medisch dossier | XUP WLPFUS |
+| Rekeningnummer | 873119 ydT     |
+| Licentienummer | 6411 hefVs     |
+| Apparaat ID      | CoKPmJ LyG      |
+| Gebruikersnaam       | wm9R1OFZ    |
+| Voertuig ID     | 4-81285U     |
+| Sociale zekerheid| 104283393 |
+| Bio ID         | 419-FohFdB       |
+| IP-adres     | 218.202.41.221   |
+| ID-nummer      | 873119 ydT       |
+| Leeftijd            | 6         |
+| Adres        | Evert Vink, Fermentability 130, 3915 Sulphureosaline, Nederland     |
+| Ziekenhuis       | Universiteit van Princeton    |
+| Andere locatie | vliegveld |
+| Zorgplan    | 16iDt  |
+| Beroep     | Tourmanager  |
+| Organisatie   | Black, Smith en Thomas|
+| E-mail          | DeStede@microsoft.org       |
+| Telefoon          | +1-563-669-9405x5967       |
+| URL            | bullock.carter-romero.com         |
+| Fax            | 853.685.6795         |
+| Staat          | 973       |
+| Stad           | Strum        |
+| Land        | België     |
+| Straat         | 74842 Morgan Circles      |
+| Postcode            | 3915         |
+
+Opmerking: Patiënt klaagt over intense jeuk en ongemak door uitslag. Voorgeschreven antischimmelmedicatie en hydraterende huidcrème. Regelmatige opvolging aanbevolen."
+

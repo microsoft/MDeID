@@ -1,0 +1,61 @@
+"Verpleegkundige Kras Notitie
+
+--------------------------------------------------
+|             PATIËNT DETAILS:                   |
+| Patiënt Noa Geerts                              |
+| Leeftijd: 13                                     |
+| Adres: Noa Geerts, Recook 66, 3735 Oscitancy, Nederland                             |
+| Account: 535-92tPcL                             |
+| Ziekenhuis: Assises Court of Seine                           |
+| Medisch Dossier: Vh EhwTcve                |
+--------------------------------------------------
+
+-----------------------------------------------------
+|             VERPLEEGKUNDIGE OBSERVATIE:                  |
+-----------------------------------------------------
+BP: 128/84      
+Hartslag: 72 bpm    
+Ademhalingsfrequentie: 18 rpm
+O2 Verzadiging: 98%
+
+-----------------------------------------------------
+|             VERPLEEGKUNDIGE BEOORDELING:                   |
+-----------------------------------------------------
+Patënt Noa Geerts meldt verkoudheidssymptomen - 
+Aanwezig: 
+- Ervaart hoesten (ernst 7/10)
+- Neusverstopping
+
+------------------------------------------------
+|             MOGELIJKE INTERVENTIES:           |
+------------------------------------------------
+- Hydratatie 
+- Rust
+- Vrij verkrijgbare verkoudheidsmedicijnen
+
+-----------------------------------------------------
+|             CONTACTINFORMATIE:                  |
+-----------------------------------------------------
+Dokter: Ernst van de Velde      
+Telefoon: +1-986-298-6003      
+Email: Veldeans@gmail.com
+
+--------------------------------------------------
+|             EXTRA INFORMATIE:              |
+--------------------------------------------------
+Gebruikersnaam: 8b1LesnX                               
+Apparaat ID: PrXCas-402        
+Noodcontact: Noa Geerts        
+BSN: 736237248                          
+Licentie: swOcKm-031                            
+Beroep: Datawetenschapper  
+
+-----------------------------------------------------
+|             VOLGENDE AFSPRAAK:                     |
+-----------------------------------------------------
+Locatie: universiteit
+Datum: 17 mei 2019
+Zorgplan: nJTlP 
+
+Notitie: Monitor voor verbetering of verslechtering van symptomen. Neem contact op met Ernst van de Velde als de symptomen aanhouden of verergeren."
+

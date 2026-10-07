@@ -1,0 +1,60 @@
+"S: Il paziente Josef Wyss, ricevente di un trapianto di fegato dal 7 agosto 2005 a causa di cirrosi alcolica e carcinoma epatocellulare, riporta una storia di linfoma diffuso a grandi cellule B trattato con chemioterapia nel 7 agosto 2005, malattia psichiatrica e epilessia post-traumatica. Negano sintomi di encefalopatia. Hanno sperimentato elevazioni intermittenti delle transaminasi dal 7 agosto 2005, sospettate di essere correlate all'uso di alcol, e si sono presentati con ascite e disfunzione del trapianto nel 7 agosto 2005.
+
+O: I farmaci attuali includono tacrolimus con livelli regolati intorno a xf 32xadoc e prednisone 767706 745 al giorno. Gli esami di funzionalità epatica hanno rivelato transaminasi moderatamente elevate e un certo grado di colestasi. La sierologia era negativa per l'epatite B, C e il citomegalovirus ma positiva per il virus di Epstein-Barr entro i limiti normali per il paziente. In particolare, gli anticorpi anti-HEV IgM e IgG erano positivi, e la PCR ha confermato l'RNA dell'HEV nel plasma e in un campione di siero conservato dal 7 agosto 2005, indicando un'infezione cronica da epatite E. Dall'introduzione della ribavirina nel 7 agosto 2005, gli esami di funzionalità epatica sono migliorati.
+
+A: La diagnosi primaria è cirrosi del trapianto scompensata secondaria a infezione cronica da epatite E. La storia del paziente di uso di alcol può contribuire alla disfunzione epatica. Le diagnosi differenziali precedentemente considerate e escluse includono la riattivazione delle infezioni da epatite B, C e citomegalovirus.
+
+P: Continuare a monitorare regolarmente gli esami di funzionalità epatica e i livelli di tacrolimus. Mantenere le dosi attuali di tacrolimus e prednisone. La terapia con ribavirina sarà continuata, con aggiustamenti basati sulla risposta e sulla tolleranza. Al paziente è consigliato di astenersi dall'alcol per prevenire ulteriori danni al fegato. Sono necessari controlli regolari per monitorare la progressione della malattia epatica e regolare il trattamento secondo necessità. Il prossimo appuntamento del paziente è previsto per il 7 agosto 2005 presso l'Va.
+
+Informazioni aggiuntive: 
+
+Dettagli di contatto del paziente: 001-596-814-0886, tefari@red-cross.org
+
+Dettagli di contatto dell'ospedale: 001-596-814-0886, 656-802-5441
+
+Indirizzo del paziente: Josef Wyss, 849 Connie Fort Suite 497, 187, 9367 Radicofani Neothalamus, Italia
+
+Numero di cartella clinica del paziente: 650246-048
+
+Fornitore di assistenza sanitaria: Williams, Horn and Brown
+
+Piano sanitario del paziente: Kit
+
+Età del paziente: 9
+
+Nome del medico: Stefania Neri
+
+Indirizzo IP del paziente: 37.28.206.174
+
+Numero di previdenza sociale del paziente: LWBGGC07Q92F898A
+
+Numero di conto del paziente: 767706 745
+
+Identificatore del dispositivo del paziente: 713598 AKA
+
+Nome utente del paziente: P2aQmHA9
+
+Identificatore del veicolo del paziente: 0C 5G4PEJ
+
+Identificatore della licenza del paziente: 344130-026
+
+Altro identificatore personale del paziente: 767706 745
+
+Dettagli professionali del paziente: Igienista occupazionale
+
+Codice postale del paziente: 9367
+
+Posizione dell'ospedale: teatro
+
+URL dell'ospedale: green.org
+
+Email del medico: tefari@red-cross.org
+
+Città del paziente: Radicofani
+
+Paese del paziente: Svizzera
+
+Stato del paziente: 72
+
+Strada del paziente: 069 Kristina Fords Suite 493"
+

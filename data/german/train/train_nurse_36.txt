@@ -1,0 +1,42 @@
+"Pflegebericht für Patienten mit genetischer Störung
+
+Subjektive Informationen
+
+Die Mutter des Patienten, Pieter Martin, berichtete, dass ihr Sohn, im Alter von 31, leichte bis mäßige Sprach- und Entwicklungsverzögerungen erlebt. Er wurde auch mit Aufmerksamkeitsdefizitstörung diagnostiziert. Sie versicherte, dass es keine Probleme in Bezug auf Muskeltonus oder Hypotonie gab. Spezifische körperliche Merkmale wurden beim Patienten festgestellt, darunter Retrognathie, leichter Hypertelorismus, ein ausgeprägtes Philtrum, dünne Oberlippe, breite und kurze Hände, leichte Syndaktylie der zweiten und dritten Zehen und eine Sandalenlücke an beiden Füßen.
+
+Objektive Informationen
+
+Eine neurobildgebende Untersuchung, speziell eine MRT des Gehirns, zeigte keine strukturellen Anomalien. Genetische Tests, speziell Whole Exome Sequencing (WES), ergaben eine de novo Frameshift-Variante Chr1(GRCh37):g.244217335del, NM_205768.2(ZBTB18):c.259del(p.(Leu87Cysfs*21)), was auf ein vorzeitiges Stoppcodon hinweist, das mehr als 400 Codons stromaufwärts des kanonischen Stoppcodons liegt.
+
+Bewertung
+
+Die Hauptdiagnose ist eine genetische Störung, die mit der identifizierten Frameshift-Mutation in Verbindung steht. Diese Mutation trägt wahrscheinlich zu den Sprach- und Entwicklungsverzögerungen des Patienten und zur Aufmerksamkeitsdefizitstörung bei. Die körperlichen Merkmale und genetischen Befunde deuten auf ein spezifisches Syndrom hin, das eine weitere Korrelation mit klinischen Befunden und genetischer Beratung erfordert.
+
+Plan
+
+Der Behandlungsplan umfasst regelmäßige Nachsorgetermine bei einem Sprach- und Sprachtherapeuten, einem Ergotherapeuten und einem Psychologen, um die Entwicklungsbedürfnisse des Patienten zu unterstützen und seine Aufmerksamkeitsdefizitstörung anzugehen. Regelmäßige medizinische Untersuchungen werden sein Wachstum und die allgemeine Gesundheit von Burnett, Garcia und Nelson überwachen. Eine genetische Beratung für die Familie wird ebenfalls empfohlen. Dies wird von Olivia Roth erleichtert, um die Auswirkungen der genetischen Befunde und die potenzielle familiäre Vererbung zu besprechen.
+
+*Zusätzliche Informationen*
+
+- Patientenakte Nummer: 195-DZVPtO
+- Kontonummer des Patienten: uDCo 44moz
+- Benutzername für das Online-Portal: O5DgrhCM
+- Sozialversicherungsnummer: 965-7969118-49
+- Führerscheinnummer der Mutter: 06309 1264
+- ID-Nummer: uDCo 44moz
+- Adresse: Pieter Martin, Widmannring 894 113, 8475 Lippetal, Österreich
+- Krankenhaus: 1888-1901
+- Anderer Ort: Bushaltestelle
+- Gesundheitsplan: ot3ZRg xMaL2c 7gqZsQZ
+- Beruf der Mutter: Musiklehrerin
+- Organisation der Familie: Burnett, Garcia und Nelson
+- Datum der nächsten Nachsorge: Freitag, 27. Januar 1995
+- Kontaktarzt: Olivia Roth
+- E-Mail-Adresse: ao@who.int
+- Kontakttelefon: 8887490754
+- Fax: +1-812-682-4215x56414
+- Website für das Online-Portal: https://brown.com/category/tagterms.php
+  
+Krankenschwester O5DgrhCM, RN, BSN
+"
+

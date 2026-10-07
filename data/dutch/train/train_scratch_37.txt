@@ -1,0 +1,44 @@
+"--:: VERPLEEGKUNDIGE KRABBEL NOTITIE, CODE: 231505-50R ::--
+
+- Pt. Huib van der Heijden - vermoeden van spataderen
+- Relevante gegevens:
+    - Vitale functies: BP 130/80 mmHg, HR 72 bpm, TEMP 98.6F, SpO2 98%
+    - Ambulant, geen nood
+    - Inspectie benen - abnormale aderen aanwezig
+
+-- \u221a Beoordeling & Plan --
+
+Osteopaat meldt ongewone aderen - Benen
+- Monitor progressie
+- Overweeg verwijzing naar Charlotte De Vos
+- VI therapie?
+
+--:: Volgende van Kin ::--
+Naam: Huib van der Heijden
+Relatie: Moeder
+Contact: (339)629-3396
+Adres: Huib van der Heijden, Tricophorous 57, 8807 Pneumatocystic, België
+
+--:: Digitale Info ::--
+IP Adres: 34.27.114.143
+Gebruikersnaam: bHeijdenvand
+
+--:: Nood Info ::--
+Zorgplan: rfMN
+Licentie: OMXO 834rd
+BioID: 027822 sPc
+
+--:: Vitale Tekens - Apparaat Info ::--
+Apparaat: iR 710jYKt
+ID: 232 3409Mc
+
+Footer:
+Verwijzing naar Struthers
+Bijgewoond door- Charlotte De Vos
+Op- zondag 19 januari 2014
+
+NOTITIES:
+Vitale functies stabiel. Geen onmiddellijke zorg. Vervolg op zondag 19 januari 2014.
+Mogelijk beroepsrisico. Werkplek: Schneider LLC
+"
+

@@ -1,0 +1,61 @@
+"------------Nurse's Scratch Note------------
+
+[HOSPITAL: West University of Timișoara] | [DATE: 2.6]
+[Account: 97760 5275]
+
+4 - Patient's age
+Jacchus - Current city of residence
+randoval - for patient portal
+
+**Vitals:**
+BP: 120/80 mmHg
+HR: 80 bpm
+Temp: 98.6 F
+RR: 16 breaths/min
+
+**Observations:**
+- Signs of discomfort while urinating
+- Heather Sandoval reported frequent urination
+- Elevated WBC count - Possible infection
+
+**Assessment:**
+Poss. UTI - Urine sample required for Pmxv-yTnSb 
+
+**Plan:**
+Antibiotics prescribed by Kyleigh Campbell
+F/up in a week, schedule via patient portal
+
+**Notes:**
+Informed Heather Sandoval about maintaining hydration
+
+**Emergency Contact Info:**
+Phone: 397.325.8592x5253
+Backup Phone: 397.325.8592x5253
+Email: Campbelig@un.org
+
+**Medical Record Num: 48-491ZJwO**
+
+**Device Info:**
+Device ID#: 299702-090
+
+**Other Info:**
+Social Security#: 129-663-868
+Profession: Therapeutic radiographer
+Health Plan: mIbPH8 sCWfL
+Location other than home: school
+
+**Signature**
+Nurse [Username: randoval]
+
+---------------------------------- Footer ----------------------------------
+[IPADDRESS: 136.84.105.135]
+[ORGANIZATION: Garcia and Sons]
+[URL: lewis.carter.com]
+[ZIP: 9224]
+[STATE: 120]
+[VEHICLE: KZT 398]
+[STREET: 790 Brittany Pine Suite 510]
+[LICENSE: 90271 wVsF]
+[FAX: 001-495-985-0353]
+[IDNUM: 97760 5275]"
+

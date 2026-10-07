@@ -1,0 +1,36 @@
+"Dokterskrabbel Notitie:
+
+Onderwerp: Sanne de Vries, ID: OBlztw 421, Leeftijd 69, Transplantatie Ontvanger
+
+- Hx: 
+    - Levertransplantatie '98, oorzaak: alcoholische cirrose, hepatocellulair carcinoom
+    - Eerdere Diffuse grootcellige B-cellymfoom, behandeling: chemotherapie '06
+    - Psychiatrische ziekte, post-traumatische epilepsie
+    - Ontkent symptomen van encefalopathie
+    - Intermittente transaminase verhogingen sinds '14, vermoedelijk alcoholgebruik
+    - Ascites, graft disfunctie, augustus 30 december 2003
+
+- Rx: 
+    - Tacrolimus, niveaus ~2 μg/l 
+    - Prednison, 5 mg dagelijks
+
+- Obs: 
+    - Leverfunctie: matige transaminase verhogingen, cholestase
+    - Serologie: Hep B, C, CMV negatief, Epstein-Barr virus binnen normale grenzen, anti-HEV IgM, IgG positief
+    - PCR: HEV RNA in plasma, opgeslagen serummonster '14, chronische Hep E infectie
+    - Na introductie van ribavirine, september 30 december 2003, leverfunctie verbeterd
+
+- Beoordeling: 
+    - Gedecompenseerde graft cirrose, chronische Hep E infectie primaire diagnose
+    - Geschiedenis van alcoholgebruik, mogelijke bijdrager aan leverdisfunctie
+    - Eerdere differentiëlen uitgesloten: Hep B, C, CMV reactivatie
+
+- Plan: 
+    - Doorgaan met leverfunctie, tacrolimus monitoring
+    - Huidige doseringen tacrolimus, prednison handhaven
+    - Voortzetting van ribavirine therapie, aanpassing op basis van respons, tolerantie
+    - Advies: Alcoholonthouding, verdere leverschade voorkomen
+    - Regelmatige vervolgafspraken: bewaking van de progressie van de leverziekte, aanpassing van de behandeling indien nodig
+
+Justin Segers"
+

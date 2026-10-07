@@ -1,0 +1,36 @@
+"```
+                *** KRITZELNOTIZ ***
+
+PATIENT: Jonas Richter
+ALTER: 20
+VORLIEGENDE PROBLEME:
+- Häufiges Wasserlassen
+- Schwierigkeiten beim Wasserlassen 
+
+VITALWERTE:
+BP: 130/85 mmHg
+Temp: 98.7 F
+Puls: 78 bpm
+
+NOTIZEN:
+- Anzeichen deuten auf Harnwegsinfektion hin
+- Labortests angefordert
+- TNs cRyokM für medizinische Vorgeschichte zugänglich machen
+- G7mF1EtL für Website-Login erwähnt
+- rnle@unhcr.org für Testergebnisbenachrichtigung benötigt 
+
+KONTAKT:
+- Notfallkontakt: 001-803-607-0528x873
+- Wohnadresse: Jonas Richter, Ruppertallee 2 120, 4529 KILB, Österreich
+- Zuständiger Arzt: Jule Horn
+
+ZUSÄTZLICHE INFOS:
+- Bevorzugter Gesundheitsdienstleister: lztgoNgT xdWOf676UfiN9RC
+- Letzter Krankenhausbesuch: French First
+- Kontostand: Ghsnm-327v
+- Geräteseriennummer (falls vorhanden): HaXfa-XRQO
+
+-ENDE DER KRITZELNOTIZ-
+```
+Dieses synthetische Dokument enthält keine persönlichen Gesundheitsinformationen (PHI)."
+

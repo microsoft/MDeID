@@ -1,0 +1,100 @@
+"Nota de Rascunho de Enfermagem
+
+[Informações do Cabeçalho]
+
+------------------------------------------------------------------------
+
+Conta: 50-41DfLiX | Registro: sCikS-eMXg | ID: 50-41DfLiX | Usuário: tIJff1qq
+
+Detalhes de Contato: Telefone: 500.773.7010 | Email: in@red-cross.org | Fax: 556.740.8827
+
+Detalhes Pertinentes:
+
+- Hospital: St John ’ s Darlington
+
+- Localização: estádio
+
+- Data de Nascimento: 30 de mai. de 2004
+
+- Idade: 99
+
+- Endereço: Cauã Santos, Praça Pinho, 2 45, Barkpeeler, Jacundá - 80, 0VXAY390, Brasil
+
+[Observações Primárias]
+
+------------------------------------------------------------------------
+
+Paciente: Cauã Santos
+
+- Queixa: Dor de cabeça latejante, provavelmente enxaqueca
+
+Leitura dos Sinais Vitais:
+
+- PA: 130/80 mmHg
+
+- FC: 82 bpm
+
+- SpO2: 98%
+
+- Temp: 98.6 F
+
+[Observações Médicas e Plano de Tratamento]
+
+------------------------------------------------------------------------
+
+- Sensibilidade à luz observada
+
+- Náusea relatada
+
+- Sem febre
+
+- Sem sinais visíveis de angústia
+
+Plano:
+
+- Administrado 50 mg de sumatriptano
+
+- Recomenda-se descanso em um ambiente com pouca luz
+
+- Monitoramento contínuo
+
+[Informações Adicionais]
+
+------------------------------------------------------------------------
+
+- Plano de Saúde: U7aBE
+
+- ID do Dispositivo: DGbqAI 90H
+
+- Licença Profissional: 890603-336
+
+- ID Biométrico: xPVwp-MVpv
+
+- Endereço IP: 46.233.97.217
+
+- ID do Veículo: 655XLX
+
+- Segurança Social: 911.238.105-18
+
+- Cidade: Jacundá
+
+- País: Brasil
+
+- Estado: 80
+
+- CEP: 0VXAY390
+
+- Organização: Ramsey-Scott
+
+- Profissão: Oficial de suporte técnico de TI
+
+[Informações do Rodapé]
+
+------------------------------------------------------------------------
+
+- Relatório preparado por: Ana Moreira
+
+- URL para o portal do paciente: wright.smith.miller.info
+
+Nota: Todas as informações fornecidas são confidenciais e não devem ser divulgadas sem a devida autorização."
+

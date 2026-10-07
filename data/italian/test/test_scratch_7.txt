@@ -1,0 +1,37 @@
+"**Nota di Osservazione Infermieristica**
+
+**Intestazione:**
+
+ 
+ in servizio 
+ di 
+Nome dell': Elektra
+
+**Corpo:**
+
+Vitali: Temp 98.6 F, BP 125/80, HR 75 bpm, RR 16/min
+ ha menzionato di sentirsi molto prurito, osservata decolorazione giallastra, probabile ittero.
+
+**Informazioni di Contatto di Emergenza:**
+
+Nome del Contatto: Werner Huber 
+Telefono: 001-362-801-5106x31821 
+Indirizzo: Werner Huber, 86480 David Street Suite 846 107, 0659 Tarent, Svizzera
+Email: eAlina@icloud.com
+
+**Stato:**
+
+Condizione Generale: Scomodo a causa di intenso prurito.
+Fisico: Ittero notevole, nessun altro segno per ora.
+Piano: Ordinati esami del sangue, da controllare la funzione del fegato.
+
+**Footer:**
+
+Identificazione del Dispositivo: 54159-xjCP
+Dettagli del Veicolo: 86T ER4
+Informazioni sulla Licenza: wwqLe-ebIH
+Indirizzo IP: 181.88.25.210
+BioID: 207 mrRlMB
+
+**Fine della Nota**"
+

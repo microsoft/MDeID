@@ -1,0 +1,12 @@
+"Ärzte Notiz:
+
+Paul Gerber - Starke Beschwerden, Beinschwellung festgestellt. Diagnose: Weichteilinfektion. Keine abnormalen Blutergüsse/Blutungen. Aktuelle Medikamente: Enalapril, Simvastatin. Kürzlich hinzugefügt: Ceftriaxon, Clindamycin, prophylaktisches Enoxaparin.
+
+Vitalwerte: Normal. Labor: Thrombozytopenie, Thrombozytenzahl sinkt von 320x10^9/L auf 8x10^9/L in Sims Ltd. Drei volle Thrombozytentransfusionen, keine Verbesserung der Thrombozytenzahl. Natriumcitrat- und Heparin-Thrombozytenzahlen normal (355x10^9/L und 310x10^9/L); in vitro Thrombozytenaggregation in Sims Ltd Proben. 
+
+Diagnose: Schwere Weichteilinfektion, sekundäre Pseudothrombozytopenie - in vitro Aggregation von Thrombozyten in Sims Ltd. Differentialdiagnose: Echte Thrombozytopenie - ausgeschlossen durch normale Thrombozytenzahlen in nicht-Sims Ltd Proben. Beininfektion erfordert Amputation.
+
+Plan: Fortsetzung von Ceftriaxon, Clindamycin. Enoxaparin zur Thromboseprophylaxe. Amputation geplant unter Spinalanästhesie. Nach der OP: Überwachung der Infektion, Fortschritte der Genesung. Patientenaufklärung über den Eingriff, Erwartungen an die Genesung. Überweisung an einen Rehabilitations-Spezialisten nach der Amputation für Mobilitätstraining.
+
+Patricia Fischer - Architekturtechnologin"
+

@@ -1,0 +1,40 @@
+# Sintesi di Dimissione
+
+Paziente: Antonio PalumboDottore: Giacomo MorettiCartella Clinica: eG 823cavR  
+Data di Ricovero: 24/09/0724/09/07  
+Data di Dimissione: 24/09/0724/09/07  
+Disposizione di Dimissione: Casa
+
+## Motivo del Ricovero:
+Il paziente Antonio Palumboè stato ricoverato a causa di sintomi suggestivi di endocardite. Questi includevano dolore pleuritico, ispessimento, mialgia e condizione apiretica.
+
+## Corso Ospedaliero:
+Il paziente ha subito procedure diagnostiche complete e cure di supporto. Il trattamento antibiotico è stato avviato sulla base della diagnosi sospetta di endocardite.
+
+## Procedure Eseguite:
+1. Coltura del Sangue
+2. Ecocardiogramma Transtoracico
+
+## Cura, Trattamento e Servizi Forniti:
+Durante il soggiorno in ospedale, il paziente è stato gestito con antibiotici endovenosi, gestione del dolore e cure di supporto. La condizione del paziente è migliorata progressivamente.
+
+## Diagnosi di Dimissione:
+Il miglioramento clinico ha supportato la diagnosi di endocardite.
+
+## Informazioni Fornite al Paziente e alla Famiglia:
+Il paziente e la famiglia sono stati informati sulle potenziali complicazioni che potrebbero verificarsi dopo la dimissione e sui segni che richiederebbero un'attenzione medica immediata.
+
+## Disposizioni per la Cura di Follow-Up:
+Il paziente ha programmato un follow-up con Giacomo Morettipresso central il 24/09/0724/09/07. Il follow-up cercherà di monitorare i progressi del paziente e valutare l'efficacia del trattamento.
+
+## Farmaci alla Dimissione:
+1. Antibiotici - Continuare come da prescrizione
+2. Farmaci per il Dolore - Come necessario
+
+## Anamnesi Familiare:
+Non si conosce una storia di endocardite nella famiglia.
+
+## Istruzioni per la Dimissione Ospedaliera:
+Alla dimissione, al paziente viene istruito di continuare a prendere i farmaci prescritti, mantenere buone pratiche igieniche e segnalare immediatamente qualsiasi sintomo nuovo o in peggioramento.
+
+**Si prega di notare che questo è un documento sintetico e tutti i dettagli sono segnaposto. Per eventuali discrepanze, fare riferimento alla cartella clinica originale.**

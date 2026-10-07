@@ -1,0 +1,100 @@
+"Appunto di Infermieristica
+
+[Informazioni di Intestazione]
+
+------------------------------------------------------------------------
+
+Account: 055 0553MV | Record: 78 35JVTNd | ID: 055 0553MV | Utente: QAXHO1CF
+
+Dettagli di Contatto: Telefono: 001-665-255-3817x7006 | Email: ierO@hotmail.com | Fax: 207-330-0737
+
+Dettagli Pertinenti:
+
+- Ospedale: Warsaw Russian Partition
+
+- Posizione: teatro
+
+- DOB: 10 giugno 1996
+
+- Età: 75
+
+- Indirizzo: Alessandro Palmieri, Piazza Leone, 60 Piano 3 81, 5669 Volano, Svizzera
+
+[Osservazioni Primarie]
+
+------------------------------------------------------------------------
+
+Paziente: Alessandro Palmieri
+
+- Reclamo: Mal di testa pulsante, probabile emicrania
+
+Lettura dei Vitali:
+
+- BP: 130/80 mmHg
+
+- HR: 82 bpm
+
+- SpO2: 98%
+
+- Temp: 98.6 F
+
+[Osservazioni Mediche e Piano di Trattamento]
+
+------------------------------------------------------------------------
+
+- Osservata sensibilità alla luce
+
+- Nausea segnalata
+
+- Nessuna febbre
+
+- Nessun segno visibile di distress
+
+Piano:
+
+- Somministrato sumatriptan 50 mg
+
+- Consigliato riposo in un ambiente con poca luce
+
+- Monitoraggio continuo
+
+[Informazioni Aggiuntive]
+
+------------------------------------------------------------------------
+
+- Piano Sanitario: OeN88ZPrSM
+
+- ID Dispositivo: joeuR-4015
+
+- Licenza Professionale: 08353-5640
+
+- ID Biometrico: 4828-349XO
+
+- Indirizzo IP: 112.230.56.52
+
+- ID Veicolo: 804 6885
+
+- Sicurezza Sociale: PUCDWK22M06K833N
+
+- Città: Castelnovo Del Friuli
+
+- Paese: Italia
+
+- Stato: 85
+
+- CAP: 5669
+
+- Organizzazione: Stuart, Serrano and Moreno
+
+- Professione: Barrister
+
+[Informazioni di Chiusura]
+
+------------------------------------------------------------------------
+
+- Rapporto preparato da: Olivia Meier
+
+- URL per il portale del paziente: https://www.williams.com/app/tagsprivacy.php
+
+Nota: Tutte le informazioni fornite sono riservate e non dovrebbero essere divulgate senza un'autorizzazione adeguata."
+

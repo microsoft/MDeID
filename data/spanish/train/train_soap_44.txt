@@ -1,0 +1,32 @@
+"Nota SOAP
+
+S: La paciente Shirley Thomas, con antecedentes de deficiencia adquirida de FX debido a amiloidosis AL, PAF, adenocarcinoma de pulmón metastásico en erlotinib, cardiomiopatía hipertrófica, hipertensión y diabetes mellitus tipo 2, informa sentirse bien pero ha experimentado problemas incluyendo epistaxis autolimitante y fácil aparición de moretones en martes, 14 de febrero de 1995. La paciente recuerda resultados de laboratorio anteriores y procedimientos médicos.
+
+O: Los resultados de laboratorio anteriores indicaron un TP de 12.4 segundos, INR de 1.2, aPTT de 38 segundos, fosfatasa alcalina a 160 U/L, creatinina a 1.16 mg/dL, y proteinuria con 882 mg/24 h. El ultrasonido abdominal mostró hepatomegalia con el lóbulo derecho midiendo 21 cm. Las electroforesis de suero y orina indicaron la presencia de inmunoglobulina G-lambda. La biopsia hepática reveló una extensa deposición de amiloide con presencia de cadenas ligeras lambda. La biopsia de médula ósea mostró una extensa deposición de amiloide, tinción positiva con rojo Congo y hibridación fluorescente in situ positiva para cadenas ligeras lambda. Se observó una disminución de la actividad de coagulación de FX al 45% con un rango de referencia del 70%-150%. En martes, 14 de febrero de 1995, el perfil de coagulación mostró un TP de 16.3 segundos, aPTT de 33 segundos y actividad de FX del 34%.
+
+A: El diagnóstico principal es deficiencia adquirida de FX secundaria a amiloidosis AL. Los antecedentes de la paciente de adenocarcinoma de pulmón recurrente y otras comorbilidades complican el manejo. Los diagnósticos diferenciales incluyen otras causas de coagulación anormal no relacionadas con la amiloidosis. El pronóstico es reservado debido a la complejidad de las condiciones subyacentes y la naturaleza recurrente del cáncer de pulmón.
+
+P: Continuar con el régimen actual de quimioterapia con melfalán y dexametasona. Es esencial el monitoreo regular de los perfiles de coagulación y la actividad de FX. Educar al paciente sobre la importancia de informar rápidamente cualquier síntoma o preocupación nueva. Programar citas de seguimiento rutinarias en Winans ' church para evaluar la eficacia del tratamiento y manejar cualquier complicación. Se recomienda la derivación a un hematólogo Laura Ruiz para el manejo adicional de la deficiencia de FX y a un oncólogo Laura Ruiz para el tratamiento continuo del cáncer. Asegurar el cumplimiento de todos los medicamentos prescritos y los horarios de seguimiento. 
+
+Notas adicionales:
+- Número de registro médico: jWV-wSqtBE
+- Número de cuenta del paciente: grZj 82097
+- Número de serie del dispositivo: Uy DSgIeAw
+- Nombre de usuario en el portal del paciente: da9xecBs
+- Identificador del vehículo: KNW 791
+- Número de seguridad social: 01.719.657
+- Identificador de licencia profesional: 99-bSJsUBV
+- Identificador biométrico: 03-uvEgpOa
+- Dirección IP: 177.245.137.110
+- Identificador personal: grZj 82097
+- Edad del paciente: 79
+- Dirección del paciente: Shirley Thomas, Plaza Leandro Bilbao 62 39, Enodation, SRDCNVID CUSCO, Argentina
+- Otras ubicaciones: parada de autobús
+- Plan de salud: vcmU
+- Ocupación del paciente: Ingeniero de materiales
+- Organización afiliada: Montgomery, Bryan and Harris
+- Dirección de correo electrónico: aiz@aol.com
+- Número de contacto: 001-696-320-4585x96496
+- Sitio web: hoover-west.delacruz-leach.brooks.com
+- Número de fax: 284-307-8478x66371"
+

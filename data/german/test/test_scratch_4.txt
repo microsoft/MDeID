@@ -1,0 +1,96 @@
+"**PATIENTEN KRATZER NOTIZ**
+
+----------
+**Bad Rippoldsau-Schapbach Pflegezentrum - Mitchell Inc**
+----------
+**Patient**: Peter Steiner
+
+**ID**: 080-6542it
+
+**SSN**: 02 805 226 645
+
+**Konto**: ZoG-nmSNTd
+
+**Gesundheitsplan**: OU5C
+
+----------
+**Vitalzeichen**
+----------
+Temp: 98.6\u2109
+
+BP: 120/80
+
+HR: 75 bpm
+
+RR: 20/min
+
+SpO2: 98%
+
+----------
+**Beobachtungen**
+----------
+- Beschwerde über Kopfschmerzen
+- 73 zeigt Anzeichen von Unbehagen
+- Keine bekannten Allergien
+- PERRLA normal
+
+----------
+**Behandlungen**
+----------
+- Schmerzmittel verschrieben
+- Hydratation ermutigt
+
+----------
+**Fortschrittsnotizen**
+----------
+- Kopfschmerzen anhaltend
+- Peter Steiner ruht
+- Überwachung auf Veränderungen
+
+----------
+**Kontaktinformationen**
+----------
+Hauptarzt: Bennet Neumann
+
+Email: mannBenn@zoho.com
+
+Telefon: 001-321-852-5530x223
+
+----------
+**Geräteinformationen**
+----------
+Geräte-ID: 860 010090
+
+----------
+**Zusätzliche Informationen**
+----------
+Benutzername: s813ojWf
+
+IP-Adresse: 108.219.2.235
+
+Lizenz: 71804 zrzF
+
+Beruf: Werbetexter
+
+----------
+**Notfallkontakte**
+----------
+1. Peter Steiner | 001-321-852-5530x223
+2. Peter Steiner | 001-321-852-5530x223
+
+----------
+**Adresse**: Peter Steiner, Emmerich-Beyer-Allee 8 105, 9435 Burgenlandkreis, Schweiz
+
+----------
+**Krankenhaus**: Guggenheim
+
+----------
+**Standort-Andere**: Universität
+
+----------
+**BIOID**: OPIkmi-834
+
+**FAHRZEUG**: 664-484
+
+**FAX**: 533-745-8801"
+

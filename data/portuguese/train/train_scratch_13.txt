@@ -1,0 +1,63 @@
+"**Nota de Enfermagem** 
+
+**Breve Resumo Médico de Vitória Oliveira**
+
+- **Data da Avaliação**: 12 de junho de 1981
+- **Queixa Principal**: \"Tenho me sentido fraca e dolorida ultimamente, e minhas articulações estão doloridas...\"
+
+**Sinais Vitais**: 
+1. **Pressão Arterial (PA)**: 123/80 mmHg
+2. **Frequência Cardíaca (FC)**: 78 bpm
+3. **Frequência Respiratória (FR)**: 16 respirações/min
+4. **Temperatura**: 36.7\u00b0C
+5. **Saturação de Oxigênio (SpO2)**: 98%
+
+**Avaliação Preliminar**: Possível artrite
+
+**Observações Notáveis**:
+
+- **Nível de Atividade**: Diminuído
+- **Escala de Dor**: 5/10 
+- **Humor**: Ansiosa devido à dor nas articulações
+- **Mobilidade**: Limitada devido à dor nas articulações
+- **Resposta à Medicação**: Aguardando efeitos dos analgésicos prescritos
+
+**Detalhes Pessoais do Paciente**:
+
+- **Idade**: 6
+- **Localização**: Vitória Oliveira, Lago da Cunha 183, Janker, Minas Novas - 49, W7Z0SPB3, Brasil
+- **Contato**: 250.482.3400 / raúé@outlook.com
+- **Contato de Emergência**: 250.482.3400
+- **Hospital de Preferência**: Montijo
+- **Plano de Saúde**: d8FYOuS9
+
+**Referência Rápida do Histórico do Paciente**: 
+
+- **Número do Prontuário Médico**: rrNrfT-Dhw
+- **Número da Conta**: zALR-mADIQ
+- **BioID**: wapCFB 065
+- **Dispositivo**: hZa eLfXdH
+- **Profissão**: Cientista, biomédica
+- **Organização Afiliada**: Kramer-Watts
+
+**Informações de Contato da Equipe de Cuidados**:
+
+- **Médico de Cuidados Primários**: André Araújo 
+- **Contato**: 250.482.3400, raúé@outlook.com
+- **Médico Encaminhador**: André Araújo
+- **Contato**: 250.482.3400, raúé@outlook.com
+
+**Informações Relevantes Adicionais**:
+
+- **Endereço IP do Login do Portal do Paciente**: 86.151.160.231
+- **Nome de Usuário no Portal do Paciente**: riOlive
+- **Identificador do Veículo**: 794 BWS
+- **Número do Seguro Social**: 000.590.634-30
+- **Número da Licença**: 7490 rObQj
+- **Outro Número Identificado**: zALR-mADIQ
+- **Paciente Localizado em**: teatro
+- **Código Postal do Paciente**: W7Z0SPB3 
+- **Número de Fax**: 629.628.4854x940
+
+**Aviso**: Esta nota é apenas para referência e não possui nenhum valor clínico ou diagnóstico. Deve ser usada no contexto de um atendimento ao paciente abrangente."
+

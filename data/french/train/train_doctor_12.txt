@@ -1,0 +1,24 @@
+"Note de Docteur Scratch :
+
+Note pour Mason Bergeron
+- Femme de 98 ans, problème : douleur persistante dans le dos, les deux jambes, ~4 mois
+- IRM récente, colonne lombaire 
+    - Résultats : lésion intradurale, extramédullaire, épaississement de la dure-mère @ L2
+- L'histologie post-opératoire confirme : chondrosarcome mésenchymateux
+    - Caractéristique : cellules rondes/fusiformes, formation de cartilage/os
+    - IHC : CD99 positif, EMA négatif, STAT6 négatif, GFAP négatif
+    - Indice Ki-67 : ~30%
+    - Archer™ FusionPlex Sarcoma Assay : transcrits de fusion de gènes HEY1-NCOA2 (exon 4 à 13 & 14)
+- Diagnostic : chondrosarcome mésenchymateux primaire @ L2
+    - Considération : comportement agressif, indice Ki-67 élevé
+    - Diagnostic différentiel : autres sarcomes, caractéristiques histologiques similaires
+- Plan : Réunir une équipe multidisciplinaire, discuter des options de traitement
+    - Focus : gestion oncologique
+    - Surveillance : symptômes, effets secondaires du traitement
+    - Éducation : Mason Bergeron et famille
+        - Sujets : diagnostic, options de traitement, importance du suivi régulier
+        - Encourager : le signalement de nouveaux symptômes ou préoccupations
+- Prochain rendez-vous : vendredi 19 octobre 2018 @ pharmacie
+
+Mia Brunner - Thérapeute, nutritionnelle"
+

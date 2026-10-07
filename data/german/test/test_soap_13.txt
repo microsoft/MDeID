@@ -1,0 +1,60 @@
+"S: Patient Lien Verschueren, ein Lebertransplantatempfänger vom 17.01.76 aufgrund von alkoholischer Zirrhose und hepatozellulärem Karzinom, berichtet über eine Vorgeschichte von diffus großem B-Zell-Lymphom, das mit Chemotherapie am 17.01.76 behandelt wurde, psychiatrischer Erkrankung und posttraumatischer Epilepsie. Sie leugnen Symptome einer Enzephalopathie. Sie haben seit dem 17.01.76 intermittierende Transaminasenerhöhungen erlebt, die vermutlich mit Alkoholkonsum in Zusammenhang stehen, und präsentierten sich mit Aszites und Transplantatdysfunktion am 17.01.76.
+
+O: Aktuelle Medikamente umfassen Tacrolimus mit auf etwa yNPqbl-874 eingestellten Spiegeln und Prednison 960735 888 täglich. Leberfunktionstests zeigten mäßig erhöhte Transaminasen und etwas Cholestase. Die Serologie war negativ für Hepatitis B, C und Zytomegalievirus, aber positiv für Epstein-Barr-Virus innerhalb der normalen Grenzen für den Patienten. Bemerkenswert ist, dass Anti-HEV IgM und IgG positiv waren und die PCR HEV RNA in Plasma und einer gelagerten Serumprobe vom 17.01.76 bestätigte, was auf eine chronische Hepatitis E-Infektion hinweist. Seit der Einführung von Ribavirin am 17.01.76 haben sich die Leberfunktionstests verbessert.
+
+A: Die Hauptdiagnose ist dekompensierte Transplantatzirrhose aufgrund einer chronischen Hepatitis E-Infektion. Die Vorgeschichte des Patienten mit Alkoholkonsum kann zur Leberdysfunktion beitragen. Früher in Betracht gezogene und ausgeschlossene Differentialdiagnosen umfassen die Reaktivierung von Hepatitis B, C und Zytomegalievirus-Infektionen.
+
+P: Weiterhin regelmäßige Überwachung der Leberfunktionstests und Tacrolimus-Spiegel. Beibehaltung der aktuellen Dosierungen von Tacrolimus und Prednison. Die Ribavirin-Therapie wird fortgesetzt, mit Anpassungen basierend auf Reaktion und Verträglichkeit. Dem Patienten wird geraten, auf Alkohol zu verzichten, um weitere Leberschäden zu verhindern. Regelmäßige Nachuntersuchungen sind notwendig, um den Fortschritt der Lebererkrankung zu überwachen und die Behandlung bei Bedarf anzupassen. Der nächste Termin des Patienten ist für den 17.01.76 im Berliner geplant.
+
+Zusätzliche Informationen: 
+
+Kontaktdaten des Patienten: 001-751-847-0122x65911, Andreau@outlook.com
+
+Kontaktdaten des Krankenhauses: 001-751-847-0122x65911, +1-910-342-6127x615
+
+Adresse des Patienten: Lien Verschueren, Köberlgasse 25 166, 6918 Berne, Switzerland
+
+Medizinische Aktennummer des Patienten: ENOKK yuTZ
+
+Gesundheitsdienstleister: Donovan PLC
+
+Gesundheitsplan des Patienten: 4U5 6PE
+
+Alter des Patienten: 21
+
+Name des Arztes: Andreas Baumann
+
+IP-Adresse des Patienten: 223.75.247.70
+
+Sozialversicherungsnummer des Patienten: 859-4185621-01
+
+Kontonummer des Patienten: 960735 888
+
+Geräteidentifikator des Patienten: CXnXG-lWRJ
+
+Benutzername des Patienten: oKbBHheQ
+
+Fahrzeugidentifikator des Patienten: 842-NWG
+
+Lizenzidentifikator des Patienten: 93779 NebK
+
+Weitere persönliche Identifikationsnummer des Patienten: 960735 888
+
+Berufliche Details des Patienten: Umweltberater
+
+Postleitzahl des Patienten: 6918
+
+Standort des Krankenhauses: Bibliothek
+
+URL des Krankenhauses: clark.net
+
+E-Mail des Arztes: Andreau@outlook.com
+
+Stadt des Patienten: Wallersdorf
+
+Land des Patienten: Deutschland
+
+Bundesland des Patienten: 44
+
+Straße des Patienten: 009 Adriana Summit"
+

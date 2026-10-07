@@ -1,0 +1,39 @@
+"**Nota Narrativa del Paciente** 
+
+El paciente Brandon Williams fue admitido con un historial de  y . Informó que experimentó palpitaciones, dolor de cabeza intenso, entumecimiento, hormigueo en ambos brazos y falta de aliento durante las últimas dos horas. El paciente niega cualquier ansiedad, estrés o factores situacionales que desencadenen estos episodios. Anteriormente, el paciente tuvo un  y fue tratado con cateterización cardíaca, mostrando un abombamiento apical sistólico y una fracción de eyección reducida, que luego mejoró.
+
+En un examen previo, el paciente tuvo un chequeo cardíaco completo por parte del médico ambulatorio Joaquín Montenegro después de un episodio similar hace dos semanas, que fue normal. Se implantó un tDHOcd-364 para detectar posibles arritmias. Anteriormente, el paciente experimentó un episodio asintomático de taquicardia ventricular polimórfica no sostenida (torsades de pointes) con un intervalo QTc prolongado en el electrocardiograma de línea de base. Los electrolitos estaban estables y el ecocardiograma mostró una fracción de eyección del 50% al 55%. No se colocó ningún tDHOcd-364. Dos estudios RQe-2645CR no revelaron la causa de la arritmia.
+
+Los síntomas actuales del paciente son consistentes con episodios recurrentes potencialmente relacionados con arritmias cardíacas subyacentes, posiblemente influenciados por  y  previos. Los diagnósticos diferenciales incluyen episodios arrítmicos secundarios a desequilibrios electrolíticos, cambios estructurales del corazón o influencias neurocardiogénicas. La recurrencia de los síntomas con un historial de taquicardia ventricular genera preocupaciones sobre la adecuación de las estrategias de manejo actuales.
+
+El plan es continuar monitoreando los síntomas del paciente y los datos del tDHOcd-364 de cerca. Asegurar la adherencia al régimen de medicación actual que incluye lisinopril y carvedilol. Programar un seguimiento con el Joaquín Montenegro para reevaluar el plan de manejo, considerando la posibilidad de ajustar los medicamentos o explorar más intervenciones diagnósticas si los episodios persisten. Educar al paciente sobre cómo reconocer los síntomas indicativos de eventos cardíacos y enfatizar la importancia de la atención médica inmediata si los síntomas empeoran. Considerar la derivación a un Joaquín Montenegro o a un especialista en trastornos genéticos para evaluar el impacto de  en los síntomas cardíacos.
+
+**Información del Paciente** 
+Cuenta: anSEnH 896
+Historial Médico: RQe-2645CR
+Edad: 64
+Dirección: Brandon Williams, Camino Sofía Sotelo 21 Puerta 6 24, Peewee, 4535LIR6 Sagunto, Argentina
+Ciudad: Sagunto
+Estado: 90
+Código Postal: 4535LIR6
+País: España
+Teléfono: 555-998-6505
+Correo Electrónico: aM@mail.com
+
+**Información de Contacto de Emergencia**
+Nombre: Brandon Williams
+Relación: 
+Teléfono: 555-998-6505
+
+**Información Adicional**
+Dirección IP: 73.197.7.51
+Nombre de Usuario: cH4iWBnV
+Vehículo: 623 0810
+Seguridad Social: 42020672E
+Licencia: 329612 501
+Bioid: xWk hmcNVR
+Organización: Crawford-Gray
+Profesión: Ejecutivo legal colegiado (Inglaterra y Gales)
+URL:  www.adams-lang.net/wp-content/appauthor.php
+Fax: 406.878.8219x9412"
+

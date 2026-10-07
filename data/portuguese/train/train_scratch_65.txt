@@ -1,0 +1,65 @@
+"**-=Anotações Rápidas da Enfermeira=-**
+
+```txt
+--------------------------------------
+PACIENTE       : Joseane Ferreira
+IDADE           : 91
+HOSPITAL      : Pune F.C
+PRONTUÁRIO : eREswo-BIW
+--------------------------------------
+
+Sinais Vitais:
+- PA: 120/80
+- FC: 88 bpm
+- Temp: 37\u00b0C
+
+Observações:
+- Tremores, tremendo por todo o corpo
+- Perda de peso
+
+Possível Diagnóstico:
+- Suspeita de diabetes
+
+Exames solicitados:
+- Nível de açúcar no sangue
+- HbA1c
+
+--------------------------------------
+**Informações de Contato**
+- Endereço: Joseane Ferreira, Fazenda de Lopes, 2 109, Plateaulith, Vila Redenção - 29, W7CXRCGX, Brasil
+- Telefone: 760-867-5050x3890
+- Email: irDavi@icloud.com
+--------------------------------------
+
+**Conta e ID**
+- Número da Conta.: NJ 37wFdcX
+- Número do ID: NJ 37wFdcX
+- Plano de Saúde: 2Unpcp1
+
+**Outros**
+- Nome de usuário: SWkCVSpx
+- Endereço IP: 73.65.84.5
+- BioID: 473422 mcL
+
+**Dispositivos Médicos**
+- Dispositivo usado: 079 qDEmcv
+
+**Contato de Emergência**
+- Nome: Joseane Ferreira
+- Contato: 760-867-5050x3890
+
+**Detalhes do Hospital**
+- Localização: museu
+- Cidade: Vila Redenção
+- Estado: Palmela
+- CEP: W7CXRCGX
+
+**Profissão e Organização**
+- Profissão: Engenheiro de petróleo
+- Organização: Hamilton-Manning
+
+--------------------------------------
+*Anotado por: David Moreira*
+```
+"
+

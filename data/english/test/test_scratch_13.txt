@@ -1,0 +1,56 @@
+"**Nursing Scratch Note** 
+
+***Patient Status***
+
+- Elizabeth Cook: In distress
+- Pain scale: 8/10 
+- Location of pain: Joints
+- Suspected condition: Arthritis
+
+***Vitals***
+
+- Temp: 98.2 F
+- HR: 78 bpm
+- RR: 18 bpm
+- BP: 120/80 mmHg
+
+***Observations***
+
+- Elizabeth Cook: Appears uncomfortable
+- Limb movement: Restricted
+- Skin: Normal
+- Joints: Swollen, Reddened 
+
+***Treatment***
+
+- Administered: Pain Meds
+- Effectiveness: Monitoring 
+
+***Medical Info***
+
+- zAL 019108: Noted
+- QmFCw: To be checked
+
+***Contact Info***
+
+- obiLu@unhcr.org: For communication 
+- +1-296-225-5420x4673: For emergencies 
+- 001-789-516-7844: For document exchange
+
+***Miscellaneous***
+
+- 7713-19789 details: Needed
+- FuRVvsil: For medical portal
+- 311 dFXXkP: Pain relief apparatus 
+- 7713-19789: Identification 
+- Elizabeth Cook, 120 Handholds, Masc, 34 5341, Canada: For home care assistance
+- Adamu: Referral required
+- school: Last reported presence
+- Commissioning editor: Patient's occupation
+- Reynolds-Martinez: Patient's workplace
+- Lucas Robinson: Treating physician 
+
+Note: Detailed evaluation and management plan pending Tue/11/18 appointment. Further management will be based on examination findings, patient's 10 and present condition. 
+
+[End of Scratch Note]"
+

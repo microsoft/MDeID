@@ -1,0 +1,63 @@
+"**Nota de Enfermería** 
+
+**Resumen Médico Breve de Iustina Moroșanu**
+
+- **Fecha de Evaluación**: 13/3/13
+- **Queja Principal**: \"He estado sintiéndome débil y adolorida últimamente, y mis articulaciones están doloridas...\"
+
+**Signos Vitales**: 
+1. **Presión Arterial (PA)**: 123/80 mmHg
+2. **Frecuencia Cardíaca (FC)**: 78 lpm
+3. **Frecuencia Respiratoria (FR)**: 16 respiraciones/min
+4. **Temperatura**: 36.7\u00b0C
+5. **Saturación de Oxígeno (SpO2)**: 98%
+
+**Evaluación Preliminar**: Posible artritis
+
+**Observaciones Notables**:
+
+- **Nivel de Actividad**: Disminuido
+- **Escala de Dolor**: 5/10 
+- **Estado de Ánimo**: Ansiosa por el dolor en las articulaciones
+- **Movilidad**: Limitada debido al dolor en las articulaciones
+- **Respuesta a la Medicación**: Esperando los efectos de los analgésicos prescritos
+
+**Detalles Personales del Paciente**:
+
+- **Edad**: 5
+- **Ubicación**: Iustina Moroșanu, Retorno Mali 854 Edif. 744, Depto. 644 30, Subherd, 35956 Verges, 95, Colombia
+- **Contacto**: 241-493-5082x34009 / ouso@zoho.com
+- **Contacto de Emergencia**: 241-493-5082x34009
+- **Hospital Preferido**: Fonthill Abbey
+- **Plan de Salud**: vzJ8Gre1
+
+**Referencia Rápida de Historia del Paciente**: 
+
+- **Número de Historia Clínica**: 71-52180ny
+- **Número de Cuenta**: 037-FBhZae
+- **BioID**: 891-BFRIts
+- **Dispositivo**: uo-nscRBuw
+- **Profesión**: Contadora certificada
+- **Organización Afiliada**: Morales, Hill and Adams
+
+**Información de Contacto del Equipo de Atención**:
+
+- **Médico de Atención Primaria**: Tommaso Caruso 
+- **Contacto**: 241-493-5082x34009, ouso@zoho.com
+- **Médico Remitente**: Tommaso Caruso
+- **Contacto**: 241-493-5082x34009, ouso@zoho.com
+
+**Información Adicional Relevante**:
+
+- **Dirección IP de Inicio de Sesión en el Portal del Paciente**: 131.201.86.49
+- **Nombre de Usuario en el Portal del Paciente**: bT9zvmtL
+- **Identificador de Vehículo**: MNS 3678
+- **Número de Seguridad Social**: 75.170.665
+- **Número de Licencia**: 749040-Qjw
+- **Otro Número Identificado**: 037-FBhZae
+- **Paciente Ubicado en**: mercado
+- **Código Postal del Paciente**: 35956 
+- **Número de Fax**: 629.628.4854x940
+
+**Descargo de Responsabilidad**: Esta nota es solo para referencia y no tiene ningún valor clínico o diagnóstico. Debe usarse dentro del contexto de la atención integral del paciente."
+

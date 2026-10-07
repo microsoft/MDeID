@@ -1,0 +1,54 @@
+"**Nursing Scratch Note**
+
+_Patient Details:_
+- **Patient ID**: Alice Edney
+- **MRN**: 707100-AGM
+- **Age**: 11 month
+- **Admitted By**: Anabelle Leblanc
+
+_Contact Information:_
+- **Home Address**: Alice Edney, 40 Pompilidae, Analogues, Fucoids 2391, New Zealand
+- **Phone Contact**: 908-773-4443
+- **Email**: Anabelc@who.int
+
+_Vitals and Observations:_
+- **BP**: 120/80 
+- **Respiratory Rate**: 14
+- **Pulse**: 65
+
+_Current Status:_
+
+Impetigo symptoms noted. Developing sores on face. Skin infection suspected. Antibiotics prescribed.
+
+_Laboratory Tests:_
+
+Ordered for complete blood count, culture of skin swab.
+
+_Procedure & Device:_
+- **Procedure**: 94668 BMQC
+- **Device ID**: 278-HCjJQm
+
+_Other details:_
+- **IP Address** : 181.111.151.151
+- **Hospital ID** : Garyville
+- **Health Plan**: SQDit
+
+_Comments:_
+
+Patient's condition improving. Follow-up scheduled with primary care physician. 
+
+-----------------------------------------------------------------------------------------------
+
+**Privacy section:**
+- **Healthcare Provider**: Turner and Sons
+- **Login Username**: 7h26d0Kq
+- **License Information**: bFLt-OdaBB
+- **Biometric Identifier (fingerprint hash)**: Ah-42SMlMt
+- **Generic ID Number**: 94668 BMQC
+- **Social Security**: 584-02-1703
+- **Vehicle ID (for emergency evacuation)**: DMB 9960
+
+-----------------------------------------------------------------------------------------------
+
+This Scratch Note is subject to the privacy rules and guidelines of the healthcare organization. Any unauthorized access or disclosure of information may result in legal action."
+

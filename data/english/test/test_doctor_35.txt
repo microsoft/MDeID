@@ -1,0 +1,25 @@
+"Doctor Scratch Note
+
+P: Emily Lévesque | Chronic back pain, dyspnea, obesity, sleep apnea, ALL history 
+Mgmt: Methadone, increased O2 supplementation
+BMI: 48 (morbid obesity)
+BMT: GvHD, severe restrictive lung disease
+
+VS: 
+EKG: Atrial bigeminy (new onset, resolved)
+CTA: PAPVC, left upper lobe & lingula
+Echo: Mild RV dilation, mild tricuspid regurgitation, normal LV function
+PFT: TLC 42%, FEV1 39%, FVC 37%, DLCO 41%
+RHC & LHC: Pulmonary hypertension, elevated pressures, Qp/Qs 1.22:1
+
+Dx: PAPVC
+Remark: Secondary complications - Pulmonary hypertension, chronic respiratory failure
+Note: Pulmonary embolism ruled out (CTA)
+
+Plan: Continue O2 supplementation, methadone for back pain
+Monitor: Respiratory & cardiac status
+Education: Symptom monitoring, medical attention cues
+Referral: Amber Hepworth (Pulmonologist), Amber Hepworth (Cardiologist) for PAPVC & pulmonary hypertension
+
+Amber Hepworth | Tue-12-2-86"
+

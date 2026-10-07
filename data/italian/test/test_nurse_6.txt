@@ -1,0 +1,37 @@
+"Nota Narrativa dell'Infermiera
+
+Soggettivo: Olivia Weber rivela una storia di dolore cronico alla schiena, parzialmente gestito con farmaci, e un peggioramento della dispnea che ha portato a un aumento del bisogno di supplementazione di ossigeno. L'anamnesi medica del paziente include obesità morbosa, apnea ostruttiva del sonno, leucemia linfocitica acuta con trapianto di midollo osseo e malattia del trapianto contro l'ospite, che ha portato a una grave malattia polmonare restrittiva.
+
+Oggettivo: Non sono stati forniti i segni vitali di Olivia Weber. I risultati dell'EKG indicavano una nuova insorgenza di bigeminia atriale, che si è poi risolta. Un angio-TC ha mostrato una connessione venosa polmonare parzialmente anomala (PAPVC) che coinvolge la vena polmonare nel lobo superiore sinistro e nella lingula. L'ecocardiogramma del paziente mostrava un ventricolo destro lievemente dilatato, una lieve insufficienza della valvola tricuspide e una normale funzione ventricolare sinistra. I test di funzionalità polmonare mostravano una capacità polmonare totale del 42%, FEV1 al 39%, FVC al 37% e DLCO al 41% dei valori previsti. Il cateterismo cardiaco destro e sinistro mostrava ipertensione polmonare con pressioni elevate e un rapporto di flusso polmonare a sistemico (Qp/Qs) di 1,22:1.
+
+Valutazione: La diagnosi principale è la connessione venosa polmonare parzialmente anomala (PAPVC) con complicanze secondarie di ipertensione polmonare e insufficienza respiratoria cronica dovuta a grave malattia polmonare restrittiva. La diagnosi differenziale iniziale includeva l'embolia polmonare, che è stata esclusa dall'angio-TC.
+
+Piano: Continuare la supplementazione di ossigeno e la terapia farmacologica per la gestione del dolore cronico alla schiena. Olivia Weber necessita di un monitoraggio stretto dello stato respiratorio e cardiaco, con appuntamenti di follow-up per discutere ulteriori opzioni di trattamento. È fondamentale l'educazione del paziente sul monitoraggio dei sintomi e sul riconoscimento del momento in cui cercare immediatamente aiuto medico. Si raccomanda il rinvio a un pneumologo e a un cardiologo per la cura e la gestione specializzata di PAPVC e ipertensione polmonare.
+
+[HEADER]
+ID Paziente: Ew-289JelH
+Data della Visita: 05/06/21
+Nome Infermiera: Alex Pagano
+Ospedale: di Nashville
+Indirizzo: Olivia Weber, 08761 Hughes Dale 13, 0574 Porto Azzurro, Svizzera
+Informazioni di Contatto: Telefono - +1-213-955-3864, Email - xno@unicef.org
+[FOOTER]
+Indirizzo IP del Paziente: 65.205.223.50
+ID Dispositivo: mZrj 55830
+Nome Utente: Eqs223C4
+Numero di Sicurezza Sociale: 979426-3830
+Numero di Licenza: 1848-49wmQ
+ID Biometrico: 638274 NxJ
+Dettagli del Veicolo: 962 ZRF
+Numero di Conto del Paziente: 44 eZmKdln
+Organizzazione del Paziente: Norris-Lee
+Piano Sanitario: Qcn
+Professione: Radioterapista terapeutico
+Città: Lama Dei Peligni
+Paese: Italia
+Stato: 1
+Via: 853 Heather Corners
+Codice Postale: 0574
+URL: black-higgins.gallagher.beasley.net
+Fax: 269-200-5197x0989"
+

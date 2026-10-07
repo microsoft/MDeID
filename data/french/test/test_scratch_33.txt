@@ -1,0 +1,64 @@
+"Note de l'infirmière
+
+--- Dossier du patient 076-889Vvu---
+
+Patient : Aleah Bélanger
+Âge : 80
+ID biométrique : DkGcwY-Bjc
+Compte : Bd-870379A
+Appareil médical : Lt 320ZpgU
+Autre lieu : arrêt de bus
+Adresse : Aleah Bélanger, 159 3565 Emmanuelle Manors Suite 498, Tarascon, 47 7000, Canada
+Hôpital : Holmen Naval
+
+--- Signes vitaux ---
+
+TA : 128/80
+Pouls : 72
+Temp : 98.6F
+Resp : 16
+SatO2 : 98%
+
+--- Observations de l'infirmière ---
+
+Prise de poids élevée en peu de temps remarquée. Préoccupations de fatigue, d'intolérance à l'effort. Pas de signes de traumatisme visibles. 
+
+---Informations médicales---
+
+Possible réaction médicamenteuse...? À confirmer par Paige Lavoie.
+Actuellement sur NDOK1VGiM. 
+
+--- Infos diverses ---
+
+Nom d'utilisateur : hBélange
+Adresse IP : 221.40.99.4
+Permis : 661-edlaIy
+Véhicule : 481-MLO
+
+--- Informations de contact ---
+
+Téléphone : 517-669-3756
+Email : ee@unicef.org
+URL :  russell.biz/wp-content/searchabout.php
+Fax : 001-239-959-0081x6629
+
+--- Contact d'urgence ---
+
+Nom : Aleah Bélanger
+Relation : 
+Téléphone : 517-669-3756
+
+--- Autre ---
+
+NUMID : Bd-870379A
+SÉCURITÉSOCIALE : 441-8842556-51
+PROFESSION : Opérateur de caméra
+ORGANISATION : Kerr-Wade
+VILLE : Tarascon
+PAYS : Belgique
+ÉTAT : RA
+RUE : 64301 Nicole Square Apt. 806
+CODE POSTAL : 7000
+
+--- Fin de la note ---"
+

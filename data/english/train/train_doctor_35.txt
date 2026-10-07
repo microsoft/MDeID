@@ -1,0 +1,32 @@
+"Doctor's Scratch Note
+
+Patient: Aaron Wood, ID: YkPMWp 622, Age: 9
+
+Primary Complaint: Rapid growth of congenital nevus, lumbosacral region. Present from birth, significant changes over past year. Reported color change, irregular edges, occasional bleeding, and pain.
+
+Observations: 
+- 6 x 4-cm erythematous tumor, active bleeding on 8.5 x 3-cm dark brown plate
+- Over 20 melanocytic lesions documented (total body photography, digital dermoscopy)
+- Superficial spreading malignant epithelioid melanoma (lumbosacral biopsy)
+- Fluorescence in situ hybridization: Positive for RREB1, MYB, CCND1 in new lesion
+- Surgical intervention: Wide local excision, sentinel lymph node biopsy, flap reconstruction
+- Pathology: Breslow's tumor thickness: 13 mm, Clark Level V, extensive ulceration, mitoses: 10/mm2, negative margins, 6 out of 20 lymph nodes positive for metastasis
+- Genomic testing: No BRAF mutations detected
+
+Assessment: Stage IIID melanoma (T4bN3aM0, AJCC 8th edition). Rapid growth, ulceration, significant lymph node involvement - aggressive disease, serious prognosis.
+
+Plan:
+- Treatment: Interferon-\u03b1-2b initiated (note: toxicity observed in first week of induction phase)
+- Monitoring: Regular follow-ups for disease progression and side effect management
+- Education: Provided on signs of recurrence and metastasis
+- Support: Psychological support for coping with diagnosis
+
+Doctor: Peter Cote, License: sz-021022q, Specialty: Furniture conservator/restorer
+
+Hospital: Mora Municipality, Location: Aaron Wood, 71 Cetraric, Divel, 24 1232, Canada
+
+Contact: Phone +1-988-797-4612x7085, Email oteer@aol.com
+
+End of Note.
+"
+

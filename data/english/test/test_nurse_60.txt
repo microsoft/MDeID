@@ -1,0 +1,61 @@
+"Nurse Narrative Note for Patient with Rheumatoid Arthritis and Suspected Thyroid Malignancy
+
+Subjective Information:
+
+Patient Blake Winter reports experiencing migraines, which began following a road traffic accident resulting in a craniocerebral injury and a tracheostomy. The patient has a history of rheumatoid arthritis for 14 years-old, managed with methotrexate (2.5 mg three times per day) and topiramate (200 mg twice a day) for migraines.
+
+Objective Information:
+
+Clinical examination revealed an impalpable and painless thyroid gland. Laboratory tests showed a positive rheumatoid factor, with normal antithyroglobulin and thyroid peroxidase antibodies (16 U/ml and 16.7 U/ml, respectively). Ultrasound-guided needle aspiration biopsy of the thyroid detected nodules in the lower pole of the left thyroid lobe, suggestive of malignancy. Thyroid function tests indicated euthyroid status with TSH at 0.89 \u03bcIU/ml, T3 at 1.30 ng/mL, and T4 at 7.2 \u03bcg/dl. Post-thyroidectomy examination showed necrotizing lesions corresponding to rheumatoid nodules.
+
+Assessment:
+
+Primary diagnosis of hypothyroidism secondary to rheumatoid involvement of the thyroid gland, with a differential diagnosis of thyroid malignancy suggested but not confirmed. The presence of rheumatoid nodules in the thyroid gland complicates the clinical picture.
+
+Plan:
+
+Initiate thyroxine treatment to manage hypothyroidism and maintain euthyroid status. Monitor thyroid function regularly. Proceed with total thyroidectomy to further evaluate and manage potential malignancy. Post-surgery, continue close monitoring and management of rheumatoid arthritis, adjusting medications as necessary to control systemic inflammation and prevent further autoimmune complications. Educate the patient Blake Winter on the importance of medication adherence and regular follow-up for thyroid function tests and rheumatologic assessment.
+
+Note Footer:
+
+Patient Emergency Contact Information:
+Phone: 499.583.9292x5931
+Email: ys@unicef.org
+
+Provider Signature: Harrison Kelly
+
+Timestamp: Saturday, May 10, 2014
+
+Patient's Identifiers:
+Account number: 86 263JvGx
+Medical Record number: 089 69122b
+Device Serial number: 853585 664
+Username: HdvwhApE
+License: 80-876982X
+
+Hospital Name: Molins
+Hospital Location: train station
+
+Health Plan: 5hDpqIRx
+Profession: Artist
+Organization: Parks, Hubbard and Black
+
+Patient's Address: Blake Winter, 55 Mascotism, Primula, Shakingly 9143, New Zealand
+Patient's City: Shakingly
+Patient's Country: Canada
+Patient's State: 36
+Patient's Street: 932 Samuel Common
+Patient's Zip: 9143
+Patient's Fax: (352)229-6403x6645
+
+Patient's Unique Identifiers:
+Vehicle number: 067 WP5
+Social 5hDpqIRx number: 056-449-008
+Biometric Identifier: FzU-835ryr
+IP Address: 109.246.45.97
+ID Number: 86 263JvGx 
+
+URL: wilson.martinez.com
+
+"
+

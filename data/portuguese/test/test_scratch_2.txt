@@ -1,0 +1,79 @@
+"Nota de Enfermagem:
+
+---------------------------------------------
+| DETALHES DO PACIENTE:                          |
+|                                          |
+| Gabriel Pires                                |
+| Endereço: Gabriel Pires, R. das Rolas, S/N 64, Phenylenediamine, Bonito - 3, E2MP2M0B, Brasil                       |
+| Idade: 54                               |
+| Contato: 349-244-6143x414                         |
+| Email: rbK@icloud.com                           |
+| Médico Principal: Kauã Barboza                 | 
+| Hospital: Avery Dulles Society                     |
+| Plano de Saúde: Zjo                |
+| Contato de Emergência: 349-244-6143x414               |
+---------------------------------------------
+
+\ud83d\udca2 Queixa: 
+[dor_de_estômago_pós-refeição]
+
+\ud83d\udcdd Observações: 
+- Sinais de desconforto visíveis 
+- Sensibilidade na região epigástrica 
+- Nível de dor: 7/10 
+
+\ud83c\udf21\ufe0f Sinais vitais: 
+- Pressão arterial: 140/85 
+- Pulso: 95 bpm
+- Temperatura: 98.6F 
+
+\ud83d\udc8a Tratamento Fornecido:
+Administrado Antiácidos (AJkKj 8500)
+
+\ud83d\udccc Nota de Progresso: 
+domingo, 28 de setembro de 2003 - Notou-se melhora após a administração do antiácido
+
+\ud83d\udcbc Entrada Profissional: Oficial de igualdade e diversidade
+
+---------------------------------------------
+| DETALHES DO EQUIPAMENTO MÉDICO:               |
+|                                         |
+| Dispositivo: 7314-rsGXq                         |
+| Conta: 254 458633                       |
+| Licença: 0311-wnOCz                       |
+---------------------------------------------
+
+\ud83d\udcde Informações de Contato: 
+- Casa: 349-244-6143x414 
+- Trabalho: 349-244-6143x414 
+- Celular: 349-244-6143x414 
+
+\ud83d\udcec Endereço de Correspondência: Gabriel Pires, R. das Rolas, S/N 64, Phenylenediamine, Bonito - 3, E2MP2M0B, Brasil
+- Código Postal: E2MP2M0B
+
+\ud83d\udcbb Credenciais Online: 
+- Nome de usuário: ApSiNiw1 
+- Endereço IP: 52.183.238.124
+
+\ud83c\udfe2 Organização: Vincent-Edwards
+\ud835\ude82\ud835\ude82\ud835\ude7d: 079.842.112-02
+\ud83c\udd94 ID: 254 458633
+
+\ud83d\ude98 Veículo: 
+- ID do Veículo: MUB 066
+
+\ud83d\udd10 Identificador Biométrico: 
+- Hash da Impressão Digital: fM UdqAatl
+
+---------------------------------------------
+| INFORMAÇÕES EXTRAS                        |
+|                                         |
+| Cidade: Bonito                             |
+| Estado: 3                           |
+| País: Portugal                       |
+| Fax: (620)952-4849x832                               |
+| URL: thomas-riley.white-chandler.smith.com                               |
+---------------------------------------------
+
+**Sujeito à Confidencialidade - NÃO COMPARTILHE **"
+

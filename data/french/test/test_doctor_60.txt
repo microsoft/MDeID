@@ -1,0 +1,53 @@
+"Note de Grattage du Docteur
+---------------------------
+Patient : Austin Bélanger
+ID : PBr-vvYEwR
+
+Problèmes Signalés
+----------------
+- Fatigue générale depuis 5 ans
+- Engourdissement du côté droit du corps depuis 3 ans
+- Dyspnée à l'effort depuis 1 an
+- Perte de poids de 46 à 41kg au cours des 5 dernières années
+- Diagnostic précédent : OPLL (Colonne cervicale) par Colin Lemoine
+- Non-fumeur
+
+Signes Vitaux & Observations
+----------------------
+- Température corporelle : 36.2\u00b0C
+- Fréquence cardiaque : 71 bpm
+- TA : 103/56 mm Hg
+- Mouvement thoracique diminué
+- Faiblesse musculaire du membre supérieur droit
+- Engourdissement des extrémités
+- Claudication
+- Spirométrie : Trouble ventilatoire restrictif
+- Score JOA : 14 (Myélopathie cervicale légère)
+
+Rapports d'Imagerie
+----------------
+- Radiographie & CT du thorax : Normal, mouvement diaphragmatique diminué
+- IRM (Colonne cervicale) : Compression sévère de la moelle cervicale à C3/4, changements atrophiques, lésion intramédullaire de la moelle épinière
+
+Évaluation
+------------
+- Diagnostic primaire : Myélopathie cervicale secondaire à l'OPLL
+- Possible trouble neuromusculaire précoce dû à la compression de la moelle épinière
+- Trouble respiratoire associé
+- Diagnostics différentiels : Autres causes de neuropathie et de myélopathie
+
+Plan
+------
+- Référer à un neurologue pour une évaluation plus approfondie : Colin Lemoine
+- Consulter un pneumologue pour la gestion de la maladie pulmonaire restrictive : Colin Lemoine
+- Séances de physiothérapie : Bradshaw Ltd
+- Suivi régulier : du Wisconsin-Green 
+- Discuter des options chirurgicales si les symptômes s'aggravent
+- Éducation du patient sur la gestion des symptômes et les examens médicaux réguliers
+- Respect des rendez-vous et des séances de thérapie
+
+Colin Lemoine
+Administrateur, gouvernement local
+nein@un.org
+001-817-856-3779x6976"
+

@@ -1,0 +1,60 @@
+"Verpleegkundige Notitie
+
+Subjectief: De patiënt Melissa Willems, met een geschiedenis van verworven FX-deficiëntie door AL-amyloïdose, PAF, gemetastaseerd longadenocarcinoom op erlotinib, hypertrofische cardiomyopathie, hypertensie en type 2 diabetes mellitus, meldt zich "oké" te voelen, maar heeft problemen ondervonden, waaronder zelfbeperkende epistaxis en gemakkelijk blauwe plekken op 25 juli 2021. De patiënt herinnert zich eerdere laboratoriumresultaten en medische procedures.
+
+Objectief: Eerdere laboratoriumresultaten toonden een PT van 12,4 seconden (referentiebereik: 11-15 seconden), INR van 1,2 (referentiebereik: 0,9-1,2), aPTT van 38 seconden (referentiebereik: 25-35 seconden), alkalische fosfatase op 160 U/L (referentiebereik: 40-130 U/L), creatinine op 1,16 mg/dL (referentiebereik: 0,7-1,2 mg/dL), en proteïnurie met 882 mg/24 h (referentiebereik: 0-150 mg/24 h). Abdominale echografie toonde theater met de rechterkwab met een afmeting van 21 cm. Serum- en urine-elektroforese toonden de aanwezigheid van immunoglobuline G-lambda aan. Harper LLC onthulde uitgebreide amyloïde afzetting met lambda lichte keten aanwezigheid. Beenmergkernbiopsie toonde uitgebreide amyloïde afzetting, positieve Congo-rode kleuring en positieve fluorescentie in situ hybridisatie voor lambda lichte ketens. Verminderde FX-coagulatieactiviteit werd opgemerkt op 45% met een referentiebereik van 70%-150%. Op 25 juli 2021 toonde het coagulatieprofiel PT van 16,3 seconden, aPTT van 33 seconden en FX-activiteit van 34%.
+
+Beoordeling: De primaire diagnose is verworven FX-deficiëntie secundair aan AL-amyloïdose. De geschiedenis van de patiënt van terugkerend longadenocarcinoom en andere comorbiditeiten bemoeilijken het beheer. Differentiële diagnoses omvatten andere oorzaken van abnormale coagulatie die niet gerelateerd zijn aan amyloïdose. De prognose is onzeker vanwege de complexiteit van de onderliggende aandoeningen en de terugkerende aard van de longkanker.
+
+Plan: Doorgaan met het huidige regime van melphalan en dexamethason chemotherapie. Regelmatige monitoring van coagulatieprofielen en FX-activiteit is essentieel. Informeer de patiënt over het belang van het snel melden van nieuwe symptomen of zorgen. Plan routinematige vervolgafspraken om de effectiviteit van de behandeling te beoordelen en eventuele complicaties te beheren. Verwijzing naar een hematoloog voor verder beheer van FX-deficiëntie en een oncoloog voor voortgezette kankerbehandeling wordt aanbevolen. Zorg voor naleving van alle voorgeschreven medicijnen en vervolgschema's.
+
+Voettekst:
+
+Patiënt Identificatie: 5025-Mzmbi
+
+Accountnummer: 80133-dCJR
+
+Apparaat Identificatie: weWDei 12L
+
+Gebruikersnaam: ZntdkTDk
+
+Voertuig Identificatie: 54T 7308
+
+Sociale Zekerheidsnummer: 764167732
+
+Licentie Identificatie: 93147-9231
+
+Biometrische ID: LMPKH-2492
+
+IP Adres: 27.44.162.9
+
+Andere Identificatie: 80133-dCJR
+
+Leeftijd: 51
+
+Adres: Melissa Willems, Gansey 68, 9735 Unhysterical, Nederland
+
+Ziekenhuis: Pinya
+
+Andere Locatie: theater
+
+Gezondheidsplan: HDwEpc
+
+Beroep: Medisch vertegenwoordiger
+
+Organisatie: Harper LLC
+
+Datum: 25 juli 2021
+
+Dokter: Mark van den Berg
+
+Email: BeenMavan@hotmail.com
+
+Telefoon: 857.749.4300x045
+
+URL: https://jenkins-carson.org/appauthor.jsp
+
+Fax: 2416021450 
+
+Ondertekend: Mark van den Berg"
+

@@ -1,0 +1,32 @@
+"SOAP Notiz
+
+S: Der Patient Lore De Backer, mit einer Vorgeschichte von erworbenem FX-Mangel durch AL-Amyloidose, PAF, metastasierendem Lungenadenokarzinom unter Erlotinib, hypertropher Kardiomyopathie, Hypertonie und Typ-2-Diabetes mellitus, berichtet, dass es ihm gut geht, aber er hat Probleme wie selbstlimitierende Epistaxis und leichtes Quetschen am 11. April 2008 erlebt. Der Patient erinnert sich an frühere Laborergebnisse und medizinische Verfahren.
+
+O: Frühere Laborergebnisse zeigten eine PT von 12,4 Sekunden, INR von 1,2, aPTT von 38 Sekunden, alkalische Phosphatase bei 160 U/L, Kreatinin bei 1,16 mg/dL und Proteinurie mit 882 mg/24 h. Ein abdominales Ultraschall zeigte eine Hepatomegalie mit einer rechten Lappenmessung von 21 cm. Serum- und Urinelektrophoresen zeigten das Vorhandensein von Immunglobulin G-Lambda. Eine Leberbiopsie zeigte eine umfangreiche Amyloidablagerung mit Lambda-Leichtkettenpräsenz. Eine Knochenmarkkernbiopsie zeigte umfangreiche Amyloidablagerungen, positive Kongorot-Färbung und positive Fluoreszenz-in-situ-Hybridisierung für Lambda-Leichtketten. Eine verringerte FX-Koagulationsaktivität wurde mit 45% bei einem Referenzbereich von 70%-150% festgestellt. Am 11. April 2008 zeigte das Koagulationsprofil eine PT von 16,3 Sekunden, eine aPTT von 33 Sekunden und eine FX-Aktivität von 34%.
+
+A: Die Hauptdiagnose ist ein erworbener FX-Mangel sekundär zur AL-Amyloidose. Die Vorgeschichte des Patienten mit rezidivierendem Lungenadenokarzinom und anderen Komorbiditäten erschwert das Management. Differenzialdiagnosen beinhalten andere Ursachen für abnorme Koagulation, die nicht mit Amyloidose zusammenhängen. Die Prognose ist aufgrund der Komplexität der zugrunde liegenden Bedingungen und der rezidivierenden Natur des Lungenkrebses vorsichtig.
+
+P: Fortsetzung des aktuellen Regimes mit Melphalan und Dexamethason-Chemotherapie. Regelmäßige Überwachung der Koagulationsprofile und der FX-Aktivität ist unerlässlich. Den Patienten über die Wichtigkeit der sofortigen Meldung neuer Symptome oder Bedenken aufklären. Regelmäßige Nachsorgetermine im UCLA Lodish planen, um die Wirksamkeit der Behandlung zu bewerten und eventuelle Komplikationen zu bewältigen. Eine Überweisung an einen Hämatologen Sabine Maier zur weiteren Behandlung des FX-Mangels und einen Onkologen Sabine Maier zur fortlaufenden Krebsbehandlung wird empfohlen. Die Einhaltung aller verschriebenen Medikamente und Nachsorgetermine sicherstellen.
+
+Zusätzliche Notizen:
+- Medizinische Aktennummer: kVT-057eYy
+- Patientenkontonummer: 78-66371bO
+- Geräteseriennummer: 840-78YSVs
+- Benutzername im Patientenportal: qyjmWKyP
+- Fahrzeugkennzeichen: RJX 693
+- Sozialversicherungsnummer: 150-5920572-92
+- Berufslizenzkennzeichen: 77-05420Yc
+- Biometrisches Kennzeichen: zrgu 59649
+- IP-Adresse: 65.168.161.188
+- Persönliche Kennnummer: 78-66371bO
+- Alter des Patienten: 100
+- Patientenadresse: Lore De Backer, Briemerweg 9/3 79, 2034 Vorpommern-Rügen, Österreich
+- Andere Standorte: Restaurant
+- Gesundheitsplan: qX9y2J
+- Beruf des Patienten: Ingenieur, Land
+- Zugehörige Organisation: Johnson-Brown
+- E-Mail-Adresse: rin@aol.com
+- Kontaktnummer: 509.674.1447x690
+- Webseite:  kim-gutierrez.com/list/search/tagmain.php
+- Faxnummer: +1-983-692-3414x100"
+

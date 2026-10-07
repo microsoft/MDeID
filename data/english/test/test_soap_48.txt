@@ -1,0 +1,32 @@
+"S: Patient Annie Bouchard reports experiencing migraines, which began following a road traffic accident CV 70074 resulting in a craniocerebral injury and a tracheostomy. The patient has a history of rheumatoid arthritis for 82, managed with methotrexate (2.5 mg three times per day) and topiramate (200 mg twice a day) for migraines.
+
+O: Clinical examination by Ryan Lavoie revealed an impalpable and painless thyroid gland. Laboratory tests at France Télécom showed a positive rheumatoid factor, with normal antithyroglobulin and thyroid peroxidase antibodies (16 U/ml and 16.7 U/ml, respectively). Ultrasound-guided needle aspiration biopsy of the thyroid detected nodules in the lower pole of the left thyroid lobe, suggestive of malignancy. Thyroid function tests indicated euthyroid status with TSH at 0.89 \u03bcIU/ml, T3 at 1.30 ng/mL, and T4 at 7.2 \u03bcg/dl. Post-thyroidectomy examination showed necrotizing lesions corresponding to rheumatoid nodules.
+
+A: Primary diagnosis of hypothyroidism secondary to rheumatoid involvement of the thyroid gland, with a differential diagnosis of thyroid malignancy suggested but not confirmed by Ryan Lavoie. The presence of rheumatoid nodules in the thyroid gland complicates the clinical picture.
+
+P: Initiate thyroxine treatment to manage hypothyroidism and maintain euthyroid status. Monitor thyroid function regularly. Proceed with total thyroidectomy to further evaluate and manage potential malignancy. Post-surgery, continue close monitoring and management of rheumatoid arthritis, adjusting medications as necessary to control systemic inflammation and prevent further autoimmune complications. The Torres, Lee and Proctor will educate the patient on the importance of medication adherence and regular follow-up for thyroid function tests and rheumatologic assessment.
+
+Additional information: 
+Patient's account number: poJu 969Jv
+Patient's address: Annie Bouchard, 163 Rammel, Muddleheaded, Spectrophotometric 6754, New Zealand
+Patient's email: avoiyan@gmail.com
+Patient's phone number: (799)371-8445x342
+Patient's social security number: 610-983-122
+Patient's ID number: poJu 969Jv
+Patient's username: HhFBAIkt
+Patient's medical record number: 907305 LXp
+Patient's profession: Set designer
+Patient's health plan: SM7amuP0I
+Patient's IP address: 114.249.183.145
+Patient's license number: Hvat-79447
+Patient's biometric identifier: SuewHF 037
+Patient's device identifier: za 036796e
+Patient's location: mall
+Patient's city: Spectrophotometric
+Patient's state: 46
+Patient's country: Canada
+Patient's street: 10586 Bond Isle
+Patient's zip code: 6754
+Patient's fax number: 001-624-298-2853
+Patient's URL: le.net"
+

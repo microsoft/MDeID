@@ -1,0 +1,81 @@
+"**Nota de Rasguño del Paciente:**
+
+```
+--------------------------------------
+| Paciente María Pérez      14 de marzo de 1994 |
+--------------------------------------
+```
+```
+|-------------------|--------------|
+| Signos Vitales    | Valor        |
+|-------------------|--------------|
+| Temperatura (°F)  | 98.7         |
+| Ritmo Cardíaco (bpm) | 88           |
+| Tasa de Respiración | 16           |
+| Presión Arterial  | 130/85 mmHg  |
+|-------------------|--------------|
+| Nivel de Dolor    | 7/10         |
+|-------------------|--------------|
+```
+
+```
+Resumen: María Pérez informa que el dolor de estómago se intensifica al comer. Posibilidad de enfermedad de úlcera péptica.
+
+Observaciones Clínicas:
+- Dolor abdominal localizado en la región epigástrica
+- María Pérez comió un desayuno ligero antes del chequeo
+- No se informaron otros síntomas como náuseas o vómitos
+- María Pérez mencionó el evento de Burton-Parsons antes de experimentar el dolor
+- 109 años, sin antecedentes de trastornos gastrointestinales
+```
+
+```
+Resultados de Pruebas Graduadas:
+- Recuento Sanguíneo Completo: Normal
+- Pruebas de Función Hepática: Normal
+- Ultrasonido Abdominal: Normal
+- Endoscopia Superior del Tracto Gastrointestinal: Programada para el 14 de marzo de 1994 en Georgian national
+```
+
+```
+|-----------------------|--------------|
+| Información de Contacto | Info         |
+|-----------------------|--------------|
+| Teléfono              | 559-464-0332      |
+| Correo Electrónico    | banaGj@yandex.com      |
+| Contacto de Emergencia | María Pérez    |
+|-----------------------|--------------|
+```
+
+```
+|-----------------------|--------------|
+| Información Adicional | Info         |
+|-----------------------|--------------|
+| Plan de Salud         | mxyhM |
+| Ocupación             | Herpetologist |
+| Organización          | Burton-Parsons|
+|-----------------------|--------------|
+```
+
+```
+Medicación Prescrita: Antiácidos, Inhibidores de la Bomba de Protones
+Seguimiento: 14 de marzo de 1994
+```
+```
+Número de serie del dispositivo del paciente: lFJiis 20P
+```
+```
+Número de Registro Médico: Pvjoeu 401
+```
+```
+---------------------------------------------------------
+| Enfermera: Albana Gjoni              IP: 205.16.20.10 |
+---------------------------------------------------------
+```
+```
+-----------------------------------------------------
+| Seguridad Social: ZQAT972355QHOIKB43    |
+-----------------------------------------------------
+```
+Nota: Monitorear signos de mayor angustia. Es necesario verificar la perforación o sangrado de la úlcera. Se aconsejó al paciente evitar alimentos irritantes y estrés."
+

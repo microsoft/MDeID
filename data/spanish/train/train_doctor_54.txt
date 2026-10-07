@@ -1,0 +1,17 @@
+"Notas del Doctor:
+
+S: 
+El paciente Samuel Cruz es un paciente de larga duración con acromegalia. Los síntomas notables incluyen disnea al esfuerzo y falta de aliento (2 años), episodio reciente de presíncope (hace 2 semanas). Samuel Cruz tratado con octreotida durante aproximadamente 2 décadas, 2 procedimientos de radiocirugía estereotáctica en los últimos 10 años. No hay antecedentes familiares a destacar. Niega hipertensión, diabetes mellitus, apnea del sueño, muerte cardíaca súbita. No fuma, consume alcohol.
+
+O: 
+IMC indicando sobrepeso, 39 kg/m2. Presentes características acromegálicas distintivas: lengua agrandada, labios, manos, pies. Signos vitales: Presión arterial - 110/60 mmHg, Pulso - 92 latidos/min, ritmo sinusal, latidos prematuros irregulares, tercer sonido cardíaco patológico, soplo sistólico. El ECG muestra BRIHH, función cardíaca NYHA etapa III-IV. La resonancia magnética confirmó macroadenoma pituitario. Resultados de laboratorio: BNP elevado (740 pg/ml), exceso de hormona de crecimiento e IGF-1.
+
+A:
+Diagnóstico principal: Acromegalia. Complicaciones: Insuficiencia cardíaca (evidente por BNP elevado, etapa III-IV de NYHA), macroadenoma pituitario. Diagnósticos diferenciales: Otras causas de miocardiopatía, efectos secundarios del exceso de hormona de crecimiento a largo plazo.
+
+P: 
+Continuar con octreotida, monitorear efectividad y efectos secundarios. Plan de referencia a Anna Müller (cardiología) para el manejo de problemas cardíacos. Considerar ajustar los medicamentos para la insuficiencia cardíaca basándose en las recomendaciones de Anna Müller. Es necesario un seguimiento regular para el monitoreo del nivel de hormonas y la función cardíaca. Educar a Samuel Cruz sobre el monitoreo regular y la adherencia al plan de tratamiento. Discutir opciones quirúrgicas para el macroadenoma pituitario con Anna Müller (neurocirujano).
+
+Anna Müller
+Reyes PLC"
+

@@ -1,0 +1,44 @@
+"--:: NURSE SCRATCH NOTE, CODE: KjM 323Rmo ::--
+
+- Pt. Lily Watson - varicose veins suspect
+- Pertinent data:
+    - Vitals: BP 130/80 mmHg, HR 72 bpm, TEMP 98.6F, SpO2 98%
+    - Ambulatory, no distress
+    - Legs inspection - abnormal veins present
+
+-- \u221a Assessment & Plan --
+
+Forest/woodland manager reports unusual veins - Legs
+- Monitor progression
+- Consider referral to Samuel Taylor
+- VI therapy?
+
+--:: Next of Kin ::--
+Name: Lily Watson
+Relation: Grandmother
+Contact: 210.622.9423x2340
+Address: Lily Watson, 133 Maharajrana, Gracileness, 68 3353, Canada
+
+--:: Digital Info ::--
+IP Address: 158.151.161.88
+User Name: qU1D2uaT
+
+--:: Emergency Info ::--
+Health Plan: B0F5DoHT
+License: VNAO 96115
+BioID: Yz-CKlBNXY
+
+--:: Vital Signs - Device Info ::--
+Device: 002-sbikal
+ID: sfQdy-4511
+
+Footer:
+Referral to Blindern
+Attend by- Samuel Taylor
+On- Mon/6/1978
+
+NOTES:
+Vitals stable. No immediate concern. Follow-up in Mon/6/1978.
+Possible occupational hazard. Place of employment: Williams-Mcknight
+"
+

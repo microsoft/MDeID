@@ -1,0 +1,58 @@
+"**NOTE DE RAYURE D'INFIRMIÈRE**
+
+**Détails du patient**
+Lisa Schneider
+56
+Lisa Schneider, 164 445 avenue Vanessa, Boekt, 64 7022, Canada
+926.373.4273
+
+**Signes vitaux**
+BP: 130/85
+Pouls: 75
+Temp: 36.5 C
+Respiration: 20
+
+**Plainte**
+1. Crampes dans les mollets (Varices salle de sport)
+
+**Observations**
+1. Veines dilatées dans les membres inférieurs
+2. Pas d'ulcérations visibles
+
+**Traitement**
+Médicament: 
+Dosage: 20mg par jour
+Rendez-vous de suivi: 22 janv. 1982
+
+**Équipe de soins de santé**
+Médecin principal: Candice Blanchard
+Infirmière: FEkSKjKl
+
+**Antécédents médicaux**
+Dernière visite à l'hôpital: Clintondale, 22 janv. 1982, GyI axydiZ
+Plan de santé: CTn
+
+**Informations supplémentaires**
+Adresse IP de connexion du patient: 222.53.26.205
+Numéro de l'appareil pour le pacemaker: 0125-xnijK
+
+**Détails du contact**
+Contact d'urgence: Lisa Schneider
+Numéro de contact: 926.373.4273
+Email de contact: Blance@who.int
+
+**Informations structurées**
+Licence professionnelle du médecin principal: 625116-BJV
+Numéro de compte du patient: 89704-532v
+Identifiant personnel: 89704-532v
+Numéro de sécurité sociale: 4 51 72 09 144 342
+Hash biométrique de l'empreinte digitale du patient pour la connexion sécurisée: 149-aovOgx
+
+**Informations non structurées**
+Le patient travaille pour: Barajas-Frazier
+Dernier véhicule utilisé par le patient: 700K, Plaque d'immatriculation: 625116-BJV
+URL pour accéder au portail de santé en ligne du patient:  walker-haynes.biz/category/explore/tagauthor.jsp
+Numéro de fax pour envoyer les rapports médicaux: 8409198945
+
+**Note**: L'état du patient est stable. Prochaine revue le 22 janv. 1982."
+

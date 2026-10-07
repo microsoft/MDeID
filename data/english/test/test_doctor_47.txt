@@ -1,0 +1,41 @@
+"Doctor Notes
+
+Note: Layla Clark,  Male, 6
+Hx: HIV, Metastatic transitional cell cancer - renal pelvis. 
+
+- Previous left nephrectomy
+- Metastatic spread: Spinal bones, mediastinal LNs, lungs
+- Tx: Gemcitabine, Cisplatin, Atezolizumab, Antiretroviral therapy (elvitegravir, cobicistat, emtricitabine, tenofovir/alafenamide)
+- Lab: Undetectable viral load, CD4 count 444 cells/mm3
+
+Presented with:
+- Progressive SOB
+- Leg swelling
+
+O/E:
+- Tachycardia
+- Respiratory distress
+- Decreased breath sounds right hemithorax
+- Lower extremity swelling
+
+Investigations:
+- CXR: Right pleural effusion, Enlarged nodular density in left upper lobe
+- Labs: Anemia, Elevated troponin I levels
+- Transthoracic and transesophageal echocardiography: Large, mobile, cystic mass right and left atrium, Invasion into interatrial septum
+- Lower extremity MRI: Multiple enhancing neoplastic masses both calves
+
+Impression: 
+- Advanced metastatic cancer
+- Significant cardiac and pulmonary involvement
+- Anemia
+- Potential cardiac distress (elevated troponin I)
+- Widespread metastatic disease
+
+Plan:
+- Blood transfusion, thoracentesis for symptom management
+- Palliative care for comfort maintenance
+- No surgical interventions due to extensive disease
+- Patient passed away, family informed and supported through bereavement process
+
+Michael Thompson"
+

@@ -1,0 +1,57 @@
+"Note d'Infirmière : Impétigo 16 novembre 2021
+
+--------------------
+**Profil du Patient**
+- Nom : Audrey Bogaert
+- Âge : 95
+- Adresse : Audrey Bogaert, 29 77921 Alexis Summit Apt. 136, Vieilley, 17 2301, Canada
+- Contact : (527)508-0528x29107/ iier@un.org
+- Contact d'urgence : (527)508-0528x29107
+- Numéro de dossier médical : anHxd 6105
+- Numéro de compte : Uty-09927k
+- Assurance santé : G0mKRjki
+- Hôpital : Ban Landmines
+--------------------
+
+**Aperçu Clinique**
+- Condition dermatologique : Impétigo
+- Éruption cutanée avec cloques observée
+- Appareil affecté : N/A
+- Nom d'utilisateur du patient pour le forum de santé de la peau : 0089ED3V
+
+**Signes vitaux**
+- Température : 98.6\u00b0F
+- Pouls : 80 battements/min
+- Respiration : 16 respirations/min
+- Pression artérielle : 120/80 mmHg
+
+**Observations supplémentaires**
+- Site de l'éruption : Non divulgué, masquer avec café
+- BIOID : Non disponible
+- Adresse IP de la connexion de télésanté du patient : 158.202.99.222
+
+**Interventions prévues**
+- Prescription d'antibiotiques topiques
+- Conseiller de garder la peau propre et sèche
+- Suivi dans 1 semaine
+
+**Références**
+- Dermatologue : Dr. Tibo Carlier
+- Consultation prévue le : 16 novembre 2021
+- URL de la consultation : http://www.thomas-martinez.com/searchabout.html
+
+**Notes supplémentaires**
+- Le patient travaille pour : Livingston Inc
+- Profession du patient : Interprète
+- IDNUM : Uty-09927k
+- Détails du véhicule pour le transport à l'hôpital : 46U QI0
+- Numéro de permis du conducteur du patient : 876018 RFo
+- Détail de la sécurité sociale : 620-7016022-94
+- Pays du patient : Belgique
+- Ville du patient : Vieilley
+- Code postal : 2301
+- Fax pour les documents médicaux : +1-343-378-9307
+
+--------------------
+Document délivré par : Infirmière Tibo Carlier"
+

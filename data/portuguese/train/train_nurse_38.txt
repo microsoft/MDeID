@@ -1,0 +1,45 @@
+"Nota de Consulta de Enfermagem
+
+Cabeçalho: Informações de Consulta
+-------------------------------------
+Paciente: Tiago Marques
+Endereço: Tiago Marques, Rua de Nascimento, 29 89, Idioms, Cidelândia - 77, I8C40QGT, Brasil
+Cidade: Cidelândia
+Estado: LISBOA
+País: Brasil
+CEP: I8C40QGT
+Idade: 19
+Telefone: 374.885.9072x7358
+Email: GonçaA@gmail.com
+Nome de usuário: Jc58q75Q
+Segurança Social: 244.267.351-95
+Plano de Saúde: AKfUK 3sOVmG
+Médico: Ana Gonçalves
+Hospital: Igreja Evangélica-Luterana
+-------------------------------------
+
+Subjetivo: O paciente, identificado como Tiago Marques, um homem afro-americano de 19 anos, não relatou sintomas atuais ou desconforto. Sua visita é para um check-up de rotina. Ele revelou um histórico familiar significativo de câncer de próstata, com seu irmão de 19 anos tendo sido diagnosticado e tratado com radiação.
+
+Objetivo: Atualmente, Tiago Marques está assintomático. Não há registros de exame físico ou resultados de laboratório associados a esta consulta.
+
+Avaliação: Com base nas informações fornecidas, Tiago Marques está em risco aumentado para câncer de próstata devido à sua etnia e histórico familiar (parente de primeiro grau diagnosticado aos 19 anos). A discussão foi centrada nos potenciais benefícios e riscos do teste de PSA, considerando as diferentes recomendações de várias organizações de saúde.
+
+Plano: O plano é ter uma conversa aprofundada sobre o teste de PSA para permitir que Tiago Marques tome uma decisão informada. O paciente é incentivado a fazer mais pesquisas e preparar quaisquer perguntas que possa ter para uma discussão de acompanhamento. Ele também foi aconselhado a relatar quaisquer novos sintomas ou preocupações no interim.
+
+Rodapé: Informações Adicionais
+-------------------------------------
+Conta: 35 043879I
+Registro Médico: FBwhu-8594
+Dispositivo: dlDnu aAGw
+Licença: SiNy AkQBB
+BioID: 826-qBexEF
+Endereço IP: 13.115.33.18
+Número de ID: 35 043879I
+Localização: farmácia
+Profissão: Jornalista, jornal
+Organização: Diaz-Good
+Veículo: 3IF O41
+URL: valentine-phillips.net
+Fax: 516.711.1795x0574
+-------------------------------------"
+

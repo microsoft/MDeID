@@ -1,0 +1,37 @@
+"Dokterskrabbel Notitie:
+
+-----------------------------------
+Dr. Théo Verlinden
+Jackson-Long
+
+Célia Devos - 001 HzyBgV - 24
+
+OBSERVATIES:
+Vitale Tekens:
+Temp: 36.5\u00b0C
+HR: 90 bpm
+RR: 22/min
+BP: 108/61 mm Hg
+O2 Sat: 100% op 40% FiO2
+
+Symptomen: AMS(1wk), Koorts, Nekpijn, Misselijkheid, Braken. Geen buikpijn, hoofdpijn, visuele veranderingen, focale zwakte, borstpijn, dyspneu. Geen roken, alcohol, illegaal drugsgebruik. Nachtelijke activiteiten gemeld, intermitterende slaperigheid. 
+
+Lichamelijk Onderzoek: Geïntubeerd, Opgenomen in ICU. Positief Brudzinski-teken, nekstijfheid, pupillen gelijk en reageren op licht, reactie op pijnlijke prikkels. Longen helder, cardiale en abdominale onderzoeken onopvallend. 
+
+Lab Resultaten: WBC 19,900/mm3 (81% neutrofielen), HGB 11.8 g/dL, Bloedplaatjes 170,000/\u00b5L, Creatinine 0.5 mg/dL, Bilirubine 0.6 mg/dL, AST 49 IU/L, ALT 81 IU/L, Alkalische fosfatase.
+
+BEOORDELING:
+1. Acute bacteriële meningitis - Koorts, nekstijfheid, AMS, ondersteunende lab bevindingen inclusief leukocytose met neutrofilie.
+2. Differentiëlen - Virale encefalitis, andere CNS infecties.
+
+PLAN:
+1. Voortgezette ICU monitoring, ondersteunende zorg.
+2. Start empirische antibioticatherapie - Richt op gangbare pathogenen die meningitis veroorzaken.
+3. Monitor neurologische status en vitale tekenen nauwkeurig.
+4. Educatie - Célia Devos, familie over conditie, behandelplan, verwachte uitkomsten.
+5. Consultaties - Neurologisch, Overweeg infectieziekte indien nodig.
+6. Vervolgzorg - Bespreek belang, langetermijnbeheer.
+
+Théo Verlinden
+-----------------------------------"
+

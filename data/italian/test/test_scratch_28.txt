@@ -1,0 +1,104 @@
+"Appunto di Infermieristica
+
+--------------------------------------------------
+
+|             DETTAGLI DEL PAZIENTE:             |
+
+| Paziente Ilaria Palazzo     |
+
+| Età: 27                             |
+
+| Indirizzo: Ilaria Palazzo, 892 Jenna Spurs, 11, 4022 Legnano Triquetral, Italia |
+
+| Account: pyOlc-mETC         |
+
+| Ospedale: Okęcie          |
+
+| Cartella Clinica: 67 13519zB |
+
+--------------------------------------------------
+
+-----------------------------------------------------
+
+|             OSSERVAZIONE INFERMIERISTICA:         |
+
+-----------------------------------------------------
+
+BP: 128/84      
+
+Frequenza Cardiaca: 72 bpm    
+
+Frequenza Respiratoria: 18 rpm
+
+Saturazione O2: 98%
+
+-----------------------------------------------------
+
+|             VALUTAZIONE INFERMIERISTICA:          |
+
+-----------------------------------------------------
+
+La paziente Ilaria Palazzo riferisce sintomi di raffreddore - 
+
+Presenti: 
+
+- Tosse (gravità 7/10)
+
+- Congestione nasale
+
+------------------------------------------------
+
+|             POSSIBILI INTERVENTI:           |
+
+------------------------------------------------
+
+- Idratazione 
+
+- Riposo
+
+- Farmaci da banco per il raffreddore
+
+-----------------------------------------------------
+
+|             INFORMAZIONI DI CONTATTO:             |
+
+-----------------------------------------------------
+
+Dottore: Caterina Moretti      
+
+Telefono: 001-629-582-7954x7660      
+
+Email: ttiterin@icloud.com
+
+--------------------------------------------------
+
+|             INFORMAZIONI AGGIUNTIVE:             |
+
+--------------------------------------------------
+
+Nome Utente: ui1HDQii                               
+
+ID Dispositivo: maI 974PIN        
+
+Contatto di Emergenza: Ilaria Palazzo        
+
+SSN: HEDHYS10L87K915V                          
+
+Licenza: rcy-YRJHhc                            
+
+Professione: Tecnologo alimentare  
+
+-----------------------------------------------------
+
+|             PROSSIMO APPUNTAMENTO:                |
+
+-----------------------------------------------------
+
+Luogo: fermata dell'autobus
+
+Data: 02/04/09
+
+Piano Sanitario: HOcA2cCpWaU7l IfKmTkPkZ bhuMu7O 
+
+Nota: Monitorare per il miglioramento o il peggioramento dei sintomi. Contattare la Caterina Moretti se i sintomi persistono o peggiorano."
+

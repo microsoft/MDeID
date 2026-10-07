@@ -1,0 +1,31 @@
+"S: Patientin Lore Claessens berichtete bei der Aufnahme über eine Geschichte von hohem Fieber und schmerzhaften Geschwüren mit Kopfhautschwellung vom 28.05.1977. Die Patientin hatte auch aufgrund des Zustands schlechte Essgewohnheiten.
+
+O: Die körperliche Untersuchung durch Delphine Jacobs ergab Bewusstsein mit einem Glasgow-Koma-Skala-Score von 15, Eiterbildung, Fistel mit eitriger Entladung, Kopfhautschälung und Gesichtsschwellung. Laboruntersuchungen zeigten eine schwere Neutropenie mit weißen Blutkörperchen bei 2,39 x 10^9/l, Neutrophilen bei 0,25 x 10^9/l und Lymphozyten bei 2,1 x 10^9/l. Die Blutsenkungsgeschwindigkeit war mit 101 mm/Stunde erhöht, und das C-reaktive Protein war mit 272 mg/dl deutlich erhöht. Die Eiterkultur testete positiv auf Enterococcus faecalis und Escherichia coli. Blut- und Urinkulturen waren negativ. Röntgenaufnahme des Brustkorbs, Urinanalyse und Analyse der Gehirn-Rückenmarks-Flüssigkeit waren normal. Serumtitel von Immunglobulinen und T-Zell-Prozentzahlen lagen im normalen Bereich. Die Knochenmarkanalyse zeigte eine Reifungsblockade auf der Promyelozyten/Myelozytenstufe ohne maligne Beteiligung. Eine CT-Untersuchung des Kopfes und des Schädels im British Double Reed zeigte ein subkutanes Emphysem der Kopfhaut, aber keine Hirnverletzung oder Schädelfrakturen.
+
+A: Die Hauptdiagnose ist eine nekrotisierende Fasziitis der Kopfhaut, kompliziert durch eine Sepsis. Als Differentialdiagnosen wurden andere infektiöse Ätiologien in Betracht gezogen, die durch verschiedene Kulturen und serologische Tests ausgeschlossen wurden.
+
+P: Die Patientin wurde mit Pentaglobin (0,5 g/kg) und einer Kombination von Antibiotika behandelt: Vancomycin, Meropenem und Metronidazol. Die Therapie mit Granulozyten-Kolonie-stimulierendem Faktor (G-CSF) wurde in Dosen von 5 bis 15 µg/kg/Tag zur Behandlung der schweren Neutropenie eingeleitet. Die Patientin wurde nach 28.05.1977 Behandlung entlassen und setzt die regelmäßige G-CSF-Therapie fort, um weitere Infektionen zu verhindern. Die Nachsorge umfasst die regelmäßige Überwachung der Neutrophilenzahl und des allgemeinen Gesundheitszustands im British Double Reed, um sicherzustellen, dass keine erneute Infektion auftritt.
+
+Zusätzliche Informationen:
+- Patientenakte Nummer: aTTX-cTSzk
+- Kontonummer des Patienten: YviK-GRtgo
+- Seriennummer des Geräts des Patienten: jZXmG-QnbF
+- Benutzername des Patienten: Lorssens
+- Fahrzeuginformationen des Patienten: 9V 77349
+- Sozialversicherungsnummer des Patienten: 816796-0269
+- Führerscheininformationen des Patienten: 045299-Uss
+- Biometrischer Identifikator des Patienten: BwTN PBYXl
+- IP-Adresse des Patienten: 27.169.121.36
+- Zusätzliche ID-Nummer des Patienten: YviK-GRtgo
+- Alter des Patienten: 86
+- Adresse des Patienten: Lore Claessens, Jäggistrasse 475 124, 1101 Heikendorf, Österreich
+- Standort des Patienten: Theater
+- Gesundheitsplan des Patienten: DRaTCEGV
+- Beruf des Patienten: Rettungssanitäter
+- Organisation des Patienten: Gonzalez-Carrillo
+- Heutiges Datum: 28.05.1977
+- E-Mail des Patienten: incobs@mail.com
+- Telefonnummer des Patienten: 001-237-460-3790
+- URL des Patienten: mata.smith-hill.merritt.com
+- Faxnummer des Patienten: 351.560.3364x117"
+

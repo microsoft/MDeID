@@ -1,0 +1,62 @@
+"**Note de Scratch**
+
+Statistiques vitales
+TA : 128/85
+FC : 94 
+Temp : 38,7 C
+FR : 18
+Sat O2 : 94%
+
+**Observation :** Jayden Simard a présenté des symptômes de toux persistante, de fièvre et de fatigue. Pneumonie possible, nécessite d'autres tests.
+
+**Info Clinique**
+Mathis Riviere a conseillé une radiographie thoracique, des analyses de sang (CBC, marqueurs inflammatoires). 
+Médicament recommandé : 
+1. Comprimé d'Azithromycine 500mg pendant 5 jours
+2. Paracétamol 650mg au besoin
+
+**Dossiers**
+Numéro de dossier médical : CTRU-tQdTQ
+Numéro de compte : 430541 441
+ID de l'appareil : bdG-869002 (si disponible)
+
+**Contact**
+Numéro de contact d'urgence : 4539180247
+Email : the@yahoo.com
+
+**Démographie**
+Âge : 80
+Adresse : Jayden Simard, 396 Marie Course Apt. 523 89, 0880 Villeneuve-lès-Avignon, Suisse
+Ville : Carcassonne
+État : 50
+Code postal : 0880
+
+**Autres Infos**
+SSN : 732-1916491-60
+Permis : 6437-78615
+BioID : 37607-5441
+IP : 219.14.45.32
+
+**Emploi**
+Organisation : Wilson-Miller
+Profession : Journaliste, journal
+
+**Assurance Santé**
+Plan de santé : LCHod
+
+**Info en ligne**
+Nom d'utilisateur:GJ6VCIKg
+URL :  www.ramsey.com/exploreindex.htm
+
+**Divers**
+Véhicule : 862 RC3
+Fax : (481)519-9585
+
+------
+NOTES :
+12/10/1984 - Observation enregistrée
+Suivi prévu pour le 12/10/1984
+Le patient vit près de gare
+------
+**FIN DE LA NOTE**"
+

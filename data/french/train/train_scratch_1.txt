@@ -1,0 +1,74 @@
+"**Note de l'infirmière :**
+
+**Instantané du patient : 23/07/1997**
+
+---
+
+**Signes vitaux :** 
+
+TA : 120/80   
+FC : 80   
+FR : 16   
+Temp : 98.6\u00b0F   
+Sat O2 : 98%   
+
+---
+
+**Observations :**
+
+La patiente Sara Widmer se présente avec des signes de raideur de la nuque et de faiblesse musculaire. Possible arthrite observée. 
+Début : 23/07/1997 
+
+---
+
+**Plan de soins :**
+
+1. Encourager l'activité physique. 
+2. Administrer les médicaments prescrits. 
+3. Contrôles réguliers et mises à jour avec Estelle Bertrand. 
+4. S'assurer que Hoover LLC fournit l'équipement nécessaire.
+
+---
+
+**Communication :**
+
+Estelle Bertrand a été informée par ranEs@who.int.
+RE5x8YV mis à jour via 743-441-4910.
+
+---
+
+**Informations de contact :**
+
+Proche parent : Sara Widmer  
+Téléphone pour les urgences : 6068544494  
+Email : ranEs@who.int     
+
+---
+
+**Détails supplémentaires :**
+
+Lieu de soins : Église paroissiale Saint John Fisher
+Détails du fournisseur : Hoover LLC, Compte #44-wGApSOp
+Dossier médical : eUYhwn-703
+Détails de l'appareil : Appareil #31444 84lw   
+Soins prodigués à : théâtre  
+
+---
+
+**Divers :**
+
+- Détails du véhicule pour le transport : MUB 066
+- Enregistrement IP pour les sessions de télésanté : 52.183.238.124
+- Licence du personnel de soins : 052484-983
+- Détails biométriques pour l'accès sécurisé : qAa-190tlE
+- Identifiant unique #44-wGApSOp
+- Infos assurance : RE5x8YV
+- Adresse pour l'envoi du courrier : Sara Widmer, 133 Océane Trail Suite 291 134, 8226 Jodoigne, Suisse
+- Professions liées au patient : Officier de l'égalité et de la diversité
+- Le NOM D'UTILISATEUR utilisé pour se connecter : Widmea
+
+
+---
+
+Ceci est un instantané de l'état du patient. Les changements seront notés dans les rapports ultérieurs."
+

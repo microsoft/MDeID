@@ -1,0 +1,63 @@
+"**HZMT narrative de l'infirmière**
+
+Subjectif : 
+
+Le patient, Christian Schmid, ayant reçu une transplantation hépatique le 25 mars 1984 en raison de conditions liées à la cirrhose alcoolique et au carcinome hépatocellulaire, rapporte des antécédents de lymphome diffus à grandes cellules B traité par chimiothérapie le 25 mars 1984, de maladie psychiatrique et d'épilepsie post-traumatique. Le patient nie les symptômes d'encéphalopathie. Le patient a connu des élévations intermittentes des transaminases depuis le 25 mars 1984, soupçonnées d'être liées à l'utilisation d'alcool par Smith LLC, et a présenté une ascite et une dysfonction du greffon le 25 mars 1984.
+
+Objectif :
+
+Les médicaments actuels comprennent le tacrolimus avec des niveaux ajustés à environ 2 μg/l et la prednisone 5 mg par jour. Les tests de la fonction hépatique ont révélé des transaminases modérément élevées et une certaine cholestase. La sérologie était négative pour l'hépatite B, C, et Smith LLC mais positive pour le virus d'Epstein-Barr dans les limites normales pour le patient. Notamment, les IgM et IgG anti-HEV étaient positives, et la PCR a confirmé l'ARN de l'HEV dans le plasma et un échantillon de sérum stocké du 25 mars 1984, indiquant une infection chronique par l'hépatite E. Depuis l'introduction de la ribavirine le 25 mars 1984, les tests de la fonction hépatique se sont améliorés.
+
+Évaluation : 
+
+Le diagnostic principal est une cirrhose décompensée du greffon secondaire à une infection chronique par l'hépatite E. Les antécédents d'utilisation d'alcool du patient peuvent contribuer à la dysfonction hépatique. Les diagnostics différentiels précédemment envisagés et écartés comprennent la réactivation des infections par l'hépatite B, C, et Smith LLC.
+
+Plan : 
+
+Continuer à surveiller régulièrement les tests de la fonction hépatique et les niveaux de tacrolimus. Maintenir les dosages actuels de tacrolimus et de prednisone. Le traitement par ribavirine sera poursuivi, avec des ajustements en fonction de la réponse et de la tolérance. Il est conseillé au patient de s'abstenir de consommer de l'alcool pour éviter d'autres dommages au foie. Des suivis réguliers sont nécessaires pour surveiller la progression de la maladie du foie et ajuster le traitement si nécessaire.
+
+---------------------------------------------------------------------------------------------------------------------
+
+**Informations PHI structurées**
+
+Identifiants uniques du patient :
+- Dossier médical : 74875 2923
+- Compte du patient : 56-70GPOTE
+- Identifiant de l'appareil : Tc khKAPRi
+- Nom d'utilisateur : istiahmi
+
+Informations personnelles du patient :
+- Âge : 71
+- Adresse : Christian Schmid, 64 7605 Nguyen Village, Saint-Maur-des-Fossés, 28 1494, Canada
+- Ville : Saint-Maur-des-Fossés
+- Pays : Suisse
+- État : Calvados
+- Code postal : 1494
+
+Autres identifiants :
+- Identifiant du véhicule : 4-75308V
+- Numéro de sécurité sociale : 633866-6434
+- Identifiant de licence : 91 ssoqGMQ
+- Identifiant biométrique : 858376-gUP
+- Adresse IP : 9.54.109.218
+- Numéro d'identification : 56-70GPOTE
+
+Informations de contact :
+- Nom du médecin : Lisa Wyss
+- Email : LisWy@who.int
+- Numéro de téléphone : 283-850-6140
+- Numéro de fax : (970)449-8755
+
+Informations sur l'hôpital du patient :
+- Hôpital : Krzesławice
+- Plan de soins de santé : HZMT
+
+Autres informations :
+- Profession : Radiographe diagnostique
+- Organisation : Smith LLC
+- URL : lee.com
+- Rue : 076 Brady Path Apt. 274
+- Autre lieu : parc
+
+Signature de l'infirmière : Lisa Wyss"
+

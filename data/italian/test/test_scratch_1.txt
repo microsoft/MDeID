@@ -1,0 +1,86 @@
+"**Nota a Margine: Aggiornamento Condizione Paziente**
+
+---
+
+Paziente: Monica Caputo
+
+Età: 97
+
+---
+
+1. Reclamo: Dolore severo, regione dello stomaco
+2. Osservazioni: Sudorazione, sintomi di febbre 
+3. Segni vitali: Temp (F): 100.4, BP: 120/80, HR: 88, RR: 20
+4. Possibile: Diagnosi di tifo
+
+---
+
+Prossimi Passi:
+
+1. Esame del sangue - per confermare il tifo
+2. Fluidi IV - reidratazione
+3. Medicazione - antibiotici per il tifo
+
+---
+
+Informazioni Paziente:
+
+- Cartella Clinica: 44032-3994
+- Numero Conto: 3818-76340
+- Numero ID: 3818-76340
+
+---
+
+Informazioni Dottore:
+
+- Nome Dottore: Martin Schmid
+- Email: Schmin@outlook.com
+
+---
+
+Informazioni Ospedale:
+
+- Nome Ospedale: Clinical Center
+- Ubicazione: parco
+
+---
+
+Contatto di Emergenza:
+
+- Nome Contatto: Monica Caputo
+- Numero di Telefono: 001-796-267-0221
+
+---
+
+Informazioni Dispositivo:
+
+- ID Dispositivo: 733636 GcF
+- Indirizzo IP: 214.122.42.196
+
+---
+
+Informazioni Assicurazione:
+
+- Piano Sanitario: 3IWxEP9
+- Fornitore del Piano: Powell, Lewis and Mendoza
+
+---
+
+Informazioni Licenza:
+
+- Numero Licenza: sbqoD ScDb
+
+---
+
+Altre Informazioni:
+
+- Numero di Sicurezza Sociale: 882146-8052
+- Targa Veicolo: G35-XRT
+- Nome Utente: i8OQi7zd
+- ID Biometrico: UW 4762uyV
+- Fax: 489-455-0857x6808
+
+---
+
+Si prega di notare, queste sono osservazioni e azioni preliminari. Ulteriore diagnosi e trattamento saranno determinati dopo i risultati di laboratorio."
+

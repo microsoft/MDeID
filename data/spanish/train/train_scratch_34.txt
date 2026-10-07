@@ -1,0 +1,79 @@
+"Notas rápidas de la enfermera: Bloc de notas
+
+----------
+
+28/1/78 
+Paciente: Polina Tamm
+Edad: 103
+
+----------
+
+**Signos vitales**
+- Temp: 37.2\u00b0C (98.96\u00b0F)
+- Frecuencia cardíaca: 82 lpm
+- Presión arterial: 122/78 mmHg
+- Respiraciones: 16/min
+- Oximetría de pulso: 97% en aire ambiente
+- Peso: 80 kg (176.37 lbs)
+- Altura: 170 cm (5ft 7in)
+
+----------
+
+**Quejas presentes**
+- Temperatura baja
+- Hematuria (sangre en la orina)
+
+----------
+
+**Observaciones**
+- Paciente parece en leve angustia
+- Piel: Caliente, seca, intacta
+- Ojos: Conjuntiva y esclerótica claras
+- Pulmones: Claros a la auscultación bilateralmente
+
+----------
+
+**Impresión**
+- Sospecha de infección del tracto urinario.
+
+----------
+
+**Sugerencias**
+- Pruebas de laboratorio para incluir análisis de orina y análisis de sangre.
+- Considerar la remisión a Juana Gutiérrez
+
+----------
+
+**Información adicional**
+- Contacto 5466636411
+- ID de correo electrónico: anaz@mail.com
+
+**CONTACTO DE EMERGENCIA**
+- Relación: Polina Tamm
+- Contacto: 5466636411
+
+----------
+
+**Detalles del hospital**
+- Hospital: Raddon
+- Dirección: Polina Tamm, C. de Demetrio Ródenas 23 Piso 6 19, Newspaperdom, JBVVCDLJ Ocotlán, Argentina
+- Plan de salud: GB8iBXx
+
+----------
+
+**Detalles técnicos**
+- ID del dispositivo: 9006 jWVAe
+- Dirección IP: 208.92.45.229
+- Nombre de usuario: mPolin
+
+----------
+
+**Miscelánea**
+- Licencia de conducir: 06406 apnO
+- Organización: Cobb, Nelson and Gonzalez
+- Seguridad Social: 611-59-9175
+
+----------
+
+Esta nota de referencia es solo para uso interno. Por favor, consulte con el médico principal Juana Gutiérrez para el diagnóstico final y el plan de tratamiento. Esta nota tiene como objetivo proporcionar una instantánea de la condición del paciente en un punto específico en el tiempo y no sirve como un registro médico extenso. La información contenida en esta nota no puede ser utilizada para otros propósitos sin la debida autorización."
+

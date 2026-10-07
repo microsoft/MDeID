@@ -1,0 +1,37 @@
+**Entlassungsbericht**
+
+**Patient**: Kaat Verheyen
+
+**ID**: nASe-312Ji
+
+**Einweisender Arzt**: Selina Winter
+
+**Krankenhausaufenthalt**: Der Patient wurde aufgrund einer bemerkenswerten Zunahme von Episoden mit Brustschmerzen, Angina pectoris, Herzrasen und Präsynkopen eingeliefert, die alle auf einen schweren Fall von Hyperlipidämie hindeuten. Der Zustand wurde effektiv durch Medikamente und Ratschläge zur Änderung des Lebensstils behandelt.
+
+**Verfahren**: Der Patient unterzog sich einem umfassenden Lipidprofiltest sowie einem EKG zur Beurteilung des Herz-Zustands. Beide Verfahren wurden ohne Komplikationen durchgeführt.
+
+**Erbrachte Behandlungen und Dienstleistungen**: Der Patient wurde auf eine strenge fettarme Diät gesetzt und erhielt cholesterinsenkende Medikamente. Tägliche Bewegung wurde ebenfalls gefördert. Eine Reihe von Dienstleistungen wurde angeboten, darunter Kardiologie-Beratung, Ernährungsberatung und Apothekendienste.
+
+**Zustand bei Entlassung**: Zum Zeitpunkt der Entlassung hatte sich der Zustand des Patienten erheblich verbessert. Die Brustschmerzen und das Herzrasen hatten nachgelassen und die Lipidwerte kehrten in den Normalbereich zurück.
+
+**Entlassungsdiagnose**: Bei dem Patienten wurde Hyperlipidämie diagnostiziert. Zur Behandlung des Zustands wurde ein geeigneter Behandlungsplan entwickelt und dem Patienten erklärt.
+
+**Dem Patienten und der Familie zur Verfügung gestellte Informationen**: Detaillierte Informationen über Hyperlipidämie, ihre Auswirkungen und die Bedeutung von Änderungen des Lebensstils wurden dem Patienten und der Familie gründlich erklärt.
+
+**Nachsorge**: Der Patient wird gebeten, nach zwei Wochen zur Kontrolle bei Dr. Selina Winter vorstellig zu werden. Der Patient sollte eine fettarme Diät, regelmäßige Bewegung beibehalten und die verschriebene Medikation strikt einhalten. Der Patient sollte sofort ins Krankenhaus gehen, wenn Symptome wie Brustschmerzen oder Herzrasen wieder auftreten.
+
+**Allergien**: Der Patient hat keine bekannten Allergien. Neue Medikamente sollten nur unter ärztlicher Aufsicht eingenommen werden.
+
+**Entlassungsmedikamente**: Der Patient wurde mit folgenden Medikamenten gegen Hyperlipidämie entlassen -
+1. Statine - zur Senkung des Cholesterinspiegels.
+2. Omega-3-Fettsäurepräparate - zur Erhöhung des 'guten' Cholesterinspiegels.
+
+Dieser Entlassungsbericht dient der Fortsetzung der Behandlung.
+
+**Krankenhaus**: Novardok
+
+**Entlassungsdatum**: 03.09.21
+
+**Unterschrift**: Selina Winter
+
+>Hinweis: Dieses Dokument enthält keine persönlichen Gesundheitsinformationen (PHI).

@@ -1,0 +1,39 @@
+"Dr. Scratch Notiz
+
+Benjamin Jung - 69
+Florian Kuhn - Kinderarzt
+
+Symptome:
+- Sprach- und Entwicklungsverzögerungen (leicht bis moderat)
+- ADD-Diagnose
+- Keine Hypotonie
+
+Physische Beobachtungen:
+- Retrognathie
+- Leichter Hypertelorismus
+- Verlängertes Philtrum
+- Dünne Oberlippe
+- Breite, kurze Hände
+- Leichte Syndaktylie (2., 3. Zehen an beiden Füßen)
+- Sandalenlücke (beide Füße)
+
+Untersuchungen:
+- MRT (Gehirn): Normal YH-45243JB
+- WES: de novo Frameshift-Variante Chr1(GRCh37):g.244217335del, NM_205768.2(ZBTB18):c.259del(p.(Leu87Cysfs*21)) 123539 NFB
+
+Diagnose:
+- Genetische Störung (ZBTB18-Variante) - trägt zu Sprach-/Entwicklungsverzögerungen, ADD bei
+- Verdächtiges Syndrom (erfordert weitere Korrelation)
+
+Plan:
+- Sprach- & Sprachtherapeut: Regelmäßige Sitzungen Sharp-Martin
+- Ergotherapeut: Regelmäßige Sitzungen Sharp-Martin
+- Psychologe: Regelmäßige Sitzungen Sharp-Martin
+- Medizinische Untersuchungen: Regelmäßig Ahlberg
+- Genetische Beratung: Familie Einkaufsmanager
+
+Hinweis: Benjamin Jung's Mutter berichtete über die Symptome. Keine Anzeichen von Muskeltonusproblemen. Genetische Befunde deuten auf ein spezifisches Syndrom hin, weitere Korrelation mit klinischen Befunden und genetischer Beratung erforderlich. 
+
+Florian Kuhn Unterschrift: _____________________
+Datum: 24.02.2005"
+

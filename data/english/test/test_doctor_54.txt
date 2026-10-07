@@ -1,0 +1,56 @@
+"Scratch Note
+
+Zoe Morton
+
+Known Case: Systemic Lupus Erythematosus (SLE)
+History: Idiopathic pancreatitis
+
+Present Complaints: 
+- Weakness, fatigue
+- Nausea, vomiting
+- Food intolerance
+- Blurry vision
+- Abdominal pain
+
+No history of diabetes or other autoimmune diseases except SLE
+Previous hospitalizations \u2013 multiple for pancreatitis (all tests negative for gallstones, tumors, autoimmune, metabolic diseases)
+Recent diagnosis: Discoid lupus, SLE, severe neuropsychiatric manifestations
+
+Treatment: 
+- Methylprednisolone
+- Chloroquine
+- Levetiracetam
+- Phenytoin
+- Lorazepam
+- Monthly bolus of 
+
+Symptoms started ~ 7 days post 6th dose of , total 6.25g
+
+Vitals: 
+- Tachycardia (125 bpm)
+- Tachypnea (27 breaths/minute)
+- Drowsy
+- Dehydration
+
+Lab Findings: 
+- Serum glucose: 1240 mg/dl (normal: 70-140 mg/dl)
+- Sodium: 127 mEq/L (normal: 135-145 mEq/L)
+- Potassium: 5.56 mEq/L (normal: 3.5-5.0 mEq/L)
+- Chlorine: Not fully reported
+- No insulin resistance
+
+Impression: Diabetic Ketoacidosis (DKA) - likely due to systemic steroid use, exacerbated by SLE and recent  therapy. Differential diagnosis: Acute pancreatitis flare, less likely
+
+Recommendations:
+- Initiate DKA management protocol
+- IV fluids, insulin therapy
+- Electrolyte monitoring, repletion
+- Continuous monitoring of vitals, glucose, electrolytes
+- Consult with Mia Kelly (endocrinology)
+- Consult with Mia Kelly (rheumatology)
+- Patient education on recognizing signs of hyperglycemia
+- Emphasize regular follow-up
+- Address compliance issues related to complex medication regimen
+
+Mia Kelly"
+

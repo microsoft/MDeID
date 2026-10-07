@@ -1,0 +1,57 @@
+Resumo de Alta
+
+Disposição de Alta: Casa com serviços
+
+Motivo da Admissão: Hemiparesia
+
+# Seção de Alergias e Intolerâncias
+Sem alergias conhecidas.
+
+# Seção do Curso Hospitalar
+Alice Gomes foi admitida com uma apresentação inicial de hemiparesia. O curso hospitalar foi tranquilo com melhora notável na condição do paciente.
+
+# Seção de Diagnóstico de Alta
+Diagnóstico na alta: Hemiparesia
+
+# Seção de Plano de Tratamento
+O paciente foi prescrito tratamentos de reabilitação, incluindo fisioterapia. Revisões regulares com Maria Tavares são recomendadas para monitorar o progresso.
+
+# Seção de Consultas Hospitalares
+Várias consultas foram realizadas pela equipe multidisciplinar composta por médicos, fisioterapeutas e nutricionistas.
+
+# Seção de Procedimentos
+Nenhum procedimento médico significativo foi realizado durante a hospitalização.
+
+# Seção de Resultados
+O paciente mostrou melhorias significativas em força e coordenação. No entanto, a disartria persistente e a paresia requerem gerenciamento contínuo.
+
+# Seção de Medicamentos de Alta
+O paciente recebeu alta com uma prescrição de medicamentos para gerenciar os sintomas.
+
+# Seção de Queixa Principal e Motivo da Visita
+O paciente apresentou hemiparesia e sintomas associados, incluindo disartria, paresia, astenia, afagia e convulsões.
+
+# Seção de Nutrição
+Recomendou-se uma dieta equilibrada para manter a saúde geral e apoiar a recuperação.
+
+# Seção de Histórico Familiar
+Nenhuma doença hereditária conhecida relatada por Alice Gomes.
+
+# Seção de Status Funcional
+Na alta, o paciente mostrou boa capacidade funcional com limitações leves devido à paresia.
+
+# Seção de Instruções de Alta Hospitalar
+O paciente foi aconselhado a seguir o regime de medicação prescrito, aderir ao programa de exercícios de reabilitação e procurar atendimento médico imediato se os sintomas persistirem ou piorarem.
+
+# Seção de Exame Físico de Alta Hospitalar
+Queda na força muscular nos membros superiores e inferiores direitos consistente com hemiparesia. Nenhum outro achado físico significativo no momento da alta.
+
+# Seção de Problemas
+Recomenda-se o gerenciamento contínuo de paresia e disartria. O paciente será monitorado de perto por Maria Tavares nas consultas subsequentes.
+
+# Seção de Sinais Vitais
+Na alta, os sinais vitais estavam estáveis.
+
+Este documento foi compilado garantindo total aderência às diretrizes de PHI. Nenhuma informação de saúde pessoal foi divulgada. Quaisquer dúvidas relacionadas ao gerenciamento da condição ou ao plano de tratamento devem ser direcionadas a Maria Tavares.
+
+No geral, a condição do paciente na alta era estável, e o prognóstico é satisfatório com a adesão ao tratamento prescrito e ao plano de reabilitação. O paciente recebeu alta sob os cuidados de Maria Tavares e da equipe multidisciplinar. Revisões regulares e acompanhamentos estão planejados para garantir a recuperação e o gerenciamento ótimos da hemiparesia.

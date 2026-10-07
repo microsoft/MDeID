@@ -1,0 +1,30 @@
+"\"Kratznotiz - Théo Verhoeven\"
+
+S:
+- Lernbehinderung, keine nennenswerte Vorgeschichte
+- Berichtet von einem sakralen Tumor seit dem 3. März 1998, der an Größe zunimmt, schmerzlos ist
+- Bettlägerig seit den letzten 2 Jahren aufgrund von Unbehagen durch den Tumor
+- Tumor beeinträchtigt das Gehen, erfordert Schlaf in Bauchlage oder Rückenlage mit mehreren Kissen
+- Keine medizinische Behandlung des Tumors bis Ende 3. März 1998, suchte zunächst Hilfe bei einem traditionellen Heiler
+
+O:
+- Erscheint kachektisch, leicht blasse Bindehaut
+- Vitalzeichen: BP 142/90, PR 98 bpm, Temp 37°C
+- Tumor: 40 cm x 30 cm
+- Keine Familienanamnese von Krebs; Théo Verhoevens Vater starb an einem Herzinfarkt
+
+A:
+- Großer, sich progressiv vergrößernder sakraler Tumor
+- Assoziiert mit Kachexie und Mobilitätseinschränkung
+- Differential: gutartige oder bösartige Neoplasien des Sakrums
+- Kachexie und Anämie (angezeigt durch blasse Bindehaut) deuten auf systemische Effekte hin, die möglicherweise mit dem Tumor zusammenhängen
+
+P:
+- Untersuchung des Tumors mit bildgebenden Verfahren, mögliche Biopsie
+- Überweisung an Rivers, Wright und Pitts für spezialisierte Pflege
+- Management: Ernährungsunterstützung für Kachexie, Schmerzmanagement bei Bedarf, Physiotherapie für Mobilität
+- Aufklärung von Patient und Familie über Zustand und Behandlungsmöglichkeiten
+- Regelmäßige Nachsorgetermine zur Überwachung des Fortschritts und Anpassung des Behandlungsplans
+
+Jennifer Schmid"
+

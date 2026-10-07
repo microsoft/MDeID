@@ -1,0 +1,14 @@
+T1	PATIENT 53 75	Florian Van Den Broeck
+T2	PATIENT 340 362	Florian Van Den Broeck
+T3	PATIENT 567 589	Florian Van Den Broeck
+T4	PATIENT 792 814	Florian Van Den Broeck
+T5	PATIENT 980 1002	Florian Van Den Broeck
+T6	PATIENT 1073 1095	Florian Van Den Broeck
+T7	PATIENT 1662 1684	Florian Van Den Broeck
+T8	DOCTOR 1856 1866	Mira Thoma
+T9	PATIENT 2013 2035	Florian Van Den Broeck
+T10	PATIENT 2254 2276	Florian Van Den Broeck
+T11	DOCTOR 2369 2379	Mira Thoma
+T12	MEDICALRECORD 2406 2416	DtQG-qNPmY
+T13	PATIENT 2451 2473	Florian Van Den Broeck
+T14	DOCTOR 2478 2488	Mira Thoma

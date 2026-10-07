@@ -1,0 +1,79 @@
+"Verpleegkundige Krasnotitie:
+
+---------------------------------------------
+| PATIËNT DETAILS:                          |
+|                                          |
+| Sara van Veen                                |
+| Adres: Sara van Veen, Sitar 46, 0996 Biventer, Nederland                       |
+| Leeftijd: 52                               |
+| Contact: (949)213-3138x29403                         |
+| Email: deeuwan@who.int                           |
+| Primaire Dokter: Jan de Leeuw                 | 
+| Ziekenhuis: Hyderabad International Airport Ltd                     |
+| Zorgplan: GiM                |
+| Noodcontact: (949)213-3138x29403               |
+---------------------------------------------
+
+\ud83d\udca2 Klacht: 
+[maagpijn_na_eten]
+
+\ud83d\udcdd Observaties: 
+- Tekenen van ongemak zichtbaar 
+- Gevoeligheid in epigastrische regio 
+- Pijn niveau: 7/10 
+
+\ud83c\udf21\ufe0f Vitals: 
+- Bloeddruk: 140/85 
+- Pols: 95 bpm
+- Temperatuur: 98.6F 
+
+\ud83d\udc8a Behandeling Gegeven:
+Antacida toegediend (7707 80925)
+
+\ud83d\udccc Voortgangsnotitie: 
+29 januari 2020 - Verbetering opgemerkt na toediening van antacidum
+
+\ud83d\udcbc Professionele Invoer: Marine architect
+
+---------------------------------------------
+| MEDISCHE APPARATUUR DETAILS:               |
+|                                         |
+| Apparaat: 641 256553                         |
+| Account: DV kiUxXDR                       |
+| Licentie: VMZPJ aJeq                       |
+---------------------------------------------
+
+\ud83d\udcde Contact Informatie: 
+- Thuis: (949)213-3138x29403 
+- Werk: (949)213-3138x29403 
+- Mobiel: (949)213-3138x29403 
+
+\ud83d\udcec Postadres: Sara van Veen, Sitar 46, 0996 Biventer, Nederland
+- Postcode: 0996
+
+\ud83d\udcbb Online Inloggegevens: 
+- Gebruikersnaam: IsxxOw4F 
+- IP Adres: 7.99.56.39
+
+\ud83c\udfe2 Organisatie: Trujillo, Fleming en Carrillo
+\ud835\ude82\ud835\ude82\ud835\ude7d: 572317543
+\ud83c\udd94 ID: DV kiUxXDR
+
+\ud83d\ude98 Voertuig: 
+- Voertuig ID: XS 1989
+
+\ud83d\udd10 Biometrische Identificatie: 
+- Vingerafdruk Hash: 5432 ngoeU
+
+---------------------------------------------
+| EXTRA INFORMATIE                        |
+|                                         |
+| Stad: Tubulously                             |
+| Staat: 84                           |
+| Land: België                       |
+| Fax: +1-848-344-8608x57170                               |
+| URL: http://www.terry.net/tagsearch.html                               |
+---------------------------------------------
+
+**Onderhevig aan vertrouwelijkheid - NIET DELEN **"
+

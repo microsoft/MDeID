@@ -1,0 +1,31 @@
+"Pflegebericht für pädiatrischen Onkologie-Patienten
+
+Subjektiv:
+Unser Patient Martin Keller ist ein 105-Jähriger, der über anhaltende Beschwerden im Lendenwirbelbereich klagt, die er als in beide Beine ausstrahlend beschreibt. Diese Schmerzen dauern seit etwa vier Monaten an.
+
+Objektiv:
+Eine MRT des Lendenwirbels von Martin Keller wurde mit dem Gerät kK 03TbIED durchgeführt und zeigte das Vorhandensein einer kontrastmittelverstärkten intraduralen, extramedullären Läsion mit angrenzender Dura-Verdickung an der L2-Stelle. Nach einem chirurgischen Eingriff bestätigte die Histologie die Diagnose eines mesenchymalen Chondrosarkoms. Dies wurde durch das Vorhandensein von runden bis spindelförmigen Zellen, die mit Knorpel- und Knochenbildung durchsetzt waren, charakterisiert. Die Immunhistochemie zeigte eine diffuse CD99-Positivität und eine negative Färbung für epitheliales Membranantigen, STAT6 und gliales fibrilläres Säureprotein. Der Ki-67-Index wurde auf etwa 30% geschätzt. Der Archer™ FusionPlex Sarcoma Assay, der auf unserem Laborgerät kK 03TbIED durchgeführt wurde, erkannte das Vorhandensein von Genfusions-Transkripten: HEY1-NCOA2 (Exon 4 bis Exon 13 und Exon 14).
+
+Bewertung:
+Aus der vorstehenden Untersuchung ergibt sich die primäre Diagnose für Martin Keller als mesenchymales Chondrosarkom an der L2-Wirbel. Dieser mäßig hohe Ki-67-Index deutet auf ein aggressives Verhalten der Malignität hin. Es ist wichtig, andere Sarkome mit ähnlichen histologischen Merkmalen in der Differentialdiagnose zu berücksichtigen.
+
+Plan:
+Der nächste Schritt ist die Einberufung eines multidisziplinären Teams, einschließlich Mira Engel, um die Behandlungsmöglichkeiten von Martin Keller zu besprechen, wobei der Schwerpunkt vor allem auf der onkologischen Behandlung liegt. Wir planen, ihre Symptome und mögliche Nebenwirkungen der Behandlung weiterhin zu überwachen. Darüber hinaus ist es wichtig, Martin Keller und ihre Familie über die Art ihrer Diagnose, die Behandlungsmöglichkeiten und die Bedeutung regelmäßiger Nachsorge aufzuklären. Wir werden sie ermutigen, neue Symptome oder Bedenken sofort zu melden. 
+
+[Kontaktinformationen]
+Notfallkontakt: 2288821421
+E-Mail: al@red-cross.org
+Adresse: Martin Keller, Sepp-Gotthard-Gasse 5/2 188, 6283 Devizes, Belgien
+
+[Verwaltungsinformationen]
+Medizinische Aktennummer: 250-aoBJhB
+Kontonummer: 2275 WvVFi
+Krankenhaus: Crichton
+Gesundheitsplan: XmnjS0E
+Arzt: Mira Engel
+Benutzername: YLXBV8n3
+ID-Nummer: 2275 WvVFi
+
+[Fußzeile]
+Dieses Dokument wurde am 11.12.01 von YLXBV8n3 von Simmons-Ball erstellt. Für weitere Informationen besuchen Sie bitte http://rivera.org/explore/posts/appterms.html oder kontaktieren Sie uns unter 2288821421 oder (462)458-9456."
+

@@ -1,0 +1,48 @@
+"Note d'Infirmière : Surveillance de la Dengue
+
+Instantané des Signes Vitaux :
+
+Température : 38.5
+Pression Artérielle : 120/80
+Fréquence Cardiaque : 88 bpm
+Respiration : 16 respirations par min
+
+Mots-clés de l'État : Douleur articulaire, Fièvre élevée, Mal de tête, Nausée
+
+Traitement Administré :
+Administration de , dosage 200mg
+
+Observations Supplémentaires :
+Éruption observée sur la peau de Julia Gerber - Dengue suspectée. En attente de tests supplémentaires.
+
+Notes :
+Julia Gerber a récemment déménagé de France. Exposition potentielle. 
+Vit à Julia Gerber, 77 31938 Gérard Prairie Suite 787, 2900 Castrovillari, France - vérifier les sites de reproduction des moustiques.
+
+Prochaines Étapes :
+Peter Brown pour confirmer le diagnostic. 
+Informer Roberts-Ward si la dengue est confirmée.
+
+Contacts : 418.979.3624x15876, tern@who.int, 3934646768 (En cas d'urgence ou besoin de discuter davantage)
+
+----------------------------------------
+Notes de bas de page du document :
+
+- Appareil Personnel : 462-PMCdYm utilisé pour le suivi
+- Détails du plan d'assurance santé : Mm7FOU5nC
+- Nom d'utilisateur du patient pour le portail en ligne : IHS9P6wV
+- Numéro de dossier médical du patient : jcErC QsCG
+
+Note : La consultation a eu lieu le samedi 28 mars 1981. Toutes les informations sont exactes à cette date.
+
+----------------------------------------
+
+Adresse IP de l'appareil : 30.179.48.155
+Numéro de Licence : rDMtOA-rtT
+BioID : witAbs 322
+Identifiant du Véhicule : 4Z 6M9DMP
+Numéro de Sécurité Sociale : 912-1380143-60
+Numéro de Compte : 4315 PGBeP
+
+**Note Confidentielle** : Pour usage interne par le personnel autorisé uniquement."
+

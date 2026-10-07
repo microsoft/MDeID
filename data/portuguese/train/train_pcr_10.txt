@@ -1,0 +1,20 @@
+"Relatório de Atendimento ao Paciente
+
+Em 3 de mar. de 2017, a unidade EMS da Villarreal, Gardner and Stuart foi acionada devido a uma chamada 911 relatando um paciente com febre alta e dor de cabeça. A unidade chegou ao local museu fornecido pelo chamador e encontrou o paciente João Moreira em sofrimento moderado.
+
+Na chegada, o paciente João Moreira relatou que se sentia mal há alguns dias, com sintomas incluindo febre alta (74 de acordo com o termômetro que usaram em casa), e uma dor de cabeça persistente. O paciente João Moreira também mencionou sentir fraqueza e perda de apetite. Anotamos o número da conta dele 8987-SmMCE para registro.
+
+Uma avaliação inicial mostrou que o paciente João Moreira estava consciente, mas visivelmente fatigado. Os sinais vitais do paciente foram tomados usando o dispositivo 914-19388f e monitorados durante todo o atendimento. A Bio Id do paciente 8930 GqvhN foi identificada em nossos registros, que revelaram um histórico médico de enxaquecas ocasionais e uma alergia conhecida à penicilina, mas sem condições graves.
+
+O paciente João Moreira foi colocado em uma maca e transportado para Holy Trinity Cathedral para exame e tratamento adicionais. O transporte foi conduzido por um motorista experiente  sob condições de emergência. No caminho para o hospital, João Moreira recebeu tratamento de suporte com base no diagnóstico primário feito pelo médico EMS que atendia Mateus Mello.
+
+Na chegada ao hospital, o atendimento ao paciente foi transferido para o Departamento de Emergência. O número do prontuário médico do paciente aBKK 18707 foi fornecido à enfermeira de admissão. A identidade do paciente 8987-SmMCE e todos os pertences foram entregues à equipe do hospital.
+
+Os contatos de emergência do paciente foram informados sobre a situação. Eles chegariam ao hospital seguindo a URL http://www.flores.com/listpost.html fornecida pelo hospital para orientações. Toda a comunicação foi facilitada via e-mail registrado do paciente ellou@zoho.com e número de telefone (453)917-7936x21833. O plano de saúde do paciente yo4NB3i foi informado para o processamento necessário.
+
+Todas as observações e tratamentos fornecidos foram registrados minuciosamente no sistema contra o perfil do paciente. O relatório foi ainda atualizado pelo médico EMS Mateus Mello para referência e acompanhamento. O consentimento do paciente foi obtido digitalmente para todos os tratamentos fornecidos e para a coleta de Informações de Saúde Pessoal (PHI), incluindo seu número de segurança social 97810495-8.
+
+O paciente João Moreira foi informado sobre o uso dessas informações para o fornecimento de cuidados e foi fornecida informação sobre as políticas HIPAA do hospital. A documentação foi assinada e enviada digitalmente a partir de nosso sistema, enquanto os documentos físicos foram enviados ao hospital via fax 001-989-220-0148.
+
+Todo o evento foi relatado à nossa organização Villarreal, Gardner and Stuart e um relatório de incidente detalhado foi submetido. Este relatório, com o número de referência 8987-SmMCE, será revisado e analisado para garantir o controle de qualidade e a melhoria contínua em nossa resposta médica de emergência."
+

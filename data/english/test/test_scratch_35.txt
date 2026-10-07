@@ -1,0 +1,56 @@
+"Nursing Scratch Note
+
+---------------------
+Table 1: Basic Info
+---------------------
+|   Maddison Cate  |  UQ mEHVYfB  | uq-NqyVLHs | UQ mEHVYfB |
+|:------------:|:-----------:|:---------------:|:------:|
+|   [Patient]  |  [Acct#]    |    [Record#]    | [ID#]  |
+
+---------------------
+Table 2: Contact Info
+---------------------
+| Maddison Cate, 49 Forbearances, Turacou 16 7970, Australia  |  794.231.1926  | hon@unwomen.org | Oncologist  | Robinson and Sons  |
+|:----------:|:---------:|:-------:|:-------------:|:--------------:|
+|  [Address] |  [Phone#] | [Email] |  [Profession] |  [Organization] |
+
+---------------------
+Table 3: Provider & Insurance
+---------------------
+|  Sarah Johnston  | State Bank of Pakistan  | sVb  |
+|:----------:|:-----------:|:-------------:|
+|  [Doctor]  |  [Hospital] |  [Insurance]  |
+
+---------------------
+Table 4: Advance Info
+---------------------
+| o43mv5ED  | 167.85.54.141  | shields.bell.com  | 2627619254 |
+|:-----------:|:------------:|:------:|:-----:|
+| [Username]  |  [IPAddress] | [URL]  | [FAX] |
+
+---------------------------
+Vitals & Observations on 4:1
+---------------------------
+V/S: BP: 130/80, Pulse: 85, Temp: 4
+
+Symptom onset: Shortness of breath, high fever, feeling sick.
+
+Possible pneumonia.
+
+Impressions & Plan:
+- Ordered Chest X-Ray to confirm.
+- Start on antibiotics uq-NqyVLHs.
+- Monitor Progress.
+- Follow up in 4:1 if no improvement.
+
+Sarah Johnston's note: Patient may need hospitalization if pneumonia is confirmed and condition worsens.
+
+-------------------------------
+Table 5: Other Relevant Info
+-------------------------------
+| Australia  | Nomopelmous  | 6 | 7970 | 8988 Emily Courts Apt. 599 | beach  | 9432  | 692-339-400 | 020-djfzdF | ZpviIB-jBn |
+|:----------:|:-------:|:-------:|:-----:|:--------:|:-----------------:|:---------: |:----------------:|:---------:|:------: |
+|  [Country] | [City]  | [State] | [Zip] | [Street] |    [Location]     | [Vehicle#] |     [SSN#]       | [License] | [BioID] |
+
+"
+

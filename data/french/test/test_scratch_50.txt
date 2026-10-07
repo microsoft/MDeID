@@ -1,0 +1,70 @@
+"Note de Scratch Infirmière
+---
+Informations sur le patient :
+* Sophia Fortin
+* ÂGE : 12
+* Compte : Ro-84eyVtY
+
+Observations :
+
+* Varices : Notées
+* Pression artérielle : 120/80
+* Température : 36.9\u00b0C
+* Fréquence cardiaque : 78bpm
+
+Traitement :
+
+* Thérapie par compression initiée
+* Élévation des membres conseillée
+
+Progression :
+
+* Le patient signale  
+
+Informations supplémentaires :
+
+* Prestataire de soins de santé : Martin Meier
+* Plan de santé : PWImP
+* Admission à l'hôpital : Sheltering Hills
+* Numéro de dossier médical : 3778-DTDYZ
+
+Échanges de communication :
+
+* Email : Meiin@outlook.com
+* Téléphone : +1-317-804-6568x355
+
+Contexte :
+
+* Lieu : université
+* Adresse : Sophia Fortin, 8 49200 Sébastien Throughway, 5175 Espiet, France
+
+Informations sur l'appareil :
+
+* ID de l'appareil : EwhMcg-MFA
+* Adresse IP : 1.181.25.197
+
+Identifiants personnels :
+
+* Sécurité sociale : 151-8705034-42
+* Licence : 6379 25769
+* BIOID : 232 nqKQFf
+* Identifiant personnel : Ro-84eyVtY
+
+Contact en cas d'urgence :
+
+* Nom d'utilisateur : pPLOMpsJ
+* Véhicule : 94L P69
+* Profession : Travailleur international d'aide/développement
+* Organisation : Williams-Soto
+
+VEUILLEZ NOTER :
+
+* Toute communication est strictement confidentielle et doit respecter les règles complètes de confidentialité des données.
+
+Prochain suivi (DATE) : 09/02/2005
+* Fax : 4095331057
+
+--- --- --- --- --- --- --- --- +++++++++++++++++++++++++++++++++++++++ --- --- --- --- --- --- --- --- 
+
+Note : Les informations personnelles de santé (PHI) ont été supprimées et remplacées par des espaces réservés pour maintenir la confidentialité du patient conformément aux directives HIPAA."
+

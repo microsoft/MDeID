@@ -1,0 +1,55 @@
+"NOTE D'INFIRMIÈRE 
+
+Informations sur le patient 
+--------------------
+Patient : Jarne François
+Âge : 10
+Résidence : Jarne François, 67 08069 Robert Meadow Apt. 216, Le Mesnil Esnard, 85 1845, Canada
+Email : de@un.org
+Téléphone : 952.393.6437x78615
+Contact en cas d'urgence : QrGlRtXZ
+
+Détails de l'hôpital
+----------------
+Hôpital : Swedish regency council
+Docteur : Febe Evrard
+
+Informations de santé 
+-------------------
+Plan de santé : GG2wMe Pbp5
+Dossier médical : RTldy-6855
+ID de compte : Td-rPUDAmM
+
+Observations : 
+--------------
+1. Douleur dans les ganglions lymphatiques - Sévère 
+2. Éruption cutanée - Présente
+3. Diagnostic possible - Varicelle 
+
+Signes vitaux : 
+--------
+- Temp : 38.5C
+- TA : 120/80 mmHg
+- FR : 22/min
+
+Informations sur l'appareil 
+------------------
+Appareil : pPu-862uoo
+
+Informations diverses 
+--------------------------
+IP : 192.172.184.1
+Date d'admission : dimanche 2 octobre 1988
+Véhicule utilisé pour le transport : 5318
+Permis (le cas échéant) : qeuPS-2495
+Profession : Banker
+Organisation : Jones-Mitchell
+Autre lieu : théâtre
+Sécurité sociale : 279528-9499
+Identifiant biométrique : 14-41twwIf
+Fax : 807-640-3200
+URL : http://swanson.com/wp-content/taglogin.html
+Numéro d'identification : Td-rPUDAmM
+
+Note : Ce document contient des informations sensibles et doit être traité en conséquence."
+

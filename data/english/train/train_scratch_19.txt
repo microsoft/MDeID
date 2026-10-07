@@ -1,0 +1,62 @@
+"**Nursing Scratch Note** 
+
+- Patient: Amelia Wong
+- Complaint: rash on skin, mainly near mouth and nose
+- Observation: Skin appears red, pus-filled spots found, suspected impetigo
+- Vital Signs: 
+  - Temperature: 98.6F
+  - Pulse: 80 bpm
+  - Blood Pressure: 120/80 mmHg
+  - Respiration Rate: 16 breaths/min
+
+- Progress: 
+  - Onset: Tue.3.2017
+  - Progression: Fast
+  - Current state: Worsening
+
+- Treatment: 
+  - Prescribed Antibiotic: 18-eaODhXp
+  - Application time: Tue.3.2017
+  - Follow-up: Tue.3.2017
+
+-----------------------------------------------
+Additional Notes:
+
+Device used: Ss GnigKGT
+Health Plan: p5FmwOvDVvzp
+Assessment Location: airport
+
+-----------------------------------------------
+Emergency Contact Information:
+
+- Contact Person: Amelia Wong
+- Relation to Patient: Barista
+- Address: Amelia Wong, 94 Calyculi, Vocabulation, 84 4017, Canada
+- Phone: 7266409250
+- Email: rie@msf.org
+
+-----------------------------------------------
+Institution Details:
+
+- Hospital: Sampdoria youth
+- Doctor: Brian Perez
+- Nurse: CTaLWTi5
+- Medical Record: 18-eaODhXp
+- Account: 19 15634lE
+- Contact URL:  www.adkins.com/blog/posts/blogindex.asp
+
+-----------------------------------------------
+Miscellaneous:
+
+- Patient's vehicle: 341 4823
+- Patient's Social Security: 623 233 808
+- Patient's License: 29-viTSHZt
+- Patient's BIOID: PR 8976uqS
+- Patient's IP Address: 193.222.254.105
+- Patient's ID Number: 19 15634lE
+- Patient's Age: 51 weeks old
+- Patient's Organization: Browning, Cruz and Martinez
+- Fax: (526)410-8197  
+
+End of Scratch Note."
+

@@ -1,0 +1,47 @@
+"**Notas Rápidas de la Enfermera**
+
+Paciente: Gustavo Moyano
+
+* Quejas: cansado, se siente enfermo
+* Síntomas Notables: Nariz corriendo, posible inicio a los 85 años
+* Chequeo: Temp, BP, Resp, Sat (Todo normal)
+* Diagnóstico Probable: Resfriado Común
+
+Signos Vitales & Observaciones:
+1. Temperatura:  98.6F
+2. Presión Arterial: 120/80 mmHg
+3. Ritmo Respiratorio: 16 respiraciones/min
+4. Saturación de Oxígeno: 97%
+
+Plan de Tratamiento: Hidratar, Descansar, Aumentar Vit C
+
+**Resumen de Contacto**
+* Contacto Principal: (805)403-7300
+* Correo Electrónico: taIsabel@zoho.com
+* Contacto de Emergencia: (805)403-7300
+
+**Información del Paciente**
+* Historial Médico: vgwH 51yFH
+* Hospital: Lord Lansdowne
+* Dirección: Gustavo Moyano, Periférico Madagascar 060 860 107, Astilleros, 9BKZRJDQ Monte Patria, 75, México
+
+**Otros Detalles**
+* SSN: 760-83-2996
+* Cuenta: 4507 UZoQt
+* Nombre de Usuario: stavno
+* Fecha de Nacimiento: 1/5/02
+* Dirección IP: 179.226.32.114
+
+**Contexto Adicional del Paciente**
+* Ocupación: Investigador Social
+* Empleador: Long, Williams and Haynes
+* Plan de Salud: R2HU Old2p5v
+* Doctor: Isabel Puerta
+* Última ubicación conocida: parada de autobús
+
+**Dispositivos & Detalles**
+* ID del Dispositivo Médico: 600662 846
+* ID del Perfil Biométrico: 57112 SVEs
+
+_Nota: Para cualquier cambio, por favor actualice las secciones relevantes._"
+

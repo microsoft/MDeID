@@ -1,0 +1,24 @@
+"Doctor Scratch Note
+
+Lauren Carter: female 89-years-old 
+Medical History: Aortic regurgitation, hypertension 
+
+Vitals: Normal 
+No symptoms: chest pain, shortness of breath, orthopnea, dyspnea, leg swelling 
+
+Physical Exam: 
+Diastolic murmur - 3rd left intercostal space 
+Echocardiogram (TTE): trileaflet aortic valve, moderate aortic insufficiency, poorly defined subaortic membrane 62322-3704
+Transesophageal Echocardiogram (TEE): confirmed quadricuspid aortic valve, severe aortic regurgitation due to incomplete coaptation of the valve leaflets 62322-3704
+
+Diagnosis: Severe aortic regurgitation, secondary to quadricuspid aortic valve 
+Condition: Asymptomatic, requires close monitoring Cirrhosis
+
+Plan: 
+- Regular follow-ups 
+- Echocardiographic monitoring 
+- Report any new symptoms immediately 
+
+William Martin"
+
+

@@ -1,0 +1,19 @@
+T1	PATIENT 75 91	Gonçalo Carvalho
+T2	PATIENT 270 286	Gonçalo Carvalho
+T3	MEDICALRECORD 320 330	698 91BpfL
+T4	PATIENT 414 430	Gonçalo Carvalho
+T5	PATIENT 568 584	Gonçalo Carvalho
+T6	PATIENT 650 666	Gonçalo Carvalho
+T7	PROFESSION 672 697	trabalhador de escritório
+T8	ORGANIZATION 705 715	Harris LLC
+T9	PATIENT 833 849	Gonçalo Carvalho
+T10	PATIENT 1205 1221	Gonçalo Carvalho
+T11	PATIENT 1310 1326	Gonçalo Carvalho
+T12	PATIENT 1570 1586	Gonçalo Carvalho
+T13	PATIENT 1922 1938	Gonçalo Carvalho
+T14	PATIENT 2077 2093	Gonçalo Carvalho
+T15	DOCTOR 2164 2181	Beatriz Fernandes
+T16	PATIENT 2290 2306	Gonçalo Carvalho
+T17	PATIENT 2474 2490	Gonçalo Carvalho
+T18	PATIENT 2639 2655	Gonçalo Carvalho
+T19	DOCTOR 2831 2848	Beatriz Fernandes

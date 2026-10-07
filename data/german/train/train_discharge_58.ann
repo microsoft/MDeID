@@ -1,0 +1,9 @@
+T1	PATIENT 34 50	Ernst Zimmermann
+T2	HOSPITAL 68 111	Ohio State University Wexner Medical Center
+T3	PATIENT 842 858	Ernst Zimmermann
+T4	PATIENT 1030 1046	Ernst Zimmermann
+T5	DOCTOR 1300 1315	Michael Leitner
+T6	PATIENT 1454 1470	Ernst Zimmermann
+T7	DOCTOR 1505 1520	Michael Leitner
+T8	DOCTOR 2061 2076	Michael Leitner
+T9	MEDICALRECORD 2169 2179	wAdHg-739s

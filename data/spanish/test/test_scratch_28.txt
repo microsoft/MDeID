@@ -1,0 +1,104 @@
+"Nota de Enfermería
+
+--------------------------------------------------
+
+|             DETALLES DEL PACIENTE:             |
+
+| Paciente Emilio Villa       |
+
+| Edad: 31                            |
+
+| Dirección: Emilio Villa, Circuito Nueva Zelandia 528 Edif. 988, Depto. 662 174, Unneural, E4VXH811 MOYOBAMBA, 14, México |
+
+| Cuenta: 57544-AGDQ          |
+
+| Hospital: Madagascar      |
+
+| Historial Médico: dfPU-qDfGe |
+
+--------------------------------------------------
+
+-----------------------------------------------------
+
+|             OBSERVACIÓN DE ENFERMERÍA:            |
+
+-----------------------------------------------------
+
+Presión arterial: 128/84      
+
+Frecuencia cardíaca: 72 bpm    
+
+Frecuencia respiratoria: 18 rpm
+
+Saturación de O2: 98%
+
+-----------------------------------------------------
+
+|             EVALUACIÓN DE ENFERMERÍA:             |
+
+-----------------------------------------------------
+
+El paciente Emilio Villa reporta síntomas de resfriado - 
+
+Presente: 
+
+- Tos (severidad 7/10)
+
+- Congestión nasal
+
+------------------------------------------------
+
+|             POSIBLES INTERVENCIONES:         |
+
+------------------------------------------------
+
+- Hidratación 
+
+- Descanso
+
+- Medicamentos para el resfriado de venta libre
+
+-----------------------------------------------------
+
+|             INFORMACIÓN DE CONTACTO:               |
+
+-----------------------------------------------------
+
+Doctora: Eva Treviño      
+
+Teléfono: 001-870-470-1904x9201      
+
+Correo electrónico: añ@red-cross.org
+
+--------------------------------------------------
+
+|             INFORMACIÓN ADICIONAL:               |
+
+--------------------------------------------------
+
+Nombre de usuario: aVQUUzuE                               
+
+ID del dispositivo: 232 840475        
+
+Contacto de emergencia: Emilio Villa        
+
+Número de seguridad social: 80.266.377                          
+
+Licencia: wBNm 464ez                            
+
+Profesión: Profesor de inglés como lengua extranjera  
+
+-----------------------------------------------------
+
+|             PRÓXIMA CITA:                         |
+
+-----------------------------------------------------
+
+Ubicación: teatro
+
+Fecha: 7 de octubre de 1971
+
+Plan de salud: XfE 
+
+Nota: Monitorear la mejora o empeoramiento de los síntomas. Contactar a Eva Treviño si los síntomas persisten o empeoran."
+

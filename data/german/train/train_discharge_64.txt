@@ -1,0 +1,47 @@
+Entlassungsbericht
+
+# Kopfzeile
+Entlassungsverfügung: Zuhause mit Dienstleistungen
+
+# Allergien und Unverträglichkeiten Abschnitt
+Keine bekannten Allergien gemeldet von Justin Jansen.
+
+# Krankenhausverlauf Abschnitt
+Justin Jansen wurde mit Beschwerden über anhaltende Bauchschmerzen und bemerkenswerter Hyperventilation aufgenommen. Die klinische Untersuchung und nachfolgende diagnostische Tests bestätigten einen Leistenbruch.
+
+# Entlassungsdiagnose Abschnitt
+Endgültige Diagnose: Hernie
+
+# Behandlungsplan Abschnitt
+Justin Jansen wurde geraten, sich mit ihrem Hausarzt Delphine Bosmans in Verbindung zu setzen. Physiotherapiesitzungen wurden geplant, um die Muskelkraft zu verbessern. Eine fortgesetzte Überwachung der Symptome und regelmäßige Kontrolluntersuchungen sind notwendig.
+
+# Krankenhausberatungen Abschnitt
+Konsultationen wurden mit dem Allgemeinchirurgieteam für eine mögliche chirurgische Intervention durchgeführt. Die endgültige Entscheidung wird bei der Nachsorgevisite mit dem Delphine Bosmans getroffen.
+
+# Verfahren Abschnitt
+Während dieses Krankenhausaufenthaltes wurde kein chirurgischer Eingriff durchgeführt. Die Entscheidung, eine Hernienreparatur durchzuführen, wird auf der Grundlage des Fortschreitens der Hernie und der Symptomatik des Justin Jansen getroffen.
+
+# Ergebnisse Abschnitt
+Laborergebnisse zeigten normale Ergebnisse für das vollständige Blutbild, Elektrolyte und Nierenfunktion. Die Anwesenheit der Hernie wurde jedoch durch einen abdominalen Ultraschall bestätigt.
+
+# Entlassungsmedikamente Abschnitt
+Schmerzmanagement: Schmerzmittel nach Bedarf. 
+Hinweis: Detaillierte Medikamenteninformationen werden von der Apotheke bei der Nachsorgevisite bereitgestellt.
+
+# Zusätzliche Abschnitte
+
+## Hauptbeschwerde Abschnitt
+Justin Jansen wurde mit Hauptbeschwerden von starken Bauchschmerzen und Hyperventilation aufgenommen.
+
+## Aufnahmediagnose Abschnitt
+Vorläufige Diagnose: Hernie
+
+## Krankenhausentlassungsanweisungen Abschnitt
+Justin Jansen wird geraten, eine ballaststoffreiche Ernährung zu befolgen und hydratisiert zu bleiben. Vermeiden Sie körperliche Anstrengung und schweres Heben. Folgen Sie der Nachsorge mit dem Hausarzt Delphine Bosmans innerhalb einer Woche nach der Entlassung.
+
+## Vitalzeichen Abschnitt
+Bei der Entlassung waren die Vitalzeichen stabil. Herzfrequenz: 72 Schläge pro Minute, Blutdruck: 120/80 mmHg, Temperatur: 98,6 F, Atemfrequenz: 16 Atemzüge pro Minute.
+
+Dieser Entlassungsbericht gibt einen Überblick über den Krankenhausaufenthalt von Justin Jansen. Der endgültige Plan für eine mögliche chirurgische Intervention wird bei der Nachsorgekonsultation mit dem Delphine Bosmans entschieden. Wir ermutigen Justin Jansen, alle Termine einzuhalten und alle medizinischen Ratschläge zu befolgen.
+
+HINWEIS: Dieses Dokument enthält keine persönlichen Gesundheitsinformationen (PHI). Alle in dem Dokument vorhandenen Daten sind synthetisch und beziehen sich nicht auf einen echten Patienten. Jede Ähnlichkeit mit tatsächlichen Personen, lebend oder tot, ist rein zufällig.

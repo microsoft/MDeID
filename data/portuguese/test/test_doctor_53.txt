@@ -1,0 +1,49 @@
+"Tipo de Nota: Nota Rápida
+
+----------
+Notas de Ágatha Gónzalez
+----------
+
+2 de jan. de 1985
+
+Paciente: Henrique Alvaréz
+
+ID: 856098 12U
+
+IDADE: 5
+
+Histórico de sinusite recorrente, otite média, timpanostomia bilateral, tonsilectomia, imunoterapia alergênica em andamento para alergias ambientais.
+
+Sintomas apresentados:
+- Irritação, vermelhidão, sensação de corpo estranho móvel no olho esquerdo
+- Início: ontem enquanto jogava esportes em campo de futebol fertilizado com esterco
+- Tentativas de auto-tratamento: lágrimas artificiais, irrigação com água da torneira, sem alívio
+
+Visita ao Departamento de Emergência:
+- Resultados do exame: 11 larvas consistentes com o primeiro estágio de O ovis no olho esquerdo
+- Conjuntiva esquerda: injetada
+- Movimentos extra-oculares: intactos
+- Acuidade visual: normal em ambos os olhos
+- Exame de lâmpada de fenda: múltiplas larvas na conjuntiva bulbar, fórnice palpebral
+- Tratamento: solução oftálmica de poliesporina-bacitracina-neomicina, albendazol 400 mg diariamente por 3 dias
+
+Diagnóstico: 
+- Primário: Oftalmomíase externa devido à exposição a larvas de O ovis
+- Diferencial: Outras causas de conjuntivite ou sensação de corpo estranho no olho descartadas por achados objetivos e identificação larval confirmada
+- Prognóstico: Bom, dada a identificação e tratamento oportunos
+
+Plano: 
+- Continuar a solução oftálmica conforme indicado
+- Concluir o curso de albendazol
+- Consulta de acompanhamento com o oftalmologista: 2 de jan. de 1985
+- Educação do paciente:
+    - Importância de usar óculos de proteção ao praticar esportes, especialmente em ambientes com riscos de exposição aumentados
+    - Importância de manter uma boa higiene
+    - Procurar atendimento médico se os sintomas recorrerem ou novos sintomas se desenvolverem
+
+Ágatha Gónzalez
+
+----------
+Fim da Nota
+----------"
+

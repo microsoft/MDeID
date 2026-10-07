@@ -1,0 +1,33 @@
+"Note de Docteur Scratch :
+
+Patient : Tatiana Carre
+ID : JI-039629X
+
+S : 
+Homme de 68 ans. Plaintes : polydipsie, polyurie, faiblesse musculaire, vomissements, paralysie transitoire. Durée : Plus d'un mois. Antécédents médicaux : Négatif pour les maladies neuromusculaires, thyroïdiennes, auto-immunes. Hospitalisation précédente : Oui, cause - hypokaliémie sévère, acidose métabolique. Changements de symptômes depuis la dernière évaluation : Aucun signalé.
+
+O:
+PHI : South Texas Veterans Health Care 
+Dernière admission : Diagnostiqué avec une hypokaliémie sévère, acidose métabolique. pH 7.22, pCO2 26.0 mm Hg, HCO3 10.6 mmol/L, lactate 7.1 mmol/L, excès de base -15.6 mmol/L. 
+
+Examens actuels : 
+WBC 3.16 \u00d7 109/L, hémoglobine 74 g/L, numération plaquettaire 128 \u00d7 109/L, sodium 140 mmol/L, chlorure 108 mmol/L, potassium 3.18 mmol/L, calcium 1.89 mmol/L, créatinine 57.8 mmol/L, bicarbonate 19 mmol/L, pH urinaire 6.5, sodium urinaire 80 mmol/L, potassium urinaire 18.68 mmol/L. 
+
+Test d'urine de 24 heures : 
+Sodium 320 mmol/24h, potassium 74.7 mmol/24h, calcium 12.24 mmol/24h, protéine 988.00 mg/24h. 
+
+Osmolalité sérique et urinaire : 
+303 et 158 mOsm/kg, respectivement. 
+
+Examen physique : 
+Pâleur.
+
+A:
+Diagnostic principal : Hypokaliémie, acidose métabolique associée. Différentiels : Acidose tubulaire rénale, insuffisance surrénale, perte gastro-intestinale de potassium. Paralysie transitoire, faiblesse musculaire : Préoccupant pour la paralysie périodique, potentiellement secondaire à des perturbations électrolytiques sévères.
+
+P:
+Plan d'action : Surveiller les niveaux d'électrolytes, l'équilibre acido-basique. Administrer des suppléments de potassium. Envisager une thérapie au bicarbonate si l'acidose métabolique persiste. Référence : Camille Carlier, Néphrologue pour une évaluation plus approfondie de la fonction rénale, des troubles tubulaires potentiels. Conseiller au patient : Adhérer au traitement et aux recommandations alimentaires pour le potassium. Suivi : Dans une semaine pour réévaluer les symptômes, les résultats de laboratoire. Discuter du plan de gestion avec le patient, encourager le signalement de nouveaux symptômes ou préoccupations.
+
+Signé :
+Camille Carlier"
+

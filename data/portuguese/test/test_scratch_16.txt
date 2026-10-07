@@ -1,0 +1,56 @@
+"**Nota de Enfermagem**
+
+Informações do Paciente: João Gomes
+
+Sinais Vitais:
+- PA: 120/80 mmHg
+- FC: 75 bpm
+- FR: 16/min 
+- Temp: 37 C
+- SpO2: 98%
+
+Observações:
+- Erupção cutânea: Corpo inteiro
+- Pele: Seca, Escamosa
+- Condição: Coceira, Intensa
+- Suspeita: Infecção fúngica
+
+Plano de Tratamento:
+- Medicação antifúngica
+- Creme hidratante para a pele
+- Retorno: Após 2 semanas
+
+Informações Estruturadas:
+
+| Elemento        | Placeholder   |
+| -------------- | ------------- |
+| Nome do Médico  | Carolina Gonçalves      |
+| Prontuário Médico | 11529-JDVm |
+| Número da Conta | 148 76eGJu     |
+| Número da Licença | 31-EUsYVJs     |
+| ID do Dispositivo      | TEY-5146nK      |
+| Nome de Usuário       | b5IIkYHC    |
+| ID do Veículo     | 71T RD2     |
+| Segurança Social| 644.525.789-36 |
+| ID Biológico         | 668 AaqrQn       |
+| Endereço IP     | 70.73.160.22   |
+| Número de Identificação      | 148 76eGJu       |
+| Idade            | 50         |
+| Endereço        | João Gomes, Largo da Rosa, 7 166, 4951 Sítio Novo do Tocantins, Portugal     |
+| Hospital       | Norwich Quaker Meeting House    |
+| Outra Localização | universidade |
+| Plano de Saúde    | vHGbkV  |
+| Profissão     | Artista plástico  |
+| Organização   | Velez LLC|
+| Email          | as@unhcr.org       |
+| Telefone          | 619.734.6760x98712       |
+| URL            | hart-lewis.neal.com         |
+| Fax            | 608-343-2287         |
+| Estado          | 14       |
+| Cidade           | Esplanada        |
+| País        | Brasil     |
+| Rua         | 48028 Ryan Hills Suite 470      |
+| CEP            | 4951         |
+
+Nota: O paciente reclama de coceira intensa e desconforto devido à erupção cutânea. Prescrito medicação antifúngica e creme hidratante para a pele. Recomenda-se acompanhamento regular."
+

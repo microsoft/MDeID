@@ -1,0 +1,19 @@
+T1	HOSPITAL 60 73	Poliambulanza
+T2	PATIENT 107 124	Eelco van der Pol
+T3	PATIENT 224 241	Eelco van der Pol
+T4	PATIENT 332 349	Eelco van der Pol
+T5	HOSPITAL 394 407	Poliambulanza
+T6	PATIENT 772 789	Eelco van der Pol
+T7	PATIENT 852 869	Eelco van der Pol
+T8	DOCTOR 953 965	Nina Peeters
+T9	PATIENT 1113 1130	Eelco van der Pol
+T10	HOSPITAL 1148 1161	Poliambulanza
+T11	PATIENT 1379 1396	Eelco van der Pol
+T12	DOCTOR 1516 1528	Nina Peeters
+T13	PATIENT 1580 1597	Eelco van der Pol
+T14	PATIENT 1891 1908	Eelco van der Pol
+T15	PATIENT 2041 2058	Eelco van der Pol
+T16	EMAIL 2061 2078	inaee@hotmail.com
+T17	DOCTOR 2135 2147	Nina Peeters
+T18	MEDICALRECORD 2219 2229	shF-7802cr
+T19	PATIENT 2271 2288	Eelco van der Pol

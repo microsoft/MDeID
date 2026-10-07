@@ -1,0 +1,45 @@
+"**Krankenpflege Narrative Note**
+
+S: Chiara Arnold wurde mit Symptomen von Bluterbrechen und Desorientierung in die Notaufnahme gebracht. Die Krankengeschichte des Patienten umfasst ein Muster von schlecht kontrolliertem Diabetes. Zusätzliche vom Patienten gemeldete Symptome waren Übelkeit und Epigastralgie, die seit dem 20. September 1981 aufgetreten sind.
+
+O: Bei der Untersuchung befand sich der Patient in einem Schockzustand mit Vitalzeichen, die auf eine starke Dehydration hinwiesen. Trotz Bemühungen um Rehydration verbesserte sich der Zustand des Patienten nicht. Laborergebnisse zeigten einen Blutzuckerspiegel von 470 mg/dL, arterielles Blutgas mit einem pH-Wert von 7,2, PCO2 von 25,2 mmHg, HCO3 von 9,9 mEq/L, PO2 von 169 mmHg und eine Anionenlücke von 24,3 mEq/L. Darüber hinaus waren Urinuntersuchungen positiv für Ketone und Glukose. Nach Intubation und Notfallendoskopie wurde eine schwarze Pigmentierung über die gesamte Speiseröhrenschleimhaut beobachtet. CT-Scans zeigten eine zirkuläre ödematöse Verdickung der Speiseröhrenwand und eine leichte Pleuraerguss, aber zunächst gab es keine Anzeichen von Perforation oder freier Luft im Mediastinum. Eine CT-Untersuchung am Tag 7 deutete jedoch auf eine Speiseröhrenperforation hin, da sie einen signifikanten Anstieg des rechten Pleuraergusses und freie Luft im Mediastinum zeigte.
+
+A: Die primäre Diagnose war akute Speiseröhrennekrose (AEN) kompliziert durch diabetische Ketoazidose. Der Zustand des Patienten verschlechterte sich aufgrund einer vermuteten Speiseröhrenperforation, wie der Anstieg des Pleuraergusses und das Vorhandensein von freier Luft im Mediastinum nahelegen.
+
+P: Chiara Arnold wurde mit Antibiotika, Maßnahmen zur Blutzuckerkontrolle, einem Protonenpumpenhemmer und Plasmapherese behandelt, was zu einer anfänglichen Stabilisierung führte. Nach der Diagnose einer Speiseröhrenperforation wurde eine Notfallthorakoskopie durchgeführt und der nekrotische Teil der Speiseröhre reseziert. Drainageröhren wurden in die Brusthöhle und das Mediastinum gelegt. Der Patient wird weiterhin engmaschig überwacht und das Diabetesmanagement wird betont, um zukünftige Komplikationen zu verhindern. Weitere Konsultationen mit Gastroenterologie und Endokrinologie sind geplant, um die Behandlung und Genesung zu optimieren.
+
+**Patienteninformation:**
+
+- Name: Chiara Arnold
+- Alter: 23
+- Medizinische Aktennummer: 175 GtkfIQ
+- Adresse: Chiara Arnold, Weihmannallee 934 137, 5456 Gelsenkirchen, Österreich
+- Telefon: 569.518.1396x842
+- Email: lernk@aol.com
+- Arzt: Wenke Keller
+- Gesundheitsplan: Vfi8GVZM7
+- Aufnahmedatum: 20. September 1981
+
+**Krankenschwester Informationen:**
+
+- Name: 
+- ID-Nummer: Frfs BQJhM
+- Lizenz: 330-mbjZkX
+- Kontakt: 569.518.1396x842
+
+**Krankenhausinformationen:**
+
+- Name: première
+- Adresse: Chiara Arnold, Weihmannallee 934 137, 5456 Gelsenkirchen, Österreich
+- Kontakt: 569.518.1396x842
+
+Hinweis: Dieses Dokument enthält keine PHI-Elemente, die im Kontext einer Krankenpflege-Notiz keinen Sinn ergeben. Solche Elemente sind in einer einzigartigen und kreativen Kopfzeile, Fußzeile, Liste, Tabelle oder anderen strukturierteren Abschnitten der Notiz enthalten.
+
+**Fußzeile:**
+
+- Dokument erstellt am: 20. September 1981
+- Dokument-URL:  turner-stephens.org/categoriesterms.htm
+- Benutzername: lChiara
+- IP-Adresse: 142.107.55.138
+- Fax: 234.498.3639"
+

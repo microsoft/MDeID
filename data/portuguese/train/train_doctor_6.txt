@@ -1,0 +1,21 @@
+"Notas do Médico
+
+- Residente em mineração de ouro mercado com sintomas: febre, dor de cabeça, mialgia, dor no peito, tosse seca, tontura, astenia, dispneia, insuficiência respiratória aguda, dor nas costas. Estado do Santiago Almeida: crítico.
+- Resultados de Laboratório:
+  - Hemoconcentração: 47,1%
+  - Trombocitopenia: 37.000/mm3
+  - Leucocitose: 22.180/mm3
+  - Ureia: 72,56 mg/dL
+  - Creatinina: 1,87 mg/dL
+  - Aspartato Aminotransferase (AST): 102,4 IU
+  - Alanina Aminotransferase (ALT): 57,14 IU
+- Anticorpos IgM Anti-hantavírus positivos - IgG: Negativo 6905-845eI
+- Hantavírus Castelo dos Sonhos confirmado via RT-PCR 6905-845eI
+- Raio-X do tórax: Sem dados
+- Diagnóstico: Síndrome Pulmonar por Hantavírus (SPH) - Forma grave - Progressão rápida para insuficiência respiratória aguda e envolvimento multiorgânico.
+- Estratégia de Tratamento: Antibióticos, Suporte hemodinâmico, Suporte respiratório a758
+- Progresso: Apesar do manejo agressivo, o paciente sucumbiu à doença nove dias após o início dos sintomas Vicente Morais
+- Acompanhamento: Estudo pós-morte iniciado para estimar a prevalência de anticorpos anti-hantavírus em população de mineração semelhante Chen, Pruitt and Lane
+
+Esta nota foi preparada pelo Vicente Morais, por favor, entre em contato no +1-678-318-0896x434 ou ics@icloud.com para qualquer dúvida."
+

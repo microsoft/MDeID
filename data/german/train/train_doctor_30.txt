@@ -1,0 +1,28 @@
+"Arzt Kratz Notiz:
+
+Luisa Sauer CL 64540yn - Beschwerden über verschwommene Sehschärfe, Photopsien in einem Auge - letzten Tage. Vorangegangen von Fieber, Kopfschmerzen. Keine signifikante medizinische Vorgeschichte. Kein Kontakt mit Tieren.
+
+BEOBACHTUNGEN:
+1. CBC - Normal
+2. Röntgenaufnahmen (Brust, Sinus) - Normal
+3. Tests - Negativ (Syphilis, CMV, HSV, HIV, Bartonella, H. capsulatum, T. gondii, T. canis, B. burgdorferi)
+4. Augenuntersuchung: 
+   - BCVA: 20/20 (Rechtes Auge), 20/25 (Linkes Auge)
+   - Biomikroskopie - Normal
+   - Pupillenreaktionen - Normal
+   - IOP - Normal
+   - Fundusfotografie - Tiefe retinale weiße Flecken (hinterer Pol, um den Sehnervenkopf - Linkes Auge)
+   - FA - Kranzartige punktuelle Bereiche (frühe Hyperfluoreszenz), Sehnervenkopffärbung (späte Phase)
+   - FAF, OCT - Störung in EZ, Vorhandensein von hyperreflektiven & hyporeflektiven Läsionen (ONL & Choroid jeweils)
+   - OCTA - Keine Durchflussbeeinträchtigung
+
+BEWERTUNG: 
+Möglichkeit einer Netzhautpathologie, entzündlicher/infektiöser Prozess. Infektiöse Ursachen durch negative Serologien ausgeschlossen. Differentialdiagnose - Autoimmune Retinopathie, lokalisierte Netzhautablösung.
+
+PLAN:
+1. Nachsorgetermin in einigen Wochen - Zustand neu bewerten.
+2. Raten Sie Luisa Sauer, eine Verschlechterung der Symptome zu melden.
+3. Weitere Tests oder Überweisung an einen Netzhautspezialisten - basierend auf Fortschreiten/Änderung der Symptome.
+
+Arzt: Julian Köhler an mdaUkXm"
+

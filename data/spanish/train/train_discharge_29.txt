@@ -1,0 +1,47 @@
+RESUMEN DE ALTA
+
+# ENCABEZADO 
+Disposición de Alta: Cuidado en Casa
+
+# MOTIVO DE HOSPITALIZACIÓN
+Rafael Blanco fue admitido debido a la presencia de una úlcera por decúbito.
+
+# PROCEDIMIENTOS REALIZADOS
+Se realizó el desbridamiento de la úlcera por decúbito en Rafael Blanco.
+
+# CUIDADO, TRATAMIENTO Y SERVICIOS PROPORCIONADOS
+Rafael Blanco se sometió a curaciones diarias de la herida, terapia con antibióticos y manejo del dolor.
+
+# CONDICIÓN Y DISPOSICIÓN AL ALTA
+Al momento del alta, la úlcera de Rafael Blanco mostró signos de mejora, sin embargo, aún requiere cuidado de la herida en casa. El paciente también presentó síntomas como soplo sistólico y fragilidad, que se manejaron durante la estancia hospitalaria. Antes del alta, Rafael Blanco mostró un aumento temporal de la temperatura que se manejó con éxito con antipiréticos.
+
+# INFORMACIÓN PROPORCIONADA AL PACIENTE Y LA FAMILIA
+Se proporcionó educación a Rafael Blanco y a la familia sobre cómo cuidar adecuadamente la úlcera en casa, los signos de infección a tener en cuenta y la importancia de girar y reposicionar regularmente para prevenir más úlceras.
+
+# DISPOSICIONES PARA EL CUIDADO DE SEGUIMIENTO
+Se aconseja a Rafael Blanco que haga un seguimiento con el Reinout Jonker después del alta para una revisión de la herida y el manejo de las causas subyacentes del desarrollo de la úlcera por decúbito. El servicio de atención domiciliaria puede ser necesario, dependiendo del progreso de la curación de la úlcera.
+
+# SECCIONES ADICIONALES
+**Sección de Alergias e Intolerancias:**
+No se conocen alergias a medicamentos.
+
+**Sección de Diagnóstico de Alta:**
+El diagnóstico de alta incluye una úlcera por decúbito, soplo sistólico y fragilidad.
+
+**Sección del Plan de Tratamiento:**
+El plan después del alta implica la continuación de la terapia con antibióticos, un régimen regular de cuidado de las heridas, visitas de seguimiento al departamento ambulatorio y modificaciones del estilo de vida para prevenir la recurrencia de las úlceras por decúbito.
+
+**Sección de Consultas Hospitalarias:**
+Se consultó con el especialista en cuidado de heridas y el cardiólogo durante el curso del tratamiento.
+
+**Sección de Procedimientos:**
+Se sometió a desbridamiento de la úlcera.
+
+**Sección de Resultados:**
+La herida mostró una mejora significativa después del desbridamiento.
+
+Por favor, tenga en cuenta que este resumen de alta debe acompañar al paciente durante las primeras visitas de seguimiento para guiar el cuidado posterior.
+
+[Fin del Resumen]
+
+(CÓDIGO DE DOCUMENTO: rU-TTNdopJ)

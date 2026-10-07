@@ -1,0 +1,12 @@
+"S: The patient, a 4 months child, presented with a Jan 74 history of respiratory distress and retching. The Hailey Bélanger reported that the child was struggling to breathe and was visibly distressed.
+
+O: Initial chest X-ray revealed a left-sided tension pneumothorax with mediastinal shift and suspected bowel loops in the left lower hemithorax. Upon admission, the patient exhibited severe dyspnea, a temperature of 87 120uDwK, and tachycardia at 87 120uDwK. Immediate endotracheal intubation was performed. A thoracic CT scan confirmed left-sided enterothorax with mediastinal shift. A 87 120uDwK-sided chest tube was inserted, draining fluid initially considered old blood. Diagnostic laparoscopy identified a left-sided udUnqd-CeK with herniation of the small intestine, spleen, and stomach into the chest, and bile-stained fluid in the thorax and abdomen. A gastric perforation at the lesser curvature was discovered and addressed via conversion to laparotomy, where the perforation was closed and the diaphragmatic hernia repaired. Postoperatively, a retrovesical abscess was drained Jan 74 after surgery.
+
+A: The primary diagnosis is a left-sided udUnqd-CeK with complications including gastric perforation and subsequent retrovesical abscess. Differential diagnosis initially included diaphragmatic rupture. The prognosis is favorable with the patient currently asymptomatic after a Jan 74 follow-up.
+
+P: The patient underwent surgical repair of the gastric perforation and diaphragmatic hernia, followed by postoperative monitoring and treatment of a retrovesical abscess. Recovery included management of gastroparesis and extended Gilbert-Armstrong stay of Jan 74 to Jan 74. The patient will continue to be monitored regularly to assess any long-term complications or recurrence. Education was provided to the Hailey Bélanger regarding signs of potential complications and the importance of regular follow-up visits.
+
+Additional details:
+
+yL-dzhltDm Hailey Bélanger, 68 Standpoint, Schematizer, 35 6287, Canada vO-715179n Schematizer New Zealand Brayden Smith aydenSmit@unicef.org OdZ Richmond Memorial Hospital yL-dzhltDm 52.26.130.83 600-IyWSgi Brayden Smith, 45 Intrastate, Subterranity 86 2527, Australia cafe Gilbert-Armstrong Hailey Bélanger 887-688-8748 Food technologist 653-063-934 255 4702 Paula Square wallace.becker.newman.com 9hTgCEYL 7TT 163 6287 524-569-3703"
+

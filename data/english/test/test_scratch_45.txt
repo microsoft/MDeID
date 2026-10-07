@@ -1,0 +1,62 @@
+"# Nurse Scratch Note 
+
+### Patient Details:
+    ======================================
+    Name: Keira Cote
+    Age: 17
+    Social Security: 239-630-365
+    Hospital: JFK Hospital
+    Attending Doctor: Dorothy Herrera
+    Medical Record #: rlxct-072k
+    ======================================
+
+    |Vital Signs|
+    ---------------
+    B.P: 120/80 
+    Temp: 37 C 
+    Pulse: 80 BPM 
+    Resp. Rate: 16/min 
+    O2 Sat: 98%
+
+## Condition:
+    - Persistent cough
+    - Breathing difficulties
+
+## Observations:
+    - Lung sounds abnormal
+    - Nasal discharge present
+
+## Treatment:
+    - Saline nebulization
+    - Cough suppressants
+
+    -------------------------------------
+
+### Additional Information:
+    -------------------------------------
+    Health Plan: OPP
+    Address: Keira Cote, 75 Overpaid, Unevilly, Phototelephony 3490, New Zealand
+    Contact: 811.406.3293
+    Emergency Contact: 811.406.3293
+
+    -------------------------------------
+
+## Other Details:
+    -------------------------------------
+    Device: QYz-YmfTuW
+    BioID: 356281-ion
+    IP Address: 221.172.90.81
+    ID Number: lUr SGImcG
+    User Name: gt6lrFEs
+    License: fVb 450fvt
+    Vehicle: K32 8YN
+    -------------------------------------
+
+- Professions involved: Glass blower/designer
+- Relevant Organizations: Herrera, Smith and Gilmore
+- Other Locations: library
+- Relevant Dates: Jun:13
+- Patient's Email: erhy@yahoo.com
+- URL:  www.torres-hardy.com/tag/bloghome.html
+- Fax: 4058186691"
+

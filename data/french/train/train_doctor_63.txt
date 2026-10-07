@@ -1,0 +1,34 @@
+"Note de Docteur Scratch
+
+Patient : Clark Gagné, ID : 159677-920, Âge : 84
+
+S :
+Les plaintes comprennent une fièvre de 4 jours, des ulcères douloureux, un gonflement du cuir chevelu. Appétit réduit en raison des symptômes. 
+
+O :
+Score GCS : 15, Conscience : Présente
+Ulcérations : Présentes, Pus : Présent, Fistule : Présente, Desquamation du cuir chevelu : Oui, Gonflement du visage : Oui
+Résultat de laboratoire : Neutropénie (WBC : 2.39 \u00d7 10^9/l, Neutrophiles : 0.25 \u00d7 10^9/l, Lymphocytes : 2.1 \u00d7 10^9/l)
+Marqueurs inflammatoires : Élevés (ESR : 101 mm/heure, CRP : 272 mg/dl)
+Culture de Pus : Positive (Enterococcus faecalis, Escherichia coli)
+Culture de Sang : Négative, Culture d'Urine : Négative
+CXR : Normal, Analyse d'Urine : Normal, Analyse de LCR : Normal
+Immunoglobulines : Normales, % de cellules T : Normal
+Moelle osseuse : Arrêt de maturation des promyélocytes/myélocytes, Pas de malignité
+CT Tête : Emphysème sous-cutané, Cuir chevelu : Positif, Lésion cérébrale : Non, Fractures du crâne : Non
+
+A :
+Dx primaire : Fasciite nécrosante du cuir chevelu, Septicémie
+Autres étiologies infectieuses : Exclues
+
+P :
+Traitement : Pentaglobine (0.5 g/kg), Antibiotiques (Vancomycine, Meropenem, Metronidazole)
+Thérapie G-CSF : Oui (5 à 15 \u00b5g/kg/jour)
+Sortie : Après 46 jours
+Suivi : Surveillance régulière du taux de neutrophiles et de l'état de santé général
+
+Soins par : Roméo Gauthier, Licence : LTZS 77199, Hôpital : St.Enda
+
+Contact via : Téléphone (306)551-2442, Email : uthio@outlook.com
+"
+

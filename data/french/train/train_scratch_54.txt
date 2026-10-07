@@ -1,0 +1,74 @@
+"Note de l'infirmière Scratch
+
+-----------------------OBSERVATION VISUELLE-----------------------
+
+- Lea Schmid semble généralement mal à l'aise
+
+- Toux persistante observée
+
+-------------------------SIGNES VITAUX---------------------------
+
+- Température : 98.7°F
+
+- Pression artérielle : 130/80 mmHg
+
+- Fréquence cardiaque : 90 bpm
+
+------------------------NOTES DE L'INFIRMIÈRE--------------------------
+
+1. Lea Schmid présente une toux persistante depuis quelques jours. Diagnostic provisoire : asthme bronchique
+
+2. Médicament prescrit par Estelle Deprez pour gérer les symptômes
+
+-------------------HISTORIQUE MÉDICAL DU PATIENT-------------------
+
+- Numéro de dossier médical : VCK 04aKpL
+
+- Dernière visite à l'hôpital : Pilotes tchèques
+
+- Plan de santé : m5l1j
+
+------------------------BIOMÉTRIE---------------------
+
+1. Identifiant biométrique vocal : DFiTkr-117
+
+-------------------DÉTAILS PERSONNELS DU PATIENT-------------------
+
+- Âge de Lea Schmid : 107
+
+- Adresse : Lea Schmid, 140 8440 Sara Overpass Suite 900, 5401 Laxou, France
+
+- Profession : Conseiller fiscal
+
+- Nom d'utilisateur sur le portail de l'hôpital : yR6qdxeA
+
+----------------------INFORMATIONS DE CONTACT----------------------
+
+- Téléphone : 288-416-5105x6708
+
+- Email : ele@un.org
+
+--------------------AUTRES INFORMATIONS--------------------
+
+- Identifiant personnel du patient : yt 8588JAN
+
+- Appareil utilisé pour la surveillance à domicile : 922147-376, Identifiant de l'appareil : 
+
+- Compte du patient : yt 8588JAN
+
+- Permis de conduire : WnSu-aPCVp
+
+- Numéro d'identification du véhicule : 195-252
+
+- Adresse IP de l'appareil du patient : 130.66.85.245
+
+- Numéro de sécurité sociale : 938-3360543-97
+
+- Organisation du patient : Nelson-Mosley
+
+- Dernière visite à musée
+
+- Fax : 001-383-229-2464x8774
+
+\u29bf\u29bf----------Fin de la note de Scratch----------\u29bf\u29bf"
+

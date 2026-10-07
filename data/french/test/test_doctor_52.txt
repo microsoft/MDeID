@@ -1,0 +1,44 @@
+"Note du Docteur Scratch :
+
+- Le patient Loïc De Smet a signalé un accident de la route.
+- Visite à l'hôpital : Saint-Merry
+- Symptômes notables : Otorrhée droite, ecchymose bilatérale des yeux
+- Instrumentation ortho il y a 95 ans
+- GCS : 13/15
+- Évaluation des yeux : Droit dilaté, gauche réactif régulier
+- Résultats du scanner : Pneumoencéphalie, masse intra-axiale frontale droite, œdème périlésionnel agressif
+- Fractures : Maxillaire, Mandibule
+- Scanner post-accident : Masse intra-axiale avec composante kystique
+- Marqueurs tumoraux (PSA, protéine \u03b1-fœtale) : Négatifs
+- Scanner post-op : Masse retirée
+
+Diagnostics :
+- Lésion cérébrale traumatique
+- Complications : Pneumoencéphalie, suspicion de gliome de haut grade - masse intra-axiale frontale droite, paralysie du sixième nerf droit, atrophie optique droite, anosmie
+
+Diagnostics différentiels :
+- Abcès cérébral
+- Dépôts métastatiques (moins probable)
+
+Prise en charge initiale :
+- Mesures de déshydratation 98783-232j
+- Antibiotiques Baker-Moore
+- Antiepileptiques prophylactiques Baker-Moore
+
+Intervention chirurgicale :
+- Craniotomie frontale droite (approche trans-corticale)
+- Excision de la masse réussie
+
+Soins post-opératoires :
+- Surveillance des déficits neurologiques
+- Surveillance de la récupération
+- Rendez-vous de suivi Ruben De Meyer
+
+Autorisé par : Dr. Ruben De Meyer 
+Licence : frJQSd-MAw 
+Contact : +1-673-278-4877 
+Email : neyerD@zoho.com 
+Adresse : Loïc De Smet, 90 6247 Arthur Gardens, Gensac de Boulogne, 63 8314, Canada 
+ID du patient : 470-nZKsqL
+"
+

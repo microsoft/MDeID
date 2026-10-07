@@ -1,0 +1,68 @@
+"Verpleegkundige Kras Notitie:
+
+--------------------------------------------
+Patiënt ID: Sieb Hendriks
+MRN: 561 uhDyRT
+--------------------------------------------
+
+Vitale Tekens:
+- Temp.: 38.5 Celsius
+- HR: 102 bpm
+- Resp.: 20 /min
+- BP: 135/85 mmHg
+- SpO2: 94%
+
+-------------------------------------------------
+Opmerkelijke symptomen:
+- Vermoeidheid 
+- Lichaamspijnen
+- Aanhoudende hoest
+- Kortademigheid
+
+Dx: Verdachte 
+--------------------------------------------------
+
+Toegediende Tx:
+- Toegediend O2: 2L via neusprongs
+- IV vloeistoffen: 0.9% NaCl 1L
+- Toegediend Paracetamol: 
+
+---------------------------------------------------
+In afwachting van Rx:
+- Borst X-Ray
+- Bloedculturen
+- CBC, CRP, 
+---------------------------------------------------
+
+Notitie: 
+Patiënt Sieb Hendriks voelt zich uitgeput. Klaagt over pijnlijkheid, aanhoudende hoest, kortademigheid. Mogelijke longontsteking, verdere tests vereist voor bevestiging. 
+
+---------------------------------------------------
+Extra Data:
+
+Verwijzende arts: Teun van der Meulen
+Gezondheidsplan: n4XeE
+Apparaat ID: 502002-160
+---------------------------------------------------
+
+Contact Informatie:
+
+- Telefoon: 888-250-0640
+- Email: Tnnde@msf.org
+- Noodcontact: 
+
+---------------------------------------------------
+
+Opmerkingen:
+ndrike om op te volgen nadat de tests zijn voltooid. 
+Behandeling toedienen zoals voorgeschreven door Dr. Teun van der Meulen 
+
+---------------------------------------------------
+Hostname/IP: 50.126.28.30
+Verbonden aan Ziekenhuis Systeem: Ramblers F.C. of
+Beroep: Carrière-informatiefunctionaris
+---------------------------------------------------
+
+Notitie gemaakt op: 15 mei 2024
+Notitie beoordeeld door: ndrike"
+

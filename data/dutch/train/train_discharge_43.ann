@@ -1,0 +1,15 @@
+T1	PATIENT 23 38	Sander Molenaar
+T2	PATIENT 65 80	Sander Molenaar
+T3	PATIENT 304 319	Sander Molenaar
+T4	PATIENT 573 588	Sander Molenaar
+T5	PATIENT 761 776	Sander Molenaar
+T6	DOCTOR 825 838	Margaux Wuyts
+T7	PATIENT 1160 1175	Sander Molenaar
+T8	DOCTOR 1245 1258	Margaux Wuyts
+T9	PATIENT 1674 1689	Sander Molenaar
+T10	DOCTOR 1737 1750	Margaux Wuyts
+T11	PATIENT 1955 1970	Sander Molenaar
+T12	PATIENT 2140 2155	Sander Molenaar
+T13	DOCTOR 2293 2306	Margaux Wuyts
+T14	HOSPITAL 2374 2384	Chhabildas
+T15	DOCTOR 2400 2413	Margaux Wuyts

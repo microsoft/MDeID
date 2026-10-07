@@ -1,0 +1,38 @@
+"Relatório de Atendimento ao Paciente
+
+[DISPATCH]: A central Rodgers LLC recebeu uma chamada 911 de uma residente local Beatriz Correia. A unidade LFU 113 respondeu à chamada de despacho.
+
+[RESPONSE]: Ao chegar ao local teatro, encontramos a paciente Beatriz Correia reclamando de uma erupção cutânea grave. A paciente Beatriz Correia estava em um estado moderado de angústia.
+
+[HISTORY OF PRESENT ILLNESS]: A paciente Beatriz Correia explicou que a erupção cutânea começou há vários dias. Os sintomas têm piorado progressivamente e agora são acompanhados por uma febre moderada. A paciente Beatriz Correia afirmou que a erupção cutânea era bastante grave e coçava, levando à decisão de ligar para o 911. O histórico médico anterior foi obtido da paciente Beatriz Correia. A paciente Beatriz Correia não pôde fornecer nenhuma alergia conhecida.
+
+[ASSESSMENT - PRIMARY]: A paciente Beatriz Correia estava consciente e alerta. O exame de pele revelou erupção cutânea generalizada, bolhas e manchas vermelhas, consistentes com potencial Varicela, comumente conhecida como catapora. Os sinais vitais da paciente Beatriz Correia foram tomados e documentados da seguinte forma: (esses sinais vitais não devem indicar nenhuma condição crítica, mas podem mostrar uma temperatura ligeiramente elevada).
+
+[ASSESSMENT - SECONDARY]: Em um exame mais detalhado, ficou evidente que a erupção cutânea estava distribuída por todo o corpo. A coceira era aparente, e a paciente Beatriz Correia parecia desconfortável devido a uma febre persistente.
+
+[TREATMENT]: A paciente Beatriz Correia foi tratada com medicação antipirética apropriada vaSE 8058D no local para aliviar a febre. A paciente Beatriz Correia também foi aconselhada a não coçar a erupção cutânea para prevenir quaisquer infecções secundárias de pele.
+
+[TRANSPORT]: A paciente Beatriz Correia foi então transportada para o hospital Hollywood Victory sem demora para avaliação e tratamento adicionais. Devido à natureza contagiosa da condição suspeita, foram tomadas as precauções necessárias durante o transporte.
+
+[OVERVIEW]: Ao chegar ao hospital Hollywood Victory, o cuidado da paciente Beatriz Correia foi transferido para a médica de emergência Isabelle Dias. O relatório médico foi entregue à médica de plantão Isabelle Dias e a paciente Beatriz Correia foi admitida no hospital Hollywood Victory para tratamento adicional.
+
+[DOCUMENTATION]: A paciente Beatriz Correia assinou um formulário de consentimento para tratamento de emergência. Este relatório foi preparado pelo técnico médico de emergência de plantão.
+
+[NAME]: rreieatr
+[EMAIL]: sbell@unhcr.org
+[DOB]: 22 de maio de 1992
+[PHONE]: +1-201-583-3485x08572
+[SEX]: eNl 9010TQ
+[SSN]: 512.225.271-12
+[ADDRESS]: Beatriz Correia, Alameda Davi Luiz Rezende 137, 6040 Mata de São João, Portugal
+[CITY]: Florian
+[ZIP]: 6040
+[STATE]: Mg
+[COUNTRY]: Brasil
+[ACCOUNT]: yY-65pCdsg
+[IDNUM]: yY-65pCdsg
+[IPADDRESS]: 34.35.213.186
+[LICENSE]: 67-20929FT
+[URL]: cooper.com
+[FAX]: 272.309.1975"
+

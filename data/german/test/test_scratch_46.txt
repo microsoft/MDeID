@@ -1,0 +1,78 @@
+"```
+-------------------------------------------------
+PATIENTENINFORMATIONEN
+-------------------------------------------------
+Patient: Lara Wauters
+Alter: 28
+Medizinische Akte: 248726-YBJ
+-------------------------------------------------
+
+VITALWERTE
+
+BP: 125/80
+Puls: 85
+Temp: 37.2C
+RR: 18/min
+O2 Sat: 98%
+
+-------------------------------------------------
+NOTIZEN
+-------------------------------------------------
+
+- Erhöhter Durst Lara Wauters
+- Häufiges Wasserlassen
+- Familiengeschichte von Diabetes OsSjWk-64K
+- eGFR >60
+- upQfV caiK zur Überwachung des Blutzuckerspiegels
+- BMI 25.0 
+
+-------------------------------------------------
+KLINISCHE DATEN 
+-------------------------------------------------
+
+Blutzucker heute: 7.9 mmol/L
+
+-------------------------------------------------
+PLÄNE & AUFGABEN
+-------------------------------------------------
+
+- Kontaktieren Sie Julia Auer zur Beratung
+- Wählen Sie 5568660584 für eine Überweisung zur Ernährungsberatung
+- Senden Sie eine E-Mail an uea@unhcr.org bezüglich der Nachsorge
+- Folgen Sie dem Link  www.bass-maxwell.net/list/list/postshome.php für Ressourcen zur Selbstverwaltung von Diabetes
+
+-------------------------------------------------
+-------------------------------------------------
+NOTFALLKONTAKT 
+-------------------------------------------------
+
+- Kontaktname: Lara Wauters
+- Adresse: Lara Wauters, Reichmannplatz 561 149, 5872 Weimar in Thüringen, Österreich
+- Telefon: 5568660584
+- E-Mail: uea@unhcr.org
+
+-------------------------------------------------
+KRANKENVERSICHERUNG
+-------------------------------------------------
+
+- Anbieter: HNNAdf lVtThRhzQTw0
+- Kontonummer: 1873 23nEH
+- Plan Details unter:  www.bass-maxwell.net/list/list/postshome.php
+
+-------------------------------------------------
+ZUSÄTZLICHE INFORMATIONEN
+-------------------------------------------------
+
+- IP-Adresse: 193.57.126.105
+- Sozialversicherungsnummer: 658662-7686
+- Wohnort: Maria Alm am Steinernen Meer
+- Postleitzahl: 5872
+- Bundesland: Sankt Johann im Pongau
+- Organisation: Ferguson-Carlson
+- Beruf: Designer, Möbel
+- Lizenznummer: 24-06806eq
+- Fahrzeugkennzeichnung: 432Y
+
+-------------------------------------------------
+```"
+

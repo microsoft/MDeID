@@ -1,0 +1,66 @@
+"**Nota de Enfermagem**
+
+---
+
+**Informações do Paciente**:
+- Paciente: Matheus Ferreira
+- Idade: 92
+- Prontuário Médico: 07635-YdtK
+- Registrado com: Nichols-Morgan
+- Endereço: Matheus Ferreira, Praça Santiago Ribeiro, 1 194, 8695 Paissandu, Portugal
+
+**Sinais Vitais**:
+- PA: 120/80
+- Temp: 98.6F
+- Pulso: 80 BPM
+- Respirações: 16/minute
+
+---
+
+**Contato de Emergência**:
+- Nome: Matheus Ferreira
+- Telefone: 365.363.4552
+- Relação: ...
+
+**Informações do Seguro**:
+- Plano de Saúde: NwvOrW
+- Conta: 352-909dYn
+
+---
+
+**Observações**:
+- Desconforto no pescoço, restrição de movimento
+- Coluna Cervical - alterações degenerativas notadas
+- Possível Espondilose Cervical
+
+**Tratamento**:
+- Sessões de fisioterapia - aconselhadas
+- Medicação para dor - administrada
+
+---
+
+**Informações do Médico**:
+- Médico Assistente: Leonor Nunes
+
+**Interações**:
+- Email: nu@icloud.com
+- Contato em: http://www.rodriguez.com/posts/appauthor.htm
+
+**Informações do Dispositivo**:
+- Dispositivo: SsaFpk 10q
+
+---
+
+**Informações Adicionais**:
+- Segurança Social: 48712867-7
+- Licença: foAM-92137
+- ID Biométrico: 00407 WMdd
+- Endereço IP: 163.51.230.152
+- Veículo: 0XK A41
+
+--- 
+
+**Assinatura**
+- Enfermeira: ...
+- Data: 20/01/2011"
+

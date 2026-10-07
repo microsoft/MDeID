@@ -1,0 +1,42 @@
+"**Información de Encabezado:**
+
+- Paciente: Thiago Ramos
+- Historial Médico: 59558-ehcL
+- Cuenta: ZJF 591154
+- Doctor Admitido: Jazmín Arias
+- Correo Electrónico de Contacto: zmíia@who.int
+- Teléfono de Contacto de Emergencia: 440.862.0704x31416
+- Dirección del Paciente: Thiago Ramos, Cerrada Montenegro 681 Edif. 283, Depto. 466 17, Pinewood, Yajalon 39035, Peru
+- Hospital Admitido: St Francis of Syracuse
+- Plan de Salud: oDonqRm4I
+- Fecha de Admisión: 26 dic 2009
+
+**Nota de Enfermería:**
+
+Subjetivo: El paciente Thiago Ramos se presentó con una historia de 35 años de edema en las extremidades inferiores y disnea, y una historia de 35 años de sangrado vaginal intermitente anormal. El paciente informó una mejora sintomática después de la pericardiocentesis.
+
+Objetivo: La evaluación inicial mostró hipoxemia con una saturación de oxígeno del 80% en aire ambiente, taquicardia, hipotensión y disminución de los sonidos cardíacos. Se notó linfadenopatía supraclavicular izquierda. La radiografía de tórax reveló una silueta cardíaca ensanchada y derrame pleural bilateral. La pericardiocentesis drenó 500 mL de secreción sanguinolenta. La citología del líquido pleural fue positiva para carcinoma poco diferenciado. La biopsia excisional del ganglio linfático supraclavicular izquierdo confirmó carcinoma de células escamosas metastásico. La biopsia cervical indicó carcinoma de células escamosas con una lesión intraepitelial de alto grado. El nivel de CA-125 estaba elevado a 335.5 IU/mL. La resonancia magnética pélvica no mostró masa tumoral uterina o cervical, pero confirmó carcinomatosis peritoneal.
+
+Evaluación: El diagnóstico principal es carcinoma de células escamosas metastásico con complicaciones que incluyen derrames pericárdicos y pleurales que conducen a inestabilidad hemodinámica e insuficiencia respiratoria. El diagnóstico diferencial inicialmente considerado incluía otras formas de cánceres metastásicos.
+
+Plan: Se inició el tratamiento con quimioterapia utilizando carboplatino y paclitaxel. Se ofreció pericardiocentesis repetida debido a los derrames pericárdicos y pleurales recurrentes, pero el paciente rechazó más pericardiocentesis. Se consideró la escleroterapia intrapericárdica, pero no se realizó debido a la falta de experiencia en la instalación. La condición del paciente se deterioró, lo que llevó a la muerte 35 después de la presentación inicial.
+
+**Información de Pie de Página:**
+
+- Ubicación del Paciente: biblioteca
+- Ciudad del Paciente: Yajalon
+- Estado del Paciente: 12
+- País del Paciente: Mexico
+- Código Postal del Paciente: 39035
+- Seguridad Social del Paciente: 643-64-3945
+- Licencia del Paciente: IXgs-48KlA
+- BioID del Paciente: Ev-420hDDg
+- Dirección IP del Paciente: 67.215.5.49
+- Número de ID del Paciente: ZJF 591154
+- Vehículo del Paciente: 212-PVM
+- Profesión del Paciente: Científico del suelo
+- Organización del Paciente: Jordan-Edwards
+- Nombre de Usuario del Paciente: hiaamo
+- URL del Paciente: http://williams-davis.com/searchmain.jsp
+- Fax del Paciente: 266-624-9573x81330"
+

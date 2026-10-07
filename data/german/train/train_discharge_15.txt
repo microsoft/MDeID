@@ -1,0 +1,34 @@
+ENTLASSUNGSZUSAMMENFASSUNG
+
+Patientin: Olivia Zimmermann
+
+Aufnahmediagnose: Akute Bronchitis
+
+Grund für die Krankenhausaufnahme:
+Olivia Zimmermann wurde aufgrund von anhaltendem Husten, Keuchen, Atemnot und Brustenge aufgenommen. Diese Symptome wurden trotz vorheriger Behandlung zunehmend schwerer, was zur Aufnahme der Patientin führte.
+
+Krankenhausverlauf:
+Olivia Zimmermann erhielt zunächst Inhalationstherapien und intravenöse Kortikosteroide, um die Entzündung in den Bronchien zu lindern. Im Laufe des Krankenhausaufenthalts verbesserten sich die Symptome allmählich und die Patientin reagierte positiv auf die Behandlung. Die Vitalzeichen und der Blutsauerstoffgehalt wurden täglich engmaschig überwacht.
+
+Allergien und Unverträglichkeiten:
+Die Patientin berichtete während des Krankenhausaufenthalts von keinen bekannten Medikamentenallergien oder -unverträglichkeiten.
+
+Durchgeführte Verfahren:
+Während der Krankenhausaufnahme von Olivia Zimmermann waren keine chirurgischen Eingriffe notwendig. Die primäre Versorgung umfasste die Verabreichung von Medikamenten und die Überwachung der Lungenfunktion.
+
+Entlassungsdiagnose:
+Zum Zeitpunkt der Entlassung hatte sich der Zustand von Olivia Zimmermann deutlich verbessert. Die Diagnose bei der Entlassung bleibt akute Bronchitis.
+
+Erbrachte Behandlungen und Dienstleistungen:
+Während des Krankenhausaufenthalts wurde eine umfassende Versorgung gewährleistet, einschließlich der Verabreichung von Medikamenten, Inhalationstherapien und Physiotherapie zur Mobilisierung der Brust. Die Vitalzeichen und die Sauerstoffsättigung wurden regelmäßig überwacht, wobei die Werte im späteren Verlauf des Krankenhausaufenthalts im Normalbereich lagen.
+
+Entlassungsanweisungen:
+Olivia Zimmermann wurde geraten, die verschriebenen Medikamente weiter einzunehmen, hydratisiert zu bleiben und die Exposition gegenüber Schadstoffen zu vermeiden. Bei einer Zunahme von Husten, Fieber oder jeglicher Form von Atemnot sollte die Patientin sofort medizinische Hilfe in Anspruch nehmen.
+
+Nachsorge:
+Olivia Zimmermann hat in zwei Wochen nach der Entlassung einen Nachsorgetermin bei dem Hausarzt, Markus Meier, geplant. Bei diesem Besuch wird die Wirksamkeit der Behandlung bewertet und gegebenenfalls Anpassungen am Medikamentenregime vorgenommen.
+
+Dieser Bericht wurde erstellt von: Markus Meier
+
+[MEDICALRECORD:XXXX]
+[DATE: XX/XX/XXXX]

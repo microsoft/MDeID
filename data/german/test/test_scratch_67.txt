@@ -1,0 +1,36 @@
+"# Krankenschwester-Kratznotiz 
+Patienten-ID: 433539-ktl
+
+- Sam Schulze: Berichte über Kopfschmerzen, verschwommenes Sehen und Übelkeit
+- Vitalzeichen: BP 140/90, HR 90, Temp. 98,6 F, RR 18, SpO2 98%
+- Mögliche Diagnose: Migräne 
+- Bestellte Medikamente: Antimigräne-Medikamente, Hydratationstherapie  
+
+## Zusätzliche Beobachtungen
+* Patient in Unbehagen
+* Familienmitglied Kontakt: Sam Schulze ()
+* Kein bekannter z1lbVk
+* Raum Sauberkeit: Gut 
+
+### Weitere relevante Informationen
+* IP-Adresse des meldenden Geräts: 32.155.50.25
+* Biometrische Informationen: 903019-ntl
+* Zugewiesenes Krankenhausbett: Strand
+
+## Kontaktdetails
+| Typ | Information |
+| --- | ----------- |
+| Adresse | Sam Schulze, Vogelstrasse 243 54, 7706 Frauenfeld, Belgien |
+| Email | Cooar@outlook.com |
+| Telefon | 001-416-589-5308x33289 |
+| Fax | 654.478.6690x23677 |
+
+## Persönliche Details 
+- Alter: 27
+- Beruf: Operationsgeologe
+- Kontoinhaber: sxkuPd-23y
+- Krankenhaus: Tokyo Shimbu
+
+**Hinweis:**
+Bewahren Sie dieses Dokument sicher auf. Es enthält sensible Informationen über den Patienten SchulSam. Bei Änderungen oder Aktualisierungen wenden Sie sich an den diensthabenden Arzt. Name des Arztes: Jarne Cools."
+

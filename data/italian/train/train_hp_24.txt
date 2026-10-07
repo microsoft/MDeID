@@ -1,0 +1,48 @@
+# Anamnesi ed Esame Fisico
+
+# Sezione Reclamo Principale e Motivo della Visita
+
+Il Sig.Giacomo Marini si presenta con episodi ricorrenti di respiro corto, sibili e tosse. La preoccupazione principale è la dispnea persistente. Il motivo della visita è valutare questi sintomi ed escludere la malattia ostruttiva cronica delle vie aeree.
+
+# Sezione Anamnesi Medica
+
+L'anamnesi medica passata è significativa per allergie stagionali. Nessun precedente episodio di problemi respiratori cronici segnalato dal Sig.Giacomo Marini. Nessuna chirurgia documentata, malattie significative o ricoveri ospedalieri.
+
+# Sezione Medicazioni
+
+Il Sig.Giacomo Marini non sta attualmente assumendo alcun farmaco prescritto, ma prende antistaminici da banco per il sollievo dalle allergie.
+
+# Sezione Allergie e Intolleranze
+
+Allergico alla penicillina; sperimenta orticaria da lieve a grave in caso di esposizione.
+
+# Sezione Anamnesi Familiare
+
+L'anamnesi familiare rivela che il padre è morto di cancro al polmone, mentre la madre è attualmente diagnosticata con GvlsNH 432 - ipertensione.
+
+# Sezione Anamnesi Sociale
+
+Il Sig.Giacomo Marini è un ex-fumatore, ha smesso circa 5 anni fa. Beve socialmente e non usa sostanze illegali.
+
+# Sezione Revisione dei Sistemi
+
+Respiratorio: Tosse, dispnea, sibili, nessun dolore al petto. 
+
+Assenza di febbre, nessuna recente perdita di peso, nessuna diarrea o costipazione. Nessuna debolezza muscolare, nessun cambiamento della vista o dell'udito.
+
+# Sezione Esame Fisico
+
+La respirazione sembra affannosa con sibili udibili. Vitali: HR 88, BP 122/76, RR 16, Temp 98.2 F. Nessuna cianosi osservata. Suoni polmonari chiari. Il resto dell'esame fisico è entro i limiti normali.
+
+# Sezione Risultati
+
+I test di funzionalità polmonare hanno rivelato GvlsNH 432 - un modello ostruttivo coerente con la malattia polmonare ostruttiva cronica (COPD). Si suggerisce una radiografia del torace e una TAC polmonare per una migliore comprensione.
+
+# Sezione Valutazione e Piano
+
+Sulla base della presentazione clinica e dei test iniziali, è probabile che il Sig.Giacomo Marini soffra di malattia ostruttiva cronica delle vie aeree. Il piano è ordinare una radiografia del torace e una TAC. Inoltre, programmare una visita di controllo con la Dott.ssa Sophia Baumann per discutere le opzioni di trattamento a seconda dei risultati dell'imaging. Nel frattempo, si consiglia al paziente di continuare ad evitare il fumo di tabacco e gli allergeni. 
+
+---
+
+**Nota**: Questo documento non contiene informazioni reali sui pazienti. Tutti gli scenari e i dati sono completamente fittizi.
+

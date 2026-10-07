@@ -1,0 +1,40 @@
+"**Verpleegkundige Narratieve Notitie voor Antoine De Pauw met geïsoleerde linkszijdige supracardiale PAPVC**
+
+De voogd van de patiënt, Antoine De Pauw, meldt dat het kind van 79 moeite heeft met het uitvoeren van activiteiten die fysieke inspanning vereisen. Er zijn geen tekenen van cyanose. De belangrijkste klacht heeft voornamelijk te maken met inspanningsintolerantie.
+
+Bij klinisch onderzoek leek alles opmerkelijk. Doppler-echocardiografie toonde aan dat de linkszijdige longaders afvloeien in de Martin-Caldwell ader, met normale afvloeiing van de rechter longaders in het linker atrium. Er is geen atriaal septumdefect (ASD), maar er is dilatatie van het rechter atrium en de rechter ventrikel. Computertomografie Pulmonale Angiografie (CTPA) bevestigde de diagnose van geïsoleerde linkszijdige Partiële Anomale Pulmonale Veneuze Connectie (PAPVC), waarbij de linker longaders een gemeenschappelijk kanaal vormen dat afvloeit in de superieure vena cava via de linker brachiocephalische ader.
+
+De primaire diagnose voor Antoine De Pauw is geïsoleerde linkszijdige supracardiale PAPVC. De dilatatie van het rechter atrium en de rechter ventrikel zijn waarschijnlijk secundair aan de verhoogde stroom en druk van de abnormale pulmonale veneuze terugkeer. De prognose is goed met chirurgische correctie.
+
+Het behandelplan omvat chirurgische interventie met behulp van een mediane sternotomiebenadering zonder cardiopulmonaire bypass. De procedure zal het creëren van openingen in de gemeenschappelijke kamer en het linker atriale aanhangsel omvatten, gevolgd door anastomose van de verticale ader naar het linker atriale aanhangsel. Postoperatieve zorg zal ongeveer 12 uur mechanische ventilatie omvatten, met een verwachte ziekenhuisontslag op dag 10 na de operatie. Er zal voorlichting worden gegeven over de operatie en de postoperatieve zorg om begrip en naleving te waarborgen.
+
+---
+
+**Demografische en contactinformatie**
+
+- Medisch dossier nummer: 140805-sdj
+- Accountnummer: 316110 428
+- Patiënt's apparaat identificator: 01333-eAaW
+- Gebruikersnaam: Paentoin
+- Voertuig identificator: I28 0CF
+- Sociaal zekerheidsnummer: 518706351
+- Professionele licentie: 76508-uZOJ
+- Biometrische identificator: 0146 0904V
+- IP-adres: 145.80.49.135
+- Persoonlijke identificator: 316110 428
+- Adres van de patiënt: Antoine De Pauw, Zygapophyses 81, 3908 Retinoscopist, België
+- Ziekenhuis: Shishapangma
+- Andere locatie: school
+- Zorgplan: ETxwhT0
+- Beroep: Medisch fysicus
+- Organisatie: Martin-Caldwell
+- Datum: 3 mei 2017
+- Dokter: Michiel Kuijpers
+- Email: rhi@un.org
+- Telefoon: 577.923.0242x9093
+- URL: https://miller-martinez.info/category/searchhome.htm
+- Fax: 235-892-2928
+
+Ondertekend: Michiel Kuijpers
+"
+

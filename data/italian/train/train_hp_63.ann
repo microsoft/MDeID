@@ -1,0 +1,9 @@
+T1	PATIENT 37 55	Francesca Ferretti
+T2	PATIENT 315 333	Francesca Ferretti
+T3	PATIENT 970 988	Francesca Ferretti
+T4	MEDICALRECORD 1045 1055	cMLD doDOS
+T5	PATIENT 1203 1221	Francesca Ferretti
+T6	PATIENT 1384 1402	Francesca Ferretti
+T7	DOCTOR 1531 1543	Peter Widmer
+T8	PATIENT 2246 2264	Francesca Ferretti
+T9	DOCTOR 2823 2835	Peter Widmer

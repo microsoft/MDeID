@@ -1,0 +1,13 @@
+T1	PATIENT 275 291	Rosario Gallardo
+T2	PATIENT 479 495	Rosario Gallardo
+T3	MEDICALRECORD 652 662	Lfliq toBG
+T4	PATIENT 998 1014	Rosario Gallardo
+T5	PATIENT 1167 1183	Rosario Gallardo
+T6	PATIENT 1594 1610	Rosario Gallardo
+T7	PATIENT 1661 1677	Rosario Gallardo
+T8	PATIENT 1928 1944	Rosario Gallardo
+T9	PATIENT 1982 1998	Rosario Gallardo
+T10	DOCTOR 2072 2089	Ignacio Jaramillo
+T11	PATIENT 2102 2118	Rosario Gallardo
+T12	PATIENT 2210 2226	Rosario Gallardo
+T13	DATE 2370 2396	lunes, 16 de enero de 1978

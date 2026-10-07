@@ -1,0 +1,38 @@
+"\"La paciente Andrea Pulgarín ha estado lidiando con un síntoma persistente durante 97 años. 
+PHx: 
+- Pasado Cervical Johnson, Reynolds y Lambert 
+- Tratada con 088396 zlX 
+- Tiroidectomía subtotal 088396 zlX 
+- Diagnóstico de malabsorción de lactosa y fructosa 
+- Colitis por radiación crónica 
+Rx: 
+- Probióticos 
+- Loperamida 
+- Mesalazina 
+No responde a los tratamientos anteriores. 
+
+O: 
+- Múltiples rectoscopias y colonoscopias 
+- Hallazgos: Estenosis del colon sigmoide 
+- No hay indicación de enfermedad inflamatoria intestinal 
+- CT 2993-fQlKH muestra un engrosamiento significativo de la pared rectal y la imbibición de líquido en el tejido graso perirrectal. 
+
+A: 
+Diagnóstico principal: Colitis por radiación crónica 
+Posible vínculo con la terapia de radiación post-histerectomía 
+Dx diferencial: 
+- Otras causas de diarrea crónica 
+
+Pronóstico: Reservado debido a la resistencia a las terapias convencionales 
+
+P: 
+- Iniciar terapia de microbiota fecal 
+- Seguimientos regulares con la Dra. Rosa Silva 
+- Educación del paciente sobre el manejo de los síntomas y ajustes en el estilo de vida 
+- Se puede considerar la derivación a un gastroenterólogo para un manejo adicional y una segunda opinión si es necesario 
+
+Nota: Los signos vitales y los laboratorios no se proporcionan en la transcripción. 
+
+Dra. Rosa Silva,
+NFF6V1\""
+

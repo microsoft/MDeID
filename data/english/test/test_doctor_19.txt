@@ -1,0 +1,48 @@
+"Doctor Scratch Note
+
+Patient: Alyson Anderson
+ID: 55295 YXBk
+Age: 4-months-old
+
+Presented Symptoms:
+- Fatigue (1 wk)
+- Arthralgias (1 wk)
+- Myalgias (1 wk)
+
+No reported:
+- Weight loss
+- Fever
+- Bleeding
+- Bruising
+- Dyspnea
+- Urinary symptoms
+
+Smoking, drug use, travel history, HIV risk factors: Neg
+Family history: Not contributory beyond sickle cell trait
+Medical history: Carrier of sickle cell trait
+
+Initial evaluation at Stefans Grové:
+- Anemia (Hgb: 11 g/dL)
+- Thrombocytopenia (Plt: 46,000/uL)
+- Acute renal failure (Cr: 1.33 mg/dL)
+- Elevated LDH (968 IU/L)
+- Decreased haptoglobin (15 mg/dL)
+- Schistocytes on peripheral blood smear
+- WBC: 4.1/uL
+- K: 4.1 mmol/L
+- P: 6.6 mg/dL
+- Ca: 9.8 mg/dL
+- Elevated bilirubin (2 mg/dL)
+
+Treatment: Started on Prednisone (1 mg/kg) and daily plasma exchange at Stefans Grové
+Outcome: No improvement observed
+
+Presumptive Diagnosis: Thrombotic thrombocytopenic purpura (TTP)
+Differential Diagnosis: Microangiopathic hemolytic anemia, complications related to sickle cell trait
+
+Plan: 
+Continue current treatment at Stefans Grové, monitor response to treatment and adjust as necessary based on ADAMTS13 results and clinical progression. Educate Alyson Anderson and Alyson Anderson's family about TTP, its implications, and the importance of compliance with the treatment regimen. Schedule regular follow-up appointments and laboratory monitoring to assess treatment efficacy and manage any emerging complications.
+
+Doctor: Emily Martin
+License: Di 3449mWL"
+

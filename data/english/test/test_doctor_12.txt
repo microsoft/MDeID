@@ -1,0 +1,47 @@
+"Dr. Layla Ouellet Scratch Note
+
+Sienna Williams - 39-weeks-old Japanese male, post-esophagectomy with gastric reconstruction for esophageal cancer. Family history of esophageal cancer in elder brother. Daily consumption of Japanese alcohol. 
+
+Vitals:
+- Temp: 36.9 \u00b0C
+- HR: 96 bpm
+- BP: 148/68 mmHg
+
+Reported Symptoms:
+- Fever
+- Increased sputum
+- Hypoxemia
+- Difficulty breathing
+- Crackling sounds in chest
+
+ICU Day 5:
+- Fever of 38.0 \u00b0C
+- Oxygen saturation 90% on 10 L/min mask oxygen
+- Bilateral pulmonary coarse crackles
+- Chest X-ray: Diffuse bilateral pulmonary infiltrates, predominantly right lung, pleural effusion
+
+Lab post-intubation:
+- WBC: 5.7 \u00d7 10^9/L
+- RBC: 2.25 \u00d7 10^12/L
+- Hemoglobin: 7.3 g/dL
+- Hematocrit: 21.4%
+- Platelets: 145 \u00d7 10^9/L
+- AST: 54 U/L
+- ALT: 55 U/L
+- Total bilirubin: 4.11 mg/dL
+- Albumin: 2.2 g/dL
+- Urea nitrogen: 38 mg/dL
+- Creatinine: 0.83 mg/dL
+- CRP: 18.7 mg/dL
+- Urinary creatinine: 95 mg/dL
+
+Sputum culture: Positive for Streptococcus pneumoniae
+
+Assessment: Postoperative pneumonia, pleural effusion, respiratory failure - required intubation and mechanical ventilation. Possible other infections or pulmonary complications.
+
+Plan: Switch from cefmetazole to meropenem, continued monitoring in ICU, supportive care, treatment adjustment as needed. Patient advised to report new symptoms/concerns. Tracheostomy on ICU day 38, current mechanical ventilation status: stable (PaO2/FIO2 > 300 mmHg).
+
+Dr. Layla Ouellet
+763824 766
+7"
+

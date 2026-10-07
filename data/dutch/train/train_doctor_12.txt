@@ -1,0 +1,24 @@
+"Dokter Kras Notitie:
+
+Aantekening voor Johanneke van der Velden
+- 75 jarige vrouw, probleem: aanhoudende rugpijn, beide benen, ~4 maanden
+- Recent MRI, lumbale wervelkolom 
+    - Bevindingen: intraduraal, extramedullaire laesie, verdikking van de dura @ L2
+- Post-op histologie bevestigen: mesenchymaal chondrosarcoom
+    - Kenmerk: ronde/spilvormige cellen, kraakbeen/botvorming
+    - IHC: CD99 positief, EMA negatief, STAT6 negatief, GFAP negatief
+    - Ki-67 index: ~30%
+    - Archer\u2122 FusionPlex Sarcoma Assay: genfusie transcripten HEY1-NCOA2 (exon 4 tot 13 & 14)
+- Diagnose: primair mesenchymaal chondrosarcoom @ L2
+    - Overweging: agressief gedrag, hoge Ki-67 index
+    - Differentiële diagnose: andere sarcomen, vergelijkbare histologische kenmerken
+- Plan: Convene multidisciplinair team, bespreek behandelopties
+    - Focus: oncologisch management
+    - Monitor: symptomen, bijwerkingen van de behandeling
+    - Educatie: Johanneke van der Velden en familie
+        - Onderwerpen: diagnose, behandelopties, belang van regelmatige follow-up
+        - Aanmoedigen: melden van nieuwe symptomen of zorgen
+- Volgende afspraak: zaterdag 20 oktober 2012 @ ziekenhuis
+
+Anthony Claeys - Arbeidshygiënist"
+

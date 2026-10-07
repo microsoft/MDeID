@@ -1,0 +1,35 @@
+"S: Patientin Sabine Lechner, eine 70 Jahre alte Person, wurde wegen Gangstörungen und Mikrozephalie überwiesen. Die Eltern berichten von einer kürzlichen Episode der Entfremdung von der Umwelt, einer Vorgeschichte von isolierten Fieberkrämpfen, Schlafstörungen und Entwicklungsverzögerungen, hauptsächlich in den motorischen Fähigkeiten. Das Kind zeigt auch Verhaltensprobleme ähnlich wie ADHS, die sich durch psycho-pädagogische Intervention und Behandlung mit Methylphenidat leicht verbessert haben, obwohl die Schlafprobleme sich verschlechtert haben.
+
+O: Eine körperliche Untersuchung bestätigte zuvor die Mikrozephalie. Ein EEG, das während einer Entfremdungsepisode durchgeführt wurde, war normal. Ein MRT zeigte ein normal strukturiertes Enzephalon. Genetische Tests ergaben eine OYEtb gIzC Basendeletion im C7-Marker (Basen 2475-2657), wobei keine Veränderungen in den Genen LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8 und PAX2 gefunden wurden.
+
+A: Die Hauptdiagnose ist Mikrozephalie mit assoziierten Entwicklungs- und Verhaltensproblemen, einschließlich Symptomen, die ADHS ähneln. Die genetische Deletion könnte zu ihrer klinischen Präsentation beitragen, obwohl die getesteten Schlüsselgene für die Neuroentwicklung normal waren. Differenzialdiagnosen könnten andere genetische oder metabolische Störungen umfassen, die noch nicht identifiziert wurden. Die Prognose ist vorsichtig und erfordert eine kontinuierliche Überwachung und Symptommanagement.
+
+P: Fortsetzung der psycho-pädagogischen Interventionen und Methylphenidat für ADHS-ähnliche Symptome. Planen Sie ein Nachfolge-EEG zur Untersuchung der sich verschlechternden Schlafprobleme. Regelmäßige Entwicklungsbeurteilungen durchführen und Behandlungen bei Bedarf anpassen. Informieren Sie die Eltern über die Wichtigkeit der Überwachung des Zustands des Patienten und der Einhaltung der Behandlungspläne. Vereinbaren Sie einen Nachsorgetermin in drei 21. November 2011 oder früher, wenn die Symptome sich verschlechtern.
+
+Zusätzliche Anmerkungen:
+- Wohnort des Patienten Sabine Lechner, Mona-Kirchner-Weg 61 107, 2054 Wölfersheim, Switzerland.
+- Der überweisende Arzt ist Ernst Meier.
+- Die Kontonummer des Patienten ist 4387 uVknC.
+- Das Gerät des Patienten zur Überwachung ist 72122-OSZB.
+- Der Benutzername des Patienten für den Zugriff auf Gesundheitsakten online ist aLechn.
+- Das Fahrzeug des Patienten für den Transport ist 5172.
+- Die Sozialversicherungsnummer des Patienten ist 365-9236343-77.
+- Die Führerscheinnummer des Patienten ist 9082 MyhWl.
+- Der biometrische Identifikator des Patienten ist 618 8830bB.
+- Die persönliche Identifikationsnummer des Patienten ist 4387 uVknC.
+- Die IP-Adresse des Patienten für den Zugriff auf Gesundheitsakten online ist 99.67.55.201.
+- Der Ort, an dem die Symptome des Patienten auftraten, ist Restaurant.
+- Der Krankenversicherungsplan des Patienten ist BmuUkfA8.
+- Der Beruf des Patienten ist Personalreferentin.
+- Der Arbeitsplatz des Patienten ist Martinez Inc.
+- Die E-Mail des Patienten für die Kommunikation ist ser@icloud.com.
+- Die Telefonnummer des Patienten für die Kommunikation ist 001-444-798-9143x784.
+- Die medizinischen Unterlagen des Patienten können online unter  becker.com/tag/listabout.htm eingesehen werden.
+- Die Faxnummer des Patienten für die Kommunikation ist 501-467-6447x9235.
+- Die Stadt des Wohnsitzes des Patienten ist Bad Erlach.
+- Das Land des Wohnsitzes des Patienten ist Switzerland.
+- Der Bundesstaat des Wohnsitzes des Patienten ist Niedersachsen.
+- Die Straße des Wohnsitzes des Patienten ist 57549 Jennifer Pass.
+- Die Postleitzahl des Patienten ist 2054.
+- Das Krankenhaus, in dem der Patient behandelt wird, ist Unification."
+

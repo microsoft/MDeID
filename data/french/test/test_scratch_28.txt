@@ -1,0 +1,104 @@
+"Note d'Infirmière
+
+--------------------------------------------------
+
+|             DÉTAILS DU PATIENT:                |
+
+| Patient David Simard                              |
+
+| Âge: 2                                     |
+
+| Adresse: David Simard, 5076 Xavier Parkways Apt. 485 115, 7949 Nivolas-Vermelle, Belgium                             |
+
+| Compte: ZaQH WIOAD                             |
+
+| Hôpital: Aten Brooklyn Museum                           |
+
+| Dossier Médical: cyyyo 189w                |
+
+--------------------------------------------------
+
+-----------------------------------------------------
+
+|             OBSERVATION INFIRMIÈRE:               |
+
+-----------------------------------------------------
+
+TA: 128/84      
+
+Fréquence cardiaque: 72 bpm    
+
+Fréquence respiratoire: 18 rpm
+
+Saturation O2: 98%
+
+-----------------------------------------------------
+
+|             ÉVALUATION INFIRMIÈRE:                |
+
+-----------------------------------------------------
+
+Le patient David Simard signale des symptômes de rhume - 
+
+Présent: 
+
+- Toux (sévérité 7/10)
+
+- Congestion nasale
+
+------------------------------------------------
+
+|             INTERVENTIONS POSSIBLES:          |
+
+------------------------------------------------
+
+- Hydratation 
+
+- Repos
+
+- Médicaments en vente libre pour le rhume
+
+-----------------------------------------------------
+
+|             INFORMATIONS DE CONTACT:               |
+
+-----------------------------------------------------
+
+Docteur: Gilbert Muller      
+
+Téléphone: (550)934-3063      
+
+Email: lelbert@outlook.com
+
+--------------------------------------------------
+
+|             INFORMATIONS SUPPLÉMENTAIRES:         |
+
+--------------------------------------------------
+
+Identifiant de l'utilisateur: TM4awuR5                               
+
+ID de l'appareil: rcyY RJHhc        
+
+Contact d'urgence: David Simard        
+
+SSN: 384669-8472                          
+
+Permis: GURO-137cj                            
+
+Profession: Technical author  
+
+-----------------------------------------------------
+
+|             PROCHAIN RENDEZ-VOUS:                  |
+
+-----------------------------------------------------
+
+Lieu: marché
+
+Date: 17 juin 1988
+
+Plan de santé: 3jzHM432 
+
+Note: Surveiller l'amélioration ou l'aggravation des symptômes. Contacter Gilbert Muller si les symptômes persistent ou s'aggravent."
+

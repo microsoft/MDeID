@@ -1,0 +1,66 @@
+"**Pflegekratznotiz**
+
+--------------
+**Patienteninformation**
+-------------
+- Bezeichnung: Samuel Thoma
+- Alter: 8
+- Konto: 850246-UkL
+
+--------------
+**Beobachtung**
+-------------
+* Hypertonie festgestellt
+* Berichte über Schwindel
+* Benommenheit
+* Vital Check:
+  * BP: 170/90
+  * HR: 108 
+
+--------------
+**Behandlungsaktualisierungen**
+------------
+* Medikation: Lisinopril
+* Gerät: ueMFa 2797 
+
+--------------
+**Fortschritt**
+-------------
+* BP-Reduktion: Unvollständig
+* Schwindelstatus: Unverändert
+
+--------------
+**Pflegedetails**
+------------
+* Gesundheitsplan: 0T4rVrxeR
+* Krankenschwester: Glasbläser/Designer
+
+--------------
+**Kontakte**
+------------
+* Arzt: Bruno Nebert
+* Telefon: 621-369-7029x92757
+
+--------------
+**Verschiedenes**
+------------
+* Benutzername: CCfvlht1
+* BioID: YXAf-UXOvn
+* Krankenhaus: St. Mary Cemetery
+* Standort: Bahnhof
+* E-Mail: noNeber@un.org
+* IP-Adresse: 145.187.127.133
+
+-------------
+**Zusammenfassung**
+-------------
+* Patient Samuel Thoma berichtet weiterhin über Schwindel und Benommenheit. 
+* Vitalzeichen zeigen einen erhöhten BP, der auf Hypertonie hindeutet. 
+* Medikation (Lisinopril) und ueMFa 2797 in der Behandlung verwendet.
+* Kein signifikanter Fortschritt bei der BP-Reduktion, Überwachung soll fortgesetzt werden.
+* Kontaktieren Sie Bruno Nebert unter 621-369-7029x92757 für weitere Details. 
+
+-------------
+**Ende der Kratznotiz**
+-------------"
+

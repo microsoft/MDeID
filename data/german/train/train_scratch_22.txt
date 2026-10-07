@@ -1,0 +1,83 @@
+"**Krankenpflege-Kratznotiz**
+
+-------------
+VITALZEICHEN:
+- BP: 120/80
+- HR: 80 bpm
+- RR: 16 Atemzüge/min
+- Temp: 98.6F
+- O2 Sat: 97%
+
+-------------
+BEURTEILUNG:
+- GI: Laura Mathieu klagt über Übelkeit
+- Neuro: Wackeligkeit bemerkt
+- Resp: Keine Not, klare Lungen
+
+-------------
+BEHANDLUNG:
+- Verschriebenes Antiemetikum: vfjW fGmSc 
+- Verabreichtes Med: vfjW fGmSc
+
+-------------
+BEOBACHTUNG:
+- Hals erscheint rot
+
+-------------
+ALLERGIEN:
+- Muss auf mögliche Allergien getestet werden
+
+-------------
+KONTAKTINFO:
+- 457.787.9711
+- it@who.int
+
+-------------
+BESTÄTIGUNGEN:
+- 23. Januar 2003 Aufnahmedatum 
+- Ernst Widmer Behandelnder Arzt 
+- Wilma Rudolph Memorial Aufnahmeort 
+
+-------------
+ANDERES:
+- Geräteserie: 34-00118vk
+- Zugewiesene ID: vfKGv Mxys
+- IP-Adresse: 64.11.152.139
+- Benutzername: 2yf0vEW2
+- Fahrzeug: RRM-432
+
+-------------
+SICHERHEIT:
+- 452-6889639-18
+- Lizenz: srqfou CNI
+- Biometrischer Identifikator: AaJst-tNBI
+
+-------------
+PERSÖNLICHE DETAILS:
+- Patientenadresse: Laura Mathieu, Canan-Rudolph-Straße 510 65, 6051 Am Pulverturm 1, 47669 Wachtendonk, Österreich
+- Standort: Café
+- Gesundheitsplan des Patienten: n7AXg
+- Beruf: Designer, Industrie/Produkt
+- Organisationszugehörigkeit: Brown und Söhne
+- Alter des Patienten: 102
+
+-------------
+WEBRESSOURCEN:
+- URL:  www.schultz-porter.info/main/wp-contentmain.php
+
+-------------
+FAX:
+- (680)943-0662x413
+
+-------------
+KONTO UND STAAT:
+- Kontonummer: vfKGv Mxys
+- Wohnstaat: 18 
+
+
+-------------
+PLZ
+- Postleitzahl: 6051
+
+Ende der Notiz."
+

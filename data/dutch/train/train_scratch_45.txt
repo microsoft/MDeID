@@ -1,0 +1,69 @@
+"===================
+PATIËNT INFORMATIE
+===================
+-Patiënt Naam: Caroline De Backer
+-Gebruikersnaam: TKog9Asy
+-Adres: Caroline De Backer, Supermarginally 137, 4962 Canting, België
+-Telefoon: +1-624-491-1853
+-Email: lBauwen@msf.org
+-Geboortedatum: 13 juli 1975
+-Sociale Zekerheid: 958649525
+-Rekening: 724 068aBe
+
+===================
+MEDISCHE GEGEVENS
+===================
+-Ziekenhuis: Tenth Circuit
+-Dokter: Michiel Bauwens
+-Medisch Dossier: 55578-yvKb
+-Gezondheidsplan: y0H0
+-IDNUM: 724 068aBe
+-Apparaat: 0400 967Mw
+-LICENTIE: HnLStU-VyJ
+-IPADRES: 123.211.137.156
+-BIOID: 66058 4360
+
+===================
+VITALE FUNCTIES
+===================
+-Temp: 98.4 F
+-Pulse: 78 bpm
+-Ademhaling: 22 rpm
+-BP: 120/80 mmHg
+
+===================
+OBSERVATIES
+===================
+- Algemene Verschijning: Patiënt blijft een jeukend gevoel over het hele lichaam melden. 
+- Huid: Bleek, verschillende rode vlekken over de romp
+- Ogen: Geelzucht merkbaar 
+
+===================
+BEOORDELING
+===================
+-Waarschijnlijke Malaria, bloeduitstrijkje aangevraagd bij Franco-Finley. 
+-Wacht op antwoord van lab op universiteit om diagnose te bevestigen.
+
+===================
+PLAN
+===================
+-Geavanceerde malariatherapie zoals voorgesteld door Michiel Bauwens 
+-Bloedtransfusie indien nodig
+-Vervolgconsultatie na resultaat van Franco-Finley
+
+===================
+EXTRA INFORMATIE
+===================
+-Patiënt's voertuig: QTY-248
+-Beroep: Programme researcher, broadcasting/film/video
+-Noodcontact van de patiënt: Caroline De Backer
+-Noodcontact telefoon: +1-624-491-1853
+
+===================
+Footer
+===================
+E-handtekening van de dokter: Michiel Bauwens
+Tijd van voltooiing: 13 juli 1975
+Ziekenhuis URL:  gibson-manning.com/categories/mainhomepage.html
+Ziekenhuis Fax: 842.794.3534x28325"
+

@@ -1,0 +1,66 @@
+"**Nota di Osservazione Infermieristica**
+
+--------------
+**Informazioni Paziente**
+-------------
+- Designazione: Sara Wyss
+- Età: 52
+- Account: 89-ciOabYW
+
+--------------
+**Osservazione**
+-------------
+* Ipertensione rilevata
+* Segnalazioni di vertigini
+* Sensazione di testa leggera
+* Controllo Vitali:
+  * PA: 170/90
+  * FC: 108 
+
+--------------
+**Aggiornamenti Trattamento**
+------------
+* Medicazione: Lisinopril
+* Dispositivo: TwSCxH-hBs 
+
+--------------
+**Progressi**
+-------------
+* Riduzione PA: Incompleta
+* Stato vertigini: Invariato
+
+--------------
+**Dettagli Assistenza**
+------------
+* Piano Sanitario: hNW
+* Infermiere: Contrattista
+
+--------------
+**Contatti**
+------------
+* Dottore: Emilia Schmid
+* Telefono: 776.939.1776
+
+--------------
+**Varie**
+------------
+* Nome utente: l7QenTs4
+* BioID: 7777-YFwkB
+* Ospedale: Albert Schweitzer
+* Posizione: centro commerciale
+* Email: iamid@un.org
+* Indirizzo IP: 144.1.216.96
+
+-------------
+**Sommario**
+-------------
+* Il paziente Sara Wyss continua a segnalare vertigini e sensazione di testa leggera. 
+* I segni vitali mostrano una PA elevata indicativa di ipertensione. 
+* Medicazione (Lisinopril) e TwSCxH-hBs utilizzati nel trattamento.
+* Nessun progresso significativo nella riduzione della PA, il monitoraggio continuerà.
+* Contattare il Emilia Schmid al 776.939.1776 per ulteriori dettagli. 
+
+-------------
+**Fine della Nota di Osservazione**
+-------------"
+

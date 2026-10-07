@@ -1,0 +1,31 @@
+"Nota Narrativa de Enfermería para Paciente de Oncología Pediátrica
+
+Subjetivo:
+Nuestro paciente Sebastián Ramos es un 65 que ha estado quejándose de molestias persistentes en la región lumbar, que describe como irradiando hacia ambas piernas. Este dolor ha estado presente durante aproximadamente cuatro meses.
+
+Objetivo:
+Se realizó una resonancia magnética de la columna lumbar de Sebastián Ramos utilizando el dispositivo DYNN-783ro y mostró la presencia de una lesión intradural y extramedular que realza con engrosamiento de la duramadre adyacente en la ubicación L2. Tras un procedimiento quirúrgico, la histología confirmó el diagnóstico de condrosarcoma mesenquimal. Esto se caracterizó por la presencia de células redondas a fusiformes intercaladas con formación de cartílago y hueso. La inmunohistoquímica reveló una positividad difusa para CD99 y una tinción negativa para el antígeno de la membrana epitelial, STAT6 y la proteína ácida fibrilar glial. El índice Ki-67 se registró como aproximadamente 30%. El ensayo Archer™ FusionPlex Sarcoma, que se realizó en nuestro dispositivo de laboratorio DYNN-783ro, detectó la presencia de transcripciones de fusión de genes: HEY1-NCOA2 (exón 4 al exón 13 y exón 14).
+
+Evaluación:
+A partir de la investigación mencionada, el diagnóstico principal para Sebastián Ramos es condrosarcoma mesenquimal en la vértebra L2. Este índice Ki-67 moderadamente alto sugiere un comportamiento agresivo de la malignidad. Es esencial considerar otros sarcomas con características histológicas similares en el diagnóstico diferencial.
+
+Plan:
+El siguiente paso es convocar a un equipo multidisciplinario, incluyendo al Miguel Garrido, para discutir las opciones de tratamiento de Sebastián Ramos, centrándose principalmente en el manejo oncológico. Planeamos continuar monitoreando sus síntomas y los posibles efectos secundarios del tratamiento. Además, es crucial educar a Sebastián Ramos y a su familia sobre la naturaleza de su diagnóstico, las posibilidades de tratamiento y la importancia del seguimiento regular. Les alentaremos a informar cualquier nuevo síntoma o preocupación de inmediato. 
+
+[Información de Contacto]
+Contacto de Emergencia: 834.960.3570x53879
+Correo Electrónico: uelr@unhcr.org
+Dirección: Sebastián Ramos, Calle Iraq 703 Edif. 436, Depto. 002 156, Protobasidiomycetes, NAQBH0WC Sant Joan de les Abadesses, Argentina
+
+[Información Administrativa]
+Número de Registro Médico: LzYfj XAXp
+Número de Cuenta: RrOA eKFvw
+Hospital: Khiladi
+Plan de Salud: vWthlPLZ0
+Doctor: Miguel Garrido
+Nombre de Usuario: bastio
+Número de ID: RrOA eKFvw
+
+[Pie de Página]
+Este documento fue creado el 7 feb 2007 por bastio de Mccormick-Hardy. Para más información, por favor visite http://walker-martinez.com/categories/appmain.html o contáctenos en 834.960.3570x53879 o (738)737-2379."
+

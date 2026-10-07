@@ -1,0 +1,61 @@
+"NOTA DI INFERMIERISTICA
+
+**_Intestazione_**
+
+Registro dell'infermiera Simone Milani
+Nome dell'ospedale: sE
+Cartella clinica del paziente: 43411-lHCv
+
+**_Informazioni sul paziente_**
+
+Nome: Hans Frei
+Età: 4
+Indirizzo di casa: Hans Frei, 41352 Beth Drive Suite 563 9, 1274 Trani, Svizzera
+Numero di contatto: +1-283-747-1843x4882
+Assicurazione sanitaria: NhW
+Contatto di emergenza: EmzGaoBc, +1-283-747-1843x4882
+Medico assegnato: Simone Milani
+
+**_Segni vitali_**
+
+Temperatura: 101.2\u00b0F
+Frequenza cardiaca: 98 bpm
+Pressione sanguigna: 130/85 mmHg
+Frequenza respiratoria: 20 respiri/min
+Saturazione O2: 98%
+
+**_Osservazioni mediche_**
+
+Il paziente presenta febbre e debolezza generale.
+Sono state osservate piaghe visibili nel stazione ferroviaria. Possibile Impetigine.
+La pelle intorno alle piaghe sembra gonfia e rossa.
+Il paziente riferisce prurito intorno all'area.
+
+**_Interventi avviati_**
+
+- Iniziato bagno di spugna fredda per abbassare la febbre.
+- Somministrato Acetaminofen 500mg per febbre e disagio.
+- Pulite le piaghe con una soluzione antisettica leggera.
+- Applicato antibiotico topico sulla zona interessata.
+- Istruito il paziente a continuare con la medicazione prescritta ed evitare di grattare.
+
+**_Ulteriori azioni_**
+
+- Informare Simone Milani sulle condizioni del paziente.
+- Monitorare i segni vitali ogni 4 ore.
+- Re-valutare le piaghe in 24 ore.
+- Informare il paziente sulla cura dell'Impetigine a casa.
+- Pianificare il prossimo follow-up il 25 agosto 1996 con Simone Milani.
+
+**_Footer_**
+
+Ultimo accesso dall'indirizzo IP: 118.41.27.234
+ID del dispositivo utilizzato per il logging: oJEy 40721
+Organizzazione: Warren, Davis and Johnson
+Email per le comunicazioni: ilne@microsoft.org
+URL per accedere al record online del paziente:  www.taylor-vasquez.org/wp-content/blogmain.html
+Numero di fax per lo scambio di documenti: +1-573-658-4370x887
+
+Fine della nota-------
+"
+

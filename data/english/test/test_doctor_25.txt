@@ -1,0 +1,67 @@
+"Doctor's Scratch Note
+
+---
+
+Location: Herod
+
+Patient: Matthew May
+
+Identification: dfQ-936Kdy
+
+Age: 9
+
+---
+
+Subjective:
+
+Discomfort - groin area
+TEP procedure - bilateral direct inguinal hernia
+TURP - benign prostatic hyperplasia
+Pain/swelling - right inguinal area, post-op
+Contact: 001-287-519-8042
+
+---
+
+Objective:
+
+TEP, TURP - Total op time: 3 hrs
+Blood Loss: 100 cc
+Pre/Post op: Levofloxacin
+Path exam - Atypical adenomatous hyperplasia, Chronic inflammatory cell infiltration
+PSA level: 29 ng/ml
+Complications post-op - Hematoma (right inguinal), Bilateral inguinal abscess, Sepsis
+Treatment - Evacuation, Debridement laparotomy
+No hernia recurrence post mesh evacuation
+Imaging: YJ 835030T
+
+---
+
+Assessment:
+
+Primary - Bilateral direct inguinal hernia, Benign prostatic hyperplasia
+Complications post-op - Hematoma, Bilateral inguinal abscess, Sepsis
+Excluded: Recurrent hernia
+Referral: Jordan Lopez
+
+---
+
+Plan:
+
+Post-op care - Hygiene, Infection signs monitoring
+Follow-up appointments - Ongoing assessment, Recovery management
+Contact Jordan Lopez if infection/complications signs appear
+Compliance - Crucial for recovery, Prevent complications
+Email: orz@hotmail.com
+
+---
+
+Note by: Jordan Lopez
+
+License: pPA zdUjKX
+
+Time: 
+
+---
+
+End of Note"
+

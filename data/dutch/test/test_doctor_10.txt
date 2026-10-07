@@ -1,0 +1,48 @@
+"Dokterskrabbel Notitie
+
+Patiënt: Alexis Beckers
+ID: MO-PwYXBkz
+Leeftijd: 90
+
+Gepresenteerde symptomen:
+- Vermoeidheid (1 wk)
+- Artralgieën (1 wk)
+- Myalgieën (1 wk)
+
+Niet gemeld:
+- Gewichtsverlies
+- Koorts
+- Bloeden
+- Blauwe plekken
+- Dyspneu
+- Urinaire symptomen
+
+Roken, drugsgebruik, reisgeschiedenis, HIV risicofactoren: Neg
+Familiegeschiedenis: Niet bijdragend buiten sikkelcel eigenschap
+Medische geschiedenis: Drager van sikkelcel eigenschap
+
+Eerste evaluatie bij Angeles Police:
+- Anemie (Hgb: 11 g/dL)
+- Trombocytopenie (Plt: 46,000/uL)
+- Acute nierfalen (Cr: 1.33 mg/dL)
+- Verhoogde LDH (968 IU/L)
+- Verminderde haptoglobine (15 mg/dL)
+- Schistocyten op perifeer bloeduitstrijkje
+- WBC: 4.1/uL
+- K: 4.1 mmol/L
+- P: 6.6 mg/dL
+- Ca: 9.8 mg/dL
+- Verhoogde bilirubine (2 mg/dL)
+
+Behandeling: Gestart met Prednison (1 mg/kg) en dagelijkse plasma-uitwisseling bij Angeles Police
+Resultaat: Geen verbetering waargenomen
+
+Vermoedelijke diagnose: Trombotische trombocytopenische purpura (TTP)
+Differentiële diagnose: Microangiopathische hemolytische anemie, complicaties gerelateerd aan sikkelcel eigenschap
+
+Plan: 
+Huidige behandeling voortzetten bij Angeles Police, respons op behandeling monitoren en indien nodig aanpassen op basis van ADAMTS13 resultaten en klinische progressie. Informeer Alexis Beckers en de familie van Alexis Beckers over TTP, de implicaties ervan en het belang van naleving van het behandelingsregime. Regelmatige vervolgafspraken en laboratoriummonitoring plannen om de effectiviteit van de behandeling te beoordelen en eventuele opkomende complicaties te beheren.
+
+Dokter: Elias De Smedt
+Licentie: mtsLDi mWL"
+

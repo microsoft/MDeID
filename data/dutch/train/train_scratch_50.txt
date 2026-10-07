@@ -1,0 +1,75 @@
+"Verpleegkundige Kras Notitie
+
+---------
+[PATIENT] Status
+---------
+Uitslag - Elise de Lange - overal
+Ernst - Intens
+Mog. Oorzaak - Dengue verdenking 
+
+----------
+Vitalen:
+----------
+BP: 120/80
+Temp: 99\u00b0F
+Pulse: 75 BPM
+Resp: 18 BPM
+
+----------
+Verpleegkundige Observaties:
+----------
+Huid - Afwijkingen - Uitslag
+Pijn - Rapporten - Ernstig
+Stemming - Stabiel
+Reactie op behandeling - In afwachting
+
+----------
+Toegang & Communicatie:
+----------
+Email: dillemi@red-cross.org
+Telefoon: 001-707-623-8386x42761
+Fax: 001-462-892-9339x069
+
+----------
+Algemene Info & Contact:
+----------
+Adres: Elise de Lange, Propadiene 39, 2777 Meromyarian, België
+Ziekenhuis: Great Asby
+Stad: Cylindrenchyma
+Land: België
+
+-----------
+Relevante Data:
+-----------
+Beroep: Journalist, tijdschrift
+Organisatie: Fitzgerald-Lee
+
+-----------
+Testresultaten:
+-----------
+In afwachting - Dengue testresultaten
+
+----------
+Contact & IDs:
+----------
+Medisch Dossier Nummer: hqaA-bmhCE
+Accountnummer: hUT 00bsrg
+Dokter Contact: Dr. Willemijn de Bruijn
+Apparaat Info: Apparaat ID nummer 786-64WxiZ
+Gezondheidsplan: qDq9q
+
+-------
+Diversen:
+-------
+Sociaal Zekerheidsnummer: 938-9314906-24
+Licentienummer: gtI-3278Fx
+Gebruikersnaam: ngedes
+Voertuig Info: Voertuig ID 12XL6
+BioID: Vingerafdruk ID 929 877444
+IP Adres: 17.247.128.53
+ID Nummer: hUT 00bsrg
+
+---------
+
+Gelieve regelmatig te updaten."
+

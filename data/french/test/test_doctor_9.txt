@@ -1,0 +1,56 @@
+"Note du Docteur Scratch :
+
+Sujet : Lola Mercier, ID : 95192 94KT, Âge 62, Receveur de Transplantation
+
+- Hx : 
+
+    - Transplantation hépatique '98, cause : cirrhose alcoolique, carcinome hépatocellulaire
+
+    - Lymphome diffus à grandes cellules B précédent, traitement : chimiothérapie '06
+
+    - Maladie psychiatrique, épilepsie post-traumatique
+
+    - Nie les symptômes d'encéphalopathie
+
+    - Élévations intermittentes des transaminases depuis '14, utilisation d'alcool suspectée
+
+    - Ascites, dysfonctionnement du greffon, août 23/12/1986
+
+- Rx : 
+
+    - Tacrolimus, niveaux ~2 μg/l 
+
+    - Prednisone, 5 mg par jour
+
+- Obs : 
+
+    - Fonction hépatique : élévations modérées des transaminases, cholestase
+
+    - Sérologie : Hep B, C, CMV négatif, virus d'Epstein-Barr dans les limites normales, anti-HEV IgM, IgG positif
+
+    - PCR : ARN du VHE dans le plasma, échantillon de sérum stocké '14, infection chronique par l'Hep E
+
+    - Après l'introduction de la ribavirine, septembre 23/12/1986, amélioration de la fonction hépatique
+
+- Évaluation : 
+
+    - Cirrhose décompensée du greffon, infection chronique par l'Hep E diagnostic primaire
+
+    - Antécédents d'utilisation d'alcool, contributeur potentiel à la dysfonction hépatique
+
+    - Précédents différentiels écartés : réactivation de l'Hep B, C, CMV
+
+- Plan : 
+
+    - Continuer la surveillance de la fonction hépatique, du tacrolimus
+
+    - Maintenir les dosages actuels de tacrolimus, de prednisone
+
+    - Continuation du traitement par ribavirine, ajustement en fonction de la réponse, de la tolérance
+
+    - Conseil : Abstention d'alcool, prévenir d'autres dommages au foie
+
+    - Suivis réguliers : surveiller la progression de la maladie du foie, ajuster le traitement au besoin
+
+Markus Weber"
+

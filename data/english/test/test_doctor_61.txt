@@ -1,0 +1,32 @@
+"Doctor Scratch Note:
+
+Patient Ruby Walker presents significant weight loss. Over 44 months, decrease of 10 kg. Abdominal discomfort reported. Bowel habits - unchanged. Appetite - same. 
+
+Examination findings: 
+Vital signs - normal. Observation - pallor. Palpable mass in left upper quadrant - fist-sized. 
+
+Lab results: 
+Hemoglobin - 9 g/dL (normal: 13.8 - 17.2 - female)
+
+CT scan: 
+Solid-cystic mass, 10 cm max diameter. Location - pancreatic body and tail. 
+
+Surgical findings: 
+Mass origin - proximal jejunum, not pancreas. Resected successfully. Jejunojejunostomy - end-to-end performed. 
+
+Specimen: 
+Size - 9x8x6.5 cm. Central necrosis and cavity observed. Histology - interlacing bundles of spindle cells, nuclear atypia, scarce nuclear mitosis visible. 
+
+Diagnosis: 
+Initial - pancreatic mucinous cystadenoma. Revised to - benign spindle cell tumor (proximal jejunum). Further immunohistochemical studies - pending. No lymphadenopathy - metastasis absent, likely. 
+
+Procedures: 
+Distal pancreatectomy, lymphadenectomy, splenectomy completed. Tumor resection and jejunojejunostomy - successful. 
+
+Advice: 
+Focus on recovery. Monitor post-operative progress closely. Await immunohistochemical study results. Education on complications - provided. Compliance with follow-ups - emphasized. 
+
+Olivia Brown, 
+Garrett-Perez
+"
+

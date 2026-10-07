@@ -1,0 +1,53 @@
+"\"Nursing Scratch Notes - Mar:19:1991\"
+
+======== Patient Details =========
+Name: Noah Wilson
+Age: 1
+
+======== Vital Signs =========
+BP - 120/80
+HR - 78 bpm
+Temp - 98.6\u00b0F
+RR - 18 rpm
+
+======== Observations =========
+Urinary Frequency - Increased
+Discomfort - Mild 
+
+======== Diagnosis =========
+Possible UTI
+
+======== Treatment Plan =========
+Monitor vitals every 4 hours
+Administer antibiotics
+
+======== Miscellaneous =========
+Location: park
+Hospital: Wheeling community
+Health Plan: y4tVj6n0h
+Doctor: Zoey Paquette
+Username: nBjdqqfi
+IP Address: 117.180.116.29
+Device: UlpE-yZxBc
+Medical Record: Hsc-RpWYtO
+Account: 535728-293
+IDNUM: 535728-293
+DOB: Mar:19:1991
+Bioid: aVVf-80944
+License: 406-sVvPPG
+Social Security: 596-994-117
+Vehicle: 9Z 55171
+Organization: Johnson-Little
+Profession: Market researcher
+URL:  jones.com/blog/main/tagauthor.html
+Address: Noah Wilson, 21 Endostitis, Overelegance, Agamas 7467, New Zealand
+City: Agamas
+State: 40
+Country: Canada
+Zip: 7467
+Phone: 435.798.1826
+Fax: (277)837-5165x58988 
+
+======== Note =========
+Patient Noah Wilson exhibiting signs of UTI. Increased frequency of urination noted, with mild discomfort. Will start on antibiotics and monitor vitally every 4 hours. Zoey Paquette notified of situation."
+

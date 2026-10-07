@@ -1,0 +1,55 @@
+"**Arzt Kratz Notiz**
+
+---
+*Pt:* Lisa Fischer
+*MRN:* cILm 3973O
+*Alter:* 70
+*Dr:* John Christ
+*Email:* hnst@yahoo.com
+---
+
+**S:**
+
+- Anhaltender Husten, ~3 Monate
+- Hämoptysen festgestellt
+- Ausgedrückte Sorge nach Diagnose
+
+**O:**
+
+- AFB-Abstrich: +
+- PCR für M. tuberculosis: +
+- Bildgebung: Läsion, 90% Stenose, mittlerer Lappenbronchus
+- Tx: Triamcinolon-Acetonid-Spray, 2x/Woche, 1 Woche
+- Nachsorge: 2 Monate, Verbesserung des Bronchiallumens
+- Toleranz: Bronchoskopie-Verfahren, niedrig
+
+**A:**
+
+- Primäre Dx: Tuberkulose
+- Bronchiale Obstruktion signifikant
+- Verbesserung mit lokalisiertem Tx
+- Schwierigkeiten mit invasiven Verfahren
+- Prognose: Günstig, mit fortgesetztem Management
+
+**P:**
+
+- Tx-Plan: Fortsetzung von Triamcinolon-Acetonid, Überwachung der Bronchialstenose
+- Weniger invasive Überwachung aufgrund der Toleranz gegenüber Bronchoskopie in Betracht ziehen
+- Überweisung an Carl H
+- Ziel: Einfacherer Zugang zur Gesundheitsversorgung, weniger Reisen, bessere Tx-Einhaltung
+- Bildung: TB und Management
+---
+
+*Kontakt Info:*
+*Telefon:* 001-572-674-3065x78364
+*Fax:* 001-970-283-8985
+*Adresse:* Lisa Fischer, Lindauallee 7 50, 8125 Grödig, Deutschland
+*Org:* Kane-Cunningham
+*Gesundheitsplan:* Vh98ph tZ59RS 1455GD
+*Beruf:* Equities trader
+*Standort:* Krankenhaus
+*URL:*  williams.com/posts/main/mainterms.php
+---
+
+**Ende der Notiz**"
+

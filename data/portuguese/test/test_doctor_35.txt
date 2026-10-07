@@ -1,0 +1,62 @@
+"Nota do Médico
+-------------
+Miguel Azevedo - 41 - masculino
+
+Histórico recente:
+- Febre intermitente, calafrios
+- Fadiga, diminuição do apetite
+- Dor nas costas e abdominal
+- Perda de peso: 35 lbs (3 meses)
+- Tratamento de malária: 6 meses atrás
+- Viagem recente: Brasil
+
+Sinais vitais:
+- Temp: 102.3 F
+- PA: 103-110/59-64 mmHg
+- FC: 92-113 bpm
+- Sat O2: 99% (Ar ambiente)
+
+Laboratório:
+- Hb: 4.4
+- VCM: 87.5
+- Plaquetas: 13
+- Leucócitos: 6.4
+- INR: 1.73
+- Na: 132
+- Lactato: 4.6
+- FAL: 133
+- Tbili: 1.9
+- Dbili: 1.6
+- Albumina: 2.8
+
+Imagem:
+- RX, TC: Infiltrações bilaterais no lobo inferior, áreas focais de infiltrações e consolidação (Memorial Community)
+- Pequeno hidrocele escrotal direito
+
+Esfera de Sangue:
+- Poucos monoblastos
+- Características displásicas
+- Eritrócitos com inclusões intracelulares
+
+Aspirado de Medula Óssea:
+- Medula hiperplásica, monoblastos
+- Eritroblastos, defeito de maturação
+- Poucos megacariócitos
+- Folhas de células mononucleares imaturas ocupando difusamente as cavidades da medula
+
+Avaliação:
+- Anemia severa
+- Trombocitopenia
+- Pneumonia adquirida na comunidade
+- Possível malignidade hematológica (AML?)
+
+Plano:
+- Cuidados de suporte (Transfusões de sangue, plaquetas)
+- Antibióticos IV (ceftriaxona, azitromicina)
+- Atovaquona para profilaxia da malária
+- Avaliação hematológica (Consultar com Janaina Fernandes)
+- Monitorar sinais vitais, contagens sanguíneas, funções de órgãos
+- Educação do paciente sobre: diagnóstico, plano de tratamento, possíveis complicações
+
+Janaina Fernandes"
+

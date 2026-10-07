@@ -1,0 +1,28 @@
+"Informe de Atención al Paciente
+
+Resumen de la llamada: Nuestra unidad de EMS fue enviada a la residencia de Lucía Ortega ubicada en Lucía Ortega, Peatonal Malta 554 Edif. 585, Depto. 384, 29, 8505 Benito Juárez, Spain debido a una llamada al 911 realizada desde 001-573-469-4510x2113 informando que el paciente estaba experimentando un malestar severo y mostrando signos de enfermedad.
+
+Llegada: A nuestra llegada, encontramos al paciente en moderado sufrimiento, consciente pero débil. El paciente fue encontrado en su casa en aeropuerto. El paciente parecía alerta y consciente de su condición, pero parecía pálido y letárgico.
+
+Síntomas presentes: El paciente, un individuo de 82 años, informó sentirse mal durante los últimos días. Exhibió síntomas como fiebre, escalofríos y fatiga, todos característicos de una posible infección de malaria. Sin embargo, esta es una evaluación preliminar basada en patrones sintomáticos e historial del paciente.
+
+Historial médico: Contactamos a Birgit Schmidt y obtuvimos el historial médico. El historial médico del paciente fue obtenido de la base de datos de su proveedor de atención médica utilizando WrR4oBiw y . Su número de registro médico era PV-254wQSK, y su número de identificación era IgFnQq-ogB. Reveló que recientemente había viajado a una ubicación propensa a la malaria, una información anotada en el rastreador de salud de Pope, Silva and Johnson, accedido a través de  glass.net/blogterms.html.
+
+Observaciones y tratamiento: Se tomaron los signos vitales del paciente y se administraron antipiréticos para controlar su fiebre. Debido a la posible gravedad y naturaleza contagiosa de la malaria, se recogieron muestras para pruebas y el paciente fue transportado inmediatamente al Ahed SC para una evaluación y tratamiento más profundos.
+
+Transporte: Nuestra unidad, con el número RQ-9565, transportó al paciente al hospital, donde fue admitido bajo el cuidado de Birgit Schmidt. El paciente fue entregado al hospital sin incidentes y el cuidado fue transferido al personal de la sala de emergencias. La ruta tomada al hospital fue Birgit Schmidt, Cañada Isa Pardo 396 Apt. 71, 163, 9844 Castellón de la Plana, Spain, y el transporte fue marcado con un código de urgencia LlulR debido al posible diagnóstico de malaria.
+
+Comunicación: En nuestro camino al hospital, comunicamos la condición del paciente con el Departamento de Emergencias a través del dispositivo 67-yCpXrhE. Todos los detalles relevantes, incluyendo el número de seguridad social del paciente 612-00-7638, fueron compartidos a través de rgic@who.int y fueron almacenados de forma segura siguiendo la fecha 24/5/91 y la hora del incidente siguiendo el protocolo estándar.
+
+Informe por: Este informe fue documentado por Patólogo, y el documento fue guardado y cifrado de forma segura en nuestro sistema, accesible por un pgL-75566t asignado de forma única. Se programó un seguimiento del equipo para el 24/5/91 en el Ahed SC.
+
+Contactos del paciente: Nos pusimos en contacto con el contacto de emergencia del paciente, que es el titular de su Poder Legal, e informamos sobre la situación. Los detalles de contacto de emergencia del paciente fueron obtenidos de nuestra base de datos utilizando su cuenta IgFnQq-ogB.
+
+Información adicional: La dirección IP del paciente 160.188.228.92, que se utilizó para la consulta inicial de telemedicina, fue documentada en su archivo. El número de licencia del paciente 9978 rjzJw y otra información relacionada también fueron anotados.
+
+Documentación electrónica: La copia digital de este informe ha sido subida al portal web seguro de Pope, Silva and Johnson, y se ha enviado un enlace al mismo al correo electrónico registrado del paciente. El paciente y su familia inmediata pueden acceder a él utilizando su respectivo nombre de usuario y contraseña.
+
+Nota: Todas las pertenencias del paciente fueron entregadas a él, y su condición fue monitoreada continuamente hasta que su cuidado fue entregado al equipo de la sala de emergencias.
+
+Seguimos las pautas necesarias y mantuvimos todos los protocolos de seguridad, incluyendo la garantía de la privacidad del paciente. La información de salud personal (PHI) del paciente fue manejada de acuerdo con la Ley de Portabilidad y Responsabilidad del Seguro de Salud (HIPAA)."
+

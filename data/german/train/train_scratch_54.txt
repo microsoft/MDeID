@@ -1,0 +1,47 @@
+"Krankenschwester Notiz
+
+-----------------------VISUELLE BEOBACHTUNG-----------------------
+- Wolfgang Schmidt scheint allgemein unwohl zu sein
+- Anhaltender Husten beobachtet
+
+-------------------------VITALZEICHEN---------------------------
+- Temperatur: 98.7\u00b0F
+- Blutdruck: 130/80 mmHg
+- Herzfrequenz: 90 bpm
+
+------------------------KRANKENSCHWESTER'S NOTIZEN--------------------------
+1. Wolfgang Schmidt stellt sich mit seit einigen Tagen anhaltendem Husten vor. Vorläufige Diagnose: Bronchialasthma
+2. Medikation verschrieben von Mohamed Fontaine zur Symptomkontrolle
+
+-------------------PATIENTEN MEDIZINISCHE GESCHICHTE-------------------
+- Medizinische Aktennummer: nynB 2978W
+- Letzter Krankenhausbesuch: Boise Valley
+- Gesundheitsplan: 6lVrIVOP
+  
+------------------------BIOMETRIE---------------------
+1. Stimm-Biometrie-ID: rQNut IfSm
+
+-------------------PERSÖNLICHE DETAILS DES PATIENTEN-------------------
+- Wolfgang Schmidt's Alter: 90
+- Adresse: Wolfgang Schmidt, Bodnerplatz 7/1 192, 8400 Kronbühl, Switzerland
+- Beruf: Metallurg
+- Benutzername auf dem Krankenhausportal: zQyOAPyp
+
+----------------------KONTAKTINFORMATIONEN----------------------
+- Telefon: 936-959-7687x411
+- Email: amedn@icloud.com
+  
+--------------------WEITERE INFORMATIONEN--------------------
+- Persönliche ID des Patienten: IZP FAutRy
+- Gerät zur Heimüberwachung: 661-ZrYbWG, Geräte-ID: 
+- Patientenkonto: IZP FAutRy
+- Führerschein: Kg 486990M
+- Fahrzeugidentifikationsnummer: 69-91427
+- IP-Adresse des Geräts des Patienten: 3.59.19.96
+- Sozialversicherungsnummer: 44 432 414 694
+- Organisation des Patienten: Martin-Golden
+- Letzter Besuch in Universität
+- Fax: 722.849.2214x7376
+
+\u29bf\u29bf----------Ende der Notiz----------\u29bf\u29bf"
+

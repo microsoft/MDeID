@@ -1,0 +1,53 @@
+"Nota Narrativa da Enfermeira
+
+Subjetivo:
+
+Manuela Morais apresentou-se à clínica relatando acuidade visual embaçada e fotopsias em um olho que persistem há alguns dias. Esses sintomas foram precedidos por sintomas semelhantes aos da gripe, incluindo febre e dor de cabeça relatados pela paciente. Manuela Morais nega qualquer histórico médico significativo ou contato recente com animais.
+
+Objetivo:
+
+O hemograma completo de Manuela Morais, e os resultados dos raios-X do tórax e dos seios da face foram normais. Os resultados dos testes para sífilis, citomegalovírus, vírus herpes simplex, vírus da imunodeficiência humana, Bartonella, Histoplasma capsulatum, Toxoplasma gondii, Toxocara canis e Borrelia burgdorferi foram negativos. O exame ocular revela acuidade visual corrigida de 20/20 no olho direito e 20/25 no olho esquerdo. Biomicroscopia, reações pupilares e pressão intraocular estão dentro dos limites normais. A fotografia de fundo colorida revela pontos brancos sutis profundos na retina no polo posterior e ao redor do disco óptico do olho esquerdo. A angiografia com fluoresceína (FA) mostra áreas pontilhadas semelhantes a uma coroa de hiperfluorescência precoce e coloração do disco óptico na fase tardia. A autofluorescência do fundo (FAF) e a tomografia de coerência óptica (OCT) confirmam a interrupção da zona elipsoide (EZ) e a presença de lesões hiperrefletivas e hiporrefletivas na camada nuclear externa (ONL) e coroide, respectivamente. A angiografia OCT (OCTA) não mostra comprometimento do fluxo.
+
+Avaliação:
+
+Com base nos sintomas e nos achados diagnósticos de Manuela Morais, sugere-se uma patologia retiniana. Isso poderia ser possivelmente um processo inflamatório ou infeccioso, embora as causas infecciosas tenham sido descartadas por sorologias negativas. O diagnóstico diferencial pode incluir retinopatia autoimune ou um descolamento retiniano localizado.
+
+Plano:
+
+O plano é monitorar de perto a condição de Manuela Morais com uma consulta de acompanhamento agendada em algumas semanas para reavaliar a condição. Manuela Morais foi aconselhada a relatar imediatamente qualquer piora dos sintomas. Testes adicionais ou um encaminhamento para um especialista em retina podem ser considerados com base na progressão ou mudança nos sintomas.
+
+[Tabela: Informações Pessoais de Saúde (PHI)]
+| Tipo de PHI | Placeholder Mascara |
+|----------|-------------------|
+|CONTA|flRNS 2697|
+|ENDEREÇO|Manuela Morais, R. Renata Azevedo, S/N 110, 2566 Santana de Parnaíba, Portugal|
+|IDADE|55|
+|BIOID|0852-156Mb|
+|CIDADE|Mangaratiba|
+|PAÍS|Brasil|
+|DATA|sábado, 15 de dezembro de 1979|
+|DISPOSITIVO|784100 WlL|
+|DOUTOR|Juraci Araújo|
+|EMAIL|raúc@icloud.com|
+|PLANO DE SAÚDE|QZsi|
+|HOSPITAL|abolish|
+|NUMERO DE IDENTIFICAÇÃO|flRNS 2697|
+|ENDEREÇO IP|27.109.8.97|
+|LICENÇA|sv-791963I|
+|LOCALIZAÇÃO-OUTRO|shopping|
+|PRONTUÁRIO MÉDICO|CGY-uMhdZN|
+|ORGANIZAÇÃO|Moore-Thomas|
+|PACIENTE|Manuela Morais|
+|TELEFONE|907-329-4356x194|
+|PROFISSÃO|Community development worker|
+|SEGURANÇA SOCIAL|735.325.871-77|
+|ESTADO|RO|
+|RUA|35512 Jacobs Brooks Apt. 607|
+|URL|williams.bates-hobbs.net|
+|NOME DE USUÁRIO|ueMora|
+|VEÍCULO|5UZE 53|
+|CEP|2566|
+|FAX|5935357304|
+
+Assinado, Juraci Araújo"
+

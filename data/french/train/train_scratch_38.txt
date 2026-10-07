@@ -1,0 +1,81 @@
+"**Note de grattage du patient :**
+
+```
+--------------------------------------
+| Patient Paul Moser      3 avr. 1974 |
+--------------------------------------
+```
+```
+|-------------------|--------------|
+| Signes vitaux     | Valeur       |
+|-------------------|--------------|
+| Température (°F)  | 98.7         |
+| Fréquence cardiaque (bpm) | 88   |
+| Fréquence respiratoire | 16     |
+| Pression artérielle | 130/85 mmHg |
+|-------------------|--------------|
+| Niveau de douleur | 7/10         |
+|-------------------|--------------|
+```
+
+```
+Résumé : Paul Moser signale que la douleur à l'estomac s'intensifie lorsqu'il mange. Possibilité de maladie ulcéreuse peptique.
+
+Observations cliniques :
+- Douleur abdominale localisée dans la région épigastrique
+- Paul Moser a pris un petit déjeuner léger avant le contrôle
+- Aucun autre symptôme comme des nausées ou des vomissements signalés
+- Paul Moser a mentionné un événement du Groupe Villegas avant de ressentir la douleur
+- 56 ans, aucun antécédent de troubles gastro-intestinaux
+```
+
+```
+Résultats des tests gradués :
+- Numération globulaire complète : Normale
+- Tests de la fonction hépatique : Normaux
+- Échographie abdominale : Normale
+- Endoscopie du haut de l'appareil digestif : Prévue pour le 3 avr. 1974 à l'Hôpital Bridgewater Hall
+```
+
+```
+|-----------------------|--------------|
+| Informations de contact | Info    |
+|-----------------------|--------------|
+| Téléphone             | 9463885041      |
+| Email                 | BKilian@unwomen.org      |
+| Contact d'urgence     | Paul Moser    |
+|-----------------------|--------------|
+```
+
+```
+|-----------------------|--------------|
+| Informations supplémentaires | Info |
+|-----------------------|--------------|
+| Plan de santé         | vY2 |
+| Profession            | Greffier de barrister |
+| Organisation          | Groupe Villegas|
+|-----------------------|--------------|
+```
+
+```
+Médicaments prescrits : Antiacides, Inhibiteurs de la pompe à protons
+Suivi : 3 avr. 1974
+```
+```
+Numéro de série de l'appareil du patient : 077738-248
+```
+```
+Numéro de dossier médical : pDcSh-3007
+```
+```
+---------------------------------------------------------
+| Infirmière : Kilian Brun              IP : 85.168.103.93 |
+---------------------------------------------------------
+```
+```
+-----------------------------------------------------
+| Sécurité sociale : 351-5806279-31    |
+-----------------------------------------------------
+```
+Note : Surveiller les signes de détresse supplémentaires. Nécessaire de vérifier la perforation ou le saignement de l'ulcère. Le patient a été conseillé d'éviter les aliments irritants et le stress."
+

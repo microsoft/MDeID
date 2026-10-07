@@ -1,0 +1,25 @@
+T1	PATIENT 53 75	Wouter van der Heijden
+T2	PATIENT 266 288	Wouter van der Heijden
+T3	PATIENT 347 369	Wouter van der Heijden
+T4	PATIENT 443 465	Wouter van der Heijden
+T5	PATIENT 705 727	Wouter van der Heijden
+T6	PATIENT 853 875	Wouter van der Heijden
+T7	STREET 885 895	Polychaeta
+T8	ZIP 900 904	1792
+T9	CITY 905 912	Alaskan
+T10	COUNTRY 914 920	België
+T11	ORGANIZATION 944 966	Murphy, Wall and Brown
+T12	PATIENT 1406 1428	Wouter van der Heijden
+T13	PATIENT 1986 2008	Wouter van der Heijden
+T14	PATIENT 2122 2144	Wouter van der Heijden
+T15	PATIENT 2191 2213	Wouter van der Heijden
+T16	PATIENT 2373 2395	Wouter van der Heijden
+T17	DOCTOR 2399 2413	Emiel van Loon
+T18	PATIENT 2439 2461	Wouter van der Heijden
+T19	PATIENT 2549 2571	Wouter van der Heijden
+T20	PATIENT 2723 2745	Wouter van der Heijden
+T21	DOCTOR 2874 2888	Emiel van Loon
+T22	PATIENT 3007 3029	Wouter van der Heijden
+T23	PATIENT 3047 3069	Wouter van der Heijden
+T24	MEDICALRECORD 3248 3258	02373 4926
+T25	PATIENT 3263 3285	Wouter van der Heijden

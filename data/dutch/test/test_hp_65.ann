@@ -1,0 +1,21 @@
+T1	PATIENT 58 76	Tom van den Heuvel
+T2	PATIENT 234 252	Tom van den Heuvel
+T3	PATIENT 415 433	Tom van den Heuvel
+T4	PATIENT 905 923	Tom van den Heuvel
+T5	PATIENT 1081 1099	Tom van den Heuvel
+T6	PATIENT 1223 1241	Tom van den Heuvel
+T7	STREET 1345 1354	Apocopate
+T8	ZIP 1360 1364	0809
+T9	CITY 1365 1372	Zydecos
+T10	COUNTRY 1374 1380	België
+T11	PATIENT 1517 1535	Tom van den Heuvel
+T12	PATIENT 1770 1788	Tom van den Heuvel
+T13	DOCTOR 2063 2079	Morgane Declercq
+T14	PATIENT 2280 2298	Tom van den Heuvel
+T15	PATIENT 2431 2449	Tom van den Heuvel
+T16	PATIENT 2717 2735	Tom van den Heuvel
+T17	PATIENT 2841 2859	Tom van den Heuvel
+T18	DOCTOR 2889 2905	Morgane Declercq
+T19	PATIENT 2923 2941	Tom van den Heuvel
+T20	PATIENT 3036 3054	Tom van den Heuvel
+T21	DATE 3071 3081	22-04-1973

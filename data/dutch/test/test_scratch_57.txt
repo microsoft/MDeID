@@ -1,0 +1,59 @@
+"Verpleegkundige Kras Notitie
+
+-----------------------------------
+Patient Info & Obs (KA: )
+-----------------------------------
+Patient: Axelle Dumont 
+Leeftijd: 33 
+
+Vitalen: 
+BP: 120/80
+HR: 90
+RR: 16
+Temp: 98.6\u00b0F
+
+-----------------------------------
+Klinische Samenvatting
+-----------------------------------
+Klacht: Problemen met het zicht, wazig. 
+Glucometer Lezing: 215 mg/dl 
+Dx: Diabetes 
+
+-----------------------------------
+Behandeling & Voortgang
+-----------------------------------
+Insuline toegediend - details in medisch dossier: 505-dIsPBB
+BG trend gecontroleerd - zie apparaat id: wfc-95FEQB
+
+-----------------------------------
+Andere Info
+-----------------------------------
+Adres: Axelle Dumont, Granola 171, 8901 Lushing, België
+Email: keeCar@protonmail.com
+Gebruikersnaam: vnwad0u9
+Dokter: Caro De Backer 
+Zorgverlener: YI45NbC4
+Ziekenhuis: Division club Walsall F.C
+
+-----------------------------------
+Contacten
+-----------------------------------
+Telefoon: (907)687-3152
+Alt. Telefoon: (907)687-3152
+Noodcontact: Axelle Dumont
+
+-----------------------------------
+Diverse Details
+-----------------------------------
+Licentie: Jh-54339Zg
+SSN: 043-9748222-28
+Rekening#: PTwaUB-108
+Biometrische ID: 06827 3365
+IP-adres: 99.69.8.86
+Voertuig Info: 67TM5
+Locatie-Overig: apotheek
+Organisatie: Sweeney Inc
+Beroep: Productiesystemen ingenieur
+URL: richardson.peters.moyer.net
+Fax: 315-367-8976x8971"
+

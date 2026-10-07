@@ -1,0 +1,63 @@
+"**Nota di Osservazione Infermieristica** 
+
+**Breve Panoramica Medica di Andreas Schmid**
+
+- **Data di Valutazione**: 16/02/07
+- **Principale Reclamo**: \"Mi sento debole e dolorante ultimamente, e le mie articolazioni fanno male...\"
+
+**Segni Vitali**: 
+1. **Pressione Sanguigna (BP)**: 123/80 mmHg
+2. **Frequenza Cardiaca (HR)**: 78 bpm
+3. **Frequenza Respiratoria (RR)**: 16 respiri/min
+4. **Temperatura**: 36.7\u00b0C
+5. **Saturazione di Ossigeno (SpO2)**: 98%
+
+**Valutazione Preliminare**: Possibile artrite
+
+**Osservazioni Degne di Nota**:
+
+- **Livello di Attività**: Diminuito
+- **Scala del Dolore**: 5/10 
+- **Umore**: Ansioso per il dolore articolare
+- **Mobilità**: Limitata a causa del dolore articolare
+- **Risposta al Farmaco**: In attesa degli effetti degli analgesici prescritti
+
+**Dettagli Personali del Paziente**:
+
+- **Età**: 55
+- **Indirizzo**: Andreas Schmid, 836 Kelli Knolls 179, 5187 Http://Www.Misterimprese.It/Friuli-Venezia-Giulia/Pordenone/Pordenone, Svizzera
+- **Contatto**: 001-910-286-6936 / tm@unicef.org
+- **Contatto di Emergenza**: 001-910-286-6936
+- **Ospedale Preferito**: Grand Cordon
+- **Piano Sanitario**: OBR
+
+**Riferimento Rapido alla Storia del Paziente**: 
+
+- **Numero di Cartella Clinica**: 009 0827jK
+- **Numero di Conto**: NhB 730098
+- **BioID**: sGCvd qPLy
+- **Dispositivo**: cU 25542sy
+- **Professione**: Giornalista, broadcasting
+- **Organizzazione Affiliata**: Shelton LLC
+
+**Informazioni di Contatto del Team di Cura**:
+
+- **Medico di Medicina Generale**: Fritz Schmid 
+- **Contatto**: 001-910-286-6936, tm@unicef.org
+- **Medico di Riferimento**: Fritz Schmid
+- **Contatto**: 001-910-286-6936, tm@unicef.org
+
+**Ulteriori Informazioni Rilevanti**:
+
+- **Indirizzo IP del Login al Portale del Paziente**: 25.217.195.146
+- **Nome Utente sul Portale del Paziente**: 496AxDDJ
+- **Identificativo del Veicolo**: 406KHG
+- **Numero di Previdenza Sociale**: XBEEDL95H65V283A
+- **Numero di Licenza**: qgNmQw bXH
+- **Altro Numero Identificativo**: NhB 730098
+- **Paziente Localizzato a**: biblioteca
+- **Codice Postale del Paziente**: 5187 
+- **Numero di Fax**: (380)797-9486x545
+
+**Disclaimer**: Questa nota è solo per riferimento e non ha alcun valore clinico o diagnostico. Deve essere utilizzata nel contesto di un'assistenza al paziente completa."
+

@@ -1,0 +1,68 @@
+"---Nurse Scratch Note---
+
+**PH I: Anthony Pinfold** 
+
+- Temp: 102 F 
+- Paleness: Yes 
+- Unwell: Complaints of feeling unwell
+- Diagnosis: Possible malaria
+
+**PH II: Anthony Pinfold's Recent Vitals**
+
+- Pulse: 86 BPM 
+- Resp: 22 Breaths/min
+- BP: 120/80 mmHg
+- O2 Sat: 95%
+
+**PH III: Progress Notes**
+
+- Timeline: Admitted at Sat:Oct:30:2010
+- Assigned Ethan Ouellet 
+- Anthony Pinfold's Mayflower Community Congregational Church record: 3803 46012
+- Anthony Pinfold's unique ID: 021924 jzS
+- Complaints: High temperature, feeling unwell 
+
+**PH IV: Other Observations**
+
+- Slight jaundice observed 
+- Blood test: Suggestive of malaria 
+- Anthony Pinfold reports recent travel to beach
+
+**PH V: Contact and Additional Info**
+
+- Contact: 726.377.9127x9919
+- Emergency contact: hanl@microsoft.org
+- Permanent: Anthony Pinfold, 27 Cul, Relocatability, 57 9235, United States
+- Current: Ethan Ouellet, 63 Protocolization, Joking, 70 6244, United States
+- Anthony Pinfold's insurance 021924 jzS with HfkFp8
+
+**PH VI: Device and Additional ID**
+
+- Monitoring with device NXyR-eKOfw
+- Social Security: 235-22-7053
+
+**PH VII: Medication and Discharge**
+
+- Antimalarial medication prescribed 
+- Expected discharge: Sat:Oct:30:2010
+
+**Staff Signature: Gp1MQnNd**
+
+**End of Note**
+
+---Attachments---
+
+- Scan of the Patient's License: aHpT-5620q
+- Biometric ID Hash: iKP gbuxJa
+- IP Address of Remote Access: 103.48.106.86
+- Vehicle details: 77O 624
+- Patient's Place of Employment: Collins Inc
+- Associated Email Address: hanl@microsoft.org
+- Referral details: https://www.wilson.com/explore/tags/categorieslogin.html
+- Fax Contact: 819-339-4676x937
+- Logged by: Gp1MQnNd
+- Access by: Materials engineer 
+
+---End of Document---
+"
+

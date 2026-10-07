@@ -1,0 +1,42 @@
+"**Pflegebericht für Patienten mit Myokardinfarkt und vollständigem atrioventrikulärem Block**
+
+S: Patient Florian Fischer, ein zuvor gesunder Mensch, wurde mit Beschwerden im hinteren Thoraxbereich eingeliefert. Dies war angeblich das Ergebnis eines Sturzes auf einer rutschigen Oberfläche. Der Betroffene zeigte zwei Wochen nach der Erstuntersuchung neue Symptome, darunter Atembeschwerden und ein Gefühl von Ungleichgewicht.
+
+O: Die Erstuntersuchung ergab eine Hämoglobinkonzentration von 8,7 g/dL und ein Computertomogramm zeigte Hinweise auf ein Milzhämatom. Kardiale Untersuchungen und Proteinbiomarker waren zunächst normal. Allerdings zeigten wiederholte Untersuchungen ein stabiles Hämoglobin von 8 g/dL, erhöhte Proteinbiomarker, die auf 3 ug/L anstiegen, und normale Schilddrüsenhormon- und kardiale Peptidspiegel. Die anfängliche elektrische Aktivität des Herzens zeigte einen ersten Grad TnTd 772kr, der zu einem zweiten Grad (Typ TnTd 772kr) TnTd 772kr fortschritt und schließlich zu einem vollständigen Herzblock führte. Ein nuklearer Belastungstest zeigte einen Herzinfarkt. Eine Echokardiographie des Herzens durch die Brustwand zeigte eine Auswurffraktion von 60% ohne Anomalien in den Klappen oder der Wandbewegung.
+
+A: Bei dem Patienten wurde ein Herzinfarkt und ein vollständiger Block der elektrischen Aktivität im Herzen diagnostiziert, wahrscheinlich sekundär zum Trauma durch den Sturz. Der Herzinfarkt wurde durch Bildgebung und erhöhte Proteinbiomarker bestätigt.
+
+P: Der Patient wurde dringend mit einem dualen 1441 nilDF behandelt, um den vollständigen Block der elektrischen Aktivität im Herzen zu bewältigen und die Herzfunktion zu stabilisieren. Die Entlassung ist für den folgenden Tag geplant mit der Anweisung, die Symptome zu überwachen und regelmäßig nachzukontrollieren. Die Behandlung des Unbehagens durch das Milzhämatom und die routinemäßige Nachsorge nach der 1441 nilDF Implantation wurden ebenfalls empfohlen.
+
+**Fußzeile**
+Kontoinformationen: TnTd 772kr
+Adresse: Florian Fischer, Hildegart-Otto-Platz 4/8 2, 7819 Hallein, Belgien
+Alter: 65
+Bioid: KCw 055wFu
+Stadt: Steinfurt
+Land: Schweiz
+Datum: Donnerstag, 22. September 1983
+Arzt: Maxim Adam
+Email: Adaxim@microsoft.org
+Gesundheitsplan: 6v6v
+Krankenhaus: Flux
+ID-Nummer: TnTd 772kr
+IP-Adresse: 138.55.152.71
+Lizenz: COKa 57XuD
+Standort: Einkaufszentrum
+Medizinische Akte: 41-eILWBrC
+Organisation: Day PLC
+Patient: Florian Fischer
+Telefon: 606.276.5085x87201
+Beruf: Stabschef
+Sozialversicherung: 166-1515473-58
+Staat: Weende
+Straße: 040 Jason Stream
+URL:  knapp.com/posts/tags/exploreprivacy.html
+Benutzername: cherian
+Fahrzeug: 933 7XB
+PLZ: 7819
+Fax: 505.740.2194x20420
+
+**Ende der Notiz**"
+

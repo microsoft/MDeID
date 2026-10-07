@@ -1,0 +1,68 @@
+"Appunto di Infermieristica:
+
+--------------------------------------------
+Paziente ID: Nina Müller
+MRN: ikki-DvPio
+--------------------------------------------
+
+Segni Vitali:
+- Temp.: 38.5 Celsius
+- HR: 102 bpm
+- Resp.: 20 /min
+- BP: 135/85 mmHg
+- SpO2: 94%
+
+-------------------------------------------------
+Sintomi notevoli:
+- Stanchezza 
+- Dolori corporei
+- Tosse persistente
+- Mancanza di respiro
+
+Dx: Sospetto 
+--------------------------------------------------
+
+Tx Somministrato:
+- Somministrato O2: 2L tramite cannule nasali
+- Fluidi IV: 0.9% NaCl 1L
+- Somministrato Paracetamolo: 
+
+---------------------------------------------------
+Rx in sospeso:
+- Radiografia del torace
+- Coltura del sangue
+- CBC, CRP, 
+---------------------------------------------------
+
+Nota: 
+Il paziente Nina Müller si sente esausto. Si lamenta di dolori, tosse persistente, mancanza di respiro. Possibile polmonite, ulteriori test necessari per la conferma. 
+
+---------------------------------------------------
+Dati Aggiuntivi:
+
+Medico di riferimento: René Weber
+Piano Sanitario: AuHm7yV
+ID Dispositivo: 551161 560
+---------------------------------------------------
+
+Informazioni di Contatto:
+
+- Telefono: 949.572.0809
+- Email: née@yandex.com
+- Contatto di Emergenza: 
+
+---------------------------------------------------
+
+Osservazioni:
+uZX6GrIc da seguire dopo che i test sono completi. 
+Somministrare il trattamento come prescritto dal Dr. René Weber 
+
+---------------------------------------------------
+Hostname/IP: 81.188.26.97
+Connesso al Sistema Ospedaliero: Northumbria queen
+Professione: Organizzatore di eventi
+---------------------------------------------------
+
+Nota creata il: 18 dicembre 1972
+Nota revisionata da: uZX6GrIc"
+

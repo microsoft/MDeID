@@ -1,0 +1,50 @@
+"Nota de Doctor Scratch
+
+-----
+Félix Gómez, un varón de 4 años. 
+
+Quejas presentadas:
+Debilidad progresiva - ambas extremidades inferiores > extremidades superiores.
+Duración: 2 días.
+Inicio insidioso.
+Precedido por calambres musculares - 3 días.
+No alteración del sensorio, convulsiones, problemas de vejiga/intestino.
+
+Historia Médica Pasada:
+Episodios similares - debilidad, fatiga + hipokalemia - últimos 3 años.
+Se requirieron ingresos hospitalarios.
+Manejado como parálisis periódica hipokalémica previamente.
+
+Síntomas Adicionales:
+Caída bilateral de los párpados.
+Sensación de cuerpo extraño - ojos.
+Boca seca.
+No vómitos recientes, uso de diuréticos, alcohol, laxantes.
+
+Hallazgos del Examen:
+Potencia motora - Extremidades inferiores: 3/5, Extremidades superiores: 4/5. Grupos musculares proximales + distales.
+Reflejos tendinosos profundos - Disminuidos bilateralmente.
+No déficits sensoriales/anormalidades de los nervios craneales.
+Signos vitales dentro de los límites normales.
+Exámenes cardiovasculares, respiratorios, gastrointestinales, tiroideos - Sin particularidades.
+
+Hallazgos de Laboratorio:
+Hipokalemia severa - Nivel de potasio en suero: 1.6 meq/L (Normal: 3.5-5.5 meq/L)
+ECG - Bradicardia sinusal, Inversión global de la onda T, Onda U sutil.
+
+Evaluación:
+Diagnóstico Primario - Parálisis periódica hipokalémica - Desencadenante: Hipokalemia severa.
+Diferenciales - Miastenia gravis - Descartada por pruebas de anticuerpos negativas.
+Síntomas recurrentes + hipokalemia severa - Riesgos: Arritmias cardíacas, Debilidad muscular.
+
+Plan:
+Manejo inmediato - Suplementación de potasio IV @20 meq/hora - Corregir hipokalemia.
+Monitoreo cardíaco continuo - Debido a cambios en el ECG y riesgo de arritmia.
+Educar a Félix Gómez - Monitorear síntomas de debilidad/disturbios cardíacos.
+Seguimiento - Reevaluar los niveles de potasio + función motora después del tratamiento inicial.
+Referencia a Connor Williams (neurólogo) - Evaluación/Manejo adicional de la parálisis periódica hipokalémica.
+Consejo dietético - Ingesta de potasio + posibles desencadenantes de episodios hipokalémicos.
+
+Connor Williams
+"
+

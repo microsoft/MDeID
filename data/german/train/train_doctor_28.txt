@@ -1,0 +1,32 @@
+"Ärztliche Notiz
+
+Patient: Matteo Teichmann, ID: aNsM 16503, Alter: 104
+
+Hauptbeschwerde: Schnelles Wachstum von angeborenem Nävus, lumbosakrale Region. Seit der Geburt vorhanden, signifikante Veränderungen im vergangenen Jahr. Gemeldete Farbveränderung, unregelmäßige Ränder, gelegentliches Bluten und Schmerzen.
+
+Beobachtungen: 
+- 6 x 4-cm erythematöser Tumor, aktive Blutung auf 8,5 x 3-cm dunkelbrauner Platte
+- Über 20 melanozytische Läsionen dokumentiert (Ganzkörperfotografie, digitale Dermoskopie)
+- Oberflächlich spreitendes malignes epitheloides Melanom (lumbosakrale Biopsie)
+- Fluoreszenz in situ Hybridisierung: Positiv für RREB1, MYB, CCND1 in neuer Läsion
+- Chirurgischer Eingriff: Weite lokale Exzision, Sentinel-Lymphknotenbiopsie, Lappenrekonstruktion
+- Pathologie: Breslow-Tumordicke: 13 mm, Clark Level V, ausgedehnte Ulzeration, Mitosen: 10/mm2, negative Ränder, 6 von 20 Lymphknoten positiv für Metastasen
+- Genomische Tests: Keine BRAF-Mutationen festgestellt
+
+Bewertung: Stadium IIID Melanom (T4bN3aM0, AJCC 8. Auflage). Schnelles Wachstum, Ulzeration, signifikante Lymphknotenbeteiligung - aggressive Krankheit, ernste Prognose.
+
+Plan:
+- Behandlung: Interferon-\u03b1-2b eingeleitet (Hinweis: Toxizität in der ersten Woche der Induktionsphase beobachtet)
+- Überwachung: Regelmäßige Nachuntersuchungen zur Krankheitsprogression und Nebenwirkungsmanagement
+- Aufklärung: Bereitgestellt über Anzeichen von Rezidiv und Metastasen
+- Unterstützung: Psychologische Unterstützung zur Bewältigung der Diagnose
+
+Arzt: Jana Zimmermann, Lizenz: UYXb-kfTOa, Spezialität: Modedesigner
+
+Krankenhaus: Royal London und, Standort: Matteo Teichmann, Redlstr. 38 177, 2649 Parkstetten, Schweiz
+
+Kontakt: Telefon +1-248-788-9746x127, Email anammerman@un.org
+
+Ende der Notiz.
+"
+

@@ -1,0 +1,14 @@
+T1	PATIENT 53 69	Hanne Verstraete
+T2	PATIENT 312 328	Hanne Verstraete
+T3	PATIENT 507 523	Hanne Verstraete
+T4	PATIENT 709 725	Hanne Verstraete
+T5	PATIENT 889 905	Hanne Verstraete
+T6	PATIENT 972 988	Hanne Verstraete
+T7	PATIENT 1521 1537	Hanne Verstraete
+T8	DOCTOR 1707 1721	Lieke de Graaf
+T9	PATIENT 1855 1871	Hanne Verstraete
+T10	PATIENT 2112 2128	Hanne Verstraete
+T11	DOCTOR 2217 2231	Lieke de Graaf
+T12	MEDICALRECORD 2257 2267	Fujbg 9310
+T13	PATIENT 2297 2313	Hanne Verstraete
+T14	DOCTOR 2319 2333	Lieke de Graaf

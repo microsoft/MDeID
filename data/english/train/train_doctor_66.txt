@@ -1,0 +1,60 @@
+"[Doctor Scratch Note]
+
+Oliver King, Male, 21-week-old (37)
+__Symptoms:__
+* Progressive gait issues
+* Rigidity
+* Lower limb weakness
+* Urinary urgency (w/ incontinence)
+* Erectile dysfunction
+
+__Neuro Exam:__
+* Mild dysarthria
+* Spastic paraparesis
+* Wide-based spastic gait
+* Brisk deep tendon reflexes
+* Bilateral Achilles clonus
+* Babinski sign
+
+__MRI (Brain):__ 
+* Posterior commissure agenesis
+* Right fornix and ipsilateral mammillary body hypoplasia
+* Colpocephaly
+* Right frontal parasagittal cortical thickening
+* Periventricular nodular heterotopic foci
+* Venous drainage abnormalities
+
+__MRI (Spinal):__
+* Spinal cord atrophy
+
+__Neuropsych Evaluation:__ Normal
+__EEG:__ Normal
+__EMG:__ Normal
+__SEPs:__ 
+* Increased central conduction time
+* No response from right leg
+
+__MEPs:__ Absent in both legs
+__VEPs:__ Unremarkable
+__OCT:__ Unremarkable
+
+__Genetic Testing:__
+* Hemizygous mutation c.1394-2A > G in ABCD1 gene
+
+__Hematochemical Examination:__
+* Cortisol: Normal
+* ACTH: Elevated (352 pg/mL)
+
+__Diagnosis:__
+* X-linked adrenoleukodystrophy (x-ALD)
+* Subclinical adrenocortical insufficiency
+
+__Plan:__
+* Regular monitoring
+* Symptom management
+* Follow-ups with Brooklyn Tate (Neurologist) and Brooklyn Tate (Endocrinologist)
+* Patient education on x-ALD
+
+Brooklyn Tate
+"
+

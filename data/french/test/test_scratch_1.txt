@@ -1,0 +1,86 @@
+"**Note de grattage : Mise à jour de l'état du patient**
+
+---
+
+Patient : Fiona Simon
+
+Âge : 103
+
+---
+
+1. Plainte : Douleur sévère, région de l'estomac
+2. Observations : Transpiration, symptômes de fièvre 
+3. Signes vitaux : Temp (F) : 100.4, BP : 120/80, HR : 88, RR : 20
+4. Possible : Diagnostic de typhoïde
+
+---
+
+Prochaines étapes :
+
+1. Test sanguin - pour confirmer la typhoïde
+2. Fluides IV - réhydratation
+3. Médicament - antibiotiques pour la typhoïde
+
+---
+
+Informations sur le patient :
+
+- Dossier médical : 693001-tcG
+- Numéro de compte : fC vPOwkTW
+- Numéro d'identification : fC vPOwkTW
+
+---
+
+Informations sur le médecin :
+
+- Nom du médecin : Marcel Graf
+- Email : fMar@un.org
+
+---
+
+Informations sur l'hôpital :
+
+- Nom de l'hôpital : combining
+- Localisation : parc
+
+---
+
+Contact d'urgence :
+
+- Nom du contact : Fiona Simon
+- Numéro de téléphone : 849-696-0808x8654
+
+---
+
+Informations sur l'appareil :
+
+- ID de l'appareil : 680016-314
+- Adresse IP : 170.207.190.179
+
+---
+
+Informations sur l'assurance :
+
+- Plan de santé : fPI
+- Fournisseur du plan : Smith, Gonzalez et Phelps
+
+---
+
+Informations sur la licence :
+
+- Numéro de licence : 457 gTUcQS
+
+---
+
+Autres informations :
+
+- Numéro de sécurité sociale : 3 84 77 63 159 449
+- Plaque du véhicule : 143-UPD
+- Nom d'utilisateur : Fionai
+- ID biométrique : 84 28442iq
+- Fax : 6332808645
+
+---
+
+Veuillez noter que ce sont des observations et des actions préliminaires. Le diagnostic et le traitement ultérieurs seront déterminés après les résultats de laboratoire."
+

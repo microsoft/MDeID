@@ -1,0 +1,17 @@
+"Arzt Kratz Notiz
+
+S:
+Rania Dumont, 3, wiederkehrende Halsentzündungen. Fieber, Halsschmerzen, Nasenverstopfung und Husten - 5 Tage. Influenza Dx - Tag 1, verschriebenes Oseltamivir. D/C Medikation - Tag 3 aufgrund von Übelkeit und Erbrechen. Bauchschmerzen, Gelenkschmerzen (linkes Knie, rechter Knöchel, rechter Ellbogen), Lethargie, schlechter Appetit, dunkler Urin. Familiäre Situation - lebt mit Mutter und drei Geschwistern, keine ähnlichen Symptome.
+
+O:
+Notfallzentrum Untersuchung - Fieber (39,4\u00b0C), hypoton (78/47 mm Hg), tachypnoisch (Atemfrequenz 33/min), tachykard (Herzfrequenz 160/min). Körperliche Untersuchung - verkrustete Lippenläsionen, zervikale Lymphadenopathie, Nasenverstopfung, nicht eitrige Pharynxrötung, systolisches Murmeln, Hepatosplenomegalie, keine Anzeichen von Arthritis. Laborbefunde - normale weiße Blutkörperchenzahl (11.600/mm3), Thrombozytopenie (Thrombozytenzahl 36.000/mm3), Anämie (Hämoglobin 8,9 g/dL), Hypoalbuminämie (Albumin 1,9 g/dL), Proteinurie, sterile Pyurie, erhöhte Entzündungsmarker (C-reaktives Protein 182 mg/L, erhöhte Blutsenkungsgeschwindigkeit). Aufgenommen in Henei, pädiatrische Intensivstation, begonnen mit intravenösem Cefepime und Vancomycin.
+
+A:
+Schwere Symptome - systemische Infektion oder entzündlicher Prozess. Komplikationen - kürzliche Influenza-Diagnose, unerwünschte Reaktion auf antivirale Medikation. Differential Dx - Sepsis, postinfektiöse Komplikationen von Influenza, andere zugrunde liegende infektiöse oder autoimmune Erkrankung. Multi-System-Beteiligung - hämatologische Anomalien, Hepatosplenomegalie, erhöhte Entzündungsmarker. 
+
+P:
+Überwachung der Vitalzeichen, Laborwerte in Henei, pädiatrische Intensivstation. Beibehaltung von intravenösem Cefepime, Vancomycin, Anpassungen basierend auf Kulturergebnissen, klinische Reaktion. Unterstützende Pflege - Hydratation, Ernährung. Weitere diagnostische Untersuchungen - Blutkulturen, Echokardiogramm, mögliche Knochenmarkbiopsie (Ursache der Thrombozytopenie, Anämie). Regelmäßige Updates an die Familie von Rania Dumont, Aufklärung über die Behandlungsadhärenz, Überwachung der Symptome zu Hause nach der Entlassung. Konsultation von Anaïs Devos, Hämatologie, Infektionskrankheitsspezialisten für umfassendes Management.
+
+Anaïs Devos, Chief Technology Officer
+Perry-Underwood"
+

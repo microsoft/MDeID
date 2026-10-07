@@ -1,0 +1,32 @@
+"S: La paciente Mariana Soto, una individua de 86 años, presentó retención urinaria y tiene antecedentes de haber nacido prematura a las 86 semanas en México con un curso posnatal desconocido. Esta paciente ha sido diagnosticada con un leve retraso en el desarrollo motor grueso y actualmente muestra irritabilidad, disminución de la capacidad para soportar peso en las extremidades inferiores y no se informó de ningún trauma. El trabajador de ayuda/desarrollo internacional adoptivo ha estado cuidando a Mariana Soto desde su primera infancia.
+
+O: El examen físico reveló que el peso del paciente está por debajo del percentil 061-431258 con un ChyvTq-65C de -3.36. Mariana Soto muestra una fuerza de 0/5, hipotonía, arreflexia en las extremidades inferiores bilaterales, retraso significativo de la cabeza y cifosis torácica severa. La ecografía renal mostró hidronefrosis moderada bilateral y distensión de la vejiga. Los resultados de laboratorio indicaron un nivel normal de creatinina en 82995 36Ri mg/dl, cultivo de orina positivo para Enterococcus faecalis >100,000 UFC/mL, CBC y BMP no remarcables, TSH normal y creatinina quinasa elevada a >1200 U/L (seis veces el límite superior de lo normal). La TC y la RM de la columna vertebral revelaron una retrolistesis completa de la vértebra T12 con compresión marcada de la médula espinal.
+
+A: El diagnóstico principal es la compresión de la médula espinal secundaria a la retrolistesis de T12, que contribuye a la parálisis de las extremidades inferiores y la retención urinaria. Los diagnósticos diferenciales incluyen trastornos neuromusculares y posibles condiciones infecciosas o inflamatorias subyacentes, como lo indica la creatinina quinasa elevada. El pronóstico depende de la extensión del daño espinal y la respuesta al tratamiento.
+
+P: Se planea una consulta inmediata con el pediatra trabajador de ayuda/desarrollo internacional, trabajador de ayuda/desarrollo internacional y trabajador de ayuda/desarrollo internacional para evaluar la necesidad de intervención quirúrgica y manejar la retención urinaria. Se realizarán más pruebas diagnósticas para evaluar la extensión del daño muscular y las posibles causas subyacentes. El paciente será monitoreado de cerca para detectar cambios en el estado neurológico y la función renal. Se proporcionará educación a los padres sobre la condición, las opciones de tratamiento y los requisitos de cuidado para asegurar la comprensión y el cumplimiento del plan de tratamiento.
+
+Información adicional:
+- Cuenta del Paciente: 061-431258
+- Dirección del Paciente: Mariana Soto, Callejón Sinaloa 688 239, 39, 3244 Rentería, España
+- Ciudad del Paciente: Rentería
+- Estado del Paciente: Asturias
+- País del Paciente: México
+- Código Postal del Paciente: 3244
+- Email del Paciente: aBeléto@aol.com
+- Número de Teléfono del Paciente: 001-879-304-7734x6432
+- Número de Fax del Paciente: 448-945-6907x8565
+- Nombre de Usuario del Paciente: YHlHdRhT
+- Número de Seguridad Social del Paciente: 42641354F
+- Número de Licencia del Paciente: 99291-7567
+- Dirección IP del Paciente: 93.155.207.202
+- Identificador del Vehículo del Paciente: 4WD6647
+- Fecha de Nacimiento del Paciente: 4 de diciembre de 1992
+- Nombre del Doctor del Paciente: Ana Belén Pastor
+- Nombre del Hospital del Paciente: Jacobs Collins
+- Plan de Salud del Paciente: q5yDFeqB uLXrlg
+- Ubicación del Paciente: parada de autobús
+- Organización del Paciente: Avila, Brown and Powers
+- Nombre de la Calle del Paciente: 3390 Perez Motorway
+- URL del Paciente: https://shields.com/wp-contentprivacy.php"
+

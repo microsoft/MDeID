@@ -1,0 +1,44 @@
+"--:: NOTE DE L'INFIRMIÈRE, CODE : 2240 EhciR ::--
+
+- Pt. Alexis Paquette - suspicion de varices
+- Données pertinentes :
+    - Signes vitaux : TA 130/80 mmHg, FC 72 bpm, TEMP 98.6F, SpO2 98%
+    - Ambulatoire, pas de détresse
+    - Inspection des jambes - veines anormales présentes
+
+-- \u221a Évaluation & Plan --
+
+Ergonome signale des veines inhabituelles - Jambes
+- Surveillance de la progression
+- Envisager une référence à Caroline Carlier
+- Thérapie VI ?
+
+--:: Proche Parent ::--
+Nom : Alexis Paquette
+Relation : Fils
+Contact : 7243022024
+Adresse : Alexis Paquette, 86 735 Gaëlle Port Apt. 520, 0759 Grimaud, France
+
+--:: Info Numérique ::--
+Adresse IP : 213.180.175.116
+Nom d'utilisateur : ttelexi
+
+--:: Info Urgence ::--
+Plan de santé : Qs78Pqm2b
+Licence : IqLcN ouib
+BioID : nhpE cFUqq
+
+--:: Signes Vitaux - Info Appareil ::--
+Appareil : 2966-7838L
+ID : zZr 6541fF
+
+Pied de page :
+Référence à South Wales Free
+Pris en charge par- Caroline Carlier
+Le- 26 oct. 2023
+
+NOTES :
+Signes vitaux stables. Pas de préoccupation immédiate. Suivi le 26 oct. 2023.
+Risque professionnel possible. Lieu de travail : Prince PLC
+"
+

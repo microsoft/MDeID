@@ -1,0 +1,61 @@
+"------------Nota Rápida de la Enfermera------------
+
+[HOSPITAL: Wisconsin Peterson] | [FECHA: 12/5/11]
+[Cuenta: 350736-420]
+
+69 - Edad del paciente
+San Pedro Comitancillo - Ciudad actual de residencia
+2ZZE5tlU - para el portal del paciente
+
+**Signos vitales:**
+PA: 120/80 mmHg
+FC: 80 lpm
+Temp: 98.6 F
+FR: 16 respiraciones/min
+
+**Observaciones:**
+- Signos de incomodidad al orinar
+- Santiago Pacheco informó de micción frecuente
+- Recuento elevado de leucocitos - Posible infección
+
+**Evaluación:**
+Pos. ITU - Se requiere muestra de orina para 83292-qytG 
+
+**Plan:**
+Antibióticos prescritos por Hugo Garcés
+Seguimiento en una semana, programar a través del portal del paciente
+
+**Notas:**
+Se informó a Santiago Pacheco sobre la importancia de mantenerse hidratado
+
+**Información de Contacto de Emergencia:**
+Teléfono: 774-396-0867
+Teléfono de respaldo: 774-396-0867
+Correo electrónico: césg@zoho.com
+
+**Número de Registro Médico: EvRJR MilY**
+
+**Información del Dispositivo:**
+ID del dispositivo#: 77 41NKNdW
+
+**Otra Información:**
+Número de Seguridad Social#: 211-86-3537
+Profesión: Consultor de gestión
+Plan de Salud: McjOzGYoBcUQC1fb
+Ubicación distinta al hogar: gimnasio
+
+**Firma**
+Enfermera [Nombre de usuario: 2ZZE5tlU]
+
+---------------------------------- Pie de página ----------------------------------
+[DIRECCIÓN IP: 190.13.81.2]
+[ORGANIZACIÓN: Flores and Sons]
+[URL: rodriguez-barnes.white-spencer.com]
+[CÓDIGO POSTAL: 64422]
+[ESTADO: 90]
+[VEHÍCULO: 391 8AS]
+[CALLE: 525 Sarah Ways]
+[LICENCIA: 02090-9776]
+[FAX: 460-935-5630]
+[NÚMERO DE IDENTIFICACIÓN: 350736-420]"
+

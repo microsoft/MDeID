@@ -1,0 +1,93 @@
+"NURSE SCRATCH NOTES
+
+---------------------------------------------
+PATIENT'S QUICK ID: 48-649133h
+NAME: Logan Pelletier
+
+---------------------------------------------
+VITALS:
+- Temperature: 100.4 F 
+- Pulse: 88 BPM 
+- Blood Pressure: 120/80 mmHg
+- Respiration: 16 breaths per minute 
+- Oxygen Saturation: 96% 
+
+---------------------------------------------
+SYMPTOMS:
+- Feverish 107-years-old: Yes, high
+- Chills: Yes
+- Perspiration: Moderate
+- Fatigue: Yes
+- Malaise: Yes
+
+---------------------------------------------
+POSSIBLE DIAGNOSIS:
+- Malaria suspected, awaiting confirmation from lab
+
+---------------------------------------------
+LAB REQUEST: ucraryU0
+- Blood Smear Test for Malaria Parasites
+
+---------------------------------------------
+TREATMENT PLAN:
+- Initial treatment started: Antimalarial drugs 
+- IV fluids administered for dehydration
+
+---------------------------------------------
+ADDITIONAL NOTES:
+- Travelled to malaria-endemic gym two weeks before symptoms onset
+
+---------------------------------------------
+CONTACT INFO:
+- Phone Contact: 564-912-5655
+- Email Contact: aci@gmail.com
+
+---------------------------------------------
+EMERGENCY CONTACT:
+- Name: Logan Pelletier
+- Contact: 564-912-5655
+
+---------------------------------------------
+DOCTOR ON DUTY: Jacob Girard
+
+---------------------------------------------
+TREATMENT FACILITY: St. Malo Pierre
+Address: Logan Pelletier, 123 Salivas, Araneidal, Hikuli 7798, New Zealand
+IP Address for Remote Check: 154.77.166.64
+
+---------------------------------------------
+HEALTH INSURANCE: AlRN
+Account Number: 765959 850
+
+---------------------------------------------
+ORGANIZATION: Clark Group
+Profession: Holiday representative
+
+---------------------------------------------
+Device used for checking vitals: UYhwnO 031
+License Number of the Device: RIPh-lukLR
+
+---------------------------------------------
+Unique Identifier: 765959 850
+Social Security Number: 205-621-303
+
+---------------------------------------------
+BIOMETRICS DATA: 8498 324OF
+VEHICLE: FSE-175 used for transporting the patient.
+
+---------------------------------------------
+[Nurse's Digital Signature ucraryU0]
+
+---------------------------------------------
+NOTES GENERATED ON: Feb/2015
+
+---------------------------------------------
+URL for accessing patient's medical records: taylor.com
+
+---------------------------------------------
+FAX: 001-822-557-8629x1989
+ZIP: 7798
+CITY: Hikuli
+STATE: 104
+COUNTRY: Canada"
+

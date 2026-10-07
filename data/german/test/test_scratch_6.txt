@@ -1,0 +1,43 @@
+"\"Kratznotizen: Damian Braun\"
+
+Vitalwerte:
+- BP: 140/90
+- HR: 85
+- Temp: 98.6
+- Resp: 12
+- SpO2: 97%
+
+Beobachtungen:
+- Probleme mit der Wundheilung, Schwerpunkt - Füße
+- Taubheitsgefühl gemeldet, Bestätigung der 6201 51063 Messungen
+- 105, Diabetes vermutet, benötige Testergebnisse, Referenznummer QUuanF mcc
+
+Behandlung:
+- Insulin R48wgiRL, Dosierung ref. 1821 16234
+- Wundpflege-Regime eingeleitet, abgeschlossen bis Sonntag, 4. Februar 2007
+
+Plan:
+- Glukoseüberwachung aufrechterhalten, Geräte-ID - 6201 51063
+- Ernährungsberatung durch Maila Vogel
+- Nächste Wundbeurteilung fällig Sonntag, 4. Februar 2007
+
+Notfallkontakt:
+- Name: Damian Braun
+- Beziehung: Make
+- Telefon: 001-627-746-0066x2846
+- Email: al@yandex.com
+
+Zugewiesene Fachleute:
+- Pflegekraft: Maila Vogel
+- Physiotherapeut: Maila Vogel
+- Ernährungsberater: Maila Vogel
+
+Zusätzliche Informationen:
+- Wohnort: Damian Braun, Junckenallee 7 145, 9662 Neuburg am Inn, Deutschland
+- IP-Adresse für Fernüberwachung: 166.198.71.228
+- Fahrzeug für Transport: 665 FHN
+- Krankenversicherung: OVUHTU6nJQ
+
+Notiz von: Maila Vogel, Lizenz Nr.: DcE-9682je
+Datum: Sonntag, 4. Februar 2007"
+

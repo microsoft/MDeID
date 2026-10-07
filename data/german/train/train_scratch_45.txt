@@ -1,0 +1,69 @@
+"===================
+PATIENTENINFORMATION
+===================
+-Patientenname: Fritz Huber
+-Benutzername: jkDewaV0
+-Adresse: Fritz Huber, Killerweg 234 37, 3012 Frauenfeld, Deutschland
+-Telefon: +1-801-733-9658x791
+-Email: Sai@hotmail.com
+-Geburtsdatum: 17.01.1990
+-Sozialversicherungsnummer: 11 656 564 093
+-Konto: 73758 6244
+
+===================
+MEDIZINISCHE DATEN
+===================
+-Krankenhaus: Scotland and
+-Arzt: Sara Frei
+-Medizinische Akte: YuULS hpDP
+-Gesundheitsplan: P1Qy
+-IDNUM: 73758 6244
+-Gerät: TLNHQ-XZUf
+-LIZENZ: bvtq JQzUG
+-IPADRESSE: 4.37.18.159
+-BIOID: 19-99YsDqp
+
+===================
+VITALWERT
+===================
+-Temperatur: 98.4 F
+-Puls: 78 bpm
+-Atmung: 22 rpm
+-Blutdruck: 120/80 mmHg
+
+===================
+BEOBACHTUNGEN
+===================
+- Allgemeines Erscheinungsbild: Patient berichtet weiterhin über ein juckendes Gefühl am ganzen Körper. 
+- Haut: Blass, verschiedene rote Flecken über den Torso
+- Augen: Gelbsucht bemerkbar 
+
+===================
+BEURTEILUNG
+===================
+-Wahrscheinliche Malaria, Blutausstrich angefordert an Barker, Banks und Alexander. 
+-Warte auf Antwort vom Labor bei Bank zur Bestätigung der Diagnose.
+
+===================
+PLAN
+===================
+-Fortgeschrittene Malariatherapie wie von Sara Frei vorgeschlagen 
+-Bluttransfusion falls nötig
+-Nachfolgekonsultation nach Ergebnis von Barker, Banks und Alexander
+
+===================
+ZUSÄTZLICHE INFORMATIONEN
+===================
+-Fahrzeug des Patienten: NXE-8569
+-Beruf: Telekommunikationsforscher
+-Notfallkontakt des Patienten: Fritz Huber
+-Notfallkontakt Telefon: +1-801-733-9658x791
+
+===================
+Fußzeile
+===================
+E-Signatur des Arztes: Sara Frei
+Zeitpunkt der Fertigstellung: 17.01.1990
+URL des Krankenhauses:  www.jones-fisher.org/appauthor.html
+Fax des Krankenhauses: 001-883-298-0231x779"
+

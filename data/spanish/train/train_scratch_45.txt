@@ -1,0 +1,69 @@
+"===================
+INFORMACIÓN DEL PACIENTE
+===================
+-Nombre del paciente: Sofía Delgado
+-Nombre de usuario: yPv1R3Sz
+-Dirección: Sofía Delgado, Corredor Norte Calvillo 360 Interior 125, 170, 5505 Malvinas Argentinas, Spain
+-Teléfono: 001-239-465-8791x6583
+-Correo electrónico: ay@zoho.com
+-Fecha de nacimiento: 14 abr 2015
+-Seguridad Social: 338-86-5519
+-Cuenta: 44-IqbJBVi
+
+===================
+DATOS MÉDICOS
+===================
+-Hospital: Ponce Presbyterian Hospital
+-Doctor: Katalin Nagy
+-Historial médico: SjWkKu-644
+-Plan de salud: bxa
+-Número de identificación: 44-IqbJBVi
+-Dispositivo: 17-pFuJBVi
+-LICENCIA: 5913 DPPvs
+-Dirección IP: 7.69.191.80
+-BIOID: pTLNHQ-XZU
+
+===================
+SIGNOS VITALES
+===================
+-Temperatura: 98.4 F
+-Pulso: 78 bpm
+-Respiración: 22 rpm
+-Presión arterial: 120/80 mmHg
+
+===================
+OBSERVACIONES
+===================
+- Apariencia general: El paciente continúa informando una sensación de picazón en todo el cuerpo. 
+- Piel: Pálida, varias manchas rojas en el torso
+- Ojos: Ictericia notable 
+
+===================
+EVALUACIÓN
+===================
+-Probable Malaria, se solicitó frotis de sangre a Flores-Davis. 
+-Esperando respuesta del laboratorio en supermercado para confirmar el diagnóstico.
+
+===================
+PLAN
+===================
+-Avanzar con la terapia para la malaria como sugirió Katalin Nagy 
+-Transfusión de sangre si es necesario
+-Consulta de seguimiento después del resultado de Flores-Davis
+
+===================
+INFORMACIÓN ADICIONAL
+===================
+-Vehículo del paciente: 4SW U00
+-Profesión: Redactora publicitaria
+-Contacto de emergencia del paciente: Sofía Delgado
+-Teléfono de contacto de emergencia: 001-239-465-8791x6583
+
+===================
+Pie de página
+===================
+Firma electrónica del doctor: Katalin Nagy
+Hora de finalización: 14 abr 2015
+URL del hospital: http://andersen.com/listcategory.asp
+Fax del hospital: 001-831-977-9600x5448"
+

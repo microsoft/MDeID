@@ -1,0 +1,32 @@
+"Dokters Kladblok
+
+Patiënt: Julien Beckers, ID: PAkWjY-982, Leeftijd: 12
+
+Primaire klacht: Snelle groei van aangeboren nevus, lumbosacrale regio. Aanwezig vanaf de geboorte, aanzienlijke veranderingen in het afgelopen jaar. Gemelde kleurverandering, onregelmatige randen, incidenteel bloeden en pijn.
+
+Observaties: 
+- 6 x 4-cm erythemateuze tumor, actief bloeden op 8.5 x 3-cm donkerbruine plaat
+- Meer dan 20 melanocytische laesies gedocumenteerd (totale lichaamsfotografie, digitale dermoscopie)
+- Oppervlakkig verspreidend maligne epitheloïd melanoom (lumbosacrale biopsie)
+- Fluorescentie in situ hybridisatie: Positief voor RREB1, MYB, CCND1 in nieuwe laesie
+- Chirurgische interventie: Brede lokale excisie, schildwachtklierbiopsie, flapreconstructie
+- Pathologie: Breslow's tumordikte: 13 mm, Clark Level V, uitgebreide ulceratie, mitosen: 10/mm2, negatieve marges, 6 van de 20 lymfeklieren positief voor metastase
+- Genomische testen: Geen BRAF-mutaties gedetecteerd
+
+Beoordeling: Stadium IIID melanoom (T4bN3aM0, AJCC 8e editie). Snelle groei, ulceratie, aanzienlijke lymfeklierbetrokkenheid - agressieve ziekte, ernstige prognose.
+
+Plan:
+- Behandeling: Interferon-\u03b1-2b gestart (opmerking: toxiciteit waargenomen in de eerste week van de inductiefase)
+- Monitoring: Regelmatige follow-ups voor ziekteprogressie en bijwerkingenbeheer
+- Educatie: Voorzien van tekenen van terugval en metastase
+- Ondersteuning: Psychologische ondersteuning voor het omgaan met de diagnose
+
+Dokter: Willem Post, Licentie: 420 162651, Specialiteit: Meubelconservator/restaurateur
+
+Ziekenhuis: Monsp, Locatie: Julien Beckers, Texases 43, 1284 Hypermeter, Nederland
+
+Contact: Telefoon (912)670-8575x6979, Email stlem@msf.org
+
+Einde van de notitie.
+"
+

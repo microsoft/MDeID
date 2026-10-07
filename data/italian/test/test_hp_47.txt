@@ -1,0 +1,66 @@
+# Nota di Anamnesi e Esame Fisico
+
+**Sezione Reclamo Principale e Motivo della Visita**
+
+Mia Zimmermann si presenta con un reclamo principale di dolore addominale ricorrente e episodi associati di nausea e vomito. La condizione è stata persistente, spingendo alla necessità della visita attuale.
+
+**Sezione Storia della Malattia Attuale**
+
+Mia Zimmermann ha una lunga storia con i sintomi sopra menzionati, che sono stati coerenti con la colecistite. La gravità e la frequenza del dolore sono progressivamente aumentate negli ultimi mesi.
+
+**Anamnesi Medica Precedente**
+
+Mia Zimmermann non ha una storia nota di altre malattie significative. Non c'è una precedente diagnosi di diabete, ipertensione o qualsiasi malattia cardiovascolare.
+
+**Sezione Medicazioni**
+
+Mia Zimmermann occasionalmente prende farmaci antidolorifici da banco per il dolore addominale. Nessun altro farmaco è stato prescritto dal Riccardo Rizzi o da qualsiasi altro professionista sanitario.
+
+**Sezione Revisione dei Sistemi**
+
+Il sistema gastrointestinale è particolarmente notevole con descrizioni di dolore acuto, crampi nell'addome superiore, che spesso si irradia alla schiena. Il paziente menziona anche episodi episodici di nausea e vomito. Ci sono stati episodi intermittenti di anoressia.
+
+**Sezione Esame Fisico**
+
+All'esame, il paziente ha sensibilità nel quadrante superiore destro dell'addome. Nessun ingiallimento della pelle o della sclera. I segni vitali sono stabili con una pressione sanguigna di 120/80, frequenza del polso di 72 bpm e una temperatura di 37,2 gradi Celsius.
+
+**Sezione Valutazione e Piano**
+
+I sintomi presentati da Mia Zimmermann e i risultati dell'esame fisico sono indicativi di colecistite. Sono stati raccomandati test di laboratorio e studi di imaging per una diagnosi concreta. Se confermato, dovrebbe essere considerata una consultazione con un gastroenterologo per la possibile rimozione del calcolo biliare.
+
+**Sezione Storia Familiare**
+
+Non c'è una storia familiare nota di colecistite o altre malattie gastrointestinali significative. Nessun disturbo genetico noto nella famiglia.
+
+**Sezione Storia Sociale**
+
+Mia Zimmermann è una non fumatrice, e l'uso di alcol è minimo. L'esercizio fisico regolare fa parte della routine del paziente, e le abitudini alimentari sono generalmente sane con indulgenze occasionali.
+
+**Sezione Allergie e Intolleranze**
+
+Il paziente non ha allergie ai farmaci o intolleranze alimentari note.
+
+**Sezione Segni Vitali**
+
+BP: 120/80, Pulse: 72 bpm, Temperatura: 37.2°C
+
+**Sezione Risultati**
+
+In attesa di risultati di laboratorio e di imaging. In base a questi, sarà determinato il piano di trattamento.
+
+**Sezione Istruzioni**
+
+A Mia Zimmermann è consigliato di mantenere una dieta a basso contenuto di grassi ed evitare cibi trigger. I farmaci antidolorifici da banco possono essere assunti secondo necessità, ma un aumento della frequenza o della gravità dei sintomi dovrebbe richiedere un'attenzione medica immediata. Mia Zimmermann è anche consigliata di mantenere l'appuntamento di follow-up programmato e di aderire a tutti gli appuntamenti di laboratorio e di imaging.
+
+**MEDICALRECORD**: [Informazioni Mascherate]
+
+**DATE**: [Informazioni Mascherate] 
+
+**DOCTOR**: [Informazioni Mascherate] 
+
+**PATIENT**: [Informazioni Mascherate] 
+
+**ADDRESS**: [Informazioni Mascherate]
+
+**Nota Finale**: Questa nota di H&P è strettamente confidenziale ed è stata sviluppata sulla base dell'interazione con Mia Zimmermann e i giudizi clinici del Riccardo Rizzi.
+

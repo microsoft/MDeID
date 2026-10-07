@@ -1,0 +1,67 @@
+"## Note d'Infirmière : Progrès de Sophie Widmer 
+
+---
+**SIGNES VITAUX** 
+
+    - Température : 100.4 F 
+    - Pression artérielle : 120/80 
+    - Pouls : 85 bpm 
+    - Fréquence respiratoire : 18 bpm 
+    - Saturation en oxygène : 96% à l'air ambiant
+    
+**SYMPTÔMES**
+
+    - Sophie Widmer s'est plainte de fièvre
+    - Sophie Widmer a signalé des frissons 
+    - Sophie Widmer a eu des épisodes de vomissements 
+
+**HISTORIQUE ET OBSERVATIONS**
+
+    - Il a été noté que Sophie Widmer a voyagé à hôpital
+    - Sophie Widmer a déclaré que les membres de Norman, Russell et Stevens sont également tombés malades 
+    - Les résultats de l'examen suggèrent un paludisme
+
+**TRAITEMENT**
+
+    - Médicaments antipaludiques initiés
+    - Fluides IV en raison du risque de déshydratation
+    - Repos au lit conseillé
+
+**PLAN** 
+
+    - Réévaluer après 24 heures
+    - Informer Norman, Russell et Stevens 
+    - Test pour le paludisme 
+
+**INFO PERSONNELLE**
+
+    - Sophie Widmer 
+    - De Bréal sous Montfort, Mendoza
+    - Sur DvgmBGR
+    
+**INFO DE CONTACT**
+
+    - Contact d'urgence : Ranger/warden de Sophie Widmer au 426-241-4601x6247
+    - Appareil pour la communication : 342 gePWAP
+    - Adresse du domicile : Sophie Widmer, 796 montée Kevin 30, 5661 La Roche sur Yon, Belgique
+
+**COMMENTAIRE DE Kayla Gagné** 
+
+    - La situation du patient doit être étroitement surveillée
+    
+**NOTES SUR L'IDENTITÉ DE Sophie Widmer**
+
+    - Dossier médical : FkSHe-8258
+    - Compte : 16480-OiCY
+    - Sécurité sociale : 561955-2719
+    - Licence : GL 851ttoE
+    - ID biométrique : Ru-KRhGxeD
+    - Adresse IP de l'appareil : 163.249.2.115
+    - Nom d'utilisateur : 6gxAkol6
+    - ID du véhicule : YVZ 953
+    - Identifiant personnel : 16480-OiCY
+
+---
+
+*Note générée par le Système de Documentation Infirmière par Intelligence Artificielle.*"
+

@@ -1,0 +1,49 @@
+"Patient Care Report
+
+Dispatch 
+Emergency Medical Services (EMS) field unit 8SIC333 was dispatched to address Randy Hansen, 139 Fleecier, Unspot, Oustee 6519, New Zealand after a 911 call for a patient displaying flu-like symptoms. The dispatch call was received at time 12,23,2016 on our EMS system KiMiM LpRa.
+
+On Scene
+On arrival at the scene at time 12,23,2016, the EMS team led by the Emergency Medical Technician (EMT) Lucas Wong and paramedic Lucas Wong found the patient Randy Hansen in their home. The patient was in moderate distress, sitting on the couch and appeared fatigued. The scene was evaluated by the team and was deemed safe.
+
+Patient's Complaint and History
+Randy Hansen reported feeling extremely tired and had a sore throat. The symptoms started 12,23,2016. The patient's medical history was reviewed from their health record 334625-814 provided by their primary care physician Lucas Wong. It revealed no allergies and a history of similar mild, self-limiting, upper respiratory infections.
+
+Assessment
+Initial assessment by EMT Lucas Wong showed an alert and oriented patient with stable vital signs. However, the Randy Hansen appeared fatigued with a mild fever. Based on the symptoms and exam, the impression was a possible common cold infection. 
+
+Treatment
+Initial treatment included making the patient comfortable and providing advice to stay hydrated and rest. The patient was advised to take over-the-counter cold remedies to alleviate symptoms. Patient Randy Hansen was further advised to seek immediate medical attention if symptoms worsen or persist beyond a week.
+
+Transport
+The patient Randy Hansen was not transported to the hospital St Andrew's Day as they opted to remain at home based on the recommendation of EMT Lucas Wong.
+
+Documentation
+All patient interactions were documented in the patient's case file 334625-814. The patient was informed about the privacy practices and the data logged into the EMS system KiMiM LpRa is secure and compliant with HIPAA regulations.
+
+Follow-Up
+A follow-up was scheduled for 12,23,2016 to ensure the patient's wellbeing. The follow-up would be conducted via a phone call to the patient\u2019s registered phone number 001-867-561-3203x4506 by medical assistant Lucas Wong.
+
+Report submitted by:
+Emergency Medical Technician (EMT) Lucas Wong
+Identification Number IeAAOs-sSB
+Contact Email: asg@icloud.com
+Contact Phone: 001-867-561-3203x4506
+Website: perkins-moreno.martinez.com
+Organization: Wilson, Orr and Cooper
+Team's vehicle 8SIC333
+Patient's health plan Mpu
+Patient's profession Programmer, applications
+Patient's account number IeAAOs-sSB
+Patient's location-Other library
+Patient's license 8167 MDOCm
+Patient's BioID SFsR 3437V
+Patient's Username GjpkQeJp
+Patient's Social Security Number 242-281-749
+Patient's State 12
+Patient's Country New Zealand
+Patient's Zip 6519
+Patient's Fax 001-500-366-9373x184
+Patient's Street 3853 Robert Parkway Suite 125
+Patient's IP Address 14.81.121.224"
+

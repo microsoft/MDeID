@@ -1,0 +1,17 @@
+T1	PATIENT 109 125	Françoise Bébert
+T2	PATIENT 382 398	Françoise Bébert
+T3	HOSPITAL 403 414	Vincentians
+T4	DOCTOR 505 521	Lien Verstraeten
+T5	PATIENT 721 737	Françoise Bébert
+T6	PATIENT 943 959	Françoise Bébert
+T7	PATIENT 1315 1331	Françoise Bébert
+T8	PATIENT 1574 1590	Françoise Bébert
+T9	DOCTOR 1803 1819	Lien Verstraeten
+T10	PATIENT 1981 1997	Françoise Bébert
+T11	DOCTOR 2002 2018	Lien Verstraeten
+T12	PATIENT 2142 2158	Françoise Bébert
+T13	PATIENT 2204 2220	Françoise Bébert
+T14	PATIENT 2656 2672	Françoise Bébert
+T15	LOCATION-OTHER 2911 2916	stade
+T16	DOCTOR 3107 3123	Lien Verstraeten
+T17	PATIENT 3239 3255	Françoise Bébert

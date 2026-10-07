@@ -1,0 +1,43 @@
+"Nurse Narrative Note
+
+SUBJECTIVE: Patient Charlie Cote, previously diagnosed with 43879 8856 and having received stent placement, reports a recent discovery of a lung nodule during a chest radiograph. Subsequent tests including a CT scan and bronchoscopy revealed a 9 mm fatty endobronchial lesion in the bronchus intermedius and a 2 cm extraluminal fatty lesion in the right hilum. The patient underwent robotic-assisted resection of these lesions, which were found to be benign.
+
+OBJECTIVE: The patient underwent a right lower lobe superior segmentectomy, mobilization and division of the superior segmental branch of the pulmonary artery and bronchus using a vascular robot stapler, and removal of the hilar fatty tumor. Indocyanine green angiography was used to define the borders of the superior segment of the right lower lobe. Intraoperative bronchoscopy confirmed complete resection and revealed a large opening in the airway. Airway reconstruction was performed using 3-0 vicryl stay sutures.
+
+ASSESSMENT: The primary diagnosis is benign endobronchial and extraluminal fatty lesions in the right lung. The successful robotic-assisted resection and airway reconstruction indicate a positive immediate outcome. The absence of malignancy in the frozen section of both lesions is reassuring, though continued monitoring is necessary to ensure successful airway healing and to detect any potential complications early.
+
+PLAN: The patient is scheduled for follow-up appointments to monitor recovery and ensure successful airway reconstruction. The patient is advised to maintain a healthy lifestyle and report any new symptoms or concerns. Close monitoring by the healthcare team is essential to manage and prevent potential complications.
+
+Contact Information:
+Phone: 5996947731
+Email: ryo@icloud.com
+Fax: 968-926-4615
+
+Patient Details:
+DOB: 20 80
+Address: Charlie Cote, 71 Verbigerate, Taxidermy, 28 7442, Canada
+SSN: 704-129-222
+Username: tharli
+Medical Record Number: 43879 8856
+Insurance: xRqGl
+
+Healthcare Provider:
+Name: Henry Button
+Hospital: Umaid Bhawan Palace
+License: 02-735068w
+
+Network Details:
+IP Address: 28.249.171.146
+Device: tTwbz 875J
+URL: salazar-fletcher.keller.com
+
+Other Identifiers:
+Vehicle: 46B•598
+ID Number: ck-97gXTnG
+
+Biometrics:
+Biometric Identifier: 787666 AKi
+
+Location:
+Location-Other: bench"
+

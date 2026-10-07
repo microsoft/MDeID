@@ -1,0 +1,68 @@
+"---Nota de Enfermagem---
+
+**PH I: Diana Correia** 
+
+- Temp: 102 F 
+- Palidez: Sim 
+- Mal-estar: Queixas de se sentir mal
+- Diagnóstico: Possível malária
+
+**PH II: Últimos Sinais Vitais de Diana Correia**
+
+- Pulso: 86 BPM 
+- Resp: 22 Respirações/min
+- PA: 120/80 mmHg
+- Sat O2: 95%
+
+**PH III: Notas de Progresso**
+
+- Cronograma: Admitida em sexta-feira, 26 de outubro de 1984
+- Atribuído Carolina Lopes 
+- Registro de Diana Correia no Almack: 59630 isqL
+- ID única de Diana Correia: UNmcVz-avO
+- Queixas: Alta temperatura, sentindo-se mal 
+
+**PH IV: Outras Observações**
+
+- Observada leve icterícia 
+- Teste de sangue: Sugestivo de malária 
+- Diana Correia relata viagem recente para mercado
+
+**PH V: Contato e Informações Adicionais**
+
+- Contato: 211.684.3685x44346
+- Contato de emergência: pesaroli@yandex.com
+- Permanente: Diana Correia, R. Bernardo Ramos, 247 102, Inching, Itaguara - 2, I0NM93I5, Brasil
+- Atual: Carolina Lopes, Av do Mercado, 13 125, Causation, Iraucuba - 10, 8ZYVSEV3, Brasil
+- Seguro de Diana Correia UNmcVz-avO com swjnk2
+
+**PH VI: Dispositivo e ID Adicional**
+
+- Monitoramento com dispositivo vautkX-975
+- Segurança Social: 189.645.341-21
+
+**PH VII: Medicação e Alta**
+
+- Medicamento antimalárico prescrito 
+- Alta esperada: sexta-feira, 26 de outubro de 1984
+
+**Assinatura da Equipe: KOIlIBjS**
+
+**Fim da Nota**
+
+---Anexos---
+
+- Digitalização da Licença do Paciente: zODud 5241
+- Hash de ID Biométrico: dPg-kQMfty
+- Endereço IP de Acesso Remoto: 71.21.73.57
+- Detalhes do veículo: 4546
+- Local de Trabalho do Paciente: Harding-Page
+- Endereço de Email Associado: pesaroli@yandex.com
+- Detalhes de encaminhamento: https://www.kirby.net/explore/main/wp-contentfaq.html
+- Contato por Fax: 4918104944
+- Registrado por: KOIlIBjS
+- Acesso por: Engenheiro civil, contratante 
+
+---Fim do Documento---
+"
+

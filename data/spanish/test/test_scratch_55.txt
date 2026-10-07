@@ -1,0 +1,60 @@
+"**NOTAS DE LA ENFERMERA DE MEDIANOCHE**
+
+- Datos de signos vitales: 
+  PA: 130/80 
+  FC: 85 lpm 
+  FR: 16/min 
+  Temp: 98.6 F 
+  Sat O2: 97% 
+
+- Información del paciente: 
+  Nombre: Robert Szczepaniak
+  Edad: 26
+  Número de registro médico: 09868-agKl
+  
+- Observaciones: 
+  El paciente se queja de dolor estomacal ardiente, probable estrés del Asesor de salud y seguridad. 
+  Número de cama: 295920-ACw
+  Régimen de medicación actual: 295920-ACw
+
+- Consulta: 
+  Visita del Dr. Rosario Gallegos. 
+  
+- Estado: 
+  Estable, pero aún se queja del dolor. 
+
+- Tratamiento: 
+  Se administró la medicación prescrita. Se necesita ajuste del Vmdbw IgjK.
+
+- Sugerencias:
+  Se sugiere cita con gastroenterología. 
+  La enfermera 0iHs1gNS contactará a Jones, Smith y Bruce para seguimiento. 
+
+- Ubicación:
+  Habitación: estadio
+
+- Información de contacto: 
+  Correo electrónico: rillegos@unhcr.org
+  Teléfono: 497.382.1574
+
+- Otra información relevante:
+  Licencia: 9514-17uaa
+  Seguridad Social: 867-18-0988
+  Vehículo: 7JH5755
+  Dirección: Robert Szczepaniak, Glorieta Clara Sánchez 50 70, Kerrikerri, 29632 Nucleo, 48, Colombia
+  Ciudad: Nucleo
+  Estado: Michoacán de Ocampo
+  País: Argentina
+  Código Postal: 29632
+
+- Para su información: 
+  Dirección IP: 41.224.188.39
+  BioID: CDIf-76045
+  Plan de salud: qqqTOHC
+  
+*Nota: Use la URL rivera-warren.com para acceder a los registros de salud del paciente de forma remota.*
+
+Envíe un correo electrónico a rillegos@unhcr.org para cualquier consulta. Mantenga el fax: 640-290-5513x6745 a mano para comunicaciones urgentes. 
+
+*La enfermera 0iHs1gNS cerró la sesión.*"
+

@@ -1,0 +1,41 @@
+"**Doctor Scratch Note**
+
+Patient: Morgan Lavoie
+ID#: CMA-18281z
+DOB: 1 77
+Age: 2
+
+S:
+- Progressive breath shortness, orthopnea (3 months)
+- Morgan Lavoie reporting
+
+O:
+- Soft continuous murmur (left upper chest)
+- Crackles in lungs (basal, bilateral)
+- Radiography (Chest): mild cardiomegaly, mild pulmonary congestion
+- ECG: sinus rhythm (regular), no ischemia or myocardial infarction signs
+- Transthoracic echocardiography: LV (mildly dilated), left atrium (markedly dilated), LV ejection fraction (60%)
+- Tubular-like structure (interventricular septum), turbulent diastolic flow
+- Transesophageal echocardiography: RCA (markedly dilated), abnormal vessel (adjacent MPA), abnormal vessel emptying (posteromedial MPA), severe MR (restricted posterior leaflet), ventricular remodeling/mitral annular dilatation
+- Coronary angiography: ALCAPA (confirmed), left-to-right shunt, pulmonary-systemic blood flow ratio (1.4)
+- Coronary computed tomography angiography: ALCAPA (confirmed, retropulmonary ostium)
+
+A:
+- ALCAPA syndrome diagnosis (primary, confirmed)
+- Continuous murmur, cardiomegaly causes (differential, ruled out)
+
+P:
+- Multidisciplinary team discussion (plan)
+- Surgical intervention (optimal, coronary anomaly correction)
+- Patient/family information (condition, treatment options, potential complications)
+- Follow-up appointments (response monitoring, complications management)
+- Education (disease nature, complications signs, lifestyle adjustments)
+
+Physician: Keith Montgomery
+License: ZiXuE-738A
+Hospital: St. Louis University
+Phone: +1-248-969-7632x309
+Address: Morgan Lavoie, 186 Plotter, Gamostelic 92 7474, Australia
+Email: thm@outlook.com
+Fax: 247-241-1580x603"
+

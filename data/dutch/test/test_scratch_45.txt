@@ -1,0 +1,62 @@
+"# Verpleegkundige Kras Notitie 
+
+### Patiëntgegevens:
+    ======================================
+    Naam: Hanneke van der Wal
+    Leeftijd: 70
+    Sociale Zekerheid: 103770739
+    Ziekenhuis: San Antonio Scorpions
+    Behandelend arts: Rob Schipper
+    Medisch Dossier #: OA 61IZMNc
+    ======================================
+
+    |Vitale Tekens|
+    ---------------
+    B.P: 120/80 
+    Temp: 37 C 
+    Pols: 80 BPM 
+    Ademhalingsfrequentie: 16/min 
+    O2 Sat: 98%
+
+## Conditie:
+    - Aanhoudende hoest
+    - Ademhalingsmoeilijkheden
+
+## Observaties:
+    - Longgeluiden abnormaal
+    - Neusafscheiding aanwezig
+
+## Behandeling:
+    - Zoutnevel
+    - Hoestonderdrukkers
+
+    -------------------------------------
+
+### Aanvullende Informatie:
+    -------------------------------------
+    Zorgplan: Q8Avp7uL lrBlk
+    Adres: Hanneke van der Wal, Interthing 39, 2112 Hydrophile, België
+    Contact: 381.999.9474x3998
+    Noodcontact: 381.999.9474x3998
+
+    -------------------------------------
+
+## Andere Details:
+    -------------------------------------
+    Apparaat: 063068 lLN
+    BioID: 489-7478rH
+    IP Adres: 21.229.69.143
+    ID Nummer: tzP-67Vkya
+    Gebruikersnaam: 8oKzJOHB
+    Licentie: 862 856LLT
+    Voertuig: 94Z•685
+    -------------------------------------
+
+- Betrokken beroepen: Wetenschapper, onderzoek (levenswetenschappen)
+- Relevante Organisaties: Phillips, Johnson en Hensley
+- Andere Locaties: treinstation
+- Relevante Data: 15 aug. 1984
+- E-mail van de patiënt: rb@yahoo.com
+- URL: patterson.maddox.com
+- Fax: 675.286.2448"
+

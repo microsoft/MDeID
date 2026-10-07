@@ -1,0 +1,34 @@
+"Arzt Kratz Notiz
+
+Patient: Rania Smets, ID: WvZ-uvgEmx, Alter: 18
+
+S:
+Beschwerden beinhalten 4-tägiges Fieber, schmerzhafte Geschwüre, Kopfhautschwellung. Verminderter Appetit aufgrund von Symptomen. 
+
+O:
+GCS-Score: 15, Bewusstsein: Vorhanden
+Geschwüre: Vorhanden, Eiter: Vorhanden, Fistel: Vorhanden, Kopfhautschälung: Ja, Gesichtsschwellung: Ja
+Lab Ergebnis: Neutropenie (WBC: 2.39 \u00d7 10^9/l, Neutrophile: 0.25 \u00d7 10^9/l, Lymphozyten: 2.1 \u00d7 10^9/l)
+Entzündungsmarker: Erhöht (ESR: 101 mm/Stunde, CRP: 272 mg/dl)
+Eiterkultur: Positiv (Enterococcus faecalis, Escherichia coli)
+Blutkultur: Negativ, Urinkultur: Negativ
+CXR: Normal, Urinanalyse: Normal, CSF-Analyse: Normal
+Immunglobuline: Normal, T-Zell %: Normal
+Knochenmark: Promyelozyten/Myelozyten Reifungsstopp, Keine Malignität
+CT Kopf: Subkutanes Emphysem, Kopfhaut: Positiv, Hirnverletzung: Nein, Schädelbrüche: Nein
+
+A:
+Primäre Dx: Nekrotisierende Fasziitis der Kopfhaut, Sepsis
+Andere infektiöse Ätiologien: Ausgeschlossen
+
+P:
+Behandlung: Pentaglobin (0.5 g/kg), Antibiotika (Vancomycin, Meropenem, Metronidazol)
+G-CSF-Therapie: Ja (5 bis 15 \u00b5g/kg/Tag)
+Entlassung: Nach 46 Tagen
+Nachsorge: Regelmäßige Überwachung der Neutrophilenzahl und des allgemeinen Gesundheitszustands
+
+Betreuung durch: Alexander Lemmens, Lizenz: FbtXp-3241, Krankenhaus: Bar Inner Temple
+
+Kontakt über: Telefon 598-434-0759x92366, E-Mail: emmr@protonmail.com
+"
+

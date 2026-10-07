@@ -1,0 +1,41 @@
+"**Arzt Kratznotiz**
+
+Patient: Simone Auer
+ID#: 68518-8469
+Geburtsdatum: Mittwoch, 20. April 2022
+Alter: 74
+
+S:
+- Progressive Atemnot, Orthopnoe (3 Monate)
+- Simone Auer berichtet
+
+O:
+- Weiches kontinuierliches Murmeln (linker oberer Brustbereich)
+- Knistern in den Lungen (basal, bilateral)
+- Radiographie (Brust): leichte Kardiomegalie, leichte Lungenstauung
+- EKG: Sinusrhythmus (regelmäßig), keine Anzeichen von Ischämie oder Myokardinfarkt
+- Transthorakale Echokardiographie: LV (leicht erweitert), linker Vorhof (stark erweitert), LV Auswurffraktion (60%)
+- Röhrenartige Struktur (interventrikuläres Septum), turbulenter diastolischer Fluss
+- Transösophageale Echokardiographie: RCA (stark erweitert), abnormes Gefäß (angrenzendes MPA), abnormes Gefäßentleerung (posteromediales MPA), schwere MR (eingeschränktes hinteres Blatt), ventrikuläre Umgestaltung/Mitralklappenannulardilatation
+- Koronarangiographie: ALCAPA (bestätigt), Links-Rechts-Shunt, Verhältnis von pulmonalem-systemischem Blutfluss (1,4)
+- Koronare Computertomographie-Angiographie: ALCAPA (bestätigt, retropulmonales Ostium)
+
+A:
+- ALCAPA-Syndrom-Diagnose (primär, bestätigt)
+- Kontinuierliches Murmeln, Ursachen der Kardiomegalie (differential, ausgeschlossen)
+
+P:
+- Diskussion im multidisziplinären Team (Plan)
+- Chirurgischer Eingriff (optimal, Korrektur der koronaren Anomalie)
+- Patienten-/Familieninformation (Zustand, Behandlungsoptionen, mögliche Komplikationen)
+- Nachsorgetermine (Überwachung der Reaktion, Management von Komplikationen)
+- Bildung (Natur der Krankheit, Anzeichen von Komplikationen, Anpassungen des Lebensstils)
+
+Arzt: Marcel Roth
+Lizenz: 30-WNMrJAS
+Krankenhaus: St. Stephen's College, Delhi
+Telefon: (581)379-6622
+Adresse: Simone Auer, Huberweg 019 23, 8965 Am Pulverturm 1, 47669 Wachtendonk, Österreich
+Email: Roc@icloud.com
+Fax: +1-934-376-7255"
+

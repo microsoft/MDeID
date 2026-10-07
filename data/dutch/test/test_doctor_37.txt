@@ -1,0 +1,33 @@
+"Dokterskrabbel Notitie:
+
+Patiënt: Britt Renard
+ID: ZAn HxdrHw
+
+S: 
+19-jarige 45 man. Klachten: polydipsie, polyurie, spierzwakte, braken, tijdelijke verlamming. Duur: Meer dan een maand. Medische voorgeschiedenis: Negatief voor neuromusculaire, schildklier, auto-immuunziekten. Eerdere ziekenhuisopname: Ja, oorzaak- ernstige hypokaliëmie, metabole acidose. Symptoomveranderingen sinds laatste evaluatie: Geen gemeld.
+
+O:
+PHI: 1888 Minneapolis 
+Laatste opname: Gediagnosticeerd met ernstige hypokaliëmie, metabole acidose. pH 7.22, pCO2 26.0 mm Hg, HCO3 10.6 mmol/L, lactaat 7.1 mmol/L, base excess -15.6 mmol/L. 
+
+Huidige labs: 
+WBC 3.16 \u00d7 109/L, hemoglobine 74 g/L, aantal bloedplaatjes 128 \u00d7 109/L, natrium 140 mmol/L, chloride 108 mmol/L, kalium 3.18 mmol/L, calcium 1.89 mmol/L, creatinine 57.8 mmol/L, bicarbonaat 19 mmol/L, urinaire pH 6.5, urinair natrium 80 mmol/L, urinair kalium 18.68 mmol/L. 
+
+24-uurs urine test: 
+Natrium 320 mmol/24h, kalium 74.7 mmol/24h, calcium 12.24 mmol/24h, eiwit 988.00 mg/24h. 
+
+Serum en urinaire osmolaliteit: 
+303 en 158 mOsm/kg, respectievelijk. 
+
+Lichamelijk onderzoek: 
+Bleekheid.
+
+A:
+Primaire diagnose: Hypokaliëmie, geassocieerde metabole acidose. Differentiëlen: Renale tubulaire acidose, bijnierinsufficiëntie, gastro-intestinaal verlies van kalium. Tijdelijke verlamming, spierzwakte: Zorgwekkend voor periodieke verlamming, mogelijk secundair aan ernstige elektrolytstoornissen.
+
+P:
+Plan van aanpak: Monitor elektrolytniveaus, zuur-base balans. Dien kaliumsupplementen toe. Overweeg bicarbonaattherapie als metabole acidose aanhoudt. Verwijzing: Antoine Michel, Nefroloog voor verdere evaluatie van de nierfunctie, mogelijke tubulaire stoornissen. Adviseer patiënt: Houd je aan de behandeling en dieetaanbevelingen voor kalium. Vervolg: In één week om symptomen, labresultaten opnieuw te beoordelen. Bespreek beheersplan met patiënt, moedig melden van nieuwe symptomen of zorgen aan.
+
+Ondertekend:
+Antoine Michel"
+

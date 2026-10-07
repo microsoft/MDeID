@@ -1,0 +1,67 @@
+"**Note de l'infirmière**
+
+---------------------------------------------------------------
+**Rapport du patient**
+- Ruben Stevens
+- Dossier médical : 12-aYwWZHz
+- Âge : 53
+
+**Statistiques vitales**
+- TA : 130/85 mmHg
+- Pouls : 75 bpm
+- Resp : 20 bpm
+- Temp : 37.0 C
+
+**Progression du traitement**
+- Se plaint de difficultés à respirer, suspicion d'asthme bronchique.
+---------------------------------------------------------------
+
+**Observation**
+- Inspection de la peau : Normale
+- Palpation de la poitrine : Normale
+- Auscultation des poumons : Sifflements entendus
+
+**Investigations & Résultats**
+- Test spirométrique : À faire
+- Débitmètre de pointe : À faire
+---------------------------------------------------------------
+
+**Médicaments prescrits**
+- Bronchodilatateur : À administrer selon l'ordre du médecin
+- Stéroïdes : À administrer selon l'ordre du médecin
+
+**Divers**
+- Plan de santé : kmTl
+- Hôpital : Mansfield Town F.C. Stalybridge Celtic
+- Médecin : Nina Gillet
+
+**Prochaines étapes**
+- Signaler au médecin pour le test spirométrique
+- Administrer des bronchodilatateurs et surveiller la réponse
+- Garder le débitmètre de pointe au chevet
+
+**Contact d'urgence**
+- Téléphone : 001-285-781-5217
+- Email : etin@icloud.com
+
+---------------------------------------------------------------
+**Rappel & Rappel**
+- Nom d'utilisateur du patient : ntevens
+- Numéro de série de l'appareil : mL TJOwlqk
+- Compte : 45-6108GjH
+- Sécurité sociale : 574-4360383-39
+
+---------------------------------------------------------------
+**Pied de page**
+- Licence : zAHdPj 36s
+- ID Bio : 2965 32679
+- Adresse IP : 202.29.216.171
+- Emplacement : salle de sport
+- Véhicule : KBU5687
+- Numéro d'identification : 45-6108GjH
+- Adresse : Ruben Stevens, 129 69844 montée Bégin Apt. 224, 2433 Levallois Perret, France
+- Profession : Thérapeute, sports
+- Organisation : Thompson, Yu and Campbell
+- Fax : (307)372-6602x383
+---------------------------------------------------------------"
+

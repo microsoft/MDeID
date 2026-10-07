@@ -1,0 +1,66 @@
+"Krankenschwester Scratch Note:
+
+Patient: René Schmid
+Alter: 50
+
+---------------------------
+| Vitalwerte               |
+---------------------------
+| BP: 112/80              |
+| HR: 78                  |
+| RR: 16                  |
+| Temp: 37.1C             |
+| SPO2: 98%               |
+---------------------------
+
+Scratch note:
+Allgemeines Unwohlsein, berichtet von einem \"juckenden\" Gefühl. Patient könnte eine Pilzinfektion eingefangen haben. Untersuchung notwendig. Konstantin Meyer darüber informiert. Verschreibungspflichtige Medikamente überprüft. 
+
+---------------------------
+| Zusätzliche Beobachtungen |
+---------------------------
+| Haut: Rötung            |
+| Ausschlag: Ja           |
+| Juckreiz: Hoch          |
+---------------------------
+
+---------------------------
+| Kontakt Details         |
+---------------------------
+| Email: yen@outlook.com          |
+| Telefon: 996-868-6944          |
+| Adresse: René Schmid, Täscheallee 0/0 133, 9385 Dietfurt, Switzerland      |
+---------------------------
+
+---------------------------
+| Patienten ID Details    |
+---------------------------
+| MRN: CP-hxBQgSm    |
+| Konto: wbYX SQvuA      |
+| SSN: 537-6526541-64   |
+---------------------------
+
+---------------------------
+| Weitere Details         |
+---------------------------
+| Geräte ID: AaSso dGZg     |
+| Gesundheitsplan: uOB|
+| Beruf: Sportentwicklungsbeauftragter|
+| Organisation: Vazquez, Baker und Joseph|
+---------------------------
+
+---------------------------
+| Zusätzliche Info        |
+---------------------------
+| Stadt: Pirmasens            |
+| Bundesland: 16          |
+| Land: Belgien      |
+| Lizenz: 37841-458c      |
+| BioID: 982795 47z          |
+| Benutzername: Sg4C9obl   |
+| Krankenhaus: Ishii    |
+---------------------------
+
+Hinweis: Nachsorgetermin erforderlich. Zustand innerhalb von 30.08.2004 Tagen neu bewerten. Auf Verschlechterung der Symptome achten. Informieren Sie Konstantin Meyer, wenn Änderungen beobachtet werden.
+"
+

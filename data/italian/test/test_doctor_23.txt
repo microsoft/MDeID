@@ -1,0 +1,51 @@
+"Appunti del Dottore
+
+Valeria Ferri note su Salvatore Giuliani
+------------------------------------------
+-ID: WOCk-95218
+-ETÀ: 80
+-PROFESSIONE: Professionista di vendita IT
+
+Storia clinica:
+-IPERTENSIONE, DISLIPIDEMIA, DIABETE TIPO 2, CARDIOPATIA ISCHEMICA con 3 infarti
+-Precedente ictus, anticoagulato con warfarin
+-GERD, Asma
+-Cancro endometriale: Trattato con radioterapia, brachiterapia, TAH-BSO
+
+Recente presenza di sangue rosso vivo nelle feci con coaguli.
+------------------------------------------
+Nessun dolore addominale, nausea, vomito, diarrea, stitichezza o melena.
+
+Esame fisico:
+-Lieve dolore addominale lato sinistro
+-Nessun altro reperto significativo
+
+Esame rettale:
+-Emorroidi non sanguinanti, nessun sangue visibile
+
+Recente colonscopia:
+-3 piccoli polipi nel colon trasverso - adenomi tubulari
+------------------------------------------
+Esami del sangue:
+-WBC: 14.3k/uL
+-Hgb: 9.6 g/dL
+-Creatinina: 1.2
+-BUN: 39
+-INR: 2.0
+
+Colonscopia successiva: Lesione grande, fungosa, friabile, ulcerata
+------------------------------------------
+Valutazione: Grande lesione ulcerata nel colon - causa di ematochezia
+Differenziali: CRC, IBD grave
+
+Piano:
+-Ricovero al Yang di
+-Consultazione MDT per opzioni di trattamento della lesione
+-Monitoraggio stretto dei sintomi, segni vitali
+-Possibile trasfusione di sangue se Hgb \u2193 o sintomi di anemia significativa
+-Gestione attenta della terapia con warfarin
+-Educazione del paziente sui risultati, indagini pianificate e trattamenti
+
+Valeria Ferri, 2341-XUGwM
+"
+

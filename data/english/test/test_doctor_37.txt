@@ -1,0 +1,35 @@
+"Patient Theo Lee - 65 years-old boy. 
+
+S: 
+- Presented to Benedict Arnold with respiratory distress, no fever
+- Month-long history of cough & wheezing - unresponsive to antibiotics & steroids 
+- Suspected asthma diagnosis
+- No history: choking, dysphagia, drooling, atopy, perinatal issues 
+
+O: 
+- Conscious, afebrile - Temp: 37.5\u00b0C
+- Heart rate: 130 bpm, Respiratory rate: 40 bpm, O2 Saturation: 93%
+- Suprasternal recession, scattered snoring, diffuse wheeze
+- No signs: dehydration, malnutrition, cyanosis
+- Cardiovascular examination: normal
+- Lab tests: normal CBC, CRP: 14 mg/l
+- X-Ray: foreign body (upper mediastinum)
+
+A: 
+- Primary diagnosis: Respiratory distress due to foreign body (clothing button) in upper thoracic esophagus
+- Misdiagnosis: Asthma
+- Differential diagnosis: Asthma, other pediatric respiratory distress causes
+- Prognosis: Good, post foreign body removal
+
+P: 
+- Foreign body removal via hypopharyngoscopy under sedation
+- Post-op management: IV fluids, corticosteroids (reduce periesophageal inflammation)
+- Discharged: 24 hours post-procedure
+- Diet: Clear liquids
+- No complications or symptom recurrence
+- Follow-up: Monitor esophageal damage, respiratory issues
+- Caregiver education: Prevent foreign body aspiration
+
+Jayden Taylor
+Media planner"
+

@@ -1,0 +1,56 @@
+"Nota de Rascunho
+
+Alfonso Ramírez
+
+Caso Conocido: Lupus Eritematoso Sistémico (LES)
+Historia: Pancreatitis idiopática
+
+Quejas actuales: 
+- Debilidad, fatiga
+- Náuseas, vómitos
+- Intolerancia a la comida
+- Visión borrosa
+- Dolor abdominal
+
+No hay antecedentes de diabetes u otras enfermedades autoinmunes excepto LES
+Hospitalizaciones previas: múltiples por pancreatitis (todas las pruebas negativas para cálculos biliares, tumores, enfermedades autoinmunes, enfermedades metabólicas)
+Diagnóstico reciente: Lupus discoide, LES, manifestaciones neuropsiquiátricas severas
+
+Tratamiento: 
+- Metilprednisolona
+- Cloroquina
+- Levetiracetam
+- Fenitoína
+- Lorazepam
+- Bolo mensual de 
+
+Los síntomas comenzaron ~ 7 días después de la 6ª dosis de , total 6.25g
+
+Signos vitales: 
+- Taquicardia (125 lpm)
+- Taquipnea (27 respiraciones/minuto)
+- Somnolencia
+- Deshidratación
+
+Resultados de laboratorio: 
+- Glucosa en suero: 1240 mg/dl (normal: 70-140 mg/dl)
+- Sodio: 127 mEq/L (normal: 135-145 mEq/L)
+- Potasio: 5.56 mEq/L (normal: 3.5-5.0 mEq/L)
+- Cloro: No totalmente reportado
+- No resistencia a la insulina
+
+Impresión: Cetoacidosis diabética (CAD) - probablemente debido al uso de esteroides sistémicos, exacerbado por LES y reciente terapia con . Diagnóstico diferencial: brote de pancreatitis aguda, menos probable
+
+Recomendaciones:
+- Iniciar protocolo de manejo de CAD
+- Fluidos IV, terapia con insulina
+- Monitoreo de electrolitos, reposición
+- Monitoreo continuo de signos vitales, glucosa, electrolitos
+- Consultar con Carolina Gómez (endocrinología)
+- Consultar con Carolina Gómez (reumatología)
+- Educación del paciente sobre el reconocimiento de signos de hiperglucemia
+- Enfatizar el seguimiento regular
+- Abordar problemas de cumplimiento relacionados con el régimen de medicación complejo
+
+Carolina Gómez"
+

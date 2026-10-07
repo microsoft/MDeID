@@ -1,0 +1,57 @@
+"Nota de Enfermería: Impétigo martes, 25 de marzo de 2014
+
+--------------------
+**Perfil del Paciente**
+- Nombre: Armando Gómez
+- Edad: 99
+- Dirección: Armando Gómez, Callejón Guerrero 147 Edif. 747, Depto. 530 132, Tetragonalness, Comillas 01879, Peru
+- Contacto: +1-319-239-1214/ nnysquez@zoho.com
+- Contacto de Emergencia: +1-319-239-1214
+- Número de Historia Clínica: 12217 4580
+- Número de Cuenta: 767839 ZWZ
+- Seguro de Salud: W6eY gKk2
+- Hospital: Tennyson
+--------------------
+
+**Resumen Clínico**
+- Condición Dermatológica: Impétigo
+- Se observa erupción cutánea con ampollas
+- Dispositivo afectado: N/A
+- Nombre de usuario del paciente en el foro de salud de la piel: FMZPOfRD
+
+**Signos Vitales**
+- Temperatura: 98.6\u00b0F
+- Pulso: 80 latidos/min
+- Respiración: 16 respiraciones/min
+- Presión arterial: 120/80 mmHg
+
+**Observaciones Adicionales**
+- Sitio de la erupción: No revelado, máscara con banco
+- BIOID: No disponible
+- Dirección IP de la conexión de telesalud del paciente: 52.149.224.96
+
+**Intervenciones Planificadas**
+- Prescripción de antibióticos tópicos
+- Aconsejar mantener la piel limpia y seca
+- Seguimiento en 1 semana
+
+**Referencias**
+- Dermatólogo: Dr. Jenny Vásquez
+- Consulta programada para: martes, 25 de marzo de 2014
+- URL de la consulta: https://rivers-andrade.com/blogindex.htm
+
+**Notas Adicionales**
+- El paciente trabaja para: Peterson Inc
+- Profesión del paciente: Científico, marino
+- IDNUM: 767839 ZWZ
+- Detalles del vehículo para el transporte hospitalario: 7771 YN
+- Número de licencia del conductor del paciente: jQG OtZTNG
+- Detalle de Seguridad Social: 63091535E
+- País del paciente: España
+- Ciudad del paciente: Comillas
+- Código postal: 01879
+- Fax para documentos médicos: +1-729-872-6851x67105
+
+--------------------
+Documento emitido por: Enfermera Jenny Vásquez"
+

@@ -1,0 +1,47 @@
+"Notas de la Dra. María Murillo
+--------------------------
+PACIENTE: Agustín Gómez
+ID: 74-dizVyNc
+
+EDAD: 98
+
+QUEJAS PRESENTADAS:
+- Alteración de la marcha
+- Microcefalia
+- Episodios de desconexión
+- Convulsiones febriles
+- Trastornos del sueño
+- Retrasos en el desarrollo (habilidades motoras)
+- Comportamiento tipo TDAH
+
+INTERVENCIONES PREVIAS:
+- Intervención psicopedagógica
+- Tratamiento con metilfenidato
+
+OBSERVACIONES:
+Confirmada la microcefalia
+
+INVESTIGACIONES:
+- EEG: Normal
+- RM: Estructura encefálica normal
+- Genética: Delección de 182 bases en el marcador C7 (bases 2475-2657). Sin alteraciones en los genes LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8, PAX2
+
+EVALUACIÓN:
+- Microcefalia con problemas de desarrollo y comportamiento asociados
+- Posibles trastornos genéticos o metabólicos
+- Pronóstico: Cauteloso
+
+ACCIONES PLANIFICADAS:
+- Continuar con las intervenciones psicopedagógicas
+- Mantener el tratamiento con metilfenidato
+- Seguimiento del EEG (problemas de sueño)
+- Evaluaciones regulares del desarrollo
+- Educación a los padres sobre el monitoreo y la adherencia al tratamiento
+- Próxima cita: 24 abr 2023
+
+Firmado,
+Dra. María Murillo
+Adams-Gordon
++1-508-466-0692
+Maríal@msf.org"
+

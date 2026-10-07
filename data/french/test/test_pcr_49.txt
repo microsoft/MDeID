@@ -1,0 +1,18 @@
+"Rapport de soins au patient : Urgence diabétique
+
+Récit de l'envoi : Nous avons reçu un appel des services d'envoi d'urgence le 09/07/2003. L'appel concernait un patient, Thomas Beckers, à aéroport pour des symptômes sévères signalés d'hyperglycémie.
+
+À notre arrivée le 09/07/2003 à , nous avons trouvé le patient en détresse modérée. Thomas Beckers était conscient, mais signalait une soif intense et une miction excessive, cohérentes avec l'hyperglycémie. Thomas Beckers a signalé que ces symptômes avaient commencé le 09/07/2003 et se sont aggravés avec le temps. Thomas Beckers avait des antécédents médicaux connus de diabète et était sous médication prescrite.
+
+Casey Brown a effectué une évaluation immédiate de l'état du patient. Les voies respiratoires du patient étaient ouvertes et dégagées. La respiration était légèrement superficielle et rapide, avec un taux respiratoire de 24 respirations par minute. Le pouls radial du patient a été palpé, fort et régulier à un rythme de 90 battements par minute. La peau était fraîche et humide au toucher, ce qui pourrait potentiellement indiquer le début d'une cétose diabétique. Aucun saignement majeur n'a été noté.
+
+Après une enquête plus approfondie, le patient a signalé qu'il n'avait pas d'allergies mais prenait un agent hypoglycémiant oral, , pour le diabète. La dernière prise orale a eu lieu le 09/07/2003 à .
+
+Le patient a commencé une thérapie à l'oxygène à haut débit via un masque non-rebreather à 15 litres par minute. En raison des signes présentés d'hyperglycémie, une injection intramusculaire de glucagon a été administrée au patient.
+
+Pendant le transport vers Abukir, le patient a été constamment surveillé. Les niveaux de glucose dans le sang du patient ont été vérifiés et se sont avérés extrêmement élevés. Les signes vitaux du patient sont restés stables tout au long du transport.
+
+À l'arrivée au service des urgences de Abukir, les soins au patient et le rapport ont été remis à l'infirmière et au médecin de garde. Le patient a été transféré sur le brancard des urgences avec l'aide de l'équipe. Tous les documents nécessaires concernant le transport et les soins médicaux du patient, y compris les antécédents médicaux et les informations de facturation du patient, ont été fournis au personnel de l'hôpital.
+
+Rapport par : Casey Brown, ID : 216-24213W"
+

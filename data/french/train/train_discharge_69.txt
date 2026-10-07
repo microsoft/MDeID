@@ -1,0 +1,37 @@
+**Résumé de Sortie**
+
+**Patient** : Amine Guyot
+
+**ID** : 596-udvaIt
+
+**Médecin Admetteur** : Noa De Meyer
+
+**Cours de l'Hôpital** : Le patient a été admis en raison d'une augmentation notable des épisodes de douleurs thoraciques, d'angine de poitrine, de palpitations et de présyncope, tous indicateurs d'un cas grave d'hyperlipidémie. L'état a été géré efficacement par des médicaments et des conseils de modification du mode de vie.
+
+**Procédures** : Le patient a subi un test de profil lipidique complet ainsi qu'un ECG pour évaluer l'état du cœur. Les deux procédures ont été réalisées sans complications.
+
+**Traitement et Services Fournis** : Le patient a été mis sous un régime strict pauvre en graisses accompagné de médicaments hypocholestérolémiants. L'exercice quotidien a également été encouragé. Un éventail de services a été fourni, y compris une consultation en cardiologie, des conseils en nutrition et des services de pharmacie.
+
+**État à la Sortie** : Au moment de la sortie, l'état du patient s'était nettement amélioré. Les douleurs thoraciques et les palpitations avaient diminué, et les niveaux de lipides revenaient à la normale.
+
+**Diagnostic de Sortie** : Le patient est diagnostiqué avec une hyperlipidémie. Pour gérer l'état, un plan de traitement approprié a été élaboré et expliqué au patient.
+
+**Informations Fournies au Patient et à la Famille** : Des informations détaillées sur l'hyperlipidémie, ses implications et l'importance des modifications du mode de vie ont été soigneusement expliquées au patient et à la famille.
+
+**Soins de Suivi** : Il est conseillé au patient de revenir dans deux semaines pour un contrôle avec le Dr. Noa De Meyer. Le patient doit maintenir un régime pauvre en graisses, faire de l'exercice régulièrement et adhérer strictement à la routine de médication prescrite. Le patient doit immédiatement se rendre à l'hôpital si des symptômes tels que des douleurs thoraciques ou des palpitations réapparaissent.
+
+**Allergies** : Le patient n'a pas d'allergies connues. Tout nouveau médicament doit être consommé sous surveillance médicale uniquement.
+
+**Médicaments de Sortie** : Le patient a été libéré avec les médicaments suivants pour l'hyperlipidémie -
+1. Statines - pour abaisser les niveaux de cholestérol.
+2. Suppléments d'acides gras oméga-3 - pour augmenter les niveaux de 'bon' cholestérol.
+
+Ce résumé de sortie est destiné à la continuation des soins.
+
+**Hôpital** : National Artillery
+
+**Date de Sortie** : 13 févr. 1988
+
+**Signature** : Noa De Meyer
+
+>Note : Ce document ne contient aucune Information de Santé Personnelle (PHI).

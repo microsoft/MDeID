@@ -1,0 +1,47 @@
+"**Arzt Kratznotiz**
+
+Dr. Sophie Orlowski || Grant, Adams und Baker || Maxime Jacobs, Alexei-Sontag-Gasse 4 21, 3601 Gross Sarau, Deutschland
+
+Patient: Maxime Jacobs || ID: wWwj-lVoLt 
+
+Diagnose: Akute Zungenschwellung
+
+---
+
+* 67 männlich, Down-Syndrom & Epilepsie 
+* Carbamazepin 
+* Zungenschwellung - schwer
+* Beginn: 30 Minuten vor ER
+* Aufgeregt, unwohl
+* Familienanamnese: Ähnliche Episoden nach Aggression, Zungenzug
+
+---
+
+Körperliche Untersuchung:
+* Zunge: Erhebliche Schwellung, kein Hämatom
+* Nasolaryngoskopie: Normale Stimmbandbewegung, kein Larynxödem
+* Neuro Eval: Kein aktiver Anfall
+* CT-Kopf: Vergrößerte Zungenmuskulatur, links abgewichen, keine Masse, keine Lymphadenopathie
+* Vitalwerte: WNL, Labor: WNL
+
+---
+
+Diagnose: 
+* Akute Zungenschwellung - wahrscheinlich mechanisches Trauma, mögliche Verschlimmerung durch zugrunde liegende Bedingungen
+* DDx: Angioödem, Infektion (weniger wahrscheinlich)
+
+---
+
+Plan:
+* Atemwegsmanagement: Erfolgreiche orotracheale Intubation
+* Aufnahme auf die Intensivstation, mechanische Beatmung
+* Medikamente: Midazolam, Fentanyl, Dexamethason 8mg IV q6h (Schwellung reduzieren), Pantoprazol (Magenprotektion)
+* Beißblock: Entfernbar, verhindert Beißen
+* Zungenpflege: Feuchte Gaze
+* Nachsorge: HNO, Neurologie Konsultationen
+* Prognose: Vorsichtig optimistisch, abhängig von der Behandlungsreaktion
+
+---
+
+Sophie Orlowski || kvt 07kzgT || +1-365-224-7596x56839 || phieow@unicef.org"
+

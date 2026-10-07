@@ -1,0 +1,110 @@
+"Nota de Enfermagem:
+
+PACIENTE: Duarte Araújo
+
+-----
+
+Sinais Vitais: 
+
+PA - 120/80 
+
+FC - 110 bpm 
+
+Temp - 38.1°C 
+
+Observações:
+
+- Respiração: Difícil 67 
+
+- Tosse: Persistente 
+
+- Escarro: Amarelado
+
+- Raio-X do tórax: HaBeq-06ZE
+
+Avaliação: 
+
+- Condição: Sob monitoramento
+
+- Gravidade da Doença: Moderada 
+
+- Som Respiratório: Crepitação
+
+- Diagnóstico: Pneumonia
+
+Plano: 
+
+- Antibióticos: Iniciados 
+
+- Oxigênio: Administrado 
+
+- Avaliação de acompanhamento: 24 de abril de 2006
+
+Informações de Contato:
+
+- Telefone: 001-866-891-6782x8056
+
+- Email: tiaeus@un.org
+
+- Contato de Emergência: Duarte Araújo
+
+Endereço: Duarte Araújo, Lago da Cunha 104, Protochordata, RIO DE JANEIRO - 40, EZNA4YRW, Brasil
+
+Cidade: RIO DE JANEIRO 
+
+Estado: 40
+
+CEP: EZNA4YRW 
+
+País: Portugal
+
+Informações do Provedor:
+
+- Médico: Mateus Santiago
+
+- Hospital: Fairbairn
+
+Informações Adicionais:
+
+- Número da Conta: 229531 Vca 
+
+- Plano de Saúde: 6DhiD
+
+- ID: 229531 Vca
+
+Informações do Dispositivo: 
+
+- ID do Dispositivo: 4757-gBrOs
+
+- Tipo de Dispositivo: Nebulizador 
+
+Informações de Internet:
+
+- Endereço IP: 71.190.108.42
+
+- Nome de Usuário: viidkCVe
+
+Informações de Verificação:
+
+- BioID: 75913 DPPv
+
+- Licença: FM 96wTQZR
+
+- Segurança Social: 715.020.954-09
+
+Localização-Outros: parque
+
+Profissão: Psicoterapeuta, movimento de dança
+
+Organização: Anderson-Spears 
+
+URL: hester.todd-gonzalez.moore.com 
+
+Veículo: 233 OHZ
+
+Fax: 2582436004
+
+----
+
+Nota: Esta é uma nota temporária, aguardando a conclusão da avaliação médica completa."
+

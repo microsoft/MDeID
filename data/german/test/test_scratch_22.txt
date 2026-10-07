@@ -1,0 +1,62 @@
+"**Krankenschwester Notiz**
+
+Patient: Sophia Schmid
+
+\u2712\ufe0f Kurze Zusammenfassung: 
+
+Rote Beulen beobachtet, verstreute Verteilung. Scheint ein möglicher Fall von Windpocken zu sein. 65 ist nicht bekannt.
+
+----
+**Vitalzeichen & Beobachtungen:**
+
+- Temperatur: 98,6 F
+- Herzfrequenz: 76 Schläge pro Minute
+- Blutdruck: 120/80 mmHg
+- Atemfrequenz: 16 Atemzüge pro Minute
+- Sauerstoffsättigung: 96% 
+- Rote Beulen: \u223c 30 insgesamt
+
+----
+**Medizinische Beobachtungen:**
+
+- Beulen: Rote Farbe, \u223c5mm Durchmesser, mit Flüssigkeit gefüllt, \u223c30
+- Körperliches Unbehagen: Patient berichtete über Juckreiz
+
+----
+**Aufkommende Gedanken:**
+
+- Überlegen: Mögliche Windpocken? Benedikt Seidel zur Bestätigung.
+- Bedarf: lxxni-1501 zur Überprüfung der früheren Krankengeschichte.
+- Plan: Hydratation, Ruhe, Kratzen vermeiden, mögliche antivirale Behandlungen.
+
+----
+**Kontaktinformationen:**
+
+- Telefon: 2799408333
+- Adresse: Sophia Schmid, Anne-Marie-Keudel-Weg 88 157, 0228 Abtwil, Österreich
+- E-Mail: lkt@un.org
+
+----
+**Weitere Informationen:**
+
+- IP: 219.127.196.116
+- Fahrzeug: 9MR6847
+- Gerät: rJtGST qVs
+- Konto: 881336 bMM
+- Sozialversicherungsnummer: 449-4707449-67
+- Beruf: Administrator, Wohltätigkeits-/Freiwilligenorganisationen
+- Gesundheitsplan: T0q9nY tzBXA5 JGdd3
+- Organisation: Hall Ltd
+- Standort: Universität
+
+----
+**Zukünftige Schritte:**
+
+- Benachrichtigen: Familienmitglieder kontaktieren, Impfstatus überprüfen.
+- Überwachen: Den Verlauf der Symptome im Auge behalten, melden, wenn sie sich verschlechtern.
+- Termin vereinbaren: Nachsorgetermin einrichten, Freitag, 27. Mai 2005 noch zu bestimmen.
+
+Bitte beachten Sie, dass die oben genannten Details im Kontext dieser spezifischen Pflegebegegnung stehen und entsprechend aktualisiert werden sollten. 
+
+**Ende der Notiz**"
+

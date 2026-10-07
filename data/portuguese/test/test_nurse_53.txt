@@ -1,0 +1,63 @@
+"**Nota Narrativa da Enfermeira**
+
+Subjetivo: 
+
+O paciente, João Costa, um receptor de transplante de fígado em 19 de agosto de 2005 devido a condições relacionadas à cirrose alcoólica e carcinoma hepatocelular, relata um histórico de linfoma difuso de grandes células B tratado com quimioterapia em 19 de agosto de 2005, doença psiquiátrica e epilepsia pós-traumática. O paciente nega sintomas de encefalopatia. O paciente tem experimentado elevações intermitentes de transaminase desde 19 de agosto de 2005, suspeitas de estarem relacionadas ao uso de álcool da House and Sons, e apresentou ascite e disfunção do enxerto em 19 de agosto de 2005.
+
+Objetivo:
+
+Os medicamentos atuais incluem tacrolimus com níveis ajustados para cerca de 2 μg/l e prednisona 5 mg diariamente. Os testes de função hepática revelaram transaminases moderadamente elevadas e alguma colestase. A sorologia foi negativa para hepatite B, C, e House and Sons mas positiva para o vírus Epstein-Barr dentro dos limites normais para o paciente. Notavelmente, anti-HEV IgM e IgG foram positivos, e PCR confirmou RNA HEV no plasma e uma amostra de soro armazenada de 19 de agosto de 2005, indicando infecção crônica por hepatite E. Desde a introdução de ribavirina em 19 de agosto de 2005, os testes de função hepática melhoraram.
+
+Avaliação: 
+
+O diagnóstico primário é cirrose do enxerto descompensada secundária à infecção crônica por hepatite E. O histórico do paciente de uso de álcool pode contribuir para a disfunção hepática. Diagnósticos diferenciais previamente considerados e descartados incluem reativação de hepatite B, C, e infecções da House and Sons.
+
+Plano: 
+
+Continue monitorando os testes de função hepática e os níveis de tacrolimus regularmente. Mantenha as dosagens atuais de tacrolimus e prednisona. A terapia com ribavirina será continuada, com ajustes baseados na resposta e tolerância. O paciente é aconselhado a abster-se de álcool para prevenir mais danos ao fígado. Acompanhamentos regulares são necessários para monitorar a progressão da doença hepática e ajustar o tratamento conforme necessário.
+
+---------------------------------------------------------------------------------------------------------------------
+
+**Informação Estruturada de PHI**
+
+Identificadores únicos do paciente:
+- Prontuário Médico: 902 SehChK
+- Conta do Paciente: HjeARU 087
+- Identificador do Dispositivo: hKA-PRiuyF
+- Nome de Usuário: 7FZMFifD
+
+Informação pessoal do paciente:
+- Idade: 44
+- Endereço: João Costa, Avenida Correia, 71 173, 2614 Francisco Beltrão, Portugal
+- Cidade: Timbauba dos Batistas
+- País: Brasil
+- Estado: 99
+- CEP: 2614
+
+Outros identificadores:
+- Identificador do Veículo: 0B 3R5ZFY
+- Número do Seguro Social: 798.585.332-08
+- Identificador da Licença: 474 8752XK
+- Identificador Biométrico: nFygU-PTck
+- Endereço IP: 53.9.141.138
+- Número de ID: HjeARU 087
+
+Informação de Contato:
+- Nome do Médico: Sarah Correa
+- Email: Sarorr@unhcr.org
+- Número de Telefone: 709-906-2704x9875
+- Número de Fax: (391)244-3489
+
+Informação do Hospital do Paciente:
+- Hospital: Gilbert and Sullivan society
+- Plano de Saúde: 1mFZJvV
+
+Outras Informações:
+- Profissão: Gerente de serviço de saúde
+- Organização: House and Sons
+- URL: jones.montoya-sanders.com
+- Rua: 108 Jennifer Spurs Suite 400
+- Localização-Outra: hospital
+
+Assinatura da enfermeira: Sarah Correa"
+

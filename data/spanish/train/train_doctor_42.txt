@@ -1,0 +1,41 @@
+"**Nota de Rascunho del Doctor**
+
+Paciente: Eduardo Fernández
+ID#: TgHkJg CMA
+Fecha de nacimiento: 10 de septiembre de 1986
+Edad: 108
+
+S:
+- Falta de aliento progresiva, ortopnea (3 meses)
+- Informe de Eduardo Fernández
+
+O:
+- Murmullo continuo suave (pecho superior izquierdo)
+- Crepitaciones en los pulmones (basales, bilaterales)
+- Radiografía (Pecho): cardiomegalia leve, congestión pulmonar leve
+- ECG: ritmo sinusal (regular), sin signos de isquemia o infarto de miocardio
+- Ecocardiografía transtorácica: LV (levemente dilatado), aurícula izquierda (marcadamente dilatada), fracción de eyección del LV (60%)
+- Estructura tubular (septo interventricular), flujo diastólico turbulento
+- Ecocardiografía transesofágica: RCA (marcadamente dilatada), vaso anormal (adyacente a MPA), vaciado anormal del vaso (MPA posteromedial), MR severa (hoja posterior restringida), remodelación ventricular/dilatación del anillo mitral
+- Angiografía coronaria: ALCAPA (confirmada), derivación de izquierda a derecha, relación de flujo sanguíneo pulmonar-sistémico (1.4)
+- Angiografía por tomografía computarizada coronaria: ALCAPA (confirmada, ostium retropulmonar)
+
+A:
+- Diagnóstico de síndrome de ALCAPA (primario, confirmado)
+- Causas de murmullo continuo, cardiomegalia (diferencial, descartado)
+
+P:
+- Discusión del equipo multidisciplinario (plan)
+- Intervención quirúrgica (óptima, corrección de anomalía coronaria)
+- Información al paciente/familia (condición, opciones de tratamiento, posibles complicaciones)
+- Citas de seguimiento (monitoreo de respuesta, manejo de complicaciones)
+- Educación (naturaleza de la enfermedad, signos de complicaciones, ajustes de estilo de vida)
+
+Médico: Vihaan Mukopadhyay
+Licencia: 158 060380
+Hospital: Pézenas
+Teléfono: 809.594.8697
+Dirección: Eduardo Fernández, Continuación Querétaro 494 Edif. 459, Depto. 475 102, Ilama, 43345 Villarcayo Merindad Castilla V, 16, Colombia
+Correo electrónico: hyaya@unicef.org
+Fax: (630)390-7447"
+

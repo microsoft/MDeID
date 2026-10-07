@@ -1,0 +1,57 @@
+"NOTA DE ENFERMERA
+
+### Detalles del Paciente
+
+- Paciente: María Pilar Domínguez
+- Edad: 108
+- Ciudad: Mont-Roig DEL Camp
+- Estado: 59
+- País: Colombia
+- Dirección: María Pilar Domínguez, Ronda de Olimpia Valle 70 Puerta 2 88, Crinkleroot, 31OGGZSH Mont-Roig DEL Camp, 59, Mexico
+- Teléfono: 844.386.0857x17099
+- Correo electrónico: Toadla@unhcr.org
+- Plan de Salud: EvjvyAp AB papnlOd wi9tMo
+
+----
+
+---- SIGNOS VITALES ----
+PA: 125/85 mmHg
+FC: 85 lpm
+Frecuencia respiratoria: 16 respiraciones/min
+
+---- OBSERVACIONES ----
+- Piel: Erupción/irritación (especialmente en las extremidades inferiores)
+- Glucosa: 170 mg/dL (Alta)
+
+---- NOTA DE ENFERMERA ----
+Condición de la piel prevalente. Correlaciona con alta glucosa - posible diabetes. 
+
+Contacto:
+Dr. Angélica de la Torre
+Ubicación: Bishop Pieter
+
+---- OTRA INFORMACIÓN ---- 
+- BioID: 5786-2919J
+- Dispositivo: RIPhl 9683
+- Historial Médico: 702 50zEcT
+- Cuenta: 52-9136rSY
+- SSN: 14.440.838
+- Licencia: KDj 925348
+- Vehículo: 913Y
+- Dirección IP: 221.222.243.27
+- Número de ID: 52-9136rSY
+- Nombre de usuario: dWMahEpP
+- Código Postal: 31OGGZSH
+- Fax: 001-998-208-1488x3770
+
+### Próximos Pasos
+Referencia a Angélica de la Torre para una evaluación más detallada. Ubicación de preocupación: teatro.
+
+### Profesión y Organización 
+Profesión: Oficial de pruebas de campo
+Organización: Young Ltd
+
+--------
+
+Fin de la Nota."
+

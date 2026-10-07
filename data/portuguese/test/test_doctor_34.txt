@@ -1,0 +1,78 @@
+"Nota de Rascunho do Médico
+
+-----
+
+Rita Teixeira, um menino de 5 anos.
+
+Queixas Apresentadas:
+
+Fraqueza progressiva - ambos os membros inferiores > membros superiores.
+
+Duração: 2 dias.
+
+Início insidioso.
+
+Precedido por cãibras musculares - 3 dias.
+
+Sem alteração do sensorium, convulsão, problemas de bexiga/intestino.
+
+Histórico Médico Anterior:
+
+Episódios semelhantes - fraqueza, fadiga + hipocalemia - últimos 3 anos.
+
+Admissões hospitalares necessárias.
+
+Gerenciado como paralisia periódica hipocalêmica anteriormente.
+
+Sintomas Adicionais:
+
+Pálpebras caídas bilateralmente.
+
+Sensação de corpo estranho - olhos.
+
+Boca seca.
+
+Sem vômitos recentes, uso de diuréticos, álcool, laxantes.
+
+Resultados do Exame:
+
+Força motora - Membros inferiores: 3/5, Membros superiores: 4/5. Grupos musculares proximais + distais.
+
+Reflexos tendinosos profundos - Diminuídos bilateralmente.
+
+Sem déficits sensoriais/anormalidades dos nervos cranianos.
+
+Sinais vitais dentro dos limites normais.
+
+Exames cardiovasculares, respiratórios, gastrointestinais, tireoidianos - Sem alterações.
+
+Resultados de Laboratório:
+
+Hipocalemia severa - Nível de potássio sérico: 1.6 meq/L (Normal: 3.5-5.5 meq/L)
+
+ECG - Bradicardia sinusal, Inversão global da onda T, Onda U sutil.
+
+Avaliação:
+
+Diagnóstico Primário - Paralisia periódica hipocalêmica - Gatilho: Hipocalemia severa.
+
+Diferenciais - Miastenia gravis - Descartada por teste de anticorpos negativo.
+
+Sintomas recorrentes + hipocalemia severa - Riscos: Arritmias cardíacas, Fraqueza muscular.
+
+Plano:
+
+Gerenciamento imediato - Suplementação de potássio IV @20 meq/hora - Corrigir hipocalemia.
+
+Monitoramento cardíaco contínuo - Devido a alterações no ECG e risco de arritmia.
+
+Educar Rita Teixeira - Monitorar sintomas de fraqueza/distúrbios cardíacos.
+
+Seguimento - Reavaliar níveis de potássio + função motora após tratamento inicial.
+
+Encaminhamento para Mariana Araújo (neurologista) - Avaliação/gerenciamento adicional da paralisia periódica hipocalêmica.
+
+Conselho dietético - Ingestão de potássio + gatilhos potenciais para episódios hipocalêmicos.
+
+Mariana Araújo\n"
+

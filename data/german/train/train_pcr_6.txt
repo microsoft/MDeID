@@ -1,0 +1,53 @@
+"Patientenpflegebericht
+
+Einsatz:
+Der Rettungsdienst (EMS) wurde nach einem 911-Anruf zu Bushaltestelle entsandt. Der Anruf, gemacht von Jens De Vos, war wegen Beschwerden über Sehprobleme und erhöhte Häufigkeit von Migräne. Das Einsatzteam reagierte schnell und entsprechend.
+
+Bei Ankunft:
+Bei Ankunft fand die EMS-Crew den Patienten in einem Zustand des Unbehagens. Patient Jens De Vos war bei Bewusstsein und ansprechbar, wenn auch offensichtlich gestresst. Die Crew begann mit der Sammlung von Primärinformationen und stellte fest, dass das Problem ein paar Stunden zuvor begonnen hatte. 
+
+Symptome:
+Patient Jens De Vos berichtete von starken Kopfschmerzen mit erhöhter Häufigkeit und verschwommenem Sehen. Dies war eine Eskalation eines chronischen Problems, das derzeit schwerwiegend war. Vor unserer Ankunft hatte der Patient seine übliche Migränemedikation von Smith, Hoffman und Dawson eingenommen, aber es hatte keine Linderung gebracht. 
+
+Bewertung:
+Der Rettungssanitäter führte eine umfassende Beurteilung des Patienten Jens De Vos durch. Neurologische Untersuchungen zeigten einige Unregelmäßigkeiten, wobei der Patient seine Kopfschmerzen als lähmend und verursachend schweres Unbehagen beschrieb. Die Sicht des Patienten war verschwommen, aber er konnte Licht und Bewegung erkennen. Die Krankengeschichte des Patienten, entnommen aus seiner 83554-2744, zeigte ein chronisches Problem mit Migräne. 
+
+Behandlung:
+Die EMS-Crew begann mit der Verabreichung von Sauerstoff über eine Non-Rebreather-Maske. Der Patient wurde auch alle 5 Minuten vom begleitenden Leonard Schubert während des Transports neu bewertet. Eine kontinuierliche Beurteilung des Zustands des Patienten wurde während des Transports durchgeführt, wobei keine signifikanten Veränderungen im Zustand des Patienten festgestellt wurden.
+
+Transport:
+Der Patient wurde unter der Obhut des EMS-Begleiters Leonard Schubert zum Heyer transportiert. Während des Transports wurde Patient Jens De Vos beruhigt und sein Zustand stabilisiert. Bei Ankunft wurde der Patient unter der Aufsicht des ED-Arztes Leonard Schubert an das ED-Personal übergeben. Alle notwendigen Informationen, einschließlich des 3CSXW des Patienten, wurden dem behandelnden ED-Arzt mitgeteilt. 
+
+Dokumentation:
+Die 05 54836dj des Patienten und alle anderen relevanten Details wurden sorgfältig zusammengestellt und dem empfangenden Krankenhauspersonal vorgelegt. Patient Jens De Vos unterschrieb auf dem digitalen Formular die Einwilligung zur Übertragung der Pflege und zur Einhaltung der HIPAA. Dem Patienten wurde auch eine Broschüre über die Datenschutzpraktiken zur Verfügung gestellt.
+
+Fahrer:
+Der Krankenwagen wurde von EMT hRz93kkJ von Smith, Hoffman und Dawson gefahren. Aufgrund der Schwere des Zustands von Patient Jens De Vos war eine zusätzliche Person zum Fahren erforderlich.
+
+Bericht von:
+Begleiter Leonard Schubert
+
+Dieses Dokument ist ein Platzhalter für:
+
+KONTO: 05 54836dj
+ALTER: 79
+ADRESSE: Jens De Vos, Mayrring 5 120, 2365 Malvern, Switzerland
+BIOID: 07691-1036
+STADT: Märkischer Kreis
+LAND: Switzerland
+GERÄT: MyM 078516
+DATUM: Donnerstag, 18. Juni 1992
+EMAIL: rdhube@yandex.com
+FAX: 5163188720
+IPADRESSE: 200.84.126.84
+LIZENZ: rac hfKNfS
+LOCATION-OTHER: Bushaltestelle
+TELEFON: +1-875-384-7383x1480
+BERUF: Radio-Produzent
+SOZIALVERSICHERUNG: 429-2170827-42
+STAAT: SZ
+STRASSE: 2583 Bryan Street Suite 427
+URL: miller.com
+FAHRZEUG: UVX-454
+PLZ: 2365"
+

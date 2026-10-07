@@ -1,0 +1,64 @@
+"Pflegekratznotiz
+
+--- Patientenfall des wcDtUw---
+
+Patient: Ernst Schneider
+Alter: 76
+Biometrische ID: gwuK 32bFn
+Konto: 73 870UHAk
+Medizinisches Gerät: sNWCi-aIbN
+Standort-Andere: Café
+Adresse: Ernst Schneider, Martine-Anders-Allee 1 17, 5939 Bad Rippoldsau-Schapbach, Deutschland
+Krankenhaus: Leiden University Medical Centre
+
+--- Vitalwerte ---
+
+BP: 128/80
+Puls: 72
+Temp: 98.6F
+Resp: 16
+O2Sat: 98%
+
+--- Beobachtungen der Krankenschwester ---
+
+Hohe Gewichtszunahme in kurzer Zeit bemerkt. Bedenken hinsichtlich Ermüdung, Belastungsintoleranz. Keine sichtbaren Traumazeichen. 
+
+---Medizinische Info---
+
+Mögliche Arzneimittelreaktion...? Muss von Werner Fischer bestätigt werden.
+Aktuell auf 5Su. 
+
+--- Verschiedene Infos ---
+
+Benutzername: bJYtWavi
+IP-Adresse: 3.72.247.24
+Lizenz: wMNqbR-Bjy
+Fahrzeug: 097MCZ
+
+--- Kontakt Info ---
+
+Telefon: 277.602.9830
+Email: er@unicef.org
+URL: brooks.taylor.murray.com
+Fax: 386.534.7489x8892
+
+--- Notfallkontakt ---
+
+Name: Ernst Schneider
+Beziehung: 
+Telefon: 277.602.9830
+
+--- Andere ---
+
+IDNUM: 73 870UHAk
+SOZIALVERSICHERUNG: 912-4687757-90
+BERUF: Beamter der Kommunalverwaltung
+ORGANISATION: Moore-Castillo
+STADT: Unterägeri
+LAND: Österreich
+STAAT: 3
+STRASSE: 076 Stewart Villages Apt. 615
+PLZ: 5939
+
+--- Ende der Notiz ---"
+

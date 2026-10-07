@@ -1,0 +1,53 @@
+"Doctor's Scratch Note
+---------------------------
+Patient: Jessica Black
+ID: EBGUyR 969
+
+Reported Issues
+----------------
+- General fatigue for 5 years
+- Right side body numbness for 3 years
+- Dyspnea on exertion for 1 year
+- Weight loss from 46 to 41kg over the past 5 years
+- Previous diagnosis: OPLL (Cervical Spine) by Cynthia Brooks
+- Non-smoker
+
+Vitals & Observations
+----------------------
+- Body Temp: 36.2\u00b0C
+- Pulse Rate: 71 bpm
+- BP: 103/56 mm Hg
+- Thoracic motion decreased
+- Right upper limb muscle weakness
+- Extremity numbness
+- Claudication
+- Spirometry: Restrictive Ventilation Impairment
+- JOA Score: 14 (Mild Cervical Myelopathy)
+
+Imaging Reports
+----------------
+- Chest X-ray & CT: Normal, decreased diaphragmatic movement
+- MRI (Cervical Spine): Severe compression of the cervical cord at C3/4, atrophic changes, intramedullary spinal cord lesion
+
+Assessment
+------------
+- Primary Diagnosis: Cervical myelopathy secondary to OPLL
+- Possible early neuromuscular disorder due to spinal cord compression
+- Associated respiratory impairment
+- Differential Diagnoses: Other causes of neuropathy and myelopathy
+
+Plan
+------
+- Refer to Neurologist for further evaluation: Cynthia Brooks
+- Consult Pulmonologist for restrictive lung disease management: Cynthia Brooks
+- Physical Therapy sessions: Smith-Snow
+- Regular follow-up: Bar of Quebec 
+- Discuss surgical options if symptoms worsen
+- Patient education on symptom management and regular medical reviews
+- Compliance with appointments and therapy sessions
+
+Cynthia Brooks
+Engineer, energy
+rooCynth@microsoft.org
++1-452-785-0976x56394"
+

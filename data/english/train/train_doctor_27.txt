@@ -1,0 +1,39 @@
+"Doctor's Scratch Note:
+
+Amy Brown Notes, 
+Pt: Diana Perez, 31 year
+ID: fcGwIB gtU
+
+Vitals:
+BP: 128/84 mmHg
+HR: 78 bpm
+Temp: 36.6 C
+RR: 16 breaths/min
+O2 Sat: 98%
+
+Chief C/O: LLQ abd pain. No PMHx of GI or ovarian Ca. FamHx - Brother: Lung Ca, Paternal Grandmother: Bilateral synchronous breast Ca, Grandfather: Prostate Ca.
+
+Examination:
+Abd: LLQ tender, no guarding/rigidity.
+Rectosigmoid mass palpable, obstructed.
+
+Tests:
+CT: Obstructed rectosigmoid mass. No distant mets seen.
+Colonoscopy: R-sigmoid mass, 4.5x6.5 cm, 18 cm from anal verge.
+
+Patho:
+Biopsy: Mod differentiated adenocarcinoma. 
+Surgery: Invasive adenocarcinoma, lymphovascular & perineural invasion. 6/28 lymph nodes positive.
+
+Genetic Testing:
+Mutations in BRIP1, TP53. Normal Lynch syndrome screen. No alterations in KRAS, NRAS, BRAF.
+
+Impression:
+Mod differentiated rectosigmoid adenocarcinoma, stage III (lymph node involvement). High-risk - lymphovascular, perineural invasion. Genetic analysis - potential hereditary predisposition.
+
+Management:
+Post-op follow-ups for recurrence/complications monitoring. Germline testing for BRIP1 mutation planned. Pt education on symptoms of recurrence, lifestyle modifications for overall health. Regular f/u in oncology.
+
+Amy Brown, 
+Hayes-Byrd"
+

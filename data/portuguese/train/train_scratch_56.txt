@@ -1,0 +1,86 @@
+"## Anotações de Enfermagem
+
+
+
+Paciente: Ágatha Melo
+
+Prontuário Médico: 42122-6161
+
+Endereço: Ágatha Melo, Rua de Leal, 4 62, 4281 Cabreúva - Sp, Portugal
+
+Plano de Saúde: aGd
+
+Organização: Harris Inc
+
+Contato: (232)379-0271x547
+
+Contato de Emergência: (232)379-0271x547
+
+Médico de Referência: Leonor Araújo
+
+Hospital: University of Utah
+
+Equipe de Enfermagem: Leonor Araújo
+
+Informações de Tratamento:
+
+-----------------
+
+Varizes
+
+ - 22-9398ZLU usado para monitoramento
+
+ - 42122-6161 referência para tratamentos passados
+
+Observações:
+
+-------------
+
+Sinais vitais: 
+
+ - PA: 120/80
+
+ - Pulso: 80 bpm
+
+ - Temp: 98.6 F
+
+Sintomas Notados:
+
+ - Dor na perna: 7/10
+
+Progresso do Tratamento:
+
+-------------------
+
+ - Terapia de Compressão: Eficaz 
+
+ - Remoção de Varizes: Ainda não feito
+
+ - Elegibilidade do paciente para cirurgia: Verificando detalhes da 32346-9507
+
+Informações Adicionais:
+
+----------------
+
+ - Idade: 5
+
+ - Profissão: Conservador, móveis
+
+ - Segurança Social: 57608781-4
+
+ - Email: Leonoo@unicef.org
+
+ - URL para registros de saúde: https://www.burton.com/wp-content/mainhome.php
+
+ - Nome de usuário para portal de saúde online: gathel
+
+------------------------
+
+ID do Documento: 32346-9507
+
+Endereço IP Registrado: 207.174.106.249
+
+Dispositivo Usado: 22-9398ZLU
+
+Data das Notas: 01/09/2015\n"
+

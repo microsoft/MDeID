@@ -1,0 +1,35 @@
+"Nota Narrativa de Enfermagem para Paciente com Lúpus Eritematoso Sistêmico (LES)
+
+O paciente Cauã Moraes, um caso conhecido de Lúpus Eritematoso Sistêmico (LES) com histórico de pancreatite idiopática, apresentou-se no Wilhelmstrasse com queixas de fraqueza, cansaço, náusea, vômito, intolerância à comida, visão embaçada e dor abdominal. O paciente não relatou histórico de diabetes ou doenças autoimunes além do LES. O paciente já havia sido internado várias vezes por pancreatite, com todos os testes conduzidos pela Dra. Maria Gomes descartando cálculos biliares, tumores, doenças autoimunes e metabólicas. Recentemente diagnosticado com lúpus discoide e LES, o paciente apresentou graves manifestações neuropsiquiátricas tratadas com medicamentos.
+
+No exame, o paciente demonstrou taquicardia (125 bpm), taquipneia (27 respirações por minuto), sonolência e desidratação. Os exames laboratoriais realizados sob o número de prontuário médico YxvV-RFmcL mostraram um nível de glicose sérica de 1240 mg/dl (faixa normal: 70-140 mg/dl), sódio 127 mEq/L (faixa normal: 135-145 mEq/L), potássio 5.56 mEq/L (faixa normal: 3.5-5.0 mEq/L), e os níveis de cloro não foram totalmente relatados. Não foram observados sinais de resistência à insulina.
+
+O diagnóstico primário é Cetoacidose Diabética (DKA), provavelmente precipitada pelo uso de esteroides sistêmicos e possivelmente exacerbada pelo LES. Os diagnósticos diferenciais incluem surto de pancreatite aguda, embora menos provável dadas as atuais descobertas laboratoriais e sintomatologia. A Dra. Maria Gomes recomendou a imediata iniciação do protocolo de manejo da DKA, incluindo fluidos IV, terapia com insulina e monitoramento e reposição de eletrólitos. O monitoramento contínuo dos sinais vitais, glicose e níveis de eletrólitos é essencial.
+
+Consultas com endocrinologia para o manejo do diabetes e reumatologia para ajustes no manejo do LES foram agendadas para 08/01/2000. Foi fornecida educação ao paciente sobre o reconhecimento dos sinais de hiperglicemia e a importância do acompanhamento regular. Também foi discutida a abordagem de possíveis problemas de adesão relacionados ao regime complexo de medicamentos e ao manejo de doenças crônicas.
+
+Informações de Contato:
+Telefone: (449)729-9981
+Email: aome@outlook.com
+Endereço: Cauã Moraes, Rua Joel Matos, 76 3, Lawnlet, Uruana de Minas - 37, I818O6RJ, Brasil
+
+Contato de Emergência:
+Nome: Cauã Moraes
+Relação: Vizinho
+Telefone: (449)729-9981
+
+Informações de Prescrição:
+Farmácia: Mercer-Brown
+Endereço: Cauã Moraes, Rua Joel Matos, 76 3, Lawnlet, Uruana de Minas - 37, I818O6RJ, Brasil
+Telefone: (449)729-9981
+
+Prestador de Cuidados de Saúde do Paciente:
+Nome: Maria Gomes
+Organização: Mercer-Brown
+Endereço: Cauã Moraes, Rua Joel Matos, 76 3, Lawnlet, Uruana de Minas - 37, I818O6RJ, Brasil
+Telefone: (449)729-9981
+
+Assinado,
+Maria Gomes, RN
+"
+

@@ -1,0 +1,14 @@
+T1	PATIENT 20 36	Thea van der Ven
+T2	PATIENT 74 90	Thea van der Ven
+T3	PATIENT 259 275	Thea van der Ven
+T4	PATIENT 441 457	Thea van der Ven
+T5	PATIENT 698 714	Thea van der Ven
+T6	DOCTOR 942 954	Noah Bogaert
+T7	PATIENT 1105 1121	Thea van der Ven
+T8	PATIENT 1276 1292	Thea van der Ven
+T9	PATIENT 1366 1382	Thea van der Ven
+T10	PATIENT 1918 1934	Thea van der Ven
+T11	PATIENT 2072 2088	Thea van der Ven
+T12	PATIENT 2316 2332	Thea van der Ven
+T13	MEDICALRECORD 2336 2346	806339 SmW
+T14	DOCTOR 2390 2402	Noah Bogaert

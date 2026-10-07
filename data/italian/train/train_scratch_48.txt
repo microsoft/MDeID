@@ -1,0 +1,63 @@
+"Appunto di Infermieristica
+
+--------------------------
+**Profilo Paziente** 
+--------------------------
+Paziente: Domenico Benedetti
+Indirizzo: Domenico Benedetti, 501 Chris Keys Apt. 687 10, 5434 Anzio, Svizzera
+Età: 45
+Numero di Cartella Clinica: 41-UQhiaYw
+Nome utente: K27BG19x
+
+--------------------------
+**Osservazioni Mediche**
+--------------------------
+Reclami: Vene varicose
+Localizzazione: Gambe
+Gonfiore: Sì
+Estensione: Avanzata
+Statistiche Vitali: BP: 124/78, HR: 78 BPM, SPO2: 98%
+
+--------------------------
+**Dettagli Trattamento**
+--------------------------
+Somministrato: Calze a compressione
+ID Dispositivo: LTJ-793Owl
+
+--------------------------
+**Informazioni Aggiuntive**
+--------------------------
+Piano Sanitario: STE
+Ospedale: Ginásio Santana
+Conto: 424561 cGG
+Dottore: Federico Costa
+
+--------------------------
+**Contatto di Emergenza**
+--------------------------
+Telefono: 001-285-781-5217
+Telefono di riserva: 001-285-781-5217
+Email: eCos@hotmail.com
+Fax: (307)372-6602x383
+
+--------------------------
+**Dettagli Tecnici**
+--------------------------
+Indirizzo IP: 104.238.197.92
+BIO ID: YiMBv RplB
+Sicurezza Sociale: 676871-5245
+
+--------------------------
+**Associazioni Non-Mediche**
+--------------------------
+Organizzazione Connessa: Jensen and Sons
+Professione: Terapista, sportivo
+Dettagli Licenza: 36668 024L
+Dettagli Veicolo: KBU5687
+Altra Localizzazione: ospedale
+Numero ID: 424561 cGG
+URL: johnson.brown.ellis.biz
+CAP: 5434
+
+NOTA: Richiesta una rivalutazione il 07/12/05."
+

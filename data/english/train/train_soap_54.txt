@@ -1,0 +1,31 @@
+"S: Patient Charles Thomas reported a Tue-5 history of high fever and painful ulcers with scalp swelling upon admission. The patient also experienced poor eating due to the condition.
+
+O: Physical examination by Marley Thompson revealed consciousness with a Glasgow Coma Scale score of 15, pus formation, fistula with purulent discharge, scalp peeling, and facial swelling. Laboratory tests showed severe neutropenia with white blood cells at 2.39 \u00d7 10^9/l, neutrophils at 0.25 \u00d7 10^9/l, and lymphocytes at 2.1 \u00d7 10^9/l. Erythrocyte sedimentation rate was elevated at 101 mm/hour, and C-reactive protein was significantly high at 272 mg/dl. Pus culture tested positive for Enterococcus faecalis and Escherichia coli. Blood and urine cultures were negative. Chest X-ray, urinalysis, and cerebrospinal fluid analysis were normal. Serum titers of immunoglobulins and T cell percentages were within normal ranges. Bone marrow analysis showed maturation arrest at the promyelocyte/myelocyte stage without malignant involvement. CT scan of the head and skull at McDonnell Space Center indicated subcutaneous emphysema of the scalp but no brain injury or skull fractures.
+
+A: The primary diagnosis is necrotizing fasciitis of the scalp complicated by septicaemia. Differential diagnoses considered included other infectious etiologies, which were ruled out through various cultures and serological tests.
+
+P: The patient was treated with pentaglobin (0.5 g/kg) and a combination of antibiotics: vancomycin, meropenem, and metronidazole. Granulocyte colony-stimulating factor (G-CSF) therapy was initiated at doses ranging from 5 to 15 \u00b5g/kg/day to manage severe neutropenia. The patient was discharged after Tue-5 of treatment and continues on regular G-CSF therapy to prevent further infections. Follow-up includes regular monitoring of neutrophil count and general health status at McDonnell Space Center to ensure no recurrence of infection.
+
+Additional Information:
+- Patient's medical record number: 202119 76e
+- Patient's account number: Uss-299YAm
+- Patient's device serial number: 41171-pbtv
+- Patient's username: rlhoma
+- Patient's vehicle information: 06WW221
+- Patient's social security number: 822-88-2007
+- Patient's license information: RHED-yDnhQ
+- Patient's biometric identifier: 27-xhAapoB
+- Patient's IP address: 86.125.166.155
+- Patient's additional ID number: Uss-299YAm
+- Patient's age: 5
+- Patient's address: Charles Thomas, 51 Unpicaresque, Semimagnetical, Mambo 5821, New Zealand
+- Patient's location: theater
+- Patient's health plan: Z9WfqX3C
+- Patient's profession: Conservator, furniture
+- Patient's organization: Baker Inc
+- Today's date: Tue-5
+- Patient's email: Marhomps@icloud.com
+- Patient's phone number: 729.705.7541x41214
+- Patient's URL: http://diaz.com/searchcategory.html
+- Patient's fax number: (510)420-8221"
+

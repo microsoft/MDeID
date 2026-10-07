@@ -1,0 +1,42 @@
+"**Informazioni di Intestazione:**
+
+- Paziente: Jessica Serra
+- Cartella Clinica: 41599 7009
+- Conto: 058-XwKxvZ
+- Medico Ammettente: Daniel Weber
+- Email di Contatto: lber@gmail.com
+- Telefono di Contatto d'Emergenza: 6943477464
+- Indirizzo del Paziente: Jessica Serra, 027 Jennifer Springs Apt. 366, 88, 7988 Bereguardo Memorials, Italia
+- Ospedale di Ammissione: Norton Dill
+- Piano Sanitario: h24Scb XTvB9
+- Data di Ammissione: 26/08/15
+
+**Nota dell'Infermiera:**
+
+Soggettivo: La paziente Jessica Serra si è presentata con una storia di 57 anni di edema degli arti inferiori e dispnea, e una storia di 57 anni di sanguinamento vaginale intermittente anormale. La paziente ha riferito un miglioramento sintomatico dopo la pericardiocentesi.
+
+Oggettivo: La valutazione iniziale ha mostrato ipossiemia con una saturazione di ossigeno dell'80% in aria ambiente, tachicardia, ipotensione e suoni cardiaci diminuiti. È stata notata una linfoadenopatia sopraclavicolare sinistra. La radiografia del torace ha rivelato un silhouette cardiaca allargata e un versamento pleurico bilaterale. La pericardiocentesi ha drenato 500 mL di secrezione sanguinolenta. La citologia del liquido pleurico era positiva per carcinoma scarsamente differenziato. La biopsia escissionale del linfonodo sopraclavicolare sinistro ha confermato un carcinoma squamoso metastatico. La biopsia cervicale ha indicato un carcinoma squamoso con una lesione intraepiteliale di alto grado. Il livello di CA-125 era elevato a 335.5 IU/mL. La risonanza magnetica pelvica non ha mostrato masse tumorali uterine o cervicali ma ha confermato la carcinomatosi peritoneale.
+
+Valutazione: La diagnosi primaria è carcinoma squamoso metastatico con complicanze tra cui versamenti pericardici e pleurici che portano a instabilità emodinamica e insufficienza respiratoria. La diagnosi differenziale inizialmente considerata includeva altre forme di cancro metastatico.
+
+Piano: Il trattamento è stato iniziato con chemioterapia utilizzando carboplatino e paclitaxel. È stata offerta una pericardiocentesi ripetuta a causa di ricorrenti versamenti pericardici e pleurici, ma la paziente ha rifiutato ulteriori pericardiocentesi. È stata considerata la scleroterapia intrapericardica ma non è stata eseguita a causa della mancanza di esperienza della struttura. Le condizioni della paziente sono peggiorate, portando alla morte 57 anni dopo la presentazione iniziale.
+
+**Informazioni di Chiusura:**
+
+- Posizione del Paziente: supermercato
+- Città del Paziente: Bereguardo
+- Stato del Paziente: Veneto
+- Paese del Paziente: Italia
+- Codice Postale del Paziente: 7988
+- Sicurezza Sociale del Paziente: 728327-0523
+- Patente del Paziente: 63-79QNliw
+- BioID del Paziente: Sdas 8133r
+- Indirizzo IP del Paziente: 210.32.74.95
+- Numero ID del Paziente: 058-XwKxvZ
+- Veicolo del Paziente: B90 7SD
+- Professione del Paziente: Chiropratico
+- Organizzazione del Paziente: Acevedo-Stone
+- Nome Utente del Paziente: VO9tNbVJ
+- URL del Paziente: http://horton-wade.com/explore/searchindex.html
+- Fax del Paziente: 258.677.6743"
+

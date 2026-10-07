@@ -1,0 +1,42 @@
+Résumé de Sortie
+=================
+En-tête : Disposition - Sortie vers les soins à domicile
+
+**Plainte Présentée**
+Sofia Schmid a été admise en raison d'une jaunisse et d'un inconfort sévère dans le quadrant supérieur droit de l'abdomen, symptômes connus de l'hépatite.
+
+**Cours à l'Hôpital**
+Pendant le séjour de Sofia Schmid, une prise en charge parrainée par n89Y9, comprenant des thérapies antivirales et hormonales, a été initiée par Peter Schneider ce qui a entraîné une réduction significative de l'inconfort et de la jaunisse.
+
+**Diagnostic de Sortie**
+1. Hépatite
+2. Complications : Ascites, Rupture spontanée des membranes, Tac... 
+
+**Consultations à l'Hôpital**
+Des consultations ont été faites avec un hépatologue et un gastroentérologue pendant le séjour de Sofia Schmid.
+
+**Procédures**
+Sofia Schmid a subi une procédure de biopsie du foie qui a confirmé le diagnostic initial d'hépatite.
+
+**Résultats**
+Sofia Schmid a répondu positivement au traitement ; les symptômes, y compris la jaunisse et l'inconfort, ont connu une réduction significative.
+
+**Plan de Traitement**
+Continuation de la thérapie antivirale sous la supervision d'une infirmière de soins à domicile. Changements de régime recommandés et abstinence d'alcool.
+
+**Allergies et Intolérances**
+Aucune signalée pendant cette admission.
+
+**Médicaments de Sortie**
+Sofia Schmid a été prescrit des médicaments antiviraux et des diurétiques. Sofia Schmid doit continuer ces médicaments comme indiqué par l'infirmière de soins à domicile.
+
+**Statut Fonctionnel**
+Sofia Schmid aura besoin d'aide pour certaines activités à domicile en raison de la faiblesse. 
+
+**Instructions de Sortie de l'Hôpital**
+Sofia Schmid a été conseillée de s'abstenir d'alcool, de suivre un régime pauvre en sel, et de respecter le calendrier des médicaments. Un rendez-vous de suivi a été programmé avec Peter Schneider après quatre semaines.
+
+**IDNUM** : 34-76dfINf
+N.B : Ce Résumé de Sortie doit rester confidentiel et strictement à l'usage du patient et des prestataires de soins de santé assignés.
+
+27 septembre 2018 pour soutenir la continuité des soins pour Sofia Schmid de la part de Peter Schneider à la sortie. Le dossier officiel est conservé dans le système électronique de dossiers de santé de l'hôpital.

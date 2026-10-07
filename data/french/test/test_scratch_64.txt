@@ -1,0 +1,57 @@
+"\"Notes d'Infirmière: Examen de l'État de la Peau\"
+
+Informations d'En-tête:
+Médecin en charge: Constant Roux
+
+Informations sur le Patient:
+Nom du Patient: Elliot Wong
+ÂGE: 100
+Adresse: Elliot Wong, 977 Collart Path Suite 324 74, 1176 Ilmenau, Belgique
+Numéro de Compte: IYQaN hEXK
+Email: ouxonst@hotmail.com
+Téléphone: 001-823-802-4195
+
+Signes Vitaux:
+- Température: 98.6\u00b0F 
+- Pouls: 80 bpm
+- Respiration: 16 respirations par min
+- Pression Artérielle: 120/80 mm Hg
+
+Examen de l'Éruption Cutanée:
+Rougeur: Oui
+Démangeaisons: Oui
+Gonflement: Non
+Boutons: Oui
+Durée: 27 mars 1994
+
+Observations:
+-Le patient se plaint d'une éruption cutanée persistante, soupçonnée d'être une infection fongique.
+-L'examen a confirmé une éruption cutanée rouge et démangeante avec de petits boutons surélevés. 
+-Zone affectée du patient: théâtre
+
+Antécédents Médicaux:
+Hospitalisation Précédente: Daliyat
+Dossier Médical: 4542 29875
+
+Traitement:
+Crème antifongique topique et médicament antifongique oral prescrits. Suivi recommandé pour le 27 mars 1994.
+
+Informations Supplémentaires:
+Plan de Santé: dEHa1C
+Appareil: rBgE-332jj
+Profession: Directeur des Opérations
+Nom d'utilisateur (pour consultation en ligne) : aI1fz92H
+Contact d'Urgence: 001-823-802-4195
+
+Informations de Pied de Page:
+IP d'envoi: 45.169.113.56
+Licence logicielle par: 9267-6268h
+Bio-ident pour connexion: Ft 38YxTMX
+ID du Document: IYQaN hEXK
+
+Informations de Contact:
+Fax: (560)302-6826x33095
+URL: chen-johnson.johnson.net 
+
+FIN DE LA NOTE."
+

@@ -1,0 +1,46 @@
+"Krankenschwester Erzählnotiz:
+
+Während des heutigen Besuchs stellte sich Laura Wyss mit einer chronischen Geschichte von unkontrollierten Stuhlgängen vor, die seit 78 anhält. Die Lebensqualität des Patienten wurde durch dieses Problem stark beeinträchtigt. Laura Wyss hat auch eine frühere medizinische Vorgeschichte von Gebärmutterhalskrebs, der durch eine radikale Wertheim-Meigs-Hysterektomie am 26.06.2006 behandelt wurde und ein subtotaler Schilddrüsenentfernungsverfahren am 26.06.2006. Der Patient wurde mit Laktose- und Fruktosemalabsorption und chronischer Strahlenkolitis diagnostiziert. Frühere Versuche, den Zustand mit einer Vielzahl von Probiotika, Loperamid und Mesalazin zu behandeln, haben keine signifikante Verbesserung gezeigt.
+
+Als Teil der diagnostischen Verfahren hat Laura Wyss mehrere Rektoskopien und Koloskopien durchgeführt. Die Ergebnisse dieser Tests zeigten eine Stenose im Sigma-Dickdarm, wiesen jedoch keine entzündliche Darmerkrankung auf. CT-Scans zeigten eine langstreckige konzentrische Verdickung der Rektumwand und eine Flüssigkeitsaufnahme des perirektalen Fettgewebes. Leider wurden die Vitalzeichen und andere spezifische Laborergebnisse nicht in der Patientenakte FpvcDd 503 angegeben.
+
+Die Hauptdiagnose ist chronische Strahlenkolitis, die wahrscheinlich sekundär zur Strahlentherapie nach der Hysterektomie auftritt. Während es andere Ursachen für den chronischen Durchfall geben könnte, scheinen diese angesichts der Bild- und endoskopischen Befunde weniger wahrscheinlich. Die Prognose ist vorsichtig, da der Patient nicht auf traditionelle Behandlungsmethoden reagiert hat.
+
+In Zukunft beinhaltet der Behandlungsplan die Einleitung einer fäkalen Mikrobiota-Therapie, da Laura Wyss dieser experimentellen Studie zugestimmt hat in der Hoffnung, die Symptome zu verbessern. Regelmäßige Nachsorgetermine werden notwendig sein, um die Reaktion des Patienten auf die Behandlung zu überwachen und gegebenenfalls Anpassungen vorzunehmen. Darüber hinaus wird der Patient eine Schulung zur Symptomkontrolle und Lebensstilanpassungen erhalten, um mit chronischem Durchfall umzugehen. Wenn keine Verbesserungen beobachtet werden, kann auch eine Überweisung an einen Spezialisten Netzwerktechniker zur weiteren Behandlung und zweiten Meinung in Betracht gezogen werden.
+
+-----------------------------------
+Krankenschwester Mia Wyss, 5109 34058
+26.06.2006>
+
+Zusätzliche PHI-Platzhalter: 
+
+Kontaktinformationen des Patienten:
+- E-Mail: ysa@aol.com
+- Telefon: 475-781-6212x146
+- Adresse: Laura Wyss, Ferraristrasse 8 2, 1657 Ludwigshafen am Rhein, Österreich
+
+Notfallkontakt:
+- Name: Laura Wyss
+- Beziehung: 
+- Telefon: 475-781-6212x146
+
+Konto- und Abrechnungsinformationen:
+- Kontonummer: 3618-mseSk
+- Gesundheitsplan: z1OwlCr
+- Organisation: Miller, Berg und Jimenez
+
+Geräteinformationen:
+- Geräte-ID: IlNV 09EWO
+
+Informationen zum Online-Portal:
+- Benutzername: BXWS0gDR
+- IP-Adresse: 153.92.160.157
+
+Weitere relevante Informationen:
+- Fahrzeug-ID: ORX2378
+- Sozialversicherungsnummer: 292-3381590-78
+- Biometrische ID: yzo-34Azzr
+- Persönliche ID: 3618-mseSk
+- Fax: (869)284-7405x747
+- URL: white-baker.dennis.org"
+

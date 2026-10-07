@@ -1,0 +1,37 @@
+"Nota de Enfermagem
+
+Subjetivo: O paciente Otávio Rodrigues, com histórico de deficiência adquirida de FX devido à amiloidose AL, PAF, adenocarcinoma de pulmão metastático em erlotinib, cardiomiopatia hipertrófica, hipertensão e diabetes mellitus tipo 2, relata sentir-se \"bem\", mas teve problemas incluindo epistaxe autolimitada e fácil formação de hematomas em 7 de out. de 1995. O paciente lembra-se de resultados de exames anteriores e procedimentos médicos.
+
+Objetivo: Resultados de exames anteriores indicaram um TP de 12,4 segundos (intervalo de referência: 11-15 segundos), INR de 1,2 (intervalo de referência: 0,9-1,2), aPTT de 38 segundos (intervalo de referência: 25-35 segundos), fosfatase alcalina em 160 U/L (intervalo de referência: 40-130 U/L), creatinina em 1,16 mg/dL (intervalo de referência: 0,7-1,2 mg/dL) e proteinúria com 882 mg/24 h (intervalo de referência: 0-150 mg/24 h). Ultrassom abdominal mostrou praia com o lobo direito medindo 21 cm. Eletroforese de soro e urina indicou a presença de imunoglobulina G-lambda. Church, Moody and Morgan revelou extensa deposição de amilóide com presença de cadeia leve lambda. Biópsia de medula óssea mostrou extensa deposição de amilóide, coloração positiva para vermelho Congo e hibridização in situ de fluorescência positiva para cadeias leves lambda. Foi observada atividade de coagulação FX diminuída em 45% com um intervalo de referência de 70%-150%. Em 7 de out. de 1995, o perfil de coagulação mostrou TP de 16,3 segundos, aPTT de 33 segundos e atividade FX de 34%.
+
+Avaliação: O diagnóstico principal é deficiência de FX adquirida secundária à amiloidose AL. O histórico do paciente de adenocarcinoma de pulmão recorrente e outras comorbidades complicam o manejo. Diagnósticos diferenciais incluem outras causas de coagulação anormal não relacionadas à amiloidose. O prognóstico é reservado devido à complexidade das condições subjacentes e à natureza recorrente do câncer de pulmão.
+
+Plano: Continuar com o atual regime de quimioterapia com melfalano e dexametasona. O monitoramento regular dos perfis de coagulação e da atividade FX é essencial. Educar o paciente sobre a importância de relatar novos sintomas ou preocupações prontamente. Agendar consultas de acompanhamento regulares para avaliar a eficácia do tratamento e gerenciar quaisquer complicações. É recomendado encaminhamento a um hematologista para mais manejo da deficiência de FX e a um oncologista para tratamento contínuo do câncer. Garantir a conformidade com todos os medicamentos prescritos e cronogramas de acompanhamento.
+
+Rodapé:
+Identificador do Paciente: KCrAK-7309
+Número da Conta: 34571 EuXC
+Identificador do Dispositivo: 34560-7539
+Nome de Usuário: 8VdqAOdJ
+Identificador do Veículo: 14C 972
+Número do Seguro Social: 91011422-9
+Identificador da Licença: 5395 rTCmd
+ID Biométrico: 57555-4759
+Endereço IP: 171.234.78.127
+Outro Identificador: 34571 EuXC
+Idade: 109
+Endereço: Otávio Rodrigues, Área Azevedo, 66 58, 8439 Plácido de Castro, Portugal
+Hospital: Boston Breakers
+Outra Localização: praia
+Plano de Saúde: kYA
+Profissão: Banker
+Organização: Church, Moody and Morgan
+Data: 7 de out. de 1995
+Médico: Francisca Moreira
+Email: anciscara@un.org
+Telefone: 332-949-2999x8125
+URL: hall.barnett.nunez-mitchell.com
+Fax: 929-980-1330 
+
+Assinado: Francisca Moreira"
+

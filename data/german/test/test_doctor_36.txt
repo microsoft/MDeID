@@ -1,0 +1,33 @@
+"Arzt Kratz Notiz:
+
+Patient: Nick Köhler
+ID: yVb mKBkKJ
+
+S: 
+19-jähriger 51 Mann. Beschwerden: Polydipsie, Polyurie, Muskelschwäche, Erbrechen, vorübergehende Lähmung. Dauer: Über einen Monat. Frühere Krankengeschichte: Negativ für neuromuskuläre, Schilddrüsen-, Autoimmunerkrankungen. Vorherige Krankenhausaufenthalte: Ja, Ursache - schwere Hypokaliämie, metabolische Azidose. Symptomveränderungen seit der letzten Bewertung: Keine gemeldet.
+
+O:
+PHI: Stereolab 
+Letzte Aufnahme: Diagnose von schwerer Hypokaliämie, metabolischer Azidose. pH 7,22, pCO2 26,0 mm Hg, HCO3 10,6 mmol/L, Laktat 7,1 mmol/L, Basenüberschuss -15,6 mmol/L. 
+
+Aktuelle Labore: 
+WBC 3,16 × 109/L, Hämoglobin 74 g/L, Thrombozytenzahl 128 × 109/L, Natrium 140 mmol/L, Chlorid 108 mmol/L, Kalium 3,18 mmol/L, Kalzium 1,89 mmol/L, Kreatinin 57,8 mmol/L, Bikarbonat 19 mmol/L, Urin-pH 6,5, Urin-Natrium 80 mmol/L, Urin-Kalium 18,68 mmol/L. 
+
+24-Stunden-Urintest: 
+Natrium 320 mmol/24h, Kalium 74,7 mmol/24h, Kalzium 12,24 mmol/24h, Protein 988,00 mg/24h. 
+
+Serum- und Urinosmolalität: 
+303 und 158 mOsm/kg, jeweils. 
+
+Körperliche Untersuchung: 
+Blässe.
+
+A:
+Primäre Diagnose: Hypokaliämie, assoziierte metabolische Azidose. Differenzialdiagnosen: Renale tubuläre Azidose, Nebenniereninsuffizienz, gastrointestinaler Kaliumverlust. Vorübergehende Lähmung, Muskelschwäche: Besorgniserregend für periodische Lähmung, möglicherweise sekundär zu schweren Elektrolytstörungen.
+
+P:
+Aktionsplan: Überwachung der Elektrolytspiegel, Säure-Basen-Gleichgewicht. Verabreichung von Kaliumpräparaten. Bicarbonattherapie in Betracht ziehen, wenn die metabolische Azidose anhält. Überweisung: Lise Willems, Nephrologe zur weiteren Bewertung der Nierenfunktion, potenzieller tubulärer Störungen. Patientenrat: Befolgen Sie die Behandlungs- und Ernährungsempfehlungen für Kalium. Nachsorge: In einer Woche zur erneuten Beurteilung der Symptome, Laborergebnisse. Besprechen Sie den Behandlungsplan mit dem Patienten, ermutigen Sie zur Meldung neuer Symptome oder Bedenken.
+
+Unterzeichnet:
+Lise Willems"
+

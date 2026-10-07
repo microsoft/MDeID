@@ -1,0 +1,80 @@
+Riepilogo Dimissione
+===================
+
+Provisione di Dimissione: Casa con servizi
+
+**Ammissione:** Il paziente è stato ricoverato a causa di complicazioni derivanti da cirrosi.
+
+**Procedure:** È stata eseguita una paracentesi per alleviare i sintomi dell'ascite. Un esame approfondito ha mostrato segni di splenomegalia, ulteriormente indagata tramite ecografia.
+
+**Cura/Trattamento:** Al paziente sono stati forniti farmaci per gestire il prurito e il dolore addominale. La struttura ha anche garantito un'assistenza infermieristica potenziata per prevenire cadute dovute a squilibrio.
+
+**Condizione alla Dimissione:** Al momento della dimissione, il paziente ha mostrato una significativa riduzione dell'ascite e ha riferito meno disagio. È stato suggerito un monitoraggio regolare degli enzimi epatici a causa della persistente cirrosi.
+
+**Informazioni Fornite al Paziente/Famiglia:** Il paziente e la famiglia sono stati informati sulla natura della malattia e sull'importanza dei controlli regolari. È stata anche discussa la possibilità di un trapianto di fegato.
+
+**Cura di Follow-up:** Il paziente è programmato per visitare il Davide Pellegrin presso l'Ospedale St Bernard di Gibilterra tre settimane dopo la dimissione. La medicazione sarà regolata in base ai livelli degli enzimi epatici e alle condizioni di salute generali.
+
+---
+
+# Sezioni Richieste
+
+**Allergie e Intolleranze:** Il paziente non ha segnalato allergie note.
+
+**Percorso Ospedaliero:** Il percorso ospedaliero del paziente ha coinvolto la gestione dell'ascite, della splenomegalia e del disagio associato.
+
+**Diagnosi di Dimissione:** Cirrosi con ascite e splenomegalia
+
+**Piano di Trattamento:** Monitoraggio regolare della funzione epatica, gestione dei sintomi per prurito e dolore addominale, e visite di follow-up programmate.
+
+**Consultazioni Ospedaliere:** Il paziente è stato visitato da un epatologo e un gastroenterologo durante il corso del trattamento.
+
+**Procedure:** Paracentesi ed ecografia per splenomegalia
+
+**Risultati:** Riduzione dell'ascite e miglioramento dei livelli degli enzimi epatici.
+
+---
+
+# Sezione Consigliata
+
+**Medicazioni di Dimissione:** Il paziente è stato dimesso con prescrizioni per diuretici e farmaci per il prurito.
+
+---
+
+# Sezioni Aggiuntive
+
+**Principale Reclamo:** Il paziente si è presentato con ascite, un'andatura instabile che ha provocato cadute, splenomegalia, prurito e dolore addominale.
+
+**Nutrizione:** Al paziente è stato consigliato di seguire una dieta a basso contenuto di sodio per aiutare a gestire l'ascite.
+
+**Storia Familiare:** La storia familiare non mostra predisposizione genetica alle malattie del fegato.
+
+**Stato Funzionale:** Il paziente ha mostrato un miglioramento nel movimento e ha riferito meno cadute dopo il trattamento.
+
+**Storia Medica Precedente:** Il paziente ha una storia cronica di cirrosi.
+
+**Diagnosi di Ammissione:** Il paziente è stato ricoverato per cirrosi con ascite grave e splenomegalia.
+
+**Medicazioni di Ammissione:** All'atto dell'ammissione, il paziente era già in terapia per la gestione della cirrosi.
+
+**Istruzioni di Dimissione Ospedaliera:** Al paziente è stato detto di limitare l'assunzione di sodio, di assumere i farmaci come prescritto e di controllare i segni di infezione intorno al sito della paracentesi.
+
+**Esame Fisico alla Dimissione Ospedaliera:** All'esame fisico alla dimissione, il paziente non ha mostrato segni di infezione e ha riferito meno disagio.
+
+**Riepilogo degli Studi di Dimissione Ospedaliera:** I risultati della paracentesi e dell'ecografia sono stati discussi con il paziente prima della dimissione.
+
+**Immunizzazioni:** Aggiornate
+
+**Problema:** Cirrosi che porta a ascite e splenomegalia.
+
+**Motivo della Visita:** Il paziente si è presentato con ascite grave che ha portato a cadute, insieme a splenomegalia, prurito e dolore addominale.
+
+**Revisione dei Sistemi:** Il paziente ha molti sintomi relativi alla cirrosi.
+
+**Storia Sociale:** Il paziente è un non fumatore e riferisce un consumo moderato di alcol.
+
+**Segni Vitali:** Stabili al momento della dimissione
+
+**Direzioni Avanzate:** Non specificate
+
+Numero di Cartella Clinica: tVyF 8423v

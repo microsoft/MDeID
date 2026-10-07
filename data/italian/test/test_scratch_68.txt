@@ -1,0 +1,54 @@
+"**Nota di Osservazione Infermieristica**
+
+_Dettagli del Paziente:_
+- **ID Paziente**: Valeria Caruso
+- **MRN**: QIzL 69prI
+- **Età**: 53
+- **Ammesso da**: Nina Keller
+
+_Informazioni di Contatto:_
+- **Indirizzo di Casa**: Valeria Caruso, 69735 Johnson Common 11, 1187 Levane, Svizzera
+- **Contatto Telefonico**: 5686903019
+- **Email**: Nie@outlook.com
+
+_Vitali e Osservazioni:_
+- **BP**: 120/80 
+- **Frequenza Respiratoria**: 14
+- **Pulsazioni**: 65
+
+_Stato Attuale:_
+
+Sintomi di impetigine notati. Sviluppo di piaghe sul viso. Sospetta infezione cutanea. Antibiotici prescritti.
+
+_Test di Laboratorio:_
+
+Ordinato per emocromo completo, coltura di tampone cutaneo.
+
+_Procedura & Dispositivo:_
+- **Procedura**: pFXYvf-Fji
+- **ID Dispositivo**: 810 HFntrq
+
+_Altre informazioni:_
+- **Indirizzo IP** : 149.105.214.172
+- **ID Ospedale** : Crosley Field
+- **Piano Sanitario**: e7LXm
+
+_Commenti:_
+
+Condizione del paziente in miglioramento. Follow-up programmato con il medico di medicina generale. 
+
+-----------------------------------------------------------------------------------------------
+
+**Sezione Privacy:**
+- **Fornitore di Assistenza Sanitaria**: Matthews Ltd
+- **Nome Utente per il Login**: S4tGOvb1
+- **Informazioni sulla Licenza**: 525-06400c
+- **Identificatore Biometrico (hash dell'impronta digitale)**: xnYnj 16XL
+- **Numero ID Generico**: pFXYvf-Fji
+- **Previdenza Sociale**: 449346-2067
+- **ID Veicolo (per evacuazione di emergenza)**: 2K079
+
+-----------------------------------------------------------------------------------------------
+
+Questa Nota di Osservazione è soggetta alle regole e linee guida sulla privacy dell'organizzazione sanitaria. Qualsiasi accesso o divulgazione non autorizzata delle informazioni può comportare azioni legali."
+

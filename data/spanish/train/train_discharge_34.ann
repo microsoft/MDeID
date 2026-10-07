@@ -1,0 +1,18 @@
+T1	PATIENT 35 45	Sergio Gil
+T2	MEDICALRECORD 80 90	tMff-079JD
+T3	DOCTOR 115 131	Patricia Londoño
+T4	HOSPITAL 148 187	Saudi and Philippines Publishing Center
+T5	HOSPITAL 187 226	Saudi and Philippines Publishing Center
+T6	PATIENT 278 288	Sergio Gil
+T7	PATIENT 650 660	Sergio Gil
+T8	PATIENT 996 1006	Sergio Gil
+T9	PATIENT 1119 1129	Sergio Gil
+T10	PATIENT 1436 1446	Sergio Gil
+T11	DOCTOR 1666 1682	Patricia Londoño
+T12	HOSPITAL 1686 1725	Saudi and Philippines Publishing Center
+T13	HOSPITAL 1725 1764	Saudi and Philippines Publishing Center
+T14	EMAIL 1803 1819	ondci@yandex.com
+T15	PATIENT 1910 1920	Sergio Gil
+T16	HOSPITAL 2170 2209	Saudi and Philippines Publishing Center
+T17	HOSPITAL 2209 2248	Saudi and Philippines Publishing Center
+T18	PHONE 2252 2268	001-861-676-4885

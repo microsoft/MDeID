@@ -1,0 +1,68 @@
+"---Verpleegkundige Krasnotitie---
+
+**PH I: Niels Simons** 
+
+- Temp: 102 F 
+- Bleekheid: Ja 
+- Onwel: Klachten van zich onwel voelen
+- Diagnose: Mogelijke malaria
+
+**PH II: Recente vitale functies van Niels Simons**
+
+- Pols: 86 BPM 
+- Resp: 22 ademhalingen/min
+- BP: 120/80 mmHg
+- O2 Sat: 95%
+
+**PH III: Voortgangsnotities**
+
+- Tijdlijn: Toegelaten op zaterdag 7 juni 2008
+- Toegewezen Jack van Beek 
+- Niels Simons's Mexico Open record: 72-771319C
+- Unieke ID van Niels Simons: 858865 cMd
+- Klachten: Hoge temperatuur, zich onwel voelen 
+
+**PH IV: Andere Observaties**
+
+- Lichte geelzucht waargenomen 
+- Bloedtest: Suggestief voor malaria 
+- Niels Simons meldt recente reis naar park
+
+**PH V: Contact en Aanvullende Info**
+
+- Contact: 001-707-833-4957
+- Noodcontact: ackkan@who.int
+- Permanent: Niels Simons, Pogonotrophy 64, 2877 Stoneblindness, Nederland
+- Huidig: Jack van Beek, Metempiricism 91, 9723 Nontubular, Nederland
+- Verzekering van Niels Simons 858865 cMd met HPm4aS0A
+
+**PH VI: Apparaat en Aanvullende ID**
+
+- Monitoring met apparaat 22405 6587
+- Sociale Zekerheid: 019031025
+
+**PH VII: Medicatie en Ontslag**
+
+- Antimalariamedicatie voorgeschreven 
+- Verwachte ontslag: zaterdag 7 juni 2008
+
+**Handtekening personeel: yUiO3sNU**
+
+**Einde van Notitie**
+
+---Bijlagen---
+
+- Scan van de Licentie van de Patiënt: ZHUxjd cTT
+- Biometrische ID Hash: 314135 cFO
+- IP-adres van externe toegang: 159.7.193.46
+- Voertuigdetails: 70-QM79
+- Werkplek van de Patiënt: Lee, Garcia en Brown
+- Geassocieerd e-mailadres: ackkan@who.int
+- Verwijzingsdetails:  www.richard-kim.org/blogterms.php
+- Fax Contact: (799)860-1981
+- Gelogd door: yUiO3sNU
+- Toegang door: Informatiesystemen manager 
+
+---Einde van Document---
+"
+

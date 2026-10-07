@@ -1,0 +1,55 @@
+"**Note de l'infirmière**
+   
+    **Détails du patient**
+        Plainte de Sara Schmid : Douleur au cou
+        Âge de Sara Schmid : 102
+        Info : chmiar
+        Lieu : arrêt de bus
+        Email : ALévesq@yandex.com
+        Téléphone : (274)259-4095x14175
+        Adresse : Sara Schmid, 29 22575 boulevard Sarah Apt. 360, 7279 La Penne, France
+   
+    **Informations médicales**
+        Diagnostic : Spondylose cervicale
+        Hôpital : Monaco 's Rose
+        Médecin : Alexis Lévesque
+        Plan de santé : nX37 ShBES
+        Numéro de dossier médical : 55936-488Y
+        Numéro de compte : wrx 575vgH
+        Numéro de l'appareil : 547254-37P
+   
+    **Observations**
+        Transpiration : Présente
+        Vertiges : Ressentis
+        TA : 120/80
+        Fréquence cardiaque : 85
+        Fréquence respiratoire : 16
+   
+    **Informations supplémentaires**
+        BioID : lK xLlWcAC
+        Adresse IP : 49.142.223.26
+        Profession : Psychothérapeute, enfant
+        Numéro de véhicule : 9X 78215
+        SSN : 477-517-218
+        Numéro de licence : Hb-92tmxiS
+        Org : Brown-Yang
+        Fax : 001-210-360-0986
+        ID# : wrx 575vgH
+   
+    **Progression du patient**
+        État de la spondylose : Stable
+        Intensité de la douleur au cou : 6/10
+        Mobilité physique : Limitée
+        État mental : Alert
+   
+    **Plan**
+        Continuer avec le plan de traitement actuel.
+        Surveiller régulièrement la douleur au cou et la mobilité.
+        Mettre à jour Alexis Lévesque sur la progression du patient.
+
+**************************************************
+    Document créé le 14 août 1971
+    Créé par : Infirmière chmiar
+    Contact : (274)259-4095x14175/ALévesq@yandex.com/ www.johnson.com/categorypost.html
+**************************************************"
+

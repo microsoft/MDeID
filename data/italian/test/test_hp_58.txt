@@ -1,0 +1,46 @@
+Nota di Anamnesi e Esame Fisico (H&P)
+
+--------------------
+
+**Paziente**: Lucia Longo
+
+**Principale Reclamo / Motivo della Visita**: La paziente Lucia Longo si presenta con un reclamo principale di persistente disturbo della deglutizione (difficoltà a deglutire) e sintomi associati tra cui parestesia (sensazione anomala), titubazione (movimenti instabili, tremolanti), disartria (difficoltà nell'articolare le parole) e deglutizione dolorosa.
+
+**Anamnesi Medica**: Lucia Longo ha un numero di cartella clinica 561506 hQn. Nessuna storia di sintomi simili o allergie note. Nessun intervento chirurgico passato o ricoveri significativi.
+
+**Storia Familiare**: Nessuna predisposizione familiare nota per disturbi neurologici o degenerativi.
+
+**Storia Sociale**: La paziente Lucia Longo non fuma o consuma alcol. Mantiene un'attività fisica regolare.
+
+**Esame Fisico**:
+
+* Stato Generale: La paziente è allerta, completamente orientata e collaborativa. L'aspetto è coerente con l'età dichiarata 92. Segni vitali: PA 120/80 mmHg, frequenza cardiaca 78 bpm, Temp 98.6 °F, frequenza respiratoria 18 al min, SpO2 99%.
+
+* Testa & Collo: Nessun trauma cranico evidente. Collo agile. Tiroide non ingrossata.
+
+* Neurologico: Nessun deficit dei nervi cranici. Forza motrice e esame sensoriale normali.
+
+**Revisione dei Sistemi**:
+
+* Cardiovascolare: Suoni cardiaci normali, non rilevati soffi o ritmi irregolari.
+
+* Respiratorio: Polmoni chiari all'auscultazione, nessun sibilo o rales.
+
+* Gastrointestinale: Addome morbido, non dolente.
+
+**Medicazioni**: Attualmente la paziente non assume alcun farmaco.
+
+**Risultati**: In attesa di risultati di laboratorio e di imaging.
+
+**Valutazione**: Data la sintomatologia, la condizione potrebbe indicare un possibile disturbo neurodegenerativo. Ulteriori indagini sono necessarie per confermare la diagnosi.
+
+**Piano di Trattamento**: Si raccomanda il rinvio a un neurologoThomas Grafper ulteriori valutazioni, tra cui neuro-imaging e possibile biopsia. La consultazione con un logopedista potrebbe essere utile per la disartria. Medicazione per il controllo dei sintomi in considerazione in attesa di ulteriori risultati degli esami.
+
+**Istruzioni**: Si consiglia al paziente di evitare cibi difficili da deglutire e di mantenere l'idratazione. È necessario un regolare follow-up per monitorare i progressi e adeguare il trattamento se necessario.
+
+**Piano Sanitario**: CGre5VF
+
+**Data**: 06/07/92
+
+**Dottore**: Thomas GrafNota: Questo è un documento temporaneo e soggetto a modifiche in base ai risultati di laboratorio/imaging e ulteriori valutazioni. Si prega di fare riferimento alla cartella clinica aggiornata per le informazioni più recenti.
+

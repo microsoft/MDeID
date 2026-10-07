@@ -1,0 +1,44 @@
+"Nota Narrativa Infermieristica: Paziente con Leucemia Mieloide Acuta Refrattaria (AML)
+
+Valeria Riva è stata diagnosticata con Leucemia Mieloide Acuta refrattaria (AML), ed ha espresso preoccupazioni riguardo al prossimo trattamento che coinvolge un regime EMA (mitoxantrone, etoposide, citarabina). Valeria Riva si presenta attualmente stabile e riferisce di sentirsi bene, nonostante l'ansia riguardo ai potenziali effetti collaterali del trattamento.
+
+All'esame, il livello di emoglobina attuale di Valeria Riva è risultato essere 9.5 g/dl e il conteggio delle piastrine era di 20,000 per microlitro, indicando segni di anemia e trombocitopenia. I risultati dell'analisi delle urine sono entro il range normale. Le colture del sangue prelevate sia dalla linea centrale che dalla vena periferica hanno mostrato la presenza di Staphylococcus epidermidis. Valeria Riva è in programma per la chemioterapia tramite un 701-GHEUnQ, mentre la temperatura orale e il conteggio assoluto dei neutrofili saranno attentamente monitorati per eventuali segni di febbre o infezione.
+
+La diagnosi primaria in questa fase è AML refrattaria. Valeria Riva è a rischio per infezioni correlate al catetere, anemia, trombocitopenia, e potenziali complicazioni dalla chemioterapia, come febbre e neutropenia. La sinusite è considerata come una diagnosi differenziale per eventuali febbri, come indicato dalla storia medica di Valeria Riva e la possibilità di infezioni cutanee e oculari. 
+
+Il piano di trattamento futuro include l'inizio del regime di chemioterapia EMA e l'inserimento di un catetere venoso centrale. A causa della presenza di Staphylococcus epidermidis, verranno somministrati la terapia antibiotica profilattica lock e antibiotici sistemici (meropenem e teicoplanina). Le valutazioni regolari monitoreranno per anemia, trombocitopenia, e segni di infezione. In caso di febbre, verranno condotte ulteriori indagini, che potrebbero includere palestra per potenziale trombosi. Se si sviluppano lesioni cutanee o sintomi oculari, verranno rispettivamente eseguiti biopsia ed esame fondoscopico, con trattamenti appropriati come la terapia antifungina intravitreale per l'endoftalmite. Valeria Riva sarà educata sui segni di complicazioni e incoraggiata a segnalare prontamente qualsiasi nuovo sintomo.
+
+Infermiera Sara Lombardi, Ingegnere, perforazione
+
+Informazioni di Contatto:
+- Telefono: 357.236.9458
+- Email: bar@msf.org
+- Indirizzo: Valeria Riva, 346 Daniel Mountains Apt. 087, 1, 3202 Saracena, Calabria Fussier, Italia
+
+Contatto di Emergenza:
+- Nome: Valeria Riva
+- Relazione: Ingegnere, perforazione
+- Telefono: 357.236.9458
+
+Informazioni Aggiuntive:
+- Numero di Cartella Clinica: 0020-11LdT
+- Numero di Conto: jYIM-837GR
+- Numero di ID: jYIM-837GR
+- Numero di Sicurezza Sociale: ECKIPS70A21J839Q
+- Età: 85
+- Numero di Licenza: 77230 5665
+- BioID: 11753 EvxP
+- Indirizzo IP: 92.89.149.108
+- Nome Utente: leriaa
+- Numero di Identificazione del Veicolo: 58-8762G
+- Ospedale: casarín
+- Piano Sanitario: Vn4kEf nwo3
+- Organizzazione: Green-Phillips
+- Stato: 92
+- Città: Saracena, Calabria
+- Paese: Italia
+- Codice Postale: 3202
+- Via: 2688 Johnson Crescent
+- URL: johnson.com
+- Fax: 371-357-3009x90515"
+

@@ -1,0 +1,48 @@
+"Nota de Enfermera: Observación de Dengue
+
+Instantánea de signos vitales:
+
+Temperatura: 38.5
+Presión arterial: 120/80
+Frecuencia cardíaca: 88 lpm
+Respiración: 16 respiraciones por min
+
+Palabras clave de la condición: Dolor en las articulaciones, fiebre alta, dolor de cabeza, náuseas
+
+Tratamiento administrado: 
+Se administró , dosis de 200mg
+
+Observaciones adicionales:
+Se observó una erupción en la piel de Juana Rojas - Se sospecha de Dengue. Esperando más pruebas.
+
+Notas:
+Juana Rojas se mudó recientemente desde Spain. Exposición potencial. 
+Vive en Juana Rojas, Periférico Nayarit 395 905 7, Decalobate, 1CN13BJF Xalapa Enríquez, Argentina - revisar posibles lugares de cría de mosquitos.
+
+Próximos pasos:
+Margarita Rivera para confirmar el diagnóstico. 
+Informar a Lara Group si se confirma el dengue.
+
+Contactos: (993)348-4636x6232, RivMarg@gmail.com, (589)753-0833x2892 (En caso de emergencia o necesidad de discutir más)
+
+----------------------------------------
+Notas al pie del documento:
+
+- Dispositivo personal: Og-9030Mnt utilizado para el monitoreo
+- Detalles del plan de seguro de salud: K8SJFNynI
+- Nombre de usuario del paciente para el portal en línea: hosTsDdR
+- Número de registro médico del paciente: 77-428676k
+
+Nota: La consulta ocurrió el jueves, 1 de septiembre de 2022. Toda la información es precisa a partir de esta fecha.
+
+----------------------------------------
+
+IP del dispositivo: 163.182.130.188
+Número de licencia: rRCGzB-OLd
+BioID: 2707-100AG
+Identificador del vehículo: LFK 064
+Número de Seguridad Social: 00487636D
+Número de cuenta: LbQyL 2524
+
+**Nota confidencial**: Solo para uso interno por personal autorizado."
+

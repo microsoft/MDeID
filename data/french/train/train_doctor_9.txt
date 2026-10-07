@@ -1,0 +1,38 @@
+"**Note de grattage du docteur**
+
+Caleb Lévesque
+33: 28 semaines de grossesse
+Géomètre, bâtiment: Traitée par ICSI
+Dossier médical: 074318 gSd
+
+**Historique**
+- Accouchement normal: 1
+- Asthme: Oui
+- Transfusion sanguine: Non
+- Médication régulière: Cephem (pour ICSI)
+- Préoccupation: Diagnostic récent d'anémie macrocytaire aiguë
+
+**Observations**
+- Premier test sanguin de visite:
+    - Antigène D: Positif
+    - Anticorps irrégulier: Négatif
+    - Hémoglobine: 14.4 g/dl
+
+- Test récent (28 semaines):
+    - Hémoglobine: 7.9 g/dl
+    - Volume corpusculaire moyen: 108.1 fl
+    - Hémoglobine corpusculaire moyenne: 35.3 pg
+    - Niveau de réticulocytes: Augmenté
+    - LDH: Augmenté
+        - LDH1: Fortement augmenté
+        - LDH2: Fortement augmenté
+    - Haptoglobine: Caleb Lévesque- Prescription possible pour l'anémie
+- Caleb Lévesque doit assister aux rendez-vous prénataux
+- Caleb Lévesque doit signaler immédiatement tout nouveau symptôme
+- Autres conseils et recommandations au besoin
+
+Maxime Fabre
+Dickerson LLC
+em@microsoft.org
+001-645-233-8267x6040"
+

@@ -1,0 +1,16 @@
+"Doctor note for Zoe Jones:
+
+S: 
+Smoker (>50 pack-yrs), moderate , sudden hemoptysis & headache. History of hypertension Cardinal Boncampagni, BP 240/110. Self-reported slight .
+
+O: 
+Vitals: Temp 37.6\u00b0C, HR 98, RR 22, BP 177/89. Arterial blood gas: pH 7.47, pCO2 34, pO2 68, HCO3 18, O2 sat 93%. Blood test: uric acid elevated, others normal. Imaging: Chest CT - alveolar hemorrhage, right middle lobe consolidation. Abdominal CT - slightly enlarged liver, bilateral adrenal lesions (adenomas?). Echo - mild to moderate mitral valve regurgitation & prolapse. Pulmonary function tests - obstructive lung disease. Bronchoscopy - blood clots in right middle lobe. HIV & Mantoux tests negative.
+
+A: 
+Primary - hypertensive crisis, secondary - alveolar hemorrhage, obstructive lung disease. Differential - COPD, cardiovascular disease (mitral valve abnormalities). Lifestyle - smoking, obesity, alcohol contributing to health issues.
+
+P: 
+Continue treatment with , oxygen. Monitor BP & respiratory status. Encourage lifestyle modifications - quit smoking, reduce alcohol. Schedule Wed-10-97 for follow up - monitor/manage hypertension, lung conditions. Discuss interventions for mitral valve prolapse depending on progression. Address refusal of brain imaging in future to rule out neurological complications.
+
+Amelia White"
+

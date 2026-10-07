@@ -1,0 +1,91 @@
+"KRANKENPFLEGE NOTIZ
+
+------------------------
+| Patienten-ID: Joshua Winter |
+------------------------
+
+\u2022Vitalwerte:
+- BP: 120/80
+- HR: 77
+- Temp: 98.6\u00b0F
+- Resp: 16
+- O2 Sat: 98%
+
+\u2022Primäre Beobachtung: 
+Scheint unruhig zu sein, berichtet über Schlafprobleme aufgrund von Hauterkrankungen.
+
+\u2022Sekundäre Beobachtung:
+Hauterkrankung als '' gemeldet, Vorhandensein von Flecken, Notwendigkeit einer Dermatologie-Konsultation.
+
+\u2022Med Subj:
+- Blutabnahme abgeschlossen, gesendet an Bibliothek Labor
+- Verabreicht 5mg Melatonin zur Schlafhilfe
+
+\u2022Extra:
+- Patient's PCP Marco Bauer für Konsultation benachrichtigt
+- Notiert auf 17500 910B
+
+-------------
+| Fußzeile |
+-------------
+
+\u2022Kontakt Info:
+- Nächster Verwandter Joshua Winter
+- Beziehung: Vormund
+- (445)351-8443x978, rau@yahoo.com
+
+\u2022 Kontodetails:
+- Kontonummer: wIgjK 1300
+- Gesundheitsplan: cJ2mOG
+
+\u2022 Adressinformationen:
+- Adresse: Joshua Winter, Julius-Forstner-Ring 1/4 86, 5735 Valencia, Schweiz
+- Ort: Lorch, 17, Schweiz
+
+\u2022 Geräteinformationen:
+- Medizinisches Gerät: asuCDI 976
+
+\u2022Netzwerk:
+- IP-Adresse: 213.213.205.43
+- Benutzername: Wintua
+
+-----------
+| Kopfzeile |
+-----------
+
+\u2022Krankenhausinformationen:
+- Krankenhaus: Mount Holyoke College ’
+- Aufnahmedatum: 19.08.2011
+
+\u2022 Berufliche Informationen:
+- Aufnehmender Arzt: Marco Bauer
+- Beruf: Schadensregulierer, gechartert
+
+\u2022 Organisationsinformationen:
+- Organisation: Vazquez LLC
+
+\u2022Lizenz:
+- Lizenz-ID: 6745 940Mx
+
+\u2022Fahrzeug:
+- Fahrzeug-ID: 206 7LS
+
+\u2022Sozialversicherung:
+- SSN: 15 391 541 302
+
+\u2022Fax:
+- Fax: (374)521-4409x055
+
+\u2022Bio ID:
+- Bio ID: 625046 900
+
+\u2022ID Num:
+- ID Num: wIgjK 1300
+
+\u2022URL:
+- Webseite:  may-gonzales.com/tagpost.htm
+
+\u2022PLZ:
+- PLZ: 5735
+"
+

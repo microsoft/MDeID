@@ -1,0 +1,45 @@
+"Pflegeberatungsnotiz
+
+Kopfzeile: Beratungsinformationen
+-------------------------------------
+Patient: Anna Koller
+Adresse: Anna Koller, Natalie-Lamprecht-Straße 358 109, 4106 Berau, Österreich
+Stadt: Altopascio
+Bundesland: 30
+Land: Schweiz
+PLZ: 4106
+Alter: 32
+Telefon: (898)777-4794
+Email: NoëlMar@outlook.com
+Benutzername: ioQCSCJR
+Sozialversicherung: 014-2001742-01
+Gesundheitsplan: Rdw
+Arzt: Marine Noël
+Krankenhaus: Zion Gardens
+-------------------------------------
+
+Subjektiv: Der Patient, identifiziert als Anna Koller, ein 32 Jahre alter afroamerikanischer Mann, hat keine aktuellen Symptome oder Beschwerden gemeldet. Sein Besuch ist für eine Routineuntersuchung. Er gab eine bedeutende Familienanamnese von Prostatakrebs an, wobei sein 32 Jahre alter Bruder diagnostiziert und mit Strahlung behandelt wurde.
+
+Objektiv: Derzeit ist Anna Koller asymptomatisch. Es sind keine körperlichen Untersuchungsergebnisse oder Laborergebnisse mit dieser Beratung verbunden.
+
+Bewertung: Basierend auf den bereitgestellten Informationen ist Anna Koller aufgrund seiner ethnischen Zugehörigkeit und Familienanamnese (erstgradiger Verwandter im Alter von 32 diagnostiziert) einem erhöhten Risiko für Prostatakrebs ausgesetzt. Die Diskussion konzentrierte sich auf die potenziellen Vorteile und Risiken des PSA-Tests, unter Berücksichtigung der unterschiedlichen Empfehlungen verschiedener Gesundheitsorganisationen.
+
+Plan: Der Plan besteht darin, ein ausführliches Gespräch über den PSA-Test zu führen, um Anna Koller eine informierte Entscheidung zu ermöglichen. Der Patient wird ermutigt, weitere Recherchen durchzuführen und eventuelle Fragen für eine Nachbesprechung vorzubereiten. Er wurde auch darauf hingewiesen, dass er in der Zwischenzeit neue Symptome oder Bedenken melden sollte.
+
+Fußzeile: Zusätzliche Informationen
+-------------------------------------
+Konto: 81 XHfkhPl
+Medizinische Akte: 60170 3678
+Gerät: eWdmy 6497
+Lizenz: 06471-YSsQ
+BioID: XG-FvWSpgM
+IP-Adresse: 24.191.197.31
+ID-Nummer: 81 XHfkhPl
+Standort: Bahnhof
+Beruf: Hebamme
+Organisation: Garcia PLC
+Fahrzeug: CCF 904
+URL: https://kirby.net/category/tag/appsearch.html
+Fax: (749)472-5544
+-------------------------------------"
+

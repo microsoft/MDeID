@@ -1,0 +1,33 @@
+"----Dokter Kras Notitie----
+
+Oxford Peake
+Jason Geerts, Apotheker, ziekenhuis
+001-998-891-7458x5100
+796-841-4893x2017
+neert@msf.org
+
+Patiënt: Willemijn van Wijk
+ID: FTy-PWMTSE
+75
+
+--Samenvatting--
+Na voertuigongeval, craniocerebraal letsel, tracheostomie. Reumatoïde artritis geschiedenis, 3 jaar. Migraine, beheerd met methotrexaat 2,5 mg TID, topiramaat 200 mg BID.
+
+--Observaties--
+Schildklier - onvoelbaar, pijnloos.
+Labresultaten: Positieve reumafactor, normale antithyroglobuline, schildklierperoxidase-antilichamen (16 U/ml, 16,7 U/ml).
+Echogeleide biopsie: Knobbeltjes, onderste pool, linker schildklierkwab, mogelijke maligniteit.
+Schildklierfunctietests: TSH 0,89 μIU/ml, T3 1,30 ng/mL, T4 7,2 μg/dl.
+Na schildklierectomie: Necrotiserende laesies, reumatoïde knobbeltjes.
+
+--Beoordeling--
+Primaire diagnose: Hypothyreoïdie, secundair aan reumatoïde artritis, schildklierbetrokkenheid.
+Differentiële diagnose: Schildkliermaligniteit - onbevestigd.
+Reumatoïde knobbeltjes, schildklier - complicatie.
+
+--Plan--
+Start thyroxinebehandeling. Regelmatige controle van de schildklierfunctie. Totale schildklierectomie voor evaluatie van maligniteit. Na de operatie, voortzetting van het beheer van reumatoïde artritis, aanpassingen van medicatie voor controle van systemische ontsteking, preventie van auto-immuuncomplicaties. Patiënteneducatie over medicatie-adherentie, regelmatige schildklierfunctietests, belang van reumatologische beoordeling.
+
+--Eind Notitie--
+Jason Geerts, pZ-CDQTLWS"
+

@@ -1,0 +1,41 @@
+"Nota de Enfermagem
+--------------------
+Sinais Vitais: 
+PA: 120/80
+FC: 80 bpm
+FR: 20 bpm
+Temp: 98.6 F
+O2 Sat: 96%
+
+Resumo do Paciente: 
+Carlos Gomes: Tosse seca, dificuldade para respirar
+: Tratamento com nebulizador, terapia com O2
+Observações: 
+Inflamação brônquica notada, possível : asma brônquica
+
+Progresso do Tratamento:
+Tratamento com nebulizador mostrando algum alívio. Níveis de O2 estáveis após o tratamento.
+
+Plano:
+Continuar tratamentos com nebulizador, Monitorar níveis de O2, Considerar escalonamento para Lucas Reis se não houver melhorias
+
+Notas Informais:
+Notado Carlos Gomes lutando com tosse; respiração pesada, tratamento com Nebulizador um pouco eficaz, vai monitorar de perto
+
+Informações do Dispositivo:
+: Número de série do nebulizador
+: Número de série da terapia com oxigênio
+
+Contato:
+Contato de emergência 627-737-8104x0198: Contato de emergência do paciente
+isLuc@yahoo.com: Para comunicação direta
+
+Detalhes Adicionais:
+79: Idade do paciente
+v573aNgk: Nome de usuário do portal do paciente
+Cientista de dados: Ocupação atual
+V4yqw6: Provedor de Seguro de Saúde
+HYJCr vFba: Identificador de Paciente Diverso
+Wilson, Moss and Hanna: Organização Associada
+Palmerston North New: Hospital de referência"
+

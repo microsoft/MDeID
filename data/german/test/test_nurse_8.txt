@@ -1,0 +1,56 @@
+"Pflegebericht für pädiatrischen Patienten mit Atemnot
+
+Subjektiv: Patient Ward Renard, ein 100 Jahre alter Junge, wurde mit Anzeichen von Atemnot in unsere Notaufnahme gebracht. Es lag kein Fieber vor. Nach Angaben des Betreuers hat Ward Renard seit einem Monat wiederholt Husten- und Keuchanfälle, die trotz Medikamenten, einschließlich Antibiotika und Steroiden für eine vermutete Asthmadiagnose, keine Besserung zeigen. Es wurde keine Vorgeschichte von Erstickungsanfällen, Dysphagie, Sabbern, Atopie oder perinatalen Problemen pathologischer Natur berichtet.
+
+Objektiv: Bei der Untersuchung war Ward Renard wach, fieberfrei mit einer Temperatur von 37,5°C, zeigte Tachykardie mit einer Herzfrequenz von 130 Schlägen pro Minute und Tachypnoe mit einer Atemfrequenz von 40 Atemzügen pro Minute. Seine Sauerstoffsättigung lag bei 93%. Die körperliche Untersuchung ergab eine suprasternale Rezession, vereinzeltes Schnarchen und diffuses Keuchen. Es wurden jedoch keine Anzeichen von Dehydration, Mangelernährung oder Zyanose beobachtet. Die kardiovaskuläre Untersuchung zeigte keine Auffälligkeiten. Laboruntersuchungen zeigten ein normales Blutbild und ein C-reaktives Protein von 14 mg/l. Ein Röntgenbild des Brustkorbs identifizierte einen Fremdkörper im oberen Mediastinum.
+
+Analyse: Unsere Hauptdiagnose für Ward Renard ist Atemnot aufgrund eines Fremdkörpers - einem Knopf, der in der oberen Speiseröhre feststeckt. Dies wurde zunächst als Asthma fehldiagnostiziert. Die Differenzialdiagnose umfasste Asthma und andere Ursachen für pädiatrische Atemnot. Die Prognose nach Entfernung des Fremdkörpers ist gut, ohne Anzeichen von Strikturen oder Perforationen und zufriedenstellende Erholung im vergangenen Jahr.
+
+Plan: Der Fremdkörper wurde erfolgreich durch eine Hypopharyngoskopie unter Sedierung entfernt. Postoperativ wurde Ward Renard mit intravenösen Flüssigkeiten und Kortikosteroiden zur Reduzierung der periesophagealen Entzündung behandelt. Er wurde 24 Stunden nach dem Eingriff mit einer klaren Flüssigkeitsdiät entlassen und hat keine Anzeichen von Komplikationen oder Wiederauftreten von Symptomen gezeigt. Die Nachsorge sollte die Überwachung auf Anzeichen von Speiseröhrenschäden oder Atemproblemen umfassen. Den Betreuern wird eine weitere Aufklärung zur Verhinderung von Fremdkörperaspiration empfohlen.
+
+---
+
+**Patientendaten**
+- Medizinische Aktennummer: NBl 606ujl
+- Kontonummer: 591092-370
+- Patienten-ID: 591092-370
+- Sozialversicherungsnummer: 35 173 458 631
+
+**Kontaktinformationen**
+- Adresse: Ward Renard, Henrik-Ferstl-Weg 7/7 54, 6271 Issing Gemeinde Vilgertshofen, Deutschland
+- Telefon: (783)854-8591
+- E-Mail: ha@microsoft.org
+
+**Zusätzliche Informationen**
+- Arzt: Lea Fischer
+- Krankenhaus: western Pennsylvania
+- Gesundheitsplan: E6B3Dd 3b9XuQc
+
+**Notfallkontakt**
+- Name: Ward Renard
+- Telefon: (783)854-8591
+- Beziehung: 
+
+**Digitale Informationen**
+- Gerät: kjCGY-4586
+- IP-Adresse: 51.86.127.59
+- Benutzername: enardd
+- URL: https://www.hooper-sanders.org/explore/explorecategory.jsp
+- Fax: 001-664-403-9588
+
+**Persönliche Informationen**
+- Alter: 100
+- Beruf: Webdesigner
+- Organisation: White Group
+- Lizenz: 72-469oGtB
+- BioID: 79 RgZLSyp
+- Fahrzeug: RLK-5579
+
+**Ortsinformationen**
+- Stadt: Neuschoo
+- Bundesland: 18
+- Land: Deutschland
+- Straße: 531 Brandon Prairie Suite 784
+- PLZ: 6271
+- Anderer Ort: Bank"
+

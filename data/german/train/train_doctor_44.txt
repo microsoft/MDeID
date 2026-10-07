@@ -1,0 +1,12 @@
+"Arzt Kratz Notiz
+
+\"Werner Roth\", starker Raucher, starker Alkoholkonsument, 50. Symptome: Nackenschwellung, leichtes Fieber, Schluckbeschwerden, Heiserkeit. Hypertonie-Geschichte, behandelt mit Amlodipin 10 mg, Enalapril 10 mg täglich.
+
+Vitalwerte: Fieber 25.05.2014 38,7 \u00b0C, Hypertonie 170/100 mmHg, Tachykardie 100 Schläge/min, Tachypnoe 24 Atemzüge/min. Körperliche Befunde: pulsierende 5 x 5 cm linke Nackenmasse, empfindlich, Vorwölbung der linken hinteren Pharynxwand, Tonsillenvergrößerung, keine Entzündungszeichen, keine Schilddrüsenvergrößerung, leicht blasse Bindehäute, anikterische Skleren, schuppige erythematöse Flecken und dystrophe Nägel an den Beinen. Laborergebnisse: Anämie (Hämoglobin 9,6 g/L, Hämatokrit 28%, MCV 75 fl), Leukozytose (WBC 6800 Zellen/mm3, 80% Neutrophile), Thrombozytose (Thrombozytenzahl 574.000 Zellen/mm3).
+
+Diagnose: Tiefe Halsentzündung. Mögliche Komplikationen: schlechte Gefäßgesundheit, Immunfunktion aufgrund von Werner Roth's Alkohol-, Tabakkonsum. Differentialdiagnosen: Schilddrüsenerkrankungen, Malignome. Mögliche chronische Krankheit, Ernährungsmangel angezeigt durch Anämie, Hautveränderungen.
+
+Plan: Fortsetzung der Antibiotika (Ceftriaxon, Clindamycin). Hypertonie-Management, Blutdrucküberwachung. Beratung von Werner Roth zur Raucherentwöhnung, Reduzierung des Alkoholkonsums. Termin 25.05.2014 zur Nachuntersuchung der Nackenmasse, Behandlungsreaktion. Überweisung an einen Hämatologen zur Anämieuntersuchung, Dermatologen zur Beurteilung der Hautläsionen. Aufklärung von Werner Roth über Anzeichen von Infektionskomplikationen, Anweisung zur Rückkehr ins Martins bei Verschlechterung der Symptome.
+
+Romy Brandt"
+

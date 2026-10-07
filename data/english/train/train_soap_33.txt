@@ -1,0 +1,24 @@
+"S: Patient Emily Thomas is a 15 years with a history of hypoxia at birth, presenting with developmental delays and sleep disturbances. The parent reports recent findings of elevated GHB levels from a urinary organic acid analysis conducted at Emperor Manuel.
+O: Genetic testing performed at Hill PLC revealed a novel homozygous mutation c.800 T > G (p.V267G) in exon 5, inherited from both parents. Bioinformatics analysis, conducted at library, indicates this mutation is \"probably damaging\" and \"disease causing\" with a high pathogenicity score. Previous EEG and cerebral MRI results, stored in the medical record 47-mYhcXll, and conducted at Emperor Manuel, were unclear.
+A: The primary diagnosis is a genetic disorder linked to the novel mutation c.800 T > G, contributing to developmental delays and sleep issues. Differential diagnoses, recorded under account number vK YIXsWwj, could include other genetic or metabolic disorders affecting neurological development.
+P: Plan to monitor Emily Thomas's development closely through regular follow-up appointments scheduled on 92. Interventions will include occupational therapy, speech therapy, and behavioral therapy to address developmental delays. Sleep hygiene improvements will be implemented, with potential pharmacological intervention if necessary. Parents are advised to maintain open communication with the healthcare team, including Dr. Keira Williams and nurse Keira Williams, and can reach them at 726-248-2475 or sira@unwomen.org, to adjust care as needed. Parents should also update their health plan boJ083 5i5Drs xVmuOxyzNrM about the progress.
+
+Additional notes:
+- Patient's username for the hospital portal is qTuh5zhg.
+- Patient's home Emily Thomas, 149 Radiogoniometric, Dothidella, 13 9795, United States where he lives with his parents.
+- Patient's ID number is vK YIXsWwj.
+- Patient's device number is gviU-08CTa.
+- Patient's vehicle plate number is 326-GRS.
+- Patient's social security number is 765 471 318.
+- Patient's driver\u2019s license is twa-HbtCfr.
+- Patient's fingerprint identifier is yY-04614Qs.
+- Patient's IP address at home is 52.61.228.166.
+- Patient's profession is Advertising copywriter.
+- Patient's state of residence is 100.
+- Patient's resident city is Dothidella.
+- Patient's zip code is 9795.
+- Patient's country of residence is Canada.
+- Patient's street is 0356 Lowe Junctions.
+- Patient's URL for personal blog is shaw-powell.com.
+- Patient's fax number is 226.908.6105x42951."
+

@@ -1,0 +1,82 @@
+"Arzt Kratz Notiz
+
+Kurt Moser Notizen zu Sara Widmer
+
+------------------------------------------
+
+-ID: 550 WfSLVW
+
+-ALTER: 66
+
+-BERUF: Journalistin, Rundfunk
+
+Anamnese:
+
+-HTN, HLD, DM2, CAD w/ 3x MI
+
+-Schlaganfallgeschichte, Antikoagulation mit Warfarin
+
+-GERD, Asthma
+
+-Endometriumkarzinom: Behandlung mit Strahlentherapie, Brachytherapie, TAH-BSO
+
+Kürzlich helles rotes Blut pro Rektum mit Klumpen.
+
+------------------------------------------
+
+Keine Bauchschmerzen, Übelkeit, Erbrechen, Durchfall, Verstopfung oder Melena.
+
+Körperliche Untersuchung:
+
+-Leichte L-seitige Bauchempfindlichkeit
+
+-Keine weiteren bemerkenswerten Befunde
+
+Rektale Untersuchung:
+
+-Nicht blutende Hämorrhoiden, kein sichtbares Blut
+
+Kürzliche Koloskopie:
+
+-3x winzige Polypen im Querkolon - tubuläre Adenome
+
+------------------------------------------
+
+Blutuntersuchung:
+
+-WBC: 14.3k/uL
+
+-Hgb: 9.6 g/dL
+
+-Kreatinin: 1.2
+
+-BUN: 39
+
+-INR: 2.0
+
+Nachfolgende Koloskopie: Große, pilzartige, brüchige, ulzerierte Läsion
+
+------------------------------------------
+
+Beurteilung: Große ulzerierte Läsion im Dickdarm - Ursache der Hämatochezie
+
+Differentialdiagnosen: CRC, schwere IBD
+
+Plan:
+
+-Aufnahme in Starc
+
+-MDT-Konsultation für Läsionsbehandlungsoptionen
+
+-Engmaschige Überwachung der Symptome, Vitalwerte
+
+-Mögliche Bluttransfusion, wenn Hgb ↓ oder Symptome einer signifikanten Anämie
+
+-Sorgfältiges Management der Warfarin-Therapie
+
+-Patientenaufklärung über Befunde, geplante Untersuchungen und Behandlungen
+
+Kurt Moser, 39 50bDblj
+
+"
+

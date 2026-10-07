@@ -1,0 +1,82 @@
+Discharge Summary
+
+===================
+
+Discharge Provision: Home with services
+
+**Admission:** The patient was admitted due to complications stemming from cirrhosis.
+
+**Procedures:** A Paracentesis was performed to alleviate symptoms of ascites. A thorough examination showed signs of splenomegaly, which was further investigated via ultrasound.
+
+**Care/Treatment:** The patient was provided with medication to manage the pruritus and abdominal pain. The facility also ensured enhanced nursing care to prevent falls due to poor balance.
+
+**Condition at Discharge:** At the time of discharge, the patient showed a significant reduction in ascites and reported less discomfort. Regular monitoring of liver enzymes was suggested due to persistent cirrhosis. 
+
+**Information Provided to Patient/Family:** The patient and family were briefed about the nature of the illness and the importance of regular follow-ups. The potential for a liver transplant was also discussed.
+
+**Follow-up Care:** The patient is scheduled to visit Gemma Cooper at Aronovitz three weeks post-discharge. Medication will be adjusted based on liver enzyme levels and overall health condition.
+
+---
+
+# Required Sections
+
+**Allergies And Intolerances:** The patient reported no known allergies.
+
+**Hospital Course:** The patient's hospital course involved management of ascites, splenomegaly, and associated discomfort. 
+
+**Discharge Diagnosis:** Cirrhosis with ascites and splenomegaly
+
+**Plan of Treatment:** Regular monitoring of liver function, symptom management for pruritus and abdominal pain, and scheduled follow-up visits.
+
+**Hospital Consultations:** The patient was seen by a hepatologist and gastroenterologist during the course of treatment.
+
+**Procedures:** Paracentesis and ultrasound for splenomegaly
+
+**Results:** Reduction in ascites and improved liver enzyme levels.
+
+---
+
+# Recommended Section
+
+**Discharge Medications:** Patient was discharged with prescriptions for diuretics and pruritus medication.
+
+---
+
+# Additional Sections
+
+**Chief Complaint:** Patient presented with ascites, an unsteady gait resulting in falls, splenomegaly, pruritus, and abdominal pain.
+
+**Nutrition:** The patient was advised to follow a low-sodium diet to help manage ascites.
+
+**Family History:** The family history shows no genetic predisposition to liver diseases.
+
+**Functional Status:** The patient showed an improvement in movement and reported reduced falls post-treatment.
+
+**Past Medical History:** The patient has a chronic history of cirrhosis.
+
+**Admission Diagnosis:** The patient was admitted for cirrhosis with severe ascites and splenomegaly.
+
+**Admission Medications:** Upon admission, the patient was already on medications for cirrhosis management.
+
+**Hospital Discharge Instructions:** The patient was instructed to limit sodium intake, take medications as prescribed, and watch for signs of infection around the paracentesis site.
+
+**Hospital Discharge Physical:** On physical examination at discharge, the patient showed no signs of infection and reported less discomfort.
+
+**Hospital Discharge Studies Summary:** The paracentesis and ultrasound results were discussed with the patient prior to discharge.
+
+**Immunizations:** Up to date
+
+**Problem:** Cirrhosis leading to ascites and splenomegaly.
+
+**Reason for Visit:** The patient presented with severe ascites leading to falls, along with splenomegaly, pruritus, and abdominal pain.
+
+**Review of Systems:** Patient has multiple symptoms relating to cirrhosis.
+
+**Social History:** The patient is a non-smoker and reports moderate alcohol intake.
+
+**Vital Signs:** Stable at the time of discharge
+
+**Advance Directives:** Not specified
+
+Medical Record Number: HdLvT-KBtR
+

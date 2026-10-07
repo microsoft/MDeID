@@ -1,0 +1,62 @@
+"\ud83c\udfe5Note d'Infirmière \ud83c\udfe5
+
+----------------------------------
+**Contexte du Patient**:
+Maïlé Marechal signale des difficultés à respirer, une toux continue. 
+
+**Diagnostic Possible** : Asthme Bronchique
+----------------------------------
+
+**Signes Vitaux & Observations**
+
+BPM : 120
+Fréquence Respiratoire : 22
+Temp : 98.6f
+BP : 130/80
+Sat O2 : 94%
+Sifflements à l'expiration notés
+
+----------------------------------
+**Traitements Administrés**:
+Inhalateur fourni (189520-51f), 
+Nébulisation de Bronchodilatateur effectuée (vFb-ZzxKsr)
+
+----------------------------------
+**Prochaines Étapes**:
+Administrer des corticostéroïdes si nécessaire. 
+Surveiller de près les signes vitaux. 
+Informer le Samuel Aubry de la réponse du patient au traitement. 
+
+----------------------------------
+**Identifiants Importants**
+echalé
+Numéro de Compte : wWA rNwlST
+Numéro de Dossier Médical : vFb-ZzxKsr
+
+----------------------------------
+**Informations de Contact d'Urgence**
+Téléphone : +1-328-527-0429x112
+Adresse : Maïlé Marechal, 172 895 Vigneron Terrace, 3842 Castelnau-Le-Lez, France
+
+----------------------------------
+**Autres Infos**
+Enregistré depuis : théâtre
+Admis à : Centre d'Aviation et de Cosmonautique de Moscou
+Plan de Santé : 56fQ
+Organisation : House, Hancock and Austin
+Profession : Planificateur de transport
+Véhicule : HMF-9946
+Permis : JM-CpRxYVY
+Sécurité Sociale : 899-8630579-80
+Bioid : Ap-KFRuBXv
+Adresse IP : 156.67.75.215
+Numéro d'ID : wWA rNwlST
+Admis par : Samuel Aubry
+
+----------------------------------
+**Date de la Note** : 1 juin 1999
+**Note Préparée Par** : echalé
+----------------------------------
+
+*La note ci-dessus est destinée à une référence rapide et ne constitue pas un historique patient complet ou un protocole de traitement. Veuillez vous référer au dossier de santé électronique détaillé pour des informations complètes.*"
+

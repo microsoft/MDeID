@@ -1,0 +1,46 @@
+"Doctor Scratch Note
+
+Margaret Gibson: 23-772200L
+22: 22
+Brooke Taylor: Brooke Taylor
+
+***
+S:
+
+PHx sigmoid volvulus
+Treated w/ laparotomy, sigmoidopexy, elective sigmoidectomy
+Symptoms onset 2 months ago
+Abdominal distension, constipation, vomiting x 3 days
+Severe abdominal pain x 1 day
+Recurrent constipation, OTC and traditional medication
+No significant family, drug, social history
+
+***
+O:
+
+Appearance - Ill, no pallor/jaundice/fever
+Vitals: PR 104 bpm, BP 110/70 mmHg, RR 22 cpm, T 38.8\u00b0C
+Abdomen: gross distension, full flanks, midline scar, visible dilated bowel loop, peristalsis, tenderness, no bowel sounds
+Rectal: 3rd degree pile, empty rectum
+Lab: Hb 13 g/dl, WBCs 14 \u00d7 109/L, PLTs 305 \u00d7 109/L, renal profile normal, serum electrolytes normal, blood glucose 193 mg/dl, urine unremarkable
+Imaging: X-ray - omega-shaped colon
+
+***
+A:
+
+Strangulated bowel obstruction
+Differential: adhesive type, recurrent/other site volvulus
+Symptoms + imaging consistent
+History of previous abdominal surgeries - adhesive obstruction likely
+
+***
+P:
+
+Immediate management: NG tube suction, IV fluids
+Close monitoring for further treatment decision
+Regular follow-ups, immediate report on changes advised
+
+***
+Brooke Taylor
+Morgan Group"
+

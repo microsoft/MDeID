@@ -1,0 +1,29 @@
+"Patientenzorg Rapport: Schimmelinfectie
+
+[DISPATCH]
+Nood Medische Diensten (EMS) eenheid 62-629564Y ontving een oproep op 11-08-2014 van Sébastien De Meyer op hun woonadres Sébastien De Meyer, Tetrahydroxy 91, 2145 Mundanely, België. De eenheid reageerde op de scène uitgerust met volledige persoonlijke beschermingsmiddelen (PPE). 
+
+[SYMPTOMEN EN INTERVENTIES]
+Bij aankomst vonden we Sébastien De Meyer in matige nood, ervarend intense jeuk en aanhoudende hoest. De patiënt verklaarde: \"Ik heb veel jeuk, en het gaat gepaard met een hoest.\" De symptomen waren al een paar dagen aan de gang. De 37 oude patiënt werd vervoerd naar het Oberverwaltungsgericht voor verdere evaluatie en behandeling. 
+
+[BEHANDELING]
+Ons team diende een antihistaminicum toe om de jeuk te verlichten en een hoestonderdrukker om de hoest te beheersen. Alle interventies werden gedocumenteerd in het medisch dossier van de patiënt OCfp Ltkoh.
+
+[OVERZICHT]
+Patiënt Sébastien De Meyer werd voorzien van alle noodzakelijke onmiddellijke zorg. Onze eenheid bereikte de patiënt snel na het ontvangen van de oproep. We hebben de patiënt vervolgens vervoerd naar Oberverwaltungsgericht terwijl we de veiligheid en het comfort van de patiënt waarborgden. Het medisch dossier van de patiënt OCfp Ltkoh werd bijgewerkt met al onze interventies. 
+
+[HAND-OFF] 
+Bij aankomst op de spoedeisende hulp nam Niels Martens de zorg voor de patiënt over. Alle relevante details werden vermeld in het medisch dossier van de patiënt OCfp Ltkoh. Een uitgebreid rapport over de toestand van de patiënt, symptomen en toegediende medicijnen werd gecommuniceerd aan Niels Martens.
+
+Het rapport werd ontvangen door Niels Martens bij de Romero PLC en het gezondheidsplan van de patiënt oxSx5 werd geïnformeerd over de situatie. Ze kregen ook de accountinformatie van de patiënt 62-629564Y voor factureringsdoeleinden. 
+
+[IDENTIFICATIES]
+De oproep werd ontvangen van een IP-adres 120.180.166.218, en de communicatie werd gedaan via een beveiligde e-mail enel@red-oxSx5.org. De EMS-eenheid 62-629564Y werd bestuurd door een EMS-official met licentie ts-84WxRKr. De gebruikersnaam van de patiënt voor het gezondheidsportaal is yeréDe, en hun sofinummer is 644621886. Het land van het incident is België, en was gelegen op bank. De patiënt werkt voor Romero PLC in een Systems analyst rol en heeft een apparaat-ID 495 bVWtry op hun persoonlijke hulpmiddel. De ambulance die voor het vervoer werd gebruikt, had een voertuigidentificatie 2EC O16. 
+
+Dit rapport is samengesteld en ingediend door yeréDe en is gedocumenteerd op onze beveiligde online server met URL  stevens.com/categories/wp-content/wp-contentregister.php, en kan worden bereikt via het contacttelefoonnummer 791-384-1347x38756 of fax 3442567781.
+
+[EINDE VAN RAPPORT]
+Het rapport werd samengesteld om het incident te documenteren en de nauwkeurigheid van geïdentificeerde Persoonlijke Gezondheidsinformatie (PHI) te waarborgen. De privacy van Sébastien De Meyer is voor ons van het grootste belang, en we hebben alle noodzakelijke protocollen gevolgd om deze te beschermen.
+
+Rapport door: EMT yeréDe en Paramedicus yeréDe"
+

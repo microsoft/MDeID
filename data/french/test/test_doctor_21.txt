@@ -1,0 +1,57 @@
+"Note de grattage du médecin :
+
+Patient Jade Simons
+ID 429261 820
+AGE 107
+Résidence : aéroport
+
+Détails de l'admission : 
+- Détresse respiratoire sévère
+- État mental - altéré, désorienté
+
+Antécédents médicaux significatifs : 
+- Anévrisme intracrânien (saignement post-opératoire)
+- Accident vasculaire cérébral ischémique (aphasie, paraplégie)
+- Placement de la sonde PEG
+
+À l'admission : 
+- Intubation pour soutien respiratoire
+- Signes vitaux : zHl-vuGZPb
+- Résultats des analyses cliniques : zHl-vuGZPb
+
+Diagnostic : Choc septique (potentiel)
+- Début du bilan de sepsis
+- Cultures : Sang, Urine
+- Traitement initial : Hydratation par voie intraveineuse, Antibiotiques ( et )
+
+Rapport de scan CT : 
+- Scan CT sans contraste - thorax, abdomen, pelvis
+- Résultats : Atelectasie pulmonaire bibasilaire, mauvaise position du cathéter de dérivation VP (dans la lumière gastrique), mauvaise position de la sonde PEG (hors de la lumière gastrique), cellulite de la paroi abdominale, abcès localisés (site d'insertion de la sonde PEG)
+
+Rapport de culture : 
+- Analyse et cultures du LCR - négatives
+- Culture de la plaie - Proteus mirabilis (sensible aux carbapénèmes, piperacilline/tazobactam)
+
+Diagnostic principal : 
+- Choc septique, secondaire à la cellulite de la paroi abdominale et aux abcès localisés
+- Complications : Mauvaise position de la dérivation VP et de la sonde PEG
+
+Diagnostic différentiel : 
+- Infection de la dérivation VP
+- Méningite/Encéphalite
+(Exclu par les résultats de l'analyse et de la culture du LCR)
+
+Plan de gestion : 
+- Continuer les antibiotiques IV (en fonction des tests de sensibilité)
+- Surveiller l'état clinique du patient
+- Soins de soutien pour la stabilisation respiratoire, circulatoire
+- Consultation chirurgicale pour la correction de la dérivation VP et de la sonde PEG
+
+Éducation & Suivi : 
+- Éducation du patient sur le plan de traitement
+- Surveiller les signes/complications de l'infection
+- Suivis réguliers et réévaluation de l'efficacité du traitement
+
+Ernst Widmer
+Wuchi"
+

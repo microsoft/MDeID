@@ -1,0 +1,54 @@
+"Notes de l'infirmière :
+
+==========================
+(Patient) Justine Chauvin  
+(Dossier médical) HWcHQ-8576  
+(Médecin traitant) Kurt Schneider  
+(Plan de santé) kaP 
+(Date d'admission) 05/06/1982 
+==========================
+
+
+Signes vitaux & Observations
+-------------------
+TA : 130/80
+FC : 88 bpm
+Temp : 101.3 F
+FR : 20 respirations/min
+
+-Noté fébrile, possible condition sous-jacente  
+-Plaintes du patient : se sent vraiment malade  
+-Suspecté : washington.davis.gonzalez-little.com (lien vers une ressource sur le paludisme)  
+-Conseillé à Justine Chauvin de se reposer et de rester hydratée    
+
+===========================
+(Adresse) Justine Chauvin, 192 56431 Poncelet Overpass, Arles, 9 4165, Canada  
+(Contact) (937)738-9351x0824  
+(Compte) 0484 DzkUW 
+(Email) rchneid@un.org
+(Numéro de licence professionnelle) 022 eHJwas
+(Info sur l'appareil) 71745 FhMb
+===========================
+
+Traitement
+-------------------
+-Médicaments antipaludiques prescrits
+-Suivi de l'évolution
+
+===========================
+(Âge du patient) 9 
+(Nom d'utilisateur du patient) p8Xe5Kfa 
+(Numéro de sécurité sociale du patient) 058-0660407-03 
+(Adresse IP) 60.85.54.246
+(ID biométrique du patient) 339 yAGteY
+(Numéro d'identification) 0484 DzkUW
+===========================
+
+Notes supplémentaires
+-------------------
+-Le patient aura besoin d'un suivi après le 05/06/1982
+-Le patient est en lien avec l'organisation Gilbert, Wood and Brown
+-Contact d'urgence : Justine Chauvin
+
+[Fin de la note]"
+

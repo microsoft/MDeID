@@ -1,0 +1,55 @@
+"**Verpleegkundige Krasnotitie**
+   
+    **Patiëntgegevens**
+        Klacht van Leentje van der Meulen: Nekpijn
+        Leeftijd van Leentje van der Meulen: 44
+        Info: enjdern
+        Locatie: universiteit
+        E-mail: Yede@gmail.com
+        Telefoon: (554)368-4699x14275
+        Adres: Leentje van der Meulen, Bulgar 151, 4830 Colchian, Nederland
+   
+    **Medische Informatie**
+        Diagnose: Cervicale Spondylose
+        Ziekenhuis: Chernorechka Village
+        Dokter: Yasmine De Wilde
+        Zorgplan: DS3mvZL
+        Medisch Dossier#: 722-49jleq
+        Account#: rZ-0536VOk
+        Apparaat#: mS 7659LyX
+   
+    **Observaties**
+        Zweten: Aanwezig
+        Duizeligheid: Ervaren
+        BP: 120/80
+        Hartslag: 85
+        Ademhalingsfrequentie: 16
+   
+    **Extra Info**
+        BioID: bxP 155474
+        IP Adres: 47.167.55.150
+        Beroep: Human resources officer
+        Voertuig#: DQE 3495
+        SSN: 130-2367699-97
+        Licentie#: BGEsZU-597
+        Org: Jones Group
+        Fax: 5398599524
+        ID#: rZ-0536VOk
+   
+    **Voortgang van de Patiënt**
+        Spondylose Toestand: Stabiel
+        Nekpijn Intensiteit: 6/10
+        Fysieke Mobiliteit: Beperkt
+        Mentale Toestand: Alert
+   
+    **Plan**
+        Ga door met het huidige behandelplan.
+        Monitor nekpijn en mobiliteit regelmatig.
+        Update Yasmine De Wilde met de voortgang van de patiënt.
+
+**************************************************
+    Document gecreëerd op 21 aug. 2001
+    Gemaakt door: Verpleegkundige enjdern
+    Contact: (554)368-4699x14275/Yede@gmail.com/ www.fischer.info/category/exploreprivacy.htm
+**************************************************"
+

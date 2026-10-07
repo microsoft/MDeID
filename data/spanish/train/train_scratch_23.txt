@@ -1,0 +1,58 @@
+"**NOTA DE ENFERMERÍA**
+
+**Detalles del paciente**
+Iván Giménez
+63
+Iván Giménez, Pasaje Guatemala 580 947 9, Anastatic, OU0QTMFR Cassa DE LA Selva, 10, México
+2799408333
+
+**Signos vitales**
+Presión arterial: 130/85
+Pulso: 75
+Temperatura: 36.5 C
+Respiración: 20
+
+**Queja**
+1. Calambres en las pantorrillas (Varicosas universidad)
+
+**Observaciones**
+1. Venas dilatadas en las extremidades inferiores
+2. No hay úlceras visibles
+
+**Tratamiento**
+Medicación: 
+Dosis: 20mg diarios
+Cita de seguimiento: domingo, 27 de octubre de 2002
+
+**Equipo de atención médica**
+Médico principal: Sofía Díez
+Enfermera: CGkih6hn
+
+**Historial médico**
+Última visita al hospital: PAX East, domingo, 27 de octubre de 2002, ijKH-12553
+Plan de salud: NaaCj
+
+**Información adicional**
+Dirección IP del inicio de sesión del paciente: 219.127.196.116
+Número de dispositivo para marcapasos: GST-484qVs
+
+**Detalles de contacto**
+Contacto de emergencia: Iván Giménez
+Número de contacto: 2799408333
+Correo electrónico de contacto: Sofíe@icloud.com
+
+**Información estructurada**
+Licencia profesional del médico principal: 6634-14903
+Número de cuenta del paciente: IHg-omzbMM
+Identificador personal: IHg-omzbMM
+Número de Seguridad Social: PHES046614XAOLHU26
+Hash biométrico de la huella dactilar del paciente para inicio de sesión seguro: 3355 WIfiD
+
+**Información no estructurada**
+El paciente trabaja para: Chen-Watson
+Último vehículo utilizado por el paciente: 9MR6847, Placa de licencia: 6634-14903
+URL para acceder al portal de salud en línea del paciente:  turner-hodges.biz/tag/categoryprivacy.php
+Número de fax para enviar informes médicos: (719)385-4179x4384
+
+**Nota**: Condición del paciente estable. Próxima revisión el domingo, 27 de octubre de 2002.
+

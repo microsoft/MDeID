@@ -1,0 +1,39 @@
+"Nursing Narrative Note for Patient with Meningitis and Sepsis
+
+Subjective:
+Patient Matilda Harris revealed experiencing feelings of headaches, fatigue, fever, nausea, drowsiness, confusion, a stiff neck, and a positive Kernig sign since an undisclosed time. The symptoms escalated to include signs of meningitis and later, blood sepsis. Patient Matilda Harris was initially treated with Amoxicillin, Paracetamol, and Ringer's lactate solution, followed by a transfer to a specialized facility for further management.
+
+Objective:
+Upon admission to Vienna mental hospital, the patient was diagnosed with meningitis and sepsis and treated with 1 g of ceftriaxone four times daily. Cerebrospinal fluid analysis confirmed N. meningitidis, specifically a novel sequence type ST 13074, serogroup B. Vital signs and other specific objective data from the initial presentation are not provided.
+
+Assessment:
+The primary diagnosis is meningitis and sepsis due to N. meningitidis serogroup B, ST 13074. Patient Matilda Harris's condition was severe, requiring immediate and intensive treatment including antibiotics and supportive care. The identification of a novel sequence type indicates a unique strain, potentially affecting treatment efficacy and public health monitoring.
+
+Plan:
+The plan is to continue monitoring the patient's health for any recurrence of symptoms or new health issues. It is recommended to ensure follow-up appointments are scheduled, particularly with infectious disease specialists for further evaluation and management. Education of the patient on signs of potential complications and the importance of adherence to prescribed treatments is vital. Encouraging the patient to maintain hydration, rest, and a balanced diet to support recovery.
+
+-------------------------------------------------------------------------------------------------
+
+Nurse's Signature: aINyKlQX
+Medical Record Number: prfCcT-tCO
+Patient's Account Number: 995316 84k
+Patient's Device Identifier: 69778 7341
+Patient's Vehicle Identifier: 72F X41
+Patient's Social Security Number: 394-151-559
+Patient's License Number: 21 mFQUkTD
+Patient's Biometric Identifier: cqzR-vNqJN
+Patient's IP Address: 204.103.41.189
+Patient's Personal Identifier: 995316 84k
+Patient's Age: 45-week
+Patient's Address: Matilda Harris, 142 Hecatophyllous, Moveables 83 1691, Australia
+Patient's Current Location: library
+Patient's Health Plan: B2tYMQ
+Patient's Profession: Interior and spatial designer
+Patient's Organization: Parker Group
+Date of Document: Sunday, October 24, 1971
+Doctor's Name: Stella Morin
+Patient's Email: orl@msf.org
+Patient's Phone Number: +1-245-452-8697x528
+URL for Patient's Profile: white-allen.brown-buchanan.lynn-franklin.com
+Patient's Fax Number: (727)369-3265"
+

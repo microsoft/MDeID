@@ -1,0 +1,61 @@
+"Pflegekratznotiz
+-----------------------
+ 
+Patient: Alicia Hermans
+
+Vitalwerte:
+- BP: 120/80 mmHg
+- HR: 75 bpm
+- Temp: 98,6 F
+- SpO2: 98%
+
+Beobachtungen: 
+- Pfeifen, Husten, Atembeschwerden
+- Anzeichen von Browning, Cruz und Martinez Inhalatorgebrauch
+- Überempfindlichkeit 
+
+Behandlungen:
+- Erhöhte 981915 634 Dosierung
+- Hinzugefügte vCN genehmigte Verneblerbehandlungen
+
+In Bearbeitung:
+- Überwachung 89
+- Konsultation Kurt Gerber bezüglich Symptome
+- Warten auf nächste 03.01.2017 Labore
+
+Kommunikation:
+- Familienmitglied - Alicia Hermans
+- Notfallkontakt: 4747502640
+
+Dokumenteninfo:
+- Krankenschwester Benutzername: GDVEkjNr
+- ID: rh-273673Z
+- Bericht URL: white.com
+- IP-Adresse: 145.94.245.110
+
+Zusätzliche Notiz:
+- Patient im Zimmer Theater
+- Dokument gescannt an Gert@red-cross.org
+
+Überweisungen:
+- Allergiespezialist - Kurt Gerber
+- Überwiesen von - Kurt Gerber
+
+Verschiedene Details:
+- Medizinische Aktennummer: fHeaO DhXp
+- Abrechnung auf Konto: rh-273673Z
+- Fahrzeug auf Krankenhausparkplatz: EHB 7919
+
+------------------------------------
+N.B. Biometrischer Scan abgeschlossen mit 76-544Gnig
+
+------------------------------------
+- Lizenzdetails: 322-9528Zt
+- Sozialversicherungsnummer des Patienten: 537-1101905-84
+- Adresse des Patienten: Alicia Hermans, Nikolas-Kaindl-Ring 8/9 104, 7146 Weilheim in Oberbayern, Belgien
+- Stadt des Patienten: Geisenheim
+- Bundesland des Patienten: Niedersachsen
+- Land des Patienten: Österreich
+- Postleitzahl des Patienten: 7146
+- Fax des Patienten: 3549226108"
+

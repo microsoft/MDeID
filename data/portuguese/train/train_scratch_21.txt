@@ -1,0 +1,49 @@
+"NOTAS RASCUNHO: Perfil do Paciente
+
+------------------------------------------------------------
+Inês Lourenço | 28 | feminino | Herpetologista | Martinez, Murphy and Boyd
+------------------------------------------------------------
+**INFORMAÇÕES DE CONTATO**:
+* Casa: Inês Lourenço, Largo Ducla Soares, 55 108, Equielliptical, Echaporã - 79, 6O28GWQT, Brasil
+* Telefone: 985.744.3091x639
+* EMAIL: oo@outlook.com
+------------------------------------------------------------
+**Sinais Vitais do Paciente**:
+* PA - 121/81 (Normal)
+* Pulso - 75 (Normal)
+* Temp - 98.6 F (Normal)
+* Respiração - 16 respirações/min (Normal)
+------------------------------------------------------------
+**Informações Médicas do Paciente**:
+* RM: 192827-042
+* Plano de Saúde: 3uTI O8MAVW
+* Hospital: Quebec CEGEP
+* Médico Assistente: Júlio Ribeiro
+------------------------------------------------------------
+**Observações**:
+- Reclamou de dificuldade em se concentrar.
+- Instabilidade emocional notada.
+- Suspeita: diabetes.
+- Recomendado: Teste de glicose no sangue.
+------------------------------------------------------------
+**Informações do Dispositivo**:
+- ID do Dispositivo: 065 Japjez
+------------------------------------------------------------
+**Outras Informações**:
+* Número da conta: 63-qaXgkBO
+* Placa do veículo: 76I 826
+* BioID: 067368 HQv
+* Nome de usuário: Ih37oFzK
+* Endereço IP: 2.112.132.249
+* Número de ID: 63-qaXgkBO
+* Localização: biblioteca
+* Contato de Emergência: Inês Lourenço
+* Segurança Social: 88322721-6
+* Estado: 79
+* Rua: 848 Fernandez Loop
+* URL:  hart.biz/posts/app/categoryauthor.php
+* CEP: 6O28GWQT
+* Fax: (751)489-5205x11564
+------------------------------------------------------------
+NOTA: Seguimento agendado para diagnósticos completos. Os resultados orientarão os próximos passos no plano de tratamento. Contate o paciente após os resultados dos testes serem recebidos."
+

@@ -1,0 +1,45 @@
+"Nota de Consulta de Enfermería
+
+Encabezado: Información de Consulta
+-------------------------------------
+Paciente: Mario Perić
+Dirección: Mario Perić, Avenida de Paulina Niño 840, 68, 1285 Asturia, Spain
+Ciudad: Asturia
+Estado: Misiones
+País: Mexico
+Código Postal: 1285
+Edad: 52
+Teléfono: 814.931.8601x703
+Correo Electrónico: raMaria@zoho.com
+Nombre de Usuario: ce5UhHvY
+Seguridad Social: 77141444P
+Plan de Salud: lonusTczT7
+Doctor: Mariana Herrera
+Hospital: Orlando City B
+-------------------------------------
+
+Subjetivo: El paciente, identificado como Mario Perić, un hombre afroamericano de 52 años, no ha reportado síntomas actuales o malestar. Su visita es para un chequeo de rutina. Reveló un historial familiar significativo de cáncer de próstata, con su hermano de 52 años habiendo sido diagnosticado y tratado con radiación.
+
+Objetivo: Actualmente, Mario Perić no presenta síntomas. No se asocian registros de examen físico o resultados de laboratorio con esta consulta.
+
+Evaluación: Basado en la información proporcionada, Mario Perić tiene un riesgo aumentado de cáncer de próstata debido a su etnia y antecedentes familiares (pariente de primer grado diagnosticado a los 52 años). La discusión se centró en los posibles beneficios y riesgos de la prueba de PSA, considerando las diferentes recomendaciones de varias organizaciones de salud.
+
+Plan: El plan es tener una conversación en profundidad sobre la prueba de PSA para permitir que Mario Perić tome una decisión informada. Se alienta al paciente a realizar más investigaciones y preparar cualquier pregunta que pueda tener para una discusión de seguimiento. También se le aconsejó informar cualquier síntoma nuevo o preocupaciones en el ínterin.
+
+Pie de página: Información Adicional
+-------------------------------------
+Cuenta: TYCF-38298
+Historial Médico: 32-76578RC
+Dispositivo: GzE-bzljbN
+Licencia: 949-80tJSM
+BioID: bqSUxq 29w
+Dirección IP: 125.25.2.193
+Número de ID: TYCF-38298
+Ubicación: banco
+Profesión: Conservador, museo/galería
+Organización: Brown, Anderson and Park
+Vehículo: SKE 497
+URL: https://jordan.com/explore/searchhomepage.html
+Fax: 635.690.7544x57435
+-------------------------------------"
+

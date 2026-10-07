@@ -1,0 +1,52 @@
+"## Verpleegkundige Kladnotities
+
+
+Patient: Paul Willemsen
+Medisch Dossier: 979 97662R
+Adres: Paul Willemsen, Grootmoeders 9, 9166 Fumariaceous, Nederland
+Zorgplan: sOHR3V
+Organisatie: Peters LLC
+Contact: +1-611-830-5050
+Noodcontact: +1-611-830-5050
+Verwijzende Arts: Bo Cools
+Ziekenhuis: Ouestaf.com
+Verplegend Personeel: Bo Cools
+
+Behandelingsinfo:
+-----------------
+Spataderen
+ - ti QVJkPTb gebruikt voor monitoring
+ - 979 97662R referentie voor eerdere behandelingen
+
+Observaties:
+-------------
+Vitaliteit: 
+ - BP: 120/80
+ - Pols: 80 bpm
+ - Temp: 98.6 F
+
+Opgetekende Symptomen:
+ - Pijn in het been: 7/10
+
+Behandelingsvoortgang:
+-------------------
+ - Compressietherapie: Effectief 
+ - Verwijdering van spataderen: Nog niet gedaan
+ - Patiëntgeschiktheid voor operatie: Controleren fvj 7873EH details
+
+Extra Info:
+----------------
+ - Leeftijd: 50
+ - Beroep: Wetenschapper, forensisch
+ - Sociale Zekerheid: 603-7689878-97
+ - Email: so@unwomen.org
+ - URL voor gezondheidsdossiers: https://www.lopez-walker.org/explorehome.php
+ - Gebruikersnaam voor online gezondheidsportaal: 8vUmbtWm
+
+------------------------
+Document ID: fvj 7873EH
+IP Adres Opgenomen: 120.255.224.39
+Gebruikt Apparaat: ti QVJkPTb
+Datum van Notities: 15 december 2007
+"
+

@@ -1,0 +1,27 @@
+"Patientenpflegebericht
+
+Einsatz: Am 27.03.18 erhielt das Team des Rettungsdienstes (EMS) einen 911-Anruf von einer verängstigten Person bei Einkaufszentrum. Das Einsatzteam schickte sofort die Einheit Va-41840dL an den angegebenen Ort.
+
+Patientenbegegnung: Bei Ankunft am Einsatzort fand die  Besatzung den Patienten Benedikt König in mäßiger Notlage vor. Sie saßen auf einem Stuhl und klagten über Symptome, die einer Erkältung ähnelten. Sie hatten Niesen und ihre Nase lief. Sie fühlten sich erschöpft und hatten Körperschmerzen.
+
+Hauptbeschwerde: Patient Benedikt König gibt an, dass die Symptome am 27.03.18 begonnen haben und sich stetig verschlechtert haben. Die Symptome deuten auf eine virale Infektion der oberen Atemwege hin, möglicherweise eine Erkältung.
+
+Anamnese: Nach einer gründlichen medizinischen Anamnese stellte sich heraus, dass der letzte Krankenhausbesuch des Patienten am 27.03.18 im king 's wegen eines ähnlichen Problems stattfand. Patient Benedikt König gab an, dass sie einen Hausarzt Thomas Fuchs bei Manning, Mccarthy und York haben. Die Krankenakten des Patienten wurden mit ihrer Krankenhausakte Nummer OqB VTYanQ aus der Krankenhausdatenbank abgerufen.
+
+Beurteilung: Patient Benedikt König schien in einem stabilen Zustand zu sein, ohne Anzeichen einer akuten Atemnot. Die Vitalwerte des Patienten wurden aufgenommen und zur Referenz und Überwachung dokumentiert. Ein STAT-EKG wurde durchgeführt, um mögliche kardiovaskuläre Probleme im Zusammenhang mit Müdigkeit und Körperschmerzen auszuschließen.
+
+Behandlung: Dem Patienten wurde geraten, viel Flüssigkeit zu sich zu nehmen und sich auszuruhen. OTC-Medikamente wurden zur symptomatischen Linderung empfohlen. Gemäß dem Gesundheitsplan des Patienten 6yw wurde ein Nachsorgetermin mit ihrem Hausarzt Thomas Fuchs vereinbart.
+
+Transport: Patient Benedikt König wurde nicht ins Krankenhaus transportiert, da sein Zustand stabil war und keine Notfallversorgung erforderte. Die Familie des Patienten wurde informiert und die Sicherheitsmaßnahmen für den Patienten wurden sichergestellt.
+
+Dokumentation: Die EMS-Besatzung dokumentierte die Begegnung im System unter dem Konto des Patienten Va-41840dL. Der Patient unterschrieb digital das Einverständnis zur Behandlung mit seinem einzigartigen Benutzernamen dhJlE01v und einem sicheren Passwort.
+
+Nachsorge: Das EMS-Team riet dem Patienten, sofort medizinische Hilfe in Anspruch zu nehmen, wenn die Symptome sich verschlechtern oder wenn sie hohes Fieber entwickeln. Das Team stellte sicher, dass der Begegnungsbericht an die registrierte E-Mail des Patienten Fuchs@msf.org gesendet und eine Kopie an den Hausarzt des Patienten Thomas Fuchs im king 's weitergeleitet wurde.
+
+Fahrer: Die EMS-Einheit 856-UNN wurde von einem zertifizierten EMT gefahren. Die IP-Adresse 131.210.178.191, die für das Einsatzsystem verwendet wurde, wurde zur Datensicherheit und Rückverfolgbarkeit aufgezeichnet.
+
+Bericht von: Dieser Bericht wurde von EMT Thomas Fuchs erstellt und im System mit der Berufslizenznummer 185684 664 abgezeichnet. Der Bericht wird im EMS-System für zukünftige Referenzen und kontinuierliche Pflege gespeichert.
+
+Dieser Bericht ist völlig anonym in Bezug auf die PHI des Patienten, die Sozialversicherungsnummer 26 935 098 884, BioID 89-99486vq, ihre Wohnadresse Benedikt König, Weinhagegasse 0 154, 7568 Eisenach, Thür, Schweiz, Stadt Albacete, Bundesland Kirchstraße, PLZ 7568, Land Belgien, die Faxnummer ihres Arbeitsplatzes (670)724-9195 und ihre URL gonzalez.clark.com.
+"
+

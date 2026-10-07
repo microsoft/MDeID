@@ -1,0 +1,96 @@
+"**NOTE DE PATIENT**
+
+----------
+**Centre de soins de Rurange-lès-Thionville - Parsons, Thompson et Villanueva**
+----------
+**Patient**: Agathe Gaillard
+
+**ID**: YS-GEPpwTi
+
+**SSN**: 112841-8631
+
+**Compte**: 914761-FTM
+
+**Plan de santé**: RgKa
+
+----------
+**Signes vitaux**
+----------
+Temp: 98.6\u2109
+
+BP: 120/80
+
+HR: 75 bpm
+
+RR: 20/min
+
+SpO2: 98%
+
+----------
+**Observations**
+----------
+- Plainte de maux de tête
+- 65 montre des signes d'inconfort
+- Pas d'allergies connues
+- PERRLA normal
+
+----------
+**Traitements**
+----------
+- Analgésique prescrit
+- Hydratation encouragée
+
+----------
+**Notes de progression**
+----------
+- Maux de tête persistants
+- Agathe Gaillard se repose
+- Surveillance pour changement
+
+----------
+**Informations de contact**
+----------
+Médecin principal: Jasmine Lefevre
+
+Email: smLefevr@icloud.com
+
+Téléphone: 001-720-889-1560x36937
+
+----------
+**Informations sur l'appareil**
+----------
+ID de l'appareil: MUmz 77333
+
+----------
+**Informations supplémentaires**
+----------
+Nom d'utilisateur: NATMXm7I
+
+Adresse IP: 48.111.149.236
+
+Licence: kkYWM-8226
+
+Profession: Administrateur de l'éducation
+
+----------
+**Contacts d'urgence**
+----------
+1. Agathe Gaillard | 001-720-889-1560x36937
+2. Agathe Gaillard | 001-720-889-1560x36937
+
+----------
+**Adresse**: Agathe Gaillard, 148 220 Ginette Highway Apt. 017, Rurange-lès-Thionville, 34 2920, Canada
+
+----------
+**Hôpital**: Église de St Tudno
+
+----------
+**Autre lieu**: pharmacie
+
+----------
+**BIOID**: 5623 JeYYO
+
+**VÉHICULE**: Q82 2LR
+
+**FAX**: 612-256-2864"
+

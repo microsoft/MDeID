@@ -1,0 +1,74 @@
+"Verpleegkundige Kladnotitie:
+
+----------------
+Patient Status:
+----------------
+- Pt Samuel Desmet presenteert met vermoeidheid
+- Temp: 37.5\u00b0C
+- BP: 120/80
+- Stats O2: 97%
+- HR: 72 bpm
+- Ademhalingsfrequentie: 16 ademhalingen/min
+
+-----------------
+Observaties:
+-----------------
+- Mogelijke infectie
+- Aanhoudend hoesten
+- Mogelijk geval van 
+- Drinkt goed, eet adequaat
+
+-----------------
+Behandelplan:
+-----------------
+- Voorgeschreven paracetamol 
+- Geadviseerd bedrust
+- Regelmatige vitale monitoring
+
+-----------------
+Doktersvervolg: 
+-----------------
+- Consultatie met Dr. Luuk Prins besteld
+- Herbeoordeling in 48 uur
+- Bloedmonsters verzonden voor laboratoriumtesten 
+
+-----------------------------
+Aanvullende Informatie:
+-----------------------------
+- Samuel Desmet werkt bij Morales-Lloyd
+- Zorgverzekeraar: l2wS
+- Medisch dossier nummer iLWl-546MP
+- Patiënt account nummer oYNk 78251
+- Apparaat serienummer 404335-lIT
+- Patiënt gebruikersnaam: Ulzo3m9R
+- Kentekenplaat nummer: IWJ-4786
+- Sociale zekerheidsnummer: 822-8623219-86
+- Licentienummer: oIWz-238sj
+- Biometrische identificatie: 457-82910d
+- IP-adres: 202.242.45.68
+
+--------------------
+Noodcontact:
+--------------------
+- Relatie: 
+- Contactnummer: +1-400-810-4417x4051
+- Email: sk@aol.com
+  
+-----------------------------
+Contactadres:
+-----------------------------
+- Thuis: Samuel Desmet, Spiculigenous 177, 9176 Physiologies, Nederland
+- Ziekenhuis: St. Paul's Cathedral Westminster Abbey
+- Andere locatie: treinstation
+- Stad: Mufti
+- Staat: 49
+- Postcode: 9176
+
+---------------------
+Andere Informatie:
+---------------------
+- Fax: 218-983-5310x30883
+- URL: hendricks-goodwin.com
+
+LET OP: Dit is slechts een kladnotitie, beschouw het niet als een volledig klinisch document."
+

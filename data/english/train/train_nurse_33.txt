@@ -1,0 +1,53 @@
+"Nurse Narrative Note
+
+Subjective:
+
+Liam Morin presented to the clinic reporting blurred visual acuity and photopsias in one eye that has been persisting for the past few days. These symptoms were preceded by flu-like symptoms including fever and headache reported by the patient. Liam Morin denies any significant medical history or recent contact with animals.
+
+Objective:
+
+Liam Morin's complete blood count (CBC), and results from chest and sinus X-rays were normal. Test results for syphilis, cytomegalovirus, herpes simplex virus, human immunodeficiency virus, Bartonella, Histoplasma capsulatum, Toxoplasma gondii, Toxocara canis, and Borrelia burgdorferi were negative. Ocular examination reveals best-corrected visual acuity of 20/20 in the right eye and 20/25 in the left eye. Biomicroscopy, pupillary reactions, and intraocular pressure are within normal limits. Color fundus photography reveals subtle deep retinal white spots in the posterior pole and around the optic disk of the left eye. Fluorescein angiography (FA) shows wreath-like punctate areas of early hyperfluorescence and optic disc staining in the late phase. Fundus autofluorescence (FAF) and optical coherence tomography (OCT) confirm disruption of the ellipsoid zone (EZ) and presence of hypereflective and hyporeflective lesions in the outer nuclear layer (ONL) and choroid, respectively. OCT angiography (OCTA) shows no flow impairment.
+
+Assessment:
+
+Based on Liam Morin's symptoms and diagnostic findings, a retinal pathology is suggested. This could possibly be an inflammatory or infectious process, although infectious causes have been ruled out by negative serologies. Differential diagnosis could include autoimmune retinopathy or a localized retinal detachment.
+
+Plan:
+
+The plan is to monitor Liam Morin's condition closely with a follow-up appointment scheduled in a few weeks to reevaluate the condition. Liam Morin has been advised to immediately report any worsening of symptoms. Further testing or a referral to a retinal specialist may be considered based on the progression or change in symptoms.
+
+[Table: Personal Health Information (PHI)]
+| PHI Type | Masked Placeholder |
+|----------|-------------------|
+|ACCOUNT|lujlCi 96y|
+|ADDRESS|Liam Morin, 73 Cohanims, Speckiest, 8 9051, Canada|
+|AGE|10-months|
+|BIOID|tl FkryKoG|
+|CITY|Speckiest|
+|COUNTRY|Australia|
+|DATE|9,1995|
+|DEVICE|REyaz 4632|
+|DOCTOR|Lauren Leblanc|
+|EMAIL|eneb@aol.com|
+|HEALTHPLAN|lXHYyPEoU|
+|HOSPITAL|holy pilgrimage center|
+|IDNUM|lujlCi 96y|
+|IPADDRESS|11.61.34.194|
+|LICENSE|622120-hIZ|
+|LOCATION-OTHER|park|
+|MEDICALRECORD|Xyc qjSloF|
+|ORGANIZATION|Cox, Jackson and Roberts|
+|PATIENT|Liam Morin|
+|PHONE|001-201-650-0930x73822|
+|PROFESSION|Legal secretary|
+|SOCIALSECURITY|417-38-9923|
+|STATE|625|
+|STREET|7996 Richard Pass Apt. 674|
+|URL|https://wagner-hampton.com/wp-contentmain.html|
+|USERNAME|wTCK2lBy|
+|VEHICLE|1831 SS|
+|ZIP|9051|
+|FAX|(657)227-2745x9329|
+
+Signed, Lauren Leblanc"
+

@@ -1,0 +1,70 @@
+Note H&P
+
+#Plainte principale et raison de la visite
+
+Elin Meier est venue se présenter principalement avec des ascites et un abdomen distendu. L'individu a également exprimé des sentiments de désespoir extrême, soulevant la préoccupation de l'idéation suicidaire.
+
+#Histoire de la maladie actuelle
+
+La maladie actuelle pointe vers un diagnostic d'Hépatite C. Elin Meier présente des symptômes classiques, notamment un gonflement abdominal, caractérisé par une augmentation drastique de la circonférence.
+
+#État général
+
+Elin Meier semblait généralement bien nourrie mais manifestement mal à l'aise en raison de ballonnements. Il y avait des ascites marquées avec une onde de liquide présente.
+
+#Antécédents médicaux
+
+Elin Meier n'a pas d'antécédents médicaux significatifs ou de chirurgies antérieures. Le statut de vaccination est à jour (référence rHx-dQdJGc).
+
+#Médicaments
+
+Aucun médicament actuel ; cependant, l'utilisation de diurétiques pourrait bientôt être envisagée pour gérer les ascites présentées.
+
+#Allergies et Intolérances
+
+Aucune allergie médicamenteuse connue.
+
+#Examen physique
+
+L'examen abdominal a révélé un ventre agrandi et distendu, cohérent avec des ascites. Aucune autre découverte significative.
+
+#Signes vitaux
+
+TA : 130/80 mmHg, FC : 75 bpm, Temp : 98,2 F, FR : 16 bpm, Sat O2 : 98%
+
+#Revue des systèmes
+
+La revue des systèmes ne montre aucune autre anomalie en dehors des symptômes présents.
+
+#Antécédents familiaux
+
+Aucun antécédent familial significatif de maladie du foie ou de conditions associées.
+
+#Histoire sociale
+
+Le mode de vie et les facteurs comportementaux de Elin Meier sont généralement sains. Aucun antécédent connu d'abus de substances.
+
+#Section des résultats
+
+En attente de résultats de laboratoire et d'imagerie supplémentaires pour confirmer le diagnostic d'Hépatite C.
+
+#Évaluation et Plan
+
+Les symptômes actuels correspondent à un possible diagnostic d'Hépatite C. Jordy Declercq recommande d'initier un traitement diurétique pour soulager les ascites et des références pour un soutien en santé mentale en raison des sentiments suicidaires exprimés. Nous devons procéder une fois que nous recevons des résultats concluants des tests diagnostiques demandés.
+
+#Section des directives anticipées
+
+Elin Meier n'a pas de directives anticipées à l'heure actuelle. Elin Meier et Jordy Declercq ont discuté de l'importance de considérer les décisions médicales pour les scénarios de santé futurs.
+
+#Section des instructions
+
+Il est conseillé à Elin Meier de surveiller de près les symptômes et de revenir immédiatement si les symptômes s'aggravent. Une ligne d'assistance immédiate pour le soutien en santé mentale est fournie si Elin Meier en a besoin.
+
+#Section des procédures
+
+Elin Meier a consenti aux procédures diagnostiques nécessaires liées à la suspicion d'Hépatite C. Celles-ci incluent des tests de fonction hépatique, une échographie abdominale et un test d'anticorps de l'Hépatite C.
+
+[Fin de la note H&P]
+
+#Placeholders PHI : Elin Meier, rHx-dQdJGc, Jordy Declercq
+

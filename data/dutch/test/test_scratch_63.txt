@@ -1,0 +1,55 @@
+"VERPLEEGKUNDIGE KORT NOTITIE 
+
+Patiëntinformatie 
+--------------------
+Patënt: Maaike Groen
+Leeftijd: 78
+Woonplaats: Maaike Groen, Chawing 82, 1224 Ipomea, België
+Email: Imteven@who.int
+Telefoon: 662.468.1307x245
+Contact in geval van nood: CFtWHG4V
+
+Ziekenhuisdetails
+----------------
+Ziekenhuis: Lauensteiner Tagung
+Dokter: Imane Stevens
+
+Gezondheidsinformatie 
+-------------------
+Zorgplan: WsP38yEiJ
+Medisch dossier: vDNp-BvOel
+Account ID: RSit-230hM
+
+Observaties: 
+--------------
+1. Pijn in lymfeklieren - Ernstig 
+2. Huiduitslag - Aanwezig
+3. Mogelijke diagnose - Waterpokken 
+
+Vitalen: 
+--------
+- Temp: 38.5C
+- BP: 120/80 mmHg
+- RR: 22/min
+
+Apparaatinformatie 
+------------------
+Apparaat: 90-ZdpSdGL
+
+Diverse Informatie 
+--------------------------
+IP: 56.174.143.123
+Datum van opname: 25 september 2006
+Vervoermiddel gebruikt voor transport: 0-02682M
+Licentie (indien aanwezig): 736338 ztD
+Beroep: Fotograaf
+Organisatie: Bishop Group
+Andere locatie: universiteit
+Sociale zekerheid: 472-6790552-94
+Biometrische identificatie: lvLYg DObd
+Fax: (698)375-1575
+URL: mosley.page.biz
+ID-nummer: RSit-230hM
+
+Opmerking: Dit document bevat gevoelige informatie en moet dienovereenkomstig worden behandeld."
+

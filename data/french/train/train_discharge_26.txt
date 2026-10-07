@@ -1,0 +1,57 @@
+**RÉSUMÉ DE SORTIE**
+
+**Patient :** Rose Henry
+**Numéro de dossier médical :** 184465-33G
+**Médecin traitant :** Adrien Fernandez
+**Hôpital :** Barnet Copthall
+
+*RAISON DE L'HOSPITALISATION*
+La patiente a été admise en raison de plaintes de fièvre et de nausées. L'examen initial et les antécédents médicaux ont indiqué un diagnostic potentiel de colite.
+
+*PROCÉDURES EFFECTUÉES*
+Une coloscopie a été réalisée pour un diagnostic définitif et pour évaluer le niveau d'inflammation.
+
+*SOINS, TRAITEMENTS ET SERVICES FOURNIS*
+À l'admission, la patiente a commencé un traitement antibiotique accompagné de suppléments probiotiques pour combattre l'infection et restaurer la flore intestinale. Par la suite, une coloscopie a été réalisée sous sédation, confirmant le diagnostic de colite. Des médicaments anti-inflammatoires ont été ajoutés au régime de traitement. La patiente a également reçu une perfusion de liquides IV en raison de la déshydratation causée par les vomissements.
+
+*ÉTAT DU PATIENT ET DISPOSITION À LA SORTIE*
+Au moment de la sortie, les symptômes de fièvre et de nausées ont diminué, bien que la patiente signale encore un inconfort occasionnel. Le côlon semble bien réagir aux médicaments anti-inflammatoires.
+
+*INFORMATIONS FOURNIES AU PATIENT ET À LA FAMILLE*
+Le patient et la famille ont été informés du diagnostic, de la nécessité de continuer le traitement médicamenteux et de l'importance de l'hydratation. Ils ont reçu un livret d'information sur la gestion de la colite, les signes d'aggravation des symptômes et quand chercher une aide médicale immédiate.
+
+*DISPOSITIONS POUR LES SOINS DE SUIVI*
+Un rendez-vous de suivi a été pris avec Adrien Fernandez pour réévaluer l'état de la patiente. La patiente a également été orientée vers un nutritionniste pour établir un plan alimentaire qui aidera à la récupération et minimisera l'inconfort.
+
+**SECTIONS :**
+
+*SECTION ALLERGIES ET INTOLÉRANCES*
+Aucune allergie ou intolérance connue.
+
+*SECTION DIAGNOSTIC À LA SORTIE*
+Colite aiguë.
+
+*SECTION PLAN DE TRAITEMENT*
+Continuer les antibiotiques prescrits et les médicaments anti-inflammatoires, suivre le plan alimentaire fourni par le nutritionniste, et maintenir l'hydratation. Surveiller les symptômes et contacter Adrien Fernandez si les symptômes persistent ou s'aggravent.
+
+*SECTION CONSULTATIONS HOSPITALIÈRES*
+Une consultation auprès de l'équipe de gastroentérologie et de nutrition a été obtenue pendant le séjour à l'hôpital.
+
+*SECTION PROCÉDURES*
+Coloscopie réalisée.
+
+*SECTION RÉSULTATS*
+Coloscopie - Présence confirmée d'inflammation indicative de colite aiguë.
+
+**Sections supplémentaires :**
+
+*ANTECEDENTS MEDICAUX*
+Aucun antécédent médical significatif noté.
+
+*SECTION INSTRUCTIONS DE SORTIE DE L'HÔPITAL*
+Continuer avec les médicaments prescrits. Suivre le plan alimentaire. Restez hydraté. Surveillez les symptômes.
+
+*SECTION RAISON DE LA VISITE*
+Fièvre, vomissements, nausées avec suspicion de colite.
+
+Note : Toujours prioriser le confort du patient et s'assurer que tous les soins sont dispensés comme prévu. En cas de changements inattendus, informez immédiatement les médecins traitants.

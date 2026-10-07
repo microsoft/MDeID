@@ -1,0 +1,18 @@
+"Patient Care Report Narrative: Diabetic Emergency
+
+Dispatch Narrative: We received a call from Emergency Dispatch Services at Mon.7.18. The call was for a patient, Amelia Ouellet, at restaurant for reported severe symptoms of hyperglycemia.
+
+On arrival at Mon.7.18 and , we found the patient in moderate distress. Amelia Ouellet was conscious, but reported an intense thirst and excessive urination, consistent with hyperglycemia. Amelia Ouellet reported that these symptoms had started at Mon.7.18 and have escalated over time. Amelia Ouellet had a known medical history of Diabetes and was on prescribed medication.
+
+Anna Romero performed an immediate assessment of the patient's condition. The patient's airway was open and clear. Respiration was slightly shallow and rapid, with a respiratory rate of 24 breaths per minute. The patient's radial pulse was palpated, strong and regular at a rate of 90 beats per minute. Skin was cool and moist to touch, which could potentially indicate the onset of diabetic ketoacidosis. No major bleeding was noted. 
+
+Upon further investigation, the patient reported no allergies but was taking an oral hypoglycemic agent, , for diabetes. The last oral intake was at Mon.7.18 and .
+
+The patient was commenced on high-flow oxygen therapy via a non-rebreather mask at 15 liters per minute. Due to the presented signs of hyperglycemia, the patient was given an intramuscular injection of glucagon.
+
+During transport to Zindagi, the patient was continually monitored. The patient's blood glucose levels were checked and were found to be extremely high. The patient's vital signs remained stable throughout transport.
+
+Upon arrival at the emergency department of Zindagi, patient care and report were given to the attending nurse and physician. The patient was transferred to the emergency department cot with help from the crew. All necessary documentation regarding the patient's transportation and medical care, including the patient's medical history and billing information, were provided to the hospital staff.
+
+Report by: Anna Romero, ID: kK-628FqlL"
+

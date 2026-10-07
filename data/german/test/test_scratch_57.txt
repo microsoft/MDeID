@@ -1,0 +1,59 @@
+"Pflegekratznotiz
+
+-----------------------------------
+Patienteninformationen & Beobachtungen (KA: )
+-----------------------------------
+Patient: Julia Schmid 
+Alter: 30 
+
+Vitalwerte: 
+BP: 120/80
+HR: 90
+RR: 16
+Temp: 98.6\u00b0F
+
+-----------------------------------
+Klinische Zusammenfassung
+-----------------------------------
+Beschwerde: Sehstörungen, verschwommen. 
+Glucometer-Lesung: 215 mg/dl 
+Dx: Diabetes 
+
+-----------------------------------
+Behandlung & Fortschritt
+-----------------------------------
+Insulin verabreicht - Details in der Krankenakte: ASnOGM JLm
+BG-Trend überwacht - siehe Geräte-ID: 417 VNjxQW
+
+-----------------------------------
+Weitere Informationen
+-----------------------------------
+Adresse: Julia Schmid, Radischring 5/7 108, 3308 Jabing, Belgien
+Email: na@aol.com
+Benutzername: gejT0qpQ
+Arzt: Laura Wallner 
+Gesundheitsdienstleister: V2W
+Krankenhaus: New Delhi motilal
+
+-----------------------------------
+Kontakte
+-----------------------------------
+Telefon: 001-791-730-6827x336
+Alt. Telefon: 001-791-730-6827x336
+Notfallkontakt: Julia Schmid
+
+-----------------------------------
+Verschiedene Details
+-----------------------------------
+Lizenz: UA-QNzPBCX
+SSN: 642-8353031-18
+Kontonummer: 153-919zTB
+Biometrische ID: sW 81445Yt
+IP-Adresse: 28.193.97.133
+Fahrzeuginfo: 9-01167
+Standort-Andere: Markt
+Organisation: Singleton-Neal
+Beruf: Multimedia-Programmierer
+URL: washington.com
+Fax: (410)377-6108x506"
+

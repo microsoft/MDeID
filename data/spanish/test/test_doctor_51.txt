@@ -1,0 +1,45 @@
+"Nota del Doctor Scratch
+
+Paciente: Cristina Arroyave 
+ID: 2844 rALtl 
+Edad: 41 
+Doctor: Martín Herrera 
+Número de Historia Clínica: 47-216919O
+
+Quejas presentadas:
+- Hinchazón crónica de las extremidades inferiores: Duración - Aproximadamente 6 meses
+- Falta de aliento: Duración - Aproximadamente 6 meses
+- Sangrado vaginal anormal intermitente: Duración - Aproximadamente 3 meses
+
+Observaciones:
+- Saturación de oxígeno: 80% (aire ambiente)
+- Frecuencia cardíaca: Elevada (Taquicardia)
+- Presión arterial: Baja (Hipotensión)
+- Notado: Disminución de los sonidos cardíacos
+- Linfadenopatía supraclavicular izquierda presente
+- Radiografía de tórax: Silueta cardíaca agrandada, derrame pleural bilateral
+- Pericardiocentesis: Drenó 500 mL de secreción sanguinolenta
+- Citología del líquido pleural: Carcinoma poco diferenciado
+- Biopsia del ganglio linfático supraclavicular izquierdo: Carcinoma de células escamosas metastásico
+- Biopsia cervical: Carcinoma de células escamosas (lesión intraepitelial de alto grado)
+- Nivel de CA-125: 335.5 IU/mL
+- Resonancia magnética pélvica: No se observa tumor uterino o cervical, se confirma carcinomatosis peritoneal
+
+Evaluación:
+- Carcinoma de células escamosas metastásico
+- Complicaciones: Derrames pericárdico y pleural, inestabilidad hemodinámica, insuficiencia respiratoria
+- Diferenciales: Otras formas de cánceres metastásicos (descartados)
+
+Plan:
+- Quimioterapia: Carboplatino, paclitaxel
+- Se ofreció pericardiocentesis repetida (rechazo del paciente)
+- Se consideró la escleroterapia intrapericárdica (no se realizó - falta de experiencia en la instalación)
+- Condición deteriorada, llevó a la muerte en el día 46 después de la presentación inicial
+
+Información de contacto:
+Teléfono: 345.562.9745x1921
+Correo electrónico: rn@aol.com
+Hospital: Sonar
+Dirección: Cristina Arroyave, Avenida Sur Trejo 655 Edif. 707, Depto. 164 74, Afterchance, B6LWYKAZ Punta Alta, Argentina
+"
+

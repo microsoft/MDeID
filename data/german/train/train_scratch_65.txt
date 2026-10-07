@@ -1,0 +1,65 @@
+"**-=Krankenschwester's Kurze Notizen=-**
+
+```txt
+--------------------------------------
+PATIENT       : Marlene Jung
+ALTER         : 53
+KRANKENHAUS   : Copenhagen Dockyard
+KRANKENAKTE   : 607490 Nxj
+--------------------------------------
+
+Vitalzeichen:
+- BP: 120/80
+- HR: 88 bpm
+- Temp: 37\u00b0C
+
+Beobachtungen:
+- Zittern, überall zittern
+- Gewichtsverlust
+
+Mögliche Diagnose:
+- Diabetes vermutet
+
+Bestellter Test:
+- Blutzuckerspiegel
+- HbA1c
+
+--------------------------------------
+**Kontakt Info**
+- Adresse: Marlene Jung, Cilly-Bonbach-Allee 60 171, 3113 Sankt Marein bei Graz, Belgien
+- Telefon: 001-910-808-2654
+- Email: eChristian@yandex.com
+--------------------------------------
+
+**Konto und ID**
+- Kontonummer: 04215 14KE
+- ID Nummer: 04215 14KE
+- Gesundheitsplan: wldm
+
+**Andere**
+- Benutzername: Marleung
+- IP Adresse: 160.34.160.84
+- BioID: 050389-085
+
+**Medizinische Geräte**
+- Verwendetes Gerät: zDAPAm xEK
+
+**Notfallkontakt**
+- Name: Marlene Jung
+- Kontakt: 001-910-808-2654
+
+**Krankenhaus Details**
+- Standort: Einkaufszentrum
+- Stadt: WR. NEUDORF
+- Staat: Wattenscheid
+- PLZ: 3113
+
+**Beruf und Organisation**
+- Beruf: Handelsmarineoffizier
+- Organisation: Hughes-Gonzales
+
+--------------------------------------
+*Notiert von: Christian Fischer*
+```
+"
+

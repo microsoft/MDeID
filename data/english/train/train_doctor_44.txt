@@ -1,0 +1,25 @@
+"Doctor Scratch Note
+
+P: Hannah Lowe, ybioh 2966, 1 
+C: Hypertension, Valvular Heart Disease, Diabetes Mellitus, Stage 4 Chronic Kidney Disease
+H: Lower back pain noted, previous treatments for bilateral large renal stones include bilateral double J stent insertion, left extracorporeal shockwave lithotripsy, and FURS with laser stone fragmentation. 
+
+**Observations** 
+O: Recent non-contrast CT - multiple bilateral renal stones, total stone burden of 3.0 cm in the left kidney and 3.2 cm in the right kidney. 
+Procedure: Simultaneous bilateral FURS and holmium laser lithotripsy under general anesthesia, lasted 125 minutes. 
+Surgical details: Hydrophilic tip guidewire, ureteral access sheath, Karl Storz flexible ureterorenoscope. 
+Laser settings: 1.0\u20131.2 joules at 8-12 Hz, 4200 and 4066 pulses for the left and right sides, respectively.
+
+**Assessment**
+A: Primary diagnosis - bilateral nephrolithiasis with significant stone burden, managed surgically with FURS and laser lithotripsy. 
+Risks: Multiple comorbidities and Stage 4 CKD - careful postoperative monitoring required.
+
+**Plan**
+P: Regular follow up for monitoring the effectiveness of stone removal and to manage potential complications. 
+Instructions: Report any new symptoms or discomfort immediately. 
+Imaging: Further imaging studies may be required to assess postoperative outcomes and ensure complete stone clearance. 
+Care Provider: Continue managing his chronic conditions with Harriso Lee and relevant specialists.
+
+By: Harriso Lee, Hartman-Garcia
+"
+

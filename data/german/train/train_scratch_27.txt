@@ -1,0 +1,60 @@
+"PFLEGEKRATZNOTIZ 
+
+*******Kritische Patientendaten*******
+Harald Lechner: Beschwert sich über Steifheit und Schwäche, möglicher 24357 1561
+
+*******Vitalzeichen*******
+BP: 125/78
+HR: 90 bpm
+RR: 20 Atemzüge/min
+Temp: 98.2\u00b0F
+
+*******Beobachtungen*******
+Gang: Verändert, vorsichtig, möglicher Schmerz 39
+Appetit: Normal
+Schlaf: Gestört, berichtete Insomnie LechnHar
+
+*******Verabreichte Behandlungen*******
+Physiotherapie: Begonnen, Schmerzmanagement im Fokus
+Ernährung: Ausgewogen, hoher Proteingehalt verschrieben
+
+*******Mögliche Diagnose*******
+Verdacht: Arthritis 150-556602 
+
+*******Externe Faktoren*******
+Arbeit: Sitzend, lange Stunden bei Ellison PLC 
+Standort: Urban Einkaufszentrum 
+
+*******Kontakt- & Notfallinformationen*******
+Telefon des Verwandten: +1-369-444-8768
+Notfallkontakt: 
+E-Mail: ner@protonmail.com
+
+*******Weitere relevante Details*******
+Überweisender Arzt: Werner Steiner
+Gesundheitsdienstleister: 9nU
+Aufnahmekrankenhaus: East Helena Smelterites
+
+*******Geräteinformationen*******
+Gerätemodell: 660 SsodGZ
+Geräte-IP: 123.26.230.90 
+
+*******Identifikationsinformationen*******
+Kennzeichen: 8R100
+Gesellschaftliche ID: 811-1442927-48
+
+*******Kommunikation*******
+Patientenportal:  marquez.biz/searchprivacy.php 
+Benutzername: LechnHar 
+Passwort (Hashed): 150-556602
+
+*******Zusätzliche Informationen*******
+Wohnadresse: Harald Lechner, Gutknechtstr. 118 142, 5354 Steirisch Laßnitz, Belgien
+Beruf des Patienten: Wissenschaftler, forensisch
+Fax: (812)550-3430
+Kontostatus: Aktiv, 150-556602 
+
+*******Notiz*******
+Mögliche Arthritis, muss mit Spezialist bestätigt werden. Terminerinnerung an ner@protonmail.com senden, Nachsorge in 3 Wochen. Halten Sie LechnHar und Ellison PLC auf dem Laufenden.
+"
+

@@ -1,0 +1,23 @@
+"Arzt Kratz Notiz
+
+Jessica Geerts: 53-jährige Frau 24 
+Medizinische Vorgeschichte: Aorteninsuffizienz, Hypertonie 
+
+Vitalwerte: Normal 
+Keine Symptome: Brustschmerzen, Atemnot, Orthopnoe, Dyspnoe, Beinschwellung 
+
+Körperliche Untersuchung: 
+Diastolisches Murmeln - 3. linker Interkostalraum 
+Echokardiogramm (TTE): dreizipflige Aortenklappe, mäßige Aorteninsuffizienz, schlecht definierte subaortale Membran 37041 ouNA
+Transösophageales Echokardiogramm (TEE): bestätigte quadrikuspidale Aortenklappe, schwere Aorteninsuffizienz aufgrund unvollständiger Koaptation der Klappensegel 37041 ouNA
+
+Diagnose: Schwere Aorteninsuffizienz, sekundär zu quadrikuspidaler Aortenklappe 
+Zustand: Asymptomatisch, erfordert engmaschige Überwachung Pneumonie
+
+Plan: 
+- Regelmäßige Nachsorge 
+- Echokardiographische Überwachung 
+- Melden Sie sofort neue Symptome 
+
+Anaïs Evrard"
+

@@ -1,0 +1,47 @@
+"**Notes de l'infirmière**
+
+Patient : Jade Laporte
+
+* Plaintes : fatigué, se sent malade
+* Symptômes notables : Nez qui coule, possible apparition à 7 ans
+* Vérification : Temp, BP, Resp, Sat (Tout normal)
+* Diagnostic probable : Rhume commun
+
+Signes vitaux & Observations :
+1. Température :  98.6F
+2. Pression artérielle : 120/80 mmHg
+3. Fréquence respiratoire : 16 respirations/min
+4. Saturation en oxygène : 97%
+
+Plan de traitement : Hydrater, Repos, Augmentation de la Vit C
+
+**Résumé des contacts**
+* Contact principal : 001-695-398-4398
+* Email : ler@gmail.com
+* Contact d'urgence : 001-695-398-4398
+
+**Infos patient**
+* Dossier médical : Aqrv-196mS
+* Hôpital : attwell
+* Adresse : Jade Laporte, 126 65266 Minet Trafficway Apt. 536, 6529 Rumilly, France
+
+**Autres détails**
+* SSN : 805-3747668-33
+* Compte : 321-14197A
+* Nom d'utilisateur : 1icfAWZv
+* Date de naissance : dimanche 16 mai 1993
+* Adresse IP : 184.116.13.202
+
+**Contexte supplémentaire du patient**
+* Profession : Infirmière, santé mentale
+* Employeur : Richards Group
+* Plan de santé : WmdR AYG2XNC2E gNqjq
+* Médecin : Samuel Bogaerts
+* Dernier lieu connu : musée
+
+**Appareils & Détails**
+* ID de l'appareil médical : oI-64862hc
+* ID du profil biométrique : 47166-ESlq
+
+_Note : Pour toute modification, veuillez mettre à jour les sections pertinentes._"
+

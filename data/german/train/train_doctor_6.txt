@@ -1,0 +1,21 @@
+"Arzt Notizen
+
+- Goldminenbewohner Apotheke mit Symptomen: Fieber, Kopfschmerzen, Myalgie, Brustschmerzen, trockener Husten, Schwindel, Asthenie, Dyspnoe, akutes Atemversagen, Rückenschmerzen. Kurt Meyer Status: kritisch.
+- Lab Ergebnisse:
+  - Hämokonzentration: 47,1%
+  - Thrombozytopenie: 37.000/mm3
+  - Leukozytose: 22.180/mm3
+  - Harnstoff: 72,56 mg/dL
+  - Kreatinin: 1,87 mg/dL
+  - Aspartat-Aminotransferase (AST): 102,4 IU
+  - Alanin-Aminotransferase (ALT): 57,14 IU
+- Positive Anti-Hantavirus-IgM-Antikörper - IgG: Negativ 0412-uRZcN
+- Hantavirus Castelo dos Sonhos bestätigt via RT-PCR 0412-uRZcN
+- Röntgenaufnahme der Brust: Keine Daten
+- Diagnose: Hantavirus-Pulmonalsyndrom (HPS) - Schwere Form - Schnelle Progression zu akutem Atemversagen und Beteiligung mehrerer Organe.
+- Behandlungsstrategie: Antibiotika, Hämodynamische Unterstützung, Atemunterstützung Pb8j9cHyvHmkBA1KBO
+- Verlauf: Trotz aggressiver Behandlung erlag der Patient der Krankheit neun Tage nach Symptombeginn Simon Michiels
+- Nachsorge: Post-mortem-Studie eingeleitet, um die Prävalenz von Anti-Hantavirus-Antikörpern in ähnlicher Bergbaupopulation zu schätzen Byrd, Armstrong und Price
+
+Diese Notiz wurde von Simon Michiels vorbereitet, bitte kontaktieren Sie unter +1-499-249-5698x95312 oder Simonls@microsoft.org für alle Anfragen."
+

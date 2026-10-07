@@ -1,0 +1,59 @@
+"Documento di Annotazione Infermieristica
+
+Paziente: Kurt Schneider
+------------------------------------------------
+
+Segni Vitali:
+BP: 120/80
+Pulsazioni: 80 BPM
+Temp: 98.6 F
+OxySat: 98%
+
+----------------------- Colon-Brown -----------------------
+
+Osservazione: 
+- Disagio al collo
+- Instabilità
+- Irregolarità dell'equilibrio
+- Possibile SAPVi xuIF
+
+---------------------------------------------------
+Dott. Precedente: Walter Schmid
+Dott. di Riferimento: Walter Schmid
+Ospedale: Keys Virginia
+
+---------------------------------------------------
+Piano di Trattamento: 
+1. 25229-01Ou - valutazione dell'uso
+2. Fisioterapia - in corso
+3. 7wFAaumyw - conferma della copertura
+
+---------------------------------------------------
+Informazioni di Contatto: 
+- E-mail: eSchmi@protonmail.com
+- Telefono: +1-683-299-5361x096 
+- Fax: 001-462-357-5804
+
+---------------------------------------------------
+Note:
+
+- Kurt Schneider mostra una storia medica di SAPVi xuIF
+- 25229-01Ou - controllo dell'impianto consigliato
+- Follow-up il mercoledì 26 giugno 2024
+- Informare il Walter Schmid sullo stato del paziente Kurt Schneider
+
+---------------------------------------------------
+Posizione: supermercato
+Infermiere Assegnato: thneide
+
+----------------------- Colon-Brown -----------------------
+
+Informazioni Aggiuntive:
+- ID: 85-534XXvP
+- SSN: 471032-4129
+- LICENZA: 84147 sVDf
+- IP: 134.118.248.245
+- VEICOLO: 04Q•999
+
+---------------------- FINE DELLA NOTA ----------------------"
+

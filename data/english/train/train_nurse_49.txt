@@ -1,0 +1,37 @@
+"Nurse Note
+
+Subjective: The patient Tayla Golden, with a history of acquired FX deficiency from AL amyloidosis, PAF, metastatic lung adenocarcinoma on erlotinib, hypertrophic cardiomyopathy, hypertension, and type 2 diabetes mellitus, reports feeling \"okay\" but has experienced issues including self-limiting epistaxis and easy bruising in Wed/3/1996. The patient recalls previous lab results and medical procedures.
+
+Objective: Previous lab results indicated a PT of 12.4 seconds (reference range: 11-15 seconds), INR of 1.2 (reference range: 0.9-1.2), aPTT of 38 seconds (reference range: 25-35 seconds), alkaline phosphatase at 160 U/L (reference range: 40-130 U/L), creatinine at 1.16 mg/dL (reference range: 0.7-1.2 mg/dL), and proteinuria with 882 mg/24 h (reference range: 0-150 mg/24 h). Abdominal ultrasound showed park with the right lobe measuring 21 cm. Serum and urine electrophoreses indicated the presence of immunoglobulin G-lambda. Lopez-Smith revealed extensive amyloid deposition with lambda light chain presence. Bone marrow core biopsy showed extensive amyloid deposition, positive Congo red staining, and positive fluorescence in situ hybridization for lambda light chains. Decreased FX coagulation activity was noted at 45% with a reference range of 70%-150%. In Wed/3/1996, coagulation profile showed PT of 16.3 seconds, aPTT of 33 seconds, and FX activity of 34%.
+
+Assessment: The primary diagnosis is acquired FX deficiency secondary to AL amyloidosis. The patient's history of recurrent lung adenocarcinoma and other comorbidities complicate the management. Differential diagnoses include other causes of abnormal coagulation unrelated to amyloidosis. The prognosis is guarded due to the complexity of the underlying conditions and the recurrent nature of the lung cancer.
+
+Plan: Continue with the current regimen of melphalan and dexamethasone chemotherapy. Regular monitoring of coagulation profiles and FX activity is essential. Educate the patient on the importance of reporting new symptoms or concerns promptly. Schedule routine follow-up appointments to assess treatment efficacy and manage any complications. Referral to a hematologist for further management of FX deficiency and an oncologist for ongoing cancer treatment is recommended. Ensure compliance with all prescribed medications and follow-up schedules.
+
+Footer:
+Patient Identifier: nf 704sezk
+Account Number: JARO-19990
+Device Identifier: MhK 575nMZ
+Username: ayGolde
+Vehicle Identifier: LCR 442
+Social Security Number: 532 407 244
+License Identifier: 01-kdHqaRU
+Biometric ID: 02-wMzmbio
+IP Address: 133.63.131.197
+Other Identifier: JARO-19990
+Age: 6
+Address: Tayla Golden, 72 Oblating, Unchangeful, 90 3833, Canada
+Hospital: Virginia Supreme Court of
+Other Location: park
+Health Plan: TFr12V MNTa56 o4MvFh UCkY4
+Profession: Adult nurse
+Organization: Lopez-Smith
+Date: Wed/3/1996
+Doctor: Diane James
+Email: Jamne@un.org
+Phone: (204)945-9115x4871
+URL: rogers-murray.buchanan.com
+Fax: 962.712.8981x4033 
+
+Signed: Diane James"
+

@@ -1,0 +1,65 @@
+"**-=Verpleegkundige's Snelle Notities=-**
+
+```txt
+--------------------------------------
+PATIËNT       : Léa Martin
+LEEFTIJD      : 104
+ZIEKENHUIS    : Galerie de
+MEDISCH DOSSIER: 517 229NGK
+--------------------------------------
+
+Vitale Tekens:
+- BP: 120/80
+- HR: 88 bpm
+- Temp: 37\u00b0C
+
+Observaties:
+- Schudden, trillen overal
+- Gewichtsverlies
+
+Mogelijke Diagnose:
+- Diabetes vermoed
+
+Test besteld:
+- Bloedsuikerspiegel
+- HbA1c
+
+--------------------------------------
+**Contact Info**
+- Adres: Léa Martin, Circularising 131, 7151 Philopornist, België
+- Telefoon: +1-846-268-6974x281
+- Email: ném@un.org
+--------------------------------------
+
+**Account en ID**
+- Account Nr.: YbzET 88Qo
+- ID Num: YbzET 88Qo
+- Zorgplan: ChGhj
+
+**Anderen**
+- Gebruikersnaam: rhzuSHCT
+- IP Adres: 42.17.46.94
+- BioID: 38-cjTJpRF
+
+**Medische Apparaten**
+- Gebruikt apparaat: sQGCOp IXR
+
+**Noodcontact**
+- Naam: Léa Martin
+- Contact: +1-846-268-6974x281
+
+**Ziekenhuis Details**
+- Locatie: markt
+- Stad: Amapondo
+- Staat: 12
+- Postcode: 7151
+
+**Beroep en Organisatie**
+- Beroep: Wetenschapper, biomedisch
+- Organisatie: King-Simpson
+
+--------------------------------------
+*Genoteerd door: Zoé Van Damme*
+```
+"
+

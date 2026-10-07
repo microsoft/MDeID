@@ -1,0 +1,92 @@
+"Nota de Enfermería
+
+--- Caso del Paciente Vvm mUXnsq---
+
+Paciente: Lucía Soto
+
+Edad: 21
+
+ID Biométrica: 8113 06222
+
+Cuenta: TxlU-XGiLT
+
+Dispositivo Médico: mcBiD bHOd
+
+Ubicación-Otra: estación de tren
+
+Dirección: Lucía Soto, Via de Isabela Becerra 6 Apt. 04 127, Sneezewort, EHIIFO83 San Agustín del Guadalix, 92, Mexico
+
+Hospital: Guru Har
+
+--- Signos Vitales ---
+
+Presión arterial: 128/80
+
+Pulso: 72
+
+Temperatura: 98.6F
+
+Respiración: 16
+
+Saturación de O2: 98%
+
+--- Observaciones de la Enfermera ---
+
+Se observa un alto aumento de peso en poco tiempo. Preocupaciones por fatiga, intolerancia al esfuerzo. No se observan signos de trauma visible.
+
+--- Información Médica ---
+
+¿Posible reacción a medicamento...? A confirmar por Estela Amador.
+
+Actualmente en TRHRoiu9.
+
+--- Información Miscelánea ---
+
+Nombre de usuario: 2q7vX0Mb
+
+Dirección IP: 94.170.217.56
+
+Licencia: 48 3709hkB
+
+Vehículo: 3HR84
+
+--- Información de Contacto ---
+
+Teléfono: +1-273-521-6105
+
+Correo electrónico: ra@unhcr.org
+
+URL:  www.keith.com/tagshome.html
+
+Fax: 450.246.8581x05940
+
+--- Contacto de Emergencia ---
+
+Nombre: Lucía Soto
+
+Relación: 
+
+Teléfono: +1-273-521-6105
+
+--- Otros ---
+
+NUMID: TxlU-XGiLT
+
+SEGURIDADSOCIAL: 254-97-2071
+
+PROFESIÓN: Gerente de instalaciones
+
+ORGANIZACIÓN: Gomez-Holt
+
+CIUDAD: San Agustín del Guadalix
+
+PAÍS: Peru
+
+ESTADO: Región de Lima
+
+CALLE: 983 Morris Terrace Apt. 221
+
+CÓDIGO POSTAL: EHIIFO83
+
+--- Fin de la Nota ---"
+

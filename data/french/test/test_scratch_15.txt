@@ -1,0 +1,84 @@
+"**NOTE DE L'INFIRMIÈRE**
+
+---
+
+**État du patient**
+* Alexis Bouchard manifeste des symptômes - état léthargique;
+
+**Observations**
+* Vésicules : Présence détectée, cohérente avec des éruptions cutanées virales; 
+
+**Signes vitaux**
+* Temp : 101.5\u00b0F
+* TA : 110/70 mmHg
+* Respiration : 16 respirations/min
+* Pouls : 95 bpm
+
+**Diagnostic potentiel**
+* Suspicion de varicelle;
+
+**Traitement**
+* Commencer : Médicament antiviral;
+* Hydratation : Surveiller l'apport en liquide de Alexis Bouchard;
+
+**Références médicales**
+* Dossier : 8028-9066t
+* Compte : rlDx myLnu
+* Appareil : 28873-6413
+
+---
+
+**INFO SUPPLÉMENTAIRES**
+
+**Contact d'urgence**
+* Téléphone : +1-872-917-1836x7644
+* Email : eeu@unwomen.org
+
+**Détails de l'emplacement**
+* Adresse : Alexis Bouchard, 198 282 Bastin Street Suite 711, 7808 59800, France
+* Hôpital : Doc
+
+**Autre**
+* Adresse IP : 81.147.18.212
+* BioID : TFT-030Wdv
+* Véhicule : CKY 031
+
+**Fournisseurs de soins**
+* Médecin traitant : Ine Mathieu
+* Physiothérapeute : Ine Mathieu
+
+---
+
+**Identification**
+* Sécurité sociale : 7 42 75 73 489 276
+* Permis : 344079 034
+* Identification générale : rlDx myLnu
+
+**Âge**
+* Âge du patient : 96
+
+**Assurance santé**
+* Plan de santé : cK2
+
+**Info d'emploi**
+* Profession : Professeur d'école secondaire
+* Organisation : Foster LLC
+
+**Dates**
+* Dernière visite : mercredi 21 juin 2023
+* Prochaine visite prévue : mercredi 21 juin 2023
+
+**Communication**
+* Nom d'utilisateur : rdexis
+* Fax : 2474813231
+
+---
+
+**Note** : Comme il s'agit d'une note rapide, elle ne doit pas être considérée comme un dossier patient complet. Pour un dossier complet, veuillez vous référer au numéro de dossier médical du patient 8028-9066t. 
+
+**URL pour plus d'info** : simpson-king.mann.perez-farrell.org 
+
+---
+
+**Fin de la note**"
+

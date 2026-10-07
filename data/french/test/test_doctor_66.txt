@@ -1,0 +1,60 @@
+"Note de Docteur Scratch
+
+----------------------------------------
+
+Femme de 62 ans, non-fumeuse, sans comorbidités.
+Symptômes présentés : Toux, fièvre légère, perte de poids légère.
+Aucun antécédent d'infections récurrentes.
+Aucun contact avec des patients atteints de tuberculose.
+L'historique de voyage comprend la Suisse et la Suisse.
+Diagnostic précédent : Pneumonie, multiples traitements antibiotiques, aucun soulagement des symptômes.
+
+----------------------------------------
+
+Examen physique :
+Diminution des bruits respiratoires dans le lobe supérieur gauche.
+Observations de la radiographie thoracique et du scanner :
+- Consolidation dans l'hile supérieur gauche, lobe supérieur gauche.
+- Lésion intraluminale nodulaire centrale.
+- Épaississement bronchique.
+- Pneumonie post-obstructive.
+Aucune lymphadénopathie ou épanchement pleural noté.
+
+Résultats de la bronchoscopie :
+Tumeur endobronchique bien définie dans le lobe supérieur gauche.
+
+Examen histologique du lobe supérieur gauche résecté :
+- Tumeur carcinoïde atypique.
+- Inflammation granulomateuse.
+Tests pour Mycobacterium tuberculosis : Négatif.
+
+----------------------------------------
+
+Diagnostic :
+Primaire : Tumeur carcinoïde atypique du lobe supérieur gauche.
+Différentiel : Tuberculose (en raison de l'inflammation granulomateuse et de l'historique de voyage), tests actuels pour la tuberculose négatifs.
+
+Pronostic :
+Dépend de la surveillance continue et de la gestion de la tumeur carcinoïde et de la tuberculose potentielle.
+
+----------------------------------------
+
+Plan de traitement :
+Le patient a subi une lobectomie du lobe supérieur gauche réussie.
+Recommander une surveillance continue pour la tuberculose malgré les tests actuels négatifs.
+Des suivis réguliers sont nécessaires pour la gestion et la réévaluation.
+D'autres options de traitement peuvent être envisagées en fonction de l'évolution de la tumeur carcinoïde et de toute nouvelle découverte liée à la tuberculose.
+
+----------------------------------------
+
+Docteur : Ella Thompson
+Patient : Ty Boucher 
+Dossier médical : fE 477468R
+Hôpital : 1950s Pierce
+Date : 1 septembre 1974
+Ville : Vitry Le François
+État : Lot-et-Garonne
+Code postal : 8965
+
+----------------------------------------"
+

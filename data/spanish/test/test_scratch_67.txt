@@ -1,0 +1,36 @@
+"# Nota de Enfermera Scratch 
+ID del paciente: 0595 94050
+
+- Mercedes Villa: Informes de dolor de cabeza, visión borrosa y náuseas
+- Signos vitales: PA 140/90, FC 90, Temp. 98.6 F, FR 18, SpO2 98%
+- Dx potencial: Migraña 
+- Medicamentos ordenados: Medicamentos antimigrañosos, terapia de hidratación  
+
+## Observaciones adicionales
+* Paciente incómoda
+* Contacto de un miembro de la familia: Mercedes Villa ()
+* No se conoce LFLfKA
+* Limpieza de la habitación: Buena 
+
+### Otra información relevante
+* Dirección IP del dispositivo de informe: 58.236.126.153
+* Información biométrica: Pks 648yaz
+* Cama de hospital asignada: parque
+
+## Detalles de contacto
+| Tipo | Información |
+| --- | ----------- |
+| Dirección | Mercedes Villa, Prolongación Bañuelos 040 Interior 841, 43, 6318 Jaltenco, España |
+| Correo electrónico | iaA@red-cross.org |
+| Teléfono | +1-976-695-6041 |
+| Fax | (236)484-0632x910 |
+
+## Detalles personales 
+- Edad: 44
+- Profesión: Gerente de centro de conferencias
+- Titular de la cuenta: PLb-38JuzD
+- Hospital: de Łódź
+
+**Aviso:**
+Guarde este documento de manera segura. Incluye información sensible sobre el paciente rcedeVilla. Para cualquier cambio o actualización, contacte al médico de guardia. Nombre del médico: Alberto Arias."
+

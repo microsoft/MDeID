@@ -1,0 +1,88 @@
+"NOTE D'INFIRMIÈRE
+
+**_En-tête_**
+
+Journal de l'infirmière Lea Widmer
+
+Nom de l'hôpital : Stanislavsky
+
+Dossier médical du patient : 4847 WzEnE
+
+**_Informations sur le patient_**
+
+Nom : Kate Paquette
+
+Âge : 31
+
+Adresse domicile : Kate Paquette, 33 8377 Nyssen Well, Uchaux, 26 9267, Canada
+
+Numéro de contact : 7049521036
+
+Assurance maladie : 8p93Ut
+
+Contact d'urgence : zLhSOtFo, 7049521036
+
+Médecin assigné : Lea Widmer
+
+**_Signes vitaux_**
+
+Température : 101.2°F
+
+Fréquence cardiaque : 98 bpm
+
+Pression artérielle : 130/85 mmHg
+
+Fréquence respiratoire : 20 respirations/min
+
+Saturation en O2 : 98%
+
+**_Observations médicales_**
+
+Le patient présente de la fièvre et une faiblesse générale.
+
+Des plaies visibles ont été observées dans le restaurant. Impétigo possible.
+
+La peau autour des plaies semble enflée et rouge.
+
+Le patient signale des démangeaisons autour de la zone.
+
+**_Interventions initiées_**
+
+- Bain d'éponge frais initié pour abaisser la fièvre.
+
+- Administration d'Acétaminophène 500mg pour la fièvre et l'inconfort.
+
+- Nettoyage des plaies avec une solution antiseptique douce.
+
+- Application d'un antibiotique topique sur la zone affectée.
+
+- Instruction au patient de continuer avec le médicament prescrit et d'éviter de se gratter.
+
+**_Actions ultérieures_**
+
+- Informer Lea Widmer de l'état du patient.
+
+- Surveiller les signes vitaux toutes les 4 heures.
+
+- Réévaluer les plaies dans 24 heures.
+
+- Informer le patient sur les soins à domicile pour l'Impétigo.
+
+- Planifier le prochain suivi le 26/04/1996 avec Lea Widmer.
+
+**_Pied de page_**
+
+Dernier accès depuis l'adresse IP : 149.31.57.203
+
+ID de l'appareil utilisé pour la connexion : po-87257Mb
+
+Organisation : Henderson-Williams
+
+Email pour les communications : rea@mail.com
+
+URL pour accéder au dossier du patient en ligne : https://morales-mcguire.org/blogauthor.html
+
+Numéro de fax pour l'échange de documents : 342.455.6199
+
+Fin de la note-------"
+

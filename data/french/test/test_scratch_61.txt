@@ -1,0 +1,41 @@
+"**Note de l'infirmière**
+
+**ID du patient :** wJaRB-PJOb
+
+**Observations pour le 30 décembre 1974 :**
+
+1. Signes vitaux : TA : 110/70, FC : 65, FR : 16, Temp : 37.5C
+2. Symptômes : Vomissements, douleur à l'estomac
+3. Remarqué que la peau / les yeux de Sofia Graf montrent un léger jaunissement - suspicion de jaunisse
+4. Plan pour surveiller les signes vitaux toutes les 4 heures
+5. L'état d'hydratation de Sofia Graf doit être maintenu avec des fluides IV
+
+*Note informelle* :
+Alina Fischer doit être informée. Sofia Graf semble fatiguée. Le niveau de douleur est élevé. Les signes vitaux sont stables, pas de pic de température. Les symptômes de type jaunisse nécessitent une attention.
+
+**Informations personnelles du patient :**
+- Adresse du domicile : Sofia Graf, 55 51429 Michiels Lock Suite 160, 4971 Donnenheim, France
+- Numéro de contact : 771.390.6434x11287
+- Contact d'urgence : Sofia Graf
+- Plan de santé : EkR2F7Id
+
+**Contacts professionnels :**
+- Médecin traitant : Alina Fischer
+- Infirmière de service : kpF2euiF
+
+**Autres informations essentielles :**
+- Admis à St. Nicholas Arena
+- A mentionné travailler à Pace LLC
+- Dernière adresse IP connue du journal d'accès : 222.207.255.166
+- ID de l'appareil de surveillance : OGmr-FRgZJ
+- Compte du patient : 4348-JidvM
+- Détails du SSN : 398-2249242-17
+- Numéro de licence (le cas échéant) : aJUHRB iFc
+- ID biométrique : TTeDi yFkL
+- Autres identifiants : 4348-JidvM
+- Âge du patient : 64
+
+**Suivi possible requis à l'emplacement :** bibliothèque
+
+*Fin de la note de l'infirmière*"
+

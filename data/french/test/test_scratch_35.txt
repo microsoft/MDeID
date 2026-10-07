@@ -1,0 +1,56 @@
+"Note d'Infirmière
+
+---------------------
+Tableau 1 : Informations de base
+---------------------
+|   Hans Moser  |  254050-jad  | bmZ 21908q | 254050-jad |
+|:------------:|:-----------:|:---------------:|:------:|
+|   [Patient]  |  [N° de compte]    |    [N° de dossier]    | [N° d'ID]  |
+
+---------------------
+Tableau 2 : Informations de contact
+---------------------
+| Hans Moser, 44 838 Loïc Roads, 6308 Vieilley, France  |  (441)318-3943x74216  | Mayahite@gmail.com | Coordinateur bénévole  | Ferguson, Wiggins and Bennett  |
+|:----------:|:---------:|:-------:|:-------------:|:--------------:|
+|  [Adresse] |  [N° de téléphone] | [Email] |  [Profession] |  [Organisation] |
+
+---------------------
+Tableau 3 : Fournisseur & Assurance
+---------------------
+|  Maya White  | Fettes  | mH44 lTKvh5uK  |
+|:----------:|:-----------:|:-------------:|
+|  [Médecin]  |  [Hôpital] |  [Assurance]  |
+
+---------------------
+Tableau 4 : Informations avancées
+---------------------
+| NUqu9TMh  | 110.86.136.3  | gray-kaufman.roberts.navarro-blanchard.com  | +1-285-500-6406 |
+|:-----------:|:------------:|:------:|:-----:|
+| [Nom d'utilisateur]  |  [Adresse IP] | [URL]  | [FAX] |
+
+---------------------------
+Signes vitaux & Observations le lundi 29 septembre 1980
+---------------------------
+V/S : TA : 130/80, Pouls : 85, Temp : 57
+
+Début des symptômes : Essoufflement, forte fièvre, sensation de malaise.
+
+Possible pneumonie.
+
+Impressions & Plan :
+- Commande d'une radiographie du thorax pour confirmer.
+- Commencer les antibiotiques bmZ 21908q.
+- Suivre l'évolution.
+- Suivi le lundi 29 septembre 1980 si pas d'amélioration.
+
+Note du Maya White : Le patient peut nécessiter une hospitalisation si la pneumonie est confirmée et que son état se détériore.
+
+-------------------------------
+Tableau 5 : Autres informations pertinentes
+-------------------------------
+| France  | Remiencourt  | RA | 6308 | 63996 Scott Freeway Apt. 937 | marché  | 2PBG354  | 861-332-212 | 3473 11IUK | hNiz wWJKT |
+|:----------:|:-------:|:-------:|:-----:|:--------:|:-----------------:|:---------: |:----------------:|:---------:|:------: |
+|  [Pays] | [Ville]  | [État] | [Code postal] | [Rue] |    [Emplacement]     | [N° de véhicule] |     [N° de sécurité sociale]       | [Permis] | [BioID] |
+
+"
+

@@ -1,0 +1,38 @@
+"Patientenzorg Rapport
+
+[DISPATCH]: Dispatch Jones Ltd ontving een 911 oproep van een lokale bewoner Niek van der Heijden. De eenheid 10-XB68 reageerde op de dispatch oproep.
+
+[RESPONSE]: Bij aankomst op de locatie strand, werden we begroet door de patiënt Niek van der Heijden die klaagde over een ernstige uitslag op hun huid. De patiënt Niek van der Heijden was in een matige staat van distress.
+
+[HISTORY OF PRESENT ILLNESS]: De patiënt Niek van der Heijden legde uit dat de uitslag enkele dagen geleden was begonnen. De symptomen zijn progressief verergerd en gaan nu gepaard met een matige koorts. De patiënt Niek van der Heijden verklaarde dat de uitslag vrij ernstig en jeukend was, wat leidde tot de beslissing om 911 te bellen. Eerdere medische geschiedenis werd verkregen van de patiënt Niek van der Heijden. De patiënt Niek van der Heijden kon geen bekende allergieën verstrekken. 
+
+[ASSESSMENT - PRIMARY]: De patiënt Niek van der Heijden was bij bewustzijn en alert. Huidonderzoek onthulde een wijdverspreide uitslag, blaren en rode vlekken, consistent met mogelijke Varicella, algemeen bekend als waterpokken. De vitale functies van de patiënt Niek van der Heijden werden genomen en gedocumenteerd als volgt: (deze vitale functies mogen geen kritieke aandoeningen aangeven, maar kunnen een licht verhoogde temperatuur tonen).
+
+[ASSESSMENT - SECONDARY]: Bij verder onderzoek was het duidelijk dat de uitslag over het hele lichaam was verspreid. Jeuk was duidelijk en de patiënt Niek van der Heijden leek ongemakkelijk door aanhoudende koorts.
+
+[TREATMENT]: De patiënt Niek van der Heijden werd ter plaatse behandeld met geschikte antipyretische medicatie 97 GwSGqYW om de koorts te verlichten. De patiënt Niek van der Heijden werd ook geadviseerd om de uitslag niet te krabben om eventuele secundaire huidinfecties te voorkomen.
+
+[TRANSPORT]: De patiënt Niek van der Heijden werd vervolgens zonder vertraging naar het ziekenhuis Hadrian's vervoerd voor verdere evaluatie en behandeling. Vanwege de besmettelijke aard van de vermoedelijke aandoening werden tijdens het vervoer de nodige voorzorgsmaatregelen genomen. 
+
+[OVERVIEW]: Bij aankomst in het ziekenhuis Hadrian's, werd de zorg voor de patiënt Niek van der Heijden overgedragen aan de spoedeisende hulp arts Ivo Scholten. Het medisch rapport werd overhandigd aan de behandelend arts Ivo Scholten en de patiënt Niek van der Heijden werd opgenomen in het ziekenhuis Hadrian's voor verdere behandeling.
+
+[DOCUMENTATION]: De patiënt Niek van der Heijden tekende een toestemmingsformulier voor spoedbehandeling. Dit rapport werd opgesteld door de aanwezige spoedeisende medische technicus. 
+
+[NAME]: dernkd
+[EMAIL]: ltenvo@hotmail.com
+[DOB]: 26 jan. 2019
+[PHONE]: 252.650.4525
+[SEX]: 29252 1411
+[SSN]: 317112075
+[ADDRESS]: Niek van der Heijden, Stage 116, 5554 Septic, België
+[CITY]: Unenunciative
+[ZIP]: 5554
+[STATE]: 86
+[COUNTRY]: België
+[ACCOUNT]: zHDxj-456N
+[IDNUM]: zHDxj-456N
+[IPADDRESS]: 55.7.226.192
+[LICENSE]: eHjOnC Kaa
+[URL]:  hale.com/wp-content/posts/blogterms.php
+[FAX]: 506.284.8785x7441"
+

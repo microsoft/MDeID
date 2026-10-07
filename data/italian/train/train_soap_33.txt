@@ -1,0 +1,24 @@
+"S: Il paziente Francesco Ricci ha 1 anno con una storia di ipossia alla nascita, presentando ritardi nello sviluppo e disturbi del sonno. Il genitore riporta recenti risultati di livelli elevati di GHB da un'analisi degli acidi organici urinari condotta presso Aberffraw.
+O: Il test genetico eseguito presso Mendoza, Fernandez and Morrison ha rivelato una nuova mutazione omozigote c.800 T > G (p.V267G) nell'esone 5, ereditata da entrambi i genitori. L'analisi bioinformatica, condotta presso palestra, indica che questa mutazione è \"probabilmente dannosa\" e \"causa di malattia\" con un alto punteggio di patogenicità. I precedenti risultati dell'EEG e della risonanza magnetica cerebrale, conservati nel record medico 411 zkoYsg, e condotti presso Aberffraw, non erano chiari.
+A: La diagnosi primaria è un disturbo genetico legato alla nuova mutazione c.800 T > G, che contribuisce ai ritardi nello sviluppo e ai problemi di sonno. Le diagnosi differenziali, registrate sotto il numero di conto 340770 74L, potrebbero includere altri disturbi genetici o metabolici che influenzano lo sviluppo neurologico.
+P: Pianificare di monitorare attentamente lo sviluppo di Francesco Ricci attraverso regolari appuntamenti di follow-up programmati per mercoledì 30 dicembre 2009. Gli interventi includeranno terapia occupazionale, logopedia e terapia comportamentale per affrontare i ritardi nello sviluppo. Saranno implementati miglioramenti dell'igiene del sonno, con potenziale intervento farmacologico se necessario. Ai genitori viene consigliato di mantenere una comunicazione aperta con il team sanitario, compresi la Dr.ssa Laura Serra e l'infermiera Laura Serra, e possono raggiungerli al +1-357-218-7179x9020 o raura@who.int, per adeguare le cure se necessario. I genitori dovrebbero anche aggiornare il loro piano sanitario 9hK2 sui progressi.
+
+Note aggiuntive:
+- Il nome utente del paziente per il portale dell'ospedale è 0aSUfKLE.
+- L'indirizzo di casa del paziente è Francesco Ricci, 189 Jimenez Squares 127, 0904 Lonato Del Garda, Svizzera dove vive con i suoi genitori.
+- Il numero di ID del paziente è 340770 74L.
+- Il numero del dispositivo del paziente è 58-NtgSUoA.
+- Il numero di targa del veicolo del paziente è JD0 6130.
+- Il numero di previdenza sociale del paziente è UTQGAA03A09X905O.
+- La patente di guida del paziente è tUHW-64WpB.
+- L'identificatore dell'impronta digitale del paziente è lHyMMO 20Q.
+- L'indirizzo IP del paziente a casa è 1.38.222.143.
+- La professione del paziente è Direttore Marketing.
+- Lo stato di residenza del paziente è PG.
+- La città di residenza del paziente è Trani,.
+- Il codice postale del paziente è 0904.
+- Il paese di residenza del paziente è Italia.
+- La strada del paziente è 788 Wilkinson Courts.
+- L'URL del blog personale del paziente è allen-bush.king-avery.clark.com.
+- Il numero di fax del paziente è 001-414-924-1207x812."
+

@@ -1,0 +1,61 @@
+"---
+> **NOTA RÁPIDA** eRhdP-0409 \ud83d\udc69\u200d\u2695\ufe0f\ud83d\udccb\ud83d\udd8a\ufe0f
+--- 
+
+> **Perfil del Paciente**
+- Atique Islam 
+- 105 años
+- Dirección: Atique Islam, Avenida de Clemente Caro 50 16, Devotionally, OXEL8O1F Maipú, 95, México
+- Contacto: 001-893-306-0505x10454
+- Correo electrónico: oastiá@msf.org
+- Plan de Salud: Q9O3k
+
+> **Detalles Médicos**
+- Queja principal: \ud83c\udf21\ufe0fFiebre, dolor de cabeza, manchas rojas
+
+> **Dispositivo Médico**
+- ID del dispositivo: 376156 kca
+
+> **Observaciones Médicas** 
+> * Signos vitales
+    - Temp: 102.5\u00b0 F 
+    - Presión arterial: 130/80 mmHg 
+    - Pulso: 98 bpm 
+    - Respiración: 21 bpm
+* Piel: Presentes múltiples manchas rojas
+
+> **Plan de Tratamiento**
+- Antipiréticos para la fiebre
+- Descanso e hidratación
+
+> **Próxima Cita** 
+- Fecha: 16/1/90
+- Ubicación: handel
+- Sala: banco
+
+> **Información de Contacto** para emergencias
+- Contacto de emergencia: Atique Islam
+- Número de contacto: 001-893-306-0505x10454
+
+> **Información Adicional**
+- Doctor a cargo: Sebastián Romero
+- Nombre de usuario en el portal: Islamt
+- Número de identificación en el sistema: 834247-emS
+- Número de seguridad social: 092-63-1370
+- Profesional consultado: Director Financiero
+
+> **Resumen de Alta** 
+- Se requiere más consulta con Sebastián Romero en handel 
+- Próxima cita de seguimiento el 16/1/90
+
+> **Comunicaciones**
+- Por favor, consulte las actualizaciones en el portal del paciente gray-oliver.peterson-morris.com
+
+> **Detalles de Facturación**
+- Cuenta: 834247-emS
+- Organización: Merritt, Torres and Shah
+
+---
+*Esta nota fue creada por Islamt/AHwsTr-843/172.51.119.113/ryFTBM-939 para Atique Islam con 0I MV129/+1-395-392-2139x90120 en Maipú/Colombia/AGUASCALIENTES/7624 Jenkins Plain Suite 811/OXEL8O1F registrado según 376156 kca.* 
+---"
+

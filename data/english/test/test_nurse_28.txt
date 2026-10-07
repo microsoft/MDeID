@@ -1,0 +1,38 @@
+"**Nurse Notes for Patient with Complex Medical History**
+
+Narrative note:
+
+Patient Thomas Gagnon reported a significant episode of bright red blood per rectum with blood clots. The patient has a complex medical history including 34 89egvId hypertension, hyperlipidemia, diabetes mellitus type 2, coronary artery disease with three prior myocardial infarctions, recurrent cerebrovascular accidents requiring anticoagulation with warfarin, gastroesophageal reflux disease, asthma, and endometrial cancer treated with radiation therapy, brachytherapy, and total abdominal hysterectomy with bilateral salpingo-oopherectomy. Thomas Gagnon denies experiencing abdominal pain, nausea, vomiting, diarrhea, constipation, or melena.
+
+Physical examination revealed mild left-sided abdominal tenderness but was otherwise unremarkable. Rectal examination showed nonbleeding hemorrhoids and no visible blood. Recent colonoscopy identified three diminutive polyps in the transverse colon, confirmed as tubular adenomas. Blood work showed elevated white blood cells at 14.3k/uL, low hemoglobin at 9.6 g/dL, slightly elevated creatinine at 1.2, and elevated blood urea nitrogen at 39. International normalized ratio was 2.0. A subsequent colonoscopy revealed a large, fungating, friable, and ulcerated lesion.
+
+The primary diagnosis is a large ulcerated lesion in the colon, likely contributing to the hematochezia. Differential diagnoses include colorectal cancer or a severe form of inflammatory bowel disease, considering the patient's history and current presentation. The patient's anemia and elevated inflammatory markers are concerning and warrant further investigation. 
+
+The patient has been admitted to Askey for further evaluation and management. A multidisciplinary team consultation is planned to discuss the treatment options for the identified lesion. The patient will be monitored closely for changes in symptoms and vital signs. Blood transfusions may be considered if hemoglobin levels drop further or if the patient exhibits symptoms of significant anemia. Anticoagulation therapy with warfarin will be managed carefully in the context of the current bleeding and potential surgical interventions. Patient education will be provided regarding the findings and the planned investigations and treatments to ensure understanding and compliance.
+
+Patient Details:
+- Medical Record Number: 34 89egvId
+- Account Number: 753208 JNu
+- Device Identifier: 4340 32014
+- Username: gnohom
+- Vehicle Identifier: O58 5AT
+- Social Security Number: 623-203-152
+- License Identifier: 265875-nCR
+- Biometric Identifier: xUns-VxSIW
+- IP Address: 44.233.39.184
+- Personal Identifier: 753208 JNu
+- Age: 37
+- Address: Thomas Gagnon, 32 Antiphilosophical, Untriable, Tulipy 9622, New Zealand
+- Hospital: Askey
+- Location: hospital
+- Health Plan: mW26mm
+- Profession: Solicitor, Scotland
+- Organization: Nelson-Christian
+- Doctor: Ezra Lee
+- Email: aLee@protonmail.com
+- Phone: 001-369-313-6558x16007
+- URL: https://johnson-rodriguez.org/app/app/wp-contentterms.html
+- Fax: (945)447-5546x920
+
+Nurse Ezra Lee"
+

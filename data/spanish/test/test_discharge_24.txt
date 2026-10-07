@@ -1,0 +1,54 @@
+# Resumen de Alta
+
+## Paciente: Felipe Nava
+
+## Fecha: 17/5/13
+
+## Doctor: Moisés Valle## Hospital: French Riviera
+
+### Motivo de Admisión
+
+El paciente fue admitido debido a una estenosis de la válvula aórtica, presentando síntomas como disnea al esfuerzo, síncope y molestias en el pecho.
+
+### Curso Hospitalario
+
+Durante la estancia, el paciente se sometió a varias pruebas e imágenes para evaluar la gravedad de la estenosis de la válvula aórtica. El equipo de atención médica monitoreó las constantes vitales del paciente (PA: 150/90 mmHg, FC: 88 lpm, Resp: 16/min, Temp: 36.5°C) y ajustó el plan de tratamiento en consecuencia.
+
+### Procedimientos Realizados
+
+El paciente se sometió a una cirugía de reemplazo de la válvula aórtica bajo la experiencia de un equipo de cardiothoracic. La operación fue exitosa y no se notaron complicaciones durante el procedimiento.
+
+### Cuidado, Tratamiento y Servicios Proporcionados
+
+Inicialmente se estabilizó al paciente con medicación, después de lo cual se decidió proceder con la intervención quirúrgica. Después del procedimiento, el paciente fue trasladado a la Unidad de Cuidados Intensivos Cardiovasculares para un monitoreo cercano. También se proporcionaron sesiones de fisioterapia al paciente para mejorar la recuperación temprana.
+
+### Condición del Paciente y Disposición al Alta
+
+Al dar de alta, la condición del paciente era estable. El paciente había reanudado la actividad y estaba en menos molestias, con una disminución de la incidencia de disnea y sin informes de síncope.
+
+### Información Proporcionada al Paciente y la Familia
+
+Se educó al paciente y a la familia sobre el diagnóstico, el procedimiento quirúrgico y el proceso de recuperación. También se les informó sobre el régimen de medicación y las modificaciones del estilo de vida necesarias para la recuperación del paciente y la prevención de la progresión de la enfermedad.
+
+### Provisiones para el Cuidado de Seguimiento
+
+Se programó una cita de seguimiento para el paciente con Moisés Valleen dos semanas en French Riviera para un chequeo y evaluación del progreso de la recuperación.
+
+### Medicamentos de Alta
+
+Se recetó al paciente un curso de antibióticos para prevenir la infección, así como medicamentos antihipertensivos y para reducir el colesterol.
+
+### Instrucciones de Alta
+
+Se aconsejó al paciente que se adhiera estrictamente al régimen de medicación prescrito, evite las actividades extenuantes e informe cualquier aparición repentina de síntomas. También se recomendó una dieta equilibrada, hidratación y ejercicio regular y suave.
+
+### Resumen de Estudios de Alta Hospitalaria
+
+Al dar de alta, las constantes vitales del paciente eran estables y las imágenes mostraban la colocación exitosa del reemplazo de la válvula aórtica. Los resultados de laboratorio estaban dentro de los rangos normales, indicando no signos de infección u otras anomalías.
+
+### Número Único de Registro Médico: WgL-BBCVhg
+
+**Nota:** Este resumen de alta se debe utilizar para la continuación del cuidado y debe mantenerse seguro para proteger la información de salud personal del paciente.
+
+**Fin del Resumen**
+

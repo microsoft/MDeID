@@ -1,0 +1,61 @@
+"**NOTE DE RAYURE D'INFIRMIÈRE**
+
+-----------------------------
+[Informations sur le patient]
+    Patient : Louise Dumont
+    Âge : 5
+
+[Informations sur le lieu]
+    Adresse : Louise Dumont, 1774 Stas Road 185, 0998 Sainte Marie, Suisse
+    Hôpital : Wells Maine
+
+[Signes vitaux]
+    TA : 120/80 mmHg
+    FC : 80 bpm
+    Temp : 98.6 \u00b0F
+    FR : 16 respirations par minute
+    SpO2 : 98%
+
+[Observations]
+    Peau : Éruption cutanée sévère notée 
+
+[Évaluation]
+    Infection possible : Varicelle
+
+[Plan]
+    Médicament : Antiviral (si nécessaire)
+    Suivi : 1 semaine 
+
+[Notes]
+    Le patient a signalé des démangeaisons intenses à divers endroits sur le corps.
+
+[Références]
+    Dermatologue : Mehdi Baert
+
+-----------------------------
+[PANNEAU ADMIN]
+    Numéro de dossier médical : qOzM LcUpe
+    ID de compte : 331 42751L
+    ID de l'appareil : YA-168176Y
+    Alias de connexion : umontLo
+    Sécurité sociale : 5 32 32 43 509 698
+    Licence : kmxde 34LA
+    Identifiant biométrique : LUBH 763gg
+    Adresse IP : 133.100.111.100
+    No. d'identification : 331 42751L
+    Ville : Grans
+    Pays : Canada
+    Code postal : 0998
+    Plan de santé : CN17pRW
+    Profession : Solicitor
+    Organisation : Glenn-Taylor
+    No. de contact : 771.526.0934
+    No. de fax : (772)318-9169
+    Email : ir@red-cross.org
+    Véhicule : 34-GO92
+    URL : dudley.net
+    Détails de l'emplacement : centre commercial
+-----------------------------
+
+***Préserver la santé & les valeurs***"
+

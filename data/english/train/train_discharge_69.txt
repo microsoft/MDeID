@@ -1,0 +1,40 @@
+**Discharge Summary**
+
+**Patient**: Michael Thompson
+
+**ID**: 181-019004
+
+**Admitting Physician**: Dorothy James
+
+**Hospital Course**: The patient was admitted due to a notable increase in episodes of chest pain, angina pectoris, palpitations, and presyncope, all indicative of a severe case of hyperlipidemia. The condition was managed effectively through medication and lifestyle modification advice.
+
+**Procedures**: The patient underwent a comprehensive lipid profile test along with an ECG to assess the heart condition. Both procedures were performed without any complications.
+
+**Treatment and Services Provided**: The patient was put on a strict low-fat diet along with cholesterol-lowering medications. Daily exercise was also encouraged. An array of services was provided, including cardiology consultation, nutrition counseling, and pharmacy services.
+
+**Condition at Discharge**: By the time of discharge, the patient's condition had significantly improved. The chest pain and palpitations had reduced, and the lipid levels were coming back to normal range.
+
+**Discharge Diagnosis**: The patient is diagnosed with hyperlipidemia. To manage the condition, an appropriate treatment plan has been developed and explained to the patient.
+
+**Information Provided to the Patient and Family**: Detailed information about hyperlipidemia, its implications, and the importance of lifestyle modifications were thoroughly explained to the patient and the family.
+
+**Follow-up Care**: The patient is advised to follow up after two weeks for a check-up with Dr. Dorothy James. The patient should maintain a low-fat diet, regular exercise, and strictly adhere to the prescribed medication routine. The patient should immediately report to the hospital if symptoms like chest pain or palpitations reoccur. 
+
+**Allergies**: The patient has no known allergies. Any new medications should be consumed under medical supervision only.
+
+**Discharge Medications**: Patient was discharged with the following medications for hyperlipidemia -
+
+1. Statins - to lower cholesterol levels.
+
+2. Omega-3 fatty acid supplements - to increase 'good' cholesterol levels.
+
+This discharge summary is intended for the continuation of care.
+
+**Hospital**: Tampa
+
+**Date of Discharge**: 24
+
+**Signature**: Dorothy James
+
+>Note: This document contains no Personal Health Information (PHI).
+

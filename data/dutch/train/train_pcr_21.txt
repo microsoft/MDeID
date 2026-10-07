@@ -1,0 +1,44 @@
+"Patientenzorg Rapport: Bronchiale Astma
+
+Dispatch: 
+
+De Emergency Medical Services (EMS) eenheid werd naar de woning van Roos Kuijpers gestuurd na een 911 oproep. De oproep werd ontvangen in het EMS centrum gelegen op restaurant vanaf een IP adres 180.181.205.223 via het online noodhulp systeem. De beller, geïdentificeerd als ijperoos, meldde dat de patiënt een astma-aanval had. De dispatch werd geïnitieerd onder rekeningnummer 00722 hNTF.
+
+Patiënt beschrijving:
+
+Bij aankomst troffen we Roos Kuijpers, een 65 jarig individu, die zichtbaar in nood was. De algemene indruk wees erop dat de patiënt leed aan ernstige bronchiale astma. De woning van de patiënt was op Roos Kuijpers, Draper 133, 0765 Leapfrogged, Nederland onder postcode 0765. Het voertuig van de patiënt BHA-524 stond buiten geparkeerd. 
+
+Geschiedenis van de huidige ziekte:
+
+Roos Kuijpers meldde dat ze de afgelopen dagen last had van een droge hoest. De patiënt merkte een verhoogde ademhalingsmoeilijkheid op, die werd geïdentificeerd als een waarschijnlijke verergering van chronische bronchiale astma. De laatste episode vergelijkbaar met deze werd ongeveer 2 maanden geleden gemeld met vergelijkbare symptomen. 
+
+Medische Geschiedenis:
+
+Het medisch dossier nummer 8860-Wpqbd van de patiënt bij Universiteit van Gdańsk gaf een geschiedenis van bronchiale astma aan. Het sofinummer van de patiënt 227-9402994-74 was ook in het dossier. 
+
+Beoordeling:
+
+Roos Kuijpers was bij bewustzijn en alert maar in matige ademnood. De ademhalingsfrequentie was verhoogd en er konden piepende geluiden worden gehoord. De huid van de patiënt was licht bleek en koel om aan te raken. Er konden geen significante bevindingen worden gedetecteerd in de ABCD-beoordeling.
+
+Behandeling:
+
+De initiële behandeling bestond uit het assisteren van de patiënt bij het gebruik van hun voorgeschreven inhalator apparaat SRKv 42251. De ademhaling van de patiënt begon geleidelijk te verbeteren toen de inhalator effect had. De patiënt werd vervolgens op de brancard bevestigd voor transport, terwijl de vitale functies en longgeluiden continu werden gemonitord.
+
+Transport:
+
+De patiënt werd vervoerd naar Universiteit van Gdańsk voor verdere evaluatie en behandeling. Tijdens het transport werd de toestand van de patiënt elke 5 minuten beoordeeld en gerapporteerd aan het ziekenhuispersoneel via het EMS communicatie apparaat SRKv 42251. Het ID-nummer van de patiënt 00722 hNTF werd gebruikt in de communicatie met het ziekenhuis.
+
+Overdracht van Zorg:
+
+Bij aankomst werd de zorg voor de patiënt overgedragen aan Dr. Zoë Verstraete bij Universiteit van Gdańsk. Alle noodzakelijke documentatie, inclusief de medische geschiedenis van de patiënt, werd gedeeld via beveiligde e-mail erstraeteo@protonmail.com en fax +1-273-220-2283. De ambulance werd bestuurd door een gecertificeerde EMS-medewerker wiens rijbewijsnummer 27-6876rPU is.
+
+Andere informatie van de patiënt:
+
+De patiënt is in dienst bij Murray LLC, heeft het gezondheidsplan t6CgyK, en het beroep is Media planner. De biometrische gegevens van de patiënt 6615-09yEh werden veilig opgeslagen in de database van het ziekenhuis.
+
+Rapport door: ijperoos zaterdag 5 juni 1982
+
+(Gedocumenteerd in overeenstemming met HIPAA-richtlijnen, en alle patiëntgegevens worden veilig opgeslagen: URL wyatt.biz)
+
+OPMERKING: Dit is een synthetisch document en alle PHI placeholders moeten worden vervangen door daadwerkelijke informatie met inachtneming van de privacy en vertrouwelijkheid van de gegevens van de patiënt."
+

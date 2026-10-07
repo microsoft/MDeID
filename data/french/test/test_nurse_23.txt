@@ -1,0 +1,35 @@
+"Note narrative d'infirmière pour un patient atteint de lupus érythémateux systémique (LES)
+
+La patiente Jessica Jones, atteinte de lupus érythémateux systémique (LES) avec des antécédents de pancréatite idiopathique, s'est présentée à band avec des plaintes de faiblesse, de fatigue, de nausées, de vomissements, d'intolérance à la nourriture, de vision floue et de douleurs abdominales. La patiente n'a pas d'antécédents de diabète ou de maladies auto-immunes autres que le LES. La patiente a été hospitalisée à plusieurs reprises pour une pancréatite, tous les tests effectués par le Dr. Jeanne Royer ont écarté les calculs biliaires, les tumeurs, les maladies auto-immunes et métaboliques. Récemment diagnostiquée avec un lupus discoïde et un LES, la patiente a présenté de graves manifestations neuropsychiatriques traitées par médication.
+
+À l'examen, la patiente a montré une tachycardie (125 bpm), une tachypnée (27 respirations par minute), de la somnolence et de la déshydratation. Les tests de laboratoire effectués sous le numéro de dossier médical cc-74943ds ont montré un taux de glucose sérique de 1240 mg/dl (plage normale : 70-140 mg/dl), du sodium à 127 mEq/L (plage normale : 135-145 mEq/L), du potassium à 5.56 mEq/L (plage normale : 3.5-5.0 mEq/L), et les niveaux de chlore n'ont pas été entièrement rapportés. Aucun signe de résistance à l'insuline n'a été noté.
+
+Le diagnostic principal est une cétose diabétique (DKA), probablement précipitée par l'utilisation de stéroïdes systémiques et possiblement exacerbée par le LES. Les diagnostics différentiels incluent une poussée de pancréatite aiguë, bien que moins probable étant donné les résultats actuels en laboratoire et la symptomatologie. L'initiation immédiate du protocole de gestion de la DKA, incluant les fluides IV, la thérapie à l'insuline, et la surveillance et la reconstitution des électrolytes a été recommandée par le Jeanne Royer. Une surveillance continue des signes vitaux, du glucose et des niveaux d'électrolytes est essentielle.
+
+Une consultation avec l'endocrinologie pour la gestion du diabète et la rhumatologie pour les ajustements de la gestion du LES a été prévue pour le 24 décembre 2007. Une éducation du patient sur la reconnaissance des signes d'hyperglycémie et l'importance d'un suivi régulier a été fournie. Les éventuels problèmes de conformité liés au régime médicamenteux complexe et à la gestion des maladies chroniques ont également été discutés.
+
+Informations de contact :
+Téléphone : 571-229-8013
+Email : eayer@un.org
+Adresse : Jessica Jones, 7571 Huart Path Apt. 770 34, 0328 Arles, Suisse
+
+Contact d'urgence :
+Nom : Jessica Jones
+Relation : Sœur
+Téléphone : 571-229-8013
+
+Informations sur l'ordonnance :
+Pharmacie : Duncan-Wilkerson
+Adresse : Jessica Jones, 7571 Huart Path Apt. 770 34, 0328 Arles, Suisse
+Téléphone : 571-229-8013
+
+Fournisseur de soins de santé du patient :
+Nom : Jeanne Royer
+Organisation : Duncan-Wilkerson
+Adresse : Jessica Jones, 7571 Huart Path Apt. 770 34, 0328 Arles, Suisse
+Téléphone : 571-229-8013
+
+Signé,
+Jeanne Royer, RN
+"
+

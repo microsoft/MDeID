@@ -1,0 +1,75 @@
+"Pflegekratznotiz
+
+---------
+[PATIENT] Status
+---------
+Ausschlag - Kurt Baumann - überall
+Schweregrad - Intensiv
+Mögliche Ursache - Verdacht auf Dengue 
+
+----------
+Vitalwerte:
+----------
+BP: 120/80
+Temp: 99°F
+Puls: 75 BPM
+Atmung: 18 BPM
+
+----------
+Beobachtungen der Krankenschwester:
+----------
+Haut - Anomalien - Ausschlag
+Schmerzen - Berichte - Schwer
+Stimmung - Stabil
+Reaktion auf Behandlung - Ausstehend
+
+----------
+Zugang & Kommunikation:
+----------
+Email: ophchmi@outlook.com
+Telefon: 428.828.5016
+Fax: 721-664-0774
+
+----------
+Allgemeine Informationen & Kontakt:
+----------
+Adresse: Kurt Baumann, Ignatz-Holzapfel-Platz 0 63, 7451 Benicarló, Schweiz
+Krankenhaus: Iowa Playwrights
+Stadt: Langwedel, Kreis Verden
+Land: Deutschland
+
+-----------
+Relevante Daten:
+-----------
+Beruf: Tier technologe
+Organisation: Good, Howard und Cooper
+
+-----------
+Testergebnisse:
+-----------
+Warten - Dengue Testergebnisse
+
+----------
+Kontakt & IDs:
+----------
+Medizinische Aktennummer: 31309 83tu
+Kontonummer: foJP 737oc
+Arztkontakt: Dr. Christopher Schmidt
+Geräteinformationen: Geräte-ID-Nummer ryCZVw-883
+Gesundheitsplan: sgNLq
+
+-------
+Verschiedenes:
+-------
+Sozialversicherungsnummer: 887-4743015-97
+Lizenznummer: 605851-625
+Benutzername: KwZfCmMk
+Fahrzeuginfo: Fahrzeug-ID 458-PHT
+BioID: Fingerabdruck-ID 4256-SIzZF
+IP-Adresse: 208.170.220.214
+ID-Nummer: foJP 737oc
+
+---------
+
+Bitte regelmäßig aktualisieren."
+

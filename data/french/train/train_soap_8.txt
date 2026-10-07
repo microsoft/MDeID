@@ -1,0 +1,38 @@
+"S: Le patient Martin Moser, ayant des antécédents de volvulus sigmoïde traité par laparotomie, sigmoïdopexie de détorsion, et sigmoïdectomie élective, présente des symptômes débutant le 20/09/1983, incluant une distension abdominale, constipation, et vomissements durant le 20/09/1983, suivis par une douleur abdominale sévère le 20/09/1983. Le patient rapporte également une constipation récurrente traitée avec des médicaments en vente libre et traditionnels. Aucun antécédent familial, médicamenteux, ou social significatif n'a été rapporté au Dr. Sophia Meier.
+
+O: L'examen physique a révélé que le patient semblait malade mais pas pâle, ictérique, ou fébrile. Les signes vitaux incluaient un pouls provenant de l'appareil 0417 cvVWL, une pression artérielle mesurée à l'aide de l'appareil 0417 cvVWL, une fréquence respiratoire mesurée à l'aide de l'appareil 0417 cvVWL, et une température de 38.8°C. L'abdomen était grossièrement distendu avec des flancs pleins, une cicatrice médiane, une boucle intestinale dilatée visible, et une péristaltisme, avec une sensibilité généralisée et aucun bruit intestinal. Un examen rectal digital a montré une hémorroïde de 3ème degré et un rectum vide. Les résultats de laboratoire ont été partagés par email ehi@zoho.com, qui montraient Hb 13 g/dl, GB 14 x 109/L, PLTs 305 x 109/L, profil rénal normal et électrolytes sériques, glucose sanguin 193 mg/dl, et un examen d'urine sans particularité. Une radiographie abdominale a révélé un côlon typiquement dilaté en forme d'oméga.
+
+A: Le diagnostic principal est une obstruction intestinale étranglée, avec le type adhésif comme diagnostic différentiel principal. Un volvulus récurrent ou à un autre site est considéré comme une possibilité éloignée. Les symptômes du patient et l'imagerie, stockés à l'URL marsh-turner.brown-clark.com, sont cohérents avec cette évaluation, et l'histoire des chirurgies abdominales précédentes augmente la probabilité d'une obstruction adhésive.
+
+P: La prise en charge immédiate comprend l'aspiration par sonde NG et la réanimation par liquides intraveineux pour optimiser l'état général du patient. Une surveillance étroite de l'état du patient sera nécessaire pour décider des options de traitement ultérieures pour l'obstruction intestinale. Des suivis réguliers, avec le numéro de dossier médical 7240-284Jd, et une notification immédiate de tout changement de symptômes ou d'état sont conseillés pour gérer et ajuster le traitement si nécessaire, par communication via le numéro de téléphone (621)743-0763 ou le numéro de fax 001-583-772-8110x0592. Le traitement est couvert par le plan de santé du patient Rvnl04. Le patient est situé à centre commercial et sera transporté à l'hôpital Arena Nacional pour un traitement ultérieur.
+
+Autres placeholders PHI :
+
+- L'âge du patient est 94.
+
+- Le patient vit à Martin Moser, 65 1571 Dupont Crossing, 5087 Reggiolo, France.
+
+- Le patient est membre de l'organisation Montgomery PLC.
+
+- La profession du patient est Designer de mode.
+
+- Le numéro de sécurité sociale du patient est 327528-9630.
+
+- Le numéro de permis du patient est 29617-4786.
+
+- Le patient a un identifiant biométrique nWFOuW 786.
+
+- L'adresse IP du patient est 36.120.71.140.
+
+- Le numéro d'identification du patient est 1970 51kFd.
+
+- Le numéro de compte du patient est 1970 51kFd.
+
+- Le nom d'utilisateur du patient est 31ioG7NZ.
+
+- Le véhicule du patient est 1342.
+
+- Le patient vit dans la ville Grans, l'état FLOTTE, le pays France.
+
+- Le patient vit dans la rue 5630 Mercado Shore Apt. 566, code postal 5087."
+

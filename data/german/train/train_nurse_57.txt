@@ -1,0 +1,45 @@
+"Pflegebericht für Armin Haas mit Vorgeschichte von Brustschmerzen
+
+Armin Haas stellte sich mit einer einmonatigen Vorgeschichte von Brustbeschwerden vor. Keine kürzlichen Operationen oder Verletzungen wurden gemeldet. Armin Haas erlebte Episoden von niedrigem Blutdruck und einen kritischen Vorfall von Blutverlustschock und Herzstillstand nach der Operation.
+
+Bei der Untersuchung zeigte ein thorakaler CT-Scan eine ovale Weichteilmasse in der Supermarkt, die etwa 4,3 cm x 2,6 cm x 5,8 cm maß. Diese Masse wurde mit VATS entfernt und postoperativ als bronchogener Zyste identifiziert. Nach der Operation erlebte Armin Haas eine 30-bedingte Hypotonie, die mit Flüssigkeitsexpansion behandelt wurde, und entwickelte später einen hämorrhagischen Schock aufgrund eines 3 mm Lochs in der Hardin, Williams und Simon, was zu einem Herzbeuteltamponade führte. Dies wurde durch eine Notfallthorakotomie und direkte Verschluss der beschädigten stumpfen Randarterie mit 4-0 Prolene behandelt.
+
+Die Hauptdiagnose war eine bronchogene Zyste mit Komplikationen einschließlich hämorrhagischem Schock und Herzbeuteltamponade nach Resektion. Die Differenzialdiagnose umfasste zunächst einen neurogenen Tumor des Mediastinums.
+
+Armin Haas unterzog sich einer erfolgreichen Notfallthorakotomie und Stabilisierung. Die postoperative Erholung beinhaltete das Absetzen vom Beatmungsgerät und die Entlassung mit Anweisungen für Nachsorgetermine zur Überwachung der Erholung. Die weitere Behandlung wird sich auf die Überwachung von Anzeichen für ein Wiederauftreten oder Komplikationen nach der Operation und die Einhaltung von Nachsorgeterminen konzentrieren.
+
+Kopfzeileninformationen: 
+- Datum: 14.02.18
+- Medizinische Aktennummer: jkBd 21ShY
+- Patientenadresse: Armin Haas, Ferdinand-Schartner-Gasse 9/1 157, 7177 Pleckhausen, Belgien
+
+Fußzeileninformationen: 
+- Patientenkontaktinformationen: 
+    - Telefon: (364)835-8797
+    - E-Mail: gia@unwomen.org
+- Ärztliche Informationen:
+    - Name: Bianca Ludwig
+- Gesundheitsplan: CSg5
+- Notfallkontakt:
+    - Name: Armin Haas
+    - Telefon: (364)835-8797
+
+Strukturierte Informationen:
+- Patientenkontonummer: 735680-601
+- Benutzername: H5bJiAzx
+- Krankenhausname: shooting of
+- Fahrzeugidentifikation des Patienten: 2LS K54
+- Sozialversicherungsnummer: 51 089 049 256
+- Berufslizenz: 561 276DmL
+- Biometrischer Identifikator: jhU-dKVAxi
+- IP-Adresse: 199.154.68.206
+- Persönlicher Identifikator: 735680-601
+- Standort des Patienten: Supermarkt
+- Gesundheitsplan des Patienten: CSg5
+- Beruf des Patienten: Glasbläser/Designer
+- Zugehörige Organisation des Patienten: Hardin, Williams und Simon
+- Fax: (251)484-6477x174
+- URL: https://beltran.com/postsfaq.html
+
+Unterschrieben von: Bianca Ludwig"
+

@@ -1,0 +1,27 @@
+"Patientenzorg Rapport
+
+Dispatch: Op 15 maart 1992 ontving het Emergency Medical Services (EMS) team een 911-oproep van een verontrust individu op winkelcentrum. Het dispatch team stuurde onmiddellijk eenheid 856783 862 naar de geïdentificeerde locatie.
+
+Patiënt Ontmoeting: Bij aankomst op de plaats vond de  bemanning patiënt Ellen Willems in matige nood. Ze zaten op een stoel en klaagden over symptomen die leken op een gewone verkoudheid. Ze hadden geniesd en hun neus liep. Ze voelden zich uitgeput en hadden lichaamspijnen.
+
+Hoofdklacht: Patiënt Ellen Willems stelt dat de symptomen begonnen op 15 maart 1992, en progressief zijn verslechterd. De symptomen zijn consistent met een virale bovenste luchtweginfectie, mogelijk de gewone verkoudheid.
+
+Geschiedenis: Na het uitvoeren van een grondige medische geschiedenisbeoordeling, werd onthuld dat het laatste ziekenhuisbezoek van de patiënt op 15 maart 1992 was bij NUI Maynooth voor een soortgelijk probleem. Patiënt Ellen Willems gaf aan dat ze een primaire dokter Marie Verlinden hadden bij Richardson, Perez en Benjamin. De medische dossiers van de patiënt werden opgevraagd uit de ziekenhuisdatabase met behulp van hun medisch dossiernummer 4421 44975.
+
+Beoordeling: Patiënt Ellen Willems leek in een stabiele toestand te zijn zonder tekenen van acute ademhalingsnood. De vitale functies van de patiënt werden genomen en gedocumenteerd voor referentie en monitoring. STAT EKG werd uitgevoerd om mogelijke cardiovasculaire problemen gerelateerd aan vermoeidheid en lichaamspijnen uit te sluiten.
+
+Behandeling: De patiënt kreeg het advies om veel vloeistoffen te nemen en te rusten. OTC-medicijnen werden aanbevolen voor symptomatische verlichting. Volgens het gezondheidsplan van de patiënt Hsjfg2l werd een vervolgafspraak gepland met hun primaire dokter Marie Verlinden.
+
+Transport: Patiënt Ellen Willems werd niet naar het ziekenhuis vervoerd omdat hun toestand stabiel was en geen spoedeisende zorg vereiste. De familie van de patiënt werd geïnformeerd en er werden veiligheidsmaatregelen voor de patiënt genomen.
+
+Documentatie: De EMS-bemanning documenteerde de ontmoeting in het systeem onder het account van de patiënt 856783 862. De patiënt ondertekende digitaal het toestemmingsformulier voor de behandeling met hun unieke gebruikersnaam KcuEyEkx en veilig wachtwoord.
+
+Follow Up: Het EMS-team adviseerde de patiënt om onmiddellijk medische hulp te zoeken als de symptomen verergeren of als ze hoge koorts ontwikkelen. Het team zorgde ervoor dat het ontmoetingsrapport werd verzonden naar de geregistreerde e-mail van de patiënt rlinde@yahoo.com en er werd een kopie doorgestuurd naar de primaire arts van de patiënt Marie Verlinden bij NUI Maynooth.
+
+Chauffeurs: De EMS-eenheid OFS 422 werd bestuurd door een gecertificeerde EMT. Het IP-adres 101.145.99.90 dat voor het dispatch-systeem werd gebruikt, werd geregistreerd voor gegevensbeveiliging en traceerbaarheidsdoeleinden.
+
+Rapport Door: Dit rapport is opgesteld door EMT Marie Verlinden en ondertekend in het systeem met professioneel licentienummer lCkS dlnBh. Het rapport wordt opgeslagen in het EMS-systeem voor toekomstige referentie en continue zorg.
+
+Dit rapport is volledig anoniem met betrekking tot de PHI van de patiënt, sofinummer 775-4368240-87, BioID Up seIqaVa, hun woonadres Ellen Willems, Panophthalmitis 147, 9541 Landaus, België, stad Upwall, staat 100, ZIP 9541, land België, het faxnummer van hun werkplek (984)966-4846x03583, en hun URL smith-nguyen.com.
+"
+

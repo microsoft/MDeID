@@ -1,0 +1,45 @@
+"Arzt Kratz Notiz
+
+Julius Simon - 1 
+Diagnose: Systemischer Lupus Erythematodes (SLE)
+Nieren- & Herzkomplikationen
+
+Frühere Behandlungen: 
+- Steroide, Cyclophosphamid, Methotrexat, Azathioprin (abgesetzt am 12. April 2017)
+
+Aktueller Zustand:
+- Nephrotisches Syndrom partielle Remission
+- Fortschreitender Nierenfunktionsverlust
+- Schwere Herzprobleme (koronare Atherosklerose, ischämische Herzkrankheit, Myokardinfarkt, postinfarktische dilatative Kardiomyopathie, schwere Mitralklappen- und Trikuspidalklappenregurgitation)
+- Mehrere Herzoperationen
+- Dialyse, Nierentransplantation erwartet
+- Eingeschränkte Belastbarkeit (1 Treppenflug)
+
+Infektionsstatus: 
+- HBV positiv
+- HCV positiv
+
+Aktuelle Laborergebnisse:
+- Serumkreatinin: 2,2 mg/dL
+- Proteinurie: 2 g/Tag
+- Nierenbiopsie: Aktive und sklerotische fokale proliferative Lupus-Nephritis
+- Kardiale Interventionen: PCI RCA, ICD-Implantation, Klappenreparatur-Operationen
+- Komplementwerte: Normal (C3\u20130,93 g/l, C4\u20130,4 g/l)
+- ANA: Negativ
+- BNP: Erhöht (619 pg/ml)
+
+Diagnose:
+- Fortgeschrittener SLE
+- Sekundäre Komplikationen: CKD Stadium 5 unter Dialyse, postinfarktische dilatative Kardiomyopathie, schwere Mitralklappen- & Trikuspidalklappenregurgitation, chronische HBV- & HCV-Infektion
+
+Plan:
+- Fortsetzung der CKD-Behandlung mit Dialyse
+- Überwachung der Eignung für eine Nierentransplantation
+- Transthorakale Echokardiographie zur Beurteilung der Herzfunktion
+- Regelmäßige Überwachung der BNP-Werte
+- Management der viralen Hepatitis
+- Patientenaufklärung über Herzinsuffizienz und Nierenfunktionssymptome, offene Kommunikation für neue Symptome/Bedenken aufrechterhalten
+
+Christian Frei
+"
+

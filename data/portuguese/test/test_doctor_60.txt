@@ -1,0 +1,53 @@
+"Nota Rápida do Médico
+---------------------------
+Paciente: Francisca Fonseca
+ID: 64 96414HK
+
+Problemas Reportados
+----------------
+- Fadiga geral por 5 anos
+- Dormência do lado direito do corpo por 3 anos
+- Dispneia ao esforço por 1 ano
+- Perda de peso de 46 para 41kg nos últimos 5 anos
+- Diagnóstico anterior: OPLL (Coluna Cervical) por Sofia Coelho
+- Não fumante
+
+Sinais Vitais & Observações
+----------------------
+- Temperatura Corporal: 36.2\u00b0C
+- Frequência Cardíaca: 71 bpm
+- PA: 103/56 mm Hg
+- Movimento torácico diminuído
+- Fraqueza muscular do membro superior direito
+- Dormência nas extremidades
+- Claudicação
+- Espirometria: Restrição Ventilatória
+- Pontuação JOA: 14 (Mielopatia Cervical Leve)
+
+Relatórios de Imagem
+----------------
+- Raio-X e TC do tórax: Normal, movimento diafragmático diminuído
+- Ressonância Magnética (Coluna Cervical): Compressão severa da medula cervical em C3/4, alterações atróficas, lesão intramedular da medula espinhal
+
+Avaliação
+------------
+- Diagnóstico Primário: Mielopatia cervical secundária a OPLL
+- Possível distúrbio neuromuscular precoce devido à compressão da medula espinhal
+- Comprometimento respiratório associado
+- Diagnósticos Diferenciais: Outras causas de neuropatia e mielopatia
+
+Plano
+------
+- Encaminhar para Neurologista para avaliação adicional: Sofia Coelho
+- Consultar Pneumologista para manejo da doença pulmonar restritiva: Sofia Coelho
+- Sessões de Fisioterapia: Cooley-Hurst
+- Acompanhamento regular: Blaenau 
+- Discutir opções cirúrgicas se os sintomas piorarem
+- Educação do paciente sobre o manejo dos sintomas e revisões médicas regulares
+- Cumprimento de consultas e sessões de terapia
+
+Sofia Coelho
+Gerente de restaurante de fast food
+lhoia@unicef.org
+001-576-986-6081"
+

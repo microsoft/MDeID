@@ -1,0 +1,30 @@
+"S: Patient Theresa Fields presented with a one-month Fri:21:1971 history of chest pain. No recent surgery or trauma was reported. The patient experienced episodes of hypotension and a severe episode of hemorrhagic shock and cardiac arrest postoperatively.
+
+O: A thoracic CT scan 44 puwwWCW revealed an ovoid soft tissue mass in the left posterior costophrenic angle, measuring approximately 4.3 cm x 2.6 cm x 5.8 cm. The mass was resected using VATS and diagnosed as a bronchogenic cyst postoperatively at the hospital Princeton IBM Almaden Research Center. Post-surgery, the patient experienced hypotension treated with fluid expansion and later developed hemorrhagic shock due to a 3 mm hole in the pericardium, leading to cardiac tamponade. This was managed by emergent thoracotomy and direct closure of the injured obtuse marginal artery with 4-0 prolene.
+
+A: The primary diagnosis was a bronchogenic cyst with complications including hemorrhagic shock and cardiac tamponade post-resection. The differential diagnosis initially included a neurogenic tumor of the mediastinum.
+
+P: The patient underwent successful emergent thoracotomy and stabilization. Postoperative recovery included weaning from the ventilator and discharge with instructions for follow-up appointments to monitor recovery at the patient's home Theresa Fields, 28 Resumable, Uncinariatic 84 6916, Australia. Further management will focus on monitoring for any signs of recurrence or complications from the surgery and ensuring compliance with follow-up appointments.
+
+Additional information: 
+
+- Patient's medical record number: hHfQo-jbXt
+- Patient's account number: jtTfm-0386
+- Patient's username: logPL8yL
+- Patient's vehicle identification number: 7G T1502
+- Patient's social security number: 097-83-4057
+- Patient's professional license number: 1337-55VZn
+- Patient's biometric identifier: ONVh-0944Y
+- Patient's IP address: 118.195.211.163
+- Patient's personal identifier: jtTfm-0386
+- Patient's age: 112 years-old
+- Patient's location: park
+- Patient's health plan: N39Kd0iqx
+- Patient's profession: Chartered management accountant
+- Patient's organization: Joseph, Diaz and Wagner
+- Doctor's name: Jessica Alvarez
+- Patient's email: arez@msf.org
+- Patient's phone: (985)650-9074
+- Patient's URL: ford-mosley.miller-wagner.carter.info
+- Patient's fax: 678-456-5133x24410"
+

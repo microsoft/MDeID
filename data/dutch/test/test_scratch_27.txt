@@ -1,0 +1,66 @@
+"Verpleegkundige Kras Notitie:
+
+Patiënt: Ine Wouters
+Leeftijd: 35
+
+---------------------------
+| Vitals                  |
+---------------------------
+| BP: 112/80              |
+| HR: 78                  |
+| RR: 16                  |
+| Temp: 37.1C             |
+| SPO2: 98%               |
+---------------------------
+
+Kras notitie:
+Algemeen ongemak, meldt zich "jeukend" te voelen. Patiënt heeft mogelijk een schimmelinfectie opgelopen. Onderzoek noodzakelijk. Emma Maas hierover geïnformeerd. Voorgeschreven medicijnen beoordeeld. 
+
+---------------------------
+| Aanvullende Observaties |
+---------------------------
+| Huid: Roodheid          |
+| Uitslag: Ja             |
+| Jeuk: Hoog              |
+---------------------------
+
+---------------------------
+| Contactgegevens         |
+---------------------------
+| Email: mas@mail.com          |
+| Telefoon: +1-369-444-8768          |
+| Adres: Ine Wouters, Yertchuk 74, 5455 Unquickened, Nederland      |
+---------------------------
+
+---------------------------
+| Patiënt ID Details      |
+---------------------------
+| MRN: 243571-xBQ    |
+| Account: 50556 6024      |
+| SSN: 911-5687372-80   |
+---------------------------
+
+---------------------------
+| Overige Details         |
+---------------------------
+| Apparaat ID: AaSs odGZg     |
+| Zorgplan: COC6TR DkbT|
+| Beroep: Kleurentechnoloog|
+| Organisatie: Ellison PLC|
+---------------------------
+
+---------------------------
+| Aanvullende Info        |
+---------------------------
+| Stad: Marinaras            |
+| Staat: 314          |
+| Land: Nederland      |
+| Licentie: 378-qhQtuG      |
+| BioID: 982795 tCz          |
+| Gebruikersnaam: ALmdXE7L   |
+| Ziekenhuis: Potterspury    |
+---------------------------
+
+Notitie: Vervolgbezoek vereist. Herbeoordeel de toestand binnen 4 mrt. 1983 dagen. Houd de verslechtering van de symptomen in de gaten. Informeer Emma Maas als er veranderingen worden waargenomen.
+"
+

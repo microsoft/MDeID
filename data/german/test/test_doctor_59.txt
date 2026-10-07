@@ -1,0 +1,53 @@
+"Ärzte Notiz
+---------------------------
+Patient: Doreen Christ
+ID: 6414-HKmjd
+
+Gemeldete Probleme
+----------------
+- Allgemeine Erschöpfung seit 5 Jahren
+- Taubheitsgefühl auf der rechten Körperseite seit 3 Jahren
+- Atemnot bei Anstrengung seit 1 Jahr
+- Gewichtsverlust von 46 auf 41kg in den letzten 5 Jahren
+- Vorherige Diagnose: OPLL (Halswirbelsäule) von Mika Werner
+- Nichtraucher
+
+Vitalwerte & Beobachtungen
+----------------------
+- Körpertemperatur: 36.2\u00b0C
+- Pulsfrequenz: 71 bpm
+- Blutdruck: 103/56 mm Hg
+- Verminderte Thoraxbewegung
+- Muskelschwäche im rechten Oberarm
+- Taubheit der Extremitäten
+- Claudicatio
+- Spirometrie: Restriktive Ventilationsstörung
+- JOA Score: 14 (Leichte zervikale Myelopathie)
+
+Bildgebende Befunde
+----------------
+- Röntgen & CT des Thorax: Normal, verminderte Zwerchfellbewegung
+- MRT (Halswirbelsäule): Starke Kompression des Zervikalmarks bei C3/4, atrophische Veränderungen, intramedulläre Rückenmarksläsion
+
+Beurteilung
+------------
+- Primäre Diagnose: Zervikale Myelopathie sekundär zu OPLL
+- Mögliche frühe neuromuskuläre Störung aufgrund von Rückenmarkskompression
+- Assoziierte Atemstörung
+- Differentialdiagnosen: Andere Ursachen für Neuropathie und Myelopathie
+
+Plan
+------
+- Überweisung an Neurologen zur weiteren Untersuchung: Mika Werner
+- Konsultation eines Lungenfacharztes zur Behandlung der restriktiven Lungenerkrankung: Mika Werner
+- Physiotherapie-Sitzungen: Li Inc
+- Regelmäßige Nachsorge: Roadrunner Records 
+- Diskussion über chirurgische Optionen, wenn die Symptome sich verschlimmern
+- Patientenaufklärung über Symptommanagement und regelmäßige medizinische Untersuchungen
+- Einhaltung von Terminen und Therapiesitzungen
+
+Mika Werner
+Lektor
+Mikar@unhcr.org
+791.233.8742x1352"
+

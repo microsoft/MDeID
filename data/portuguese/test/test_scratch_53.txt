@@ -1,0 +1,132 @@
+"NOTA DE ENFERMAGEM RASCUNHO
+
+------------------------
+
+| ID do Paciente: Igor Carvalho |
+
+------------------------
+
+\u2022Sinais vitais:
+
+- PA: 120/80
+
+- FC: 77
+
+- Temp: 98.6\u00b0F
+
+- Resp: 16
+
+- Sat O2: 98%
+
+\u2022Observação Primária: 
+
+Parece inquieto, relata problemas para dormir devido à condição da pele.
+
+\u2022Observação Secundária:
+
+Condição da pele relatada como '', Presença de manchas, necessidade de consulta com Dermatologia.
+
+\u2022Assunto Médico:
+
+- Coleta de sangue concluída, enviada para o restaurante laboratório
+
+- Administrado 5mg de Melatonina para auxiliar no sono
+
+\u2022Extra:
+
+- Médico de atenção primária do paciente Vinícius Araújo notificado para consulta
+
+- Anotado no NXXnf-845D
+
+-------------
+
+| Rodapé |
+
+-------------
+
+\u2022Informações de Contato:
+
+- Próximo de parentesco Igor Carvalho
+
+- Relação: Irmão
+
+- +1-481-817-2405x534, usú@who.int
+
+\u2022 Detalhes da conta:
+
+- Número da conta: 9846-1203S
+
+- Plano de Saúde: diC
+
+\u2022 Informações de Endereço:
+
+- Endereço: Igor Carvalho, Alameda Amaral, 3 38, 4654 COLOMBO, Portugal
+
+- Localização: Ubá, Nazaré, Portugal
+
+\u2022 Informações do Dispositivo:
+
+- Dispositivo Médico: FOda bRyXx
+
+\u2022Rede:
+
+- Endereço IP: 126.87.204.30
+
+- Nome de usuário: fNgKk0Ib
+
+-----------
+
+| Cabeçalho |
+
+-----------
+
+\u2022Informações de Hospitalização:
+
+- Hospital: St. Gallen Cantonal Hospital
+
+- Data de Admissão: 4 de julho de 2018
+
+\u2022 Informações Profissionais:
+
+- Médico Admitido: Vinícius Araújo
+
+- Profissão: Comprador, industrial
+
+\u2022 Informações da Organização:
+
+- Organização: Ryan, Williams and Stevens
+
+\u2022Licença:
+
+- ID da Licença: ApXs 4959k
+
+\u2022Veículo:
+
+- ID do Veículo: 243 2EC
+
+\u2022Segurança Social:
+
+- SSN: 409.552.721-05
+
+\u2022Fax:
+
+- Fax: 395.384.4382x417
+
+\u2022ID Bio:
+
+- ID Bio: 05976-EWjX
+
+\u2022Número de ID:
+
+- Número de ID: 9846-1203S
+
+\u2022URL:
+
+- Website: huynh-jones.com
+
+\u2022CEP:
+
+- CEP: 4654
+
+"
+

@@ -1,0 +1,60 @@
+# Discharge Summary
+
+## Patient Disposition
+
+Home
+
+## Allergies And Intolerances Section
+
+Charlie Smith has no known allergies.
+
+## Hospital Course Section
+
+The Charlie Smith was admitted due to exhibiting signs associated with cardiomyopathy. Symptoms presented included shortness of breath, orthopnea, hypokinesia, and joint pain. The patient was monitored and responded well to the initial treatment. 
+
+## Discharge Diagnosis Section
+
+Primary diagnosis: Cardiomyopathy
+
+## Plan of Treatment Section
+
+The patient is advised to continue with the prescribed medication and is to follow up with Thomas Anderson at the outpatient department.
+
+## Hospital Consultations Section
+
+Several consultations were made with the cardiology team led by Thomas Anderson.
+
+## Procedures Section
+
+An echocardiogram and ECG were performed.
+
+## Results Section
+
+The echocardiogram showed left ventricular systolic dysfunction. The EKG showed normal sinus rhythm.
+
+## Discharge Medications Section
+
+The Charlie Smith is to continue with beta-blockers, ACE inhibitors, and diuretics as prescribed.
+
+## Functional Status Section
+
+Charlie Smith showed improvement in functional status, with reduced breathlessness and improved mobility towards the end of the admission.
+
+## Hospital Discharge Instructions Section
+
+Charlie Smith should continue to take the prescribed medications without fail, follow a low sodium diet and engage in light physical activities.
+
+## Hospital Discharge Physical Section
+
+At the time of discharge, Charlie Smith was stable, with no shortness of breath or chest pain. 
+
+## Vital Signs Section
+
+Vital signs at discharge were stable: Blood pressure: 120/80mmHg, Heart rate: 75 bpm, Respiration rate: 16 breaths per minute, Temperature: 98.6°F, Oxygen saturation: 98% on room air.
+
+## Advance Directives Section
+
+Advance directives discussed.
+
+Remember, the Charlie Smith will need to continue to monitor symptoms, take medication as prescribed, and follow up with the Thomas Anderson after discharge. Any worsening of symptoms should be addressed immediately with the healthcare team.
+

@@ -1,0 +1,72 @@
+# H&P Note
+
+## Chief Complaint and Reason for Visit Section
+
+Harry Williams presents with chief complaint of rectal bleeding. The issue has persisted for a few days.
+
+## History of Present Illness Section
+
+Harry Williams reports a history of hemorrhoids. There are elements of decreased bowel sounds, suggesting possible obstruction. Notably, Harry Williams reveals a decrease in body weight, potentially due to malnutrition or inadequate fluid intake.
+
+## Vital Signs Section
+
+BP: 120/78 mmHg, HR: 78 bpm, Temp: 36.7°C, RR: 16 breaths per min, SpO2: 98% on room air.
+
+## Physical Exam Section
+
+Upon physical examination, Madison Martin observes distention in the abdomen, no visible lumps found. Palpation yields tenderness in the lower abdominal quadrant. Bowel sounds noted to be decreased.
+
+## Review of Systems Section
+
+Reports of recent onset haemorrhage, decreased body weight, and decreased bowel sounds. No fever, chest pain, or respiratory issues reported.
+
+## Past Medical History
+
+Harry Williams has a known history of hemorrhoids. Not much else is known about other past medical conditions. On previous Thu 20209.1.20217,22, a colonoscopy was performed, results are awaited.
+
+## Medications Section
+
+Currently not under any medication as the prior medication regimen has been completed. Starts new prescription as diagnosed.
+
+## Allergies And Intolerances Section
+
+Harry Williams has no known drug allergies.
+
+## Family History Section
+
+No known family history of colorectal cancer or inflammatory bowel disease.
+
+## Social History Section
+
+Harry Williams is a non-smoker and does not consume alcohol. Regular physical activity is reported.
+
+## General Status Section
+
+Harry Williams is distressed due to recent hemorrhoidal bleed and decreased bowel sounds.
+
+## Results Section
+
+Awaiting results of laboratory tests performed on Thu 20209.1.20217,22.
+
+## Assessment and Plan Section
+
+The assessment based on current symptoms is a probable obstruction from hemorrhoids. The plan is to conduct further diagnostic tests to better understand the severity of the hemorrhoids. Once the results are in, the treatment plan will be revised accordingly.
+
+## Instructions Section
+
+Harry Williams is advised to maintain a high fiber diet, increase fluid intake, and avoid straining during bowel movements until the next follow-up visit.
+
+## Problem Section
+
+The primary concern at this moment is the patient's hemorrhoids and decreased bowel sounds, possibly indicating obstruction.
+
+## Procedures Section
+
+Colonoscopy has been scheduled to evaluate internal hemorrhoids on a future Thu 20209.1.20217,22.
+
+## Advance Directives Section
+
+Harry Williams has not issued any advance directives.
+
+Note: All personal health information (PHI) has been represented using placeholders to maintain the privacy of the patient.
+

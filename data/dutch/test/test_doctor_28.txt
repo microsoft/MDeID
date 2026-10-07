@@ -1,0 +1,25 @@
+"Dokter Kras Notitie
+
+P: Clara Verstraeten | Chronische rugpijn, dyspneu, obesitas, slaapapneu, ALL geschiedenis 
+Mgmt: Methadon, verhoogde O2-supplementatie
+BMI: 48 (morbide obesitas)
+BMT: GvHD, ernstige restrictieve longziekte
+
+VS: 
+EKG: Atriale bigeminie (nieuw begin, opgelost)
+CTA: PAPVC, linker bovenkwab & lingula
+Echo: Milde RV dilatatie, milde tricuspidale regurgitatie, normale LV functie
+PFT: TLC 42%, FEV1 39%, FVC 37%, DLCO 41%
+RHC & LHC: Pulmonale hypertensie, verhoogde drukken, Qp/Qs 1.22:1
+
+Dx: PAPVC
+Opmerking: Secundaire complicaties - Pulmonale hypertensie, chronisch ademhalingsfalen
+Notitie: Pulmonale embolie uitgesloten (CTA)
+
+Plan: Doorgaan met O2-supplementatie, methadon voor rugpijn
+Monitor: Ademhalings- & hartstatus
+Educatie: Symptoommonitoring, medische aandachtssignalen
+Verwijzing: Ellen Lemmens (Pulmonoloog), Ellen Lemmens (Cardioloog) voor PAPVC & pulmonale hypertensie
+
+Ellen Lemmens | 03-05-1987"
+

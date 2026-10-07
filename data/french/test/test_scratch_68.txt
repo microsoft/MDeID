@@ -1,0 +1,54 @@
+"**Note de l'infirmière**
+
+_Détails du patient:_
+- **ID du patient**: Ava Gagné
+- **Numéro de dossier médical**: 433 XvZnNk
+- **Âge**: 8
+- **Admis par**: Noémie Simon
+
+_Information de contact:_
+- **Adresse à domicile**: Ava Gagné, 0557 Leclercq Green Suite 300 70, 2516 Épinal, Belgique
+- **Contact téléphonique**: 001-416-589-5308x33289
+- **Email**: imé@un.org
+
+_Signes vitaux et observations:_
+- **BP**: 120/80 
+- **Fréquence respiratoire**: 14
+- **Pouls**: 65
+
+_État actuel:_
+
+Symptômes d'impétigo notés. Développement de plaies sur le visage. Infection de la peau suspectée. Antibiotiques prescrits.
+
+_Tests de laboratoire:_
+
+Commandé pour numération globulaire complète, culture de l'écouvillon de la peau.
+
+_Procédure & Appareil:_
+- **Procédure**: 23452-uPdy
+- **ID de l'appareil**: 524 LbQyLY
+
+_Autres détails:_
+- **Adresse IP** : 32.155.50.25
+- **ID de l'hôpital** : Macedonia
+- **Plan de santé**: MUb
+
+_Commentaires:_
+
+L'état du patient s'améliore. Suivi prévu avec le médecin de soins primaires. 
+
+-----------------------------------------------------------------------------------------------
+
+**Section de confidentialité:**
+- **Fournisseur de soins de santé**: Richardson, Small and Maxwell
+- **Nom d'utilisateur de connexion**: 3NZQsSDs
+- **Informations sur la licence**: 867624 XLH
+- **Identifiant biométrique (empreinte digitale)**: ndOgM-ntlP
+- **Numéro d'identification générique**: 23452-uPdy
+- **Sécurité sociale**: 692-789-174
+- **ID du véhicule (pour évacuation d'urgence)**: 698 HSN
+
+-----------------------------------------------------------------------------------------------
+
+Cette note est soumise aux règles et directives de confidentialité de l'organisation de soins de santé. Tout accès ou divulgation non autorisés des informations peuvent entraîner des poursuites judiciaires."
+

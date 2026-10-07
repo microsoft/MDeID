@@ -1,0 +1,41 @@
+"**Nota de Enfermería**
+
+**ID del Paciente:** JBp RqaRPD
+
+**Observaciones para 9/5/81:**
+
+1. Signos vitales: PA: 110/70, FC: 65, FR: 16, Temp: 37.5C
+2. Síntomas: Vómitos, dolor de estómago
+3. Se observa un ligero amarillamiento en la piel/ojos de Israel Correa - sospecha de ictericia
+4. Plan para monitorear signos vitales cada 4 horas
+5. El estado de hidratación de Israel Correa se mantendrá con líquidos IV
+
+*Nota Informal*:
+Informar a Marisol Marín. Israel Correa parece cansado. Nivel de dolor elevado. Signos vitales estables, sin aumento de temperatura. Los síntomas similares a la ictericia necesitan atención.
+
+**Información Personal del Paciente:**
+- Dirección de Casa: Israel Correa, Andador Tlaxcala 410 Interior 879 36, Yellowweed, NQXIRI14 Monte Patria, Argentina
+- Número de Contacto: 460-959-3969x501
+- Contacto de Emergencia: Israel Correa
+- Plan de Salud: 5DwKGia
+
+**Contactos Profesionales:**
+- Doctor Encargado: Marisol Marín
+- Enfermera de Guardia: srarre
+
+**Otra Información Esencial:**
+- Admitido en VDL
+- Mencionó trabajar en Tucker, Miller and Harris
+- Última IP conocida del REGISTRO DE ACCESO: 203.233.165.91
+- ID del Dispositivo del Monitor: Wvg-AXvxTI
+- Cuenta del Paciente: NQHI-Pbzrb
+- Detalles del SSN: 098-56-7869
+- Número de Licencia (si lo hay): dHVwdk-Tvq
+- ID Biométrica: 6256-CVDpD
+- Otros Identificadores: NQHI-Pbzrb
+- Edad del Paciente: 3
+
+**Posible seguimiento requerido en la ubicación:** restaurante
+
+*Fin de la Nota de Enfermería*"
+

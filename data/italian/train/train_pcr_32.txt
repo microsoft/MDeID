@@ -1,0 +1,38 @@
+"Rapporto di Assistenza al Paziente
+
+[DISPATCH]: La centrale operativa Webb, Lopez and Roth ha ricevuto una chiamata al 911 da un residente locale Lina Moser. L'unità 1F VA833 ha risposto alla chiamata di soccorso.
+
+[RESPONSE]: All'arrivo sul luogo ristorante, abbiamo incontrato il paziente Lina Moser che si lamentava di un grave rash sulla pelle. Il paziente Lina Moser era in uno stato moderato di distress.
+
+[HISTORY OF PRESENT ILLNESS]: Il paziente Lina Moser ha spiegato che l'eruzione cutanea era iniziata diversi giorni fa. I sintomi sono progressivamente peggiorati e ora accompagnati da una febbre moderata. Il paziente Lina Moser ha affermato che il rash era piuttosto grave e pruriginoso, portando alla decisione di chiamare il 911. La storia medica precedente è stata ottenuta dal paziente Lina Moser. Il paziente Lina Moser non ha potuto fornire alcuna allergia nota. 
+
+[ASSESSMENT - PRIMARY]: Il paziente Lina Moser era cosciente e allerta. L'esame della pelle ha rivelato un'ampia eruzione cutanea, vesciche e macchie rosse, coerenti con una potenziale Varicella, comunemente nota come varicella. I segni vitali del paziente Lina Moser sono stati presi e documentati come segue: (questi segni vitali non dovrebbero indicare alcuna condizione critica ma possono mostrare una temperatura leggermente elevata).
+
+[ASSESSMENT - SECONDARY]: Ad un ulteriore esame, era evidente che l'eruzione cutanea era distribuita su tutto il corpo. Il prurito era evidente, e il paziente Lina Moser sembrava a disagio a causa di una febbre persistente.
+
+[TREATMENT]: Il paziente Lina Moser è stato trattato con un appropriato farmaco antipiretico CzVc-QjCzV sul posto per alleviare la febbre. Al paziente Lina Moser è stato anche consigliato di non grattare l'eruzione cutanea per prevenire eventuali infezioni cutanee secondarie.
+
+[TRANSPORT]: Il paziente Lina Moser è stato poi trasportato all'ospedale Prague Plzen senza ritardi per ulteriori valutazioni e trattamenti. A causa della natura contagiosa della condizione sospetta, sono state prese le necessarie precauzioni durante il trasporto. 
+
+[OVERVIEW]: All'arrivo all'ospedale Prague Plzen, la cura del paziente Lina Moser è stata trasferita al medico del pronto soccorso Sofia Steiner. Il rapporto medico è stato consegnato al medico di turno Sofia Steiner e il paziente Lina Moser è stato ricoverato all'ospedale Prague Plzen per ulteriori trattamenti.
+
+[DOCUMENTATION]: Il paziente Lina Moser ha firmato un modulo di consenso per il trattamento di emergenza. Questo rapporto è stato preparato dal tecnico medico di emergenza di turno. 
+
+[NAME]: 0F88qcpw
+[EMAIL]: oe@unhcr.org
+[DOB]: 10 giu 1976
+[PHONE]: (903)737-2091
+[SEX]: 234719-OzW
+[SSN]: EHDSUT79K11A504J
+[ADDRESS]: Lina Moser, 31106 Laura Points 44, 1112 Conventello, Svizzera
+[CITY]: Mascali
+[ZIP]: 1112
+[STATE]: TP
+[COUNTRY]: Italia
+[ACCOUNT]: Dcl-lOUefn
+[IDNUM]: Dcl-lOUefn
+[IPADDRESS]: 13.128.33.71
+[LICENSE]: VYtJ-awIva
+[URL]: watson.info
+[FAX]: 9164720929"
+

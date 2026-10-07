@@ -1,0 +1,60 @@
+"Arzt Kratz Notiz
+
+----------------------------------------
+
+16 weiblich, Nichtraucherin, keine Begleiterkrankungen.
+Präsentierende Symptome: Husten, leichtes Fieber, geringer Gewichtsverlust.
+Keine Geschichte wiederkehrender Infektionen.
+Kein Kontakt mit Tuberkulose-Patienten.
+Reisegeschichte beinhaltet Deutschland und Deutschland.
+Frühere Diagnose: Lungenentzündung, mehrere Antibiotika-Behandlungen, keine Symptombesserung.
+
+----------------------------------------
+
+Körperliche Untersuchung:
+Verminderte Atemgeräusche im linken oberen Lappen.
+Röntgen- und CT-Scan-Beobachtungen:
+- Konsolidierung im oberen linken Hilum, linker oberer Lappen.
+- Zentrale noduläre intraluminale Läsion.
+- Bronchiale Verdickung.
+- Post-obstruktive Lungenentzündung.
+Keine Lymphadenopathie oder Pleuraergüsse festgestellt.
+
+Bronchoskopie-Befunde:
+Gut definierte endobronchiale Tumore im linken oberen Lappen.
+
+Histologische Untersuchung des resezierten linken oberen Lappens:
+- Atypischer Karzinoidtumor.
+- Granulomatöse Entzündung.
+Tests auf Mycobacterium tuberculosis: Negativ.
+
+----------------------------------------
+
+Diagnose:
+Primär: Atypischer Karzinoidtumor des linken oberen Lappens.
+Differential: Tuberkulose (aufgrund granulomatöser Entzündung und Reisegeschichte), aktuelle Tests auf Tuberkulose negativ.
+
+Prognose:
+Hängt von der kontinuierlichen Überwachung und Behandlung des Karzinoidtumors und der potenziellen Tuberkulose ab.
+
+----------------------------------------
+
+Behandlungsplan:
+Patientin hat erfolgreiche Lobektomie des linken oberen Lappens durchgeführt.
+Empfehlen Sie trotz negativer aktueller Tests eine fortlaufende Überwachung auf Tuberkulose.
+Regelmäßige Nachuntersuchungen sind notwendig für das Management und die Neubewertung.
+Weitere Behandlungsoptionen können in Betracht gezogen werden, basierend auf dem Fortschreiten des Karzinoidtumors und neuen Befunden im Zusammenhang mit Tuberkulose.
+
+----------------------------------------
+
+Arzt: Jonas Schumacher
+Patient: Julia Schneider
+Medizinische Aufzeichnung: DYZ-KLFhPm
+Krankenhaus: Fryeburg
+Datum: 05.10.86
+Stadt: NEWARK
+Bundesland: 31
+Postleitzahl: 4991
+
+----------------------------------------"
+

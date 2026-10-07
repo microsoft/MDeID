@@ -1,0 +1,36 @@
+"```
+                *** NOTA RAPIDA ***
+
+PAZIENTE: Alessio Palmieri
+ETÀ: 20
+PROBLEMI PRESENTATI:
+- Minzione frequente
+- Difficoltà a urinare 
+
+VITALI:
+BP: 130/85 mmHg
+Temp: 98.7 F
+Pulse: 78 bpm
+
+NOTE:
+- I segni suggeriscono un'infezione del tratto urinario
+- Richiesti esami di laboratorio
+- fnltJ-KUOR da consultare per la storia medica
+- essioi menzionato per l'accesso al sito web
+- coue@microsoft.org necessario per la notifica dei risultati dei test 
+
+CONTATTO:
+- Contatto di emergenza: +1-656-528-4303x458
+- Indirizzo di casa: Alessio Palmieri, 849 Ibarra Cove 120, 5974 Peschici, Svizzera
+- Medico responsabile: Nicolò Guerra
+
+INFORMAZIONI AGGIUNTIVE:
+- Fornitore di assistenza sanitaria preferito: 3wlwg diBqaBKg
+- Ultima visita ospedaliera: Marie Thérèse of France
+- Stato del conto: 904025-644
+- Numero di serie del dispositivo (se presente): Kqa-sSqVDs
+
+-FINE DELLA NOTA RAPIDA-
+```
+Questo documento sintetico non contiene alcuna Informazione Personale sulla Salute (PHI)."
+

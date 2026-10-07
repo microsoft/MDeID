@@ -1,0 +1,49 @@
+"**Notas de Enfermagem** - ID Único: TdQW-WhpxC
+***Preocupações do Paciente*** 
+Problemas Respiratórios - Gravidade notada, Detalhes adicionais capturados no registro do paciente nº 787484 728
+
+***Sinais Vitais*** 
+PA: 120/80 mmHg
+Frequência Cardíaca: 75 bpm
+Respiração: 21 bpm 
+Temperatura: 37.2 C 
+Saturação de Oxigênio: 92% 
+
+***Observações*** 
+Problemas Visíveis - Respiração, Sintomas de Asma - Notados
+Referindo ao Dr. Cauã Teixeira para exame adicional. 
+
+--- 
+**Informações de Contato de Emergência** 
+Nome: Sofia Fernandes 
+Número de Contato: (347)775-0799 
+Email: aau@red-cross.org 
+Endereço: Sofia Fernandes, Praça Jesus, 6 161, 6942 Nipoã, Portugal
+
+**Informações do Dispositivo**
+Nome do Dispositivo: Inalador de Asma, 
+Número do Dispositivo: 161334 uIG
+
+**Informações de Cobrança**
+Número da Conta: TdQW-WhpxC
+Plano de Saúde: Hu1omcBlWa
+---
+**Outras Informações** 
+Profissão do Paciente: Conselheiro de carreiras de ensino superior
+Idade: 109
+Data da Consulta: 23 de mar. de 1976
+Local da Consulta: farmácia
+Nome do Hospital: south Tel Aviv
+Número de Segurança Social do Paciente: 62156072-2
+
+***Plano***
+Aumentar a frequência do uso do inalador. 
+Monitorar o padrão de respiração. Referir ao pneumologista Dr.Cauã Teixeira.
+BioID do Paciente: odWjkp-55U
+---
+**Comentários**
+Endereço IP do Paciente: 64.172.34.254
+Informações da Licença do Paciente: 890406 fFc
+
+Este é um documento sintético."
+

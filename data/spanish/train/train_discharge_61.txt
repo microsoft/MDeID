@@ -1,0 +1,42 @@
+Resumen de Alta
+=================
+Encabezado: Disposición - Alta a atención médica domiciliaria
+
+**Queja Presentada**
+Patricia Ortiz fue admitida debido a ictericia y malestar severo en el cuadrante superior derecho del abdomen, síntomas conocidos de hepatitis.
+
+**Curso Hospitalario**
+Durante la estancia de Patricia Ortiz, se inició el manejo patrocinado por EmL, incluyendo terapias antivirales y hormonales, por Thiago Villalba, lo que resultó en una reducción significativa del malestar y la ictericia.
+
+**Diagnósticos de Alta**
+1. Hepatitis
+2. Complicaciones: Ascitis, Ruptura espontánea de membranas, Tac...
+
+**Consultas Hospitalarias**
+Se realizaron consultas con un hepatólogo y un gastroenterólogo durante la estancia de Patricia Ortiz.
+
+**Procedimientos**
+Patricia Ortiz se sometió a un procedimiento de biopsia de hígado que confirmó el diagnóstico inicial de hepatitis.
+
+**Resultados**
+Patricia Ortiz respondió positivamente al tratamiento; los síntomas, incluyendo la ictericia y el malestar, han visto una reducción significativa.
+
+**Plan de Tratamiento**
+Continuación de la terapia antiviral bajo la supervisión de una enfermera de atención médica domiciliaria. Se recomiendan cambios en la dieta y abstinencia de alcohol.
+
+**Alergias e Intolerancias**
+No se informaron durante esta admisión.
+
+**Medicamentos de Alta**
+Se ha recetado a Patricia Ortiz medicación antiviral y diuréticos. Patricia Ortiz debe continuar estos medicamentos según las instrucciones de la enfermera de atención médica domiciliaria.
+
+**Estado Funcional**
+Patricia Ortiz necesitará ayuda con algunas actividades en casa debido a la debilidad.
+
+**Instrucciones de Alta Hospitalaria**
+Se ha aconsejado a Patricia Ortiz que se abstenga de alcohol, siga una dieta baja en sal y se adhiera al horario de medicación. Se ha programado una cita de seguimiento con Thiago Villalba después de cuatro semanas.
+
+**IDNUM**: 319537 39Y
+N.B: Este Resumen de Alta debe mantenerse confidencial y estrictamente para el uso del paciente y los proveedores de atención médica asignados.
+
+sábado, 11 de septiembre de 2004 para apoyar la continuidad de la atención de Patricia Ortiz desde el alta de Thiago Villalba. El registro oficial se encuentra dentro del sistema de registro de salud electrónico del hospital.

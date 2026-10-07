@@ -1,0 +1,63 @@
+"Verpleegkundige Krasnotitie
+
+=======================
+|  Patiënt: Tom van den Heuvel  |
+|  ID-nummer: Td-7935rzE  |
+|  Medisch dossier: IGTx-67105  |
+|  Leeftijd: 100  |
+|  Toegelaten: 24-12-2015  |
+|  Toegewezen arts: Sophie Lambert  |
+|  Ziekenhuis: Jewish Theater  |
+|  Adres: Tom van den Heuvel, Lubricatory 94, 7973 Navigationally, Nederland  |
+=======================
+
+- Symptomen:
+    - Spierzwakte: Gemeld door patiënt
+    - Cervicale stijfheid: Geobserveerd
+
+- Vitale functies:
+    - BP: 120/80 mmHG 
+    - HR: 80 bpm
+    - Temp: 98.6 F 
+    - RR: 18 ademhalingen per minuut
+    - SpO2: 98% op kamerlucht
+
+- Medische observaties: Jewish Theater 
+    - Mogelijke artritis: Verhoogde CRP, ESR
+    - Röntgenfoto's besteld: In afwachting 
+
+=============================
+|  Noodcontacten  |                   
+|  Telefoon: 967-577-1868x53804  |
+|  E-mail: rtie@yandex.com  |
+=============================
+
+- Behandelingsvoortgang: 
+    - Pijnbeheer: NSAID's toegediend, vervolg op 24-12-2015
+    - Fysiotherapie: Geadviseerd, begint 24-12-2015
+
+Diverse Info:
+    - Rekeningnummer: Td-7935rzE
+    - Organisatie: Dickerson Ltd
+    - Apparaat-ID: NHjwk-5421
+    - Voertuig van de patiënt: 1-G7678
+    - Gezondheidsplan: a60lrGY
+    - Locatie (Overig): café
+    - Beroep: Ingenieur, productie
+    - Sociale zekerheid: 323627634
+    - Licentienummer: 1029-72685
+    - Biometrische ID: 16764-18qL
+    - IP-adres: 131.241.151.15
+    - URL voor records: cain.com
+    - Gebruikersnaam: noeuvelden
+    - Fax: 001-318-619-3912
+
+NB: Neem contact op met de ziekenhuisadministratie voor meer informatie over de rekening, apparaat-ID of voertuig van de patiënt. 
+
+=======================
+Deze krasnotitie is vertrouwelijk en bedoeld voor alleen zorgprofessionals. Ongeautoriseerde toegang is strafbaar bij wet. 
+
+Voorbereid door: Verpleegkundige noeuvelden
+Datum: 24-12-2015
+======================="
+

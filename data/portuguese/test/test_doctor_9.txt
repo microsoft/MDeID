@@ -1,0 +1,36 @@
+"Nota do Doutor Scratch:
+
+Subj: Douglas Correa, ID: 936 108KTw, Idade 1, Recipiente de Transplante
+
+- Hx: 
+    - Transplante de fígado '98, causa: cirrose alcoólica, carcinoma hepatocelular
+    - Linfoma difuso de grandes células B anterior, tratamento: quimioterapia '06
+    - Doença psiquiátrica, epilepsia pós-traumática
+    - Nega sintomas de encefalopatia
+    - Elevações intermitentes de transaminase desde '14, suspeita de uso de álcool
+    - Ascite, disfunção do enxerto, agosto 27 de maio de 2001
+
+- Rx: 
+    - Tacrolimus, níveis ~2 μg/l 
+    - Prednisona, 5 mg diariamente
+
+- Obs: 
+    - Função hepática: elevações moderadas de transaminase, colestase
+    - Sorologia: Hep B, C, CMV negativo, vírus Epstein-Barr dentro dos limites normais, anti-HEV IgM, IgG positivo
+    - PCR: RNA do HEV no plasma, amostra de soro armazenada '14, infecção crônica por Hep E
+    - Após a introdução de ribavirina, setembro 27 de maio de 2001, a função hepática melhorou
+
+- Avaliação: 
+    - Cirrose do enxerto descompensada, infecção crônica por Hep E diagnóstico primário
+    - Histórico de uso de álcool, potencial contribuinte para a disfunção hepática
+    - Diferenciais anteriores descartados: reativação de Hep B, C, CMV
+
+- Plano: 
+    - Continuar monitoramento da função hepática, tacrolimus
+    - Manter as dosagens atuais de tacrolimus, prednisona
+    - Continuação da terapia com ribavirina, ajuste baseado na resposta, tolerância
+    - Aconselhar: Abstenção de álcool, prevenir mais danos ao fígado
+    - Acompanhamentos regulares: monitorar a progressão da doença hepática, ajuste do tratamento conforme necessário
+
+Juraci Carvalho"
+

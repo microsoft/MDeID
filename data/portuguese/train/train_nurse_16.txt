@@ -1,0 +1,32 @@
+"------------------------------------------------------------------------------------------------------------------
+Notas da Enfermeira para Marcos Rodrigues
+------------------------------------------------------------------------------------------------------------------
+
+Subjetivo: 
+
+O paciente, um homem, relata sentir dor, inchaço e alterações em sua mama direita. Ele também descreve sintomas recentes de visão dupla, visão embaçada e movimento significativamente restrito em seu olho direito, com diminuição da acuidade ocular. 
+
+Objetivo: 
+
+A ultrassonografia inicial da mama revelou uma massa irregular na mama direita e outra lesão em outro local, com linfonodos aumentados na axila direita. Uma biópsia por agulha confirmou o diagnóstico de carcinoma ductal invasivo (CDI), com certas características. O paciente passou por uma tomografia computadorizada de corpo inteiro, que não mostrou nenhuma doença metastática. Testes pós-tratamento confirmaram o diagnóstico de CDI, com vários linfonodos axilares mostrando depósitos metastáticos. Uma recente ressonância magnética do cérebro indicou um nódulo envolvendo um certo músculo ocular. 
+
+Avaliação: 
+
+O diagnóstico primário é carcinoma ductal invasivo (CDI) da mama direita, atualmente sem metástase distante, mas com disseminação local e regional significativa. Os novos sintomas oculares e os achados de ressonância magnética sugerem uma possível metástase ou uma malignidade secundária envolvendo um certo músculo ocular. 
+
+Plano: 
+
+O paciente completou vários ciclos de quimioterapia neoadjuvante, passou por uma mastectomia conservadora de pele à direita, dissecção de linfonodos axilares e radioterapia da parede torácica. Ela está atualmente em terapia hormonal com certos medicamentos. Dados os novos achados oculares, mais investigações diagnósticas e consulta com um oncologista e oftalmologista são necessárias para determinar a estratégia de tratamento adequada para a possível metástase ou novo câncer primário. 
+
+------------------------------------------------------------------------------------------------------------------
+Rodapé: 
+
+Enfermeira Mariana Martins, Número de Licença 21309-VRZo, Número de Contato 491.814.2400, Email ID rta@mail.com, 
+Dispositivo usado para documentação 161240-bqk, Endereço IP usado para entrar no sistema 148.51.178.38, 
+Nome de usuário 4e4YkwPH, Número de Segurança Social 14368075-8, Número do Veículo 41-WF01,
+ID Biométrico do Paciente 952-HHawxS, Número da Conta do Paciente 7984-wxMvX, Número de Identificação 7984-wxMvX, 
+Idade do Paciente 105, Endereço do Paciente Marcos Rodrigues, Fazenda de Lopes, 2 31, 7630 Vila Alto da Gloria, Portugal, Cidade ALCOBAÇA, Estado 27, País Portugal, 
+CEP 7630, Hospital northwestern Pennsylvania, Outra Localização aeroporto, Plano de Saúde g3V9b, 
+Profissão Animador, Organização Roberts-Ellis, Fax 5217643824, URL welch.nelson-sanford.herman.org
+------------------------------------------------------------------------------------------------------------------"
+

@@ -1,0 +1,28 @@
+"Nota del Doctor Scratch:
+
+Hernán Villalba, 18, masculino, presentación inicial con pigmentación de la piel en múltiples sitios, vómitos repetidos x 4 días. Se notaron características físicas distintas: cara redonda, mejillas llenas, frente prominente, hipertelorismo, plenitud periorbital, nariz corta, labio inferior evertido.
+
+Signos vitales:
+Temp: 98.6 F, FC: 110 lpm, FR: 24 respiraciones/min, PA: 100/60 mmHg, SpO2: 98%
+
+Examen:
+Confirmadas las características físicas mencionadas.
+
+Conducción de la RMN: Se detectó hidrocefalia, se realizó cirugía de derivación. RMN postoperatoria - dilatación ventricular, reducción del volumen del tallo cerebral, realce leptomeníngeo. Lóbulo frontal derecho - masa de 3 cm.
+
+Resección del Tumor: Masa de color rojo oscuro a marrón, 4x4x2 cm. Adjunto a las meninges.
+
+Resultados Inmunohistopatológicos: HMB45 positivo, Melan-A positivo, S100 positivo, Ki-67 30%, P53 negativo.
+
+Estudio Citogenético: No hay eliminación alélica de P53, mutación NRAS en el exón 3 (codón 61).
+
+Diagnóstico: Tumor melanocítico maligno del SNC. Complicaciones - Hidrocefalia, hipertensión intracraneal.
+
+Diagnóstico Diferencial Inicial: Otros tumores cerebrales, lesiones metastásicas.
+
+Pronóstico: Pobre. Crecimiento agresivo, resultado fatal a pesar de la intervención quirúrgica.
+
+Plan: Post hidrocefalia y cirugía de resección de tumor, programada RMN/TC cada 3 meses. Mayor caracterización del tumor a través de estudios inmunohistopatológicos y citogenéticos. Hernán Villalba falleció 4 meses después de la resección del tumor. Se recomienda asesoramiento familiar.
+
+Santiago Pérez"
+

@@ -1,0 +1,14 @@
+T1	PATIENT 62 77	Antonio Ferraro
+T2	PATIENT 835 850	Antonio Ferraro
+T3	PATIENT 1213 1228	Antonio Ferraro
+T4	PATIENT 1568 1583	Antonio Ferraro
+T5	PATIENT 1672 1687	Antonio Ferraro
+T6	PATIENT 2123 2138	Antonio Ferraro
+T7	PROFESSION 2144 2166	ingegnere del software
+T8	PROFESSION 2182 2220	Responsabile dello sviluppo delle arti
+T9	PATIENT 2589 2604	Antonio Ferraro
+T10	PATIENT 2736 2751	Antonio Ferraro
+T11	DOCTOR 3120 3132	Nicola Rizzo
+T12	PATIENT 3273 3288	Antonio Ferraro
+T13	MEDICALRECORD 3308 3318	NDn WAfldZ
+T14	DOCTOR 3365 3377	Nicola Rizzo

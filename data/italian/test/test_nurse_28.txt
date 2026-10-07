@@ -1,0 +1,45 @@
+"**Nota Narrativa dell'Infermiera:**
+
+Soggettivo: La paziente Mia Moser che è stata diagnosticata con Glaucoma ad Angolo Aperto Primario 839982 ilY un decennio fa, riferisce un persistente disagio nell'occhio destro. La paziente descrive il disagio come una sensazione di bruciore, prurito e una sensazione di secchezza. Nonostante l'uso di vari sostituti lacrimali per il sollievo, il disagio è stato particolarmente grave negli ultimi sei mesi. La paziente Mia Moser ha rispettato i trattamenti prescritti, compreso un sostituto lacrimale a base di acido ialuronico somministrato quattro volte al giorno.
+
+Oggettivo: All'evaluazione, i sintomi del paziente sono stati quantificati con un Indice di Malattia della Superficie Oculare (OSDI) di 74/100 e una Scala Analogica Visiva (VAS) per il dolore di 85 mm/100 nell'occhio destro, indicando un forte disagio. L'occhio sinistro presentava sintomi più lievi con un OSDI di 22/100 e una VAS di 21 mm/100. L'esame con lampada a fessura non ha mostrato danni all'epitelio o segni di infiammazione, ma ha rivelato un ridotto Tempo di Rottura del Film Lacrimale (TFBUT) di 4 secondi nell'occhio destro e 8 secondi nell'occhio sinistro. La paziente sta seguendo una terapia non convenzionale con collirio a base di cannabinoidi (CBS) dal 29 nov 1975, con un dosaggio di 0,4 ml al giorno nell'occhio destro.
+
+Valutazione: La diagnosi primaria è POAG con grave malattia della superficie oculare (OSD) che colpisce principalmente l'occhio destro. La diagnosi differenziale potrebbe includere altre cause di irritazione della superficie oculare, ma l'assenza di danni all'epitelio o infiammazione le rende meno probabili. La risposta del paziente alla terapia CBS suggerisce un esito positivo per la gestione dei sintomi nei casi refrattari di OSD.
+
+Piano: Continuare a monitorare la condizione del paziente con controlli regolari per valutare l'efficacia e la sicurezza a lungo termine della terapia CBS. Mantenere l'attuale regime del sostituto lacrimale a base di acido ialuronico quattro volte al giorno in entrambi gli occhi. Incoraggiare il paziente a segnalare qualsiasi cambiamento nei sintomi o effetti collaterali. Considerare ulteriori aggiustamenti alla terapia in base alla progressione o alla regressione dei sintomi. Assicurare l'educazione del paziente sull'importanza dell'aderenza al trattamento e delle visite di controllo programmate.
+
+Infermiera: Nina Huber
+
+**Informazioni di Contatto**
+Telefono: 772-717-2042
+Email: uben@microsoft.org
+Indirizzo: Mia Moser, 291 Matthew Pike, 106, 8847 Bangkok Ungeological, Italia
+Nome utente: Mosera
+Account: 52 hrnOEcA
+Cartella Clinica: 839982 ilY
+
+**Informazioni sul Dispositivo**
+Dispositivo: 594267-MQp
+
+**Informazioni Extra**
+Organizzazione: Mitchell-Grant
+Professione: Responsabile del servizio clienti
+Veicolo: IIA4861
+Sicurezza Sociale: 094477-0184
+Licenza: 493-165803
+BioId: 17968 fokF
+Indirizzo IP: 203.123.217.194
+IDNum: 52 hrnOEcA
+Città: Bangkok
+Paese: Svizzera
+Stato: TRENTO
+Strada: 72402 Arthur Loaf
+URL: lewis-davis.sullivan-barker.mcneil-jones.biz
+Piano Sanitario: oLRSdMfTu
+Ospedale: Rights Resource Center
+Altra Località: biblioteca
+CAP: 8847
+Fax: +1-914-836-2616 
+
+Questa documentazione è stata generata il 29 nov 1975 ed è valida fino al 29 nov 1975. Qualsiasi modifica o aggiornamento sarà effettuato nelle versioni successive di questo documento. Tutte le informazioni personali sulla salute (PHI) sono state sostituite con segnaposti per garantire la privacy e la riservatezza."
+

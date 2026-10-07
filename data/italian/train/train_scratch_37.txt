@@ -1,0 +1,44 @@
+"--:: APPUNTO DELL'INFERMIERA, CODICE: MLcUp-2246 ::--
+
+- Pt. Martin Graf - sospetto di vene varicose
+- Dati pertinenti:
+    - Vitali: BP 130/80 mmHg, HR 72 bpm, TEMP 98.6F, SpO2 98%
+    - Ambulatorio, nessun distress
+    - Ispezione delle gambe - vene anormali presenti
+
+-- \u221a Valutazione & Piano --
+
+Operatore di borsa segnala vene insolite - Gambe
+- Monitorare la progressione
+- Considerare il rinvio a Federico Negri
+- Terapia VI?
+
+--:: Parente più prossimo ::--
+Nome: Martin Graf
+Relazione: Moglie
+Contatto: (483)859-8371
+Indirizzo: Martin Graf, 4277 Ibarra Valleys 19, 4892 Suelli, Svizzera
+
+--:: Informazioni Digitali ::--
+Indirizzo IP: 70.215.237.152
+Nome Utente: XKRayupo
+
+--:: Informazioni di Emergenza ::--
+Piano Sanitario: VrRVNnkcHN5 KqFQFy0gY n9 TD3JQJ
+Licenza: mskmxd-891
+BioID: 90028-XEZy
+
+--:: Informazioni Dispositivo - Segni Vitali ::--
+Dispositivo: Iudu-XRYjy
+ID: DzoL UBHgg
+
+Footer:
+Rinvio a Società Chirurgica di Cairns
+Assistito da- Federico Negri
+Il- 21/06/74
+
+NOTE:
+Vitali stabili. Nessuna preoccupazione immediata. Follow-up il 21/06/74.
+Possibile rischio occupazionale. Luogo di lavoro: Lawrence LLC
+"
+

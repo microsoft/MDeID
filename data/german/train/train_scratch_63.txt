@@ -1,0 +1,56 @@
+"###################### Notiz zur Notfallpflege ######################
+
+Vitalstatistiken:
+  - BP: 160/90
+  - HR: 110 bpm
+  - Resp: 20/min
+  - Temp: 98,6 F
+  - O2 Sat: 98%
+  
+NOTIZ:
+  - Alexia Claeys Beschwerden: Brustschmerzen, Kopfschmerzen
+  - Alexia Claeys 109 männlich
+  - Hypertonie möglich
+  - Medikamente: Muss 33864-DbNt wissen
+
+Beobachtungen:
+  - Haut: Normal, kein Ausschlag
+  - Pupillen: PEARL
+  - Gang: Stabil
+  - Wach und orientiert
+  
+Plan:
+  - Überweisung von Emma Roth
+  - Weitere Tests: EKG, Blutuntersuchung
+  - Regelmäßige Blutdrucküberwachung
+  - Lebensstilberatung
+  - Nachsorge geplant 02.04.1993
+
+###### WICHTIGE INFO: ######
+!!! Sichere Verbindung erforderlich !!!
+- Patientenportal morrison-hood.williams-smith.swanson-norman.biz
+- Benutzername: alaeys
+- Passwort: pSdGLi 900
+
+Kontaktdaten:
+- Alexia Claeys
+- Adresse: Alexia Claeys, Kyra-Mark-Weg 3 63, 5089 Furth an der Triesting, Switzerland
+- Email: ao@hotmail.com
+- Telefon: 830.995.3192
+- Notfallkontakt: Alexia Claeys Beziehung, 830.995.3192 
+
+#### Lizenz & Versicherung ####
+- 157584-SfU: Zur Überprüfung
+- Gesundheitsplan: xw9baG qqzZh
+
+#### Allgemeine Info ####
+- Arbeitsplatz: Murray, Ho und Bennett
+- Ursprungsgerät: lvLY gDObd
+- IP: 214.79.41.55
+
+-----------------------------------------------------------------------------
+Diese Notiz wurde in South Africans, Krankenhaus gemacht. Für weitere Informationen wenden Sie sich an die Abteilung (926)781-3072x45422.
+------------------------------------------------------------------------------
+
+###################### ENDE DER NOTIZ ######################"
+

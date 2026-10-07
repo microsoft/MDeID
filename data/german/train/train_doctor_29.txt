@@ -1,0 +1,47 @@
+"Dr. Johann Busch Notizen
+--------------------------
+PATIENT: Stijn De Backer
+ID: RH-rFTtdiz
+
+ALTER: 83
+
+VORLIEGENDE BESCHWERDEN:
+- Gangstörungen
+- Mikrozephalie
+- Dissoziative Episoden
+- Fieberkrämpfe
+- Schlafstörungen
+- Entwicklungsverzögerungen (motorische Fähigkeiten)
+- ADHS-ähnliches Verhalten
+
+FRÜHERE INTERVENTIONEN:
+- Psycho-pädagogische Intervention
+- Methylphenidat-Behandlung
+
+BEOBACHTUNGEN:
+Mikrozephalie bestätigt
+
+UNTERSUCHUNGEN:
+- EEG: Normal
+- MRT: Normale Enzephalonstruktur
+- Genetik: 182 Basen-Deletion im C7-Marker (Basen 2475-2657). Keine Veränderungen in den Genen LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8, PAX2
+
+BEURTEILUNG:
+- Mikrozephalie mit assoziierten Entwicklungs- und Verhaltensproblemen
+- Mögliche genetische oder metabolische Störungen
+- Prognose: Vorsichtig
+
+GEPLANTE MASSNAHMEN:
+- Fortsetzung der psycho-pädagogischen Interventionen
+- Beibehaltung der Methylphenidat-Behandlung
+- Nachfolge-EEG (Schlafprobleme)
+- Regelmäßige Entwicklungsbeurteilungen
+- Elternbildung zur Überwachung und Behandlungstreue
+- Nächster Termin: 13. Januar 2001
+
+Unterschrieben,
+Dr. Johann Busch
+Bennett, Martinez und Jenkins
++1-843-492-8280x8660
+hoha@outlook.com"
+

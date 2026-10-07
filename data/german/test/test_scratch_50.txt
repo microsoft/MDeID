@@ -1,0 +1,70 @@
+"Pflegekratznotiz
+---
+Patienteninformation:
+* Benjamin Mayr
+* ALTER: 85
+* Konto: Kv 421JTpY
+
+Beobachtungen:
+
+* Krampfadern: Notiert
+* Blutdruck: 120/80
+* Temperatur: 36.9\u00b0C
+* Herzfrequenz: 78bpm
+
+Behandlung:
+
+* Kompressionstherapie eingeleitet
+* Beinhochlagerung empfohlen
+
+Fortschritt:
+
+* Patient berichtet  
+
+Zusätzliche Informationen:
+
+* Gesundheitsdienstleister: Julia Zimmermann
+* Gesundheitsplan: U0o
+* Krankenhausaufnahme: Community Memorial Hospital
+* Medizinische Aktennummer: Zi-58005Kl
+
+Kommunikationsaustausch:
+
+* E-Mail: mermannul@outlook.com
+* Telefon: 687.489.2784x67384
+
+Kontext:
+
+* Standort: Stadion
+* Adresse: Benjamin Mayr, Sauerplatz 42 179, 9448 Ancona, Switzerland
+
+Geräteinformationen:
+
+* Geräte-ID: 99-XoASxvk
+* IP-Adresse: 173.94.83.6
+
+Persönliche IDs:
+
+* Sozialversicherung: 929419-8398
+* Lizenz: 138300 bfE
+* BIOID: 6165-wjhoj
+* Persönliche Kennung: Kv 421JTpY
+
+Kontakt im Notfall:
+
+* Benutzername: 1oY5GDrs
+* Fahrzeug: 7CM 631
+* Beruf: Wissenschaftler, forensisch
+* Organisation: Browning LLC
+
+BITTE BEACHTEN:
+
+* Alle Kommunikation ist streng vertraulich und muss den umfassenden Datenschutzbestimmungen entsprechen.
+
+Nächste Nachsorge (DATUM): 15.10.04
+* Fax: 001-556-986-7883x46757
+
+--- --- --- --- --- --- --- --- +++++++++++++++++++++++++++++++++++++++ --- --- --- --- --- --- --- --- 
+
+Hinweis: Persönliche Gesundheitsinformationen (PHI) wurden entfernt und durch Platzhalter ersetzt, um die Patientenvertraulichkeit gemäß den HIPAA-Richtlinien zu wahren."
+

@@ -1,0 +1,72 @@
+"Plantilla de Nota de Enfermería:
+
+Encabezado:
+
+------------------
+
+Amanda Pécsi
+
+44
+
+cvpuC 7656
+
+------------------
+
+Signos vitales:
+
+BP: 130/85
+
+Pulso: 110
+
+Temp: 101.2F 
+
+Observaciones:
+
+------------------
+
+- Febril, Amanda Pécsi informa sentirse "caliente y sudorosa"
+
+- Sospecha de Malaria
+
+Hallazgos:
+
+------------------
+
+- Conjuntiva pálida
+
+- Bazo agrandado palpable
+
+Tratamiento iniciado:
+
+------------------
+
+- Antimaláricos iniciados
+
+Acción adicional:
+
+------------------
+
+- Frotis de sangre para confirmación
+
+- Monitorear signos vitales cada 4 horas
+
+Comunicado con Silvia Francisco de guardia.
+
+Pie de página:
+
+------------------
+
+Contacto de emergencia:
+
+001-964-819-8326x04216
+
+Dirección para seguimiento:
+
+Amanda Pécsi, Pasadizo Gilberto Fiol 3 165, Palliates, ALJVSUJN Zarzal, Argentina
+
+Detalles del ljpt0 requeridos para la farmacia.
+
+dpndEKk8 del paciente para reservar chequeo en línea.
+
+Nombre de Miller, Chandler and Lopez para solicitud de licencia laboral."
+

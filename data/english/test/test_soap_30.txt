@@ -1,0 +1,33 @@
+"S: Patient Brooke Brown is a 19 years-old African American male with a history of bipolar disorder, currently experiencing mental disorientation and frequent vomiting. He reports a history of adverse reactions to various medications, including diarrhea with lithium, leading to a trial of Valproic Acid (VA) which was initiated Nov 1997. He has experienced VA-induced hyperammonemia, leading to discontinuation and subsequent trials with other medications including lactulose syrup and lamotrigine, which were also discontinued due to side effects and recurrence of manic symptoms.
+
+O: On physical examination, the patient has a Glasgow Coma Scale score of VYm-MyiwPa and normal findings in muscle strength, deep tendon reflexes, and cranial nerve function. Neurological gait assessment was not possible due to patient fatigue and emergency condition. Two 33965 KErn were placed, and a standard saline infusion was started to manage descending blood pressure. Laboratory tests have consistently shown elevated ammonia levels despite treatment adjustments.
+
+A: The primary diagnosis is bipolar disorder with complications including VA-induced hyperammonemia and medication-related side effects. Differential diagnoses could include other causes of vomiting and mental disorientation, but these are less likely given the patient's specific medication history and lab findings.
+
+P: The management plan includes continued monitoring of ammonia levels and adjustment of the treatment regimen as necessary. The patient is currently on a combination of lactulose syrup and levocarnitine. It is crucial for the patient to maintain weekly follow-up visits at Windham with Dr. Billy Franklin to monitor his condition and treatment efficacy. Education on the importance of compliance with the treatment plan and prompt reporting of any new symptoms or concerns is essential.
+
+Additional Information: 
+
+- Patient's Medical Record: Fu-DaBwsXA
+- Patient's Account Number: VYm-MyiwPa
+- Patient's Home Address: Brooke Brown, 10 Insurability, Sinhasan, Viewer 0713, New Zealand
+- Patient's Email: Billyl@aol.com
+- Patient's Phone Number: (790)216-1106x6858
+- Patient's Social Security Number: 129-597-798
+- Doctor's License Number: 39 932622Z
+- Patient's IP Address: 206.35.29.227
+- Patient's Vehicle Information: KMA 813
+- Patient's Profession: Midwife
+- Health Plan: BjeUorUH4
+- Patient's Biometric Identifier: rQyel-GFDF
+- Patient's City: Viewer
+- Patient's State: 337
+- Patient's Country: Canada
+- Patient's Zip Code: 0713
+- Patient's Street: 81360 Larry Village Suite 086
+- Patient's Username: rUd9r3j1
+- Patient's Fax Number: 001-227-292-4870
+- Patient's URL: montgomery.biz
+- Patient's Other Location: mall
+- Patient's Organization: Grimes, Moore and Caldwell"
+

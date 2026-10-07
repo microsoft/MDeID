@@ -1,0 +1,53 @@
+"Nota de Rascunho del Dr. Lorenzo Villa
+
+- Francisca Mondragón 
+- 78 
+- ID KYpJb 2186 
+
+Signos vitales:
+- PA: 125/65 mmHg
+- FC: 84 lpm
+- Temp: 100.4\u00b0F 
+
+Quejas:
+- Fiebre de 7 días 
+- Escalofríos 
+- Hinchazón dolorosa, hombro derecho
+- Faringitis
+
+No hay antecedentes cardíacos significativos. Niega tratamiento dental reciente, cirugía, abuso de drogas.
+
+Examen físico:
+- Soplo cardíaco sistólico 2/6, mesocardio
+- Faringe normal
+- Acné mínimo
+
+Laboratorios:
+- WBC: 13x10^3/\u00b5L
+- Neutrófilos: 9.7x10^3/\u00b5L
+- LDH: 266 mU/mL
+- PCR: 18 mg/dL
+- Orina: Infección negativa
+- ECG: Taquicardia sinusal
+- Radiografía de tórax: Normal
+- Aspirado de médula ósea: Malignidades hematológicas negativas
+- Cultivos de sangre: Streptococcus pyogenes positivo
+
+Imágenes:
+- Ecocardiograma transesofágico: Regurgitación mitral moderada, vegetaciones en la valva mitral posterior
+
+Diagnóstico: 
+- Endocarditis infecciosa - Streptococcus pyogenes
+- Involucramiento de la válvula mitral
+
+Plan:
+- Antibióticos empíricos: Amoxicilina/clavulanato + vancomicina
+- Ajustado a ceftriaxona (2g, dos veces al día) + ampicilina (12g/día) después de los resultados de cultivo
+- Monitorear la función cardíaca y la respuesta a los antibióticos
+- Admisión a Smith, Gonzales y Jarvis para el manejo continuo
+- Educación del paciente sobre la infección y el tratamiento
+- Seguimiento regular para monitorear la respuesta al tratamiento y la función cardíaca
+
+Dr. Lorenzo Villa
+Ingeniero, eléctrico"
+

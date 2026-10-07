@@ -1,0 +1,94 @@
+"Verpleegkundige Narratieve Notitie:
+
+Subjectief: 
+
+Patiënt Laura de Bruijn meldt intermitterende episodes van visuele verstoringen in het linkeroog, beschreven als wazig zien en een gevoel van verticale beweging. Deze episodes worden gemeld een paar keer per maand, elk duurt ongeveer 20-30 minuten. Bij deze visuele symptomen horen ernstige hoofdpijn aan de linkerkant en lichtgevoeligheid, die bijna onmiddellijk na het begin van de visuele verstoringen optreden. Patiënt merkt ook soortgelijke visuele vervaging op bij blootstelling aan zonlicht, die snel verdwijnt bij het sluiten van de ogen. De medische voorgeschiedenis van de patiënt omvat onbehandelde hoge bloeddruk, roken en aanzienlijk alcoholgebruik. Daarnaast is er een familiegeschiedenis van de ziekte van Parkinson, vermoedelijke orofaryngeale kanker en AGS-mutatie gekoppeld aan verschillende cardiovasculaire en neurologische manifestaties.
+
+Objectief: 
+
+Bij onderzoek werd bij de patiënt een hoge bloeddruk vastgesteld, met een meting van 168/98 mmHg. Andere bevindingen waren huidverkleuring in een netachtig patroon (livedo reticularis), een licht puntige kin, aortaregurgitatie en diffuse buikgevoeligheid. De buik van de patiënt vertoonde geen tekenen van bescherming, rigiditeit of hoorbare geruis. Eerdere symptomen van desoriëntatie, veranderd bewustzijn en tremor waren verbonden met focale aanvallen met verminderd bewustzijn.
+
+Beoordeling: 
+
+De primaire beoordeling geeft aan dat de linkse monoculaire transiënte ischemische aanvallen (TIA's) van de patiënt mogelijk verband houden met retinopathie met lage doorbloeding, gezien de visuele symptomen en snelle oplossing bij het sluiten van de ogen. Differentiële diagnoses omvatten focale aanvallen met verminderd bewustzijn en migraine-achtige episodes zonder typische migrainekenmerken. De familiegeschiedenis en persoonlijke medische voorgeschiedenis van de patiënt suggereren een genetische predispositie voor vasculaire en neurologische aandoeningen, mogelijk gekoppeld aan AGS-mutatie.
+
+Plan: 
+
+Het behandelplan zal zich richten op het beheersen van hypertensie door middel van passende medicatieaanpassingen en levensstijlveranderingen, waaronder stoppen met roken en vermindering van alcoholconsumptie. Verwijzingen naar een neuroloog voor verdere evaluatie van aanvalsactiviteit en een geneticus voor beoordeling van implicaties gerelateerd aan AGS-mutatie worden aanbevolen. Regelmatige vervolgafspraken zullen nodig zijn om de bloeddruk van de patiënt en de effectiviteit van het behandelplan te monitoren. Patiënteneducatie over de tekenen en symptomen van TIA's en het belang van levensstijlveranderingen zal worden verstrekt.
+
+[Kop]
+
+Patiënt ID: 153121 Jtp
+
+Dokter: Petra Visser
+
+Verpleegkundige: SbJF6rxY
+
+Datum: 19 december 2016
+
+Locatie: café
+
+[Voettekst]
+
+Contactinformatie:
+
+Telefoonnummer: 5263670410
+
+E-mail: ViPe@unhcr.org
+
+Noodcontactinformatie:
+
+Naam: Laura de Bruijn
+
+Relatie: Schade-inspecteur/beoordelaar
+
+Telefoonnummer: 5263670410
+
+Accountinformatie:
+
+Rekeningnummer: 91440 ZDwf
+
+Zorgplan: vFu1FY PNK1
+
+Informatie over het apparaat van de patiënt:
+
+Apparaat ID: 38-WDTxcLs
+
+Netwerkinformatie:
+
+IP-adres: 56.89.62.19
+
+Voertuiginformatie:
+
+Voertuig ID: VNZ 697
+
+Socialezekerheidsnummer: 013931293
+
+Licentienummer: OUWGrV HOH
+
+Biometrische identificatie: mEHUE-957x
+
+Persoonlijk ID-nummer: 91440 ZDwf
+
+Faxnummer: 329.599.7824x04002
+
+Adres van de patiënt:
+
+Adres: Laura de Bruijn, Gallup 193, 5061 Greenskeeper, België
+
+Stad: Diabolarchy
+
+Staat: 37
+
+Land: Nederland
+
+Postcode: 5061
+
+Ziekenhuisinformatie:
+
+Ziekenhuisnaam: United Alcock
+
+Organisatie: Mays, Schultz and Grant
+
+URL: johnson.woods-walsh.armstrong-mckee.net"
+

@@ -1,0 +1,54 @@
+"**Nota de Enfermagem**
+
+_Detalhes do Paciente:_
+- **ID do Paciente**: Sophia Melo
+- **MRN**: VjIAOC-74A
+- **Idade**: 32
+- **Admitido por**: Guilherme Fonseca
+
+_Informações de Contato:_
+- **Endereço Residencial**: Sophia Melo, Av Alves, 43 118, 1337 Rio Bananal, Portugal
+- **Contato Telefônico**: (732)579-1689
+- **Email**: Guilhereca@mail.com
+
+_Sinais Vitais e Observações:_
+- **PA**: 120/80 
+- **Frequência Respiratória**: 14
+- **Pulso**: 65
+
+_Status Atual:_
+
+Sintomas de impetigo notados. Desenvolvimento de feridas no rosto. Suspeita de infecção de pele. Antibióticos prescritos.
+
+_Exames Laboratoriais:_
+
+Solicitado hemograma completo, cultura de esfregaço de pele.
+
+_Procedimento & Dispositivo:_
+- **Procedimento**: Lb-QyLYios
+- **ID do Dispositivo**: 01934-2524
+
+_Outros detalhes:_
+- **Endereço IP** : 52.10.23.177
+- **ID do Hospital** : Zhangsun
+- **Plano de Saúde**: FyO3Pc
+
+_Comentários:_
+
+Condição do paciente melhorando. Seguimento agendado com médico de atenção primária. 
+
+-----------------------------------------------------------------------------------------------
+
+**Seção de Privacidade:**
+- **Provedor de Saúde**: Walton Group
+- **Nome de Usuário para Login**: hiaMelo
+- **Informações de Licença**: 478 zBOLdj
+- **Identificador Biométrico (hash de impressão digital)**: Cf-caAGMcn
+- **Número de ID Genérico**: Lb-QyLYios
+- **Segurança Social**: 796.790.138-12
+- **ID do Veículo (para evacuação de emergência)**: B00 0MJ
+
+-----------------------------------------------------------------------------------------------
+
+Esta Nota de Enfermagem está sujeita às regras e diretrizes de privacidade da organização de saúde. Qualquer acesso ou divulgação não autorizada de informações pode resultar em ação legal."
+

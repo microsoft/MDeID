@@ -1,0 +1,166 @@
+"Verpleegkundige Kras Notitie
+
+============================================
+
+| Korte Snapshot van Laurens de Vries |
+
+--------------------------------------------
+
+BP: 120/80 mmHg
+
+Pulse: 78 bpm
+
+Temp: 98.6°F
+
+Klachten: Rugpijn, consistent
+
+Observatie: Mogelijke 
+
+Behandeling:  onderweg
+
+============================================
+
+| Tabel Vitale Tekens |
+
+--------------------------------------------
+
+| Parameter | Waarde |
+
+|------------------|-------|
+
+| Hartslag      | 78 bpm |
+
+| Ademhalingsfrequentie | 18 bpm |
+
+| Bloeddruk   | 120/80 mmHg |
+
+| Lichaamstemperatuur        | 98.6°F |
+
+============================================
+
+| Huidige Toestand Kaart |
+
+--------------------------------------------
+
+Pijn oorsprong ontcijferen, vitale functies van Laurens de Vries monitoren. Cervicale spondylose suggereren.  in uitvoering.
+
+============================================
+
+| Notities over 86853-8047 |
+
+--------------------------------------------
+
+Monitoring apparaat ref#: 86853-8047
+
+============================================
+
+| Informatie van Laurens de Vries |
+
+--------------------------------------------
+
+Record Nummer: NfUI-058VO
+
+Account: 3918-hKnNg
+
+============================================
+
+| Contacten Zorgteam |
+
+--------------------------------------------
+
+Primaire Dokter: Renske Dijkstra
+
+Telefoon: 001-616-571-0588x59628
+
+Email: Rensjks@red-cross.org
+
+============================================
+
+| Persoonlijke Info van Laurens de Vries |
+
+--------------------------------------------
+
+Gebruikersnaam: Jbh38hOC
+
+DOB: 30-08-2013
+
+============================================
+
+| Adres |
+
+--------------------------------------------
+
+Adres: Laurens de Vries, Selectman 106, 7965 Enfiladed, Netherlands
+
+Locatie: theater
+
+============================================
+
+| Aanvullende Informatie |
+
+--------------------------------------------
+
+Voertuig: AVV-297
+
+Sociale Zekerheidsnr.: 144-0138945-83
+
+Licentie: Uty kMQENP
+
+============================================
+
+| Andere Identificaties |
+
+--------------------------------------------
+
+BioID: XBF-655DCh
+
+IP Adres: 108.177.225.51
+
+ID Nummer: 3918-hKnNg
+
+============================================
+
+| Demografie |
+
+--------------------------------------------
+
+Leeftijd: 7
+
+============================================
+
+| Status van Laurens de Vries |
+
+--------------------------------------------
+
+Ziekenhuis: Walpole
+
+Gezondheidsplan: I9q3
+
+============================================
+
+| Beroep |
+
+--------------------------------------------
+
+Beroep: Education administrator
+
+Organisatie: Bonilla, Conner and Johns
+
+============================================
+
+| Internet Details |
+
+--------------------------------------------
+
+URL: brewer-mcdowell.com
+
+Fax: 450-912-2174x58099
+
+============================================
+
+| Vertrouwelijke Notities |
+
+--------------------------------------------
+
+Ingevoerd door: Verpleegkundige , 30-08-2013"
+

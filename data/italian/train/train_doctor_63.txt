@@ -1,0 +1,34 @@
+"Appunto del Dottore
+
+Paziente: Salvatore Moretti, ID: pjC-SIFoRD, Età: 11
+
+S:
+Le lamentele includono febbre di 4 giorni, ulcere dolorose, gonfiore del cuoio capelluto. Appetito ridotto a causa dei sintomi. 
+
+O:
+Punteggio GCS: 15, Coscienza: Presente
+Ulcere: Presenti, Pus: Presente, Fistola: Presente, Desquamazione del cuoio capelluto: Sì, Gonfiore facciale: Sì
+Risultato del laboratorio: Neutropenia (WBC: 2.39 \u00d7 10^9/l, Neutrofili: 0.25 \u00d7 10^9/l, Linfociti: 2.1 \u00d7 10^9/l)
+Marcatori infiammatori: Elevati (ESR: 101 mm/ora, CRP: 272 mg/dl)
+Cultura del pus: Positiva (Enterococcus faecalis, Escherichia coli)
+Cultura del sangue: Negativa, Cultura delle urine: Negativa
+CXR: Normale, Analisi delle urine: Normale, Analisi del CSF: Normale
+Immunoglobuline: Normali, % di cellule T: Normale
+Midollo osseo: Arresto della maturazione dei promielociti/mielociti, Nessuna malignità
+CT Head: Enfisema sottocutaneo, Cuoio capelluto: Positivo, Lesioni cerebrali: No, Fratture del cranio: No
+
+A:
+Diagnosi primaria: Fascite necrotizzante del cuoio capelluto, Setticemia
+Altre eziologie infettive: Escluse
+
+P:
+Trattamento: Pentaglobina (0.5 g/kg), Antibiotici (Vancomicina, Meropenem, Metronidazolo)
+Terapia G-CSF: Sì (5 a 15 \u00b5g/kg/giorno)
+Dimissione: Dopo 46 giorni
+Follow-up: Monitoraggio regolare del conteggio dei neutrofili e dello stato di salute generale
+
+Cura da: Gaia Neri, Licenza: 32417 btXp, Ospedale: Bruins
+
+Contatto via: Telefono 598-434-0759x92366, Email: ari@aol.com
+"
+

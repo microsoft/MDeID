@@ -1,0 +1,70 @@
+"Notas Rápidas da Enfermeira:
+
+-----------
+- Obs. do Pt.:
+  Ana Ramos 
+  Dx: Doença do refluxo gastroesofágico (DRGE)
+  Sx: Azia, Indigestão. 
+
+- Sinais vitais:
+  PA: 112/70 
+  FC: 78
+  Temp: 98.6\u00b0F
+
+- Trat. Admin.:
+  Antiácidos, IPPs.
+
+-----------
+- Detalhes Contextuais:
+  Ptr Engenheiro de controle e instrumentação trabalha na Ochoa-Castillo. Mora em Ana Ramos, Av da Fonte da Moura, 31 13, Biofog, Ribeir U00e3o - 61, 9O0R1IAO, Brasil. 
+  Dr. Thiago Souza supervisionando. 
+
+-----------
+- Informações de Contato.:
+  Telefone: 3216924263 
+  Email: zhi@microsoft.org 
+  Contato de Emergência: Ana Ramos
+
+-----------
+- Informações de Saúde.:
+  Seguro: BazPbZ
+  Hospital de Adm.: Fox Hill 
+  Número do Prontuário Médico: 127991-TNw 
+
+-----------
+- Informações do Dispositivo.:
+  ID do Dispositivo: 6698 juddD 
+
+-----------
+- Outros Identificadores:
+  Seg. Social: 194.320.284-29 
+  Num da Conta: vJX-wHVwCG 
+  Endereço IP: 133.34.94.215 
+  Usuário: ASmVslpQ
+
+-----------
+- Informações de Bio-ID & Veículo.:
+  Bio-ID: VJi-aowDvw 
+  ID do Veículo: 4U 9W3OVH
+
+-----------
+- Informações de Localização.:
+  Outra Localização: shopping 
+
+-----------
+- Informações de Licença & Fax.:
+  Num. da Licença: TfFkQ 1781
+  Fax: +1-977-376-2456x189
+
+-----------
+- Informações de ID.:
+  ID: vJX-wHVwCG 
+
+-----------
+- Informações de Idade & URL.:
+  Idade: 82 
+  URL: http://www.kidd.com/category/appprivacy.php
+
+-----------
+"
+

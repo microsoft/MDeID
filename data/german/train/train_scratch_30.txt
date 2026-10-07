@@ -1,0 +1,57 @@
+"Pflegekratznotiz: Impetigo Mittwoch, 15. Mai 2013
+
+--------------------
+**Patientenprofil**
+- Name: Levi Zimmermann
+- Alter: 71
+- Adresse: Levi Zimmermann, Grafgasse 1 108, 0180 Vaterstetten, Deutschland
+- Kontakt: +1-353-380-4739/ olis@unicef.org
+- Notfallkontakt: +1-353-380-4739
+- Medizinische Aktennummer: GT xLRBjQG
+- Kontonummer: drz-EQGdBn
+- Gesundheitsplan: HRMDUC
+- Krankenhaus: St. Adalbert Catholic Cemetery
+--------------------
+
+**Klinischer Überblick**
+- Dermatologischer Zustand: Impetigo
+- Hautausschlag mit Blasen beobachtet
+- Betroffenes Gerät: N/A
+- Benutzername des Patienten für Hautgesundheitsforum: D3rnJ7xJ
+
+**Vitalwerte**
+- Temperatur: 98.6\u00b0F
+- Puls: 80 Schläge/min
+- Atmung: 16 Atemzüge/min
+- Blutdruck: 120/80 mmHg
+
+**Weitere Beobachtungen**
+- Ausschlagstelle: Nicht angegeben, Maske mit Theater
+- BIOID: Nicht verfügbar
+- IP-Adresse der Telehealth-Verbindung des Patienten: 167.245.106.222
+
+**Geplante Interventionen**
+- Verschreibung von topischen Antibiotika
+- Beratung zur Sauberkeit und Trockenheit der Haut
+- Nachsorge in 1 Woche
+
+**Überweisungen**
+- Dermatologe: Dr. Roland Fischer
+- Beratungstermin am: Mittwoch, 15. Mai 2013
+- Beratungs-URL: wang-simmons.hurst-wilson.biz
+
+**Zusätzliche Notizen**
+- Patient arbeitet für: Davis-Nguyen
+- Beruf des Patienten: IT-Technischer Supportmitarbeiter
+- IDNUM: drz-EQGdBn
+- Fahrzeugdetails für den Krankentransport: OQ9 W6G
+- Führerscheinnummer des Patienten: PGwWf 26TB
+- Sozialversicherungsdetails: 283-0158530-08
+- Land des Patienten: Schweiz
+- Stadt des Patienten: Ni
+- Postleitzahl: 0180
+- Fax für medizinische Dokumente: 001-439-912-1410
+
+--------------------
+Dokument ausgestellt von: Krankenschwester Roland Fischer"
+

@@ -1,0 +1,58 @@
+"**NOTA DI INFERMIERISTICA**
+
+**Dettagli del paziente**
+Chiara Widmer
+98
+Chiara Widmer, 501 Sanchez Fall 17, 8887 Siponto, Svizzera
++1-781-233-6099
+
+**Segni vitali**
+BP: 130/85
+Pulse: 75
+Temp: 36.5 C
+Respiration: 20
+
+**Reclamo**
+1. Crampi ai polpacci (Varicose stazione ferroviaria)
+
+**Osservazioni**
+1. Vene dilatate negli arti inferiori
+2. Nessuna ulcera visibile
+
+**Trattamento**
+Medicazione: 
+Dosaggio: 20mg al giorno
+Appuntamento di follow-up: 16 lug 2019
+
+**Team sanitario**
+Medico Primario: Laura Baumann
+Infermiera: iaradme
+
+**Storia medica**
+Ultima visita ospedaliera: www.lafuriaumana.it, 16 lug 2019, FK ZraGnpY
+Piano sanitario: z6To gVH1OZEX
+
+**Informazioni aggiuntive**
+Indirizzo IP del login del paziente: 187.55.53.136
+Numero del dispositivo per il pacemaker: Bzy-447569
+
+**Dettagli di contatto**
+Contatto di emergenza: Chiara Widmer
+Numero di contatto: +1-781-233-6099
+Email di contatto: umannLau@yandex.com
+
+**Informazioni strutturate**
+Licenza professionale del medico primario: ZU-RMzxthW
+Numero di conto del paziente: 1710 Jloic
+Identificatore personale: 1710 Jloic
+Numero di previdenza sociale: 857022-8962
+Hash biometrico dell'impronta digitale del paziente per il login sicuro: uo dOhlNJu
+
+**Informazioni non strutturate**
+Il paziente lavora per: Morton-Fisher
+Ultimo veicolo utilizzato dal paziente: B33-WZU, Targa: ZU-RMzxthW
+URL per accedere al portale sanitario online del paziente: https://www.torres.com/tagsprivacy.htm
+Numero di fax per l'invio di referti medici: (889)568-4707x9767
+
+**Nota**: Condizione del paziente stabile. Prossima revisione il 16 lug 2019.
+

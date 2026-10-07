@@ -1,0 +1,57 @@
+"NURSE SCRATCH NOTE
+
+### Patient Details
+
+- Patient: Charlotte Robinson
+- Age: 80-year
+- City: Nonparabolic
+- State: 62
+- Country: Australia
+- Address: Charlotte Robinson, 94 Echinodermatous, Merciless 62 0022, Australia
+- Phone: 001-636-791-4761x7964
+- Email: ummero@mail.com
+- Health Plan: kQlfixuzZ
+
+----
+
+---- VITALS ----
+BP: 125/85 mmHg
+HR: 85 bpm
+Respiratory Rate: 16 breaths/min
+
+---- OBSERVATIONS ----
+- Skin: Rash/irritation (especially on lower limbs)
+- Glucose: 170 mg/dL (High)
+
+---- NURSE NOTE ----
+Skin condition prevalent. Correlates with high glucose - possible diabetes. 
+
+Contact:
+Dr. Summer Thompson
+Location: Montagu Square
+
+---- OTHER INFORMATION ---- 
+- BioID: 13-9224PXk
+- Device: 954323-486
+- Medical Record: ff 3756kxP
+- Account: yOTIB QgCm
+- SSN: 621-725-907
+- License: bRHL-eRuyd
+- Vehicle: 617-WFE
+- IP Address: 221.23.201.138
+- ID Number: yOTIB QgCm
+- Username: JDdG0NFF
+- Zip: 0022
+- Fax: +1-582-422-9113
+
+### Next Steps
+Referral to Summer Thompson for further evaluation. Location of concern: airport.
+
+### Profession and Organization 
+Profession: Metallurgist
+Organization: Bennett Ltd
+
+--------
+
+End of Note."
+

@@ -1,0 +1,58 @@
+"**Kratznotizen**
+
+-------------------------------------------------
+| Illinois Central Hospital                                 |
+-------------------------------------------------
+| Patienten Code: Sara Brunner                     |
+| Medizinische Aufzeichnung: qhI-933IsO                 |
+| Arzt: Lara Seidel                               |
+| Gesundheitsplan: 5AX                   |
+| Kontakt: (416)997-0299                            |
+| Email: ae@icloud.com                              |
+-------------------------------------------------
+
+**Beschwerden**
+- Nackenschmerzen
+- Gleichgewichtsprobleme
+
+**Beobachtung**
+BP: 120/80
+HR: 86 BPM
+
+**Eindrücke**
+- Zervikale Spondylose 
+
+-------------------------------------------------
+| **Zusätzliche Informationen**                         |
+-------------------------------------------------
+| Geburtsdatum: 92                                  |
+| Adresse: Sara Brunner, Raissa-Trüb-Ring 82 10, 5728 Trento, Schweiz                          |
+| Persönliche ID: QSrG 24629                        |
+| Sozialversicherungsnummer: 681-2563630-77                       |
+| Gerät: eMF aHuTXb                            |
+| BioID: KD 615327u                              |
+| IP: 181.39.148.7                             |
+| Lizenz: 508149-395                          |
+| Benutzername: uq85xGGl                        |
+| Fahrzeug: U04 2ID                          |
+| Organisation: Waters-Clements                         |
+| Beruf: Ingenieur, Luft- und Raumfahrt                    |
+| Standort-Andere: Strand            |
+| URL: smith.cobb.com                                  |
+| Fax: +1-957-941-1964x8346                                  |
+-------------------------------------------------
+
+**Bewertung**
+- Erfahrung von Nackenschmerzen und Gleichgewichtsproblemen, Verdacht auf zervikale Spondylose. Schmerzen werden mit Medikamenten behandelt und Physiotherapie vorgeschlagen. Nachsorge erforderlich.
+
+**Plan**
+- Nacken-MRT
+- Physiotherapie
+- Regelmäßige Überwachung der Vitalfunktionen
+
+-----------------------------------------------------------------------------
+Hinweis: Betonen Sie den Komfort des Patienten und eine angemessene Erklärung der Krankheit. Informieren Sie den Patienten über die Wichtigkeit der Physiotherapie. Nachsorge mit Lara Seidel.
+-----------------------------------------------------------------------------
+
+_Notiz erstellt von uq85xGGl im Illinois Central Hospital._"
+

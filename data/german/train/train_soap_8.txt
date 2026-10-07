@@ -1,0 +1,24 @@
+"S: Patient Pierre Simon, mit einer Vorgeschichte von Sigmoid-Volvulus, der mit Laparotomie, Entwirrung Sigmoidopexie und elektiver Sigmoidektomie behandelt wurde, präsentiert Symptome, die am 02.01.89 beginnen, einschließlich abdominaler Distension, Verstopfung und Erbrechen, die seit 02.01.89 andauern, gefolgt von starken Bauchschmerzen seit 02.01.89. Der Patient berichtet auch über wiederkehrende Verstopfung, die mit rezeptfreien und traditionellen Medikamenten behandelt wurde. Es wurde keine signifikante Familien-, Drogen- oder Sozialgeschichte an Dr. Axelle Claessens berichtet.
+
+O: Die körperliche Untersuchung ergab, dass der Patient krank, aber nicht blass, ikterisch oder fieberhaft aussah. Die Vitalzeichen umfassten eine Pulsmessung vom Gerät 725282-816, Blutdruckmessung mit dem Gerät 725282-816, Atemfrequenzmessung mit dem Gerät 725282-816 und eine Temperatur von 38,8°C. Der Bauch war stark aufgebläht mit vollen Flanken, einer Mittellinien-Narbe, sichtbar erweiterten Darmschlingen und Peristaltik, mit Schmerzen im gesamten Bereich und ohne Darmgeräusche. Eine digitale rektale Untersuchung zeigte einen 3. Grades Hämorrhoiden und einen leeren Rektum. Laborbefunde wurden per E-Mail ael@yahoo.com geteilt, die Hb 13 g/dl, WBCs 14 × 109/L, PLTs 305 × 109/L, normales Nierenprofil und Serum-Elektrolyte, Blutzucker 193 mg/dl und unauffällige Urinuntersuchung zeigten. Ein abdominales Röntgenbild zeigte einen typischerweise erweiterten Omega-förmigen Dickdarm.
+
+A: Die primäre Diagnose ist eine strangulierte Darmobstruktion, wobei der adhäsive Typ als die wichtigste Differentialdiagnose gilt. Ein wiederkehrender oder anderweitiger Volvulus wird als entfernte Möglichkeit betrachtet. Die Symptome und Bildgebung des Patienten, gespeichert unter URL porter.org, stimmen mit dieser Beurteilung überein, und die Vorgeschichte von vorherigen abdominalen Operationen erhöht die Wahrscheinlichkeit einer adhäsiven Obstruktion.
+
+P: Die sofortige Behandlung umfasst die Absaugung mit einer NG-Röhre und die intravenöse Flüssigkeitsresusitation zur Optimierung des allgemeinen Zustands des Patienten. Eine genaue Überwachung des Zustands des Patienten wird notwendig sein, um weitere Behandlungsoptionen für die Darmobstruktion zu entscheiden. Regelmäßige Nachuntersuchungen, mit der Krankenakte Nummer UuWV mfQJo, und sofortige Meldung von Veränderungen in den Symptomen oder dem Zustand werden empfohlen, um die Behandlung nach Bedarf zu verwalten und anzupassen, durch Kommunikation über die Telefonnummer 8973727046 oder Faxnummer +1-402-745-2465x63074. Die Behandlung wird durch den Gesundheitsplan des Patienten sxMA qOuG abgedeckt. Der Patient befindet sich an Bushaltestelle und wird zur weiteren Behandlung ins Krankenhaus SSRN transportiert.
+
+Zusätzliche PHI-Platzhalter:
+- Das Alter des Patienten ist 84.
+- Der Patient wohnt in Pierre Simon, Hebenstreitgasse 2/5 152, 8788 Malvern, Deutschland.
+- Der Patient ist Mitglied der Organisation Jackson, Sullivan und Gillespie.
+- Der Beruf des Patienten ist Konservator, Möbel.
+- Die Sozialversicherungsnummer des Patienten ist 449344-8635.
+- Die Lizenznummer des Patienten ist PAA WkjEHk.
+- Der Patient hat einen biometrischen Identifikator tqMM pLkNU.
+- Die IP-Adresse des Patienten ist 201.11.80.218.
+- Die ID-Nummer des Patienten ist 850675 077.
+- Die Kontonummer des Patienten ist 850675 077.
+- Der Benutzername des Patienten ist rremon.
+- Das Fahrzeug des Patienten ist 975 LZU.
+- Der Patient wohnt in der Stadt Herblay, Bundesland 4, Land Belgien.
+- Der Patient wohnt in der Straße 700 Ashley Club, Postleitzahl 8788."
+

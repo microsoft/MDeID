@@ -1,0 +1,38 @@
+"Patient Care Report
+
+[DISPATCH]: Dispatch Jones Ltd received a 911 call from a local resident Troy Cate. The unit A80 1MY responded to the dispatch call.
+
+[RESPONSE]: Upon arrival on the scene gym, we were met with the patient Troy Cate complaining of a severe rash on their skin. The patient Troy Cate was in a moderate state of distress.
+
+[HISTORY OF PRESENT ILLNESS]: The patient Troy Cate explained that the rash had begun several days ago. Symptoms have been progressively worsening and now accompanied by a moderate fever. The patient Troy Cate stated that the rash was quite severe and itchy, leading to the decision to call 911. Previous medical history was obtained from the patient Troy Cate. The patient Troy Cate could not provide any known allergies. 
+
+[ASSESSMENT - PRIMARY]: The patient Troy Cate was conscious and alert. Skin examination revealed widespread rash, blisters, and red spots, consistent with potential Varicella, commonly known as chickenpox. The patient Troy Cate's vital signs were taken and documented as follows: (these vitals should not indicate any critical conditions but can show a slightly elevated temperature).
+
+[ASSESSMENT - SECONDARY]: On further examination, it was evident that the rash was distributed across the entire body. Itching was apparent, and the patient Troy Cate appeared uncomfortable due to a persistent fever.
+
+[TREATMENT]: The patient Troy Cate was treated with appropriate antipyretic medication 978584-YWa on the scene to alleviate the fever. The patient Troy Cate was also advised not to scratch the rash to prevent any secondary skin infections.
+
+[TRANSPORT]: The patient Troy Cate was then transported to the hospital Iława without delay for further evaluation and treatment. Due to the contagious nature of the suspected condition, necessary precautions were taken during transportation. 
+
+[OVERVIEW]: Upon arrival at the hospital Iława, the patient Troy Cate's care was transferred to the emergency department doctor Harrison Ryan. The medical report was handed over to the attending doctor Harrison Ryan and the patient Troy Cate was admitted to the hospital Iława for further treatment.
+
+[DOCUMENTATION]: The patient Troy Cate signed a consent form for emergency treatment. This report was prepared by the attending emergency medical technician. 
+
+[NAME]: CateTro
+[EMAIL]: anrris@msf.org
+[DOB]: 5/25/83
+[PHONE]: 252.650.4525
+[SEX]: ihshh wMSg
+[SSN]: 403-938-011
+[ADDRESS]: Troy Cate, 116 Sexivalence, Rites, 87 9450, United States
+[CITY]: Rites
+[ZIP]: 9450
+[STATE]: 87
+[COUNTRY]: Australia
+[ACCOUNT]: 6687-5296x
+[IDNUM]: 6687-5296x
+[IPADDRESS]: 17.120.222.45
+[LICENSE]: eHjOn CKaa
+[URL]:  key.com/tag/tags/explorecategory.html
+[FAX]: 506.284.8785x7441"
+

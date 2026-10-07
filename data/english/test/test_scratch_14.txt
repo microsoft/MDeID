@@ -1,0 +1,36 @@
+"```
+                *** SCRATCH NOTE ***
+
+PATIENT: Ella Harlen
+AGE: 2
+PRESENTING ISSUES:
+- Frequent urination
+- Difficulty urinating 
+
+VITALS:
+BP: 130/85 mmHg
+Temp: 98.7 F
+Pulse: 78 bpm
+
+NOTES:
+- Signs suggest urinary tract infection
+- Lab tests requested
+- LK-Icymntq to be accessed for medical history
+- enElla mentioned for website login
+- rons@yandex.com needed for test results notification 
+
+CONTACT:
+- Emergency contact: 731-889-2799
+- Home address: Ella Harlen, 171 Nonfeasor, Dekameters, 34 1215, Canada
+- Physician in charge: Jessie Cameron
+
+ADDITIONAL INFO:
+- Preferred healthcare provider: j7o
+- Last hospital visit: Plumbers
+- Account standing: rO-490bQjw
+- Device serial (if any): 494 asSqVD
+
+-END OF SCRATCH NOTE-
+```
+This synthetic document does not contain any Personal Health Information (PHI)."
+

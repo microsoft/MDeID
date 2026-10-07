@@ -1,0 +1,67 @@
+"**Nota de Enfermería**
+
+---------------------------------------------------------------
+**Informe del Paciente**
+- Şəhla Yaşarlı
+- Historial Médico: lDozLY-HPw
+- Edad: 67
+
+**Estadísticas Vitales**
+- Presión arterial: 130/85 mmHg
+- Pulso: 75 lpm
+- Respiración: 20 lpm
+- Temperatura: 37.0 C
+
+**Progreso del Tratamiento**
+- Se queja de dificultad para respirar, sospecha de asma bronquial.
+---------------------------------------------------------------
+
+**Observación**
+- Inspección de la piel: Normal
+- Palpación del pecho: Normal
+- Auscultación de los pulmones: Se escucha sibilancias
+
+**Investigaciones y Resultados**
+- Prueba Espirométrica: Pendiente
+- Medidor de Flujo Máximo: Pendiente
+---------------------------------------------------------------
+
+**Medicamentos Prescritos**
+- Broncodilatador: A ser administrado según orden del médico
+- Esteroides: A ser administrado según orden del médico
+
+**Miscelánea**
+- Plan de Salud: WzMow6 ecPUGd 3AWdr8b
+- Hospital: Berkeley Boalt Hall
+- Doctor: Eduardo Montoya
+
+**Próximos Pasos**
+- Informar al médico para la prueba de espirometría
+- Administrar broncodilatadores y monitorear la respuesta
+- Mantener el medidor de flujo máximo al lado de la cama
+
+**Contacto de Emergencia**
+- Teléfono: 898.352.4245
+- Correo electrónico: Edun@who.int
+
+---------------------------------------------------------------
+**Recordatorio y Recordatorio**
+- Nombre de usuario del paciente: m2e8MwOO
+- Número de serie del dispositivo: 3792 20057
+- Cuenta: 727576-970
+- Seguridad Social: 29.425.780
+
+---------------------------------------------------------------
+**Pie de página**
+- Licencia: GSFM-QbciO
+- ID Biológica: ZDY 8581hF
+- Dirección IP: 216.9.101.187
+- Ubicación: farmacia
+- Vehículo: 330 0681
+- Número de ID: 727576-970
+- Dirección: Şəhla Yaşarlı, Prolongación Soliz 273 Interior 074, 7, 7652 Zarzal, Spain
+- Profesión: Profesor de música
+- Organización: Chase, Brown and Jones
+- Fax: 7888280050
+---------------------------------------------------------------"
+

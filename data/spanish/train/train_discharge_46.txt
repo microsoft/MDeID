@@ -1,0 +1,45 @@
+RESUMEN DE ALTA
+=====================
+**Paciente**: Sonia Guerrero
+**Historia Clínica**: 80 346843W
+**Admisión**: 20/12/7915 dic 199018/3/15
+**Alta**: 20/12/7915 dic 199018/3/15
+**Disposición de Alta**: Hogar con cuidado de seguimiento
+
+**MÉDICO DE ATENCIÓN PRIMARIA**: Dr. Carlos Franco
+
+**MOTIVO DE HOSPITALIZACIÓN**
+Este resumen pertenece a Sonia Guerrero quien fue hospitalizada debido al empeoramiento de los síntomas de encefalopatía, marcados por falta de coordinación, asterixis, hemorragia y somnolencia.
+
+**CURSO HOSPITALARIO**
+Sonia Guerrero fue inicialmente admitida en un estado somnoliento con signos evidentes de falta de coordinación y asterixis. Al examinarla, también había signos de hemorragia. Esto llevó al diagnóstico de encefalopatía. La paciente se sometió a numerosas consultas, procedimientos diagnósticos y tratamientos durante la estancia hospitalaria.
+
+**DIAGNÓSTICO DE ALTA**
+Diagnóstico Principal: Encefalopatía 
+
+**CUIDADO, TRATAMIENTO Y SERVICIOS PROPORCIONADOS**
+Durante la hospitalización, la paciente fue tratada con terapia medicamentosa, apoyo nutricional y fisioterapia para mantener la movilidad.
+
+**CONDICIÓN DE ALTA**
+Al momento del alta, la condición de Sonia Guerrero había mejorado pero requiere manejo continuo. La paciente está lúcida, móvil con asistencia, y los episodios de hemorragia han disminuido significativamente.
+
+**INFORMACIÓN PARA EL PACIENTE Y LA FAMILIA**
+Se explicó a la paciente y a la familia en detalle el diagnóstico, la necesidad de medicación y manejo de síntomas continuos, y los signos de advertencia que requieren atención médica inmediata.
+
+**PROVISIONES PARA EL CUIDADO DE SEGUIMIENTO**
+Se ha programado una cita de seguimiento con el Dr. Carlos Franco para el 20/12/7915 dic 199018/3/15 en el All Hallows. Se ha aconsejado al paciente y a la familia que mantengan una estricta adherencia al régimen de medicación.
+
+**MEDICAMENTOS DE ALTA**
+Se ha proporcionado a la paciente y a la familia una receta para el medicamento para manejar los síntomas de la encefalopatía y otras terapias de apoyo.
+
+**INSTRUCCIONES DE ALTA DEL HOSPITAL**
+Se aconseja a Sonia Guerrero que descanse adecuadamente, siga el horario de medicación y monitoree los síntomas. En caso de cualquier complicación, deben contactar inmediatamente al hospital.
+
+**SIGNOS VITALES AL ALTA**
+Temperatura: 98.6°F
+Frecuencia Cardíaca: 80 lpm
+Presión Arterial: 120/80 mmHg
+
+El resto del equipo médico y yo deseamos a Sonia Guerrero una pronta recuperación.
+
+**Médico**: Dr. Carlos Franco

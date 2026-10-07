@@ -1,0 +1,42 @@
+"**Kopfzeileninformationen:**
+
+- Patient: Paul Schneider
+- Krankenakte: XTtv tRNWr
+- Konto: 20680-92HX
+- Aufnehmender Arzt: Dorian De Backer
+- Kontakt-E-Mail: eean@yahoo.com
+- Notfallkontakttelefon: +1-631-534-1308
+- Adresse des Patienten: Paul Schneider, Itenstrasse 49 183, 5234 Bismark, Österreich
+- Aufnehmendes Krankenhaus: linebacker
+- Gesundheitsplan: iRSLPANT 6XLXk3
+- Aufnahmedatum: Mittwoch, 26. September 1990
+
+**Krankenschwester Notiz:**
+
+Subjektiv: Patient Paul Schneider stellte sich mit einer 73 Geschichte von Ödemen in den unteren Extremitäten und Dyspnoe vor, sowie einer 73 Geschichte von intermittierender abnormaler vaginaler Blutung. Der Patient berichtete über eine symptomatische Verbesserung nach der Perikardiozentese.
+
+Objektiv: Die Erstbewertung zeigte Hypoxämie mit einer Sauerstoffsättigung von 80% bei Raumluft, Tachykardie, Hypotonie und verminderte Herzgeräusche. Es wurde eine links supraclaviculäre Lymphadenopathie festgestellt. Eine Röntgenaufnahme des Thorax zeigte eine erweiterte Herzsilhouette und bilaterale Pleuraergüsse. Die Perikardiozentese entleerte 500 mL blutige Sekretion. Die Zytologie der Pleuraflüssigkeit war positiv für ein schlecht differenziertes Karzinom. Eine Exzisionsbiopsie des linken supraclaviculären Lymphknotens bestätigte ein metastasierendes Plattenepithelkarzinom. Eine Zervixbiopsie zeigte ein Plattenepithelkarzinom mit einer intraepithelialen Hochgradläsion. Der CA-125-Spiegel war mit 335,5 IU/mL erhöht. Eine Becken-MRT zeigte keine uterine oder zervikale Tumormasse, bestätigte jedoch eine Peritonealkarzinomatose.
+
+Bewertung: Die primäre Diagnose ist ein metastasierendes Plattenepithelkarzinom mit Komplikationen, einschließlich Perikard- und Pleuraergüssen, die zu hämodynamischer Instabilität und Atemversagen führen. Anfänglich in Betracht gezogene Differentialdiagnosen umfassten andere Formen von metastasierenden Krebsarten.
+
+Plan: Die Behandlung wurde mit Chemotherapie mit Carboplatin und Paclitaxel eingeleitet. Wiederholte Perikardiozentesen wurden aufgrund wiederkehrender Perikard- und Pleuraergüsse angeboten, aber der Patient lehnte weitere Perikardiozentesen ab. Eine intraperikardiale Sklerotherapie wurde in Betracht gezogen, aber aufgrund mangelnder Erfahrung der Einrichtung nicht durchgeführt. Der Zustand des Patienten verschlechterte sich, was zum Tod 73 nach der Erstvorstellung führte.
+
+**Fußzeileninformationen:**
+
+- Standort des Patienten: Bibliothek
+- Stadt des Patienten: Elsbethen-Glasenbach
+- Bundesland des Patienten: Prenzlauer Berg
+- Land des Patienten: Belgien
+- Postleitzahl des Patienten: 5234
+- Sozialversicherungsnummer des Patienten: 914070-6544
+- Führerschein des Patienten: 96429-1497
+- BioID des Patienten: 35922-cWig
+- IP-Adresse des Patienten: 192.8.98.4
+- ID-Nummer des Patienten: 20680-92HX
+- Fahrzeug des Patienten: PER 652
+- Beruf des Patienten: Designer, Fernseh-/Filmset
+- Organisation des Patienten: Graham, Floyd und Gonzales
+- Benutzername des Patienten: Kj0qHtnw
+- URL des Patienten: lopez.obrien.kelly-bowman.com
+- Fax des Patienten: 383-971-7132x703"
+

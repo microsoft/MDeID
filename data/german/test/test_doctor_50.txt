@@ -1,0 +1,45 @@
+"Arzt Kratz Notiz
+
+Patient: Tom Winter 
+ID: DN-248XzzE 
+Alter: 1 
+Arzt: Florence Charlier 
+Medizinische Rekordnummer: rHVFnh-237
+
+Vorgebrachte Beschwerden:
+- Chronische Schwellung der unteren Gliedmaßen: Dauer - ca. 6 Monate
+- Atemnot: Dauer - ca. 6 Monate
+- Intermittierende abnormale vaginale Blutungen: Dauer - ca. 3 Monate
+
+Beobachtungen:
+- Sauerstoffsättigung: 80% (Raumluft)
+- Herzfrequenz: Erhöht (Tachykardie)
+- Blutdruck: Niedrig (Hypotonie)
+- Bemerkung: Verminderte Herzgeräusche
+- Links supraclaviculäre Lymphadenopathie vorhanden
+- Röntgenaufnahme des Brustkorbs: Vergrößerte Herzsilhouette, beidseitige Pleuraergüsse
+- Perikardiozentese: 500 mL blutige Sekretion abgelassen
+- Pleuraflüssigkeitszytologie: Schlecht differenziertes Karzinom
+- Links supraclaviculäre Lymphknotenbiopsie: Metastasierendes Plattenepithelkarzinom
+- Zervixbiopsie: Plattenepithelkarzinom (intraepitheliale Hochgradläsion)
+- CA-125-Spiegel: 335,5 IU/mL
+- Becken-MRT: Kein Uterus- oder Zervixtumor, bestätigte Peritonealkarzinomatose
+
+Bewertung:
+- Metastasierendes Plattenepithelkarzinom
+- Komplikationen: Perikard- und Pleuraergüsse, hämodynamische Instabilität, Atemversagen
+- Differenzialdiagnosen: Andere Formen von metastasierenden Krebsarten (ausgeschlossen)
+
+Plan:
+- Chemotherapie: Carboplatin, Paclitaxel
+- Wiederholte Perikardiozentese angeboten (Patientenverweigerung)
+- Intraperikardiale Sklerotherapie in Betracht gezogen (nicht durchgeführt - Mangel an Einrichtungserfahrung)
+- Verschlechterter Zustand, führte zum Tod am Tag 46 nach der ersten Vorstellung
+
+Kontaktinformationen:
+Telefon: +1-592-982-1764x50237
+E-Mail: iere@hotmail.com
+Krankenhaus: Lyme
+Adresse: Tom Winter, Daniel-Gratzer-Platz 35 50, 3436 Neumünster, Schweiz
+"
+

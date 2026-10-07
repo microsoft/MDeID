@@ -1,0 +1,92 @@
+"Nota de Enfermagem
+
+--- Caso do Paciente 90-EOyBfed---
+
+Paciente: Janaina Barbosa
+
+Idade: 107
+
+ID Biométrico: Oeoy-2911V
+
+Conta: 056203 ZWi
+
+Dispositivo Médico: dfNXDk-73G
+
+Localização-Outra: cafeteria
+
+Endereço: Janaina Barbosa, Rua de Macedo, 6 175, Haggadical, Pirapozinho - 97, DTCP7F68, Brasil
+
+Hospital: Reichsgau
+
+--- Sinais Vitais ---
+
+PA: 128/80
+
+Pulso: 72
+
+Temp: 98.6F
+
+Resp: 16
+
+O2Sat: 98%
+
+--- Observações da Enfermeira ---
+
+Ganho de peso alto em pouco tempo notado. Preocupações com fadiga, intolerância ao esforço. Sem sinais visíveis de trauma.
+
+---Informações Médicas---
+
+Possível reação a medicamento...? A ser confirmado por Bruna Ferreira.
+
+Atualmente no pKiHuJ 04g.
+
+--- Informações Diversas ---
+
+Nome de usuário: YdGLNUyW
+
+Endereço IP: 177.211.160.112
+
+Licença: aI-9590fBA
+
+Veículo: 3JZ 187
+
+--- Informações de Contato ---
+
+Telefone: 001-881-318-5976x2253
+
+Email: raun@unhcr.org
+
+URL: mendoza.brown-strong.jones-kelly.com
+
+Fax: (666)561-1769x37563
+
+--- Contato de Emergência ---
+
+Nome: Janaina Barbosa
+
+Relação: 
+
+Telefone: 001-881-318-5976x2253
+
+--- Outros ---
+
+IDNUM: 056203 ZWi
+
+SEGURANÇA SOCIAL: 85726988-1
+
+PROFISSÃO: Arquivista
+
+ORGANIZAÇÃO: Nolan, Roy and Blackburn
+
+CIDADE: Pirapozinho
+
+PAÍS: Brasil
+
+ESTADO: 11
+
+RUA: 3385 Sheila Locks
+
+CEP: DTCP7F68
+
+--- Fim da Nota ---"
+

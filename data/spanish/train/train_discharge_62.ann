@@ -1,0 +1,22 @@
+T1	HOSPITAL 56 81	London 's cancer hospital
+T2	HOSPITAL 81 106	London 's cancer hospital
+T3	PATIENT 147 160	Eduardo Núñez
+T4	PATIENT 257 270	Eduardo Núñez
+T5	PATIENT 366 379	Eduardo Núñez
+T6	HOSPITAL 421 446	London 's cancer hospital
+T7	HOSPITAL 446 471	London 's cancer hospital
+T8	PATIENT 868 881	Eduardo Núñez
+T9	PATIENT 952 965	Eduardo Núñez
+T10	DOCTOR 1075 1091	Catalina Herrero
+T11	PATIENT 1244 1257	Eduardo Núñez
+T12	HOSPITAL 1264 1289	London 's cancer hospital
+T13	HOSPITAL 1289 1314	London 's cancer hospital
+T14	PATIENT 1576 1589	Eduardo Núñez
+T15	DOCTOR 1694 1710	Catalina Herrero
+T16	PATIENT 1783 1796	Eduardo Núñez
+T17	PATIENT 2072 2085	Eduardo Núñez
+T18	EMAIL 2234 2247	Cro@unhcr.org
+T19	PATIENT 2251 2264	Eduardo Núñez
+T20	DOCTOR 2311 2327	Catalina Herrero
+T21	MEDICALRECORD 2410 2420	0743 4003F
+T22	PATIENT 2442 2455	Eduardo Núñez

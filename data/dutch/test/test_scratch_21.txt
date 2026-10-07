@@ -1,0 +1,62 @@
+"\ud83c\udfe5Verpleegkundige Kras Notitie \ud83c\udfe5
+
+----------------------------------
+**Patiënt Context**:
+Imane De Smet meldt moeite met ademhalen, continu hoesten. 
+
+**Mogelijke Diagnose**: Bronchiale Astma
+----------------------------------
+
+**Vitale Tekens & Observaties**
+
+BPM: 120
+Ademhalingsfrequentie: 22
+Temp: 98.6f
+BP: 130/80
+O2 Sat: 94%
+Piepende ademhaling bij uitademing opgemerkt
+
+----------------------------------
+**Toegediende Behandelingen**:
+Inhalator verstrekt (cdgf-Ivkvf), 
+Bronchodilatator Nebulisatie gedaan (mScFWv-218)
+
+----------------------------------
+**Volgende Stappen**:
+Toedienen van corticosteroïden indien nodig. 
+Vitale functies nauwlettend in de gaten houden. 
+Informeer Romain Wauters over de reactie van de patiënt op de behandeling. 
+
+----------------------------------
+**Belangrijke Identificatoren**
+meImane
+Accountnummer: 98-59564cy
+Medisch Dossier Nummer: mScFWv-218
+
+----------------------------------
+**Noodcontact Informatie**
+Telefoon: (773)757-8797x11882
+Adres: Imane De Smet, Danaid 172, 3851 Goosegrass, België
+
+----------------------------------
+**Andere Info**
+Ingecheckt vanuit: restaurant
+Toegelaten tot: Fort Logan National Cemetery
+Gezondheidsplan: wEhLpxqT
+Organisatie: Lopez Inc
+Beroep: Cabin crew
+Voertuig: 239 GUF
+Licentie: qfo-uCNIld
+Sociale Zekerheid: 501285088
+Bioid: 8444-NBInt
+IP Adres: 88.228.199.22
+ID Nummer: 98-59564cy
+Toegelaten door: Romain Wauters
+
+----------------------------------
+**Datum van Notitie**: 3 mei 2019
+**Notitie Voorbereid Door**: meImane
+----------------------------------
+
+*De bovenstaande notitie is bedoeld voor snelle referentie en vormt geen volledige patiëntengeschiedenis of behandelprotocol. Raadpleeg het gedetailleerde elektronische gezondheidsdossier voor uitgebreide informatie.*"
+

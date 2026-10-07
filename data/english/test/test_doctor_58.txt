@@ -1,0 +1,49 @@
+"Note Type: Scratch Note
+
+----------
+Kai Lévesque Notes
+----------
+
+Fri,May,2018
+
+Patient: Nancy Olson
+
+ID: 6940 6945v
+
+AGE: 80
+
+History of recurrent sinusitis, otitis media, bilateral tympanostomy, tonsillectomy, ongoing allergen immunotherapy for environmental allergies.
+
+Presenting symptoms:
+- Irritation, redness, sensation of mobile foreign body in left eye
+- Onset: yesterday while playing sports on manure-fertilized grass football field
+- Self-treatment attempts: artificial tears, tap water irrigation, no relief
+
+Emergency Department visit:
+- Examination findings: 11 larvae consistent with first instar stage of O ovis in left eye
+- Left conjunctiva: injected
+- Extra-ocular movements: intact
+- Visual acuity: normal in both eyes
+- Slit lamp examination: multiple larvae in bulbar conjunctiva, palpebral fornix
+- Treatment: polysporin-bacitracin-neomycin ophthalmic solution, albendazole 400 mg daily for 3 days
+
+Diagnosis: 
+- Primary: Ophthalmomyiasis externa due to exposure to O ovis larvae
+- Differential: Other causes of conjunctivitis or foreign body sensation in eye ruled out by objective findings and confirmed larval identification
+- Prognosis: Good, given timely identification and treatment
+
+Plan: 
+- Continue ophthalmic solution as directed
+- Complete course of albendazole
+- Follow-up appointment with the ophthalmologist: Fri,May,2018
+- Patient education:
+    - Importance of wearing protective eyewear while playing sports, especially in environments with increased exposure risks
+    - Importance of maintaining good hygiene
+    - Seek medical attention if symptoms recur or new symptoms develop
+
+Kai Lévesque
+
+----------
+End of Note
+----------"
+

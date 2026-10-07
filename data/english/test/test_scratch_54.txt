@@ -1,0 +1,55 @@
+"**Nursing Scratch Note**
+   
+    **Patient Details**
+        Marcus Paquette's complaint: Neck pain
+        Marcus Paquette's age: 12-weeks-old
+        Info: Maaquette
+        Location: restaurant
+        Email: zenry@outlook.com
+        Phone: 001-969-300-9760x457
+        Address: Marcus Paquette, 25 Semistiffly, Agene, 8 5507, United States
+    
+    **Medical Information**
+        Diagnosis: Cervical Spondylosis
+        Hospital: Louis XIV
+        Doctor: Henry Guzman
+        Health Plan: JrECxb5dP tY7
+        Medical Record#: 55455-gHsr
+        Account#: 30 vyyLXVL
+        Device#: 317-KTGVpY
+    
+    **Observations**
+        Sweating: Present
+        Dizziness: Experiencing
+        BP: 120/80
+        Heart Rate: 85
+        Respiratory Rate: 16
+    
+    **Additional Info**
+        BioID: udDJt 98vN
+        IP Address: 162.19.102.123
+        Profession: Environmental consultant
+        Vehicle#: CMW 826
+        SSN: 653-934-355
+        License#: 675472 vtp
+        Org: May-Gonzales
+        Fax: 001-430-205-8129x2959
+        ID#: 30 vyyLXVL
+    
+    **Patient's Progress**
+        Spondylosis Condition: Stable
+        Neck Pain Intensity: 6/10
+        Physical Mobility: Limited
+        Mental State: Alert
+    
+    **Plan**
+        Continue with current treatment plan.
+        Monitor neck pain and mobility regularly.
+        Update Henry Guzman with patient's progress.
+
+**************************************************
+    Document created on Tue.Jul.15.2008
+    Created by: Nurse Maaquette
+    Contact: 001-969-300-9760x457/zenry@outlook.com/george-nixon.thomas-love.com
+**************************************************"
+

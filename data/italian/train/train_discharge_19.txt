@@ -1,0 +1,81 @@
+Riepilogo Dimissione
+
+**Paziente**: Gianluca Guerra
+
+**Cartella Clinica**: vE-dYRKsQg
+
+**Modalità di Dimissione**: A casa con istruzioni per l'auto-cura
+
+---
+
+**Sezione Allergie e Intolleranze**
+Non sono state registrate allergie o intolleranze note.
+
+---
+
+**Sezione Corso Ospedaliero**
+Gianluca Guerra è stato ricoverato a causa di cellulite. Il soggiorno in ospedale è stato senza problemi con risposta agli antibiotici endovenosi.
+
+---
+
+**Sezione Diagnosi di Dimissione**
+Diagnosi finale: Cellulite.
+
+---
+
+**Sezione Piano di Trattamento**
+Al paziente sono stati prescritti antibiotici orali per completare il trattamento a casa.
+
+---
+
+**Sezione Consulenze Ospedaliere**
+Gianluca Guerra è stato valutato dal team delle Malattie Infettive, le loro raccomandazioni sono state integrate nel piano di trattamento.
+
+---
+
+**Sezione Procedure**
+Non sono state eseguite procedure durante questo ricovero.
+
+---
+
+**Sezione Risultati**
+L'eritema, il dolore e il gonfiore si sono ridotti significativamente e non c'è stata febbre durante l'ospedalizzazione.
+
+---
+
+**Sezione Farmaci alla Dimissione**
+Sono stati prescritti antibiotici orali per un periodo di 10 giorni.
+
+---
+
+**Sezione Istruzioni alla Dimissione Ospedaliera**
+Gianluca Guerra è stato istruito a continuare gli antibiotici orali e monitorare i segni di infezione. È stato programmato un appuntamento di follow-up con il medico di base Simona Barone.
+
+---
+
+**Sezione Esame Fisico alla Dimissione Ospedaliera**
+Al momento della dimissione, i segni vitali di Gianluca Guerra erano stabili e le condizioni della pelle erano migliorate.
+
+---
+
+**Sezione Riepilogo Studi alla Dimissione Ospedaliera**
+Gli esami del sangue hanno mostrato un conteggio normale dei globuli bianchi al momento della dimissione, indicando il controllo dell'infezione.
+
+---
+
+**Sezione Direttive Anticipate**
+All'arrivo, Gianluca Guerra ha fornito informazioni per le direttive anticipate che sono state discusse e registrate.
+
+---
+
+**Dottore**: Simona Barone**Data**: 10/10/74
+
+**Ospedale**: Sammy Ofer
+
+**Indirizzo**: Gianluca Guerra, 163 Sharon Fall Apt. 905, 200, 3051 Vigolo Vattaro Soord, Italia
+
+**Telefono**: 243-772-6853x646
+
+**Email**: Bi@mail.com
+
+Questo documento è stato preparato con cura e attenzione, garantendo la protezione delle informazioni personali sulla salute. Non esitate a contattarci se avete domande.

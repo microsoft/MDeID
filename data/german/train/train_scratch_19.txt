@@ -1,0 +1,62 @@
+"**Pflegekratznotiz** 
+
+- Patient: Lukas Binder
+- Beschwerde: Hautausschlag, hauptsächlich in der Nähe von Mund und Nase
+- Beobachtung: Haut erscheint rot, eitrige Flecken gefunden, vermutete Impetigo
+- Vitalzeichen: 
+  - Temperatur: 98.6F
+  - Puls: 80 bpm
+  - Blutdruck: 120/80 mmHg
+  - Atemfrequenz: 16 Atemzüge/min
+
+- Fortschritt: 
+  - Beginn: 23.02.1972
+  - Fortschreiten: Schnell
+  - Aktueller Zustand: Verschlechterung
+
+- Behandlung: 
+  - Verschriebenes Antibiotikum: 330-yBxyXN
+  - Anwendungszeit: 23.02.1972
+  - Nachkontrolle: 23.02.1972
+
+-----------------------------------------------
+Zusätzliche Anmerkungen:
+
+Gerät verwendet: qUcKAl-ZVu
+Gesundheitsplan: h29evW3
+Bewertungsort: Bushaltestelle
+
+-----------------------------------------------
+Notfallkontaktinformationen:
+
+- Kontaktperson: Lukas Binder
+- Beziehung zum Patienten: Software-Ingenieur
+- Adresse: Lukas Binder, Küngstrasse 58 173, 7449 Mücheln (Geiseltal), Schweiz
+- Telefon: +1-953-448-6179
+- Email: Delphineenberghe@who.int
+
+-----------------------------------------------
+Institutionsdetails:
+
+- Krankenhaus: New York University College of Medicine 's
+- Arzt: Delphine Vandenberghe
+- Krankenschwester: Fxkb68RK
+- Krankenakte: 330-yBxyXN
+- Konto: FuJ dtjJeV
+- Kontakt URL:  carpenter.org/blog/category/categoriesprivacy.jsp
+
+-----------------------------------------------
+Verschiedenes:
+
+- Fahrzeug des Patienten: JPJ-717
+- Sozialversicherungsnummer des Patienten: 439-3230562-73
+- Führerschein des Patienten: 103374-671
+- BIOID des Patienten: nBgYW-SbNy
+- IP-Adresse des Patienten: 145.149.138.88
+- ID-Nummer des Patienten: FuJ dtjJeV
+- Alter des Patienten: 18
+- Organisation des Patienten: Cooper-Miles
+- Fax: 001-306-755-7744x301  
+
+Ende der Kratznotiz."
+

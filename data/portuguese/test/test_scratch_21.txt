@@ -1,0 +1,62 @@
+"\ud83c\udfe5Nota de Enfermagem \ud83c\udfe5
+
+----------------------------------
+**Contexto do Paciente**:
+André Azevedo relata dificuldade para respirar, tosse contínua. 
+
+**Possível Diagnóstico**: Asma Brônquica
+----------------------------------
+
+**Sinais Vitais & Observações**
+
+BPM: 120
+Taxa de Resp: 22
+Temp: 98.6f
+PA: 130/80
+O2 Sat: 94%
+Chiado na exalação notado
+
+----------------------------------
+**Tratamentos Administrados**:
+Inalador fornecido (126 87hMrC), 
+Nebulização com Broncodilatador realizada (112134 upz)
+
+----------------------------------
+**Próximos Passos**:
+Administrar Corticosteroides se necessário. 
+Monitorar sinais vitais de perto. 
+Informar Paulo Correa sobre a resposta do paciente ao tratamento. 
+
+----------------------------------
+**Identificadores Importantes**
+drzeve
+Número da Conta: 6826 47520
+Número do Prontuário Médico: 112134 upz
+
+----------------------------------
+**Informações de Contato de Emergência**
+Telefone: +1-895-620-5115
+Endereço: André Azevedo, Av Anita Freitas, 98 116, 6187 Anchieta, Portugal
+
+----------------------------------
+**Outras Informações**
+Check-in de: mercado
+Admitido em: Madressatul
+Plano de Saúde: tyz
+Organização: Thomas-Khan
+Profissão: Make
+Veículo: 90-1678G
+Licença: HjU-8192Dc
+Segurança Social: 603.247.972-54
+Bioid: 32166-mqaX
+Endereço IP: 113.16.69.202
+Número de ID: 6826 47520
+Admitido por: Paulo Correa
+
+----------------------------------
+**Data da Nota**: 12 de novembro de 2023
+**Nota Preparada Por**: drzeve
+----------------------------------
+
+*A nota acima é destinada para referência rápida e não constitui um histórico completo do paciente ou protocolo de tratamento. Por favor, consulte o prontuário eletrônico de saúde detalhado para informações completas.*"
+

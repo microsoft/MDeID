@@ -1,0 +1,33 @@
+"----Note de grattage du docteur----
+
+Fred Jones
+Aubree Thompson, Orthophoniste
+733-886-5247x596
+539.481.0761x34435
+hree@protonmail.com
+
+Patient : Julia Jones
+ID : tLT LMOEef
+43
+
+--Résumé--
+Accident de véhicule postérieur, blessure craniocérébrale, trachéostomie. Antécédents de polyarthrite rhumatoïde, 3 ans. Migraines, gérées avec du méthotrexate 2,5 mg TID, topiramate 200 mg BID.
+
+--Observations--
+Glande thyroïde - impalpable, indolore.
+Résultats de laboratoire : Facteur rhumatoïde positif, antithyroglobuline normale, anticorps contre la thyroperoxydase (16 U/ml, 16,7 U/ml).
+Biopsie guidée par échographie : Nodules, pôle inférieur, lobe thyroïdien gauche, possible malignité.
+Tests de fonction thyroïdienne : TSH 0,89 μIU/ml, T3 1,30 ng/mL, T4 7,2 μg/dl.
+Post-thyroïdectomie : Lésions nécrotiques, nodules rhumatoïdes.
+
+--Évaluation--
+Diagnostic primaire : Hypothyroïdie, secondaire à la polyarthrite rhumatoïde, implication thyroïdienne.
+Diagnostic différentiel : Malignité thyroïdienne - non confirmée.
+Nodules rhumatoïdes, glande thyroïde - complication.
+
+--Plan--
+Initier le traitement par thyroxine. Surveillance régulière de la fonction thyroïdienne. Thyroïdectomie totale pour évaluation de la malignité. Après l'opération, continuer la gestion de la polyarthrite rhumatoïde, ajustements de médication pour le contrôle de l'inflammation systémique, prévention des complications auto-immunes. Éducation du patient sur l'adhésion aux médicaments, tests réguliers de la fonction thyroïdienne, importance de l'évaluation rhumatologique.
+
+--Note de fin--
+Aubree Thompson, yJM-731OSX"
+

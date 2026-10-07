@@ -1,0 +1,42 @@
+"**Nota Narrativa de Enfermería para un Paciente con Trastorno Bipolar**
+
+El paciente, Hernán Pérez, es un hombre afroamericano de 15 años con antecedentes de trastorno bipolar, actualmente experimenta desorientación mental y vómitos frecuentes. Su historial médico incluye una serie de reacciones adversas a varios medicamentos, incluyendo diarrea con litio, lo que llevó a un ensayo con Ácido Valproico (VA) que se inició el 29 de mayo de 1995. Ha experimentado hiperamonemia inducida por VA, lo que llevó a su discontinuación y ensayos posteriores con otros medicamentos, incluyendo jarabe de lactulosa y lamotrigina, que también se discontinuaron debido a efectos secundarios y recurrencia de síntomas maníacos.
+
+Al examen físico, el paciente tiene una puntuación de 15 en la Escala de Coma de Glasgow y hallazgos normales en la fuerza muscular, reflejos tendinosos profundos y función de los nervios craneales. La evaluación de la marcha neurológica no fue posible debido a la fatiga del paciente y su condición de emergencia. Se colocaron dos cánulas intravenosas de calibre 16 y se inició una infusión salina estándar para manejar la presión arterial descendente. Las pruebas de laboratorio han mostrado consistentemente niveles elevados de amoníaco a pesar de los ajustes en el tratamiento.
+
+El diagnóstico principal es trastorno bipolar con complicaciones que incluyen hiperamonemia inducida por VA y efectos secundarios relacionados con los medicamentos. Los diagnósticos diferenciales podrían incluir otras causas de vómitos y desorientación mental, pero estos son menos probables dada la historia específica de medicación del paciente y los hallazgos de laboratorio.
+
+El plan de manejo incluye la continua monitorización de los niveles de amoníaco y el ajuste del régimen de tratamiento según sea necesario. El paciente está actualmente en una combinación de jarabe de lactulosa y levocarnitina. Es crucial que el paciente mantenga visitas de seguimiento semanales para monitorear su condición y la eficacia del tratamiento. La educación sobre la importancia de cumplir con el plan de tratamiento y la notificación inmediata de cualquier nuevo síntoma o preocupación es esencial.
+
+**Información de Contacto**
+Número de Teléfono: (504)966-0422
+Dirección de Correo Electrónico: nnche@protonmail.com
+
+**Información del Paciente**
+Número de Registro Médico: 4521 4687j
+Número de Cuenta: PkCkQ-4657
+Nombre de Usuario: HM3nfLtV
+
+**Información del Dispositivo Médico**
+Identificador del Dispositivo: jdH-307382
+
+**Información Miscelánea**
+Número de Seguridad Social: BDSN631410OWXEMW35
+Número de Licencia: 43203-Gjrn
+Identificador Biométrico: 22-015aPbM
+Dirección IP: 164.50.181.197
+Identificador Personal: PkCkQ-4657
+
+**Información Demográfica**
+Dirección: Hernán Pérez, Avenida Eslovaquia 870 Edif. 530, Depto. 786 114, Lipocaic, 32469 El Trébol, 12, Colombia
+Hospital: Cuarta División
+Ubicación: restaurante
+Plan de Salud: Smb3yPK
+Profesión: Oncólogo
+Organización: Harper, Zimmerman y Jackson
+Doctora: Sandra Sánchez
+URL: hernandez.wilson.com
+Fax: (867)664-1281
+
+Enfermera: Sandra Sánchez"
+

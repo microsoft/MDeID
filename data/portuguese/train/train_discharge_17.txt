@@ -1,0 +1,49 @@
+Resumo de Alta
+
+**Paciente:** Ágatha Mello 
+**Número do Prontuário Médico:** 401537 KKr 
+**Médico Admitente:** Diana Almeida 
+
+# Seções Obrigatórias
+
+## Seção de Alergias e Intolerâncias
+O paciente não apresentou sinais de alergias ou intolerâncias durante a estadia.
+
+## Seção do Curso Hospitalar
+O paciente foi admitido devido a um diagnóstico confirmado de carcinoma. Eles apresentaram sintomas incluindo uma estrutura de massa corporal, dor e lesões. A estadia no hospital foi marcada por monitoramento cuidadoso e tratamento desses sintomas.
+
+## Seção de Diagnóstico de Alta
+O paciente é diagnosticado com carcinoma e doenças relacionadas. 
+
+## Seção de Plano de Tratamento
+O plano de tratamento recomendado inclui recuperação progressiva em casa com bastante descanso e uma dieta equilibrada. São aconselhadas consultas regulares no Florence 's Florentine Studium para monitoramento da condição.
+
+## Seção de Consultas Hospitalares
+Diana Almeida da oncologia foi consultada durante a estadia do paciente no hospital. 
+
+## Seção de Procedimentos
+Foi realizada uma biópsia para confirmar a presença de carcinoma. 
+
+## Seção de Resultados
+Os resultados da biópsia confirmaram o diagnóstico de carcinoma. 
+
+# Seções Recomendadas
+
+## Seção de Medicamentos de Alta
+O paciente recebeu prescrição de medicamentos para controlar a dor e melhorar a saúde geral. 
+
+# Seções Adicionais
+
+## Seção de Sinais Vitais
+Os sinais vitais permaneceram constantemente na faixa segura durante a última consulta. É necessário monitorá-los regularmente em casa. 
+
+## Seção de Instruções de Alta Hospitalar
+O paciente é aconselhado a continuar a medicação conforme prescrito, manter uma dieta e estilo de vida saudáveis, e agendar visitas regulares de acompanhamento com Diana Almeida no Florence 's Florentine Studium. 
+
+## Seção de Físico de Alta Hospitalar
+Na alta, o paciente estava estável e de bom humor. 
+
+## Seção de Diretrizes Antecipadas
+O cuidado pós-alta foi explicado e compreendido pelo paciente e pela família. 
+
+Este documento deixa de fora qualquer Informação de Saúde Pessoal (PHI) que não faça sentido no contexto de uma nota e não contém nenhuma informação que possa ser considerada PHI.

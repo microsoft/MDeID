@@ -1,0 +1,62 @@
+"**Nurse Scratch Note**
+
+Patient: Charlos Lodge
+
+\u2712\ufe0f Brief Summary: 
+
+Red bumps observed, scattered distribution. Seems like a possible case of chicken pox. 45 is the age sed.
+
+----
+**Vital Signs & Observations:**
+
+- Temperature: 98.6 F
+- Heart Rate: 76 bpm
+- Blood Pressure: 120/80 mmHg
+- Respiratory Rate: 16 breaths per min
+- Oxygen Saturation: 96% 
+- Red bumps: \u223c 30 in total
+
+----
+**Medical Observations:**
+
+- Bumps: Red color, \u223c5mm diameter, filled with fluid, \u223c30
+- Physical Discomfort: Patient reported itchiness
+
+----
+**Emerging Thoughts:**
+
+- Consider: Possible chicken pox? Summer Thomas to confirm.
+- Need: Mxys cyaFI to review past medical history.
+- Plan: Hydration, rest, avoid scratching, possible antiviral treatments.
+
+----
+**Contact Information:**
+
+- Phone: 561.377.9599x91042
+- Address: Charlos Lodge, 94 Shelduck, Zaberma, 68 3468, Canada
+- Email: SummTh@red-cross.org
+
+----
+**Other Information:**
+
+- IP: 117.224.71.202
+- Vehicle: 957-ZUA
+- Device: zr-453665U
+- Account: wprJMC 059
+- SSN: 146-30-1317
+- Profession: Aid worker
+- Health Plan: gJNzurfl
+- Organization: Carroll LLC
+- Location: library
+
+----
+**Future Steps:**
+
+- Notify: Contact family members, check vaccination status.
+- Monitor: Keep an eye on the progression of symptoms, report if worsens.
+- Schedule: Set up follow-up appointment, 6.11.1990 to be determined.
+
+Please note that the details above are in the context of this specific nursing encounter and should be updated accordingly. 
+
+**End of Scratch Note**"
+

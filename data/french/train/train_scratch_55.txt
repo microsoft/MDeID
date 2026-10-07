@@ -1,0 +1,61 @@
+"------------Note de l'infirmière------------
+
+[HÔPITAL: Université de Genève et] | [DATE: 16 mai 1981]
+[Compte: KHZLU-293n]
+
+21 - Âge du patient
+Riscle - Ville de résidence actuelle
+beNina - pour le portail patient
+
+**Signes vitaux :**
+TA : 120/80 mmHg
+FC : 80 bpm
+Temp : 98.6 F
+FR : 16 respirations/min
+
+**Observations :**
+- Signes d'inconfort lors de la miction
+- Nina Gerber a signalé une miction fréquente
+- Augmentation du nombre de leucocytes - Possible infection
+
+**Évaluation :**
+Poss. ITU - Échantillon d'urine requis pour djb-MdKCDV 
+
+**Plan :**
+Antibiotiques prescrits par Adam Lejeune
+Suivi dans une semaine, à programmer via le portail patient
+
+**Notes :**
+Informé Nina Gerber sur le maintien de l'hydratation
+
+**Informations de contact d'urgence :**
+Téléphone : 001-219-495-8503x5327
+Téléphone de secours : 001-219-495-8503x5327
+Email : mune@unwomen.org
+
+**Numéro de dossier médical : eIAn-mfqje**
+
+**Informations sur l'appareil :**
+ID de l'appareil : 6052-75892
+
+**Autres informations :**
+Numéro de sécurité sociale : 468-388-182
+Profession : Chercheur en télécommunications
+Plan de santé : pbJb
+Autre lieu que le domicile : banc
+
+**Signature**
+Infirmière [Nom d'utilisateur : beNina]
+
+---------------------------------- Pied de page ----------------------------------
+[ADRESSE IP : 77.193.146.1]
+[ORGANISATION : Sheppard, Walker et Ryan]
+[URL : https://www.odonnell-flores.com/blog/categoryfaq.html]
+[CODE POSTAL : 0804]
+[ÉTAT : 74]
+[VÉHICULE : UJM-9507]
+[RUE : 65623 Gamble Island]
+[LICENCE : OEQ mkkJSO]
+[FAX : 315.747.0134x849]
+[NUMÉRO D'IDENTIFICATION : KHZLU-293n]"
+

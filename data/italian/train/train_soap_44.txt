@@ -1,0 +1,32 @@
+"SOAP Note
+
+S: Il paziente Daniele Pellegrini, con una storia di deficit di FX acquisito da amiloidosi AL, PAF, adenocarcinoma polmonare metastatico in terapia con erlotinib, cardiomiopatia ipertrofica, ipertensione e diabete mellito di tipo 2, riferisce di sentirsi bene ma ha riscontrato problemi tra cui epistassi autolimitante e facile formazione di ematomi il 12/04/08. Il paziente ricorda i risultati di laboratorio precedenti e le procedure mediche.
+
+O: I risultati di laboratorio precedenti indicavano un PT di 12,4 secondi, INR di 1,2, aPTT di 38 secondi, fosfatasi alcalina a 160 U/L, creatinina a 1,16 mg/dL e proteinuria con 882 mg/24 h. L'ecografia addominale mostrava epatomegalia con il lobo destro che misurava 21 cm. Le elettroforesi del siero e delle urine indicavano la presenza di immunoglobulina G-lambda. La biopsia epatica rivelava un'ampia deposizione di amiloide con presenza di catene leggere lambda. La biopsia del midollo osseo mostrava un'ampia deposizione di amiloide, colorazione positiva al rosso Congo e ibridazione in situ a fluorescenza positiva per le catene leggere lambda. È stata riscontrata una diminuzione dell'attività coagulativa del FX al 45% con un intervallo di riferimento del 70%-150%. Il 12/04/08, il profilo di coagulazione mostrava un PT di 16,3 secondi, un aPTT di 33 secondi e un'attività del FX del 34%.
+
+A: La diagnosi primaria è deficit di FX acquisito secondario ad amiloidosi AL. La storia del paziente di adenocarcinoma polmonare ricorrente e altre comorbidità complicano la gestione. Le diagnosi differenziali includono altre cause di coagulazione anormale non correlate all'amiloidosi. La prognosi è riservata a causa della complessità delle condizioni sottostanti e della natura ricorrente del cancro al polmone.
+
+P: Continuare con l'attuale regime di chemioterapia con melfalan e desametasone. È essenziale un monitoraggio regolare dei profili di coagulazione e dell'attività del FX. Educare il paziente sull'importanza di segnalare prontamente nuovi sintomi o preoccupazioni. Programmare appuntamenti di controllo regolari presso York County Board of per valutare l'efficacia del trattamento e gestire eventuali complicazioni. Si raccomanda il rinvio a un ematologo Francesco Pellegrin per ulteriori gestioni del deficit di FX e a un oncologo Francesco Pellegrin per il trattamento continuativo del cancro. Assicurarsi che il paziente rispetti tutte le prescrizioni mediche e gli appuntamenti di follow-up. 
+
+Note aggiuntive:
+- Numero di cartella clinica: CJ-BBSoFgb
+- Numero di conto del paziente: 240 35571p
+- Numero di serie del dispositivo: fAoQ 82ikO
+- Nome utente sul portale del paziente: lLQLvTz3
+- Identificatore del veicolo: 181 6582
+- Numero di previdenza sociale: WNFADE56I13P616V
+- Identificatore di licenza professionale: guHVt TVbF
+- Identificatore biometrico: nIY 02938q
+- Indirizzo IP: 152.188.137.126
+- Identificatore personale: 240 35571p
+- Età del paziente: 34
+- Indirizzo del paziente: Daniele Pellegrini, 782 Jordan Knolls Apt. 046, 152, 6258 Niella Tanaro Chronogeneous, Italia
+- Altre località: ristorante
+- Piano sanitario: bdJM7h
+- Professione del paziente: Equipaggio di cabina aerea
+- Organizzazione affiliata: Kramer, Graves and Meadows
+- Indirizzo email: oellegr@mail.com
+- Numero di contatto: (262)874-4151x640
+- Sito web: https://www.higgins-crawford.com/posts/postsindex.html
+- Numero di fax: (804)658-5964"
+

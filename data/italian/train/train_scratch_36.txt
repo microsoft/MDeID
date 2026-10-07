@@ -1,0 +1,61 @@
+"**NOTA DI INFERMIERISTICA**
+
+-----------------------------
+[Informazioni Paziente]
+    Paziente: Laura Wyss
+    Età: 66
+
+[Informazioni sulla Località]
+    Indirizzo: Laura Wyss, 69062 Morgan Tunnel Suite 836, 122, 8968 Cancello Ed Arnone Orthosis, Italia
+    Ospedale: Istituto Politecnico del Dagestan
+
+[Segni Vitali]
+    PA: 120/80 mmHg
+    FC: 80 bpm
+    Temp: 98.6 \u00b0F
+    RR: 16 respiri al min
+    SpO2: 98%
+
+[Osservazioni]
+    Pelle: Notata grave eruzione cutanea 
+
+[Valutazione]
+    Possibile infezione: Varicella
+
+[Piano]
+    Medicazione: Farmaco antivirale (se necessario)
+    Follow up: 1 settimana 
+
+[Note]
+    Il paziente ha segnalato un intenso prurito in varie parti del corpo.
+
+[Riferimenti]
+    Dermatologo: Bruno Huber
+
+-----------------------------
+[PANNELLO AMMINISTRATIVO]
+    Numero di Cartella Clinica: 1693 CMLwF
+    ID Account: 948219-FqH
+    ID Dispositivo: fPXR-JGLlZ
+    Alias di Accesso: vvEsgI9X
+    Codice Fiscale: DUZHVI14C81E445U
+    Licenza: 135530-888
+    Identificatore Biometrico: egzQWG 515
+    Indirizzo IP: 6.153.27.138
+    Numero ID: 948219-FqH
+    Città: Cancello Ed Arnone
+    Paese: Italia
+    CAP: 8968
+    Piano Sanitario: 5gTukIE2KR
+    Professione: Psicologo, consulenza
+    Organizzazione: Silva, Marsh and Long
+    Numero di Contatto: (571)829-4554x6365
+    Numero di Fax: 001-632-250-2775x707
+    Email: rur@hotmail.com
+    Veicolo: 816 HAT
+    URL:  www.wood.biz/wp-contentsearch.jsp
+    Dettagli Località: mercato
+-----------------------------
+
+***Preservare la Salute & i Valori***"
+

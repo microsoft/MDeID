@@ -1,0 +1,47 @@
+"**Nota del Dottore**
+
+Dott. Federico Amato || Moran PLC || Werner Zimmermann, 31468 Derek Parkways 83, 5759 Cancello Ed Arnone, Svizzera
+
+Paziente: Werner Zimmermann || ID: oLtLTL MOE 
+
+Diagnosi: Gonfiore acuto della lingua
+
+---
+
+* 100 maschio, sindrome di Down & epilessia 
+* Carbamazepina 
+* Gonfiore della lingua - grave
+* Insorgenza: 30 minuti prima del pronto soccorso
+* Agitato, a disagio
+* Anamnesi familiare: Episodi simili post-aggressione, trazione della lingua
+
+---
+
+Esame fisico:
+* Lingua: Gonfiore significativo, nessun ematoma
+* Nasolaringoscopia: Movimento normale delle corde vocali, nessun edema laringeo
+* Valutazione neurologica: Nessuna crisi epilettica attiva
+* TC cranio: Muscolo della lingua ingrandito, deviato a sinistra, nessuna massa, nessuna linfoadenopatia
+* Vitali: WNL, Laboratorio: WNL
+
+---
+
+Diagnosi: 
+* Gonfiore acuto della lingua - probabile trauma meccanico, possibile esacerbazione da condizioni sottostanti
+* DDx: Angioedema, infezione (meno probabile)
+
+---
+
+Piano:
+* Gestione delle vie aeree: Intubazione orotracheale riuscita
+* Ricovero in terapia intensiva, Ventilazione meccanica
+* Farmaci: Midazolam, Fentanyl, Dexamethasone 8mg IV q6h (riduce il gonfiore), Pantoprazolo (protezione gastrica)
+* Blocco del morso: Rimovibile, previene il morso
+* Cura della lingua: Garza umida
+* Follow-up: Consulti di Otorinolaringoiatria, Neurologia
+* Prognosi: Cautamente ottimista, soggetto alla risposta al trattamento
+
+---
+
+Federico Amato || SaVEk-vtkz || +1-365-224-7596x56839 || cm@microsoft.org"
+

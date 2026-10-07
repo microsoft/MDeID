@@ -1,0 +1,27 @@
+"Rapport de soins au patient
+
+Envoi : Le 4 février 1987, l'équipe des services médicaux d'urgence (SMU) a reçu un appel au 911 d'une personne en détresse à parc. L'équipe d'envoi a immédiatement envoyé l'unité QrCiA 6947 à l'endroit identifié.
+
+Rencontre avec le patient : À leur arrivée sur les lieux, l'équipe  a trouvé le patient Joseph Smith en détresse modérée. Ils étaient assis sur une chaise et se plaignaient de symptômes similaires à ceux d'un rhume ordinaire. Ils éternuaient et leur nez coulait. Ils se sentaient épuisés et avaient des douleurs corporelles.
+
+Plainte principale : Le patient Joseph Smith déclare que les symptômes ont commencé le 4 février 1987, et se sont progressivement aggravés. Les symptômes sont compatibles avec une infection virale des voies respiratoires supérieures, possiblement un rhume ordinaire.
+
+Antécédents : Après avoir effectué une évaluation approfondie des antécédents médicaux, il a été révélé que la dernière visite à l'hôpital du patient a eu lieu le 4 février 1987 à l'Pittsylvania pour un problème similaire. Le patient Joseph Smith a indiqué qu'ils avaient un médecin traitant Molly Wong à l'Johnston and Sons. Les dossiers médicaux du patient ont été consultés à partir de la base de données de l'hôpital en utilisant leur numéro de dossier médical 970093 pjc.
+
+Évaluation : Le patient Joseph Smith semblait être dans un état stable sans signes de détresse respiratoire aiguë. Les signes vitaux du patient ont été pris et documentés pour référence et suivi. Un EKG STAT a été effectué pour exclure toute éventuelle problématique cardiovasculaire liée à la fatigue et aux douleurs corporelles.
+
+Traitement : Il a été conseillé au patient de boire beaucoup de liquides et de se reposer. Des médicaments en vente libre ont été recommandés pour soulager les symptômes. Selon le plan de santé du patient XLhDuii 0CLtM, un rendez-vous de suivi a été pris avec leur médecin traitant Molly Wong.
+
+Transport : Le patient Joseph Smith n'a pas été transporté à l'hôpital car son état était stable et ne nécessitait pas de soins d'urgence. La famille du patient a été informée et des mesures de sécurité pour le patient ont été assurées.
+
+Documentation : L'équipe SMU a documenté la rencontre dans le système sous le compte du patient QrCiA 6947. Le patient a signé numériquement le formulaire de consentement au traitement en utilisant leur nom d'utilisateur unique EJTAEC74 et un mot de passe sécurisé.
+
+Suivi : L'équipe SMU a conseillé au patient de consulter immédiatement un médecin si les symptômes s'aggravent ou s'ils développent une forte fièvre. L'équipe a veillé à ce que le rapport de la rencontre soit envoyé à l'adresse e-mail enregistrée du patient gl@aol.com et qu'une copie soit transmise au médecin traitant du patient Molly Wong à l'Pittsylvania.
+
+Conducteurs : L'unité SMU 180-VYMI était conduite par un EMT certifié. L'adresse IP 192.244.157.17 utilisée pour le système d'envoi a été enregistrée pour des raisons de sécurité des données et de traçabilité.
+
+Rapport par : Ce rapport est préparé par l'EMT Molly Wong et signé dans le système avec le numéro de licence professionnelle 2054-37507. Le rapport est conservé dans le système SMU pour référence future et soins continus.
+
+Ce rapport est totalement anonyme en ce qui concerne les informations de santé protégées du patient, le numéro de sécurité sociale 3 44 08 94 854 317, le BioID Zq GNeJsLu, leur adresse résidentielle Joseph Smith, 1184 Noémie Fords Suite 460 147, 4278 Blessington, TAS, Belgique, ville Canéjan, état Alpes-de-Haute-Provence, ZIP 4278, pays Canada, le numéro de fax de leur lieu de travail 954-572-6979x2801, et leur URL  www.bartlett.com/categories/list/listauthor.jsp.
+"
+

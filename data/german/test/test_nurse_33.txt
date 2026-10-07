@@ -1,0 +1,61 @@
+"Krankenschwester Narrative Note für Patientin mit rheumatoider Arthritis und vermutetem Schilddrüsenkarzinom
+
+Subjektive Informationen:
+
+Patientin Amber Verlinden berichtet über Migräne, die nach einem Verkehrsunfall mit einer Schädel-Hirn-Verletzung und einer Tracheostomie begann. Die Patientin hat eine Geschichte von rheumatoider Arthritis seit 15 Jahren, behandelt mit Methotrexat (2,5 mg dreimal täglich) und Topiramat (200 mg zweimal täglich) gegen Migräne.
+
+Objektive Informationen:
+
+Die klinische Untersuchung ergab eine nicht tastbare und schmerzlose Schilddrüse. Laboruntersuchungen zeigten einen positiven Rheumafaktor, mit normalen Antithyroglobulin- und Thyreoperoxidase-Antikörpern (16 U/ml bzw. 16,7 U/ml). Eine ultraschallgesteuerte Nadelaspirationsbiopsie der Schilddrüse zeigte Knoten im unteren Pol des linken Schilddrüsenlappens, was auf ein Karzinom hindeutet. Schilddrüsenfunktionstests zeigten einen euthyreoten Status mit TSH bei 0,89 μIU/ml, T3 bei 1,30 ng/mL und T4 bei 7,2 μg/dl. Die post-thyreoidale Untersuchung zeigte nekrotisierende Läsionen, die rheumatoiden Knoten entsprechen.
+
+Bewertung:
+
+Primäre Diagnose von Hypothyreose sekundär zur rheumatoiden Beteiligung der Schilddrüse, mit einer Differentialdiagnose von Schilddrüsenkarzinom vorgeschlagen, aber nicht bestätigt. Das Vorhandensein von rheumatoiden Knoten in der Schilddrüse kompliziert das klinische Bild.
+
+Plan:
+
+Beginnen Sie mit der Thyroxin-Behandlung, um Hypothyreose zu behandeln und den euthyreoten Status aufrechtzuerhalten. Überwachen Sie die Schilddrüsenfunktion regelmäßig. Führen Sie eine totale Thyreoidektomie durch, um das potenzielle Karzinom weiter zu bewerten und zu behandeln. Nach der Operation, weiterhin engmaschige Überwachung und Behandlung der rheumatoiden Arthritis, Anpassung der Medikamente nach Bedarf, um systemische Entzündungen zu kontrollieren und weitere autoimmune Komplikationen zu verhindern. Klären Sie die Patientin Amber Verlinden über die Wichtigkeit der Medikamentenadhärenz und regelmäßige Nachsorge für Schilddrüsenfunktionstests und rheumatologische Beurteilung auf.
+
+Notiz Fußzeile:
+
+Patienten Notfallkontakt Informationen:
+Telefon: 001-914-832-9661x864
+Email: ay@unicef.org
+
+Unterschrift des Anbieters: Jana Thys
+
+Zeitstempel: Montag, 26. Februar 2001
+
+Patienten Identifikatoren:
+Kontonummer: 3704-678qp
+Medizinische Aktennummer: 61 13SHzWP
+Geräteseriennummer: 5517-182Ci
+Benutzername: xNswiISd
+Lizenz: 347875-GBu
+
+Krankenhausname: Jonathan King
+Krankenhausstandort: Bahnhof
+
+Gesundheitsplan: auaGAnS7
+Beruf: Krankenschwester für Lernbehinderungen
+Organisation: Barry Inc
+
+Patientenadresse: Amber Verlinden, Klaus-Werner-Kohl-Weg 83 194, 7023 Bad Endbach, Schweiz
+Patientenstadt: Hoffeld
+Patientenland: Österreich
+Patientenstaat: 6
+Patientenstraße: 319 Jeremy Village Suite 229
+Patientenpostleitzahl: 7023
+Patientenfax: (540)983-3784x87273
+
+Patienten Eindeutige Identifikatoren:
+Fahrzeugnummer: P81-PRJ
+Sozialversicherungsnummer: 56 302 841 316
+Biometrischer Identifikator: 89691-iibs
+IP-Adresse: 100.168.77.39
+ID-Nummer: 3704-678qp 
+
+URL: anderson-wilson.hodge.com
+
+"
+

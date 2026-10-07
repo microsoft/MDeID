@@ -1,0 +1,32 @@
+"Appunti del Dottore
+
+Paziente: Sofia Meier, ID: 77277 jAUz, Età: 90
+
+Reclamo principale: Crescita rapida di nevo congenito, regione lombosacrale. Presente dalla nascita, cambiamenti significativi nell'ultimo anno. Cambiamento di colore segnalato, bordi irregolari, sanguinamento occasionale e dolore.
+
+Osservazioni: 
+- Tumore eritematoso di 6 x 4 cm, sanguinamento attivo su piastra marrone scuro di 8,5 x 3 cm
+- Oltre 20 lesioni melanocitiche documentate (fotografia totale del corpo, dermoscopia digitale)
+- Melanoma epitelioide maligno a diffusione superficiale (biopsia lombosacrale)
+- Fluorescenza in situ ibridazione: Positivo per RREB1, MYB, CCND1 in nuova lesione
+- Intervento chirurgico: Escissione locale ampia, biopsia del linfonodo sentinella, ricostruzione a lembo
+- Patologia: Spessore del tumore di Breslow: 13 mm, Livello Clark V, ulcera estesa, mitosi: 10/mm2, margini negativi, 6 su 20 linfonodi positivi per metastasi
+- Test genomico: Nessuna mutazione BRAF rilevata
+
+Valutazione: Melanoma di stadio IIID (T4bN3aM0, AJCC 8a edizione). Crescita rapida, ulcerazione, coinvolgimento significativo dei linfonodi - malattia aggressiva, prognosi grave.
+
+Piano:
+- Trattamento: Iniziato Interferone-\u03b1-2b (nota: tossicità osservata nella prima settimana di fase di induzione)
+- Monitoraggio: Follow-up regolari per la progressione della malattia e la gestione degli effetti collaterali
+- Educazione: Fornita su segni di recidiva e metastasi
+- Supporto: Supporto psicologico per far fronte alla diagnosi
+
+Dottore: Lara Keller, Licenza: LkCKix-ZTC, Specialità: Editor di caratteristiche di riviste
+
+Ospedale: Century City Bar Association, Posizione: Sofia Meier, 476 Mitchell Gateway Suite 163, 158, 0472 Ponte Buggianese Nonancestral, Italia
+
+Contatto: Telefono +1-992-275-7826x3792, Email ellra@hotmail.com
+
+Fine della Nota.
+"
+

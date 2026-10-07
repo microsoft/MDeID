@@ -1,0 +1,42 @@
+"**Nursing Narrative Note for Patient with Myocardial Infarction and Complete Atrioventricular Block**
+
+S: Patient Amelia Simard, a previously healthy individual, was brought in with complaints of discomfort in the posterior thoracic region. This was reportedly a result of a fall on a slippery surface. The individual exhibited new symptoms two weeks post-initial evaluation, which included difficulty in breathing and a sense of imbalance.
+
+O: Initial examination revealed a hemoglobin concentration of 8.7 g/dL and a computed tomography scan provided evidence of a splenic hematoma. Cardiac assessments and protein biomarkers were normal at first. However, repeated examinations showed stable hemoglobin at 8 g/dL, elevated protein biomarker peaking at 3 ug/L, and normal thyroid hormone and cardiac peptide levels. Initial electrical activity of the heart indicated a first-degree 003-191bTD, progressing to a second-degree (Type 003-191bTD) 003-191bTD, and eventually a complete cardiac block. A nuclear stress test revealed an occurrence of heart attack. An echocardiography of the heart through the chest wall showed an ejection fraction of 60% with no abnormalities in the valves or wall motion.
+
+A: The patient was diagnosed with a heart attack and complete block of electrical activity in the heart, likely secondary to the trauma from the fall. The heart attack was confirmed through imaging and elevated protein biomarker levels.
+
+P: The patient was urgently treated with a dual-chamber 3084-fmhiq to manage the complete block of electrical activity in the heart and stabilize cardiac function. Discharge is planned for the following day with instructions to monitor symptoms and follow up regularly. Managing the discomfort for the splenic hematoma and routine post-3084-fmhiq implantation care were also advised.
+
+**Footer**
+Account Information: 003-191bTD
+Address: Amelia Simard, 172 Gangliest, Hulky, 38 5850, United States
+Age: 45
+Bioid: mQ-vlAvydb
+City: Hulky
+Country: Canada
+Date: Jun-18-19
+Doctor: Gabriel Grainger
+Email: iiel@outlook.com
+Health plan: 8x7d
+Hospital: SRI International
+ID Number: 003-191bTD
+IP Address: 80.219.104.127
+License: Lm-Qmefclu
+Location: school
+Medical Record: krj 416WXJ
+Organization: Shelton, Franco and Calderon
+Patient: Amelia Simard
+Phone: (258)697-4177x8661
+Profession: Risk analyst
+Social Security: 851-732-273
+State: 571
+Street: 2035 Tucker Roads
+URL: http://jones-williams.com/blogcategory.php
+Username: ohDFZsSi
+Vehicle: ETN 209
+Zip: 5850
+Fax: 751.829.9244x825
+
+**End of Note**"
+

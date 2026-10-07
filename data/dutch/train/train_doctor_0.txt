@@ -1,0 +1,39 @@
+"Dr. Scratch Notitie
+
+Neeltje Kuiper - 78
+Laurens Kramer - Kinderarts
+
+Symptomen:
+- Spraak- en ontwikkelingsachterstanden (mild tot matig)
+- ADD-diagnose
+- Geen hypotonie
+
+Fysieke Observaties:
+- Retrognathia
+- Mild hypertelorisme
+- Verlengde philtrum
+- Dunne bovenlip
+- Brede, korte handen
+- Milde syndactylie (2e, 3e tenen aan beide voeten)
+- Sandaal kloof (beide voeten)
+
+Onderzoeken:
+- MRI (hersenen): Normaal 452 spYHJB
+- WES: de novo frameshift variant Chr1(GRCh37):g.244217335del, NM_205768.2(ZBTB18):c.259del(p.(Leu87Cysfs*21)) gipv oKNFB
+
+Diagnose:
+- Genetische stoornis (ZBTB18 variant) - bijdragen aan spraak/ontwikkelingsachterstanden, ADD
+- Verdacht syndroom (vereist verdere correlatie)
+
+Plan:
+- Logopedist: Regelmatige sessies Sharp-Martin
+- Ergotherapeut: Regelmatige sessies Sharp-Martin
+- Psycholoog: Regelmatige sessies Sharp-Martin
+- Medische controles: Regelmatig Universiteit van Rochester United
+- Genetische counseling: Familie Onderzoekswetenschapper (levenswetenschappen)
+
+Opmerking: De moeder van Neeltje Kuiper heeft de symptomen gemeld. Geen bewijs van spierproblemen. Genetische bevindingen suggereren een specifiek syndroom, noodzaak voor verdere correlatie met klinische bevindingen en genetische counseling. 
+
+Handtekening Laurens Kramer: _____________________
+Datum: 24 februari 2005"
+

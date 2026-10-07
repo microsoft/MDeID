@@ -1,0 +1,30 @@
+"S: The patient Nathaniel Back, a 15-week old male, reports discomfort in the park following a TEP procedure for bilateral direct inguinal hernia and a TURP for benign prostatic hyperplasia. He also noted pain and swelling in the right inguinal area postoperatively.
+
+O: Nathaniel Back underwent TEP and TURP with a total operating time of 23/1993 and an estimated blood loss of 4435 wwWCW. Preoperative and postoperative levofloxacin was administered. Pathological examination revealed atypical adenomatous hyperplasia and chronic inflammatory cell infiltration, with a high PSA level of 1337-55358. Postoperative complications included a hematoma in the right inguinal area, confirmed by ultrasound, and bilateral inguinal abscess with sepsis, confirmed by CT scan. Subsequent treatment involved evacuation and debridement laparotomy, with no evidence of hernia recurrence after mesh evacuation.
+
+A: Primary diagnosis of bilateral direct inguinal hernia and benign prostatic hyperplasia, with postoperative complications including hematoma, bilateral inguinal abscess, and sepsis. Differential diagnosis included potential recurrent hernia, which was ruled out after follow-up.
+
+P: Continue postoperative care with emphasis on hygiene and monitoring for signs of infection. Patient is advised to attend all follow-up appointments for ongoing assessment and management of recovery. Immediate contact with healthcare provider Jack Anderson is recommended if signs of infection or other complications arise. Compliance with postoperative instructions is crucial for recovery and prevention of further complications. 
+
+Extra PHI placeholders:
+- The patient is currently living at Nathaniel Back, 98 Missionaries, Symbioses 37 1644, Australia.
+- He was admitted to Whyteleafe.
+- The patient's username for medical record access is OLb652sJ.
+- His account number is 4435 wwWCW.
+- The patient's social security number is 876-792-281.
+- He was diagnosed by Dr. Jack Anderson who can be reached at 001-914-473-7188x451 or erc@unwomen.org.
+- The patient's health plan is IoT.
+- His profession is Engineer, mining, working at Wilkerson and Sons.
+- His vehicle number is JW 1336.
+- The patient's license number is 5133-kXrse.
+- His biometric identifier is GYSL-UATOc.
+- The patient's IP address is 89.125.107.81.
+- His personal identifier is 4435 wwWCW.
+- The city he lives in is Facula.
+- His country of residence is United States.
+- The state he lives in is 37.
+- The street he lives on is 04828 John Road Apt. 731.
+- His zip code is 1644.
+- His medical records can be accessed via colon.benson-kelly.com.
+- His fax number is 001-785-850-9074x74578."
+

@@ -1,0 +1,37 @@
+"Patient Care Report - Diabetic Emergency
+
+Dispatch Information:
+On 4/06, the Bender, Robinson and Ayala received a distress call from Lachlan Martin, located at superstore. The unit was dispatched by chMartin from the main control server with IP address 16.221.14.64 to the given location.
+
+Situation at the Scene:
+Upon reaching the location at the given Lachlan Martin, 152 Ikra, Slaters, 48 4046, United States, we found Lachlan Martin looking weak and distressed. Lachlan Martin's general impression was that of experiencing significant discomfort. Lachlan Martin was seated on a chair at their residence and appeared to be conscious but disoriented to time and place.
+
+Chief Complaint:
+Lachlan Martin reported feeling extremely thirsty and hungry for the past few days. The condition was described as an insatiable thirst and hunger that was not relieved even after eating or drinking.
+
+Medical History:
+Lachlan Martin reported having a medical record number 69996-670j at Swansea East and has been diagnosed with diabetes. Lachlan Martin takes prescribed medications regularly. It was also noted that Lachlan Martin has been strictly following the doctor-prescribed treatment plan under the supervision of Dr. Phillip Snyder.
+
+Assessment:
+A detailed examination was conducted. Lachlan Martin was conscious but seemed disoriented. The skin was warm and dry, with a rapid pulse of QIPW 24273. No obvious signs of injury were noticed. Visual inspection did not reveal any signs of insulin injection or a device number oWom-PNyAG insulin pump.
+
+Treatment:
+Lachlan Martin was given glucose gel as per the standard emergency protocol for hypoglycemic events. After administration, Lachlan Martin's symptoms started to improve noticeably. 
+
+Transport:
+Lachlan Martin was then transported to the Swansea East in the 847 IXY without any incident. The ambulance was driven by EMT chMartin who holds a valid license number CxTN-10824. En route to the hospital, Lachlan Martin's vitals were continuously monitored, and the doctor Phillip Snyder was kept updated about the patient status through the contact number 001-973-836-3680x7381.
+
+On Arrival at Hospital:
+Upon arrival at the hospital, the care of Lachlan Martin was transferred to the medical team at the hospital. The hospital staff was given Lachlan Martin's medical history, current medical status, and the medication administered. A report was generated, and the nurse signed for patient transfer of care on FRtSu-4171 computer.
+
+Ambulance Services Details:
+The ambulance services are covered under Lachlan Martin's health insurance plan with sAqOI9Z. An electronic copy of this report and other details were sent to Lachlan Martin's email yderp@who.int. The ambulance was then prepared for the next dispatch.
+
+Report By:
+Emergency Medical Technician
+FRtSu-4171
+
+Note: A copy of the patient care report is available online at buck.biz for review and feedback. 
+
+End of Report"
+

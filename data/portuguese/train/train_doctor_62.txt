@@ -1,0 +1,60 @@
+"[Nota do Médico Scratch]
+
+Tomás Nunes, Masculino, 75 (37)
+__Sintomas:__
+* Problemas progressivos de marcha
+* Rigidez
+* Fraqueza dos membros inferiores
+* Urgência urinária (com incontinência)
+* Disfunção erétil
+
+__Exame Neurológico:__
+* Disartria leve
+* Paraparesia espástica
+* Marcha espástica de base larga
+* Reflexos profundos de tendão rápidos
+* Clônus bilateral de Aquiles
+* Sinal de Babinski
+
+__Ressonância Magnética (Cérebro):__ 
+* Agenesia da comissura posterior
+* Hipoplasia do fórnix direito e corpo mamilar ipsilateral
+* Colpocefalia
+* Espessamento cortical parasagital frontal direito
+* Focos heterotópicos nodulares periventriculares
+* Anormalidades de drenagem venosa
+
+__Ressonância Magnética (Espinal):__
+* Atrofia da medula espinhal
+
+__Avaliação Neuropsicológica:__ Normal
+__EEG:__ Normal
+__EMG:__ Normal
+__SEPs:__ 
+* Tempo de condução central aumentado
+* Sem resposta da perna direita
+
+__MEPs:__ Ausentes em ambas as pernas
+__VEPs:__ Inalterado
+__OCT:__ Inalterado
+
+__Teste Genético:__
+* Mutação hemizigótica c.1394-2A > G no gene ABCD1
+
+__Exame Hematoquímico:__
+* Cortisol: Normal
+* ACTH: Elevado (352 pg/mL)
+
+__Diagnóstico:__
+* Adrenoleucodistrofia ligada ao X (x-ALD)
+* Insuficiência adrenocortical subclínica
+
+__Plano:__
+* Monitoramento regular
+* Gerenciamento de sintomas
+* Consultas de acompanhamento com Francisco Jesus (Neurologista) e Francisco Jesus (Endocrinologista)
+* Educação do paciente sobre x-ALD
+
+Francisco Jesus
+"
+

@@ -1,0 +1,86 @@
+"**Nota Rápida: Atualização da Condição do Paciente**
+
+---
+
+Paciente: Diogo Alves
+
+Idade: 2
+
+---
+
+1. Queixa: Dor severa, região do estômago
+2. Observações: Suor, sintomas de febre 
+3. Sinais vitais: Temp (F): 100.4, PA: 120/80, FC: 88, FR: 20
+4. Possível: Diagnóstico de tifo
+
+---
+
+Próximos Passos:
+
+1. Exame de sangue - para confirmar tifo
+2. Fluidos IV - reidratação
+3. Medicação - antibióticos para tifo
+
+---
+
+Informações do Paciente:
+
+- Prontuário Médico: UzLZpd PXd
+- Número da Conta: 00163-141C
+- Número de ID: 00163-141C
+
+---
+
+Informações do Médico:
+
+- Nome do Médico: Tomás Ferreira
+- Email: eirTom@un.org
+
+---
+
+Informações do Hospital:
+
+- Nome do Hospital: Glasgow Cardiff
+- Localização: teatro
+
+---
+
+Contato de Emergência:
+
+- Nome do Contato: Diogo Alves
+- Número de Telefone: (243)811-6544x9960
+
+---
+
+Informações do Dispositivo:
+
+- ID do Dispositivo: iGq qliqAG
+- Endereço IP: 54.30.126.39
+
+---
+
+Informações do Seguro:
+
+- Plano de Saúde: 8dUDlsAz
+- Provedor do Plano: Neal, Smith and Gonzalez
+
+---
+
+Informações da Licença:
+
+- Número da Licença: CgTU 8045c
+
+---
+
+Outras Informações:
+
+- Número do Seguro Social: 52901789-6
+- Placa do Veículo: ZWY 931
+- Nome de Usuário: PcDgYneB
+- ID Biométrico: 484 6088sW
+- Fax: (746)640-3380x864
+
+---
+
+Por favor, note, estas são observações e ações preliminares. O diagnóstico e tratamento adicionais serão determinados após os resultados do laboratório."
+

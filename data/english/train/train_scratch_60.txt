@@ -1,0 +1,61 @@
+"NURSING SCRATCH NOTE
+
+**_Header_**
+
+Isla Li Nurse's Log
+Hospital Name: Sainte-Foy
+Patient's Medical Record: 21-SRboRAR
+
+**_Patient Info_**
+
+Name: Nathan Roy
+Age: 39
+Home Address: Nathan Roy, 141 Deterrents, Glycogenous, 11 7818, United States
+Contact Number: (435)387-2573x3906
+Medical Insurance: HgO68 yQE0Sqc RiEsXLjYv3dE
+Emergency Contact: 9VkDkP1e, (435)387-2573x3906
+Assigned Doctor: Isla Li
+
+**_Vital Signs_**
+
+Temperature: 101.2\u00b0F
+Heart Rate: 98 bpm
+Blood Pressure: 130/85 mmHg
+Respiratory Rate: 20 breaths/min
+O2 Saturation: 98%
+
+**_Medical Observations_**
+
+Patient is experiencing a fever and general weakness.
+Visible sores observed in the museum. Possible Impetigo.
+Skin around sores seems swollen and red.
+Patient reports itchiness around the area.
+
+**_Interventions Initiated_**
+
+- Initiated cool sponge bath to lower the fever.
+- Administered Acetaminophen 500mg for fever and discomfort.
+- Cleaned the sores with mild antiseptic solution.
+- Applied topical antibiotic on the affected area.
+- Instructed the patient to continue with prescribed medication and avoid scratching.
+
+**_Further Actions_**
+
+- Inform Isla Li about the patient's condition.
+- Monitor vitals every 4 hours.
+- Re-assess the sores in 24 hours.
+- Inform the patient about care for Impetigo at home.
+- Plan for the next follow-up on Wed.27 with Isla Li.
+
+**_Footer_**
+
+Last accessed from IP Address: 99.39.7.152
+Device ID used for logging: iFciZx wJa
+Organization: Brown, Burgess and Levine
+Email for communications: li@who.int
+URL for accessing patient's online record: http://www.bell.org/searchregister.html
+Fax number for document exchange: (807)960-5411x1043
+
+End of Note-------
+"
+

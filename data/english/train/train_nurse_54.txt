@@ -1,0 +1,39 @@
+"**NURSE NARRATIVE NOTE**
+
+Admission Information for Patient Casey Clark
+
+The patient, a 79 resident of the New Zealand originally from New Zealand, was admitted with a one-week history of altered mental status, fever, neck pain, nausea, and vomiting. The patient denies any history of abdominal pain, headache, visual changes, focal weakness, chest pain, dyspnea, smoking, alcohol, or illicit drug use. The patient has not seen a Brooklyn Campbell in adulthood and has taken no medications. Family reports nocturnal activities such as cooking and cleaning, and intermittent somnolence.
+
+On admission, the patient was intubated due to airway concerns and admitted to the National Anthropological in Gnotobiotic, 49. Vital signs included a temperature of 36.5\u00b0C, heart rate 90 bpm, respiratory rate 22/min, blood pressure 108/61 mm Hg, and oxygen saturation 100% on 40% FiO2. Physical examination revealed positive Brudzinski sign, neck stiffness, pupils equal and reactive to light, and response to painful stimuli. Lungs were clear, and cardiac and abdominal examinations were unremarkable. 
+
+Laboratory data showed elevated white blood cell count at 19,900/mm3 with 81% neutrophils, hemoglobin 11.8 g/dL, platelet count 170,000/\u00b5L, creatinine 0.5 mg/dL, bilirubin 0.6 mg/dL, AST 49 IU/L, ALT 81 IU/L, and alkaline phosphatase.
+
+The clinical presentation and findings suggest acute bacterial meningitis, considering symptoms of fever, neck stiffness, altered mental status, and supportive laboratory findings including leukocytosis with neutrophilia. Differential diagnoses could include viral encephalitis or other CNS infections.
+
+The management plan will include continued monitoring in the ICU with supportive care. Initiate empirical antibiotic therapy targeting common pathogens causing meningitis, pending further diagnostic results such as CSF analysis. Ensure close monitoring of neurological status and vital signs. Educate the patient and family about the condition, treatment plan, and expected outcomes. Arrange for a neurological consultation and consider infectious disease consultation if needed. Discuss the importance of follow-up care and potential long-term management.
+
+**Additional Details**
+- Medical Record Number: 64-612498s
+- Account Number: aHvCq-Lwvv
+- Patient's Device Serial Number: 56401-0960
+- Username for Patient Portal: seyark
+- Vehicle Identification Number: MGL 175
+- Social Security Number: 741-859-124
+- License Number: 194127-SNw
+- Biometric Identifier: 015-bPRqxQ
+- IP Address: 40.247.23.172
+- ID Number: aHvCq-Lwvv
+- Home Address: Casey Clark, 66 Sweese, Gnotobiotic, 49 1477, United States
+- Health Plan: dwTNiY2WD
+- Patient's Profession: Prison officer
+- Organization: Adkins, Stevens and Sandoval
+- Admission Date: Sun/7/5/1970
+- Doctor's Name: Brooklyn Campbell
+- Patient's Email: oklb@unwomen.org
+- Contact Number: 570.773.2592x666
+- URL for Patient Resources: riley.lynch.roberts-wright.com
+- Fax Number: 001-230-802-6467x83461
+
+Nurse Brooklyn Campbell
+"
+

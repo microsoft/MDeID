@@ -1,0 +1,60 @@
+"[Nota de Doctor Scratch]
+
+Isabella Arias, Masculino, 14 (37)
+__Síntomas:__
+* Problemas progresivos de marcha
+* Rigidez
+* Debilidad en las extremidades inferiores
+* Urgencia urinaria (con incontinencia)
+* Disfunción eréctil
+
+__Examen Neurológico:__
+* Disartria leve
+* Paraparesia espástica
+* Marcha espástica de base amplia
+* Reflejos tendinosos profundos rápidos
+* Clonus de Aquiles bilateral
+* Signo de Babinski
+
+__MRI (Cerebro):__ 
+* Agenesia de la comisura posterior
+* Hipoplasia del fornix derecho y del cuerpo mamilar ipsilateral
+* Colpocefalia
+* Engrosamiento cortical parasagital frontal derecho
+* Focos heterotópicos nodulares periventriculares
+* Anomalías de drenaje venoso
+
+__MRI (Espinal):__
+* Atrofia de la médula espinal
+
+__Evaluación Neuropsicológica:__ Normal
+__EEG:__ Normal
+__EMG:__ Normal
+__SEPs:__ 
+* Tiempo de conducción central aumentado
+* Sin respuesta de la pierna derecha
+
+__MEPs:__ Ausentes en ambas piernas
+__VEPs:__ Sin particularidades
+__OCT:__ Sin particularidades
+
+__Pruebas Genéticas:__
+* Mutación hemizigótica c.1394-2A > G en el gen ABCD1
+
+__Examen Hematoquímico:__
+* Cortisol: Normal
+* ACTH: Elevado (352 pg/mL)
+
+__Diagnóstico:__
+* Adrenoleucodistrofia ligada al cromosoma X (x-ALD)
+* Insuficiencia adrenocortical subclínica
+
+__Plan:__
+* Monitoreo regular
+* Manejo de síntomas
+* Seguimientos con Ebba Wahlgren (Neuróloga) y Ebba Wahlgren (Endocrinóloga)
+* Educación del paciente sobre x-ALD
+
+Ebba Wahlgren
+"
+

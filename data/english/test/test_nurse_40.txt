@@ -1,0 +1,33 @@
+"Nurse Narrative Note
+
+Patient Zoe Box, a 32 male, reported ongoing symptoms of intense thirst, frequent urination, muscle weakness, vomiting, and transient paralysis. These symptoms have been persistent for a significant period of time. No personal or familial history of neuromuscular, thyroid, or autoimmune diseases was noted. The patient had a previous hospitalization due to severe hypokalemia and metabolic acidosis. No significant changes in symptoms were reported since the last lab tests.
+
+Upon examination, the patient's previous hospital records indicated severe hypokalemia and metabolic acidosis with a pH of 7.22, pCO2 26.0 mm Hg, HCO3 10.6 mmol/L, lactate 7.1 mmol/L, and base excess -15.6 mmol/L. Current lab results show WBC 3.16 \u00d7 109/L, hemoglobin 74 g/L, platelet count 128 \u00d7 109/L, sodium 140 mmol/L, chloride 108 mmol/L, potassium 3.18 mmol/L, calcium 1.89 mmol/L, creatinine 57.8 mmol/L, bicarbonate 19 mmol/L, urinary pH 6.5, urinary sodium 80 mmol/L, and urinary potassium 18.68 mmol/L. 24-hour urine test shows sodium 320 mmol/24h, potassium 74.7 mmol/24h, calcium 12.24 mmol/24h, protein 988.00 mg/24h. Serum and urinary osmolality were 303 and 158 mOsm/kg, respectively. A physical examination revealed pallor.
+
+The patient's clinical presentation and lab findings suggest a primary diagnosis of hypokalemia with associated metabolic acidosis. Differential diagnoses could include renal tubular acidosis, adrenal insufficiency, or a gastrointestinal loss of potassium. The transient paralysis and muscle weakness raise concerns for periodic paralysis, which could potentially be secondary to severe electrolyte disturbances.
+
+The plan of action for the patient is to continue monitoring electrolyte levels and acid-base balance closely. Potassium supplements will be administered and bicarbonate therapy will be considered if metabolic acidosis does not improve. Referral to a nephrologist Brandon Nguyen for further evaluation of renal function and potential tubular disorders is recommended. The patient will be educated on the importance of adhering to treatment and dietary recommendations for potassium. A follow-up appointment is scheduled for one week from now for symptom re-assessment and lab results review. The patient has been encouraged to report any new symptoms or concerns.
+
+[Contact Information]
+Email: done@microsoft.org
+Phone: 927-458-3456x9276
+Fax: 001-686-855-0115x6727
+Url:  www.butler-jacobs.com/apphomepage.htm
+
+[Patient's Personal Information]
+Address: Zoe Box, 190 Pseudotropine, Velocimeter, 91 1216, Canada
+City: Velocimeter
+State: 171
+Country: Canada
+Zip: 1216
+Username: ZZPgcULr
+
+[Other Information]
+Organization: Roberts LLC
+Health Plan: WOFX
+Profession: Landscape architect
+License: Qm BejtGub
+Account: 0301 75842
+ID Number: 0301 75842
+"
+

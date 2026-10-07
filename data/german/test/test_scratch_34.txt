@@ -1,0 +1,67 @@
+"Pflegekratznotiz
+
+Patient: Alexander Schuster
+Geburtsdatum: 29.03.2019
+Konto: 926-58900y
+
+--------------------
+Vitalwerte: 
+------------
+HR: 98 bpm 
+BP:125/85 mmHg
+Temp: 36.6\u00b0 C
+RR: 20* mehr Atemnot im Liegen
+--------------------
+
+Beobachtungen: 
+------------
+- Alexander Schuster zeigt Dyspnoe, insbesondere in liegender Position
+- Keine sichtbare Not, nicht zyanotisch
+- Lungen: Diffuses exspiratorisches Giemen
+- Alexander Schuster berichtet über eine Verschlimmerung der bestehenden nOOYrF mhe Erkrankung
+--------------------
+
+Behandlung:
+------------
+- Verabreicht 2,5mg Salbutamol über 405394-ogh - leichte Verbesserung
+- Gabriel Wolf für weitere Beurteilung benachrichtigt
+- Alexander Schuster soll mit Metformin für nOOYrF mhe weitermachen
+
+--------------------
+Familienkontakt: 
+------------
+Name: Alexander Schuster
+Beziehung: 
+Telefon: 894-669-8404x663
+Notfallkontakt: 894-669-8404x663
+
+--------------------
+Zusätzliche Info:
+-------------
+Versicherung: Gk0Ji974AdSsOdm
+Sozialversicherung: 108-1350326-37
+Beruf: Rechtsanwaltsgehilfe
+Benutzername (für Aktualisierungen der Aufzeichnungen): 3v3E1ljU
+Server IP-Adresse: 90.151.37.175
+Organisation: Brown-Smith
+
+--------------------
+Fußzeile:
+-------------
+Gesundheitseinrichtung: Ballet Iliko
+Standort: Gabriel Wolf, Steffi-Kusch-Straße 67 98, 6723 Bornheim, Österreich
+Persönliche ID-Nr: 926-58900y
+Haftpflichtversicherung: 6218 850cA
+Fahrzeug-ID: 405-SEL
+BioID: 26-UgPpQwI
+--------------------
+
+Notizen:
+-------------
+- Alexander Schuster unter Beobachtung halten
+- Bei Verschlechterung des Zustands erneut bewerten
+
+Nächster Verwandter: Alexander Schuster
+Unterschrieben, Gabriel Wolf
+"
+

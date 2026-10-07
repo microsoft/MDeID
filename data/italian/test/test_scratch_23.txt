@@ -1,0 +1,54 @@
+"**Nota dell'Infermiera Scratch**
+
+-------------------------
+| 22 novembre 2014  |  Alina Keller    |
+-------------------------
+ Paziente: Alina Moser
+Età: 71
+
+**INTERVENTO**
+Somministrato Antiacido alle . Monitorato per 30 minuti.
+
+-------------------------
+|   VITALI   |   VALORI  |
+-------------------------
+|    BP      |   120/80  |
+|    HR      |    72     |
+|    RR      |    18     |
+-------------------------
+
+**OSSERVAZIONI**
+- Molto reflusso acido
+- Lamentele di bruciore di stomaco
+- Difficoltà a dormire a causa del disagio
+
+**PROSSIMI PASSI**
+- Suggerendo la consultazione con il gastroenterologo Alina Keller
+- Possibile diagnosi: Malattia da Reflusso Gastroesofageo (GERD)
+
+-------------------------
+| Informazioni di contatto    |
+-------------------------
+|Indirizzo: Alina Moser, 918 Jessica Points 63, 0857 Forni Avoltri, Svizzera     |
+|Telefono: 475-569-6661x710         |
+|Email: aell@unhcr.org         |
+------------------------- 
+
+**NOTE DEL TEAM DI CURA**
+- Dati del paziente salvati sul server 41.165.62.156
+- Accessibile tramite username 5iUNLxaL
+- Registrato con il piano sanitario v8NFkdPx
+- Numero di cartella clinica 1336 bMMRL per riferimento 
+- Numero ID ouCNIl dcm
+
+**CONFIDENZIALE**
+- Previdenza sociale: GFKAZK78L78Z112K
+- Professione: Curatore di museo/galleria
+- Organizzazione: Figueroa-Ryan
+- Veicolo: 8-3075C
+- Licenza: iDWrJt-GST
+- BioID: pbVB-04yiZ
+- URL: https://wilson.com/search/tagmain.html
+
+Nota: Contattare alle informazioni di contatto fornite per ulteriori dettagli sulle condizioni e i progressi del paziente."
+

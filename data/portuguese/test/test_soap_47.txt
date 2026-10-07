@@ -1,0 +1,32 @@
+"S: A paciente Sarah Morais relata sofrer de enxaquecas, que começaram após um acidente de trânsito RZY 199 resultando em uma lesão craniocerebral e uma traqueostomia. A paciente tem um histórico de artrite reumatoide por 33 anos, controlada com metotrexato (2,5 mg três vezes ao dia) e topiramato (200 mg duas vezes ao dia) para enxaquecas.
+
+O: Exame clínico realizado pela Aline Cardoso revelou uma glândula tireoide impalpável e indolor. Exames laboratoriais no El Galaa Hospital mostraram um fator reumatoide positivo, com anticorpos antitireoglobulina e peroxidase tireoidiana normais (16 U/ml e 16,7 U/ml, respectivamente). A biópsia por aspiração com agulha guiada por ultrassom da tireoide detectou nódulos no polo inferior do lobo tireoidiano esquerdo, sugestivos de malignidade. Os testes de função tireoidiana indicaram estado eutireoide com TSH em 0,89 μIU/ml, T3 em 1,30 ng/mL e T4 em 7,2 μg/dl. O exame pós-tireoidectomia mostrou lesões necrosantes correspondentes a nódulos reumatoides.
+
+A: Diagnóstico primário de hipotireoidismo secundário à envolvimento reumatoide da glândula tireoide, com um diagnóstico diferencial de malignidade tireoidiana sugerido mas não confirmado pela Aline Cardoso. A presença de nódulos reumatoides na glândula tireoide complica o quadro clínico.
+
+P: Iniciar tratamento com tiroxina para controlar o hipotireoidismo e manter o estado eutireoide. Monitorar regularmente a função tireoidiana. Proceder com tireoidectomia total para avaliar e gerenciar melhor a possível malignidade. Após a cirurgia, continuar o monitoramento e o manejo da artrite reumatoide, ajustando os medicamentos conforme necessário para controlar a inflamação sistêmica e prevenir mais complicações autoimunes. A Williams-Martin irá educar a paciente sobre a importância da adesão à medicação e do acompanhamento regular para testes de função tireoidiana e avaliação reumatológica.
+
+Informações adicionais: 
+Número da conta do paciente: Mzwtqg-895
+Endereço do paciente: Sarah Morais, Jardim Anthony Nogueira, 13 142, Preevidently, Renascença - 20, C0ZW07J3, Brasil
+Email do paciente: eCardoso@red-cross.org
+Número de telefone do paciente: (746)594-3168x59348
+Número do seguro social do paciente: 97999505-9
+Número de identificação do paciente: Mzwtqg-895
+Nome de usuário do paciente: B46actfQ
+Número do prontuário médico do paciente: 9630-76GFm
+Profissão do paciente: Citogeneticista
+Plano de saúde do paciente: ZCU
+Endereço IP do paciente: 107.46.81.60
+Número da licença do paciente: 245 VoEpJe
+Identificador biométrico do paciente: 475035 921
+Identificador do dispositivo do paciente: Qo-dyimlmz
+Localização do paciente: cafeteria
+Cidade do paciente: Renascença
+Estado do paciente: 20
+País do paciente: Portugal
+Rua do paciente: 12532 Timothy Roads
+Código postal do paciente: C0ZW07J3
+Número de fax do paciente: 7183057349
+URL do paciente: becker.adams.com"
+

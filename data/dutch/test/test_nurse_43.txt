@@ -1,0 +1,41 @@
+"**Kop:**
+Patiënt ID: Femke Visser
+Geboortedatum: 24-07-1983
+Datum van opname: 24-07-1983
+Medisch dossier #: 948344-NXK
+Account #: 340090-77M
+Serienummer apparaat: 756698 EXK
+Gebruikersnaam voor patiëntenportaal: tEWxLVuK
+Voertuigidentificatie: 101-PAT
+BSN: 844107329
+Licentie #: 356401-526
+Biometrische identificatie: uiN AjmIwv
+IP-adres: 20.243.32.125
+Unieke identificatie: 340090-77M
+
+**Verpleegkundige verhalende notitie:**
+
+De patiënt, 73 jaar oud, met een geschiedenis van symptomatische aanhoudende idiopathische ventriculaire tachycardie (VT), kreeg op 24-07-1983 een tweekamer-implanteerbare cardioverter-defibrillator (ICD) geïmplanteerd voor secundaire preventie. Sinds 24-07-1983 heeft de patiënt verschillende ICD-ontladingen en VT-recidieven ervaren ondanks het ondergaan van drie katheterablatieprocedures op 24-07-1983, die werden uitgevoerd zonder een contactkrachtsensor en met behulp van een retrograde transaortische benadering. De patiënt meldt tot 97 passende ICD-schokken sinds de implantatie en heeft episodes van aritmische stormen gehad.
+
+Het laatst geregistreerde 12-afleidingen-ECG van de patiënt toonde sinusritme met premature ventriculaire contracties afkomstig van het mid-inferoseptum van de linker ventrikel. Transthoracale echocardiografie gaf een normale biventriculaire systolische functie en milde tot matige mitralisklepregurgitatie aan. De ablatieparameters omvatten RF-vermogen op 50 W, maximale temperatuur van 45°C en irrigatiestroom op 15 mL/min.
+
+De primaire diagnose is recidiverende idiopathische ventriculaire tachycardie, waarbij de patiënt meerdere ICD-schokken en aritmische stormen ervaart ondanks eerdere ablatietherapieën en anti-aritmische medicijnen. Differentiële diagnoses kunnen andere vormen van ventriculaire aritmieën of structurele hartziekten omvatten, hoewel de bewaarde ejectiefractie en specifieke VT-oorsprong een focaal aritmisch proces suggereren.
+
+Het behandelplan omvat nauwgezette monitoring van de aritmische episodes en ICD-functie van de patiënt. Aanpassingen aan anti-aritmische medicijnen zullen worden overwogen, en verdere ablatieprocedures kunnen nodig zijn als VT aanhoudt. De patiënt zal worden voorgelicht over het herkennen van symptomen van aritmische gebeurtenissen en het belang van regelmatige vervolgbezoeken om de apparaatfunctie en behandelingswerkzaamheid te beoordelen.
+
+**Voettekst:**
+
+Adres: Femke Visser, Viewpoints 90, 3292 Weaser, Nederland
+Ziekenhuis: British Cement
+Extra locatie-informatie: strand
+Zorgplan: QOPGbj ZgtAiT vt8I
+Beroep: Verpleegkundige, geestelijke gezondheid
+Organisatie: Long and Sons
+Volgende geplande afspraak: 24-07-1983
+Primaire zorgarts: Amber De Clercq
+E-mail: Der@protonmail.com
+Noodcontact: Femke Visser
+Telefoonnummer: 001-699-677-8818x3845
+Faxnummer: 535-446-8018x7117
+Website: mendez.info"
+

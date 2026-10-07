@@ -1,0 +1,98 @@
+"NOTA DE ENFERMERÍA
+
+------------------------------------------------
+
+| Archivo del paciente: EygC 38uRD |
+
+| Líder del equipo de atención: Antonia Lorenzo |
+
+| Información de contacto: 601-827-9701x29776    oia@unwomen.org |
+
+| Unidad del hospital: Worms Germany |
+
+------------------------------------------------
+
+256773-751 || [Temp: 98.6F] [Pulso: 68 latidos/min] [Respiración: 18 respiraciones/min] [Presión arterial: 120/80 mmHg] [Saturación de oxígeno: 95%]
+
+* Micaela Treviño - queja - fuerte urgencia, orina frecuentemente
+
+* Signos: incomodidad en la zona baja del vientre
+
+* Sospecha: infección del tracto urinario
+
+* Se ordenaron análisis de orina
+
+   Detalles de contacto:
+
+    -----------------------------------
+
+   | Contacto de emergencia: CLGqdi4R    |
+
+   | Dirección: Micaela Treviño, Retorno Terrazas 823 Interior 089 42, Unprotracted, MYIKJ72A Hernani, Argentina               |
+
+   | Ciudad: Hernani                     |
+
+   | Estado: 83                   |
+
+   | País: Argentina               |
+
+   | Código postal: MYIKJ72A                       |
+
+   | Teléfono: 601-827-9701x29776                   |
+
+    -----------------------------------
+
+* Medicamentos administrados: Antibióticos
+
+* Goteros: Solución salina AXvxTI NQH
+
+* Se monitorearon signos vitales y se registró la ingesta y salida de líquidos
+
+    Detalles personales del paciente:
+
+    -------------------------------
+
+   | Edad: 19                      |
+
+   | Dirección IP: 152.53.176.223         |
+
+   | Información del vehículo: VUC8403         |
+
+   | Seguridad Social: 329-04-1273|
+
+    -------------------------------
+
+* Plan de salud: J6V
+
+* Cuenta pendiente: AsV-80640v
+
+* ID: AsV-80640v
+
+* Pariente más cercano: Micaela Treviño
+
+    Licencias y otros detalles:
+
+    -----------------------------------
+
+   | Licencia: pRqaRP 786               |
+
+   | Organización: Jackson-Brown     |
+
+   | Ubicación: estación de tren       |
+
+   | Profesión: Oficial de inmigración         |
+
+   | URL: https://www.lane-larson.org/category/list/listcategory.html                       |
+
+   | Fax: 3855025477                       |
+
+    -----------------------------------
+
+Nota: Aumentar líquidos, observar reacción a los antibióticos. Informar si los síntomas persisten. Monitorear de cerca cualquier cambio en los signos vitales o incomodidad.
+
+_______
+
+Firma de la enfermera: Antonia Lorenzo
+
+_______\n"
+

@@ -1,0 +1,33 @@
+"----Arzt Kratznotiz----
+
+Killyman Friedhof
+Werner Frei, Physiologischer Wissenschaftler
++1-581-407-6134x435
+631.468.9810x725
+rnre@un.org
+
+Patient: Leonie Zimmermann
+ID: 205989-218
+50
+
+--Zusammenfassung--
+Nach Fahrzeugunfall, Schädel-Hirn-Verletzung, Tracheostomie. Rheumatoide Arthritis Geschichte, 3 Jahre. Migräne, behandelt mit Methotrexat 2,5 mg TID, Topiramat 200 mg BID.
+
+--Beobachtungen--
+Schilddrüse - nicht tastbar, schmerzlos.
+Lab-Ergebnisse: Positiver Rheumafaktor, normales Antithyroglobulin, Schilddrüsenperoxidase-Antikörper (16 U/ml, 16,7 U/ml).
+Ultraschallgesteuerte Biopsie: Knoten, unterer Pol, linker Schilddrüsenlappen, mögliche Malignität.
+Schilddrüsenfunktionstests: TSH 0,89 μIU/ml, T3 1,30 ng/mL, T4 7,2 μg/dl.
+Nach Schilddrüsenentfernung: Nekrotisierende Läsionen, rheumatoide Knoten.
+
+--Bewertung--
+Primärdiagnose: Hypothyreose, sekundär zu rheumatoider Arthritis, Schilddrüsenbeteiligung.
+Differentialdiagnose: Schilddrüsenmalignität - unbestätigt.
+Rheumatoide Knoten, Schilddrüse - Komplikation.
+
+--Plan--
+Beginn der Thyroxin-Behandlung. Regelmäßige Überwachung der Schilddrüsenfunktion. Totale Thyreoidektomie zur Beurteilung der Malignität. Nach der Operation, Fortsetzung der Behandlung der rheumatoiden Arthritis, Medikamentenanpassungen zur Kontrolle der systemischen Entzündung, Prävention von Autoimmunkomplikationen. Patientenaufklärung über Medikamentenadhärenz, regelmäßige Schilddrüsenfunktionstests, Bedeutung der rheumatologischen Beurteilung.
+
+--Endnotiz--
+Werner Frei, 618544-bfe"
+

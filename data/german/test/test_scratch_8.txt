@@ -1,0 +1,68 @@
+"**Krankenpflege-Kratznotizen**
+
+-------------------------
+Marthe Cools  
+4  
+Marthe Cools, Junkenweg 139 117, 9174 Spiesen-Elversberg, Deutschland  
+-------------------------
+
+I. **Vitalzeichen**
+  
+    BP: 120/80 mmHg
+    HR: 75 bpm
+    RR: 16 Atemzüge/min
+    Temp: 37.2\u00b0C
+    SpO2: 98%
+
+-------------------------
+II. **Medizinische Beobachtungen**
+
+    Schmerzskala: 8/10
+    Kopfschmerzen: Anhaltend
+    Sehveränderungen: Nein
+    Übelkeit: Mäßig
+    Licht-/Geräuschempfindlichkeit: Ja
+
+-------------------------
+III. **Kommunikation**
+
+    Fien Goossens informiert
+    Familie benachrichtigt über +1-986-799-3356x97533
+
+-------------------------
+IV. **Behandlung**
+
+    Medikation: Schmerzlinderung verabreicht
+    Nächste Dosis: 05.04.89
+
+-------------------------
+V. **Medizinische Details**
+
+    MRN: 62932-763r
+    Gesundheitsplan: CmpKNq NP
+    Gerät: xa-90zjEMX (falls vorhanden)
+
+-------------------------
+VI. **Weitere Informationen**
+
+    Notfallkontakt: JAC1Lp0x 
+    IP-Adresse: 90.115.44.61 
+    SSN: 972-8904330-19
+    Kontonummer: Mmwr 33Sff
+    Beruf: Ingenieur, Landwirtschaft
+    Organisation: Dillon-Mitchell
+
+----------------------------
+Fußzeile:
+    Krankenschwester - HD-35umbjz
+    E-Mail-Kontakt - ns@unicef.org
+    FAX: (678)575-3118
+    Krankenhaus: Johns Hopkins Emerson
+    Standort: Café
+    Zuletzt aktualisiert: 05.04.89
+    ID: Mmwr 33Sff
+    Fahrzeug: TQY4411
+    Biometrische ID: 849422 881
+------------------------------
+"
+

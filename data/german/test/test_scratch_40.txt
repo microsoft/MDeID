@@ -1,0 +1,100 @@
+"Pflegekratznotiz
+
+[Kopfzeileninformationen]
+
+------------------------------------------------------------------------
+
+Konto: SdN-3529dY | Aufzeichnung: 07635 04KM | ID: SdN-3529dY | Benutzer: dUsufu2f
+
+Kontaktdetails: Telefon: 610-713-6563 | E-Mail: anP@aol.com | Fax: (321)812-5640x917
+
+Relevante Details:
+
+- Krankenhaus: National Scientific Center Kharkiv
+
+- Standort: Theater
+
+- Geburtsdatum: Dienstag, 6. Februar 2001
+
+- Alter: 50
+
+- Adresse: Simon Baumgartner, Lola-Simon-Gasse 854 198, 6515 Crans-Montana, Switzerland
+
+[Primäre Beobachtungen]
+
+------------------------------------------------------------------------
+
+Patient: Simon Baumgartner
+
+- Beschwerde: Pochender Kopfschmerz, wahrscheinlich Migräne
+
+Vitalwerte:
+
+- BP: 130/80 mmHg
+
+- HR: 82 bpm
+
+- SpO2: 98%
+
+- Temp: 98,6 F
+
+[Medizinische Beobachtungen und Behandlungsplan]
+
+------------------------------------------------------------------------
+
+- Beobachtete Lichtempfindlichkeit
+
+- Übelkeit gemeldet
+
+- Kein Fieber
+
+- Keine sichtbaren Anzeichen von Not
+
+Plan:
+
+- Verabreicht 50 mg Sumatriptan
+
+- Empfehlen Sie Ruhe in einer Umgebung mit wenig Licht
+
+- Laufende Überwachung
+
+[Zusätzliche Informationen]
+
+------------------------------------------------------------------------
+
+- Gesundheitsplan: pC7bLzn
+
+- Geräte-ID: ZaSsaF pkq
+
+- Berufslizenz: 092137-foA
+
+- Biometrische ID: dd 004079g
+
+- IP-Adresse: 115.51.230.152
+
+- Fahrzeug-ID: 0XK A41
+
+- Sozialversicherung: 04 110 637 703
+
+- Stadt: Königswiesen
+
+- Land: Switzerland
+
+- Staat: Prenzlauer Berg
+
+- Postleitzahl: 6515
+
+- Organisation: Casey, Nichols und Morgan
+
+- Beruf: Gebäudekontrollvermesser
+
+[Footer-Informationen]
+
+------------------------------------------------------------------------
+
+- Bericht erstellt von: Paulina Bergmann
+
+- URL für das Patientenportal: wilson.robertson.com
+
+Hinweis: Alle bereitgestellten Informationen sind vertraulich und dürfen ohne entsprechende Autorisierung nicht weitergegeben werden."
+

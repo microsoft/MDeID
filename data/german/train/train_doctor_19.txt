@@ -1,0 +1,39 @@
+"Ärzte Notiz:
+
+Marcel Müller Notizen, 
+Pt: Lucy Albrecht, 29
+ID: bwPX-4713q
+
+Vitalwerte:
+BP: 128/84 mmHg
+HR: 78 bpm
+Temp: 36.6 C
+RR: 16 Atemzüge/min
+O2 Sat: 98%
+
+Hauptbeschwerde: Schmerzen im linken unteren Quadranten des Abdomens. Keine Vorgeschichte von GI oder Eierstockkrebs. Familiengeschichte - Bruder: Lungenkrebs, Großmutter väterlicherseits: Bilateraler synchroner Brustkrebs, Großvater: Prostatakrebs.
+
+Untersuchung:
+Abd: LLQ empfindlich, keine Abwehrspannung/Rigidität.
+Rectosigmoidaler Tumor tastbar, blockiert.
+
+Tests:
+CT: Blockierter rectosigmoidaler Tumor. Keine entfernten Metastasen gesehen.
+Koloskopie: R-sigmoidaler Tumor, 4.5x6.5 cm, 18 cm vom Analkanal entfernt.
+
+Patho:
+Biopsie: Mäßig differenziertes Adenokarzinom. 
+Chirurgie: Invasives Adenokarzinom, lymphovaskuläre & perineurale Invasion. 6/28 Lymphknoten positiv.
+
+Genetische Tests:
+Mutationen in BRIP1, TP53. Normaler Lynch-Syndrom-Screen. Keine Veränderungen in KRAS, NRAS, BRAF.
+
+Eindruck:
+Mäßig differenziertes rektosigmoidales Adenokarzinom, Stadium III (Lymphknotenbeteiligung). Hochrisiko - lymphovaskuläre, perineurale Invasion. Genetische Analyse - potenzielle erbliche Prädisposition.
+
+Management:
+Postoperative Nachsorge zur Überwachung von Rezidiven/Komplikationen. Keimbahn-Testung auf BRIP1-Mutation geplant. Patientenaufklärung über Symptome eines Rezidivs, Lebensstiländerungen für die allgemeine Gesundheit. Regelmäßige Nachsorge in der Onkologie.
+
+Marcel Müller, 
+Roberts, Bowen und Trevino"
+

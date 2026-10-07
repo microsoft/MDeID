@@ -1,0 +1,62 @@
+"Doktersnotitie
+-------------
+Delphine Bertrand - 92 - vrouw
+
+Recente geschiedenis:
+- Intermittente koorts, koude rillingen
+- Vermoeidheid, afname van eetlust
+- Rug- & buikpijn
+- Gewichtsverlies: 35 lbs (3 maanden)
+- Malariabehandeling: 6 maanden geleden
+- Recentelijke reis: België
+
+Vitaliteit:
+- Temp: 102.3 F
+- BP: 103-110/59-64 mmHg
+- HR: 92-113 bpm
+- O2 Sat: 99% (Kamerlucht)
+
+Lab:
+- Hb: 4.4
+- MCV: 87.5
+- Bloedplaatjes: 13
+- WBC: 6.4
+- INR: 1.73
+- Na: 132
+- Lactaat: 4.6
+- ALP: 133
+- Tbili: 1.9
+- Dbili: 1.6
+- Albumine: 2.8
+
+Beeldvorming:
+- CXR, CT: Bilaterale onderste kwab infiltraten, focale gebieden van infiltraten & consolidatie (Freetown Technical Institute)
+- Kleine rechter scrotale hydrocele 
+
+Bloeduitstrijkje:
+- Enkele monoblasten
+- Dysplastische kenmerken
+- Erytrocyten met intracellulaire insluitsels
+
+Beenmergaspiraat:
+- Hypercellulair beenmerg, monoblasten
+- Erytroblasten, maturatiedefect
+- Enkele megakaryocyten
+- Vellen van onrijpe mononucleaire cellen diffuus bezetten beenmergholtes
+
+Beoordeling:
+- Ernstige anemie
+- Trombocytopenie
+- Community-acquired pneumonia
+- Mogelijke hematologische maligniteit (AML?)
+
+Plan:
+- Ondersteunende zorg (Bloed, bloedplaatjestransfusies)
+- IV antibiotica (ceftriaxone, azithromycin)
+- Atovaquone voor malariaprofylaxe
+- Hematologische evaluatie (Consult w/ Bart de Wit)
+- Monitor vitals, bloedtellingen, orgaanfuncties
+- Patiënteneducatie re: diagnose, behandelplan, mogelijke complicaties
+
+Bart de Wit"
+

@@ -1,0 +1,57 @@
+"NOTA DE ENFERMAGEM
+
+### Detalhes do Paciente
+
+- Paciente: Adriana Schmidt
+- Idade: 96
+- Cidade: Araucaria
+- Estado: 3
+- País: Brasil
+- Endereço: Adriana Schmidt, Residencial Juan Porto, 464 91, 7218 Pauini, Portugal
+- Telefone: +1-613-631-3829x40370
+- Email: hadi@zoho.com
+- Plano de Saúde: sORbbI Dv1prk
+
+----
+
+---- SINAIS VITAIS ----
+PA: 125/85 mmHg
+FC: 85 bpm
+Taxa Respiratória: 16 respirações/min
+
+---- OBSERVAÇÕES ----
+- Pele: Rash/irritação (especialmente nos membros inferiores)
+- Glicose: 170 mg/dL (Alta)
+
+---- NOTA DE ENFERMAGEM ----
+Condição da pele prevalente. Correlaciona-se com alta glicose - possível diabetes. 
+
+Contato:
+Dr. Beatriz Machado
+Localização: Hillcrest Club
+
+---- OUTRAS INFORMAÇÕES ---- 
+- BioID: Yw-YBxZwnD
+- Dispositivo: jUL-225786
+- Prontuário Médico: IdLjuV 07o
+- Conta: 198 968mRI
+- SSN: 01196623-5
+- Licença: qH-98081ZR
+- Veículo: 136 FSV
+- Endereço IP: 139.10.117.220
+- Número de ID: 198 968mRI
+- Nome de usuário: C5EDcnjp
+- CEP: 7218
+- Fax: 886-308-5717x099
+
+### Próximos Passos
+Encaminhamento para Beatriz Machado para avaliação adicional. Local de preocupação: escola.
+
+### Profissão e Organização 
+Profissão: Inspetor de saúde e segurança
+Organização: Carrillo, Owens e Rojas
+
+--------
+
+Fim da Nota."
+

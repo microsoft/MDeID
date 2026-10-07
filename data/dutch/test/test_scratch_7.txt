@@ -1,0 +1,37 @@
+"**Verpleegkundige Kras Notitie**
+
+**Kop:**
+
+ 
+ aan het werk 
+ van 
+Naam : mayo
+
+**Lichaam:**
+
+Vitalen: Temp 98.6 F, BP 125/80, HR 75 bpm, RR 16/min
+ meldde zich erg jeukend te voelen, waargenomen gelige verkleuring, waarschijnlijke geelzucht.
+
+**Noodcontact Informatie:**
+
+Contact Naam: Emilie De Wilde 
+Telefoon: +1-544-926-8671x92655 
+Adres: Emilie De Wilde, Distressedly 163, 8920 Universalising, België
+Email: Lemaireho@msf.org
+
+**Status:**
+
+Algemene Toestand: Ongemakkelijk door intense jeuk.
+Fysiek: Icterus merkbaar, geen andere tekenen tot nu toe.
+Plan: Bloedonderzoeken besteld, leverfunctie moet worden gecontroleerd.
+
+**Voetnoot:**
+
+Apparaat Identificatie: eNFAT-gqZO
+Voertuig Details: F92 9PX
+Licentie Informatie: VU-44535XQ
+IP Adres: 111.103.209.140
+BioID: Ihc-migetU
+
+**Einde van Notitie**"
+

@@ -1,0 +1,33 @@
+"Appunti del Dottore:
+
+Paziente: Greta Testa
+ID: pAbc-6341W
+
+S: 
+Maschio di 99 anni. Lamentele: polidipsia, poliuria, debolezza muscolare, vomito, paralisi transitoria. Durata: Oltre un mese. Anamnesi medica: Negativa per malattie neuromuscolari, tiroidee, autoimmuni. Precedente ospedalizzazione: Sì, causa- grave ipokaliemia, acidosi metabolica. Cambiamenti dei sintomi dall'ultima valutazione: Nessuno segnalato.
+
+O:
+PHI: Belfast Steele 
+Ultimo ricovero: Diagnosi di grave ipokaliemia, acidosi metabolica. pH 7.22, pCO2 26.0 mm Hg, HCO3 10.6 mmol/L, lattato 7.1 mmol/L, eccesso di base -15.6 mmol/L. 
+
+Esami attuali: 
+WBC 3.16 \u00d7 109/L, emoglobina 74 g/L, conta piastrinica 128 \u00d7 109/L, sodio 140 mmol/L, cloruro 108 mmol/L, potassio 3.18 mmol/L, calcio 1.89 mmol/L, creatinina 57.8 mmol/L, bicarbonato 19 mmol/L, pH urinario 6.5, sodio urinario 80 mmol/L, potassio urinario 18.68 mmol/L. 
+
+Test delle urine di 24 ore: 
+Sodio 320 mmol/24h, potassio 74.7 mmol/24h, calcio 12.24 mmol/24h, proteine 988.00 mg/24h. 
+
+Osmolalità sierica e urinaria: 
+303 e 158 mOsm/kg, rispettivamente. 
+
+Esame fisico: 
+Pallido.
+
+A:
+Diagnosi primaria: Ipokaliemia, acidosi metabolica associata. Differenziali: Acidosi tubulare renale, insufficienza surrenalica, perdita gastrointestinale di potassio. Paralisi transitoria, debolezza muscolare: Preoccupante per paralisi periodica, potenzialmente secondaria a gravi disturbi elettrolitici.
+
+P:
+Piano d'azione: Monitorare i livelli di elettroliti, equilibrio acido-base. Somministrare supplementi di potassio. Considerare la terapia con bicarbonato se persiste l'acidosi metabolica. Rinvio: Debora Montanari, Nefrologo per ulteriori valutazioni della funzione renale, potenziali disturbi tubulari. Consigliare al paziente: Adere al trattamento e alle raccomandazioni dietetiche per il potassio. Follow-up: In una settimana per rivalutare i sintomi, i risultati degli esami. Discutere il piano di gestione con il paziente, incoraggiare la segnalazione di nuovi sintomi o preoccupazioni.
+
+Firmato:
+Debora Montanari"
+

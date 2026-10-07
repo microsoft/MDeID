@@ -1,0 +1,126 @@
+"Nota de Enfermería
+
+---------
+
+Estado del [PATIENT] 
+
+---------
+
+Erupción - Manuela Giménez - en todo el cuerpo
+
+Gravedad - Intensa
+
+Posible Causa - Sospecha de Dengue 
+
+----------
+
+Signos vitales:
+
+----------
+
+Presión arterial: 120/80
+
+Temperatura: 99°F
+
+Pulso: 75 BPM
+
+Respiración: 18 BPM
+
+----------
+
+Observaciones de la enfermera:
+
+----------
+
+Piel - Anormalidades - Erupción
+
+Dolor - Informes - Severo
+
+Estado de ánimo - Estable
+
+Respuesta al tratamiento - Pendiente
+
+----------
+
+Acceso y Comunicación:
+
+----------
+
+Correo electrónico: Moyr@msf.org
+
+Teléfono: 428.828.5016
+
+Fax: 721-664-0774
+
+----------
+
+Información General y Contacto:
+
+----------
+
+Dirección: Manuela Giménez, Ronda de Lino Echevarría 29 123, Nickelized, N9SKU1ZQ Cofete, 45, México
+
+Hospital: Barcelona B
+
+Ciudad: Cofete
+
+País: España
+
+-----------
+
+Datos Relevantes:
+
+-----------
+
+Profesión: Profesora de educación especial
+
+Organización: Contreras-Jensen
+
+-----------
+
+Resultados de Pruebas:
+
+-----------
+
+En espera - Resultados de la prueba de Dengue
+
+----------
+
+Contacto e IDs:
+
+----------
+
+Número de Registro Médico: 5431-30983
+
+Número de Cuenta: wDmUDf-oJP
+
+Contacto del Doctor: Dr. Francisco Moyano
+
+Información del Dispositivo: Número de ID del dispositivo XWGmry CZV
+
+Plan de Salud: JmHljm
+
+-------
+
+Misceláneos:
+
+-------
+
+Número de Seguridad Social: DHTC636423FWRKFZ22
+
+Número de Licencia: 60585 16kZ
+
+Nombre de Usuario: F4ox6JG2
+
+Información del Vehículo: ID del Vehículo 945 CPH
+
+BioID: ID de Huella Dactilar 425686 ZFH
+
+Dirección IP: 112.210.165.105
+
+Número de ID: wDmUDf-oJP
+
+---------
+
+Por favor, actualice regularmente."
+

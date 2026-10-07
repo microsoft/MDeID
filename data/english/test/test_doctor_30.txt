@@ -1,0 +1,51 @@
+"Doctor Scratch Note
+
+Emily Fields notes on Harriso Robinson
+------------------------------------------
+-ID: cWfS-LVWHF
+-AGE: 9-years
+-PROFESSION: Designer, blown glass/stained glass
+
+Hx:
+-HTN, HLD, DM2, CAD w/ 3x MI
+-Stroke hx, anticoag w/ warfarin
+-GERD, Asthma
+-Endometrial CA: Tx with radiation, brachytherapy, TAH-BSO
+
+Recent bright red blood per rectum with clots.
+------------------------------------------
+No abdominal pain, nausea, vomiting, diarrhea, constipation, or melena.
+
+Physical Exam:
+-Slight L-sided abd tenderness
+-No other remarkable findings
+
+Rectal Exam:
+-Nonbleeding hemorrhoids, no visible blood
+
+Recent colonoscopy:
+-3x diminutive polyps in transverse colon - tubular adenomas
+------------------------------------------
+Blood Work:
+-WBC: 14.3k/uL
+-Hgb: 9.6 g/dL
+-Creatinine: 1.2
+-BUN: 39
+-INR: 2.0
+
+Subsequent colonoscopy: Large, fungating, friable, ulcerated lesion
+------------------------------------------
+Assessment: Large ulcerated lesion in colon - cause of hematochezia
+Differentials: CRC, severe IBD
+
+Plan:
+-Admission to Barsuk
+-MDT consultation for lesion Tx options
+-Close monitoring of symptoms, vitals
+-Possible blood transfusion if Hgb \u2193 or symptoms of significant anemia
+-Careful management of warfarin therapy
+-Patient education on findings, planned investigations, and treatments
+
+Emily Fields, QD-ojkRosh
+"
+

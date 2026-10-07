@@ -1,0 +1,39 @@
+"Nota de la Doctora:
+
+Notas de Jennifer Pérez, 
+Paciente: Victoria Castaño, 80
+ID: nIIyws-Dod
+
+Signos vitales:
+Presión arterial: 128/84 mmHg
+Frecuencia cardíaca: 78 lpm
+Temperatura: 36.6 C
+Frecuencia respiratoria: 16 respiraciones/min
+Saturación de O2: 98%
+
+Queja principal: Dolor abdominal en el cuadrante inferior izquierdo. Sin antecedentes médicos de cáncer gastrointestinal o de ovario. Historial familiar - Hermano: Cáncer de pulmón, Abuela paterna: Cáncer de mama bilateral sincrónico, Abuelo: Cáncer de próstata.
+
+Examen:
+Abdomen: Sensible en el cuadrante inferior izquierdo, sin defensa/rigidez.
+Masa rectosigmoidea palpable, obstruida.
+
+Pruebas:
+TC: Masa rectosigmoidea obstruida. No se ven metástasis a distancia.
+Colonoscopia: Masa en el recto-sigma, 4.5x6.5 cm, a 18 cm del margen anal.
+
+Patología:
+Biopsia: Adenocarcinoma moderadamente diferenciado. 
+Cirugía: Adenocarcinoma invasivo, invasión linfática y perineural. 6/28 ganglios linfáticos positivos.
+
+Pruebas genéticas:
+Mutaciones en BRIP1, TP53. Pantalla de síndrome de Lynch normal. Sin alteraciones en KRAS, NRAS, BRAF.
+
+Impresión:
+Adenocarcinoma rectosigmoideo moderadamente diferenciado, etapa III (involucramiento de los ganglios linfáticos). Alto riesgo - invasión linfática, perineural. Análisis genético - predisposición hereditaria potencial.
+
+Manejo:
+Seguimientos postoperatorios para monitoreo de recurrencia/complicaciones. Se planea prueba de línea germinal para mutación BRIP1. Educación del paciente sobre síntomas de recurrencia, modificaciones del estilo de vida para la salud general. Seguimiento regular en oncología.
+
+Jennifer Pérez, 
+Durham, Meyer and Mitchell"
+

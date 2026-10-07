@@ -1,0 +1,39 @@
+"Note du Dr. Scratch
+
+Charlie Lavoie - 109
+Ernst Schmid - Pédiatre
+
+Symptômes :
+- Retards de parole et de développement (légers à modérés)
+- Diagnostic de TDA
+- Pas d'hypotonie
+
+Observations physiques :
+- Rétrognathie
+- Hypertélorisme léger
+- Philtrum allongé
+- Lèvre supérieure mince
+- Mains larges, courtes
+- Syndactylie légère (2ème, 3ème orteils sur les deux pieds)
+- Écartement des orteils (les deux pieds)
+
+Investigations :
+- IRM (cerveau) : Normal 739452 spY
+- WES : variante de décalage de cadre de novo Chr1(GRCh37):g.244217335del, NM_205768.2(ZBTB18):c.259del(p.(Leu87Cysfs*21)) gi-pvoKNFB
+
+Diagnostic :
+- Trouble génétique (variante ZBTB18) - contribuant aux retards de parole/développement, TDA
+- Syndrome suspecté (nécessite une corrélation supplémentaire)
+
+Plan :
+- Orthophoniste : Séances régulières Sharp-Martin
+- Ergothérapeute : Séances régulières Sharp-Martin
+- Psychologue : Séances régulières Sharp-Martin
+- Contrôles médicaux : Réguliers Washington Capitals
+- Conseil génétique : Famille Toxicologue
+
+Note : La mère de Charlie Lavoie a signalé les symptômes. Aucune preuve de problèmes de tonus musculaire. Les résultats génétiques suggèrent un syndrome spécifique, nécessité d'une corrélation supplémentaire avec les résultats cliniques et le conseil génétique. 
+
+Signature du Ernst Schmid : _____________________
+Date : jeudi 24 février 2005"
+

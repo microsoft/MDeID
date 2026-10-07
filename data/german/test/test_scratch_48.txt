@@ -1,0 +1,61 @@
+"**KRANKENSCHWESTER KRATZNOTIZ**
+
+**Zusammenfassung des Zustands:**  
+*Patientin Denise Binder zeigt Symptome einer gastroösophagealen Refluxkrankheit*
+
+**Vitalwerte:**  
+- BP: 119/79  
+- Puls: 67  
+- Atemfrequenz: 16  
+- Temperatur: 98.6\u00b0F   
+
+**Beobachtungsnotiz:**  
+- Sodbrennen ++  
+- Gefühl des Erstickens  
+- Obere GI-Endoskopie empfohlen  
+
+**Relevante PHI:**  
+- Medizinische Aktennummer: 23340 3657  
+- Alter: 68  
+- Hausarzt: Werner Keller  
+- Gesundheitsplan: o6rYi3v  
+- Krankenhaus: Atherstone United
+
+**Zusätzlicher Kontext:**  
+- Gerät: fD-cUwxbCD  
+- Benutzername des Patienten für den Online-Zugang: pfChw4Gc  
+- Sozialversicherungsnummer: 057-3313289-26  
+- Adresse: Denise Binder, Forstnerring 68 153, 9454 Sulzbach, Belgien  
+- Ort der Symptomausbrüche: Apotheke  
+
+**Kontaktinformationen:**  
+- Telefon des Patienten: (508)775-7576
+- Notfallkontakt: Denise Binder  
+- Telefon des Notfallkontakts: (508)775-7576
+
+**Verschiedene Informationen:**  
+- IP-Adresse des letzten Online-Zugriffs: 79.54.210.239  
+- Biometrischer Identifikator: fxP 69858i  
+- Kontonummer: iB BWcioIm  
+- ID-Nummer: iB BWcioIm
+
+**Empfohlene Nachsorge mit:**  
+- Gastroenterologe: Werner Keller  
+- Termin: Dienstag, 3. Juli 2007  
+- Ort: Atherstone United
+
+'Signatur' der Krankenschwester: fxP 69858i  
+__________________________________________
+
+**[VERTRAULICHE INFORMATIONEN - NUR FÜR MEDIZINISCHES PERSONAL]**  
+- Arbeitsorganisation des Patienten: Evans, Brown und Livingston  
+- Beruf: Fernsehkameraoperator  
+- E-Mail: ner@un.org  
+- Kontakt-Fax: 457.779.7383  
+- Fahrzeug-Nr: 024-MNQ  
+- Lizenz-Nr: 153655 EiS   
+
+__________________________________________  
+
+**Ende der Notiz**"
+

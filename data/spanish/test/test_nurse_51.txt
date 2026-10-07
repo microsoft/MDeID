@@ -1,0 +1,45 @@
+"Nota Narrativa de Enfermería para Maroš Adam
+
+S: Nuestro paciente, diagnosticado con B-ALL en miércoles, 5 de enero de 1994, presentó un recuento alto de glóbulos blancos (>100 x 10^9/L) y un cariotipo normal. Después de lograr una segunda remisión completa, el paciente se sometió a un haplo-HSCT de su Abuela, seguido de complicaciones que incluyen cistitis hemorrágica y GVHD aguda gastrointestinal de etapa 1, que se resolvió con tratamiento de metilprednisolona. El paciente experimentó una tercera recaída de la médula ósea con rápida progresión de la enfermedad marcada por el aumento de los blastos de la médula, a pesar de la quimioterapia de rescate (régimen MOEP) y los tratamientos posteriores que incluyen el protocolo de células haplo-CAR-T 19.
+
+O: El diagnóstico inicial mostró WBC >100 x 10^9/L. Las complicaciones posteriores al haplo-HSCT incluyeron cistitis hemorrágica y GVHD aguda, tratadas con metilprednisolona. Se notó una recaída de la enfermedad con un 6.4% de blastos de médula, aumentando al 56.5% y luego al 65.4% a pesar de la quimioterapia. Los tratamientos recientes redujeron los blastos de la médula al 12.7% antes de la infusión de células haplo-CAR-T 19, que logró una remisión completa negativa para MRD y quimerismo completo del donante.
+
+A: El diagnóstico principal es B-ALL con un historial de múltiples recaídas y complicaciones posteriores al haplo-HSCT. El paciente ha sido sometido a un extenso tratamiento que incluye quimioterapia, terapia con esteroides e innovadora terapia con células CAR-T, que actualmente ha resultado en una remisión completa negativa para MRD.
+
+P: Continuar con el seguimiento cercano de la condición del paciente con citas de seguimiento regulares para evaluar la durabilidad de la remisión y manejar cualquier complicación emergente. Mantener una comunicación abierta con el paciente para abordar rápidamente los nuevos síntomas o preocupaciones. Fomentar la adherencia a las citas programadas y los planes de tratamiento para apoyar la salud sostenida y la remisión.
+
+Información de Contacto del Paciente:
+- Teléfono: 651.445.6738x69374
+- Correo electrónico: re@icloud.com
+- Dirección: Maroš Adam, Cuesta Leticia Molina 60 Puerta 6 197, Moonfall, Monterrey, Nuevo Le\u00f3n 53535, Peru
+
+Identificadores del Paciente:
+- Número de Registro Médico: bv-894136F
+- Número de Cuenta: inykWi-ehk
+- Identificador de Dispositivo: 6909 QIYNW
+- Nombre de Usuario: pCn4owma
+- Número de Seguridad Social: 21.131.181
+- Identificador de Licencia: 6161-84777
+- Identificador Biométrico: TBE 795aIT
+- Dirección IP: 200.46.62.21
+- Identificador Personal: inykWi-ehk
+- Identificador de Vehículo: 35U 4275
+
+Otra Información Relevante:
+- Edad: 22
+- Ciudad: Monterrey, Nuevo Le\u00f3n
+- País: Mexico
+- Estado: Monterrey
+- Calle: 187 Antonio Pine Apt. 806
+- Código Postal: 53535
+- Fax: (850)990-0079x515
+- Hospital: Greenwich Kent
+- Organización: Taylor, Johnson and Parks
+- Plan de Salud: q4XB1
+- Doctor: Laura Moreno
+- URL: reid-jones.info
+
+Tenga en cuenta que el nombre completo del paciente se enmascara como Maroš Adam por razones de privacidad. 
+
+Enfermera Laura Moreno"
+

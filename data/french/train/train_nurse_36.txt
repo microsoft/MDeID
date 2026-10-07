@@ -1,0 +1,45 @@
+"Note de Consultation Infirmière
+
+En-tête: Informations de Consultation
+-------------------------------------
+Patient: Tristan Johnson
+Adresse: Tristan Johnson, 557 Benjamin Forest 101, 8566 Port Douglas, QLD, Suisse
+Ville: Chenou
+État: 15
+Pays: France
+Code Postal: 8566
+Âge: 80
+Téléphone: 866-258-5655x082
+Email: serna@yandex.com
+Nom d'utilisateur: wrfWZ7je
+Sécurité Sociale: 9 28 74 84 302 545
+Plan de Santé: 9Llr
+Docteur: Anna Moser
+Hôpital: Bluebell
+-------------------------------------
+
+Subjectif: Le patient, identifié comme Tristan Johnson, un homme afro-américain de 80 ans, n'a signalé aucun symptôme ou inconfort actuel. Sa visite est pour un contrôle de routine. Il a révélé une histoire familiale significative de cancer de la prostate, son frère de 80 ans ayant été diagnostiqué et traité par radiation.
+
+Objectif: Actuellement, Tristan Johnson est asymptomatique. Aucun enregistrement d'examen physique ou de résultats de laboratoire n'est associé à cette consultation.
+
+Évaluation: Sur la base des informations fournies, Tristan Johnson est à un risque accru de cancer de la prostate en raison de son ethnie et de ses antécédents familiaux (parent du premier degré diagnostiqué à 80). La discussion a porté sur les avantages et les risques potentiels du dépistage du PSA, compte tenu des recommandations variables des différentes organisations de santé.
+
+Plan: Le plan est d'avoir une conversation approfondie sur le dépistage du PSA pour permettre à Tristan Johnson de prendre une décision éclairée. Le patient est encouragé à faire des recherches supplémentaires et à préparer toutes les questions qu'il pourrait avoir pour une discussion de suivi. Il a également été conseillé de signaler tout nouveau symptôme ou préoccupation entre-temps.
+
+Pied de page: Informations Supplémentaires
+-------------------------------------
+Compte: 036 13590n
+Dossier Médical: 195 kwLNjX
+Appareil: EJRCH bczS
+Licence: 62 MREPRcO
+BioID: plCB-1828w
+Adresse IP: 114.154.208.197
+Numéro d'ID: 036 13590n
+Emplacement: marché
+Profession: Officier du gouvernement local
+Organisation: Tucker, Bailey and Bird
+Véhicule: 3QK3659
+URL: lewis.biz
+Fax: (280)832-6819x613
+-------------------------------------"
+

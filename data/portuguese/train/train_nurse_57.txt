@@ -1,0 +1,45 @@
+"Nota Narrativa de Enfermagem para Maria Coelho com Histórico de Dor no Peito
+
+Maria Coelho apresentou um histórico de um mês de desconforto no peito. Não foram relatadas operações ou lesões recentes. Maria Coelho teve episódios de pressão arterial baixa e um episódio crítico de choque por perda de sangue e parada cardíaca após a cirurgia.
+
+No exame, uma tomografia computadorizada torácica mostrou uma massa de tecido mole ovoide na farmácia, medindo aproximadamente 4,3 cm x 2,6 cm x 5,8 cm. Esta massa foi removida usando VATS e foi identificada pós-operatória como um cisto broncogênico. Após a operação, Maria Coelho experimentou hipotensão relacionada à 100, gerenciada com expansão de fluidos, e posteriormente desenvolveu choque hemorrágico devido a um buraco de 3 mm na Durham-Reed, levando a tamponamento cardíaco. Isso foi tratado por uma toracotomia de emergência e fechamento direto da artéria marginal obtusa danificada com prolene 4-0.
+
+O diagnóstico principal foi um cisto broncogênico com complicações, incluindo choque hemorrágico e tamponamento cardíaco pós-ressecção. O diagnóstico diferencial inicialmente incluía um tumor neurogênico do mediastino.
+
+Maria Coelho passou por uma toracotomia de emergência bem-sucedida e estabilização. A recuperação pós-operatória incluiu o desmame do ventilador e alta com instruções para consultas de acompanhamento para monitorar a recuperação. O gerenciamento adicional se concentrará no monitoramento de quaisquer sinais de recorrência ou complicações da cirurgia e na garantia de conformidade com as consultas de acompanhamento.
+
+Informações do cabeçalho: 
+- Data: 13 de dezembro de 1973
+- Número do Prontuário Médico: 18464 77hC
+- Endereço do Paciente: Maria Coelho, Vale Bárbara Alves, 28 152, Dustrag, São Luís do Curu - 63, DCEGY2KC, Brasil
+
+Informações do rodapé: 
+- Informações de Contato do Paciente: 
+    - Telefone: (768)406-0174x659
+    - Email: ndCost@yahoo.com
+- Informações do Médico:
+    - Nome: André Costa
+- Plano de Saúde: ZRwR1X19
+- Contato de Emergência:
+    - Nome: Maria Coelho
+    - Telefone: (768)406-0174x659
+
+Informações Estruturadas:
+- Número da Conta do Paciente: 846 32wMLX
+- Nome de Usuário: ufutv1QF
+- Nome do Hospital: picturesque
+- Identificação do Veículo do Paciente: KYA-2109
+- Número do Seguro Social: 36627327-5
+- Licença Profissional: 358797 hLX
+- Identificador Biométrico: yK pONwvnA
+- Endereço IP: 40.231.22.200
+- Identificador Pessoal: 846 32wMLX
+- Localização do Paciente: farmácia
+- Plano de Saúde do Paciente: ZRwR1X19
+- Profissão do Paciente: Paramédico
+- Organização Associada ao Paciente: Durham-Reed
+- Fax: 844-676-2992x07822
+- URL: anderson-sherman.solomon-sanders.schneider-smith.com
+
+Assinado por: André Costa"
+

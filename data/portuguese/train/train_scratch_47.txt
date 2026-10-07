@@ -1,0 +1,67 @@
+"**Nota de Enfermagem**
+
+---------------------------------------------------------------
+**Relatório do Paciente**
+- Laura Correia
+- Prontuário Médico: 76970-CqDm
+- Idade: 51
+
+**Estatísticas Vitais**
+- PA: 130/85 mmHg
+- Pulso: 75 bpm
+- Resp: 20 bpm
+- Temp: 37.0 C
+
+**Progresso do Tratamento**
+- Queixa-se de dificuldade para respirar, suspeita de asma brônquica.
+---------------------------------------------------------------
+
+**Observação**
+- Pele inspecionada: Normal
+- Tórax palpado: Normal
+- Pulmões auscultados: Sibilos ouvidos
+
+**Investigações & Resultados**
+- Teste Espirométrico: A ser feito
+- Medidor de Pico de Fluxo: A ser feito
+---------------------------------------------------------------
+
+**Medicamentos Prescritos**
+- Broncodilatador: A ser administrado conforme ordem médica
+- Esteroides: A ser administrado conforme ordem médica
+
+**Miscelânea**
+- Plano de Saúde: MlYs AD38iy6
+- Hospital: Jacksonville
+- Médico: Gabrielly Ferreira
+
+**Próximos Passos**
+- Relatar ao médico para teste de espirometria
+- Administrar broncodilatadores e monitorar resposta
+- Manter medidor de pico de fluxo ao lado da cama
+
+**Contato de Emergência**
+- Telefone: +1-860-501-5914x731
+- Email: lyr@yahoo.com
+
+---------------------------------------------------------------
+**Lembrete & Recordação**
+- Nome de usuário do paciente: uycRO0cJ
+- Número de série do dispositivo: 94353 428o
+- Conta: vHn 256LSt
+- Segurança Social: 57406626-2
+
+---------------------------------------------------------------
+**Rodapé**
+- Licença: kiaawD 379
+- ID Biológico: sjHrkW-853
+- Endereço IP: 188.34.112.27
+- Localização: museu
+- Veículo: MGL-557
+- Número de Identificação: vHn 256LSt
+- Endereço: Laura Correia, R. do Cidral de Baixo, 83 14, 0563 Guaxupe, Portugal
+- Profissão: Cientista, biomédica
+- Organização: Fowler-Murray
+- Fax: 389-999-3272x85817
+---------------------------------------------------------------"
+

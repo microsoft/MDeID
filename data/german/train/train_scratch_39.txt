@@ -1,0 +1,54 @@
+"KRANKENSCHWESTER KRATZNOTIZ #637-2002Hz
+
+Patient: Bianca Wolf
+Gesundheitsdienstleister: Georg Schuster
+
+-----------
+HAUPTBESCHWERDE:
+Hautausschlag - juckend, gereizt.
+
+-----------
+VITALWERTE:
+BP: 120/80
+HR: 75 bpm
+RR: 16 bpm
+Temp: 37 C
+SpO2: 98%
+
+-----------
+BEOBACHTUNGEN:
+- Haut: Erythem und Schuppung festgestellt. 
+- Ausmaß: Diffuser Ausschlag, hauptsächlich an Armen und Rumpf.
+- Juckreiz vorhanden, Intensität 7/10.
+  
+-----------
+BEWERTUNGEN:
+- 81 Patient, mögliche Psoriasis. 
+- Dermatologische Beratung empfohlen.
+
+-----------
+PLAN:
+- Beginn mit topischen Kortikosteroiden.
+- Hautreaktion täglich überwachen.
+- Flüssigkeitszufuhr & Hautfeuchtigkeit fördern.
+
+-----------
+ZUSÄTZLICHE INFO:
+- Benutzername für das Patientenportal: Biancaf
+- Gerätekennung für e-Health App: pJfCFa bBq
+- Patienten-ID-Nummer: cb-01073Cp
+
+-----------
+KONTAKTINFO:
+- Telefon: 6606333673
+- Adresse: Bianca Wolf, Briemerweg 9/3 22, 4001 Sinntal, Belgien
+- E-Mail: et@yahoo.com
+
+-----------
+UNTERSCHRIEBEN: 
+Krankenschwester Biancaf, am der Medizin
+  
+HINWEIS: Bitte beziehen Sie sich auf die elektronische Krankenakte für die vollständige Dokumentation. 
+
+(Die medizinische Patientenakte Nummer 637-2002Hz, Kontonummer cb-01073Cp, Sozialversicherungsnummer 80 035 536 278, IP-Adresse 17.123.215.197 und Fahrzeuginformationen DBQ 353 sind sicher in unserem System gespeichert.)"
+

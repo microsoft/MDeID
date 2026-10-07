@@ -1,0 +1,51 @@
+"ARZTNOTIZEN
+> Arzt: Thomas Moser
+
+> Alter: 98
+
+> Patient: Elisabeth Kraus
+
+> MedRec#: 5166 940gR
+
+> S:
+Mutter berichtet über Anstrengungsintoleranz, Elisabeth Kraus (7 Jahre alt). Keine Zyanose. Hauptbeschwerde: Schwierigkeiten bei körperlichen Aktivitäten.
+
+> O:
+Klinische Untersuchung - NAD. Doppler-Echo - Linke Lungenvenen münden in die linke anonyme Vene. Normale Drainage der rechten Lungenvenen in den linken Vorhof. Kein ASD. Dilatation des rechten Vorhofs & rechten Ventrikels. CTPA - Isolierte linksseitige PAPVC. Linke Lungenvenen bilden gemeinsamen Kanal, der über die linke V. brachiocephalica in die V. cava superior mündet.
+
+> A:
+Primärdiagnose - Isolierte linksseitige suprakardiale PAPVC. Dilatation des rechten Vorhofs & rechten Ventrikels - wahrscheinlich sekundär durch erhöhten Fluss & Druck aus anomaler pulmonaler Venenrückführung. Prognose - Gut mit chirurgischer Korrektur.
+
+> P:
+Chirurgischer Eingriff mit medianem Sternotomieansatz (keine CPB). Schaffung von Öffnungen in der gemeinsamen Kammer & linkem Vorhofohr. Anastomose der vertikalen Vene zum linken Vorhofohr. Postoperative Versorgung - Mechanische Beatmung (ca. 12 Stunden). Erwartete Krankenhausentlassung am 10. Tag nach der Operation. Aufklärung über Operation & postoperative Versorgung zur Sicherstellung von Verständnis & Compliance.
+
+> Telefon: 7968789709
+
+> Email: Moshoma@who.int
+
+> Adresse: Elisabeth Kraus, Udo-Weimer-Ring 82 62, 8475 Elsbethen-Glasenbach, Deutschland
+
+> Standort-Andere: Bushaltestelle
+
+> PLZ: 8475
+
+> Stadt: Parkstetten
+
+> Bundesland: 88
+
+> Land: Schweiz
+
+> IDNum: UU 67WrPsi
+
+> Konto: UU 67WrPsi
+
+> Lizenz: bBd-hpSgIM
+
+> Organisation: Snyder Ltd
+
+> Gesundheitsplan: AR0AJW6S 8GwUPWwfpcYnHqC
+
+> Beruf: Designer, Innen-/Raumgestalter
+
+> URL: butler.smith-harris.com"
+

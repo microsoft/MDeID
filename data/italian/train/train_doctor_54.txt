@@ -1,0 +1,17 @@
+"Note del Dottore:
+
+S: 
+La paziente Lina Meyer è una paziente di lunga data con acromegalia. I sintomi notevoli includono dispnea da sforzo e respiro corto (2 anni), recente episodio di presincope (2 settimane fa). Lina Meyer trattata con octreotide per circa 2 decenni, 2 procedure di radiocirurgia stereotassica negli ultimi 10 anni. Nessuna storia familiare da segnalare. Nega ipertensione, diabete mellito, apnea del sonno, morte cardiaca improvvisa. Non fuma, non consuma alcol.
+
+O: 
+BMI indica sovrappeso, 39 kg/m2. Presenti caratteristiche acromegaliche distinte: lingua ingrandita, labbra, mani, piedi. Vitali: Pressione sanguigna - 110/60 mmHg, Polso - 92 battiti/min, ritmo sinusale, battiti prematuri irregolari, terzo suono cardiaco patologico, soffio sistolico. L'ECG mostra LBBB, funzione cardiaca NYHA stadio III-IV. La risonanza magnetica ha confermato un macroadenoma ipofisario. Risultati del laboratorio: BNP elevato (740 pg/ml), eccessivo ormone della crescita e IGF-1.
+
+A:
+Diagnosi primaria: Acromegalia. Complicazioni: Insufficienza cardiaca (evidente da BNP elevato, NYHA stadio III-IV), macroadenoma ipofisario. Diagnosi differenziali: Altre cause di cardiomiopatia, effetti secondari dell'eccesso di ormone della crescita a lungo termine.
+
+P: 
+Continuare l'octreotide, monitorare l'efficacia e gli effetti collaterali. Pianificare il rinvio al Daniel Schmid (cardiologia) per la gestione dei problemi cardiaci. Considerare l'adeguamento dei farmaci per l'insufficienza cardiaca in base alle raccomandazioni del Daniel Schmid. Necessari controlli regolari per il monitoraggio del livello ormonale e della funzione cardiaca. Educare Lina Meyer sul monitoraggio regolare e l'aderenza al piano di trattamento. Discutere le opzioni chirurgiche per il macroadenoma ipofisario con Daniel Schmid (neurochirurgo).
+
+Daniel Schmid
+Anthony-Cole"
+

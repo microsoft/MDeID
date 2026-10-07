@@ -1,0 +1,57 @@
+"\"Pflegekratznotizen: Hautzustandsuntersuchung\"
+
+Kopfzeile:
+Zuständiger Arzt: Martin Schwarz
+
+Patienteninformationen:
+Patientenname: Matthias Lenaerts
+ALTER: 80
+Adresse: Matthias Lenaerts, Krugring 100 48, 3426 Freckleton, Deutschland
+Kontonummer: 40-542172l
+E-Mail: waM@who.int
+Telefon: (273)954-6149x616
+
+Vitalzeichen:
+- Temperatur: 98,6°F 
+- Puls: 80 Schläge pro Minute
+- Atmung: 16 Atemzüge pro Minute
+- Blutdruck: 120/80 mm Hg
+
+Hautausschlaguntersuchung:
+Rötung: Ja
+Juckreiz: Ja
+Schwellung: Nein
+Beulen: Ja
+Dauer: 29.08.84
+
+Beobachtungen:
+-Der Patient klagt über einen anhaltenden Hautausschlag, der vermutlich eine Pilzinfektion ist.
+-Die Untersuchung bestätigte einen juckenden, roten Ausschlag mit kleinen erhabenen Beulen. 
+-Betroffener Bereich des Patienten: Bushaltestelle
+
+Medizinische Vorgeschichte:
+Frühere Krankenhausaufenthalte: n.d . 364
+Medizinische Akte: vnhu-rDqEW
+
+Behandlung:
+Topische Antimykotika-Creme und orale Antimykotika-Medikation verschrieben. Nachsorge empfohlen für 29.08.84.
+
+Zusätzliche Informationen:
+Gesundheitsplan: sAR
+Gerät: Ai-8146ydQ
+Beruf: Psychologe, Sport und Bewegung
+Benutzername (für Online-Beratung) : naertthi
+Notfallkontakt: (273)954-6149x616
+
+Fußzeile:
+Sendende IP: 66.18.103.243
+Softwarelizenz von: 080 ghAgmr
+Bio-ID für Login: 128695-44a
+Dokumenten-ID: 40-542172l
+
+Kontaktinformationen:
+Fax: 386.371.0822x98199
+URL: https://www.hill.org/listpost.html 
+
+ENDE DER NOTIZ."
+

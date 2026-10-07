@@ -1,0 +1,12 @@
+T1	PATIENT 64 81	Daniela Rodrigues
+T2	PATIENT 277 294	Daniela Rodrigues
+T3	PATIENT 377 394	Daniela Rodrigues
+T4	PATIENT 728 745	Daniela Rodrigues
+T5	PATIENT 825 842	Daniela Rodrigues
+T6	MEDICALRECORD 1000 1010	605138-OVt
+T7	PATIENT 1030 1047	Daniela Rodrigues
+T8	PATIENT 1270 1287	Daniela Rodrigues
+T9	PATIENT 1912 1929	Daniela Rodrigues
+T10	DOCTOR 2120 2138	Matheus Cavalcante
+T11	PATIENT 2712 2729	Daniela Rodrigues
+T12	PATIENT 2821 2838	Daniela Rodrigues

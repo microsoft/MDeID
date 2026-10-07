@@ -1,0 +1,42 @@
+"Nursing Narrative Note
+
+S: Patient Chase Jones, a resident from a certain mining region market, presented with a range of symptoms including fever, headache, myalgia, chest pain, dry cough, dizziness, asthenia, dyspnea, acute respiratory failure, and back pain.
+
+O: Laboratory tests showed hemoconcentration (47.1%), thrombocytopenia (37,000/mm3), leukocytosis (22,180/mm3), increased urea (72.56 mg/dL) and creatinine (1.87 mg/dL), elevated aspartate aminotransferase (102.4 IU), and alanine aminotransferase (57.14 IU). Anti-hantavirus IgM antibodies were detected with negative IgG, and a certain hantavirus dBS ACbjaf was confirmed by RT-PCR. No chest X-ray was performed.
+
+A: The patient was diagnosed with Hantavirus Pulmonary Syndrome (HPS), evidenced by clinical symptoms and confirmed through serology and RT-PCR. The rapid progression to acute respiratory failure and multi-organ involvement suggested a severe form of the disease.
+
+P: The treatment strategy included antibiotics, hemodynamic support, and respiratory support. Despite aggressive management, the patient succumbed to the illness nine days after symptom onset. Post-mortem, a study was initiated under the project number ut HNQuAtE to estimate the prevalence of anti-hantavirus antibodies in a similar mining population to understand and possibly prevent further cases.
+
+--------------------------------------------------
+Notes by Nurse Joseph Leblanc
+
+Signature: hasnes
+
+Contact Information:
+Phone: 842.372.5598x17186
+Email: sephLebla@unicef.org
+Fax: 001-669-631-2871x1488
+
+Address:
+Chase Jones, 165 Longspun, Hake, Rejoicer 2547, New Zealand
+
+Patient's Personal Information:
+Age: 99
+Social Security Number: 820-932-790
+License: 330966 fui
+IP Address: 183.211.110.83
+Vehicle: KCD 456
+ID Number: ut HNQuAtE
+
+Hospital: famed Savoy
+Healthplan: 52fev tJI0qUbG
+Profession: Librarian, academic
+Organization: Garcia, Jones and Cook
+URL: https://grimes-martin.com/searchpost.html
+City: Rejoicer
+Country: Canada
+State: 23
+Street: 42392 Juan Radial Apt. 166
+Zip: 2547"
+

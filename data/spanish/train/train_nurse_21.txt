@@ -1,0 +1,46 @@
+"Nota Narrativa de la Enfermera:
+
+Durante la visita de hoy, Mercedes Castillo presentó una historia crónica de movimientos intestinales incontrolados que ha persistido durante 34 años. La calidad de vida del paciente se ha visto muy afectada debido a este problema. Mercedes Castillo también tiene antecedentes médicos de cáncer de cuello uterino tratado mediante histerectomía radical de Wertheim-Meigs el 26 dic 2012 y un procedimiento de tiroidectomía subtotal el 26 dic 2012. Al paciente se le ha diagnosticado malabsorción de lactosa y fructosa y colitis por radiación crónica. Los intentos previos de manejar la condición con una variedad de probióticos, loperamida y mesalazina no han mostrado una mejora significativa.
+
+Como parte de los procedimientos de diagnóstico, Mercedes Castillo ha tenido varias rectoscopias y colonoscopias realizadas. Los hallazgos de estas pruebas mostraron estenosis en el colon sigmoide pero no indicaron ninguna enfermedad inflamatoria intestinal. Las tomografías computarizadas revelaron un engrosamiento concéntrico a largo plazo de la pared rectal y la imbibición de líquido del tejido graso perirrectal. Desafortunadamente, los signos vitales y otros resultados de laboratorio específicos no se proporcionaron en el expediente médico del paciente 86687-qdYj.
+
+El diagnóstico principal es colitis por radiación crónica, que probablemente sea secundaria a la terapia de radiación recibida después de la histerectomía. Si bien podría haber otras causas para la diarrea crónica, estas parecen menos probables dadas las imágenes y los hallazgos endoscópicos. El pronóstico es reservado ya que el paciente no ha respondido a los métodos de tratamiento tradicionales.
+
+En el futuro, el plan de tratamiento incluye iniciar la terapia de microbiota fecal, ya que Mercedes Castillo ha dado su consentimiento para este ensayo experimental con la esperanza de mejorar los síntomas. Serán necesarias citas de seguimiento regulares para monitorear la respuesta del paciente al tratamiento y hacer los ajustes necesarios. Además, el paciente recibirá educación sobre el manejo de los síntomas y los ajustes de estilo de vida para lidiar con la diarrea crónica. Si no se observan mejoras, también se puede considerar una derivación a un especialista Administrador del Servicio Civil para un manejo adicional y una segunda opinión.
+
+-----------------------------------
+Enfermera Ridhi Das, 28776 NuiP
+26 dic 2012>
+
+Marcadores de posición de PHI adicionales: 
+
+Información de Contacto del Paciente:
+- Correo electrónico: Ridhis@mail.com
+- Teléfono: 8212185327
+- Dirección: Mercedes Castillo, Peatonal Sur Arias 754 Interior 105 148, Pachycephaly, NMRO60K5 Colonia San Jose, Argentina
+
+Contacto de Emergencia:
+- Nombre: Mercedes Castillo
+- Relación: 
+- Teléfono: 8212185327
+
+Información de Cuenta y Facturación:
+- Número de Cuenta: 335 910oIg
+- Plan de Salud: qCVz
+- Organización: Marshall, Shah and Thomas
+
+Información del Dispositivo:
+- ID del Dispositivo: 3503-bSYuE
+
+Información del Portal en Línea:
+- Nombre de Usuario: 87E51SYQ
+- Dirección IP: 59.254.240.65
+
+Otra Información Relevante:
+- ID del Vehículo: A59-CJD
+- Número de Seguridad Social: DOJD095885ZWSSGS07
+- ID Biométrica: 708080-29W
+- ID Personal: 335 910oIg
+- Fax: 684-219-5937
+- URL: http://ward.org/blogprivacy.html"
+

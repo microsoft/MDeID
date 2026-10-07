@@ -1,0 +1,14 @@
+T1	PATIENT 18 35	Santiago Lourenço
+T2	PATIENT 81 98	Santiago Lourenço
+T3	PATIENT 266 283	Santiago Lourenço
+T4	PATIENT 439 456	Santiago Lourenço
+T5	PATIENT 701 718	Santiago Lourenço
+T6	DOCTOR 980 995	José Cavalcanti
+T7	PATIENT 1131 1148	Santiago Lourenço
+T8	PATIENT 1305 1322	Santiago Lourenço
+T9	PATIENT 1388 1405	Santiago Lourenço
+T10	PATIENT 1992 2009	Santiago Lourenço
+T11	PATIENT 2131 2148	Santiago Lourenço
+T12	PATIENT 2363 2380	Santiago Lourenço
+T13	MEDICALRECORD 2383 2393	456-7211yz
+T14	DOCTOR 2436 2451	José Cavalcanti

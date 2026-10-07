@@ -1,0 +1,35 @@
+"Patientin Johanna Reiter - 92 Jahre alt. 
+
+S: 
+- Vorgestellt in Infocom mit Atemnot, kein Fieber
+- Monatelange Geschichte von Husten & Keuchen - unempfindlich gegen Antibiotika & Steroide 
+- Verdacht auf Asthma-Diagnose
+- Keine Vorgeschichte: Erstickungsanfälle, Schluckbeschwerden, Sabbern, Atopie, perinatale Probleme 
+
+O: 
+- Bewusst, afebril - Temp: 37,5\u00b0C
+- Herzfrequenz: 130 bpm, Atemfrequenz: 40 bpm, O2-Sättigung: 93%
+- Suprasternale Rezession, verstreutes Schnarchen, diffuses Keuchen
+- Keine Anzeichen: Dehydration, Mangelernährung, Zyanose
+- Kardiovaskuläre Untersuchung: normal
+- Labortests: normales CBC, CRP: 14 mg/l
+- Röntgen: Fremdkörper (oberes Mediastinum)
+
+A: 
+- Primärdiagnose: Atemnot aufgrund eines Fremdkörpers (Kleidungsknopf) in der oberen Speiseröhre
+- Fehldiagnose: Asthma
+- Differentialdiagnose: Asthma, andere Ursachen für Atemnot bei Kindern
+- Prognose: Gut, nach Entfernung des Fremdkörpers
+
+P: 
+- Entfernung des Fremdkörpers mittels Hypopharyngoskopie unter Sedierung
+- Postoperative Behandlung: IV-Flüssigkeiten, Kortikosteroide (Reduzierung der periesophagealen Entzündung)
+- Entlassen: 24 Stunden nach dem Eingriff
+- Diät: Klare Flüssigkeiten
+- Keine Komplikationen oder Symptomrezidive
+- Nachsorge: Überwachung von Speiseröhrenschäden, Atemproblemen
+- Schulung der Pflegeperson: Verhinderung der Aspiration von Fremdkörpern
+
+Carlotta Schmitz
+Gewerbliche/wohnliche Gutachterin"
+

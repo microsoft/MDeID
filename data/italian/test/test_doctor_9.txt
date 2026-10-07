@@ -1,0 +1,36 @@
+"Appunti del Dottore Scratch:
+
+Sogg: Beatrice Gatti, ID: OcK-88713X, Età 100, Ricevente di Trapianto
+
+- Anamnesi: 
+    - Trapianto di fegato '98, causa: cirrosi alcolica, carcinoma epatocellulare
+    - Precedente linfoma diffuso a grandi cellule B, trattamento: chemioterapia '06
+    - Malattia psichiatrica, epilessia post-traumatica
+    - Nega sintomi di encefalopatia
+    - Aumenti intermittenti delle transaminasi dal '14, sospetto uso di alcol
+    - Ascite, disfunzione del graft, agosto 30 apr 1983
+
+- Rx: 
+    - Tacrolimus, livelli ~2 μg/l 
+    - Prednisone, 5 mg al giorno
+
+- Oss: 
+    - Funzione epatica: moderati aumenti delle transaminasi, colestasi
+    - Sierologia: Hep B, C, CMV negativi, virus di Epstein-Barr entro i limiti normali, anti-HEV IgM, IgG positivi
+    - PCR: RNA HEV nel plasma, campione di siero conservato '14, infezione cronica da Hep E
+    - Dopo l'introduzione del ribavirin, settembre 30 apr 1983, miglioramento della funzione epatica
+
+- Valutazione: 
+    - Cirrosi del graft scompensata, diagnosi primaria di infezione cronica da Hep E
+    - Storia di uso di alcol, potenziale contributore alla disfunzione epatica
+    - Precedenti differenziali esclusi: reattivazione Hep B, C, CMV
+
+- Piano: 
+    - Continuare il monitoraggio della funzione epatica, del tacrolimus
+    - Mantenere le dosi attuali di tacrolimus, prednisone
+    - Continuazione della terapia con ribavirin, regolazione in base alla risposta, tolleranza
+    - Consiglio: astensione dall'alcol, prevenire ulteriori danni al fegato
+    - Follow-up regolari: monitorare la progressione della malattia epatica, regolare il trattamento se necessario
+
+Erica Lombardo"
+

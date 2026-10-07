@@ -1,0 +1,41 @@
+"Nota de Enfermagem:
+
+-Status do Paciente [ID Único: 2779 ttDrk]-
+Duarte Pinto apresentando alta 45, desconforto significativo e sinais de malária grave. 
+
+-Sinais Vitais-
+Temp: 102.6F  |  Pulso: 112 bpm  |  Resp: 21/min  |  PA: 145/92 mmHg 
+
+-Contato-
+863.344.9330x5522, ophiOliveira@un.org 
+
+-Contato de Emergência-
+uarPint () - 863.344.9330x5522
+
+-Detalhes do Provedor-
+Sophia Oliveira no LaClede Groves Rehabilitation Center, Jaboatão dos Guararapes, RIO DE JANEIRO, Portugal 
+
+-Informações de Localização-
+Última escola conhecida, suspeita de exposição
+
+-Observações-
+Parasitas da Malária Detectados, mais testes são necessários
+
+-Informações do Dispositivo-
+Serial do Dispositivo: JAMM OoZmv
+
+-Plano de Saúde-
+aC5iCg 
+
+-Notas de Progresso-
+Teste rápido: Positivo. Monitorar para mais complicações. 
+
+-Detalhes do Documento-
+Documento criado por: uarPint
+Data: 3 de jun. de 1991
+
+-Nota de Confidencialidade-
+Esta nota contém informações sensíveis do paciente protegidas sob PHI. O uso não autorizado, divulgação ou duplicação é estritamente proibido. Para uso oficial apenas pela equipe de saúde.
+
+-Fim da Nota-"
+

@@ -1,0 +1,49 @@
+"Nota Narrativa dell'Infermiera
+
+Soggettivo: La nostra paziente, Eleonora Vitali, ha avuto un gonfiore alla caviglia destra da quando aveva 66 anni. Eleonora Vitali non segnala dolore o limitazione del movimento ma trova il gonfiore fastidioso. Eleonora Vitali ha una storia di febbre alta intermittente e gonfiore bilaterale al ginocchio e alla caviglia destra un mese prima del ricovero. La paziente ha gestito il gonfiore con puntura e drenaggio e ha iniziato a prendere aspirina per i sintomi, che non ha alleviato la febbre intermittente.
+
+Oggettivo: All'esame fisico, non è stata osservata alcuna eruzione cutanea o coinvolgimento oculare. Una risonanza magnetica, numero di dispositivo 112952 06g, ha mostrato una piccola quantità di liquido nello spazio articolare senza sinovite. Gli esami di laboratorio hanno rivelato un normale conteggio dei globuli bianchi (9.000/\u03bcL), proteina C-reattiva elevata (15,65 mg/dL) e immunoglobulina G sierica elevata (2.569 mg/dL). L'anticorpo antinucleare era al limite; gli autoanticorpi, compresi anti-dsDNA e anti-peptide citrullinato ciclico, erano negativi, così come il fattore reumatoide. Gli esami del sangue e delle urine non erano significativi.
+
+Valutazione: Eleonora Vitali è stata diagnosticata con artrite idiopatica sistemica giovanile (sJIA) sulla base della presentazione clinica, dell'imaging e dei risultati di laboratorio, escludendo altre condizioni autoimmuni e infiammatorie a causa dell'assenza di autoanticorpi specifici e della storia familiare.
+
+Piano: Il trattamento è stato iniziato con metilprednisolone in bolo (1 g/giorno per 3 giorni), seguito da prednisolone (1 mg/kg/giorno), ibuprofene (30 mg/kg/giorno) e metotrexato (15 mg/m2/settimana). La febbre del paziente ha risposto a questo regime. Il piano include un monitoraggio continuo e l'aggiustamento del dosaggio di prednisolone secondo necessità per gestire i sintomi, poiché i tentativi precedenti di ridurre il prednisolone hanno portato a un gonfiore articolare ricorrente. Saranno programmati controlli regolari per monitorare la condizione di Eleonora Vitali e l'efficacia del trattamento.
+
+**[Informazioni di Contatto]** 
+Telefono: 443-262-9681 
+Email: AlFisch@who.int
+Fax: 692.700.7943x6486
+
+**[Informazioni di Identificazione del Paziente]**
+Numero di Cartella Clinica: 78-fDrmlJc
+Numero di Conto: hcFdyl-342
+Nome utente: disbWrLv
+Numero di Previdenza Sociale: SCXPOX53E68M422N
+Numero di Patente: 64386-2302
+ID Biometrico: NP xLIJGAV
+Indirizzo IP: 74.96.163.20
+Numero di ID Personale: hcFdyl-342
+
+**[Informazioni sull'Indirizzo]**
+Indirizzo: Eleonora Vitali, 0704 Frank Burgs 184, 5903 Castel Di Sangro, Svizzera
+Città: San Giovanni Rotondo
+Stato: Veneto
+Paese: Italia
+CAP: 5903
+Via: 0723 Shelly Terrace
+
+**[Informazioni sull'Ospedale]**
+Ospedale: Westervelt & MacKay
+
+**[Informazioni Sanitarie]**
+Piano sanitario: 3jd
+Dottore: Alina Fischer
+Organizzazione: Walker-Moore
+
+**[Informazioni sul Veicolo]**
+Veicolo: 7EM U77
+
+**[Informazioni Web]**
+URL: mcdowell.org
+
+Infermiera, Alina Fischer"
+

@@ -1,0 +1,46 @@
+"Appunto del Dottore
+
+Paziente: Fritz Frei
+Età: 20
+Dottore: Erika Colombo
+Ospedale: Rosary Church
+Città: Vigolo Vattaro
+Stato: 87
+Telefono: 694.549.9129
+Email: mbok@yandex.com
+Cartella Clinica: 64 LgRqPiT
+Conto: hBQg 08171
+Licenza: EItIE-EWqc
+
+Vitali & Osservazioni:
+- Ritenzione urinaria, debolezza bilaterale degli arti inferiori, parestesia
+- Insorgenza: ~2 settimane prima
+- Eruzione da zoster, parte inferiore destra della schiena, apparsa ~10 giorni prima
+- Neurologico: Grave debolezza degli arti inferiori (grado MRC 0/5), riflessi aboliti (caviglia, ginocchio), segno di Babinski positivo (entrambi i lati), diminuzione della sensazione al tatto (livello T2)
+- Imaging: RM spinale -> Lesione iperintensa T2, T2-T11, potenziamento del gadolinio a T7-T8
+- Laboratorio: WBC elevato (14100, 72% PMN), IgG VZV positivo, IgM VZV negativo
+- CSF: Pleocitosi linfocitica (94 cellule/uL), IgG VZV elevato (0.88), indice IgG VZV alto (14)
+
+Valutazione:
+Sospetta diagnosi primaria: Mielite correlata a VZV (basata su lesioni spinali, risultati del CSF)
+Diagnosi differenziali: Altre mieliti virali (escluse - sierologie/culture negative)
+
+Piano:
+- Iniziare aciclovir IV
+- Monitorare per efficacia/effetti collaterali
+- Gestire il dolore, ritenzione urinaria (medicazioni, cateterizzazione se necessario)
+- Raccomandare la fisioterapia (prevenire l'atrofia, migliorare la mobilità)
+- Educare il paziente (malattia, aderenza ai farmaci)
+- Programmare appuntamenti di follow-up
+- Rinvio: Neurologo (gestione continua), Urologo (sintomi urinari)
+
+Note aggiuntive:
+- Al paziente è stato comunicato il rinvio a Burgess-Henderson
+- Nessuna allergia nota
+- Nessun intervento chirurgico precedente
+- Nessun nj noto
+- Controlla  www.thomas.com/exploreauthor.htm per maggiori informazioni
+- Professione del paziente: Geometra, pianificazione e sviluppo
+
+Erika Colombo"
+

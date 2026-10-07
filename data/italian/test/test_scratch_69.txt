@@ -1,0 +1,48 @@
+"Appunto Infermiera: Osservazione per Dengue
+
+Riepilogo Vitali:
+
+Temperatura: 38.5
+Pressione Sanguigna: 120/80
+Frequenza Cardiaca: 88 bpm
+Respirazione: 16 respiri al min
+
+Parole chiave Condizione: Dolore alle articolazioni, Febbre alta, Mal di testa, Nausea 
+
+Trattamento Somministrato: 
+Somministrato , dosaggio 200mg
+
+Osservazioni Aggiuntive:
+Eruzione cutanea osservata sulla pelle di Hans Baumann - Sospetto di Dengue. In attesa di ulteriori test.
+
+Note:
+Hans Baumann si è trasferito recentemente dall'Italia. Possibile esposizione. 
+Vive a Hans Baumann, 373 Freeman Coves, 193, 2955 Mascali Inconnus, Italia - controllare la presenza di siti di riproduzione delle zanzare.
+
+Prossimi Passi:
+Urs Meyer per confermare la diagnosi. 
+Informare Miller LLC se la dengue viene confermata.
+
+Contatti: 001-696-564-1476, rrs@msf.org, 618-653-9322x52460 (In caso di emergenza o necessità di discutere ulteriormente)
+
+----------------------------------------
+Note a piè di pagina del documento:
+
+- Dispositivo Personale: 6249-8531X utilizzato per il monitoraggio
+- Dettagli del piano di assicurazione sanitaria: a6tmxr
+- Nome utente del paziente per il portale online: fooppGh4
+- Numero di Cartella Clinica del Paziente: 8617-47361
+
+Nota: La consultazione è avvenuta il venerdì 21 febbraio 1997. Tutte le informazioni sono accurate a partire da questa data.
+
+----------------------------------------
+
+IP del Dispositivo: 147.206.112.76
+Numero di Licenza: AiPMC dYmr
+BioID: IA-67742OC
+Identificatore del Veicolo: LYJ 382
+Numero di Previdenza Sociale: VZVMDQ04O57V410Q
+Numero di Conto: uRr-nmXvZn
+
+**Nota Riservata**: Solo per uso interno da parte del personale autorizzato."
+

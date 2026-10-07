@@ -1,0 +1,84 @@
+#### Discharge Summary ####
+
+##### Discharge Disposition: HOME CARE #####
+
+**Reason for Hospitalization:** 
+
+Patient Samuel Alvarez was admitted due to a sudden onset of fever, chills, flushing, and unresponsiveness causing distress and discomfort, also showing indicators of bacteremia. 
+
+**Hospital Course:** 
+
+Samuel Alvarez's hospital course was marked by comprehensive examinations, routine checkups, and intensive care unit surveillance. This case was managed by Zoe Roddick and their team. 
+
+**Procedures Performed:** 
+
+The procedures performed were blood cultures and complete blood count to ascertain the cause of the symptoms. 
+
+**Care, Treatment, and Services Provided:** 
+
+Samuel Alvarez received intravenous antibiotic treatment as per standard protocols for bacteremia, along with supportive care to manage the symptoms. This was enhanced by dietary consults and regular monitoring of vital signs. 
+
+**Condition and Disposition at Discharge:** 
+
+At the time of discharge, Samuel Alvarez showed significant improvements, with symptoms effectively managed and controlled. The fever receded and the unresponsiveness drastically decreased over the course of the stay. 
+
+**Information Provided to the Patient and Family:** 
+
+Family members were counseled about the condition, the treatment provided, and the signs that should prompt return to the hospital. Detailed information was shared regarding the prescribed medications, their dosages, and potential side effects. 
+
+**Provisions for Follow-up Care:** 
+
+Post-discharge, Samuel Alvarez is advised to attend the follow-up appointments and continue the prescribed medications. Regular check-ups with Zoe Roddick are recommended for close monitoring of the patient's condition. 
+
+#### Allergies and Intolerances Section ####
+
+No known allergies or intolerances.
+
+#### Chief Complaint Section ####
+
+Fever, chill, flushing, unresponsiveness, indicators of bacteremia. 
+
+#### Discharge Diagnosis Section ####
+
+Bacteremia.
+
+#### Plan of Treatment Section ####
+
+Continue with prescribed antibiotics and monitor for any symptoms. Regular follow-ups with Zoe Roddick advised.
+
+#### Hospital Consultations Section ####
+
+Consultations with infectious disease specialists and dietitians were completed to ensure comprehensive care.
+
+#### Procedures Section ####
+
+Blood cultures, complete blood count
+
+#### Results Section ####
+
+Blood cultures positive for bacteremia, Complete blood count showed raised leukocyte levels.
+
+#### Discharge Medications Section ####
+
+Antibiotics (Details of the medications have been provided to the patient and family)
+
+#### Vital Signs Section ####
+
+On discharge, vital signs were stable with temperature normalizing, heart rate: 78 bpm, blood pressure: 120/80 mmHg, and oxygen saturation: 98%.
+
+#### Hospital Discharge Instructions Section ####
+
+The patient is advised to rest, take prescribed medication regularly, maintain a balanced diet, and attend all scheduled follow-up appointments. 
+
+#### Advance Directives Section ####
+
+None stated.
+
+Note: All the clinical assessments and diagnoses are based on the 82217 6856 during the hospital stay. For any concerns or symptoms, please get in touch with the medical team promptly. 
+
+- Prepared by: Zoe Roddick
+
+- Signature: Zoe Roddick
+
+- Date: Mon.30
+

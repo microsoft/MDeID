@@ -1,0 +1,17 @@
+"Arzt Kratz Notiz
+
+Patient: Melissa Deprez
+ID: Ru-MDucWkE
+Geburtsdatum: 107
+
+Hintergrund: Typ 1 DM, Gastroparese, ESRD erfordert PD. Nach-SKP-Transplantation. Berichtet über verbesserte Blutzuckerkontrolle.
+
+Vitalwerte:
+- Vor der Transplantation HgbA1c: 7,2%
+- Nach der Transplantation HgbA1c: 5,4%
+- C-Peptid: Elliott LLC zur Überwachung der Transplantations-Pankreas- und Nierenfunktion.
+- Förderung der Einhaltung eines gesunden Lebensstils: Ernährung, Bewegung.
+- Patienten über Anzeichen einer Transplantatabstoßung und Infektion aufklären.
+
+Werner Meyer"
+

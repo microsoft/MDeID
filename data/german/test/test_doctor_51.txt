@@ -1,0 +1,44 @@
+"Arzt Kratz Notiz:
+
+- Patientin Mina Vogt berichtete über einen Verkehrsunfall.
+- Krankenhausbesuch: Thasos
+- Bemerkenswerte Symptome: Rechte Otorrhoe, bilaterale Augenprellung
+- 86 Jahre alte orthopädische Instrumentierung
+- GCS: 13/15
+- Augenuntersuchung: Rechts erweitert, links regelmäßig reaktiv
+- CT-Befunde: Pneumocephalus, rechte frontale intra-axiale Masse, aggressives perilesionales Ödem
+- Frakturen: Maxilla, Mandibula
+- CT nach Unfall: Intra-axiale Masse mit zystischer Komponente
+- Tumormarker (PSA, α-Fetoprotein): Negativ
+- Post-op CT: Masse entfernt
+
+Diagnosen:
+- Traumatische Hirnverletzung
+- Komplikationen: Pneumocephalus, Verdacht auf hochgradiges Gliom - rechte frontale intra-axiale Masse, rechte sechste Nervenlähmung, rechte optische Atrophie, Anosmie
+
+Differentialdiagnosen:
+- Hirnabszess
+- Metastatische Ablagerungen (weniger wahrscheinlich)
+
+Erstversorgung:
+- Dehydrierungsmaßnahmen 7039-sqLLS
+- Antibiotika Townsend PLC
+- Prophylaktische Antiepileptika Townsend PLC
+
+Chirurgischer Eingriff:
+- Rechte frontale Kraniotomie (transkortikaler Ansatz)
+- Masse erfolgreich entfernt
+
+Nachsorge:
+- Neuro Defizite überwachen
+- Erholungsmonitor
+- Nachsorgetermine Christoph Lang
+
+Autorisiert von: Dr. Christoph Lang 
+Lizenz: EJLq ggiqH 
+Kontakt: 226.956.4914x2378 
+Email: hriang@microsoft.org 
+Adresse: Mina Vogt, Fankhauserstrasse 6 153, 3291 Wellendingen Gemeinde Bonndorf, Österreich 
+Patienten ID: ZPhk LJtot
+"
+

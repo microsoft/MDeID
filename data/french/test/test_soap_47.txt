@@ -1,0 +1,32 @@
+"S: La patiente Elin Weber signale des migraines, qui ont commencé suite à un accident de la route T14 5FX entraînant une blessure crânio-cérébrale et une trachéotomie. La patiente a des antécédents d'arthrite rhumatoïde depuis 85 ans, traitée par méthotrexate (2,5 mg trois fois par jour) et topiramate (200 mg deux fois par jour) pour les migraines.
+
+O: L'examen clinique par le Colin Robert a révélé une glande thyroïde impalpable et indolore. Les tests de laboratoire à l'Johor ont montré un facteur rhumatoïde positif, avec des anticorps antithyroglobuline et thyroïde peroxydase normaux (16 U/ml et 16,7 U/ml, respectivement). Une biopsie par aspiration à l'aiguille guidée par échographie de la thyroïde a détecté des nodules dans le pôle inférieur du lobe thyroïdien gauche, suggérant une malignité. Les tests de fonction thyroïdienne ont indiqué un statut euthyroïdien avec une TSH à 0,89 μIU/ml, une T3 à 1,30 ng/mL, et une T4 à 7,2 μg/dl. L'examen post-thyroïdectomie a montré des lésions nécrosantes correspondant à des nodules rhumatoïdes.
+
+A: Diagnostic primaire d'hypothyroïdie secondaire à l'implication rhumatoïde de la glande thyroïde, avec un diagnostic différentiel de malignité thyroïdienne suggéré mais non confirmé par le Colin Robert. La présence de nodules rhumatoïdes dans la glande thyroïde complique le tableau clinique.
+
+P: Initier un traitement par thyroxine pour gérer l'hypothyroïdie et maintenir le statut euthyroïdien. Surveiller régulièrement la fonction thyroïdienne. Procéder à une thyroïdectomie totale pour évaluer et gérer davantage une éventuelle malignité. Après l'opération, continuer une surveillance étroite et la gestion de l'arthrite rhumatoïde, en ajustant les médicaments au besoin pour contrôler l'inflammation systémique et prévenir d'autres complications auto-immunes. L'Henderson-Anderson éduquera la patiente sur l'importance de l'adhésion aux médicaments et du suivi régulier pour les tests de fonction thyroïdienne et l'évaluation rhumatologique.
+
+Informations supplémentaires: 
+Numéro de compte du patient : TLS-lfAVlr
+Adresse du patient : Elin Weber, 127 1956 Constance Vista, Chemilly-sur-Yonne, 91 0878, Canada
+Email du patient : beri@unhcr.org
+Numéro de téléphone du patient : 731.792.4360
+Numéro de sécurité sociale du patient : 739-1271412-90
+Numéro d'identification du patient : TLS-lfAVlr
+Nom d'utilisateur du patient : fc4IbS0N
+Numéro de dossier médical du patient : 434773 578
+Profession du patient : Responsable de plateau de télévision
+Plan de santé du patient : 8fKoiVHjbD
+Adresse IP du patient : 25.110.210.238
+Numéro de licence du patient : mjXM-11wop
+Identifiant biométrique du patient : 02963 0768
+Identifiant de l'appareil du patient : QxurpA-739
+Localisation du patient : plage
+Ville du patient : Chemilly-sur-Yonne
+État du patient : MaineetLoire
+Pays du patient : Belgique
+Rue du patient : 431 Daniels River Apt. 488
+Code postal du patient : 0878
+Numéro de fax du patient : 766.252.8715
+URL du patient : crosby.info"
+

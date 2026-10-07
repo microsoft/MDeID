@@ -1,0 +1,40 @@
+# Discharge Summary
+
+## Chief Complaint Section
+
+The primary concern leading to the hospital admission of Harry Sullivan was the presence of indicative symptoms and significant changes in cognitive behavior, suspected to be Alzheimer's disease.
+
+## History of Present Illness Section
+
+Upon arrival at the hospital, Harry Sullivan manifested various symptoms including discernible drooling, increased feelings of agitation, recurring nightmares, and a noticeable rhonchus. The most alarming manifestation was a consistent decline in consciousness. 
+
+## Procedures Section
+
+Over the course of Harry Sullivan's hospitalization, numerous diagnostic procedures were conducted under the vigilant supervision of Ethan Pinfold. These procedures included a complete blood count, imaging studies, metabolic panel, and cognitive function tests. 
+
+## Results Section
+
+The results of the aforementioned procedures suggest that Harry Sullivan's condition aligns with the clinical profile of an individual battling Alzheimer's disease. 
+
+## Hospital Course Section
+
+Throughout the course of the hospital stay, Harry Sullivan received extensive care, treatment, and targeted services aimed at managing the symptoms and slowing the progression of the disease.
+
+## Discharge Diagnosis Section
+
+Based on the clinical observations, treatment response, and test results, Harry Sullivan has been diagnosed with Alzheimer's disease.
+
+## Plan of Treatment Section
+
+Post-discharge, Harry Sullivan is advised to continue a regimen of prescribed medications, follow a healthy lifestyle, and engage in cognitive enrichment activities. Regular follow-up appointments with Ethan Pinfoldare highly emphasized. 
+
+## Hospital Discharge Instructions Section
+
+Upon discharge, the family of Harry Sullivan was provided with comprehensive information regarding the nature of Alzheimer's disease, its potential progression, and methods for effective management. This information included the necessity for making lifestyle adjustments, maintaining regular medication schedules, and observing Harry Sullivan's cognitive abilities closely. 
+
+## Provisions for follow-up care
+
+Arrangements have been made for Harry Sullivan to receive follow-up care from a healthcare provider specialized in Alzheimer's. The family of Harry Sullivan has been informed and given contact details of the provider. Harry Sullivan's KcnPGr 914 has been transferred to the provider to ensure continuity of care.
+
+* The document has been carefully redacted to ensure no exposure of PHI, in strict compliance with the HIPAA regulations. Any perceived patient-identifying information is purely coincidental. All healthcare providers are committed to maintaining patient confidentiality and privacy.
+

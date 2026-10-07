@@ -1,0 +1,63 @@
+"Nursing Scratch Note
+
+=======================
+|  Patient: Summer Wilson  |
+|  ID Number: 33310 SGRj  |
+|  Medical Record: ZLbLKn FCG  |
+|  Age: 10-month  |
+|  Admitted: Sep.24.2009  |
+|  Assigned Doctor: Camden Wilson  |
+|  Hospital: Saskatchewan Native  |
+|  Address: Summer Wilson, 183 Circumgyratory, Chiromancer, 3 8219, United States  |
+=======================
+
+- Symptoms:
+    - Muscular weakness: Reported by patient
+    - Cervical rigidity: Observed
+
+- Vital Signs:
+    - BP: 120/80 mmHG 
+    - HR: 80 bpm
+    - Temp: 98.6 F 
+    - RR: 18 breaths per min
+    - SpO2: 98% on room air
+
+- Medical Observations: Saskatchewan Native 
+    - Possible arthritis: Elevated CRP, ESR
+    - X-rays ordered: Pending 
+
+=============================
+|  Emergency Contacts  |                   
+|  Phone: (212)355-1031  |
+|  Email: Cs@unhcr.org  |
+=============================
+
+- Treatment Progress: 
+    - Pain Management: NSAIDs administered, follow up Sep.24.2009
+    - Physical Therapy: Advised, begins Sep.24.2009
+
+Miscellaneous Info:
+    - Account Number: 33310 SGRj
+    - Organization: Jacobson-Carey
+    - Device ID: 77059-877p
+    - Patient's Vehicle: 7203
+    - Health Plan: ZUcVKg
+    - Location (Other): museum
+    - Profession: Museum education officer
+    - Social Security: 274-92-1733
+    - License Number: 751407-juX
+    - Biometric ID: 17 171505e
+    - IP Address: 120.208.107.209
+    - URL for records: https://walters-horton.com/searchfaq.htm
+    - Username: AaFqNQIL
+    - Fax: 4832778527
+
+NB: Contact hospital admin for more information on patient's account, device ID, or vehicle. 
+
+=======================
+This scratch note is confidential and meant for healthcare professionals only. Unauthorized access is punishable by law. 
+
+Prepared by: Nurse AaFqNQIL
+Date: Sep.24.2009
+======================="
+

@@ -1,0 +1,102 @@
+"Note de l'infirmière
+
+-----------------------------------
+
+Informations et observations sur le patient (KA: )
+
+-----------------------------------
+
+Patient : Enzo Perez 
+
+Âge : 86 
+
+Signes vitaux : 
+
+TA : 120/80
+
+FC : 90
+
+FR : 16
+
+Temp : 98.6°F
+
+-----------------------------------
+
+Résumé clinique
+
+-----------------------------------
+
+Plainte : Problèmes de vision, flou. 
+
+Lecture du glucomètre : 215 mg/dl 
+
+Dx : Diabète 
+
+-----------------------------------
+
+Traitement & Progrès
+
+-----------------------------------
+
+Insuline administrée - détails dans le dossier médical : 29-08144ws
+
+Surveillance de la tendance de la glycémie - voir l'identifiant de l'appareil : 3532 CMaUj
+
+-----------------------------------
+
+Autres informations
+
+-----------------------------------
+
+Adresse : Enzo Perez, 0313 Picard Valleys 27, 3785 Sainte-Hélène, Suisse
+
+Email : cobli@red-cross.org
+
+Nom d'utilisateur : MaJ2Z2oC
+
+Médecin : Aline Jacobs 
+
+Fournisseur de soins de santé : RjjmsRLERA
+
+Hôpital : Iowa City IA nursing
+
+-----------------------------------
+
+Contacts
+
+-----------------------------------
+
+Téléphone : (861)961-7640
+
+Tél. alternatif : (861)961-7640
+
+Contact d'urgence : Enzo Perez
+
+-----------------------------------
+
+Détails divers
+
+-----------------------------------
+
+Permis : bPeP dgYkw
+
+N° de sécurité sociale : 818-1467069-08
+
+N° de compte : 715 VsFagn
+
+ID biométrique : fKMvG OuWc
+
+Adresse IP : 122.115.182.43
+
+Infos véhicule : 5CZ R73
+
+Autre lieu : bibliothèque
+
+Organisation : Smith Inc
+
+Profession : Dietéticien
+
+URL : http://www.jones.com/tags/categories/wp-contenthome.htm
+
+Fax : +1-595-846-2549x9245"
+

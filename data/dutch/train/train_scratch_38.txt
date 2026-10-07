@@ -1,0 +1,81 @@
+"**Patiënt Kras Notitie:**
+
+```
+--------------------------------------
+| Patiënt Noortje van der Laan      14 sep. 1970 |
+--------------------------------------
+```
+```
+|-------------------|--------------|
+| Vitale Tekens     | Waarde       |
+|-------------------|--------------|
+| Temperatuur (°F)  | 98.7         |
+| Hartslag (bpm)    | 88           |
+| Ademhalingsfrequentie | 16           |
+| Bloeddruk         | 130/85 mmHg  |
+|-------------------|--------------|
+| Pijn Niveau       | 7/10         |
+|-------------------|--------------|
+```
+
+```
+Samenvatting: Noortje van der Laan meldt dat maagpijn intenser wordt bij het eten. Mogelijkheid van maagzweerziekte.
+
+Klinische Observaties:
+- Buikpijn gelokaliseerd in epigastrische regio
+- Noortje van der Laan at licht ontbijt voor controle
+- Geen andere symptomen zoals misselijkheid of braken gemeld
+- Noortje van der Laan noemde Martin-Andrade evenement voorafgaand aan het ervaren van pijn
+- 48 jaar oud, geen eerdere melding van maagdarmstoornissen
+```
+
+```
+Beoordeelde Testresultaten:
+- Volledige Bloedtelling: Normaal
+- LFTs: Normaal
+- Abdominale Echografie: Normaal
+- Bovenste GI-endoscopie: Gepland voor 14 sep. 1970 bij Helfa
+```
+
+```
+|-----------------------|--------------|
+| Contact Info          | Info         |
+|-----------------------|--------------|
+| Telefoon              | 572-221-9148x7705      |
+| Email                 | oe@unhcr.org      |
+| Noodcontact           | Noortje van der Laan    |
+|-----------------------|--------------|
+```
+
+```
+|-----------------------|--------------|
+| Extra Info            | Info         |
+|-----------------------|--------------|
+| Zorgplan              | iA03 RP0ji |
+| Beroep                | Jeugdwerker |
+| Organisatie           | Martin-Andrade|
+|-----------------------|--------------|
+```
+
+```
+Voorgeschreven Medicatie: Antacida, Protonpompremmers
+Vervolgafspraak: 14 sep. 1970
+```
+```
+Serienummer van het apparaat van de patiënt: Cp-300DcSh
+```
+```
+Medisch Dossier Nr: 75 ufVdcYq
+```
+```
+---------------------------------------------------------
+| Verpleegkundige: Bo Janssens              IP: 212.197.208.175 |
+---------------------------------------------------------
+```
+```
+-----------------------------------------------------
+| Sociale Zekerheid: 208-8782515-68    |
+-----------------------------------------------------
+```
+Opmerking: Let op tekenen van verdere nood. Noodzakelijk om te controleren op zweerperforatie of bloeding. Patiënt geadviseerd om irriterend voedsel en stress te vermijden."
+

@@ -1,0 +1,45 @@
+"```
+Krankenschwester Notiz: 
+===================
+Patient: Paul Schmid
+MRN: 7492 MzZCx
+
+    Vitalwerte & Beobachtungen:
+    ----------------------
+    BP: 110/70 
+    Puls: 80 bpm 
+    Temp: 98.6 \u00b0F 
+    RR: 16 bpm 
+    O2: 100% auf RA 
+    Gewicht: 70 Kg 
+    Größe: 170 cm
+
+    Medizinisch:
+    --------
+    Diagnosen: Gelbsucht, Ursache wird noch untersucht
+    Medikation: Warten auf Anweisungen des Arztes Markus Steiner
+    Labor: Leberfunktionstests angeordnet, warten auf Ergebnisse 6123-gQhsJ
+
+    Kommentare: Patient zeigt Gelbsucht. Kein Fieber. Keine Brustschmerzen. 
+
+Kontaktinformationen:
+--------------------
+Telefon: 001-867-320-5135x99045
+Adresse: Paul Schmid, Leon-Meister-Platz 3/4 107, 1997 Drobollach am Faakersee, Belgien
+Notfallkontakt: aulchm
+
+Zusätzliche Informationen:
+----------------------
+Gesundheitsplan: 8evdk3sE UgW4li
+Aufgenommen von: Schule
+IP-Adresse: 152.115.201.216
+Beruf: Rechtsanwalt, Schottland
+Organisation: Thomas-Huynh
+Fahrzeug: 0S591
+SSN: 70 173 573 856
+Lizenz: xBa-wfwLNX
+Biometrie: PSmU-68144
+
+```
+"
+

@@ -1,0 +1,34 @@
+"Arzt Kratz Notiz
+
+Patient: Henry Kraus
+Mutter: Henry Kraus
+Geschwister: Henry Kraus
+
+Klinische Beobachtungen:
+- Unfähigkeit, die Finger zu beugen, große Daumen normal
+- Zehen starr, große Zehen normal
+- Zweite Zehen - beide Füße, ein bisschen kurz
+- Ellenbogen normal, Schulterberührung möglich
+- Aktueller Status: 11 Wochen UTtWGDG9hRL5sf5Ocn
+
+Befunde der Mutter (Patient I-2):
+- Proximale Interphalangealgelenkfusion - Finger, Zehen
+- Beidseitige Talonavikuläre, Talokalkaneale Koalitionen - radiographische Befunde
+- Angenommenes Geschwister (Patient II-1) ähnliche radiographische Befunde - ähnliche Symptome, normale Ellenbogenfunktion
+
+Wahrscheinliche Diagnose:
+- Genetischer/kongenitaler Zustand - knöcherne Gelenkfusion - Hände, Füße, normale Ellenbogenfunktion
+- Differentialdiagnose: Mögliche Arthrogryposis-Varianten oder syndromische Gelenkfusionspräsentationen 
+- Prognose hängt vom Ausmaß der Gelenkbeteiligung, Zustandsprogression ab
+
+Behandlungsplan:
+- Röntgenaufnahmen aufgrund von Schwangerschaft kontraindiziert
+- Nicht-radiative Überwachung vorgeschlagen
+- Nachsorgetermin am 20. August 2006
+- Jede Verschlechterung der Symptome sofort melden
+- Genetische Beratung in Betracht ziehen - Beurteilung des Erbmusters, Risiko für den Fötus
+- Mögliche Überweisung an Sara Weber, Spezialistin für genetische Störungen oder Rheumatologin zur weiteren Bewertung, Behandlung
+
+Sara Weber
+Morton Inc"
+

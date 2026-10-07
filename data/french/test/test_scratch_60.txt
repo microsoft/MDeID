@@ -1,0 +1,53 @@
+"\"Notes d'infirmière - jeudi 26 novembre 1998\"
+
+======== Détails du patient =========
+Nom : Dawson Pelletier
+Âge : 23
+
+======== Signes vitaux =========
+TA - 120/80
+FC - 78 bpm
+Temp - 98.6°F
+FR - 18 rpm
+
+======== Observations =========
+Fréquence urinaire - Augmentée
+Inconfort - Léger 
+
+======== Diagnostic =========
+Possible infection urinaire
+
+======== Plan de traitement =========
+Surveiller les signes vitaux toutes les 4 heures
+Administrer des antibiotiques
+
+======== Divers =========
+Emplacement : parc
+Hôpital : Amritsar East
+Plan de santé : 4xBg
+Médecin : Charlie Li
+Nom d'utilisateur : awsonletie
+Adresse IP : 221.52.171.113
+Appareil : VDpDW-vgAX
+Dossier médical : qS FEfLnEJ
+Compte : 55898 8064
+NUMID : 55898 8064
+Date de naissance : jeudi 26 novembre 1998
+Bioid : XHlQ-BjuBC
+Permis : ydHVwd-684
+Sécurité sociale : 259-0872360-72
+Véhicule : 860XKU
+Organisation : Brennan LLC
+Profession : Présentateur de diffusion
+URL : campbell.gilmore-hampton.com
+Adresse : Dawson Pelletier, 164 9505 Corman Lake Suite 176, 2680 Regensburg, France
+Ville : Rurange-lès-Thionville
+État : RA
+Pays : Canada
+Code postal : 2680
+Téléphone : (568)884-6059
+Fax : +1-950-912-7970x129 
+
+======== Note =========
+Le patient Dawson Pelletier présente des signes d'infection urinaire. Une augmentation de la fréquence des mictions a été notée, avec un léger inconfort. Il commencera les antibiotiques et sera surveillé toutes les 4 heures. Charlie Li a été informé de la situation."
+

@@ -1,0 +1,45 @@
+"Doctor Scratch Note
+
+Mia Nguyen - 43-week-old 
+Diagnosis: Systemic Lupus Erythematosus (SLE)
+Renal & heart complications
+
+Previous treatments: 
+- Steroids, cyclophosphamide, methotrexate, azathioprine (ceased in Mon-Aug-98)
+
+Current Condition:
+- Nephrotic syndrome partial remission
+- Progressive kidney function decline
+- Severe cardiac issues (coronary atherosclerosis, ischemic heart disease, myocardial infarction, post-infarction dilated cardiomyopathy, severe mitral and tricuspid valve regurgitation)
+- Multiple cardiac surgeries
+- Dialysis, kidney transplantation awaited
+- Exercise tolerance reduced (1 flight of stairs)
+
+Infection Status: 
+- HBV positive
+- HCV positive
+
+Recent Lab Results:
+- Serum creatinine: 2.2 mg/dL
+- Proteinuria: 2 g/day
+- Kidney biopsy: Active and sclerotic focal proliferative lupus nephritis
+- Cardiac interventions: PCI RCA, ICD implantation, valve repair surgeries
+- Complement levels: Normal (C3\u20130.93 g/l, C4\u20130.4 g/l)
+- ANA: Negative
+- BNP: Elevated (619 pg/ml)
+
+Diagnosis:
+- Advanced SLE
+- Secondary complications: CKD stage 5 on dialysis, post-infarction dilated cardiomyopathy, severe mitral & tricuspid regurgitation, chronic HBV & HCV infection
+
+Plan:
+- Continue CKD management with dialysis
+- Monitor for kidney transplantation eligibility
+- Transthoracic echocardiography for cardiac function assessment
+- BNP levels regular monitoring
+- Viral hepatitis management
+- Patient education on heart failure and renal function signs, maintain open communication for new symptoms/concerns
+
+Harry Knapp
+"
+

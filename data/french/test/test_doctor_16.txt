@@ -1,0 +1,51 @@
+"NOTES DU MÉDECIN
+> Doc: Lily Gerard
+
+> Âge: 98
+
+> Patient: Sara Huber
+
+> Numéro de dossier médical: 40112 12BU
+
+> S:
+La mère signale une intolérance à l'effort, Sara Huber (7 ans). Pas de cyanose. Plainte principale : difficulté dans les activités physiques.
+
+> O:
+Examen clinique - RAS. Écho Doppler - Les veines pulmonaires gauches se drainent dans la veine innominée gauche. Drainage normal des veines pulmonaires droites dans l'atrium gauche. Pas de CIV. Dilatation de l'atrium droit et du ventricule droit. Angio-CTP - PAPVC isolé du côté gauche. Les veines pulmonaires gauches forment un canal commun se drainant dans la SVC via la veine brachiocéphalique gauche.
+
+> A:
+Diagnostic principal - PAPVC supracardiaque isolé du côté gauche. Dilatation de l'atrium droit et du ventricule droit - probablement secondaire à un flux et une pression accrus dus au retour veineux pulmonaire anormal. Pronostic - Bon avec correction chirurgicale.
+
+> P:
+Intervention chirurgicale utilisant l'approche par sternotomie médiane (Pas de CEC). Création d'ouvertures dans la chambre commune et l'appendice auriculaire gauche. Anastomose de la veine verticale à l'appendice auriculaire gauche. Soins post-opératoires - Ventilation mécanique (Environ 12 heures). Sortie de l'hôpital prévue le 10ème jour après l'opération. Éducation sur la chirurgie et les soins post-opératoires pour assurer la compréhension et le respect.
+
+> Téléphone: 7994563331
+
+> Email: rary@who.int
+
+> Adresse: Sara Huber, 89 48475 Tiffany Valley, Lescure d'Albigeois, 31 8053, Canada
+
+> Autre lieu: théâtre
+
+> Code postal: 8053
+
+> Ville: Lescure d'Albigeois
+
+> État: 78
+
+> Pays: France
+
+> Numéro d'identification: sidDa-euPZ
+
+> Compte: sidDa-euPZ
+
+> Licence: 89272 OvWV
+
+> Organisation: Coleman PLC
+
+> Plan de santé: dYFOR
+
+> Profession: Bibliothécaire universitaire
+
+> URL: harris-johnson.long.info"
+

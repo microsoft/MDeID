@@ -1,0 +1,61 @@
+"------------Nota Rápida da Enfermeira------------
+
+[HOSPITAL: Islamic Republican] | [DATA: 28/09/1973]
+[Conta: BGYwJ-HytJ]
+
+63 - Idade do paciente
+Marques de Souza - Cidade atual de residência
+abuqbsyj - para o portal do paciente
+
+**Sinais vitais:**
+PA: 120/80 mmHg
+FC: 80 bpm
+Temp: 98.6 F
+FR: 16 respirações/min
+
+**Observações:**
+- Sinais de desconforto ao urinar
+- Tiago Araújo relatou micção frequente
+- Contagem elevada de leucócitos - Possível infecção
+
+**Avaliação:**
+Poss. ITU - Amostra de urina necessária para 117772-Tkr 
+
+**Plano:**
+Antibióticos prescritos por Joana Neves
+Retorno em uma semana, agendar via portal do paciente
+
+**Notas:**
+Informado Tiago Araújo sobre a manutenção da hidratação
+
+**Informações de Contato de Emergência:**
+Telefone: 505-467-0802
+Telefone alternativo: 505-467-0802
+Email: voana@icloud.com
+
+**Número do Registro Médico: Hwu-09391h**
+
+**Informações do Dispositivo:**
+ID do Dispositivo#: Lj-leqDRmE
+
+**Outras Informações:**
+Número do Seguro Social#: 562.369.533-65
+Profissão: Consultor fiscal
+Plano de Saúde: L01BSsP
+Localização diferente de casa: parque
+
+**Assinatura**
+Enfermeira [Nome de usuário: abuqbsyj]
+
+---------------------------------- Rodapé ----------------------------------
+[IPADDRESS: 34.66.85.245]
+[ORGANIZATION: Calhoun-Gonzales]
+[URL: https://www.patel.com/wp-content/postscategory.htm]
+[ZIP: 1ESRB0AA]
+[STATE: COIMBRA]
+[VEHICLE: 195-252]
+[STREET: 427 Galvan Route]
+[LICENSE: 50736 rjYb]
+[FAX: +1-292-546-4877x4199]
+[IDNUM: BGYwJ-HytJ]"
+

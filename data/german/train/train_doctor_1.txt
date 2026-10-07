@@ -1,0 +1,39 @@
+"---
+Kratznotiz
+
+Karin Gruber - ID: cNX zObKUV
+Diagnose: Infantile Hypophosphatasie (HPP)
+
+Zusammenfassung:
+Geschichte von wiederkehrender Lungenentzündung, Rippenbrüchen, Extremitätenbrüchen, Rachitis und Kleinwuchs. Pseudofrakturen am 03.08.02 und Fragilitätsfraktur am 03.08.02. Anfängliche Nicht-Heilung führte zu Nicht-Belastungsstatus. Behandlung mit Asfotase Alfa seit 03.08.02 begonnen. Berichte über verbesserte Mobilität nach der Behandlung.
+
+Vitalzeichen:
+Größe: 138,4 cm (Erwartete mittlere Elterngröße: 174 cm) 
+Zahnlos: Ja
+
+Lab-Ergebnisse (03.08.02):
+ALP: 8 U/L (NR: 38\u2013126)
+Vitamin B6: 2450 mcg/L (NR: 5\u201350)
+
+Genetik:
+Komplex heterozygote Mutationen c.526G>A (p.Ala176Thr) und c.1132G>C (pAsp378His)
+
+Bildgebung:
+Nachbehandlungs-Röntgenaufnahmen - signifikante Kallusbildung, verbesserte Knochenheilung
+
+Plan:
+Fortsetzung der Asfotase Alfa 1 mg/kg subkutanen Injektion (6 mal/Woche)
+Überwachung der Knochendichte, ALP-Werte, Skelettgesundheit
+Physiotherapie zur Erhaltung der Mobilität und Muskelstärke
+Nachsorge: Alle 3 Monate 
+Aufklärung über Anzeichen möglicher Komplikationen
+Sicherstellung des Zugangs zu orthopädischer Versorgung bei neuen Symptomen
+
+Melissa Fontaine
+Lizenz Nr: 4304 56619
+Peterson, Schwartz und Bell
+Karin Gruber, Laglerstr. 07 151, 5076 Mainz, Österreich
+Telefon: (407)823-7344
+Email: onteliss@unwomen.org
+---"
+

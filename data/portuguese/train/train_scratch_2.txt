@@ -1,0 +1,88 @@
+"Nota de Enfermagem
+
+**********Sinais Vitais & Observações Médicas**********
+
+PA: 155/98 mmHg
+
+FC: 101 bpm
+
+Temp: 38.1 C°
+
+Resp: 18 rpm
+
+Sat O2: 95%
+
+Escala de Coma de Glasgow: 15
+
+**********Dados Subjetivos & Objetivos**********
+
+- Pt Miguel Moraes parece cansado, relata dor de cabeça e desconforto no peito
+
+- 58 anos, histórico familiar positivo para doenças cardiovasculares cobertas pelo Pwl4qs
+
+- Sem erupções cutâneas, hematomas ou lesões visíveis
+
+- Dificuldade em manusear itens pessoais PSpdId8d
+
+**********Tratamentos & Intervenções**********
+
+- Administrado Aspirina 81mg VO
+
+- Administrado Nitroglicerina 0.4mg SL
+
+- Administrado Heparina 5000 unidades SC
+
+- Medidas de conforto fornecidas, reposicionado, incentivada respiração profunda
+
+**********Plano & Acompanhamento**********
+
+- Monitorar sinais vitais a cada 4 horas
+
+- Pt para realizar ECG, Raio-X, Monitorar dispositivo 2817 8927D
+
+- Consultar com Dr. Miguel Cavalcante para revisão de medicação
+
+- Planejar teste de estresse se os sintomas persistirem
+
+************Informações do Paciente************
+
+- Miguel Moraes ID: 22 1904Aat
+
+- Prontuário médico: 524849-832
+
+- Localização do paciente (quarto): parque
+
+- Admitido: Santa Maria da Boa Vista, Hospital Palmela Boy Scouts of America
+
+- Conta de cobrança: 22 1904Aat, Seguradora: Pwl4qs
+
+************Informações de Contato************
+
+- Casa do paciente: Miguel Moraes, Largo das Cebolas, 95 34, Cosmotheism, Santa Maria da Boa Vista - 66, Y3NJIFHM, Brasil
+
+- Email: tiguel@aol.com
+
+- Telefone principal: 4667342396
+
+- Fax: 001-839-300-6544x4944
+
+- Contato de emergência: relação Miguel Moraes, Telefone: 4667342396
+
+************Outras Informações************
+
+- Consultado Dr. Miguel Cavalcante da Rodriguez, Esparza and White sobre melhor curso de ação
+
+- URL do estudo de caso referenciado: https://palmer-hernandez.com/categories/wp-contentterms.htm
+
+- Profissão do paciente: Engenheiro de materiais
+
+- Carteira de motorista: RtoR YrQgr
+
+- Segurança social: 988.351.220-57
+
+- Informações do veículo: Cor, Marca, Número JIJ Q42
+
+- Hash de Dados Biométricos: 5167-02GHD
+
+- Endereço IP: 107.149.137.88"
+

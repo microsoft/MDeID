@@ -1,0 +1,46 @@
+"Nota Narrativa Infermieristica per un Paziente Pediatrico con Ernia di Bochdalek
+
+Soggettivo:
+
+Il paziente, un 76 si è presentato con una storia di distress respiratorio e conati di vomito durati per un numero non specificato di giorni. Il principale caregiver, Bruno Meyer, ha riferito che il bambino faceva fatica a respirare e sembrava visibilmente in difficoltà. 
+
+Oggettivo: 
+
+L'immagine iniziale ottenuta con un kdQzO NMJH, ha rivelato un pneumotorace a tensione sinistro con spostamento del mediastino. È sorto il sospetto di anse intestinali nell'emitorace inferiore sinistro. All'ingresso, il paziente presentava grave dispnea, temperatura elevata e tachicardia. È stata eseguita immediatamente l'intubazione endotracheale. Ulteriori immagini ottenute con una TAC toracica hanno confermato l'enterotorace sinistro con spostamento del mediastino. È stato inserito un tubo toracico sinistro, drenando inizialmente un fluido considerato vecchio sangue. La laparoscopia diagnostica ha identificato un'ernia di Bochdalek sinistra con erniazione dell'intestino tenue, della milza e dello stomaco nel torace e fluido macchiato di bile nel torace e nell'addome. È stata scoperta e trattata una perforazione gastrica alla curvatura minore tramite conversione a laparotomia, dove la perforazione è stata chiusa e l'ernia diaframmatica riparata. Postoperatoriamente, un ascesso retrovescicale è stato drenato 30 giorni dopo l'intervento.
+
+Valutazione: 
+
+La diagnosi primaria è un'ernia di Bochdalek sinistra con complicanze tra cui perforazione gastrica e successivo ascesso retrovescicale. La diagnosi differenziale iniziale includeva la rottura del diaframma. La prognosi è favorevole con il paziente attualmente asintomatico dopo un controllo del 7 dic 1977.
+
+Piano: 
+
+Il paziente ha subito la riparazione chirurgica della perforazione gastrica e dell'ernia diaframmatica, seguita da monitoraggio e trattamento postoperatorio di un ascesso retrovescicale. Il recupero ha incluso la gestione della gastroparesi e un prolungato soggiorno in ospedale di 4-5 settimane. Il paziente continuerà ad essere monitorato regolarmente per valutare eventuali complicanze a lungo termine o recidive. È stata fornita un'educazione ai genitori riguardo ai segni di possibili complicanze e all'importanza delle visite di controllo regolari.
+
+Informazioni Paziente:
+- Nome: Bruno Meyer
+- Età: 76
+- Numero di Cartella Clinica: lWZXzI-QYI
+- Numero ID: 57-PTTanzx
+- Indirizzo: Bruno Meyer, Viale Lamberto, 77 Appartamento 28 180, 2337 Matelica, Svizzera
+- Numero di Contatto: 847-472-6169
+- Email: vl@microsoft.org
+- Piano Sanitario: dupfV3S
+
+Informazioni di Contatto Infermiere:
+- Nome: Giovanni Galli
+- Numero di Licenza: FXh-331782
+- Organizzazione: King-Davis
+- Numero di Contatto: 847-472-6169
+- Email: vl@microsoft.org
+
+Contatto di Emergenza:
+- Nome: Bruno Meyer
+- Relazione: Bruno Meyer
+- Numero di Contatto: 847-472-6169
+- Email: vl@microsoft.org
+
+Footer: 
+- ID Documento: 57-PTTanzx
+- Data: 7 dic 1977
+- Indirizzo IP: 147.135.180.4"
+

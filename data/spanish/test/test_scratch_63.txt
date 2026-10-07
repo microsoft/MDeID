@@ -1,0 +1,55 @@
+"NOTA DE ENFERMERA 
+
+Información del Paciente 
+--------------------
+Paciente: Lucas Torres
+Edad: 57
+Residencia: Lucas Torres, Calle Leocadio Cuervo 9 Piso 7, 58, 0565 San Agustín del Guadalix, Spain
+Correo electrónico: om@yandex.com
+Teléfono: +1-612-851-9812x057
+Contacto en caso de emergencia: 3G52m9Hs
+
+Detalles del Hospital
+----------------
+Hospital: WRGB
+Doctor: Matéo Tom
+
+Información de Salud 
+-------------------
+Plan de Salud: DWE8sIpa
+Historial Médico: 840301 wEA
+ID de la cuenta: VrwVif-SRb
+
+Observaciones: 
+--------------
+1. Dolor en los ganglios linfáticos - Severo 
+2. Erupción cutánea - Presente
+3. Posible diagnóstico - Varicela 
+
+Signos vitales: 
+--------
+- Temp: 38.5C
+- PA: 120/80 mmHg
+- FR: 22/min
+
+Información del Dispositivo 
+------------------
+Dispositivo: qzZYcX-Mdb
+
+Información Miscelánea 
+--------------------------
+IP: 118.154.9.13
+Fecha de admisión: 7/10/10
+Vehículo utilizado para el transporte: 8L734
+Licencia (si la hay): 8242-PBtVj
+Profesión: Psicólogo educativo
+Organización: Simmons-Thomas
+Otra ubicación: universidad
+Seguridad Social: 96.729.551
+Identificador biométrico: 4369-ICkHi
+Fax: (904)748-4767x376
+URL: morris-wilson.org
+Número de ID: VrwVif-SRb
+
+Nota: Este documento contiene información sensible y debe ser manejado de acuerdo a ello."
+

@@ -1,0 +1,57 @@
+"Note de Docteur Scratch
+
+---------------------------
+
+Thomas Monnier signale de la fatigue, des sueurs nocturnes, une perte de poids, une perte d'appétit et un léger inconfort abdominal depuis 2 mois. Pas de fièvre, de frissons, de toux, de nausées, de vomissements, de démangeaisons ou de problèmes urinaires ou intestinaux. 
+
+Informations générales
+---------------------------
+Antécédents médicaux :
+- Sarcoidose inactive
+- Hypertension
+- Hyperlipidémie
+- Trouble bipolaire
+- Maladie coronarienne avec intervention coronarienne percutanée récente
+- Diabète de type 2 nouvellement diagnostiqué
+Pas d'antécédents de consommation d'alcool ou de tabac.
+
+Signes vitaux
+---------------------------
+IMC : 37,2 kg/m2
+Poids : 263 livres
+39, homme
+
+Examen
+---------------------------
+Examen général, pulmonaire, cardiaque et abdominal sans particularité, sans adénopathie palpable. 
+
+Résultats de laboratoire
+---------------------------
+Niveaux normaux d'alanine aminotransférase et d'aspartate aminotransférase. 
+ALP = 258 U/L (référence = 38-126 U/L)
+GGT = 274 U/L (référence = 12-73 U/L)
+Bilirubine totale à 1,7 mg/dL (référence = 0,0-1,3 mg/dL) et bilirubine directe à 0,7 mg/dL.
+
+Évaluation
+---------------------------
+Le patient présente des symptômes indiquant un trouble systémique, possiblement lié à une dysfonction hépatique comme l'indiquent les niveaux élevés d'ALP, de GGT et de bilirubine. Les diagnostics différentiels incluent une pathologie hépatique secondaire à un médicament, une stéatose hépatique non alcoolique (avec obésité et diabète), ou une résurgence de la sarcoidose affectant le foie.
+
+Plan
+---------------------------
+- Continuer les médicaments actuels.
+- Planifier un suivi dans deux semaines.
+- Examiner les résultats supplémentaires des tests de la fonction hépatique et des images.
+- Éduquer le patient sur la surveillance des symptômes et le maintien d'un régime alimentaire sain pour gérer le poids et le diabète.
+- Envisager une référence à un hépatologue si les tests de la fonction hépatique s'aggravent ou ne s'améliorent pas.
+
+Maxime Cordier
+
+---------------------------
+ID du patient : Zeuvg-nnes
+ID du médecin : Maxime Cordier
+Hôpital : Gruppenführer
+Lieu : hôpital
+Date : mercredi 11 mars 2015
+Contact : +1-718-342-2965x638 / re@yandex.com
+"
+

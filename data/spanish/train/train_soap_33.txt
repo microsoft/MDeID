@@ -1,0 +1,24 @@
+"S: La paciente Rocío Soler tiene 44 años y tiene antecedentes de hipoxia al nacer, presentando retrasos en el desarrollo y trastornos del sueño. Los padres informan hallazgos recientes de niveles elevados de GHB a partir de un análisis de ácido orgánico en la orina realizado en Julien Levy.
+O: Las pruebas genéticas realizadas en Green LLC revelaron una nueva mutación homocigota c.800 T > G (p.V267G) en el exón 5, heredada de ambos padres. El análisis bioinformático, realizado en gimnasio, indica que esta mutación es \"probablemente dañina\" y \"causante de enfermedad\" con una alta puntuación de patogenicidad. Los resultados previos del EEG y la resonancia magnética cerebral, almacenados en el historial médico 47667-zigK, y realizados en Julien Levy, no fueron claros.
+A: El diagnóstico principal es un trastorno genético vinculado a la nueva mutación c.800 T > G, que contribuye a los retrasos en el desarrollo y los problemas de sueño. Los diagnósticos diferenciales, registrados bajo el número de cuenta eIW-3257Df, podrían incluir otros trastornos genéticos o metabólicos que afectan el desarrollo neurológico.
+P: Plan para monitorear de cerca el desarrollo de Rocío Soler a través de citas de seguimiento regulares programadas para el jueves, 10 de junio de 1976. Las intervenciones incluirán terapia ocupacional, terapia del habla y terapia conductual para abordar los retrasos en el desarrollo. Se implementarán mejoras en la higiene del sueño, con posible intervención farmacológica si es necesario. Se aconseja a los padres que mantengan una comunicación abierta con el equipo de atención médica, incluyendo a la Dra. Carolina Herrera y a la enfermera Carolina Herrera, y pueden contactarlos en el 001-364-348-3697x5894 o rna@who.int, para ajustar la atención según sea necesario. Los padres también deben actualizar su plan de salud pShC sobre el progreso.
+
+Notas adicionales:
+- El nombre de usuario del paciente para el portal del hospital es ggklTdU2.
+- La dirección de la casa del paciente es Rocío Soler, Vial Marisol Amigó 3 Piso 9 69, Warheads, CBQV5HEJ Santa Perpètua De Mogoda, Argentina donde vive con sus padres.
+- El número de identificación del paciente es eIW-3257Df.
+- El número de dispositivo del paciente es TLn-648llV.
+- El número de placa del vehículo del paciente es LAR 101.
+- El número de seguridad social del paciente es 85719321V.
+- La licencia de conducir del paciente es 356 655RLH.
+- El identificador de huellas dactilares del paciente es yep agupvT.
+- La dirección IP del paciente en casa es 16.126.123.77.
+- La profesión del paciente es Asesor de salud y seguridad.
+- El estado de residencia del paciente es aguascalientes.
+- La ciudad de residencia del paciente es Santa Perpètua De Mogoda.
+- El código postal del paciente es CBQV5HEJ.
+- El país de residencia del paciente es Perú.
+- La calle del paciente es 699 Gardner River.
+- La URL del blog personal del paciente es collins.smith.chen.info.
+- El número de fax del paciente es (723)241-9142x8813."
+

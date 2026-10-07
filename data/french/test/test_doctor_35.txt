@@ -1,0 +1,62 @@
+"Note du médecin
+-------------
+Alina Widmer - 28 - femme
+
+Historique récent :
+- Fièvre intermittente, frissons
+- Fatigue, diminution de l'appétit
+- Douleurs dorsales & abdominales
+- Perte de poids : 35 lbs (3 mois)
+- Traitement contre le paludisme : 6 mois auparavant
+- Voyage récent : Belgique
+
+Signes vitaux :
+- Temp : 102.3 F
+- TA : 103-110/59-64 mmHg
+- FC : 92-113 bpm
+- Sat O2 : 99% (Air ambiant)
+
+Labo :
+- Hb : 4.4
+- VGM : 87.5
+- Plaquettes : 13
+- GB : 6.4
+- INR : 1.73
+- Na : 132
+- Lactate : 4.6
+- PAL : 133
+- Bilirubine totale : 1.9
+- Bilirubine directe : 1.6
+- Albumine : 2.8
+
+Imagerie :
+- RX thorax, TDM : infiltrats bilatéraux des lobes inférieurs, zones focales d'infiltrats & consolidation (Tarkwa)
+- Petite hydrocèle scrotale droite 
+
+Frottis sanguin :
+- Quelques monoblastes
+- Caractéristiques dysplasiques
+- Érythrocytes avec inclusions intracellulaires
+
+Aspiration de moelle osseuse :
+- Moelle hypercellulaire, monoblastes
+- Érythroblastes, défaut de maturation
+- Quelques mégacaryocytes
+- Feuillets de cellules mononucléées immatures occupant diffusément les cavités de la moelle
+
+Évaluation :
+- Anémie sévère
+- Thrombopénie
+- Pneumonie acquise dans la communauté
+- Possible malignité hématologique (LAM ?)
+
+Plan :
+- Soins de soutien (Transfusions de sang, de plaquettes)
+- Antibiotiques IV (ceftriaxone, azithromycine)
+- Atovaquone pour la prophylaxie du paludisme
+- Évaluation hématologique (Consultation avec Fritz Frei)
+- Surveillance des signes vitaux, des numérations sanguines, des fonctions organiques
+- Éducation du patient concernant le diagnostic, le plan de traitement, les complications potentielles
+
+Fritz Frei"
+

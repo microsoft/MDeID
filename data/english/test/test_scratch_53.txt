@@ -1,0 +1,91 @@
+"SCRATCH NURSING NOTE
+
+------------------------
+| Patient ID: Henry Williams |
+------------------------
+
+\u2022Vitals:
+- BP: 120/80
+- HR: 77
+- Temp: 98.6\u00b0F
+- Resp: 16
+- O2 Sat: 98%
+
+\u2022Primary Observation: 
+Seems restless, reports trouble sleeping due to skin condition.
+
+\u2022Secondary Observation:
+Skin condition reported as '', Presence of patches, need for Dermatology consult.
+
+\u2022Med Subj:
+- Blood draw completed, sent to bench lab
+- Administered 5mg Melatonin for sleep aid
+
+\u2022Extra:
+- Patient's PCP Cheryl Freeman notified for consult
+- Noted on 321-xZePtM
+
+-------------
+| Footer |
+-------------
+
+\u2022Contact Info:
+- Next of kin Henry Williams
+- Relation: Niece
+- 978.273.5973x504, erma@mail.com
+
+\u2022 Account details:
+- Account No: zi LWlMPnp
+- Health Plan: ljCNa6
+
+\u2022 Address Info:
+- Address: Henry Williams, 183 Callipered, Intercomparison, Phryganea 2113, New Zealand
+- Location: Phryganea, 379, Canada
+
+\u2022 Device Info:
+- Medical Device: ZSZvrT-761
+
+\u2022Network:
+- IP Address: 152.119.23.121
+- UserName: Zazlfwov
+
+-----------
+| Header |
+-----------
+
+\u2022Hospitalization Info:
+- Hospital: Herophilos
+- Admission Date: Mon-May
+
+\u2022 Professional Info:
+- Admitting Doctor: Cheryl Freeman
+- Profession: Chiropodist
+
+\u2022 Organization Info:
+- Organization: Martinez LLC
+
+\u2022License:
+- License ID: 12034 nkKj
+
+\u2022Vehicle:
+- Vehicle ID: 27F MG8
+
+\u2022Social Security:
+- SSN: 685-944-662
+
+\u2022Fax:
+- Fax: +1-659-876-7270x00659
+
+\u2022Bio ID:
+- Bio ID: jpHoIW zsj
+
+\u2022ID Num:
+- ID Num: zi LWlMPnp
+
+\u2022URL:
+- Website: ferguson-brooks.saunders.ellison-shields.com
+
+\u2022Zip:
+- Zip: 2113
+"
+

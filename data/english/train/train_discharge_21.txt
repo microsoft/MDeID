@@ -1,0 +1,60 @@
+## Discharge Summary 
+
+### Header
+
+Discharge Disposition: Condition stable, discharged to home with care instructions 
+
+### Admission Diagnosis Section
+
+Diagnosed Condition: Cholelithiasis 
+
+### Hospital Course Section
+
+Upon admission, Laura McGlashan presented with nausea, abdominal pain, vomiting, and mild episodes of referred pain. Treatment, care, and services provided during the hospital stay included management of the symptoms, careful monitoring, and an in-depth evaluation to determine the severity of the cholelithiasis.  
+
+### Procedures Section 
+
+An abdominal ultrasound was conducted for Laura McGlashan, which confirmed the diagnosis. No surgical intervention was required at this point.
+
+### Results Section
+
+The result of the ultrasound showed multiple gallstones, and the patient's liver function test reports were within normal limits. These findings confirmed the diagnosis of cholelithiasis.
+
+### Discharge Diagnosis Section
+
+Laura McGlashan is diagnosed with Cholelithiasis. This diagnosis is based on the associated symptoms, clinical evaluations, and results from the ultrasound examination.
+
+### Plan of Treatment Section
+
+Laura McGlashan was discharged on a medication regimen which includes pain management and anti-emetics. A follow-up consultation with Caden Simardis scheduled in two weeks or sooner if symptoms persist or worsen. The patient is also advised to adopt a low-fat diet to manage the condition. 
+
+### Hospital Discharge Instructions Section
+
+Laura McGlashan should continue taking the prescribed medications as directed by Caden Simard. If symptoms persist or get worse, Laura McGlashan should seek immediate medical attention. 
+
+### Allergies and Intolerances Section
+
+No known allergies or intolerances. 
+
+### Family History Section
+
+No family history of gallstones or cholelithiasis.
+
+### Functional Status Section
+
+At the time of discharge, Laura McGlashan's condition was stable. The patient was able to perform all daily activities without significant discomfort.
+
+### Past Medical History
+
+No significant previous medical history.
+
+### Advance Directives Section
+
+No advance directives noted in the patient's medical record ldQ-112573.
+
+### Discharge Medications Section
+
+Medications prescribed at discharge included over-the-counter pain relievers and anti-emetics.
+
+**Note: This medical document is a Discharge Summary and it does not include any identifiable patient information in keeping with HIPAA and privacy regulations.**
+

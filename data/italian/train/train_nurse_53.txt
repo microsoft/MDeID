@@ -1,0 +1,31 @@
+"Note Narrative dell'Infermiere per Paziente di Oncologia Pediatrica
+
+Soggettivo:
+La nostra paziente Walter Widmer è un 11 che si lamenta di un persistente disagio nella regione lombare, che descrive come irradiante in entrambe le gambe. Questo dolore è in corso da una durata approssimativa di quattro mesi.
+
+Oggettivo:
+Un'RM della colonna lombare di Walter Widmer è stata condotta utilizzando il dispositivo iaMB-5572A e ha mostrato la presenza di una lesione intradurale, extramidollare che si evidenzia con adiacente ispessimento della dura mater in corrispondenza della posizione L2. Dopo un intervento chirurgico, l'istologia ha confermato la diagnosi di condrosarcoma mesenchimale. Questo era caratterizzato dalla presenza di cellule rotonde a fusiformi intercalate con formazione di cartilagine e osso. L'immunoistochimica ha rivelato una diffusa positività per CD99 e una colorazione negativa per l'antigene della membrana epiteliale, STAT6 e la proteina acida fibrillare gliale. L'indice Ki-67 è stato registrato come circa il 30%. L'Archer™ FusionPlex Sarcoma Assay, che è stato condotto sul nostro dispositivo di laboratorio iaMB-5572A, ha rilevato la presenza di trascritti di fusione genica: HEY1-NCOA2 (esone 4 a esone 13 ed esone 14).
+
+Valutazione:
+Dall'indagine sopra menzionata, la diagnosi primaria per Walter Widmer è condrosarcoma mesenchimale alla vertebra L2. Questo indice Ki-67 moderatamente alto suggerisce un comportamento aggressivo della malignità. È essenziale considerare altri sarcomi con caratteristiche istologiche simili nella diagnosi differenziale.
+
+Piano:
+Il prossimo passo è convocare un team multidisciplinare, incluso Kurt Baumann, per discutere le opzioni di trattamento di Walter Widmer, concentrandosi principalmente sulla gestione oncologica. Prevediamo di continuare a monitorare i suoi sintomi e gli eventuali effetti collaterali del trattamento. Inoltre, è fondamentale educare Walter Widmer e la sua famiglia sulla natura della sua diagnosi, le possibilità di trattamento e l'importanza del follow-up regolare. Li incoraggeremo a segnalare immediatamente qualsiasi nuovo sintomo o preoccupazione.
+
+[Informazioni di Contatto]
+Contatto di Emergenza: (326)725-8945x6227
+Email: rtan@aol.com
+Indirizzo: Walter Widmer, 282 Weaver Stream Suite 342 66, 4291 Poggio Moiano, Svizzera
+
+[Informazioni Amministrative]
+Numero di Cartella Clinica: gnbgzQ IBl
+Numero di Conto: vwT OsaTvJ
+Ospedale: Pituaçu
+Piano Sanitario: wDS
+Dottore: Kurt Baumann
+Nome utente: idmerr
+Numero ID: vwT OsaTvJ
+
+[Piede di Pagina]
+Questo documento è stato creato il 1 set 2004 da idmerr da Cunningham-Herrera. Per ulteriori informazioni, si prega di visitare  www.davis.com/list/app/categorieslogin.html o contattarci al (326)725-8945x6227 o 365-856-7250x036."
+

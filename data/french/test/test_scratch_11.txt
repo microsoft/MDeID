@@ -1,0 +1,68 @@
+"---Note de l'infirmière---
+
+**PH I: Ernst Huber** 
+
+- Temp: 102 F 
+- Pâleur: Oui 
+- Malaise: Se plaint de se sentir mal
+- Diagnostic: Possible malaria
+
+**PH II: Dernières mesures vitales de Ernst Huber**
+
+- Pouls: 86 BPM 
+- Resp: 22 respirations/min
+- TA: 120/80 mmHg
+- Sat O2: 95%
+
+**PH III: Notes de progression**
+
+- Chronologie: Admis le 23 oct. 1978
+- Assigné au John Cote 
+- Dossier de Ernst Huber à l'Bera: 750559 630
+- ID unique de Ernst Huber: 01 kQMftyN
+- Plaintes: Température élevée, malaise 
+
+**PH IV: Autres observations**
+
+- Légère jaunisse observée 
+- Test sanguin: Suggère une malaria 
+- Ernst Huber signale un voyage récent à restaurant
+
+**PH V: Contact et informations supplémentaires**
+
+- Contact: 392-321-3990x12088
+- Contact d'urgence: Cotehn@unwomen.org
+- Permanent: Ernst Huber, 8857 Colson Union Suite 544 125, 8593 Regensburg, Belgique
+- Actuel: John Cote, 126 114 Clément Spring, Rieux, 71 1512, Canada
+- Assurance de Ernst Huber 01 kQMftyN avec oYpnw
+
+**PH VI: Appareil et ID supplémentaire**
+
+- Surveillance avec l'appareil 471380-orz
+- Sécurité sociale: 827922-4349
+
+**PH VII: Médication et sortie**
+
+- Médication antipaludique prescrite 
+- Sortie prévue: 23 oct. 1978
+
+**Signature du personnel: qo8CrcRb**
+
+**Fin de la note**
+
+---Pièces jointes---
+
+- Scan du permis du patient: 0494 4296x
+- Hash ID biométrique: 562008-342
+- Adresse IP de l'accès à distance: 26.243.137.213
+- Détails du véhicule: 29KJ306
+- Lieu de travail du patient: Trujillo, Adams and Ross
+- Adresse e-mail associée: Cotehn@unwomen.org
+- Détails de l'orientation: https://www.reynolds.org/main/searchhomepage.htm
+- Contact par fax: 343.368.5443x46040
+- Enregistré par: qo8CrcRb
+- Accès par: Administrateur, organisations caritatives/volontaires 
+
+---Fin du document---
+"
+

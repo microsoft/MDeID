@@ -1,0 +1,30 @@
+"S: De patiënt Lucie François, een 19 jaar oude man, meldt ongemak in de universiteit na een TEP-procedure voor bilaterale directe liesbreuk en een TURP voor benigne prostaathyperplasie. Hij merkte ook pijn en zwelling op in het rechter liesgebied na de operatie.
+
+O: Lucie François onderging TEP en TURP met een totale operatietijd van 7 februari 1975 en een geschat bloedverlies van 253-HTyfsJ. Preoperatieve en postoperatieve levofloxacine werd toegediend. Pathologisch onderzoek onthulde atypische adenomateuze hyperplasie en chronische ontstekingscelinfiltratie, met een hoog PSA-niveau van 4659 FEbCI. Postoperatieve complicaties omvatten een hematoom in het rechter liesgebied, bevestigd door echografie, en bilaterale liesabces met sepsis, bevestigd door CT-scan. Vervolgbehandeling omvatte evacuatie en debridement laparotomie, zonder bewijs van hernia recidief na mesh evacuatie.
+
+A: Primaire diagnose van bilaterale directe liesbreuk en benigne prostaathyperplasie, met postoperatieve complicaties waaronder hematoom, bilaterale liesabces, en sepsis. Differentiële diagnose omvatte mogelijke recidiverende hernia, die werd uitgesloten na follow-up.
+
+P: Doorgaan met postoperatieve zorg met nadruk op hygiëne en controle op tekenen van infectie. Patiënt wordt geadviseerd om alle vervolgafspraken bij te wonen voor voortdurende beoordeling en beheer van herstel. Onmiddellijk contact met zorgverlener Delphine Vermeiren wordt aanbevolen als er tekenen van infectie of andere complicaties optreden. Naleving van postoperatieve instructies is cruciaal voor herstel en preventie van verdere complicaties. 
+
+Extra PHI placeholders:
+- De patiënt woont momenteel op Lucie François, Kastura 101, 9602 Homotonic, Nederland.
+- Hij werd opgenomen in Bowdler.
+- De gebruikersnaam van de patiënt voor toegang tot medische dossiers is Françouc.
+- Zijn rekeningnummer is 253-HTyfsJ.
+- Het sofinummer van de patiënt is 368920590.
+- Hij werd gediagnosticeerd door Dr. Delphine Vermeiren die bereikbaar is op 283-479-8025 of Delphine@who.int.
+- Het zorgplan van de patiënt is Vkb.
+- Zijn beroep is leraar middelbare school, werkzaam bij Bennett-Meyer.
+- Zijn voertuignummer is AKM 710.
+- Het rijbewijsnummer van de patiënt is eSsuz 475M.
+- Zijn biometrische identificatie is 234175 601.
+- Het IP-adres van de patiënt is 217.126.233.238.
+- Zijn persoonlijke identificatienummer is 253-HTyfsJ.
+- De stad waar hij woont is Semiconservative.
+- Zijn land van verblijf is België.
+- De staat waar hij woont is 710.
+- De straat waar hij woont is 698 Zachary Court.
+- Zijn postcode is 9602.
+- Zijn medische dossiers kunnen worden geraadpleegd via contreras.org.
+- Zijn faxnummer is 767-762-2376x469."
+

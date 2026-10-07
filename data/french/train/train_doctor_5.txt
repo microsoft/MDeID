@@ -1,0 +1,60 @@
+"Note du Docteur Scratch :
+
+- Patient : Marley White
+
+- ID : ewJ-usEpCN
+
+- Âge : 13
+
+- État : Insuffisance cardiaque avancée
+
+- Antécédents de CMD : Oui
+
+- Appareil : CRT-D (il y a 7 ans), HeartMate II® LVAD (il y a 4 ans, pont vers la transplantation)
+
+- Symptômes récents : FV, insuffisance cardiaque droite, congestion hépatique
+
+- Traitement : Amiodarone, nifekalant, mexilétine, lidocaïne, inhibiteur de la PDE5, diurétiques, optimisation de la vitesse du LVAD
+
+Observations (Initiales - Post implantation du LVAD) :
+
+- FE : 13%
+
+- Dilatation du VG (diastole) : 51 mm
+
+- Régurgitation aortique : Triviale
+
+- Contraction du VD (FAC) : 33%
+
+- FV : Soutenue
+
+- FA : Fréquence croissante (paroxystique)
+
+- Bilirubine totale : Élevée (fonction hépatique en détérioration)
+
+Évaluation :
+
+- Diagnostic principal : Insuffisance cardiaque avancée (CMD)
+
+- Complications : FV, insuffisance cardiaque droite
+
+- Diagnostics différentiels : Progression de l'insuffisance cardiaque, cardiomyopathie induite par l'arythmie, complications liées à l'appareil
+
+- Pronostic : Réservé
+
+Plan :
+
+- Continuer la surveillance : Fonction cardiaque, enzymes hépatiques
+
+- Ajustement des médicaments : Selon les besoins (arythmies, symptômes d'insuffisance cardiaque)
+
+- Paramètres du LVAD : Assurer une perfusion adéquate
+
+- Suivi : Rendez-vous réguliers, surveillance de l'état et du fonctionnement de l'appareil
+
+- Éducation : Reconnaître les symptômes de l'insuffisance cardiaque, adhésion au plan de traitement
+
+- Consultation : Nina Weber (équipe de transplantation cardiaque)
+
+Note par : Nina Weber (Animateur) à Université Wald/Booker-Mendoza"
+

@@ -1,0 +1,56 @@
+# Resumo de Alta
+
+## Paciente: Maria Carvalho
+
+## Data: 23 de março de 2021
+
+## Médica: Ana Correia
+
+## Hospital: Three North
+
+### Motivo da Admissão
+
+A paciente foi admitida devido à estenose da válvula aórtica, apresentando sintomas como dispneia ao esforço, síncope e desconforto no peito.
+
+### Curso Hospitalar
+
+Durante a estadia, a paciente passou por vários testes e exames de imagem para avaliar a gravidade da estenose da válvula aórtica. A equipe de saúde monitorou os sinais vitais da paciente (PA: 150/90 mmHg, FC: 88 bpm, Resp: 16/min, Temp: 36,5°C) e ajustou o plano de tratamento de acordo.
+
+### Procedimentos Realizados
+
+A paciente passou por uma cirurgia de substituição da válvula aórtica sob a expertise de uma equipe de cardio-torácica. A operação foi bem-sucedida e não foram observadas complicações durante o procedimento.
+
+### Cuidados, Tratamento e Serviços Prestados
+
+A paciente foi inicialmente estabilizada com medicação, após o que se decidiu proceder com a intervenção cirúrgica. Após o procedimento, a paciente foi transferida para a Unidade de Terapia Intensiva Cardiovascular para monitoramento próximo. A paciente também recebeu sessões de fisioterapia para melhorar a recuperação precoce.
+
+### Condição do Paciente e Disposição na Alta
+
+Na alta, a condição da paciente era estável. A paciente retomou a atividade e estava com menos desconforto, com uma diminuição da incidência de dispneia e sem relatos de síncope.
+
+### Informações Fornecidas ao Paciente e à Família
+
+O paciente e a família foram educados sobre o diagnóstico, o procedimento cirúrgico e o processo de recuperação. Eles também foram informados sobre o regime de medicação e as modificações no estilo de vida necessárias para a recuperação do paciente e a prevenção da progressão da doença.
+
+### Provisões para Cuidados de Acompanhamento
+
+A paciente foi agendada para uma consulta de acompanhamento com a Ana Correia em duas semanas no Three North para um check-up e avaliação do progresso da recuperação.
+
+### Medicamentos de Alta
+
+A paciente recebeu uma prescrição de antibióticos para prevenir infecções, bem como medicamentos anti-hipertensivos e redutores de colesterol.
+
+### Instruções de Alta
+
+A paciente foi aconselhada a aderir estritamente ao regime de medicação prescrito, evitar atividades extenuantes e relatar qualquer início súbito de sintomas. Uma dieta equilibrada, hidratação e exercícios regulares e suaves também foram recomendados.
+
+### Resumo dos Estudos de Alta Hospitalar
+
+Na alta, os sinais vitais da paciente estavam estáveis e os exames de imagem mostraram a colocação bem-sucedida da substituição da válvula aórtica. Os resultados laboratoriais estavam dentro dos limites normais, indicando nenhum sinal de infecção ou outras anormalidades.
+
+### Número Único de Registro Médico: TPyGG-243O
+
+**Nota:** Este resumo de alta deve ser usado para a continuação do cuidado e deve ser mantido seguro para proteger as informações de saúde pessoal do paciente.
+
+**Fim do Resumo**
+

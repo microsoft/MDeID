@@ -1,0 +1,17 @@
+"Doctor Scratch Note
+
+Patient: Parker Roy
+ID: 2597-ucWkE
+DOB: 94-yo
+
+Background: Type 1 DM, Gastroparesis, ESRD requiring PD. Post-SKP transplant. Reports improved blood glucose control.
+
+Vitals:
+- Pre-transplant HgbA1c: 7.2%
+- Post-transplant HgbA1c: 5.4%
+- C-peptide: Long, Jones and Wagner for monitoring transplant pancreas and kidney function.
+- Encourage adherence to healthy lifestyle: diet, exercise.
+- Educate patient on signs of transplant rejection and infection.
+
+Henry Murphy"
+

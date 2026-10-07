@@ -1,0 +1,48 @@
+"Nota de Rascunho do Médico
+
+Paciente: Duarte Carvalho
+ID: 77084 csFp
+Idade: 59
+
+Sintomas apresentados:
+- Fadiga (1 semana)
+- Artralgias (1 semana)
+- Mialgias (1 semana)
+
+Não relatou:
+- Perda de peso
+- Febre
+- Sangramento
+- Hematomas
+- Dispneia
+- Sintomas urinários
+
+Tabagismo, uso de drogas, histórico de viagens, fatores de risco para HIV: Neg
+Histórico familiar: Não contribui além do traço falciforme
+Histórico médico: Portador do traço falciforme
+
+Avaliação inicial no Hospital Ullevaal:
+- Anemia (Hgb: 11 g/dL)
+- Trombocitopenia (Plt: 46.000/uL)
+- Insuficiência renal aguda (Cr: 1,33 mg/dL)
+- LDH elevada (968 IU/L)
+- Haptoglobina diminuída (15 mg/dL)
+- Esquistócitos no esfregaço de sangue periférico
+- WBC: 4,1/uL
+- K: 4,1 mmol/L
+- P: 6,6 mg/dL
+- Ca: 9,8 mg/dL
+- Bilirrubina elevada (2 mg/dL)
+
+Tratamento: Iniciado com Prednisona (1 mg/kg) e troca plasmática diária no Hospital Ullevaal
+Resultado: Não foi observada melhora
+
+Diagnóstico Presuntivo: Púrpura trombocitopênica trombótica (TTP)
+Diagnóstico Diferencial: Anemia hemolítica microangiopática, complicações relacionadas ao traço falciforme
+
+Plano: 
+Continuar o tratamento atual no Hospital Ullevaal, monitorar a resposta ao tratamento e ajustar conforme necessário com base nos resultados de ADAMTS13 e na progressão clínica. Educar Duarte Carvalho e a família de Duarte Carvalho sobre TTP, suas implicações e a importância da adesão ao regime de tratamento. Agendar consultas regulares de acompanhamento e monitoramento laboratorial para avaliar a eficácia do tratamento e gerenciar quaisquer complicações emergentes.
+
+Médico: Gabriel Azevedo
+Licença: 58865-5101"
+

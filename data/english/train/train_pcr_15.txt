@@ -1,0 +1,23 @@
+"Patient Care Report Narrative, Medical:
+
+Upon arrival at the market, I took appropriate PPE precautions. The scene was safe. The patient Cooper Smith was sitting upright in a chair, appearing to be in distress. 
+
+The patient was responsive and alert, with a chief complaint of skin sores. They described the condition as a number of sores on their face, which were not healing well. The patient's complaints were consistent with a possible diagnosis of impetigo. 
+
+The patient's airway was open and clear. Their respiratory rate was within normal limits. I initiated oxygen therapy by applying a nasal cannula at a standard flow rate to assure adequate ventilation. The patient's radial pulse was palpated, strong and regular at a rate within normal limits. The skin, apart from the facial sores, was normal in color and slightly cool to touch. No major bleeding was noticed. I determined the patient to be a priority for immediate transport due to the potential for infection spreading.
+
+During the history taking, the patient reported that a past medical history of similar skin conditions existed. They said they had no known allergies. They were not on any medications. Their last oral intake was earlier that day.
+
+On secondary assessment, their lung sounds were clear bilaterally. The cardiac assessment revealed a regular rhythm without any murmurs or extra sounds. Their abdomen was soft and non-tender. The neurological assessment revealed no obvious deficits.
+
+Their initial vital signs were within normal ranges, and oxygen saturation was 98% on room air, which was maintained after the administration of oxygen.
+
+The field impression was impetigo. The patient was advised to keep the sores clean and was informed that they would likely receive antibiotics at the Prince Louis of to treat the infection. During transport, the patient's condition remained stable.
+
+On reassessment, the patient's vital signs were stable and their condition remained unchanged. They were transported to the Prince Louis of without further incident. Upon arrival at the emergency department, the patient care was transferred to the ED physician Noah Joss, and a report was given.
+
+Patient's data was recorded under 607252-CKH and the formal report was digitally signed off under the opermi of the attending paramedic. The ambulance used, identified under WW 7968, was driven by a fellow paramedic. The patient's szKfT details, contact 857.516.8377 and Josah@yahoo.com were noted for record purposes. Biomedical devices used during care were noted under RTBU 5803a. The report was sent to the hospital via secure network 194.159.33.237 and also faxed under the number +1-798-825-7220x711. The Ramirez-Guerrero will follow up on the patient's recovery. The patient's 308496-wMy number was also noted for records. The report was completed on Aug/8 and it was ensured that it complied with the United States's healthcare policies.
+
+Additional notes:
+Emergency contact for the patient is Cooper Smith's family member, whose information has been recorded under the patient's account 848-20qiHA. The report was also CC'ed to the patient's personal physician Noah Joss via secure email. The report was stored in the hospital's server with URL  www.jenkins-owens.net/categorieslogin.htm. The patient's location was pinpointed using zipcode 7445."
+

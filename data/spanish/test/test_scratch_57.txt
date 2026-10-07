@@ -1,0 +1,102 @@
+"Nota de Enfermería
+
+-----------------------------------
+
+Información del Paciente & Obs (KA: )
+
+-----------------------------------
+
+Paciente: José Angel Soto 
+
+Edad: 50 
+
+Signos vitales: 
+
+PA: 120/80
+
+FC: 90
+
+FR: 16
+
+Temp: 98.6°F
+
+-----------------------------------
+
+Resumen Clínico
+
+-----------------------------------
+
+Queja: Problemas de visión, borrosa. 
+
+Lectura del glucómetro: 215 mg/dl 
+
+Dx: Diabetes 
+
+-----------------------------------
+
+Tratamiento y Progreso
+
+-----------------------------------
+
+Se administró insulina - detalles en el registro médico: gz 86751Sc
+
+Se monitoreó la tendencia de la glucosa en sangre - ver id del dispositivo: XSIJ-hBSXv
+
+-----------------------------------
+
+Otra Información
+
+-----------------------------------
+
+Dirección: José Angel Soto, Circuito Norte Ceja 533 960, 31, 8077 San Bartolomé de Tirajana, Spain
+
+Correo electrónico: séMendoz@protonmail.com
+
+Nombre de usuario: iBn51mBO
+
+Doctor: José Mendoza 
+
+Proveedor de salud: F1AXXO UzEMd9F hM90
+
+Hospital: Berkeley International
+
+-----------------------------------
+
+Contactos
+
+-----------------------------------
+
+Teléfono: 2356073642
+
+Tel. Alternativo: 2356073642
+
+Contacto de emergencia: José Angel Soto
+
+-----------------------------------
+
+Detalles Misceláneos
+
+-----------------------------------
+
+Licencia: YBlp JBufD
+
+SSN: 27110941C
+
+Número de cuenta: 105-670YUG
+
+ID biométrica: 83636 Ways
+
+Dirección IP: 73.58.11.24
+
+Información del vehículo: 3UR 292
+
+Otra ubicación: universidad
+
+Organización: Morrison-Johnson
+
+Profesión: General practice doctor
+
+URL: collins-griffin.collins-bishop.org
+
+Fax: 001-879-709-3918x5510"
+

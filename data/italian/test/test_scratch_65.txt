@@ -1,0 +1,48 @@
+"Appunto di Infermieristica: \\\\ Problemi Respiratori - Possibile Tifo
+
+------------ Intestazione ----------------
+Valeria Giordano La Verrerie 13 2257 Svizzera 89
+-----------------------------------------
+
+ztD bNtDvD - Tabella ID:
+1. TmDgjVEw
+2. PIh-5440qB
+3. 298 1991Mf
+4. PIh-5440qB
+5. 588981-6836
+6. 936512-869
+7. 56.104.193.194
+8. 4VZX054
+9. EGUJ ACOYg
+
+Segni Vitali:
+BP: 120/80 mmHg
+Pulsazioni: 80 bpm
+Temperatura: 98.6 F
+Respirazione: 16 respiri/min
+
+Osservazioni:
+- Il paziente ha segnalato difficoltà respiratorie, possibile preoccupazione per l'esposizione a Bowman and Sons.
+- Trattamento con nebulizzatore somministrato, il paziente sembra rispondere bene.
+- Possibile tifo, in attesa dei risultati del laboratorio.
+
+Aggiornamento Trattamento:
+- Trattamenti con nebulizzatore programmati ogni 4 ore.
+- Iniziati fluidi endovena.
+- Campioni di sangue inviati al laboratorio dell'Ospedale Nazionale di Los Angeles per ulteriori test.
+
+------- Footer ---------------
+Contatto di Emergenza:
+Josef Brunner
+(775)912-4903x4659
+oseru@microsoft.org
+Valeria Giordano, 31218 Long Trafficway Apt. 419, 196, 2257 La Verrerie Noncleistogamic, Italia>
+----------------------------
+
+Informazioni sulla Salute:
+Piano Sanitario: N9uw sjf20
+Professione: Responsabile del servizio clienti
+----------------------------
+
+*Nota: Tutti i valori sono segnaposto per l'effettivo PHI. Si prega di aggiornare con informazioni accurate prima dell'uso.*"
+

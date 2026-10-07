@@ -1,0 +1,29 @@
+"(**Nota Rápida do Médico**)
+
+Leonor Gonçalves notas:
+
+Pedro Lopes (Feminino, 40, Hispânica) - Sem angústia aguda.
+Queixas: tonturas, fraqueza, diaforese, diarreia, vômitos. 
+Histórico Médico: Acne, Asma, Distúrbios Psicossociais. 
+Alergias: Pedro Lopes nega alergias, especificamente a abacaxis. 
+
+Sinais vitais (na chegada): 
+PA  mmHg, FR  respirações/min, SpO2  em ar ambiente, Temp  \u00b0C. 
+Glicose no Sangue: 60 mg/dL (Confirmado pelo Laboratório)
+
+Dx Diferencial: 
+1. Hipoglicemia (Diagnóstico Primário - reativo)
+2. Distúrbios metabólicos
+3. Outras causas de sintomas gastrointestinais
+
+Plano de Tratamento: 
+1. Alta com IV 0.9% NaCl para restauração de volume
+2. Ondansetron para náuseas e vômitos
+3. Recomendações dietéticas - proteína em cada refeição, refeições pequenas e frequentes
+
+Recomendações: 
+Acompanhamento com Leonor Gonçalves para mais gestão da hipoglicemia e descartar outras causas potenciais.
+
+**Fim da nota**
+(Nota: Os sinais vitais e os níveis de glicose no sangue são placeholders. Os valores reais serão preenchidos por Leonor Gonçalves com base na condição do paciente durante a visita.)"
+

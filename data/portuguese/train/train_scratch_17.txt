@@ -1,0 +1,90 @@
+"Nota de Enfermagem
+
+====================================================================================
+
+| Visão Geral de Joana Castro |
+
+------------------------------------------------------------------------------------
+
+| Diagnóstico de ITU |
+
+| 102 |
+
+| feminino |
+
+| Plano de Tratamento: #1234DS |
+
+====================================================================================
+
+- 09:45, ii/05: Joana Castro apresentou queixas de dor abdominal, febre...
+
+- 10:30: Sinais vitais de Joana Castro: 78 bpm, PA: 130/80. Temp: 39.2C 
+
+- 10:45: Teste de urina solicitado para Joana Castro. 
+
+         Amostra de Urina: MFohFd-541
+
+- 11:15: Suspeita de ITU. Joana Castro iniciou o curso de antibióticos #789DF
+
+- 12:00: Joana Castro apresenta leve desconforto, temperatura estável em 38.4C.
+
+- 15:00: Joana Castro mostra sinais de melhora, dor abdominal recuando
+
+- 16:00: Joana Castro deve continuar o antibiótico prescrito #789DF pelos próximos cinco dias.
+
+====================================================================================
+
+| Detalhes de Contato Importantes |
+
+------------------------------------------------------------------------------------
+
+| Médico responsável: Santiago Simões |
+
+| Enfermeira: Gerente de turnê |
+
+| Hospital: Rushen Abbey |
+
+| Contato de Emergência: (799)540-5596x7343 |
+
+| Email: Simago@aol.com |
+
+====================================================================================
+
+====================================================================================
+
+| Informações Diversas |
+
+------------------------------------------------------------------------------------
+
+| Plano de Saúde: CmD3 |
+
+| Localização do Paciente: museu |
+
+| Número do Prontuário Médico: 972019 tml |
+
+| Número da Conta: 87 mhXVgKy |
+
+| Nome de Usuário do Paciente: Castroo |
+
+| Endereço IP: 218.202.41.221 |
+
+| Dispositivo: 673938 96G|
+
+| Veículo : 4-81285U |
+
+| Número de Identificação :87 mhXVgKy |
+
+| Segurança Social : 56623501-4 |
+
+| Licença : 111 1480Fj|
+
+====================================================================================
+
+**Nota: Por favor, referir-se ao paciente Joana Castro pelo seu nome de usuário Castroo em todas as comunicações**
+
+Nota Preparada por: Castroo (Enfermeira)
+
+Data: 18 de jul. de 2020
+
+**Aviso: Esta nota é apenas para a equipe médica, estritamente proibido compartilhar com pessoal não autorizado**"
+

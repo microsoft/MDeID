@@ -1,0 +1,46 @@
+"Dokterskrabbel Notitie
+
+Patiënt: Julie Pauwels
+Leeftijd: 70
+Dokter: Martin Verheyen
+Ziekenhuis: Springfield Northampton
+Stad: Sargassos
+Staat: 7
+Telefoon: 642-237-8071
+Email: VerheyeM@un.org
+MedischDossier: 418238 yHf
+Account: 54 PpJPEpE
+Licentie: aV 480844A
+
+Vitaliteit & Observaties:
+- Urineretentie, zwakte in beide onderste ledematen, paresthesie
+- Aanvang: ~2 weken geleden
+- Zoster uitslag, rechter onderrug, verscheen ~10 dagen geleden
+- Neurologisch: Ernstige zwakte onderste ledematen (MRC graad 0/5), afgeschafte reflexen (enkel, knie), positief Babinski teken (beide zijden), verminderde tastzin (T2 niveau)
+- Beeldvorming: Spinale MRI -> Hyperintense T2 laesie, T2-T11, gadolinium verbetering op T7-T8
+- Lab: WBC verhoogd (14100, 72% PMN), IgG VZV positief, IgM VZV negatief
+- CSF: Lymfocytische pleocytose (94 cellen/uL), VZV IgG verhoogd (0.88), VZV IgG index hoog (14)
+
+Beoordeling:
+Verwachte primaire diagnose: VZV-gerelateerde myelitis (op basis van spinale laesies, CSF bevindingen)
+Differentiële diagnoses: Andere virale myelitiden (uitgesloten - negatieve serologieën/culturen)
+
+Plan:
+- Start IV acyclovir
+- Monitor voor effectiviteit/bijwerkingen
+- Adres pijnbeheer, urineretentie (medicijnen, katheterisatie indien nodig)
+- Aanbevelen fysiotherapie (voorkomen atrofie, verbeteren mobiliteit)
+- Patiënt voorlichten (ziekte, medicatie naleving)
+- Vervolgafspraken plannen
+- Verwijzing: Neuroloog (lopende behandeling), Uroloog (urinaire symptomen)
+
+Extra Notities:
+- Patiënt is geïnformeerd over verwijzingen naar Jackson, Mills en Roberts
+- Geen bekende allergieën
+- Geen eerdere operaties
+- Geen bekende LhrkFXrcd oSfGEv
+- Check nguyen-lara.org voor meer informatie
+- Beroep van de patiënt: Onderwijsfunctionaris, gemeenschap
+
+Martin Verheyen"
+

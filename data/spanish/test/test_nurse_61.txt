@@ -1,0 +1,40 @@
+"Nota Narrativa de la Enfermera
+
+S: La paciente María Teresa Benítez informa que le diagnosticaron masas hepáticas y está presente para una consulta de trasplante. La paciente no está segura sobre los síntomas específicos pero menciona una biopsia que confirma el diagnóstico.
+
+O: La imagen preoperatoria revela un hígado agrandado con enfermedad multifocal en todo el parénquima hepático, realce periférico con hipoatenuación central en la fase arterial, e isodensidad en la imagen de fase retardada. Se observan calcificaciones en algunas masas. No hay cambio significativo en el tamaño de la masa desde el miércoles, 4 de enero de 1984. El examen patológico muestra múltiples nódulos color canela (0.5 a 3.0 cm) en los lóbulos bilaterales, con dos patrones histológicos: canales vasculares bien formados y cordones dispersos de células tumorales en una matriz esclerótica, y áreas con cicatrices hialinizadas centrales y células neoplásicas. Los resultados inmunohistoquímicos muestran una fuerte expresión de CD31 y ERG, TFE3 positivo y CAMTA1 negativo en las células tumorales.
+
+A: La paciente tiene masas hepáticas multifocales con características sugestivas de un neoplasma vascular, posiblemente una variante de hemangioma hepático o angiosarcoma, dada la naturaleza vascular y la tinción inmunohistoquímica. El tamaño estable de las masas y los hallazgos histológicos e inmunohistoquímicos detallados apoyan un enfoque controlado pero cauteloso, con el trasplante de hígado como el tratamiento indicado.
+
+P: Proceder con el trasplante de hígado según lo planeado. Después del trasplante, monitorear de cerca al paciente en busca de signos de rechazo y manejar cuidadosamente la inmunosupresión. Serán necesarias citas de seguimiento regulares para evaluar la función hepática y detectar cualquier recurrencia de la enfermedad. Educar al paciente sobre los signos de complicaciones relacionadas con el trasplante y asegurar la comprensión de la necesidad de seguimiento y cuidado de por vida.
+
+Información del Paciente:
+ID del Paciente: MGgk-MzGrN
+Número de Registro Médico: 998 HVxEPT
+Número de Cuenta: MGgk-MzGrN
+Ubicación: universidad
+Hospital: Cambridge Thomas
+Plan de Salud: lzVHM
+
+Información de Contacto:
+Doctor: Óscar Zapata
+Correo Electrónico: atÓsc@yahoo.com
+Teléfono: 739-314-9533
+Fax: (802)925-3013x1515
+
+Información Adicional:
+Ciudad: Tartu Linn
+Estado: Cd. de México
+Profesión: Gerente de bosque/bosque
+Organización: Small Group
+Edad: 68
+Nombre de Usuario: eítezMa
+Vehículo: 6XND360
+Seguridad Social: 28.146.485
+Licencia: mWk 620859
+BioID: CfvW yhsyg
+Dirección IP: 29.223.6.169
+URL: gonzalez-romero.biz
+
+Enfermero Óscar Zapata"
+

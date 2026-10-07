@@ -1,0 +1,56 @@
+"**Nurse Scratch Note**
+
+Patient Info: Henry Doyle
+
+Vital Signs:
+- BP: 120/80 mmHg
+- HR: 75 bpm
+- RR: 16/min 
+- Temp: 98.6 F
+- SpO2: 98%
+
+Observations:
+- Rash: Full body
+- Skin: Dry, Flaky
+- Condition: Itchy, Intense
+- Suspected: Fungal infection
+
+Treatment Plan:
+- Antifungal medication
+- Hydrating Skin Cream
+- Follow up: After 2 weeks
+
+Structured Information:
+
+| Element        | Placeholder   |
+| -------------- | ------------- |
+| Doctor's Name  | Jackson Anderson      |
+| Medical Record | 74-668604r |
+| Account Number | AD-217183y     |
+| License Number | 33 26006Yu     |
+| Device ID      | 394063-297      |
+| Username       | ylenry    |
+| Vehicle ID     | 7-04781Z     |
+| Social Security| 710-354-202 |
+| Bio ID         | Fdq 503184       |
+| IP Address     | 217.41.240.116   |
+| ID Number      | AD-217183y       |
+| Age            | 43-weeks         |
+| Address        | Henry Doyle, 41 Micell, Eroteme, Saddlery 2959, New Zealand     |
+| Hospital       | Sacred Arts    |
+| Other Location | park |
+| Health Plan    | b1s4VClcRb  |
+| Profession     | Fisheries officer  |
+| Organization   | Gonzales-Roberts|
+| Email          | onA@unhcr.org       |
+| Phone          | +1-203-842-6048x028       |
+| URL            | perez.delgado.howe.info         |
+| Fax            | (648)464-7040x9532         |
+| State          | 808       |
+| City           | Saddlery        |
+| Country        | United States     |
+| Street         | 818 Carter Springs Apt. 307      |
+| Zip            | 2959         |
+
+Note: Patient complains of intense itching and discomfort due to rash. Prescribed antifungal medication and hydrating skin cream. Regular follow-up recommended."
+

@@ -1,0 +1,70 @@
+"Schnelle Notizen der Krankenschwester:
+
+-----------
+- Pt. Beob.:
+  Loïc De Vos 
+  Diagnose: gastroösophageale Refluxkrankheit (GERD)
+  Symptome: Sodbrennen, Verdauungsstörungen. 
+
+- Vitalwerte:
+  Blutdruck: 112/70 
+  Herzfrequenz: 78
+  Temperatur: 98.6°F
+
+- Verabreichte Behandlung:
+  Antazida, PPIs.
+
+-----------
+- Kontextuelle Details:
+  Beruf: Grundschullehrer arbeitet bei Stewart, Martin und Jarvis. Wohnhaft in Loïc De Vos, Mielcarekstr. 79 80, 6791 Sinntal, Österreich. 
+  Dr. Machaela Gruber betreut. 
+
+-----------
+- Kontaktinformationen:
+  Telefon: 001-880-934-6012x914 
+  E-Mail: lru@microsoft.org 
+  Notfallkontakt: Loïc De Vos
+
+-----------
+- Gesundheitsinformationen:
+  Versicherung: nslQV4
+  Krankenhaus der Aufnahme: Solothurn 
+  Med. Aufzeichnungsnummer: hnM-LcgiaG 
+
+-----------
+- Geräteinformationen:
+  Geräte-ID: DELOhQ jDN 
+
+-----------
+- Andere Identifikatoren:
+  Sozialversicherungsnummer: 512306-7929 
+  Kontonummer: 91951 qeMX 
+  IP-Adresse: 140.52.77.70 
+  Benutzer: YLAlUHXP
+
+-----------
+- Bio-ID & Fahrzeuginformationen:
+  Bio-ID: TfFkQ-781B 
+  Fahrzeug-ID: 67I 693
+
+-----------
+- Standortinformationen:
+  Anderer Standort: Park 
+
+-----------
+- Lizenz- & Fax-Informationen:
+  Lizenznummer: hbs xtQBgR
+  Fax: (250)754-2930x605
+
+-----------
+- ID-Informationen:
+  ID: 91951 qeMX 
+
+-----------
+- Alter & URL-Informationen:
+  Alter: 8 
+  URL:  www.baker.com/blog/category/applogin.htm
+
+-----------
+"
+

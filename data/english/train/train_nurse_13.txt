@@ -1,0 +1,41 @@
+"Nursing Narrative Note for Ruby Stevenson
+
+Thu,Jul,21,1994 at . Ruby Stevenson with a known history of dilated cardiomyopathy, which led to heart failure, reported feeling weak and having difficulty breathing. This patient has a previously documented case of ventricular fibrillation, and a CRT-D device (6909-QIYNW) was implanted approximately 7 years ago. Additionally, a HeartMate II\u00ae LVAD (6909-QIYNW) was implanted about 4 years ago in anticipation of a potential heart transplant. Recently, the patient experienced palpitations and sustained ventricular fibrillation (VF) post LVAD implantation, leading to symptoms of right heart failure and liver congestion.
+
+The echocardiographic study that was conducted during the LVAD implantation showed an ejection fraction of 13%, dilation of the left ventricle (51 mm in diastole), trivial aortic regurgitation, and relatively preserved right ventricular contraction (fractional area change; 33%). Recent findings include sustained VF, paroxysmal atrial fibrillation (AF) detected with increasing frequency, and elevated total bilirubin levels indicating worsening liver function. The patient's treatment has included amiodarone, nifekalant, mexiletine, lidocaine, a phosphodiesterase type 5 inhibitor, diuretics, and the optimization of the LVAD rotation speed.
+
+The primary diagnosis remains advanced heart failure secondary to dilated cardiomyopathy. Complications include sustained VF and right heart failure. Differential diagnoses could include progression of heart failure, arrhythmia-induced cardiomyopathy, or complications related to the device. The prognosis is guarded given the complexity and progression of the disease.
+
+The plan for the patient continues to be close monitoring of cardiac function and liver enzymes. Adjustments to medications may be needed to manage arrhythmias and heart failure symptoms. Settings of the LVAD should be optimized to ensure adequate perfusion. Regular follow-up appointments will be scheduled to monitor the patient's condition and device function. The patient will be educated on recognizing symptoms of worsening heart failure and the importance of adherence to the treatment plan. A consultation with the heart transplant team may be considered if the patient's condition deteriorates further.
+
+Nurse Lea Gagnon, RN, Sharp LLC 
+Contact Information: 
+Phone: (293)274-4892x5509
+Email: eagnon@yandex.com
+Address: Ruby Stevenson, 82 Barhopping, Bagleaves, 24 4000, Canada
+
+Emergency Contact: 
+Name: Ruby Stevenson
+Relation: Caregiver
+Phone: (293)274-4892x5509
+Email: eagnon@yandex.com
+Address: Ruby Stevenson, 82 Barhopping, Bagleaves, 24 4000, Canada
+
+Device Information:
+CRT-D: 6909-QIYNW
+HeartMate II\u00ae LVAD: 6909-QIYNW
+
+Patient Identifiers:
+Medical Record Number: 8941-mBbvF
+Account Number: 23622 11kc
+Username: Steveny
+IP Address: 115.143.78.201
+Social Security Number: 949-945-664
+License Number: 18477-CKik
+Biometric ID: PUx-TBEaIT
+Vehicle ID: 7IF5659
+Personal ID: 23622 11kc
+Insurance: 75ZRq8
+
+Disclaimer: This note is designed for medical professionals to keep track of the health status and medical history of Ruby Stevenson. It contains sensitive information protected by the Health Insurance Portability and Accountability Act (HIPAA) and other applicable laws. Unauthorized copying, use, or distribution of this information is strictly prohibited."
+

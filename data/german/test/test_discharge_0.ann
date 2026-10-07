@@ -1,0 +1,9 @@
+T1	PATIENT 29 45	Florian Fontaine
+T2	PATIENT 64 80	Florian Fontaine
+T3	DOCTOR 168 184	Cornelia Schwarz
+T4	PATIENT 572 588	Florian Fontaine
+T5	PATIENT 1994 2010	Florian Fontaine
+T6	DOCTOR 2131 2147	Cornelia Schwarz
+T7	MEDICALRECORD 2354 2364	Hec-13HGNw
+T8	DOCTOR 2592 2608	Cornelia Schwarz
+T9	DOCTOR 2894 2910	Cornelia Schwarz

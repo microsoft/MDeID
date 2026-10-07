@@ -1,0 +1,57 @@
+"Doctor's Scratch Note:
+
+Patient Dominic Wratten
+ID BL 277449E
+AGE 7-month
+Residence: bench
+
+Admit Details: 
+- Severe respiratory distress
+- Mental status - altered, disoriented
+
+Significant Medical History: 
+- Intracranial aneurysm (post-surgical bleeding)
+- Ischemic stroke (aphasia, paraplegia)
+- PEG tube placement
+
+On Admission: 
+- Intubation for respiratory support
+- Vitals: 512 3462Fk
+- Clinical Lab Results: 512 3462Fk
+
+Diagnosis: Septic shock (potential)
+- Initiated sepsis workup
+- Cultures: Blood, Urine
+- Initial treatment: Intravenous fluid hydration, Antibiotics ( and )
+
+CT Scan Report: 
+- Non-contrast CT scan - chest, abdomen, pelvis
+- Findings: Bibasilar pulmonary atelectasis, VP shunt catheter malposition (inside gastric lumen), PEG tube malposition (outside gastric lumen), abdominal wall cellulitis, localized abscesses (PEG tube insertion site)
+
+Culture Report: 
+- CSF analysis and cultures - negative
+- Wound culture - Proteus mirabilis (sensitive to carbapenems, piperacillin/tazobactam)
+
+Primary Diagnosis: 
+- Septic shock, secondary to abdominal wall cellulitis and localized abscesses
+- Complications: Malpositioned VP shunt and PEG tube
+
+Differential Diagnosis: 
+- VP shunt infection
+- Meningitis/Encephalitis
+(Ruled out by CSF analysis and culture results)
+
+Management Plan: 
+- Continue IV antibiotics (based on sensitivity testing)
+- Monitor patient's clinical status
+- Supportive care for respiratory, circulatory stabilization
+- Surgical consultation for VP shunt and PEG tube correction
+
+Education & Follow-up: 
+- Education of patient about treatment plan
+- Watch for infection signs/complications
+- Regular follow-ups and reassessment of treatment efficacy
+
+Mason Walker
+Westfield Shopping Centre"
+

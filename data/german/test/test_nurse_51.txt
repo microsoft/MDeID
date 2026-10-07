@@ -1,0 +1,45 @@
+"Krankenschwester Erzählnotiz für Luna Brandt
+
+S: Unsere Patientin, diagnostiziert mit B-ALL am 02.05.2021, zeigte eine hohe WBC-Zählung (>100 x 10^9/L) und einen normalen Karyotyp. Nach Erreichen einer zweiten vollständigen Remission, unterzog sich die Patientin einer haplo-HSCT von ihrem Onkel, gefolgt von Komplikationen einschließlich hämorrhagischer Zystitis und Stadium 1 gastrointestinaler akuter GVHD, die sich mit Methylprednisolon-Behandlung auflösten. Die Patientin erlebte einen dritten Knochenmarkrückfall mit schneller Krankheitsprogression, gekennzeichnet durch zunehmende Knochenmarkblasten, trotz Salvage-Chemotherapie (MOEP-Regime) und nachfolgenden Behandlungen einschließlich haplo-CAR-T 19 Zellprotokoll.
+
+O: Die Erstdiagnose zeigte WBC >100 x 10^9/L. Komplikationen nach haplo-HSCT umfassten hämorrhagische Zystitis und akute GVHD, behandelt mit Methylprednisolon. Ein Krankheitsrückfall wurde mit 6,4% Knochenmarkblasten festgestellt, die auf 56,5% und dann 65,4% anstiegen, trotz Chemotherapie. Jüngste Behandlungen reduzierten Knochenmarkblasten auf 12,7% vor der haplo-CAR-T 19 Zellinfusion, die eine MRD-negative vollständige Remission und vollständigen Spenderchimerismus erreichte.
+
+A: Die Hauptdiagnose ist B-ALL mit einer Vorgeschichte von mehreren Rückfällen und Komplikationen nach haplo-HSCT. Die Patientin hat eine umfangreiche Behandlung durchlaufen, einschließlich Chemotherapie, Steroidtherapie und innovative CAR-T-Zelltherapie, die derzeit in einer MRD-negativen vollständigen Remission resultiert.
+
+P: Fortsetzung der engen Überwachung des Zustands der Patientin mit regelmäßigen Nachsorgeterminen zur Beurteilung der Haltbarkeit der Remission und zur Bewältigung etwaiger auftretender Komplikationen. Offene Kommunikation mit der Patientin aufrechterhalten, um neue Symptome oder Bedenken umgehend anzusprechen. Ermutigen Sie zur Einhaltung geplanter Termine und Behandlungspläne, um eine anhaltende Gesundheit und Remission zu unterstützen.
+
+Kontaktinformationen des Patienten:
+- Telefon: 740-484-8143
+- E-Mail: Pici@unicef.org
+- Adresse: Luna Brandt, Dehmelweg 028 121, 6640 GLINDENBERG, Belgien
+
+Identifikatoren des Patienten:
+- Medizinische Aktennummer: 548956 tEU
+- Kontonummer: 58-KrfmBbv
+- Gerätebezeichner: 477-79ikbU
+- Benutzername: JnuX9Zss
+- Sozialversicherungsnummer: 243638-3839
+- Lizenzbezeichner: jafFb WYhB
+- Biometrischer Bezeichner: 156761 618
+- IP-Adresse: 27.139.166.238
+- Persönlicher Bezeichner: 58-KrfmBbv
+- Fahrzeugbezeichner: 142 EN3
+
+Weitere relevante Informationen:
+- Alter: 34
+- Stadt: Schüpfen
+- Land: Schweiz
+- Staat: 4
+- Straße: 2756 Reid Cliff Suite 851
+- Postleitzahl: 6640
+- Fax: 912-260-5029x066
+- Krankenhaus: Saint Michael 's Church
+- Organisation: Nielsen LLC
+- Gesundheitsplan: 8iM
+- Arzt: Armin Pichler
+- URL: herring.lawrence-kemp.waters.org
+
+Bitte beachten Sie, dass der vollständige Name des Patienten aus Datenschutzgründen als Luna Brandt maskiert ist. 
+
+Krankenschwester Armin Pichler"
+

@@ -1,0 +1,45 @@
+# Resumen de Alta
+
+## Disposición del Paciente
+Hogar
+
+## Sección de Alergias e Intolerancias
+Andrés Fajardo no tiene alergias conocidas.
+
+## Sección del Curso Hospitalario
+El Andrés Fajardo fue admitido debido a signos asociados con cardiomiopatía. Los síntomas presentados incluyeron dificultad para respirar, ortopnea, hipocinesia y dolor en las articulaciones. El paciente fue monitoreado y respondió bien al tratamiento inicial.
+
+## Sección de Diagnóstico de Alta
+Diagnóstico principal: Cardiomiopatía
+
+## Sección de Plan de Tratamiento
+Se aconseja al paciente que continúe con la medicación prescrita y que haga un seguimiento con el Francisco López en el departamento ambulatorio.
+
+## Sección de Consultas Hospitalarias
+Se realizaron varias consultas con el equipo de cardiología dirigido por el Francisco López.
+
+## Sección de Procedimientos
+Se realizaron un ecocardiograma y un ECG.
+
+## Sección de Resultados
+El ecocardiograma mostró disfunción sistólica del ventrículo izquierdo. El EKG mostró ritmo sinusal normal.
+
+## Sección de Medicamentos de Alta
+El Andrés Fajardo debe continuar con los betabloqueantes, inhibidores de la ECA y diuréticos según lo prescrito.
+
+## Sección de Estado Funcional
+Andrés Fajardo mostró mejoría en el estado funcional, con disminución de la falta de aliento y mejora de la movilidad hacia el final de la admisión.
+
+## Sección de Instrucciones de Alta Hospitalaria
+Andrés Fajardo debe continuar tomando los medicamentos prescritos sin falta, seguir una dieta baja en sodio y realizar actividades físicas ligeras.
+
+## Sección de Físico de Alta Hospitalaria
+Al momento del alta, Andrés Fajardo estaba estable, sin falta de aliento ni dolor en el pecho.
+
+## Sección de Signos Vitales
+Los signos vitales en el momento del alta eran estables: Presión arterial: 120/80mmHg, Frecuencia cardíaca: 75 lpm, Frecuencia respiratoria: 16 respiraciones por minuto, Temperatura: 98.6°F, Saturación de oxígeno: 98% en aire ambiente.
+
+## Sección de Directivas Anticipadas
+Se discutieron las directivas anticipadas.
+
+Recuerde, el Andrés Fajardo necesitará continuar monitoreando los síntomas, tomar la medicación según lo prescrito y hacer un seguimiento con el Francisco López después del alta. Cualquier empeoramiento de los síntomas debe ser abordado inmediatamente con el equipo de atención médica.

@@ -1,0 +1,30 @@
+"Rapport de soins aux patients - Paludisme
+
+[DISPATCH] Les services médicaux d'urgence Rodriguez-Walker ont reçu un appel au 911 de Alina Fischer signalant qu'elle se sentait gravement malade. Cette équipe a été dépêchée suite à l'appel téléphonique 795-485-1703x616 du résident local. Nous avons répondu avec des lumières et des sirènes à l'théâtre.
+
+[SYMPTOMS] À notre arrivée, Alina Fischer était en état de détresse. Le patient a signalé une forte fièvre 9, des frissons et une faiblesse. Le problème principal semble être ces symptômes de type grippal, qui reflètent un possible cas de paludisme. 
+
+[HISTORY] Selon Alina Fischer, l'apparition des symptômes remonte à environ 13 juin 1982. L'historique du patient a été obtenu à partir du patient et de leur numéro de dossier médical 225-15uxrJ. 
+
+[INITIAL ASSESSMENT] Une première évaluation primaire a été effectuée. Alina Fischer est consciente mais semble faible et fatiguée. L'évaluation neurologique n'a montré aucun signe de confusion ou de modification de l'état mental. Cependant, une température élevée a été notée. 
+
+[TREATMENT] Le patient a été placé sous une légère oxygénothérapie par masque. Une ligne IV saline WfCf 0032Q a été établie pour des raisons d'hydratation pendant le trajet en ambulance. En raison de l'historique de voyage signalé par le patient et des symptômes, un possible diagnostic de paludisme a été envisagé. 
+
+[TRANSPORT] Alina Fischer a été transportée à l'Kirkstall Educational pour une évaluation et un traitement plus approfondis. Pendant le transport, les signes vitaux du patient ont été surveillés en continu, et des mises à jour ont été fournies à l'hôpital receveur via notre dispositif de communication WfCf 0032Q. 
+
+[HANDOVER] À l'arrivée à l'Kirkstall Educational, le patient a été remis au médecin du service des urgences Justine Janssens. Des informations détaillées sur le patient, y compris le numéro de compte frpJAp-363, le plan de santé XYWmw5j, et l'état d'origine du patient 31 pour la facturation ont été fournies à l'équipe de réception avec un bref résumé du cas.
+
+[DOCUMENTATION] Le consentement signé du patient a été obtenu sur notre formulaire numérique à l'aide de leur nom d'utilisateur pc7B3vWH, et une brochure sur les pratiques de confidentialité a été fournie à eux. Le contact d'urgence du patient Alina Fischer, signalé comme étant un membre de la famille, a été informé de la situation. 
+
+Ce rapport a été compilé par l'accompagnateur Justine Janssens, Ingénieur, site, avec l'ambulance KDW-674 de l'Rodriguez-Walker. Le processus de documentation a été effectué tout en garantissant la confidentialité totale du patient et le respect strict des réglementations HIPAA. 
+
+[REPORTED BY] 
+Accompagnateur Justine Janssens 
+Numéro de licence 37765 udHx
+Signature RBI-UIgsER
+Date 13 juin 1982
+Email Janne@yandex.com
+Adresse IP 80.13.151.49 
+Numéro de fax +1-711-445-0555 
+URL http://johnson.com/wp-contentterms.htm"
+

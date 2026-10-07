@@ -1,0 +1,60 @@
+"Nota de Enfermería
+
+Subjetivo: El paciente Gerardo Baltazar, con antecedentes de deficiencia adquirida de FX por amiloidosis AL, PAF, adenocarcinoma de pulmón metastásico en erlotinib, cardiomiopatía hipertrófica, hipertensión y diabetes mellitus tipo 2, informa sentirse \"bien\" pero ha experimentado problemas incluyendo epistaxis autolimitante y fácil aparición de moretones el 23 de febrero de 2012. El paciente recuerda resultados de laboratorio anteriores y procedimientos médicos.
+
+Objetivo: Los resultados de laboratorio anteriores indicaron un TP de 12.4 segundos (rango de referencia: 11-15 segundos), INR de 1.2 (rango de referencia: 0.9-1.2), aPTT de 38 segundos (rango de referencia: 25-35 segundos), fosfatasa alcalina a 160 U/L (rango de referencia: 40-130 U/L), creatinina a 1.16 mg/dL (rango de referencia: 0.7-1.2 mg/dL), y proteinuria con 882 mg/24 h (rango de referencia: 0-150 mg/24 h). La ecografía abdominal mostró gimnasio con el lóbulo derecho midiendo 21 cm. Las electroforesis de suero y orina indicaron la presencia de inmunoglobulina G-lambda. Smith PLC reveló una extensa deposición de amiloide con presencia de cadena ligera lambda. La biopsia de médula ósea mostró una extensa deposición de amiloide, tinción positiva con rojo Congo y fluorescencia positiva in situ para cadenas ligeras lambda. Se observó una disminución de la actividad de coagulación de FX al 45% con un rango de referencia del 70%-150%. En 23 de febrero de 2012, el perfil de coagulación mostró un TP de 16.3 segundos, aPTT de 33 segundos y actividad de FX del 34%.
+
+Evaluación: El diagnóstico principal es la deficiencia adquirida de FX secundaria a la amiloidosis AL. Los antecedentes del paciente de adenocarcinoma de pulmón recurrente y otras comorbilidades complican el manejo. Los diagnósticos diferenciales incluyen otras causas de coagulación anormal no relacionadas con la amiloidosis. El pronóstico es reservado debido a la complejidad de las condiciones subyacentes y la naturaleza recurrente del cáncer de pulmón.
+
+Plan: Continuar con el régimen actual de quimioterapia con melfalán y dexametasona. Es esencial el monitoreo regular de los perfiles de coagulación y la actividad de FX. Educar al paciente sobre la importancia de informar rápidamente cualquier síntoma nuevo o preocupación. Programar citas de seguimiento regulares para evaluar la eficacia del tratamiento y manejar cualquier complicación. Se recomienda la derivación a un hematólogo para el manejo adicional de la deficiencia de FX y a un oncólogo para el tratamiento continuo del cáncer. Asegurar el cumplimiento de todos los medicamentos prescritos y los horarios de seguimiento.
+
+Pie de página:
+
+Identificador del Paciente: mWgq PUPYF
+
+Número de Cuenta: 12517-eiLU
+
+Identificador del Dispositivo: 324929 99H
+
+Nombre de Usuario: ZDwba9s1
+
+Identificador del Vehículo: HH-0787
+
+Número de Seguridad Social: TOTM452409GCETMB72
+
+Identificador de Licencia: 41021 qXSx
+
+ID Biométrico: QzARV-sdcs
+
+Dirección IP: 8.70.112.157
+
+Otro Identificador: 12517-eiLU
+
+Edad: 75
+
+Dirección: Gerardo Baltazar, Eje vial Yucatán 744 Interior 422 194, Flowerbed, WDDROVS5 Tostado, 55, México
+
+Hospital: 118th Jäger Division
+
+Otra Ubicación: gimnasio
+
+Plan de Salud: itw8s
+
+Profesión: Periodista de revista
+
+Organización: Smith PLC
+
+Fecha: 23 de febrero de 2012
+
+Doctor: Marcos Robles
+
+Correo Electrónico: es@microsoft.org
+
+Teléfono: 909.797.4696
+
+URL:  morgan-gregory.info/blog/exploreindex.asp
+
+Fax: 749.243.0004x586 
+
+Firmado: Marcos Robles"
+

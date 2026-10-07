@@ -1,0 +1,68 @@
+"---Nota de Enfermera---
+
+**PH I: Mónica Villa** 
+
+- Temp: 102 F 
+- Palidez: Sí 
+- Malestar: Quejas de sentirse mal
+- Diagnóstico: Posible malaria
+
+**PH II: Signos Vitales Recientes de Mónica Villa**
+
+- Pulso: 86 BPM 
+- Resp: 22 Respiraciones/min
+- Presión arterial: 120/80 mmHg
+- Saturación de O2: 95%
+
+**PH III: Notas de Progreso**
+
+- Cronología: Admitida el viernes, 13 de enero de 1984
+- Asignada a Patricia Uribe 
+- Registro de Mónica Villa en Manipal Institute of: lYhO-Kjrjz
+- ID única de Mónica Villa: iNkBK-116P
+- Quejas: Alta temperatura, sensación de malestar 
+
+**PH IV: Otras Observaciones**
+
+- Se observa ligera ictericia 
+- Prueba de sangre: Sugiere malaria 
+- Mónica Villa informa de viaje reciente a gimnasio
+
+**PH V: Contacto e Información Adicional**
+
+- Contacto: 8753858578
+- Contacto de emergencia: iari@unicef.org
+- Dirección permanente: Mónica Villa, Circunvalación Norte Villanueva 313 846 130, Chronophotographic, 38168 Asturia, 60, Colombia
+- Dirección actual: Patricia Uribe, Circuito Alcaraz 169 Edif. 587, Depto. 123 119, Rives, 97DKH7UO Oberá, 91, Mexico
+- Seguro de Mónica Villa iNkBK-116P con 1Xe9
+
+**PH VI: Dispositivo e ID Adicional**
+
+- Monitoreo con dispositivo 7274-oZyJu
+- Seguridad Social: 713-17-4585
+
+**PH VII: Medicación y Alta**
+
+- Se prescribe medicación antimalárica 
+- Alta esperada: viernes, 13 de enero de 1984
+
+**Firma del Personal: TwGzsyGh**
+
+**Fin de la Nota**
+
+---Adjuntos---
+
+- Escaneo de la Licencia del Paciente: ReKO-58096
+- Hash de ID Biométrica: ME-241OJud
+- Dirección IP de Acceso Remoto: 151.4.61.24
+- Detalles del Vehículo: 3C 82035
+- Lugar de Empleo del Paciente: Pace Inc
+- Dirección de Correo Electrónico Asociada: iari@unicef.org
+- Detalles de Referencia:  lam.com/category/tagsprivacy.asp
+- Contacto de Fax: 273.749.3291
+- Registrado por: TwGzsyGh
+- Acceso por: Programador, sistemas 
+
+---Fin del Documento---
+"
+

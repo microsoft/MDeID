@@ -1,0 +1,26 @@
+"Rapporto di Assistenza al Paziente: Difficoltà Respiratorie 
+
+Chiamata e Arrivo sul Luogo:
+Il 18 settembre 2004, abbiamo ricevuto una chiamata al 911 per una persona che aveva difficoltà a respirare. Il paziente Alex Montanari è stato trovato dalla nostra squadra posizionata a centro commerciale in Gela, 7. All'arrivo, Alex Montanari era seduto eretto su una sedia, sembrava in difficoltà respiratorie.
+
+Storia e Sintomi:
+Alex Montanari ha circa 29 anni, con una recente storia di quello che ha identificato come un comune raffreddore. Durante la chiamata, Alex Montanari ha espresso un alto livello di disagio, affermando di avere una tosse persistente e congestione nasale. Il paziente era vigile e orientato alla persona, al luogo e al tempo, e aveva una storia di eventi simili dal vf-663442t.
+
+Esame:
+Un rapido esame fisico è stato eseguito dal Greta Riva. Le vie aeree del paziente erano pervie, tuttavia, è stata notata una respirazione affannosa. L'auscultazione del torace ha rivelato sibili bilaterali. La pelle era pallida e fredda al tatto, che potrebbe indicare un'ossigenazione insufficiente. La saturazione di ossigeno è stata rilevata essere del 92% in aria ambiente dal dispositivo con identificatore vmK dnbtLM.
+
+Trattamento e Trasporto:
+Il trattamento iniziale consisteva nell'amministrazione di ossigeno supplementare tramite maschera non rebreather a un flusso di 15 litri al minuto. La saturazione di ossigeno del paziente è migliorata al 98% dopo la terapia con ossigeno. Alex Montanari è stato poi trasferito in sicurezza sulla barella con l'assistenza della squadra EMS ed è stato trasportato tramite 8GI86 all'Hepburn family.
+
+Durante il trasporto, Alex Montanari è stato monitorato continuamente. Un riesame è stato effettuato ogni 5 minuti dal personale EMS presente. La condizione del paziente è rimasta stabile durante tutto il trasporto, ed è stato consegnato alla squadra del pronto soccorso all'Hepburn family con tutte le informazioni pertinenti condivise.
+
+I dettagli di questo rapporto, inclusi i sintomi del paziente, il trattamento somministrato, i risultati medici e le informazioni sul trasporto, sono stati tutti documentati nel prontuario elettronico del paziente, numero vf-663442t, accessibile attraverso il portale dell'ospedale con URL http://www.acosta.org/search/blogregister.asp utilizzando w6jzSHXj e MOsi 59672.
+
+La fatturazione per il servizio di ambulanza è stata inviata al fornitore di assicurazione sanitaria del paziente, AJUAvF4, sotto il numero di conto MOsi 59672. Il servizio di ambulanza è stato chiamato da Alex Montanari tramite il numero di telefono 683-362-1642 e l'email reR@red-cross.org è stata utilizzata per inviare la ricevuta elettronica del pagamento. L'ambulanza è stata guidata da un EMT con licenza 70-05198tS dell'organizzazione Mendoza Group. La chiamata è stata inviata alla nostra squadra EMS tramite l'indirizzo IP 100.158.180.203 e il numero di fax 547.391.6088 è stato utilizzato per inviare i documenti medici del paziente all'ospedale.
+
+Rapporto Preparato da:
+Greta Riva (firma)
+18 settembre 2004
+
+NOTA: Altri dettagli personali del paziente, compreso il loro indirizzo Alex Montanari, 6423 Howell Mountain Suite 582 45, 3014 Murisengo, Svizzera, città Gela, stato 7, CAP 3014, paese Svizzera e il loro numero di previdenza sociale 746669-4219 sono stati anche documentati e sono confidenziali secondo le regole HIPAA."
+

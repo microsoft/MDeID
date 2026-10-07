@@ -1,0 +1,50 @@
+"Appunto del Dottore Scratch
+
+-----
+Emma Zimmermann, un maschio di 35 anni. 
+
+Reclami presenti:
+Debolezza progressiva - entrambi gli arti inferiori > arti superiori.
+Durata: 2 giorni.
+Insorgenza insidiosa.
+Preceduto da crampi muscolari - 3 giorni.
+Nessun alterato sensorio, convulsioni, problemi di vescica/intestino.
+
+Storia Medica Passata:
+Episodi simili - debolezza, affaticamento + ipokaliemia - ultimi 3 anni.
+Richiesti ricoveri ospedalieri.
+Gestito come paralisi periodica ipokaliemica in precedenza.
+
+Sintomi Aggiuntivi:
+Caduta bilaterale delle palpebre.
+Sensazione di corpo estraneo - occhi.
+Bocca secca.
+Nessun recente vomito, diuretico, alcool, uso di lassativi.
+
+Risultati dell'Esame:
+Potenza motrice - Arti inferiori: 3/5, Arti superiori: 4/5. Gruppi muscolari prossimali + distali.
+Riflessi tendinei profondi - Diminuiti bilateralmente.
+Nessun deficit sensoriale/anomalie dei nervi cranici.
+Vitali entro i limiti normali.
+Esami cardiovascolari, respiratori, gastrointestinali, tiroidei - Non rilevanti.
+
+Risultati del Laboratorio:
+Ipokaliemia severa - Livello di potassio sierico: 1.6 meq/L (Normale: 3.5-5.5 meq/L)
+ECG - Bradicardia sinusale, inversione globale dell'onda T, onda U sottile.
+
+Valutazione:
+Diagnosi Primaria - Paralisi periodica ipokaliemica - Trigger: Ipokaliemia severa.
+Differenziali - Miastenia gravis - Esclusa da test anticorpali negativi.
+Sintomi ricorrenti + ipokaliemia severa - Rischi: Aritmie cardiache, debolezza muscolare.
+
+Piano:
+Gestione immediata - Supplenza di potassio IV @20 meq/ora - Correggere l'ipokaliemia.
+Monitoraggio cardiaco continuo - A causa dei cambiamenti dell'ECG e del rischio di aritmia.
+Educa Emma Zimmermann - Monitorare i sintomi di debolezza/disturbi cardiaci.
+Follow-up - Rivalutare i livelli di potassio + funzione motoria dopo il trattamento iniziale.
+Rinvio a Mirko Barbieri (neurologo) - Ulteriore valutazione/gestione della paralisi periodica ipokaliemica.
+Consigli dietetici - Assunzione di potassio + potenziali trigger per episodi ipokaliemici.
+
+Mirko Barbieri
+"
+

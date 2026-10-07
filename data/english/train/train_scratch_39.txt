@@ -1,0 +1,54 @@
+"NURSING SCRATCH NOTE #076350 tKM
+
+Patient: Harry Wells
+Healthcare Provider: Henry Robinson
+
+-----------
+CHIEF COMPLAINT:
+Skin rash - itchy, irritated.
+
+-----------
+VITALS:
+BP: 120/80
+HR: 75 bpm
+RR: 16 bpm
+Temp: 98.6 F
+SpO2: 98%
+
+-----------
+OBSERVATIONS:
+- Skin: Erythema and scaling noted. 
+- Extent: Diffuse rash, majority on arms and torso.
+- Pruritus present, intensity 7/10.
+  
+-----------
+ASSESSMENTS:
+- 7 patient, possible Psoriasis. 
+- Dermatology consult advised.
+
+-----------
+PLAN:
+- Start topical corticosteroids.
+- Monitor skin reaction daily.
+- Encourage hydration & keeping skin moist.
+
+-----------
+ADDITIONAL INFO:
+- Username for patient portal: dloWX2Rz
+- Device identifier for e-Health App: 0407-pkqnx
+- Patient's ID Number: 290903 365
+
+-----------
+CONTACT INFO:
+- Phone: 610-713-6563
+- Address: Harry Wells, 177 Lexicog, Brieflessness, 22 5625, Canada
+- Email: non@hotmail.com
+
+-----------
+SIGNED: 
+Nurse dloWX2Rz, at Northwestern University Ph.D
+  
+NOTE: Please refer to the electronic medical record for full documentation. 
+
+(Patient medical record number 076350 tKM, account number 290903 365, SSN 755-947-450, IP address 208.176.61.46, and vehicle information 131UC are securely stored in our system.)"
+

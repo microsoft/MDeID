@@ -1,0 +1,15 @@
+T1	PATIENT 21 34	Martina López
+T2	PATIENT 61 74	Martina López
+T3	PATIENT 290 303	Martina López
+T4	PATIENT 547 560	Martina López
+T5	PATIENT 737 750	Martina López
+T6	DOCTOR 795 815	Anouk Van Den Broeck
+T7	PATIENT 1131 1144	Martina López
+T8	DOCTOR 1221 1241	Anouk Van Den Broeck
+T9	PATIENT 1749 1762	Martina López
+T10	DOCTOR 1767 1787	Anouk Van Den Broeck
+T11	PATIENT 1977 1990	Martina López
+T12	PATIENT 2168 2181	Martina López
+T13	DOCTOR 2351 2371	Anouk Van Den Broeck
+T14	HOSPITAL 2425 2432	parents
+T15	DOCTOR 2449 2469	Anouk Van Den Broeck

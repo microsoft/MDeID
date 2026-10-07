@@ -1,0 +1,62 @@
+"Krankenschwester Erzählnotiz
+
+Subjektiv: Mélanie Martin offenbart eine Vorgeschichte von chronischen Rückenschmerzen, die teilweise mit Medikamenten behandelt werden, und sich verschlechternde Atemnot, die zu einem erhöhten Bedarf an Sauerstoffzufuhr führt. Der medizinische Hintergrund des Patienten umfasst morbide Adipositas, obstruktive Schlafapnoe, akute lymphozytische Leukämie mit Knochenmarktransplantation und Graft-versus-Host-Krankheit, was zu einer schweren restriktiven Lungenerkrankung führt.
+
+Objektiv: Die Vitalzeichen von Mélanie Martin wurden nicht angegeben. EKG-Ergebnisse zeigten eine neu aufgetretene atriale Bigeminie, die sich später auflöste. Ein CT-Angiogramm zeigte eine partielle anomale pulmonale venöse Verbindung (PAPVC), die die Lungenvene im linken Oberlappen und die Lingula betrifft. Das Echokardiogramm des Patienten zeigte einen leicht erweiterten rechten Ventrikel, eine leichte Trikuspidalklappeninsuffizienz und eine normale linksventrikuläre Funktion. Lungenfunktionstests zeigten eine totale Lungenkapazität von 42%, FEV1 bei 39%, FVC bei 37% und DLCO bei 41% der vorhergesagten Werte. Rechte und linke Herzkatheterisierung zeigten eine pulmonale Hypertonie mit erhöhten Drücken und ein pulmonales zu systemisches Flussverhältnis (Qp/Qs) von 1,22:1.
+
+Bewertung: Die Hauptdiagnose ist eine partielle anomale pulmonale venöse Verbindung (PAPVC) mit sekundären Komplikationen von pulmonaler Hypertonie und chronischem Atemversagen aufgrund einer schweren restriktiven Lungenerkrankung. Die anfängliche Differentialdiagnose umfasste eine Lungenembolie, die durch ein CT-Angiogramm ausgeschlossen wurde.
+
+Plan: Fortsetzung der Sauerstoffzufuhr und Medikation zur Behandlung von chronischen Rückenschmerzen. Mélanie Martin benötigt eine enge Überwachung des Atem- und Herzstatus, mit Nachsorgeterminen zur Diskussion weiterer Behandlungsoptionen. Die Aufklärung des Patienten über die Symptomüberwachung und das Erkennen, wann sofortige medizinische Hilfe erforderlich ist, ist von entscheidender Bedeutung. Eine Überweisung an einen Lungenfacharzt und einen Kardiologen zur spezialisierten Betreuung und Behandlung von PAPVC und pulmonaler Hypertonie wird empfohlen.
+
+[HEADER]
+
+Patienten-ID: 332 qvpPAG
+
+Besuchsdatum: 28.10.80
+
+Name der Krankenschwester: Lara Richter
+
+Krankenhaus: Wilder Brain
+
+Adresse: Mélanie Martin, Hillerallee 2 113, 2754 Parkstetten, Österreich
+
+Kontaktinformationen: Telefon - +1-793-354-8803x894, E-Mail - hta@outlook.com
+
+[FOOTER]
+
+IP-Adresse des Patienten: 180.96.226.85
+
+Geräte-ID: cTZdS-89gH
+
+Benutzername: artinl
+
+Sozialversicherungsnummer: 821654-5512
+
+Lizenznummer: 274 LbTlSp
+
+Biometrische ID: WFc-00519L
+
+Fahrzeugdetails: 812 TPL
+
+Kontonummer des Patienten: mQu 48495S
+
+Organisation des Patienten: Thomas PLC
+
+Gesundheitsplandetails: 0pCUMo Y2uH
+
+Beruf: Wissenschaftler, Forschung (Lebenswissenschaften)
+
+Stadt: Grieskirchen
+
+Land: Österreich
+
+Bundesland: 17
+
+Straße: 901 Christian Viaduct
+
+Postleitzahl: 2754
+
+URL: oneal.boyle.com
+
+Fax: 228.869.4251x13474"
+

@@ -1,0 +1,41 @@
+"**Note de grattage du docteur**
+
+Patient : Marwane Bertin
+ID#: 9948 ASNFA
+DOB: samedi 23 mai 1992
+Âge : 99
+
+S :
+- Essoufflement progressif, orthopnée (3 mois)
+- Marwane Bertin rapporte
+
+O :
+- Souffle continu doux (haut de la poitrine gauche)
+- Craquements dans les poumons (basal, bilatéral)
+- Radiographie (Thorax) : légère cardiomegalie, légère congestion pulmonaire
+- ECG : rythme sinusal (régulier), pas de signes d'ischémie ou d'infarctus du myocarde
+- Échocardiographie transthoracique : VG (légèrement dilaté), oreillette gauche (nettement dilatée), fraction d'éjection du VG (60%)
+- Structure tubulaire (septum interventriculaire), flux diastolique turbulent
+- Échocardiographie transœsophagienne : RCA (nettement dilatée), vaisseau anormal (adjacent à l'AMP), vidange anormale du vaisseau (AMP postéromédiale), RM sévère (feuillet postérieur restreint), remodelage ventriculaire/dilatation annulaire mitrale
+- Angiographie coronarienne : ALCAPA (confirmée), shunt gauche-droit, rapport de flux sanguin pulmonaire-systémique (1.4)
+- Angiographie coronarienne par tomodensitométrie : ALCAPA (confirmée, ostium rétropulmonaire)
+
+A :
+- Diagnostic du syndrome d'ALCAPA (primaire, confirmé)
+- Causes du souffle continu, de la cardiomegalie (différentiel, exclu)
+
+P :
+- Discussion en équipe multidisciplinaire (plan)
+- Intervention chirurgicale (optimale, correction de l'anomalie coronarienne)
+- Information du patient/de la famille (état, options de traitement, complications potentielles)
+- Rendez-vous de suivi (surveillance de la réponse, gestion des complications)
+- Éducation (nature de la maladie, signes de complications, ajustements du mode de vie)
+
+Médecin : Paisley Campbell
+Licence : Rdhxz-495a
+Hôpital : Stockholm ´ s Konserthuset
+Téléphone : 482.557.6044
+Adresse : Marwane Bertin, 14 103 François Turnpike, Riorges, 2 1843, Canada
+Email : amey@zoho.com
+Fax : (745)841-7321x28705"
+

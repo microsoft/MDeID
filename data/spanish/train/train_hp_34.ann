@@ -1,0 +1,19 @@
+T1	PATIENT 83 97	Virginia Marín
+T2	PATIENT 371 385	Virginia Marín
+T3	PATIENT 689 703	Virginia Marín
+T4	PATIENT 986 1000	Virginia Marín
+T5	PATIENT 1163 1177	Virginia Marín
+T6	PATIENT 1259 1273	Virginia Marín
+T7	PATIENT 1490 1504	Virginia Marín
+T8	PATIENT 1621 1635	Virginia Marín
+T9	DOCTOR 1789 1806	Manuel Villanueva
+T10	PATIENT 2016 2030	Virginia Marín
+T11	PATIENT 2208 2222	Virginia Marín
+T12	DATE 2388 2419	martes, 5 de septiembre de 2023
+T13	PATIENT 2634 2648	Virginia Marín
+T14	DOCTOR 2804 2821	Manuel Villanueva
+T15	MEDICALRECORD 2874 2884	5001 SJips
+T16	DOCTOR 2926 2943	Manuel Villanueva
+T17	DATE 2947 2978	martes, 5 de septiembre de 2023
+T18	PATIENT 3155 3169	Virginia Marín
+T19	DATE 3183 3214	martes, 5 de septiembre de 2023

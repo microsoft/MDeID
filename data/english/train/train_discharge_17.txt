@@ -1,0 +1,64 @@
+Discharge Summary 
+
+**Patient:** Joe Ray 
+
+**Medical Record Number:** bfx-mCKKrk 
+
+**Admitting Doctor:** Jeremy Martinez 
+
+# Required Sections
+
+## Allergies and Intolerances Section
+
+The patient has shown no signs of allergies or intolerances during the stay.
+
+## Hospital Course Section
+
+The patient was admitted due to a confirmed diagnosis of carcinoma. They presented with symptoms including a body mass structure, pain and lesions. The hospital stay was marked by careful monitoring and treatment of these symptoms.
+
+## Discharge Diagnosis Section
+
+The patient is diagnosed with carcinoma and related ailments. 
+
+## Plan of Treatment Section
+
+The recommended plan of treatment includes progressive recovery at home with plenty of rest and a balanced diet. Regular checkups at King Abdullah of Saudi Arabia are advised for monitoring the condition.
+
+## Hospital Consultations Section
+
+Jeremy Martinez from oncology was consulted during the patient's stay in the hospital. 
+
+## Procedures Section
+
+A biopsy was conducted to confirm the presence of carcinoma. 
+
+## Results Section
+
+The biopsy results confirmed the diagnosis of carcinoma. 
+
+# Recommended Sections
+
+## Discharge Medications Section
+
+The patient is prescribed medication to manage pain and improve overall health. 
+
+# Additional Sections
+
+## Vital Signs Section
+
+Vital signs remained steadily in the safe range during the last check-up. It is necessary to regularly monitor these at home. 
+
+## Hospital Discharge Instructions Section
+
+The patient is advised to continue medication as prescribed, maintain a healthy diet and lifestyle, and schedule regular follow-up visits with Jeremy Martinez at King Abdullah of Saudi Arabia. 
+
+## Hospital Discharge Physical Section
+
+Upon discharge, the patient was stable and in good spirits. 
+
+## Advance Directives Section
+
+Post-discharge care has been explained and understood by the patient and family. 
+
+This document leaves out any Personal Health Information (PHI) that does not make sense in the context of a note and does not contain any information that could be considered PHI.
+

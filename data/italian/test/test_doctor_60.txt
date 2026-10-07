@@ -1,0 +1,53 @@
+"Appunti del Dottore
+---------------------------
+Paziente: Eleonora Lombardo
+ID: BGUy-9697R
+
+Problemi Segnalati
+----------------
+- Stanchezza generale da 5 anni
+- Intorpidimento del corpo sul lato destro da 3 anni
+- Dispnea da sforzo da 1 anno
+- Perdita di peso da 46 a 41kg negli ultimi 5 anni
+- Diagnosi precedente: OPLL (Colonna Cervicale) da Sara Steiner
+- Non fumatrice
+
+Vitali & Osservazioni
+----------------------
+- Temperatura corporea: 36.2\u00b0C
+- Frequenza del polso: 71 bpm
+- Pressione sanguigna: 103/56 mm Hg
+- Movimento toracico diminuito
+- Debolezza muscolare dell'arto superiore destro
+- Intorpidimento degli arti
+- Claudicatio
+- Spirometria: Alterazione della ventilazione restrittiva
+- Punteggio JOA: 14 (Mielopatia Cervicale Lieve)
+
+Rapporti di Imaging
+----------------
+- Radiografia del torace & TC: Normale, movimento diaframmatico diminuito
+- Risonanza magnetica (Colonna Cervicale): Grave compressione del midollo cervicale a C3/4, cambiamenti atrofici, lesione del midollo spinale intramidollare
+
+Valutazione
+------------
+- Diagnosi Primaria: Mielopatia cervicale secondaria a OPLL
+- Possibile disturbo neuromuscolare precoce dovuto alla compressione del midollo spinale
+- Insufficienza respiratoria associata
+- Diagnosi differenziali: Altre cause di neuropatia e mielopatia
+
+Piano
+------
+- Riferimento al Neurologo per ulteriori valutazioni: Sara Steiner
+- Consultare il Pneumologo per la gestione della malattia polmonare restrittiva: Sara Steiner
+- Sedute di fisioterapia: Barrett, Carr and Knapp
+- Controllo regolare: Teatro Nazionale Finlandese 
+- Discutere le opzioni chirurgiche se i sintomi peggiorano
+- Educazione del paziente sulla gestione dei sintomi e controlli medici regolari
+- Conformità con gli appuntamenti e le sedute di terapia
+
+Sara Steiner
+Ingegnere, energia
+inerSara@gmail.com
+001-697-565-6394x2540"
+

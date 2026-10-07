@@ -1,0 +1,60 @@
+"Nota de Rascunho do Médico
+
+----------------------------------------
+
+Mulher de 68 anos, não fumante, sem comorbidades.
+Sintomas apresentados: Tosse, febre baixa, perda de peso leve.
+Sem histórico de infecções recorrentes.
+Sem contato com pacientes com tuberculose.
+Histórico de viagens inclui Brasil e Brasil.
+Diagnóstico anterior: Pneumonia, múltiplos tratamentos com antibióticos, sem resolução dos sintomas.
+
+----------------------------------------
+
+Exame Físico:
+Diminuição dos sons respiratórios no lobo superior esquerdo.
+Observações de raio-X e tomografia computadorizada do tórax:
+- Consolidação no hilo superior esquerdo, lobo superior esquerdo.
+- Lesão nodular intraluminal central.
+- Espessamento brônquico.
+- Pneumonia pós-obstrutiva.
+Não foram observados linfadenopatia ou derrames pleurais.
+
+Achados de broncoscopia:
+Tumor endobrônquico bem definido no lobo superior esquerdo.
+
+Exame histológico do lobo superior esquerdo ressecado:
+- Tumor carcinóide atípico.
+- Inflamação granulomatosa.
+Testes para Mycobacterium tuberculosis: Negativo.
+
+----------------------------------------
+
+Diagnóstico:
+Primário: Tumor carcinóide atípico do lobo superior esquerdo.
+Diferencial: Tuberculose (devido à inflamação granulomatosa e histórico de viagem), testes atuais para tuberculose negativos.
+
+Prognóstico:
+Depende do monitoramento contínuo e do manejo do tumor carcinóide e da possível tuberculose.
+
+----------------------------------------
+
+Plano de Tratamento:
+Paciente passou por lobectomia bem-sucedida do lobo superior esquerdo.
+Recomenda-se monitoramento contínuo para tuberculose, apesar dos testes atuais negativos.
+Acompanhamentos regulares são necessários para o manejo e reavaliação.
+Outras opções de tratamento podem ser consideradas com base na progressão do tumor carcinóide e em quaisquer novos achados relacionados à tuberculose.
+
+----------------------------------------
+
+Médico: Felipe Carvalho
+Paciente: Juliana Costa
+Prontuário Médico: taDZa-wiiS
+Hospital: Doris Duke
+Data: 4 de janeiro de 2002
+Cidade: Recreio dos Bandeirantes
+Estado: 61
+CEP: EGO4VXE0
+
+----------------------------------------"
+

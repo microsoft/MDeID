@@ -1,0 +1,24 @@
+"Nota do Doutor Scratch:
+
+Anotações para Kauã Azevedo
+- 86 anos, mulher, problema: dor persistente nas costas, ambas as pernas, ~4 meses
+- Ressonância magnética recente, coluna lombar 
+    - Resultados: lesão intradural, extramedular, espessamento da dura @ L2
+- Histologia pós-operatória confirma: condrossarcoma mesenquimal
+    - Característica: células redondas/fusiformes, formação de cartilagem/osso
+    - IHC: CD99 positivo, EMA negativo, STAT6 negativo, GFAP negativo
+    - Índice Ki-67: ~30%
+    - Archer™ FusionPlex Sarcoma Assay: transcrições de fusão de genes HEY1-NCOA2 (exon 4 a 13 & 14)
+- Diagnóstico: condrossarcoma mesenquimal primário @ L2
+    - Consideração: comportamento agressivo, alto índice Ki-67
+    - Diagnóstico diferencial: outros sarcomas, características histológicas semelhantes
+- Plano: Convocar equipe multidisciplinar, discutir opções de tratamento
+    - Foco: gestão oncológica
+    - Monitorar: sintomas, efeitos colaterais do tratamento
+    - Educação: Kauã Azevedo e família
+        - Tópicos: diagnóstico, opções de tratamento, importância do acompanhamento regular
+        - Incentivar: relato de novos sintomas ou preocupações
+- Próxima consulta: 21/08/1992 @ estação de trem
+
+André Jesus - Consultor de pensões"
+

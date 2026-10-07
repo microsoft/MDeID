@@ -1,0 +1,32 @@
+"SOAP Notitie
+
+S: De patiënt Nick Vandenberghe, met een geschiedenis van verworven FX-deficiëntie door AL amyloïdose, PAF, gemetastaseerd longadenocarcinoom op erlotinib, hypertrofische cardiomyopathie, hypertensie en type 2 diabetes mellitus, meldt zich goed te voelen maar heeft problemen ondervonden, waaronder zelflimiterende epistaxis en gemakkelijk blauwe plekken op 09-03-1998. De patiënt herinnert zich eerdere laboratoriumresultaten en medische procedures.
+
+O: Eerdere laboratoriumresultaten toonden een PT van 12,4 seconden, INR van 1,2, aPTT van 38 seconden, alkalische fosfatase op 160 U/L, creatinine op 1,16 mg/dL, en proteïnurie met 882 mg/24 h. Abdominale echografie toonde hepatomegalie met de rechter lob meting 21 cm. Serum en urine-elektroforese toonden de aanwezigheid van immunoglobuline G-lambda. Leverbiopsie onthulde uitgebreide amyloïde afzetting met lambda lichte keten aanwezigheid. Beenmergkernbiopsie toonde uitgebreide amyloïde afzetting, positieve Congo rode kleuring, en positieve fluorescentie in situ hybridisatie voor lambda lichte ketens. Verminderde FX-coagulatieactiviteit werd opgemerkt op 45% met een referentiebereik van 70%-150%. In 09-03-1998, toonde coagulatieprofiel PT van 16,3 seconden, aPTT van 33 seconden, en FX-activiteit van 34%.
+
+A: De primaire diagnose is verworven FX-deficiëntie secundair aan AL amyloïdose. De geschiedenis van de patiënt van terugkerend longadenocarcinoom en andere comorbiditeiten compliceren het beheer. Differentiële diagnoses omvatten andere oorzaken van abnormale coagulatie niet gerelateerd aan amyloïdose. De prognose is gereserveerd vanwege de complexiteit van de onderliggende aandoeningen en de terugkerende aard van de longkanker.
+
+P: Ga door met het huidige regime van melphalan en dexamethason chemotherapie. Regelmatige monitoring van coagulatieprofielen en FX-activiteit is essentieel. Informeer de patiënt over het belang van het snel melden van nieuwe symptomen of zorgen. Plan routine follow-up afspraken bij Portmore United F.C om de effectiviteit van de behandeling te beoordelen en eventuele complicaties te beheren. Verwijzing naar een hematoloog Axel Lemmens voor verder beheer van FX-deficiëntie en een oncoloog Axel Lemmens voor voortgezette kankerbehandeling wordt aanbevolen. Zorg voor naleving van alle voorgeschreven medicijnen en follow-up schema's. 
+
+Extra Notities:
+- Medisch Dossier Nummer: JqSPfl-rtF
+- Patiënt Account Nummer: 0588 BldaO
+- Apparaat Serienummer: 15 VslDHCm
+- Gebruikersnaam op Patiënt Portaal: kdenberg
+- Voertuig Identificatie: 4AA X97
+- Sociale Zekerheidsnummer: 935-0800224-76
+- Professionele Licentie Identificatie: 968-aHiOpq
+- Biometrische Identificatie: pkny 25873
+- IP Adres: 72.221.160.24
+- Persoonlijke Identificatie: 0588 BldaO
+- Leeftijd van Patiënt: 75
+- Patiënt Adres: Nick Vandenberghe, Medicinableness 18, 0897 Reascends, België
+- Andere Locaties: bushalte
+- Gezondheidsplan: W5Vpz
+- Patiënt's Beroep: Accountant, openbare financiën
+- Geaffilieerde Organisatie: Morales-Strickland
+- Email Adres: lns@gmail.com
+- Contact Nummer: 570-554-5781x258
+- Website: wise.com
+- Fax Nummer: +1-501-347-6095"
+

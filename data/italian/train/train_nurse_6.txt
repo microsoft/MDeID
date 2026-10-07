@@ -1,0 +1,53 @@
+"Nota Narrativa dell'Infermiera
+
+Soggettivo:
+
+Werner Fischer si è presentato in clinica segnalando una visione offuscata e fotopsie in un occhio che persistono da alcuni giorni. Questi sintomi sono stati preceduti da sintomi simil-influenzali, tra cui febbre e mal di testa segnalati dal paziente. Werner Fischer nega qualsiasi significativa anamnesi medica o recente contatto con animali.
+
+Oggettivo:
+
+L'emocromo completo (CBC) di Werner Fischer e i risultati delle radiografie del torace e dei seni paranasali erano normali. I risultati dei test per sifilide, citomegalovirus, virus dell'herpes simplex, virus dell'immunodeficienza umana, Bartonella, Histoplasma capsulatum, Toxoplasma gondii, Toxocara canis e Borrelia burgdorferi erano negativi. L'esame oculare rivela una migliore acuità visiva corretta di 20/20 nell'occhio destro e 20/25 nell'occhio sinistro. La biomicroscopia, le reazioni pupillari e la pressione intraoculare sono entro i limiti normali. La fotografia a colori del fondo dell'occhio rivela sottili macchie bianche retiniche profonde nel polo posteriore e attorno al disco ottico dell'occhio sinistro. L'angiografia con fluoresceina (FA) mostra aree puntiformi a forma di ghirlanda di iperfluorescenza precoce e colorazione del disco ottico nella fase tardiva. L'autofluorescenza del fondo dell'occhio (FAF) e la tomografia a coerenza ottica (OCT) confermano la rottura della zona ellissoide (EZ) e la presenza di lesioni iper-riflettenti e ipo-riflettenti nello strato nucleare esterno (ONL) e nel coroide, rispettivamente. L'angiografia OCT (OCTA) non mostra alterazioni del flusso.
+
+Valutazione:
+
+Sulla base dei sintomi di Werner Fischer e dei risultati diagnostici, si suggerisce una patologia retinica. Questa potrebbe essere un processo infiammatorio o infettivo, sebbene le cause infettive siano state escluse da sierologie negative. La diagnosi differenziale potrebbe includere una retinopatia autoimmune o un distacco retinico localizzato.
+
+Piano:
+
+Il piano è di monitorare attentamente la condizione di Werner Fischer con un appuntamento di follow-up programmato tra qualche settimana per rivalutare la condizione. A Werner Fischer è stato consigliato di segnalare immediatamente qualsiasi peggioramento dei sintomi. Ulteriori test o un rinvio a uno specialista della retina potrebbero essere presi in considerazione in base alla progressione o al cambiamento dei sintomi.
+
+[Tabella: Informazioni Sanitarie Personali (PHI)]
+| Tipo di PHI | Segnaposto Mascherato |
+|----------|-------------------|
+|ACCOUNT|MbF HteabW|
+|INDIRIZZO|Werner Fischer, 52057 Heather Orchard Suite 800, 106, 6273 Ravarino Fastuosamente, Italia|
+|ETA'|43|
+|BIOID|66051 2590|
+|CITTA'|Ravarino|
+|PAESE|Italia|
+|DATA|11 mag 2012|
+|DISPOSITIVO|jOh-4085wz|
+|DOTTORE|Sofia Huber|
+|EMAIL|Sober@gmail.com|
+|PIANO SANITARIO|sbE|
+|OSPEDALE|Bonine|
+|IDNUM|MbF HteabW|
+|INDIRIZZO IP|106.80.204.239|
+|LICENZA|sWXo-oCKRg|
+|ALTRO LUOGO|fermata dell'autobus|
+|CARTA SANITARIA|jCGY-862uM|
+|ORGANIZZAZIONE|Steele, Young and Peterson|
+|PAZIENTE|Werner Fischer|
+|TELEFONO|001-677-584-0729|
+|PROFESSIONE|Horticulturist, amenity|
+|SICUREZZA SOCIALE|LXPPGK44K11C125Y|
+|STATO|46|
+|VIA|9161 Michael Cove Apt. 790|
+|URL|peterson-lang.chen-pineda.martinez.com|
+|NOME UTENTE|IKDjiNg1|
+|VEICOLO|NSO-1297|
+|CAP|6273|
+|FAX|+1-556-219-4710x93357|
+
+Firmato, Sofia Huber"
+

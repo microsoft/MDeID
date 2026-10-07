@@ -1,0 +1,62 @@
+"**Kratznotiz**
+
+Vitalwerte
+BP: 128/85
+HR: 94 
+Temp: 38.7 C
+RR: 18
+O2 Sat: 94%
+
+**Beobachtung:** Robbe Devos stellte sich mit Symptomen von anhaltendem Husten, Fieber und Müdigkeit vor. Mögliche Lungenentzündung, benötigt weitere Tests.
+
+**Klinische Info**
+Bernhard Wagner riet zu Röntgenaufnahme der Brust, Bluttests (CBC, Entzündungsmarker). 
+Empfohlene Medikation: 
+1. Tablette Azithromycin 500mg für 5 Tage
+2. Paracetamol 650mg bei Bedarf
+
+**Aufzeichnungen**
+Medizinische Aktennummer: npFzaP-746
+Kontonummer: Slwuzh-PKM
+Geräte-ID : RxIQ ODoOs (falls vorhanden)
+
+**Kontakt**
+Notfallkontaktnummer: 447.667.3769x89758
+Email: ragn@red-cross.org
+
+**Demografische Daten**
+Alter: 8
+Adresse: Robbe Devos, Mateo-Strohmaier-Straße 593 158, 3571 Sulzfeld, Österreich
+Stadt: Wienhausen
+Bundesland: Weilheim-Schongau
+PLZ: 3571
+
+**Weitere Infos**
+SSN: 753-9364105-95
+Führerschein: jCkTS-7699
+BioID: SRboRA 521
+IP: 86.224.121.21
+
+**Beschäftigung**
+Organisation: Harris, Butler und Hunt
+Beruf: Grundschullehrer
+
+**Krankenversicherung**
+Gesundheitsplan: tApn
+
+**Online-Info**
+Benutzername:6MbtrIYg
+URL: henderson-williams.com
+
+**Sonstiges**
+Fahrzeug: 981205
+Fax: +1-326-742-4682x84030
+
+------
+NOTIZEN:
+Freitag, 26. August 1994 - Beobachtung aufgezeichnet
+Nachsorge geplant für Freitag, 26. August 1994
+Patient lebt in der Nähe von Park
+------
+**ENDE DER NOTIZ**"
+

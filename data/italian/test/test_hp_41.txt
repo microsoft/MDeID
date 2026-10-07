@@ -1,0 +1,82 @@
+# Nota di Anamnesi e Esame Fisico
+
+## Informazioni sul paziente:
+
+- Anna Leone è un caso noto di candidosi, si presenta per una visita di controllo di routine.
+
+- ID: by-fzoIFdI 
+
+## Principale lamentela e motivo della visita:
+
+- Il paziente riferisce frequenti episodi di diarrea e un persistente mal di gola.
+
+- È stata osservata una notevole perdita di peso corporeo.
+
+## Anamnesi medica:
+
+- Diagnosi di candidosi stabilita il 06/04/04.
+
+- Nessuna altra significativa anamnesi medica riportata.
+
+- Nessuna allergia.
+
+## Farmaci:
+
+- Il paziente è in terapia antifungina da quando è stata diagnosticata la malattia.
+
+## Revisione dei sistemi:
+
+- Gastrointestinale: Diarrea ricorrente, nessun vomito o dolore addominale.
+
+- ORL: Persistente mal di gola, nessuna tosse o secrezione nasale.
+
+- Generale: Segnalata diminuzione del peso corporeo.
+
+## Esame fisico:
+
+Risultati
+
+- Generale: Anna Leone è cosciente, orientata ma sembra sottopeso.
+
+- ORL: Gola eritematosa, nessun ingrossamento tonsillare.
+
+- Addome: Morbido, non dolente.
+
+## Segni vitali:
+
+- Pressione sanguigna: 110/70 mmHg
+
+- Frequenza del polso: 80 battiti al minuto
+
+- Frequenza respiratoria: 18 respiri al minuto
+
+- Temperatura: 98.6°F (37°C)
+
+- Peso: Riscontrato significativamente al di sotto della media per 6.
+
+## Sezione Risultati:
+
+- Test di laboratorio: La coltura delle feci ha mostrato specie di candida.
+
+- Risultati del test del sangue in attesa.
+
+## Valutazione e piano:
+
+- La condizione di Anna Leone mostra un miglioramento limitato, che potrebbe indicare una resistenza al trattamento attuale.
+
+- Pianificato di modificare il regime di medicazione.
+
+- Consigliato un controllo con Elin Frei dopo due settimane per valutare la risposta al nuovo piano di trattamento.
+
+## Anamnesi sociale:
+
+- Non fumatore, consumatore occasionale di alcol.
+
+- Lavora in un Taylor-Mccarthy, spesso lo trova stressante.
+
+## Anamnesi familiare:
+
+- Nessuna storia familiare riportata di candidosi o malattie da immunodeficienza.
+
+Fine della nota.
+

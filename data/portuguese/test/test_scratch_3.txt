@@ -1,0 +1,93 @@
+"NOTAS DE ENFERMAGEM
+
+---------------------------------------------
+ID RÁPIDO DO PACIENTE: kMwQqm-imt
+NOME: José Antunes
+
+---------------------------------------------
+SINAIS VITAIS:
+- Temperatura: 100.4 F 
+- Pulso: 88 BPM 
+- Pressão Arterial: 120/80 mmHg
+- Respiração: 16 respirações por minuto 
+- Saturação de Oxigênio: 96% 
+
+---------------------------------------------
+SINTOMAS:
+- Febre 79: Sim, alta
+- Calafrios: Sim
+- Suor: Moderado
+- Fadiga: Sim
+- Mal-estar: Sim
+
+---------------------------------------------
+POSSÍVEL DIAGNÓSTICO:
+- Suspeita de malária, aguardando confirmação do laboratório
+
+---------------------------------------------
+SOLICITAÇÃO DE LABORATÓRIO: FxkA6JUl
+- Teste de esfregaço de sangue para parasitas da malária
+
+---------------------------------------------
+PLANO DE TRATAMENTO:
+- Tratamento inicial iniciado: medicamentos antimaláricos 
+- Fluidos IV administrados para desidratação
+
+---------------------------------------------
+NOTAS ADICIONAIS:
+- Viajou para área endêmica de malária estádio duas semanas antes do início dos sintomas
+
+---------------------------------------------
+INFORMAÇÕES DE CONTATO:
+- Contato por telefone: +1-280-481-4883x7707
+- Contato por email: arbol@yahoo.com
+
+---------------------------------------------
+CONTATO DE EMERGÊNCIA:
+- Nome: José Antunes
+- Contato: +1-280-481-4883x7707
+
+---------------------------------------------
+MÉDICO DE PLANTÃO: Júlia Barboza
+
+---------------------------------------------
+INSTALAÇÃO DE TRATAMENTO: Thai National Anthem
+Endereço: José Antunes, Loteamento Lorena Rocha, 1 9, Precurriculum, MORTÁGUA - 52, HWB93MZ1, Brasil
+Endereço IP para Check Remoto: 184.164.50.92
+
+---------------------------------------------
+SEGURO DE SAÚDE: rclV8c tlyMHMtZ
+Número da Conta: 403-DTdQtG
+
+---------------------------------------------
+ORGANIZAÇÃO: White, Turner and Rowe
+Profissão: Revisor
+
+---------------------------------------------
+Dispositivo usado para verificar sinais vitais: 13-3138QiN
+Número de Licença do Dispositivo: cTj-fMqMfp
+
+---------------------------------------------
+Identificador Único: 403-DTdQtG
+Número do Seguro Social: 193.431.136-20
+
+---------------------------------------------
+DADOS BIOMÉTRICOS: BrX-3648ZN
+VEÍCULO: 571 MAQ usado para transportar o paciente.
+
+---------------------------------------------
+[Assinatura Digital da Enfermeira FxkA6JUl]
+
+---------------------------------------------
+NOTAS GERADAS EM: 4 de maio de 2006
+
+---------------------------------------------
+URL para acessar os registros médicos do paciente: matthews.higgins-stevenson.org
+
+---------------------------------------------
+FAX: 834-989-7213x70250
+CEP: HWB93MZ1
+CIDADE: MORTÁGUA
+ESTADO: Es
+PAÍS: Brasil"
+

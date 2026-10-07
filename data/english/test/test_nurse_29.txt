@@ -1,0 +1,41 @@
+"Header: Patient Admission Document
+---------------------------------------
+Patient Information: Adam Bixley
+Date of Admission: 30
+
+Subject: Subjective Narration
+---------------------------------------
+Adam Bixley, a 1-month-old year-old male with mixed Australia descent, presented with abnormal sensation, specifically, decreased sensitivity from the right lower lip extending to the mental region. His overall physical condition was reported as moderate, and his nutritional status was assessed as favorable. No other significant factors were noted in the Customer service manager's assessment.
+
+Objective: Objective Findings
+---------------------------------------
+Diagnostic imaging including a computed tomography (CT) scan of Adam Bixley's facial region revealed a round radiolucent area in the right mandibular body. A subsequent magnetic resonance imaging (MRI) scan highlighted irregular high signal intensity on STIR horizontal sections, as well as dilation of the right mandibular canal on sagittal sections. The biopsy results indicated a schwannoma involving the Antoni A region, suggesting an immature lesion with the potential for active growth. During surgery, a cystic tumor (measuring 3.2 \u00d7 1.0 cm) associated with the inferior alveolar nerve was found, which was ligated and extirpated. Post-operative follow-ups showed enhanced radiopacity at the wound site, signifying healthy bone outgrowth.
+
+Assessment: Diagnosis and Prognosis
+---------------------------------------
+The primary diagnosis for Adam Bixley is a schwannoma of the right mandibular region. Successful surgical extirpation was performed, and no tumor cells were found at the margins of the resected nerve specimen. The prognosis looks promising, provided that regular monitoring is maintained.
+
+Plan: Treatment Plan
+---------------------------------------
+Adam Bixley underwent tumor extirpation under general anesthesia, showing positive outcomes post-surgery. Regular follow-ups are planned to assess bone outgrowth and ensure no recurrence of the tumor. Adam Bixley is advised to maintain his nutritional status and report any new symptoms or concerns without delay.
+
+Footer: Contact Information and Additional Details
+---------------------------------------
+Emergency Contact: 596.766.7150x365
+Vehicle Information: 29-W429
+Residential Address: Adam Bixley, 131 Hyperthermy, Kreitonite, 2 6623, United States
+Email: Sr@protonmail.com
+Healthcare Provider: Jorja Stanton
+Health Plan: oLKNx
+Hospital: U.S. Città
+Medical Record Number: 08718-4267
+Account Number: 20 oENjamT
+Device Identifier: 64853 kYZN
+ID Number: 20 oENjamT
+Social Security Number: 446-423-332
+License Number: BL-164619v
+Biometric Identifiers: 657297 oCE
+IP Address: 218.146.67.252
+URL:  carpenter-hernandez.org/tagregister.html
+Fax: (618)304-4127x832"
+

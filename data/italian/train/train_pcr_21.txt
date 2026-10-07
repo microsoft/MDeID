@@ -1,0 +1,44 @@
+"Rapporto di Assistenza al Paziente: Asma Bronchiale
+
+Chiamata: 
+
+L'unità dei Servizi Medici di Emergenza (EMS) è stata inviata alla residenza di René Meyer in seguito a una chiamata al 911. La chiamata è stata ricevuta al centro EMS situato a aeroporto da un indirizzo IP 173.82.79.51 tramite il sistema di risposta alle emergenze online. Il chiamante, identificato come jBX5QFAl, ha segnalato che il paziente stava avendo un attacco di asma. La chiamata è stata avviata con il numero di conto TnboJ 52mK.
+
+Descrizione del paziente:
+
+All'arrivo, abbiamo incontrato René Meyer, un individuo di 2 anni, che era visibilmente in difficoltà. L'impressione generale indicava che il paziente soffriva di asma bronchiale grave. La residenza del paziente era a René Meyer, 953 Johnson Lane Suite 853 109, 1001 Pescorocchiano, Svizzera con codice postale 1001. Il veicolo del paziente 3-D3095 era parcheggiato fuori. 
+
+Storia della malattia attuale:
+
+René Meyer ha riferito di soffrire di una tosse secca negli ultimi giorni. Il paziente ha notato un aumento della difficoltà respiratoria, che è stata identificata come una probabile esacerbazione dell'asma bronchiale cronico. L'ultimo episodio simile a questo è stato segnalato circa 2 mesi fa con sintomi simili. 
+
+Storia Medica:
+
+Il numero di cartella clinica del paziente 789-eactTC presso Bremen Pro indicava una storia di asma bronchiale. Anche il numero di previdenza sociale del paziente GEZOMK23X20B537M era registrato. 
+
+Valutazione:
+
+René Meyer era cosciente e vigile ma in moderato distress respiratorio. Il ritmo respiratorio era elevato e si potevano sentire dei sibili. La pelle del paziente era leggermente pallida e fredda al tatto. Non sono stati rilevati risultati significativi nella valutazione ABCD.
+
+Trattamento:
+
+Il trattamento iniziale ha coinvolto l'assistenza al paziente nell'uso del loro inalatore prescritto 92712-88uS. La respirazione del paziente ha iniziato gradualmente a migliorare con l'effetto dell'inalatore. Il paziente è stato poi assicurato alla barella per il trasporto, monitorando continuamente i segni vitali e i suoni polmonari.
+
+Trasporto:
+
+Il paziente è stato trasportato a Bremen Pro per ulteriori valutazioni e gestione. Durante il trasporto, le condizioni del paziente sono state valutate ogni 5 minuti e segnalate al personale dell'ospedale tramite il dispositivo di comunicazione EMS 92712-88uS. Il numero ID del paziente TnboJ 52mK è stato utilizzato nella comunicazione con l'ospedale.
+
+Transizione delle Cure:
+
+All'arrivo, l'assistenza al paziente è stata trasferita al Dr. Walter Widmer presso Bremen Pro. Tutta la documentazione necessaria, compresa la storia medica del paziente, è stata condivisa tramite email sicura meer@zoho.com e fax 7523529925. L'ambulanza era guidata da un personale EMS certificato il cui numero di patente è ZeT 649954.
+
+Altre informazioni sul paziente:
+
+Il paziente è impiegato presso Reyes, Martinez and Fleming, ha il piano sanitario F9wZNu 23kf, e la professione è Geometra dei minerali. I dati biometrici del paziente 58-38043WW sono stati conservati in modo sicuro nel database dell'ospedale.
+
+Rapporto di: jBX5QFAl 1 dic 2022
+
+(Documentato in conformità con le linee guida HIPAA, e tutti i dati del paziente sono conservati in modo sicuro: URL  www.hall.com/wp-contentlogin.asp)
+
+NOTA: Questo è un documento sintetico e tutti i segnaposto PHI dovrebbero essere sostituiti con informazioni reali garantendo la privacy e la riservatezza dei dati del paziente."
+

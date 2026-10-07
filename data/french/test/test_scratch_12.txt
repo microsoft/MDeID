@@ -1,0 +1,61 @@
+"---
+> **NOTE RAPIDE** qPLy-kvRvr \ud83d\udc69\u200d\u2695\ufe0f\ud83d\udccb\ud83d\udd8a\ufe0f
+--- 
+
+> **Profil du patient**
+- Lea Fischer 
+- 11 ans
+- Adresse : Lea Fischer, 60 562 Dimitri Port, Bourges, 72 3251, Canada
+- Contact : 001-352-500-3110x7277
+- Email : Bouchea@yandex.com
+- Plan de santé : JYSxZHSc SvtIaAbXr
+
+> **Détails médicaux**
+- Plainte principale : \ud83c\udf21\ufe0fFièvre, maux de tête, taches rouges
+
+> **Dispositif médical**
+- ID de l'appareil : 07941-9318
+
+> **Observations médicales** 
+> * Signes vitaux
+    - Temp : 102.5\u00b0 F 
+    - BP : 130/80 mmHg 
+    - Pouls : 98 bpm 
+    - Resp : 21 bpm
+* Peau : Présence de multiples taches rouges
+
+> **Plan de traitement**
+- Antipyrétiques pour la fièvre
+- Repos et hydratation
+
+> **Prochain rendez-vous** 
+- Date : mardi 6 février 1973
+- Lieu : Alhamra Arts Council in
+- Salle : café
+
+> **Informations de contact** pour les urgences
+- Contact d'urgence : Lea Fischer
+- Numéro de contact : 001-352-500-3110x7277
+
+> **Informations supplémentaires**
+- Médecin en charge : Eva Bouchet
+- Nom d'utilisateur sur le portail : TI4IYyYC
+- IDNUM dans le système : vBM-954LZa
+- SSN : 5 98 31 77 405 016
+- Professionnel consulté : Administrateur de l'éducation
+
+> **Résumé de sortie** 
+- Consultation supplémentaire requise avec Eva Bouchet à Alhamra Arts Council in 
+- Prochain rendez-vous de suivi le mardi 6 février 1973
+
+> **Communications**
+- Veuillez vérifier les mises à jour sur le portail du patient https://www.carson-lindsey.net/postslogin.html
+
+> **Détails de facturation**
+- Compte : vBM-954LZa
+- Organisation : Peterson-Proctor
+
+---
+*Cette note a été créée par TI4IYyYC/3517-RPwsG/23.10.129.173/IF-900CHyC pour Lea Fischer avec 4-95756/797-989-9992 à Bourges/Belgique/72/543 Nichols Terrace/3251 enregistré selon 07941-9318.* 
+---"
+

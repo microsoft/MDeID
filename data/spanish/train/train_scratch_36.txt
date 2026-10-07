@@ -1,0 +1,61 @@
+"**NOTA DE ENFERMERÍA**
+
+-----------------------------
+[Información del Paciente]
+    Paciente: Cecilia Mondragón
+    Edad: 103
+
+[Información de Ubicación]
+    Dirección: Cecilia Mondragón, Callejón Manu Guerra 27 180, Eucalyptole, U6A1996Z Fuerteventura, Argentina
+    Hospital: Axwell
+
+[Signos Vitales]
+    PA: 120/80 mmHg
+    FC: 80 lpm
+    Temp: 98.6 \u00b0F
+    FR: 16 respiraciones por minuto
+    SpO2: 98%
+
+[Observaciones]
+    Piel: Se observa una erupción severa
+
+[Evaluación]
+    Posible infección: Varicela
+
+[Plan]
+    Medicación: Medicamento antiviral (si es necesario)
+    Seguimiento: 1 semana 
+
+[Notas]
+    El paciente informó de picazón intensa en varias partes del cuerpo.
+
+[Referencias]
+    Dermatólogo: Rodolfo Flores
+
+-----------------------------
+[PANEL ADMINISTRATIVO]
+    Número de Registro Médico: 81766-YpOp
+    ID de Cuenta: qY 88996fW
+    ID del Dispositivo: xoa 135TIS
+    Alias de Inicio de Sesión: hbBLXaK7
+    Seguridad Social: 24850770D
+    Licencia: DzoL UBHgg
+    Identificador Biométrico: 27757 aErb
+    Dirección IP: 47.131.219.133
+    Número de ID: qY 88996fW
+    Ciudad: Fuerteventura
+    País: Colombia
+    Código Postal: U6A1996Z
+    Plan de Salud: sr
+    Profesión: Genetista, molecular
+    Organización: Hamilton Ltd
+    Número de Contacto: 001-515-634-7404x41074
+    Número de Fax: +1-429-800-2876x8505
+    Correo Electrónico: foe@gmail.com
+    Vehículo: 95-T780
+    URL: norris.mccormick.rivas-martin.com
+    Detalles de Ubicación: estadio
+-----------------------------
+
+***Preservando la Salud y los Valores***"
+

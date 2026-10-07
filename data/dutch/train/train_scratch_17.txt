@@ -1,0 +1,90 @@
+"Verpleegkundige Kras Notitie
+
+====================================================================================
+
+| Overzicht van Guillaume Jacobs |
+
+------------------------------------------------------------------------------------
+
+| UTI Diagnose |
+
+| 82 |
+
+| man |
+
+| Behandelplan: #1234DS |
+
+====================================================================================
+
+- 09:45, ii/05: Guillaume Jacobs kwam met klachten van buikpijn, koorts...
+
+- 10:30: vitale functies van Guillaume Jacobs: 78 bpm, BP: 130/80. Temp: 39.2C 
+
+- 10:45: Urinetest aangevraagd voor Guillaume Jacobs. 
+
+         Urinemonster: 26 DLlEsev
+
+- 11:15: UTI vermoed. Guillaume Jacobs gestart met antibioticakuur #789DF
+
+- 12:00: Guillaume Jacobs vertoont licht ongemak, temperatuur stabiel op 38.4C.
+
+- 15:00: Guillaume Jacobs toont tekenen van verbetering, buikpijn neemt af
+
+- 16:00: Guillaume Jacobs moet de voorgeschreven antibiotica #789DF de komende vijf dagen voortzetten.
+
+====================================================================================
+
+| Belangrijke Contactgegevens |
+
+------------------------------------------------------------------------------------
+
+| Dokter in charge: Noortje Vos |
+
+| Verpleegkundige: Opzichter, hydrografisch |
+
+| Ziekenhuis: Saint Philip AME |
+
+| Noodcontact: 320.851.3599x0456 |
+
+| Email: eVos@unhcr.org |
+
+====================================================================================
+
+====================================================================================
+
+| Diverse Informatie |
+
+------------------------------------------------------------------------------------
+
+| Gezondheidsplan: G4MU0G8 Rf029t0 42HDJj Cgrr |
+
+| Locatie van de patiënt: museum |
+
+| Medisch Dossier Nummer: 74-929zZCx |
+
+| Rekeningnummer: 4431 LODRu |
+
+| Gebruikersnaam van de patiënt: pqG5S4nz |
+
+| IP Adres: 56.223.57.243 |
+
+| Apparaat: 168 147681|
+
+| Voertuig : DEV-3114 |
+
+| ID nummer :4431 LODRu |
+
+| Sociale Zekerheid : 721598575 |
+
+| Licentie : LN 560515X|
+
+====================================================================================
+
+**Opmerking: Verwijs in alle communicatie naar patiënt Guillaume Jacobs met hun gebruikersnaam pqG5S4nz**
+
+Notitie Voorbereid door: pqG5S4nz (Verpleegkundige)
+
+Datum: 30 september 1971
+
+**Disclaimer: Deze notitie is alleen voor medisch personeel, strikt geen delen met onbevoegd personeel**"
+

@@ -1,0 +1,68 @@
+"---Nota dell'Infermiera Scratch---
+
+**PH I: Erika Palazzo** 
+
+- Temp: 102 F 
+- Pallore: Sì 
+- Malessere: Si lamenta di sentirsi male
+- Diagnosi: Possibile malaria
+
+**PH II: Vitals Recenti di Erika Palazzo**
+
+- Pulsazioni: 86 BPM 
+- Resp: 22 Respiri/min
+- Pressione: 120/80 mmHg
+- O2 Sat: 95%
+
+**PH III: Note di Progresso**
+
+- Cronologia: Ammessa il 23 aprile 2014
+- Assegnata a Simona Fiore 
+- Record di Erika Palazzo presso Notre Dame International: 47138-borz
+- ID unico di Erika Palazzo: 02 YhOKjrj
+- Lamentele: Alta temperatura, malessere 
+
+**PH IV: Altre Osservazioni**
+
+- Leggera itterizia osservata 
+- Test del sangue: Suggerisce malaria 
+- Erika Palazzo segnala recenti viaggi a teatro
+
+**PH V: Contatto e Informazioni Aggiuntive**
+
+- Contatto: 001-317-726-7791x279
+- Contatto di emergenza: eSimona@un.org
+- Residenza: Erika Palazzo, 4219 Brandon Lodge Apt. 751, 10, 4041 Ancona Publicanism, Italy
+- Attuale: Simona Fiore, 33653 Zachary Road Suite 781 119, 2489 38122, Switzerland
+- Assicurazione di Erika Palazzo 02 YhOKjrj con Vivl
+
+**PH VI: Dispositivo e ID Aggiuntivo**
+
+- Monitoraggio con dispositivo NXyR eKOfw
+- Sicurezza Sociale: EWJDAN08Z49U116M
+
+**PH VII: Medicazione e Dimissione**
+
+- Prescritto farmaco antimalarico 
+- Dimissione prevista: 23 aprile 2014
+
+**Firma dello Staff: I6ZDi9XG**
+
+**Fine della Nota**
+
+---Allegati---
+
+- Scansione della Patente del Paziente: 76156-2008
+- Hash ID Biometrico: Pg 29buxJa
+- Indirizzo IP di Accesso Remoto: 45.50.109.163
+- Dettagli del veicolo: 777 YJT
+- Luogo di Lavoro del Paziente: Love and Sons
+- Indirizzo Email Associato: eSimona@un.org
+- Dettagli del riferimento:  garcia.com/category/listlogin.jsp
+- Contatto Fax: 841-593-9467
+- Registrato da: I6ZDi9XG
+- Accesso da: Fitoterapista 
+
+---Fine del Documento---
+"
+

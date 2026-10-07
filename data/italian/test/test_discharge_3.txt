@@ -1,0 +1,34 @@
+--------------------------------------SOMMARIO DI DIMISSIONE--------------------------------------
+
+**[Paziente]**Urs Meier, **[Numero di Cartella Clinica]** JjOUD 1567, **[Medico Curante]** Enrico Neri**Motivo principale del ricovero:** Diagnosi di osteomielite
+
+**Sezione Allergie e Intolleranze:** Nessuna allergia o intolleranza nota.
+
+**Sezione Corso di Ospedalizzazione:** Durante il ricovero, il paziente ha sperimentato dolore da moderato a grave, arrossamento nei siti locali, sensibilità nella prostata, febbre ricorrente e difficoltà a urinare - ulteriori test diagnostici hanno confermato la presenza di osteomielite. È stato avviato immediatamente un trattamento per gestire i sintomi e prevenire ulteriori progressi della malattia.
+
+**Sezione Procedure:** Eseguita risonanza magnetica per la valutazione e la conferma dell'osteomielite.
+
+**Sezione Risultati:** I risultati della risonanza magnetica hanno mostrato evidenza di infezione nelle ossa indicativa di osteomielite.
+
+**Diagnosi di Dimissione:** Osteomielite
+
+**Farmaci di Dimissione:** Prescritti antibiotici e farmaci per il controllo del dolore. Tutte le informazioni e le istruzioni necessarie riguardanti i farmaci sono state spiegate e consegnate al paziente.
+
+**Sezione Piano di Trattamento:** Dopo la dimissione, il paziente continuerà la terapia antibiotica per altre quattro settimane e avrà appuntamenti di controllo regolari presso l'ambulatorio dell'ospedale.
+
+**Sezione Consulenze Ospedaliere:** Consultato un team di specialisti in malattie infettive durante il corso del ricovero per orientamento nella gestione dell'osteomielite.
+
+**Disposizioni per le Cure di Follow-up:** Le cure di follow-up sono state organizzate presso l'ambulatorio con Enrico Neri.
+
+**Informazioni fornite al paziente e alla famiglia:** È stato fornito un ampio counseling riguardo alla gestione della malattia, alle possibili complicazioni, all'aderenza ai farmaci, all'importanza dei follow-up e alle modifiche dello stile di vita.
+
+**Sezione Istruzioni di Dimissione Ospedaliera:** Al paziente è consigliato di completare il ciclo di antibiotici senza mancare, riposare, mantenere l'idratazione e evitare lo stress. Inoltre, qualsiasi peggioramento dei sintomi o effetti collaterali dei farmaci dovrebbe essere segnalato immediatamente.
+
+**Disposizione di Dimissione:** La condizione del paziente è migliorata significativamente al momento della dimissione ed è sicuro continuare il recupero a casa.
+
+**Anamnesi Medica Precedente:** Non significativa per malattie croniche. Questa è stata la prima incidenza di un'infezione grave.
+
+**Sezione Storia Sociale:** Nessuna storia di fumo o abuso di alcol. Attività fisica regolare e dieta equilibrata.
+
+--------------------------FINE DEL DOCUMENTO---------------------------
+

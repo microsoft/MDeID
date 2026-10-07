@@ -1,0 +1,13 @@
+T1	PATIENT 41 56	Margaux Lambert
+T2	MEDICALRECORD 90 100	Umg 5551zl
+T3	PATIENT 183 198	Margaux Lambert
+T4	PATIENT 619 634	Margaux Lambert
+T5	DOCTOR 703 718	Anna Zimmermann
+T6	PATIENT 1258 1273	Margaux Lambert
+T7	DOCTOR 1647 1662	Anna Zimmermann
+T8	URL 1734 1764	smith.com/tags/postsindex.html
+T9	PATIENT 1856 1871	Margaux Lambert
+T10	HOSPITAL 2556 2565	Watermill
+T11	PATIENT 2829 2844	Margaux Lambert
+T12	DOCTOR 3002 3017	Anna Zimmermann
+T13	DOCTOR 3041 3056	Anna Zimmermann

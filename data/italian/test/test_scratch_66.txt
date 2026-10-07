@@ -1,0 +1,52 @@
+"**Nota di Osservazione Infermieristica**
+
+| Informazioni Paziente | Dettagli |
+|---------|-----------|
+|Nome: |Antonio Mazza|
+|Età: |60|
+|ID: |06-32LhacO|
+|Account: |251271 624|
+|Piano Sanitario: |IoDU10|
+|Email: |Schneidar@yahoo.com|
+
+| Segni Vitali e Osservazioni |
+|--------|
+|BP: 120/80 mmHg| 
+|Pulse: 98 bpm|
+|Temp: 36.5\u00b0C|
+|Resp: 22 respiri/min|
+
+**Note Cliniche**
+-Disfagia, difficoltà a deglutire Antonio Mazza
+-Sospetta Malattia da Reflusso Gastroesofageo (GERD)
+-Iniziato su Omeprazolo 20mg/24hr
+
+|Informazioni di Contatto|
+|---------|
+|Medico Primario:| Lara Schneider|
+|Ospedale di Riferimento: Crown Hill|
+|Telefono: |9852676635|
+|Fax: |821-751-4970x787|
+
+| Informazioni sul Dispositivo |
+|---------|
+|Pacemaker: |79857 0016|
+
+|Altre Informazioni|
+|---------|
+|Nome utente: |LLocRfuZ|
+|Licenza: |60 VqeREsw|
+|Indirizzo IP: |218.227.225.2|
+
+**Prossimi Passi**
+-Programmare Endoscopia
+-Rivedere dieta e stile di vita Antonio Mazza
+-Appuntamento di controllo tra 2 settimane
+-Notificare a Lara Schneider qualsiasi cambiamento o peggioramento dei sintomi
+
+**Sommario Dimissione**
+-Antonio Mazza a 60 presenta difficoltà a deglutire.
+-Sospetta GERD, iniziato su farmaco, follow-up programmato.
+-Tutte le informazioni importanti inoltrate a Lara Schneider presso Crown Hill via 821-751-4970x787
+"
+

@@ -1,0 +1,48 @@
+"Appunto del Dottore
+
+Paziente: Stefania Bernardi
+ID: 499914 KVr
+Età: 87
+
+Sintomi presentati:
+- Stanchezza (1 sett)
+- Artralgie (1 sett)
+- Mialgie (1 sett)
+
+Non riporta:
+- Perdita di peso
+- Febbre
+- Sanguinamento
+- Lividi
+- Dispnea
+- Sintomi urinari
+
+Fumo, uso di droghe, storia dei viaggi, fattori di rischio HIV: Neg
+Anamnesi familiare: Non contributiva oltre al tratto falciforme
+Anamnesi medica: Portatrice del tratto falciforme
+
+Valutazione iniziale presso Magill:
+- Anemia (Hgb: 11 g/dL)
+- Trombocitopenia (Plt: 46,000/uL)
+- Insufficienza renale acuta (Cr: 1.33 mg/dL)
+- LDH elevata (968 IU/L)
+- Haptoglobina diminuita (15 mg/dL)
+- Schistociti su striscio di sangue periferico
+- WBC: 4.1/uL
+- K: 4.1 mmol/L
+- P: 6.6 mg/dL
+- Ca: 9.8 mg/dL
+- Bilirubina elevata (2 mg/dL)
+
+Trattamento: Iniziato con Prednisone (1 mg/kg) e scambio plasmatico giornaliero presso Magill
+Risultato: Nessun miglioramento osservato
+
+Diagnosi presuntiva: Piastrinopenia trombotica trombotica (TTP)
+Diagnosi differenziale: Anemia emolitica microangiopatica, complicazioni legate al tratto falciforme
+
+Piano: 
+Continuare l'attuale trattamento presso Magill, monitorare la risposta al trattamento e regolare se necessario in base ai risultati di ADAMTS13 e all'evoluzione clinica. Educare Stefania Bernardi e la famiglia di Stefania Bernardi sulla TTP, le sue implicazioni e l'importanza dell'aderenza al regime di trattamento. Programmare regolari appuntamenti di controllo e monitoraggio di laboratorio per valutare l'efficacia del trattamento e gestire eventuali complicazioni emergenti.
+
+Dottore: Markus Widmer
+Licenza: oV-LvoYjdY"
+

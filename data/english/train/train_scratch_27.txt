@@ -1,0 +1,60 @@
+"NURSING SCRATCH NOTE 
+
+*******Critical Patient Data*******
+Charlie Bouchard: Complains of stiffness and weakness, possible LA 145093b
+
+*******Vital Signs*******
+BP: 125/78
+HR: 90 bpm
+RR: 20 breaths/min
+Temp: 98.2\u00b0F
+
+*******Observations*******
+Gait: Altered, cautious, possible pain 20
+Appetite: Normal
+Sleep: Disturbed, reported insomnia ucharr
+
+*******Treatments Administered*******
+Physiotherapy: Initiated, pain management focus
+Diet: Balanced, high protein prescribed
+
+*******Possible Diagnosis*******
+Suspected: Arthritis 847090 Ksa 
+
+*******External Factors*******
+Work: Sedentary, long hours at Bray and Sons 
+Location: Urban museum 
+
+*******Contact & Emergency Information*******
+Relative's Phone: +1-887-210-2001x48886
+Emergency contact: 
+E-mail: rWil@icloud.com
+
+*******Other Relevant Details*******
+Referring physician: William Wratten
+Healthcare Provider: l62t
+Hospital of Admission: 377th
+
+*******Equipment Info*******
+Device Model: FrVqRV-RuB
+Device IP: 162.193.41.200 
+
+*******Identifier Info*******
+License Plate: IYO 045
+Societal ID: 673-254-134
+
+*******Communication*******
+Patient Portal: https://www.werner-richard.net/list/appterms.php 
+Username: ucharr 
+Password (Hashed): 847090 Ksa
+
+*******Additional Info*******
+Residential Address: Charlie Bouchard, 193 Perinephrium, Dissimulation, 39 1564, Canada
+Patient Occupation: Engineer, mining
+Fax: 9373048139
+Account Status: Active, 847090 Ksa 
+
+*******Note*******
+Possible arthritis, need to confirm with specialist. Send appointment reminder to rWil@icloud.com, follow-up in 3 weeks. Keep ucharr and Bray and Sons informed.
+"
+

@@ -1,0 +1,78 @@
+"Note de Docteur Scratch
+
+Patient : Alina Fischer
+
+Âge : 82
+
+Docteur : Ophélie Wuyts
+
+Hôpital : City FC
+
+Ville : Viscomtat
+
+État : 69
+
+Téléphone : 001-369-940-6945x530
+
+Email : lieuy@unwomen.org
+
+Dossier médical : ytectU PaX
+
+Compte : kqvy-32qEI
+
+Licence : HcD-NBQlDW
+
+Signes vitaux & Observations :
+
+- Rétention urinaire, faiblesse bilatérale des membres inférieurs, paresthésie
+
+- Début : ~2 semaines auparavant
+
+- Éruption de zona, bas du dos droit, apparue ~10 jours auparavant
+
+- Neurologique : Faiblesse sévère des membres inférieurs (grade MRC 0/5), réflexes abolis (cheville, genou), signe de Babinski positif (des deux côtés), diminution de la sensation de toucher (niveau T2)
+
+- Imagerie : IRM de la colonne vertébrale -> Lésion hyperintense T2, T2-T11, rehaussement au gadolinium à T7-T8
+
+- Labo : GB élevés (14100, 72% PMN), IgG VZV positif, IgM VZV négatif
+
+- LCR : Pléocytose lymphocytaire (94 cellules/uL), IgG VZV élevé (0.88), indice IgG VZV élevé (14)
+
+Évaluation :
+
+Diagnostic principal suspecté : Myélite liée au VZV (basé sur les lésions de la colonne vertébrale, les résultats du LCR)
+
+Diagnostics différentiels : Autres myélites virales (exclues - sérologies/cultures négatives)
+
+Plan :
+
+- Commencer l'acyclovir IV
+
+- Surveiller l'efficacité/les effets secondaires
+
+- Gérer la douleur, la rétention urinaire (médicaments, cathétérisme si nécessaire)
+
+- Recommander la physiothérapie (prévenir l'atrophie, améliorer la mobilité)
+
+- Éduquer le patient (maladie, adhésion au traitement)
+
+- Planifier des rendez-vous de suivi
+
+- Référence : Neurologue (gestion continue), Urologue (symptômes urinaires)
+
+Notes supplémentaires :
+
+- Le patient a été informé des références à Jenkins and Sons
+
+- Aucune allergie connue
+
+- Aucune chirurgie antérieure
+
+- Aucun NYh22qBe connu
+
+- Consultez holmes.weaver.com pour plus d'informations
+
+- Profession du patient : Consultant en horticulture
+
+Ophélie Wuyts"
+

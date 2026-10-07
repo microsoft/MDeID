@@ -1,0 +1,43 @@
+"**Pflegebericht für Patientin mit Bauchschmerzen und diagnostiziertem Krebs**
+
+Subjektiv: Eine weibliche Patientin, Stella Beck, im Alter von 82 wurde mit Schmerzen in ihrem linken unteren Quadranten aufgenommen. Es wurde keine signifikante Vorgeschichte festgestellt und es gab keine Familienanamnese von gastrointestinalen oder Eierstockkrebs. Sie berichtete jedoch, dass ihr Bruder Lungenkrebs hatte, ihre Großmutter väterlicherseits an bilateralem synchronem Brustkrebs litt und ihr Großvater an Prostatakrebs erkrankt war.
+
+Objektiv: Bei der körperlichen Untersuchung und unter Verwendung eines GOHEy 7635 wurde ein obstruierter Rektosigmoid-Tumor entdeckt. Eine Koloskopie ergab einen Rektosigmoid-Tumor von 4,5 x 6,5 cm, der 18 cm vom Analkanal entfernt war. Biopsieergebnisse bestätigten es als mäßig differenzierten Adenokarzinom. Weitere Tests mit GOHEy 7635 zeigten keine entfernten Metastasen. Eine chirurgische Resektion des Tumors und der lokalen Lymphknoten wurde durchgeführt; die Pathologie zeigte invasives Adenokarzinom mit lymphovaskulärer und perineuraler Invasion, und 6 von 28 Lymphknoten waren positiv. Genetische Tests ergaben Mutationen in BRIP1 und TP53, mit normalem Lynch-Syndrom-Screening. Es wurden keine Veränderungen in KRAS, NRAS und BRAF gefunden.
+
+Bewertung: Die Patientin wurde mit mäßig differenziertem Rektosigmoid-Adenokarzinom, Stadium III aufgrund von Lymphknotenbeteiligung diagnostiziert. Hochrisikomerkmale wie lymphovaskuläre und perineurale Invasion waren vorhanden. Die genetische Analyse deutet auf eine mögliche erbliche Prädisposition hin, trotz negativer initialer erblicher Krebsvorsorge.
+
+Plan: Die postoperative Nachsorge wird die Überwachung auf Rezidive und das Management von Komplikationen beinhalten. Zusätzliche Keimbahn-Tests für die BRIP1-Genmutation sind geplant. Die Patientin wurde über Symptome eines Rezidivs und Lebensstiländerungen zur Unterstützung der allgemeinen Gesundheit aufgeklärt. Regelmäßige Nachsorge in der Onkologie zur Überwachung und Behandlung wird notwendig sein.
+
+**Patienteninformation**
+- Patienten-ID: gpw 232036
+- Kontonummer: gpw 232036
+- Medizinische Aktennummer: 236458 RKN
+- Gesundheitsplan: XW7O
+
+**Kontaktinformationen**
+- E-Mail: ueEmma@red-cross.org
+- Telefon: 001-905-415-1917
+- Adresse: Stella Beck, Oliver-Maurer-Weg 074 143, 9224 Isny Im Allgäu, Switzerland
+
+**Notfallkontakt**
+- Kontaktname: Stella Beck
+- Kontaktbeziehung: Stella Beck
+- Kontakttelefon: 001-905-415-1917
+
+**Digitale Informationen**
+- IP-Adresse: 29.54.72.93
+- Benutzername: pmRp3UHp
+- URL:  dyer.org/tagregister.htm
+
+**Weitere Informationen**
+- Geräte-ID: GOHEy 7635
+- Fahrzeug-ID: 458-991
+- Sozialversicherungsnummer: 217-8471525-97
+- Lizenznummer: 00201 1909
+- Biometrische ID: jYIMGR asV
+- Faxnummer: 605.966.5646
+
+**Unterschrift**
+- Emma Bauer, Krankenschwester
+- Standort: Queen ’ s, Bibliothek"
+

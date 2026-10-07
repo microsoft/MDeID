@@ -1,0 +1,58 @@
+"**NURSING SCRATCH NOTE**
+
+**Patient details**
+Isabella Lee
+33 weeks old
+Isabella Lee, 168 Would, Noncompulsive, Frits 5067, New Zealand
+(225)711-6684x5868
+
+**Vitals**
+BP: 130/85
+Pulse: 75
+Temp: 36.5 C
+Respiration: 20
+
+**Complaint**
+1. Cramps in calves (Varicose museum)
+
+**Observations**
+1. Veins dilated in lower extremities
+2. No visible ulcerations
+
+**Treatment**
+Medication: 
+Dosage: 20mg daily
+Follow-up appointment: Sat,Nov,00
+
+**Healthcare Team**
+Primary Physician: Grace Hardy
+Nurse: UgJAeOzt
+
+**Medical History**
+Last hospital visit: 47th Ohio, Sat,Nov,00, mMk ZpVhFD
+Health plan: W3CPupi
+
+**Additional Information**
+IP Address of patient login: 143.109.49.219
+Device number for pacemaker: AoS-560627
+
+**Contact details**
+Emergency contact: Isabella Lee
+Contact number: (225)711-6684x5868
+Contact email: rard@unwomen.org
+
+**Structured Information**
+Professional License of the primary doctor: 991597 94r
+Patient's account number: 63 lACOnti
+Personal identifier: 63 lACOnti
+Social Security Number: 851-30-3948
+Biometric hash of patient's fingerprint for secured login: baTP-QqwPs
+
+**Unstructured Information**
+Patient works for: Kim and Sons
+Last vehicle used by the patient: 78-10401, License plate: 991597 94r
+URL for accessing patient's online health portal: jacobs.info
+Fax number for sending medical reports: (902)828-1973x3040
+
+**Note**: Patient's condition stable. Next review on Sat,Nov,00.                                       "
+

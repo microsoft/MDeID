@@ -1,0 +1,49 @@
+"SCRATCH NOTES: Patient Profile
+
+------------------------------------------------------------
+Nate Anderson | 9 month old | male | Tourist information centre manager | Kim, Anderson and Ramirez
+------------------------------------------------------------
+**CONTACT INFO**:
+* Home: Nate Anderson, 49 Hoosierese, Trunkwork, 41 2917, Canada
+* Phone: 001-839-916-2122x36597
+* EMAIL: ne@yahoo.com
+------------------------------------------------------------
+**Patient's Vital Signs**:
+* BP - 121/81 (Normal)
+* Pulse - 75 (Normal)
+* Temp - 98.6 F (Normal)
+* Respiration - 16 breaths/min (Normal)
+------------------------------------------------------------
+**Patient's Medical Info**:
+* MRN: nsCsr-qfou
+* Health Plan: otRDi3w46Nv
+* Hospital: Warstones
+* Attending Doctor: Marilyn Warren
+------------------------------------------------------------
+**Observations**:
+- Complained of difficulty focusing.
+- Emotional instability noted.
+- Suspected: diabetes.
+- Recommended: Blood glucose test.
+------------------------------------------------------------
+**Device Info**:
+- Device ID: aJst-076tN
+------------------------------------------------------------
+**Other Info**:
+* Account number: cd-6834gfI
+* License plate: ZKC 985
+* BioID: Pd-OtjIQmf
+* Username: 0LsdMphB
+* IP Address: 193.175.21.103
+* ID Number: cd-6834gfI
+* Location: restaurant
+* Emergency Contact: Nate Anderson
+* Social Security: 995-777-082
+* State: 304
+* Street: 9534 Young Spur
+* URL:  evans-valdez.com/app/applogin.asp
+* Zip: 2917
+* Fax: 457.787.9711
+------------------------------------------------------------
+NOTE: Follow-up scheduled for full diagnostics. Results will guide next steps in treatment plan. Contact patient after test results are received."
+

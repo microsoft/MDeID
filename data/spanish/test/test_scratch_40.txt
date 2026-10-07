@@ -1,0 +1,100 @@
+"Nota de Enfermería
+
+[Información de Encabezado]
+
+------------------------------------------------------------------------
+
+Cuenta: 34-aLMcscd | Registro: dDGb qAIHu | ID: 34-aLMcscd | Usuario: nzáleá
+
+Detalles de Contacto: Teléfono: +1-433-696-1413x07773 | Email: Moit@outlook.com | Fax: 228.734.9401x52315
+
+Detalles Pertinentes:
+
+- Hospital: university polyclinic
+
+- Ubicación: estadio
+
+- Fecha de Nacimiento: 23 de octubre de 2021
+
+- Edad: 94
+
+- Dirección: Germán González, Boulevard Acevedo 556 Edif. 253, Depto. 767 119, Pantihose, TENOSIQUE 36137, Peru
+
+[Observaciones Primarias]
+
+------------------------------------------------------------------------
+
+Paciente: Germán González
+
+- Queja: Dolor de cabeza palpitante, probablemente migraña
+
+Lectura de Signos Vitales:
+
+- Presión Arterial: 130/80 mmHg
+
+- Frecuencia Cardíaca: 82 lpm
+
+- SpO2: 98%
+
+- Temperatura: 98.6 F
+
+[Observaciones Médicas y Plan de Tratamiento]
+
+------------------------------------------------------------------------
+
+- Sensibilidad a la luz observada
+
+- Náuseas reportadas
+
+- Sin fiebre
+
+- Sin signos visibles de angustia
+
+Plan:
+
+- Administrado 50 mg de sumatriptán
+
+- Recomendar descanso en un ambiente con poca luz
+
+- Monitoreo continuo
+
+[Información Adicional]
+
+------------------------------------------------------------------------
+
+- Plan de Salud: gjWg1n KDO
+
+- ID del Dispositivo: iR jYKtlni
+
+- Licencia Profesional: 505 PVwpMV
+
+- ID Biométrica: Ji isPcEhc
+
+- Dirección IP: 167.131.143.169
+
+- ID del Vehículo: 496-NSH
+
+- Seguridad Social: 150-48-5436
+
+- Ciudad: TENOSIQUE
+
+- País: Peru
+
+- Estado: Delicias
+
+- Código Postal: 36137
+
+- Organización: Cook PLC
+
+- Profesión: Cartógrafo
+
+[Información de Pie de Página]
+
+------------------------------------------------------------------------
+
+- Informe preparado por: Margarita Monroy
+
+- URL para el portal del paciente:  gonzalez.org/tags/tags/appauthor.htm
+
+Nota: Toda la información proporcionada es confidencial y no debe ser divulgada sin la debida autorización."
+

@@ -1,0 +1,42 @@
+"**Header Information:**
+
+- Patient: Jonah Bélanger
+- Medical Record: 09-422xtvn
+- Account: wBbuJ-XwKx
+- Admitting Doctor: Angelina Bray
+- Contact Email: AngeBra@protonmail.com
+- Emergency Contact Phone: +1-740-994-4774x64413
+- Patient's Address: Jonah Bélanger, 199 Murrey, Fescues, Hopes 1803, New Zealand
+- Admitting Hospital: del Valle of Sangolqui
+- Health Plan: SksG67
+- Date of Admission: Wed,10,19
+
+**Nurse Note:**
+
+Subjective: Patient Jonah Bélanger presented with a 2 history of lower extremity edema and dyspnea, and a 2 history of intermittent abnormal vaginal bleeding. The patient reported symptomatic improvement following pericardiocentesis.
+
+Objective: Initial evaluation showed hypoxemia with an oxygen saturation of 80% on room air, tachycardia, hypotension, and decreased heart sounds. Left supraclavicular lymphadenopathy was noted. Chest X-ray revealed a widened cardiac silhouette and bilateral pleural effusion. Pericardiocentesis drained 500 mL of bloody secretion. Pleural fluid cytology was positive for poorly differentiated carcinoma. Excisional biopsy of the left supraclavicular lymph node confirmed metastatic squamous cell carcinoma. Cervical biopsy indicated squamous cell carcinoma with an intraepithelial high-grade lesion. CA-125 level was elevated at 335.5 IU/mL. Pelvic MRI showed no uterine or cervical tumoral mass but confirmed peritoneal carcinomatosis.
+
+Assessment: The primary diagnosis is metastatic squamous cell carcinoma with complications including pericardial and pleural effusions leading to hemodynamic instability and respiratory failure. Differential diagnosis initially considered included other forms of metastatic cancers.
+
+Plan: Treatment initiated with chemotherapy using carboplatin and paclitaxel. Repeated pericardiocentesis was offered due to recurrent pericardial and pleural effusions, but the patient refused further pericardiocentesis. Intrapericardial sclerotherapy was considered but not performed due to lack of facility experience. The patient's condition deteriorated, leading to death 2 after initial presentation.
+
+**Footer Information:**
+
+- Patient's Location: superstore
+- Patient's City: Hopes
+- Patient's State: 35
+- Patient's Country: United States
+- Patient's Zip Code: 1803
+- Patient's Social Security: 325-628-560
+- Patient's License: 56484 1599
+- Patient's BioID: pJ hopSdas
+- Patient's IP Address: 204.136.18.151
+- Patient's ID Number: wBbuJ-XwKx
+- Patient's Vehicle: B90 7SD
+- Patient's Profession: Chiropractor
+- Patient's Organization: Crawford, Burton and Walls
+- Patient's Username: élanna
+- Patient's URL: benjamin.collins.org
+- Patient's Fax: 467.443.0463x799"
+

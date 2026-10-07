@@ -1,0 +1,61 @@
+"---
+> **KRATZNOTIZ** 74 90402wY \ud83d\udc69\u200d\u2695\ufe0f\ud83d\udccb\ud83d\udd8a\ufe0f
+--- 
+
+> **Patientenprofil**
+- Martin Schmid 
+- 31 Jahre alt
+- Adresse: Martin Schmid, Bachmannstrasse 40 57, 5109 Lockenhaus, Deutschland
+- Kontakt: 001-548-765-4591x541
+- Email: ner@protonmail.com
+- Krankenversicherung: giIZGoR
+
+> **Medizinische Details**
+- Hauptbeschwerde: \ud83c\udf21\ufe0fFieber, Kopfschmerzen, rote Flecken
+
+> **Medizinisches Gerät**
+- Geräte-ID: suonsc 84R
+
+> **Medizinische Beobachtungen** 
+> * Vitalwerte
+    - Temp: 102.5\u00b0 F 
+    - BP: 130/80 mmHg 
+    - Puls: 98 bpm 
+    - Atem: 21 bpm
+* Haut: Mehrere rote Flecken vorhanden
+
+> **Behandlungsplan**
+- Antipyretika gegen Fieber
+- Ruhe und Hydratation
+
+> **Nächster Termin** 
+- Datum: 06.05.1997
+- Ort: Bischof von London
+- Raum: Markt
+
+> **Kontaktinformationen** für Notfälle
+- Notfallkontakt: Martin Schmid
+- Kontaktnummer: 001-548-765-4591x541
+
+> **Zusätzliche Informationen**
+- Zuständiger Arzt: Peter Lehner
+- Benutzername im Portal: ciFyWXFk
+- IDNUM im System: 65503-7761
+- Sozialversicherungsnummer: 980-6473808-64
+- Konsultierter Fachmann: Pensionsberater
+
+> **Entlassungsbericht** 
+- Weitere Konsultation erforderlich mit Peter Lehner bei Bischof von London 
+- Nächster Nachsorgetermin am 06.05.1997
+
+> **Kommunikation**
+- Bitte überprüfen Sie die Updates auf dem Patientenportal http://williams.org/explore/tagsauthor.php
+
+> **Abrechnungsdetails**
+- Konto: 65503-7761
+- Organisation: Scott, Phillips und Scott
+
+---
+*Diese Notiz wurde erstellt von ciFyWXFk/292848 Tur/204.0.100.146/ncc-LINhBF für Martin Schmid mit SCY-086/4829340090 in Altopascio/Belgien/Oberösterreich/19789 Jennifer Points/5109 aufgezeichnet gemäß suonsc 84R.* 
+---"
+

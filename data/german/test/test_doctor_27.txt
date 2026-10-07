@@ -1,0 +1,25 @@
+"Arzt Kratz Notiz
+
+P: Peter Huber | Chronische Rückenschmerzen, Dyspnoe, Fettleibigkeit, Schlafapnoe, ALL-Geschichte 
+Mgmt: Methadon, erhöhte O2-Supplementierung
+BMI: 48 (krankhafte Fettleibigkeit)
+BMT: GvHD, schwere restriktive Lungenerkrankung
+
+VS: 
+EKG: Atriale Bigeminie (neu aufgetreten, gelöst)
+CTA: PAPVC, linker Oberlappen & Lingula
+Echo: Leichte RV-Dilatation, leichte Trikuspidalinsuffizienz, normale LV-Funktion
+PFT: TLC 42%, FEV1 39%, FVC 37%, DLCO 41%
+RHC & LHC: Pulmonale Hypertonie, erhöhte Drücke, Qp/Qs 1.22:1
+
+Dx: PAPVC
+Bemerkung: Sekundäre Komplikationen - Pulmonale Hypertonie, chronisches Atemversagen
+Hinweis: Lungenembolie ausgeschlossen (CTA)
+
+Plan: Fortsetzung der O2-Supplementierung, Methadon für Rückenschmerzen
+Überwachung: Atem- & Herzstatus
+Bildung: Symptomüberwachung, medizinische Aufmerksamkeitszeichen
+Überweisung: Manuela Müller (Pulmonologin), Manuela Müller (Kardiologin) für PAPVC & pulmonale Hypertonie
+
+Manuela Müller | 30.09.97"
+

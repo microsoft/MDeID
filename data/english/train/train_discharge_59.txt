@@ -1,0 +1,74 @@
+Discharge Summary
+
+Discharge Disposition: Home with services
+
+Admission Reason: Hemiparesis
+
+# Allergies and Intolerances Section
+
+No known allergies.
+
+# Hospital Course Section
+
+Levi Nguyenwas admitted with an initial presentation of hemiparesis. The hospital course was uneventful with notable improvement in the patient's condition.
+
+# Discharge Diagnosis Section
+
+Diagnosis upon discharge: Hemiparesis
+
+# Plan of Treatment Section
+
+The patient was prescribed rehabilitative treatments including physiotherapy. Regular reviews with Alex Douglas are recommended to monitor progress.
+
+# Hospital Consultations Section
+
+Various consultations were held by the multidisciplinary team comprising of physicians, physiotherapists, and nutritionists. 
+
+# Procedures Section
+
+No significant medical procedures were performed over the course of hospitalization.
+
+# Results Section
+
+The patient showed significant improvements in strength and coordination. However, persistent dysarthria and paresis require ongoing management.
+
+# Discharge Medications Section
+
+The patient was discharged with a prescription for medications to manage symptoms.
+
+# Chief Complaint and Reason for Visit Section
+
+The patient presented with hemiparesis and associated symptoms including dysarthria, paresis, asthenia, aphagia, and seizures. 
+
+# Nutrition Section
+
+Recommended a balanced diet to maintain overall health and support recovery. 
+
+# Family History Section
+
+No known hereditary diseases reported by the Levi Nguyen. 
+
+# Functional Status Section
+
+Upon discharge, the patient showed good functional capacity with mild limitations due to paresis. 
+
+# Hospital Discharge Instructions Section
+
+The patient was advised to follow the prescribed medication regimen, adhere to the rehabilitation exercise program, and to seek immediate medical attention if symptoms persist or worsen. 
+
+# Hospital Discharge Physical Section
+
+Drop in muscle strength in the right upper and lower limbs consistent with hemiparesis. No other significant physical findings at the time of discharge.
+
+# Problem Section
+
+Ongoing management of paresis and dysarthria is recommended. The patient will be monitored closely by Alex Douglas in subsequent appointments.
+
+# Vital Signs Section
+
+Upon discharge, the vital signs were stable.
+
+This document was compiled while ensuring full adherence to PHI guidelines. No personal health information was disclosed. Further queries related to the management of the condition or the treatment plan should be directed to Alex Douglas.
+
+Overall, the patient's condition on discharge was stable, and the prognosis is satisfactory with adherence to the prescribed treatment and rehabilitation plan. The patient was discharged under the care of Alex Douglas and the multidisciplinary team. Regular reviews and follow-ups are planned to ensure optimal recovery and management of hemiparesis.
+

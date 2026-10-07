@@ -1,0 +1,62 @@
+"**Nota Rapida**
+
+Statistiche Vitali
+BP: 128/85
+HR: 94 
+Temp: 38.7 C
+RR: 18
+O2 Sat: 94%
+
+**Osservazione:** Bruno Gerber si è presentato con sintomi di tosse persistente, febbre e stanchezza. Possibile polmonite, necessita ulteriori test.
+
+**Info Cliniche**
+Olivia Müller ha consigliato una radiografia al torace, esami del sangue (CBC, marcatori infiammatori). 
+Medicazione raccomandata: 
+1. Compresse di Azitromicina 500mg per 5 giorni
+2. Paracetamolo 650mg se necessario
+
+**Cartelle Cliniche**
+Numero di Cartella Clinica: MIglcx-CtB
+Numero di Conto: 839-63OuJD
+ID Dispositivo : 333137 005 (se disponibile)
+
+**Contatto**
+Numero di Contatto di Emergenza: 4436698728
+Email: vile@icloud.com
+
+**Dati Demografici**
+Età: 9
+Indirizzo: Bruno Gerber, 699 Price Mountains 33, 6364 Marsico Nuovo, Svizzera
+Città: Monte Sant'angelo, Puglia
+Stato: 54
+CAP: 6364
+
+**Altre Info**
+SSN: 123346-4661
+Patente: zhPKM 4255
+BioID: 365868 702
+IP: 111.78.33.144
+
+**Impiego**
+Organizzazione: Moore Inc
+Professione: Infermiere, disabilità dell'apprendimento
+
+**Assicurazione Sanitaria**
+Piano Sanitario: TQ3B
+
+**Info Online**
+Nome utente:ao64cgz9
+URL: smith.lindsey-martinez.com
+
+**Varie**
+Veicolo: 0H 6281T
+Fax: (909)500-4521x0365
+
+------
+NOTE:
+22/02/91 - Osservazione registrata
+Controllo programmato per 22/02/91
+Il paziente vive vicino a ospedale
+------
+**FINE DELLA NOTA**"
+

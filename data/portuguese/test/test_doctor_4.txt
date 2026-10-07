@@ -1,0 +1,36 @@
+"Notas do Médico
+==========
+Paciente: Santiago Soares
+ID: 82 21226tT
+
+S:
+- Sangramentos nasais recorrentes por 6-8 meses
+- Sem dores de cabeça ou sintomas sistêmicos
+- Bloqueio nasal
+
+O:
+- Massa dura, narina direita
+- Fosfatase alcalina normal
+- Tomografia computadorizada: Massa atrás da lâmina basal, calcificação, deslocando o corneto inferior, se estende até o vestíbulo nasal
+- Cirurgia endoscópica: Anestesia geral, massa excisada, aderente ao septo posterior e superfície medial do corneto inferior
+- Tamanho da massa: 3 x 2 x 1 cm
+- Microscopia: Lesão fibro-óssea benigna, indica displasia fibrosa
+
+A:
+- Diagnóstico primário: Displasia fibrosa da cavidade nasal
+- Massa excisada, sem complicações imediatas
+- Prognóstico: Favorável, baixo risco de malignidade, lesão benigna
+
+P:
+- Recuperação: Monitorar, acompanhamentos regulares com Ana Fernandes
+- Aconselhar: Relatar sintomas incomuns ou sangramentos nasais recorrentes
+- Nenhum tratamento adicional necessário
+- Vigilância: Continuada para recorrência da massa
+
+Ana Fernandes
+Engenheira de orçamento
+Flores, Morgan e Medina
+ar@unicef.org
+001-779-815-4885x38963
+63poB23"
+

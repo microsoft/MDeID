@@ -1,0 +1,96 @@
+"**NOTA DE RASGUÑO DEL PACIENTE**
+
+----------
+**Centro de Atención de Arcos de La Frontera - Young Ltd**
+----------
+**Paciente**: Sebastián Sánchez
+
+**ID**: 70250 67cT
+
+**SSN**: YJOM574116BVHZPT35
+
+**Cuenta**: BrXZ 13648
+
+**Plan de Salud**: ERJoE
+
+----------
+**Signos Vitales**
+----------
+Temp: 98.6\u2109
+
+BP: 120/80
+
+HR: 75 bpm
+
+RR: 20/min
+
+SpO2: 98%
+
+----------
+**Observaciones**
+----------
+- Queja de dolor de cabeza
+- 42 muestra signos de incomodidad
+- No tiene alergias conocidas
+- PERRLA normal
+
+----------
+**Tratamientos**
+----------
+- Analgésico prescrito
+- Se alienta la hidratación
+
+----------
+**Notas de Progreso**
+----------
+- Dolor de cabeza persistente
+- Sebastián Sánchez descansando
+- Monitoreo para cambio
+
+----------
+**Información de Contacto**
+----------
+Médico Primario: Laura Pérez
+
+Correo Electrónico: uez@who.int
+
+Teléfono: 844.386.0857x17099
+
+----------
+**Información del Dispositivo**
+----------
+ID del Dispositivo: 838125 kLR
+
+----------
+**Información Adicional**
+----------
+Nombre de Usuario: 6OTwd3tf
+
+Dirección IP: 134.85.63.45
+
+Licencia: 9253 sIKDj
+
+Profesión: Intermediario de aire
+
+----------
+**Contactos de Emergencia**
+----------
+1. Sebastián Sánchez | 844.386.0857x17099
+2. Sebastián Sánchez | 844.386.0857x17099
+
+----------
+**Dirección**: Sebastián Sánchez, Boulevard Lovato 978 Edif. 436, Depto. 388 52, Turdetan, 0YB9W0VF Arcos de La Frontera, Argentina
+
+----------
+**Hospital**: academia médica
+
+----------
+**Otra Ubicación**: farmacia
+
+----------
+**BIOID**: 629-hKJOMy
+
+**VEHÍCULO**: 8H DH294
+
+**FAX**: 001-998-208-1488x3770"
+

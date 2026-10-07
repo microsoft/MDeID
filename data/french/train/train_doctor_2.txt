@@ -1,0 +1,33 @@
+"Note du Docteur Scratch
+
+Notes de Noah Lam :
+
+Maëlle Martinez 85 ans. Engourdissement récent, paralysie - pied gauche. Impact sur le quotidien. Préoccupé par le diagnostic.
+
+Résultats : 
+- IRM : Masse tumorale L2-L4, compression de la dure-mère.
+- TEP/CT : Captations nodulaires de FDG - vertèbres, côtes, bassin, fémur.
+- Biopsie de la vertèbre L5 : Pas de cellules tumorales.
+- Tests de LCR : Normal. 
+- Microscopique : Cellules mononucléées (CD33+, CD68+, CD3-, CD20-, CD34-, CD56-) = SEP de novo.
+- Numération sanguine, coagulation : Normal.
+- Cytogénétique : 46, XY, translocation PML/RAR\u03b1-.
+- TEP/CT post-traitement : Pas de captation anormale. 
+- 4 mois après le traitement : Rechute de la SEP, multiples tumeurs du côté droit. 
+
+Diagnostic : 
+- Primaire : SEP de novo.
+- Différentiel : Autres tumeurs rachidiennes, malignités systémiques.
+- Pronostic : Prudent, la rechute récente indique une SEP agressive/résistante.
+
+Traitement :
+- Initial : Irradiation locale, chimiothérapie (Daunorubicine, Cytarabine, Cytarabine à haute dose) => Soulagement temporaire des symptômes, anomalies de la TEP/CT éliminées.
+- En raison de la rechute : Discuter d'autres options de traitement -> chimiothérapie supplémentaire, thérapies expérimentales.
+- Surveillance régulière : TEP/CT, examens systémiques.
+- Éducation du patient : Nature de la maladie, attentes du traitement, importance de la communication avec l'équipe de soins. 
+
+Noah Lam 610967 278
+Moody-Burnett
+267-781-3306x74132
+oaLam@unicef.org"
+

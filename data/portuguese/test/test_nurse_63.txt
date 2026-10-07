@@ -1,0 +1,47 @@
+"Nota Narrativa de Enfermagem para Diogo Antunes
+
+Na admissão, o Diogo Antunes, que é residente de uma casa de repouso estação de trem, apresentou-se com dificuldade respiratória e alteração do estado mental. O Diogo Antunes queixou-se de dificuldade em respirar e sentia-se desorientado. O histórico médico significativo inclui um aneurisma intracraniano com sangramento pós-cirúrgico 0048 yJpcv, acidente vascular cerebral isquêmico resultando em afasia e paraplegia, e a colocação de uma sonda de gastrostomia endoscópica percutânea (PEG) 38050-WNxb.
+
+No exame físico 2 de novembro de 1973, o Diogo Antunes foi intubado para suporte respiratório. Sinais vitais foram tomados: PA 120/80, Pulso 80, Resp 20, Temp. 98.6 (oral). Os resultados do laboratório clínico indicaram um potencial choque séptico, que iniciou uma investigação de sepse incluindo culturas de sangue e urina TM-72839gR. O plano de tratamento inicial incluiu hidratação intravenosa agressiva e antibióticos de amplo espectro (vancomicina e meropenem).
+
+Uma tomografia computadorizada sem contraste do tórax, abdômen e pelve 38050-WNxb revelou atelectasia pulmonar bibasilar e mal posicionamento do cateter de derivação VP dentro do lúmen gástrico, com a sonda PEG terminando fora do lúmen gástrico. Celulite da parede abdominal e abscessos localizados foram notados ao redor do local de inserção da sonda PEG. A análise e as culturas do LCR foram negativas, mas a cultura da ferida cresceu Proteus mirabilis, sensível a carbapenêmicos e piperacilina/tazobactam.
+
+O diagnóstico primário é choque séptico secundário à celulite da parede abdominal e abscessos localizados, complicado pelo mal posicionamento da derivação VP e da sonda PEG. Os diagnósticos diferenciais incluíram infecção da derivação VP e meningite/encefalite, que foram descartados pela análise e resultados de cultura do LCR.
+
+O plano de gerenciamento inclui a continuação dos antibióticos intravenosos com base em testes de sensibilidade, monitoramento rigoroso do estado clínico do Diogo Antunes e cuidados de suporte para estabilização respiratória e circulatória. É recomendada a consulta cirúrgica para possível correção do mal posicionamento da derivação VP e da sonda PEG. O Diogo Antunes será educado sobre o plano de tratamento e monitorado para quaisquer sinais de piora da infecção ou outras complicações. Serão agendados acompanhamentos regulares e reavaliação da eficácia do tratamento.
+
+Enfermeira Inês Lopes, RSHaqB-Vfi
+
+---
+
+Cabeçalho:
+ID do Paciente: EqKh TAboX
+Data de Nascimento: 2 de novembro de 1973
+Número do Seguro Social: 28524725-6
+
+Rodapé:
+Informações de Contato:
+Telefone: +1-759-469-0009x34160
+Email: êses@msf.org
+Endereço: Diogo Antunes, Fazenda Carlos Eduardo Rocha, 47 101, 7197 Jardim Olinda, Portugal
+
+Contato de Emergência:
+Nome: Diogo Antunes
+Número de Telefone: +1-759-469-0009x34160
+
+Outras Informações:
+Nome de Usuário: zD24IvZw
+Endereço IP: 117.34.132.68
+Número do Veículo: MOR-0673
+Número de Fax: +1-777-329-1911
+URL: mitchell.com
+Organização: Aguilar LLC
+Plano de Saúde: Tpi
+Número da Conta: EqKh TAboX
+Cidade: Manacapuru
+País: Portugal
+Estado: 37
+Rua: 7962 Henderson Land Suite 704
+CEP: 7197
+Profissional: Médico de clínica geral"
+

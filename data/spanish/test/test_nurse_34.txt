@@ -1,0 +1,44 @@
+"Nota Narrativa de Enfermería: Evaluación y Plan para Paciente con Cáncer Colorrectal
+
+S: Matías Juárez, con un historial familiar significativo de cáncer de colon, informó experimentar dolor abdominal generalizado, náuseas, pérdida de peso no intencional de cuatro libras y falta de aliento durante aproximadamente una semana.
+
+O: Los signos vitales no se especificaron en el informe del paciente. Los análisis de sangre revelaron enzimas hepáticas y niveles de bilirrubina elevados. La prueba de sangre oculta en heces fue positiva, indicando la posible presencia de sangre en las heces. La imagenología mediante tomografía computarizada mostró ascitis, linfadenopatía retroperitoneal y periportal, hepatomegalia con masas hepáticas extensas sugestivas de enfermedad metastásica, asas de intestino delgado dilatadas, colon transverso distendido y colon distal colapsado. El nivel de CA 19-9 del paciente, un marcador para el cáncer de páncreas, estaba elevado. Una biopsia con aguja gruesa indicó adenocarcinoma poco diferenciado con tinción inmunohistoquímica positiva para CDX2 y CK20, negativa para PAX-8, CK7, p40 y TTF-1. La colonoscopia reveló una gran masa cecal, confirmada como adenocarcinoma en la biopsia. Matías Juárez se sometió a una hemicolectomía derecha con ileostomía; la patología confirmó adenocarcinoma pT4a, N1b, M1a y un tumor neuroendocrino bien diferenciado separado en el apéndice.
+
+A: El diagnóstico principal es adenocarcinoma metastásico del colon, etapa pT4a, N1b, M1a, con un diagnóstico secundario de tumor neuroendocrino del apéndice. Se consideraron otras fuentes de malignidad intraabdominal como diagnósticos diferenciales, pero la inmunohistoquímica respalda un origen colorrectal.
+
+P: El plan es discutir el caso de Matías Juárez en una reunión de equipo multidisciplinario que involucra a Roberto Alfaro para determinar una estrategia de tratamiento adecuada, probablemente involucrando quimioterapia, radioterapia o terapias dirigidas. Se proporcionará educación sobre el diagnóstico, la etapa y las opciones de tratamiento a Matías Juárez. Se programarán citas de seguimiento con Roberto Alfaro para monitorear la respuesta al tratamiento y manejar cualquier complicación.
+
+---
+
+Información de Contacto:
+
+Teléfono: 6836068215
+
+Correo electrónico: bertoAlfaro@microsoft.org
+
+Contacto de Emergencia: 
+
+Nombre: Matías Juárez
+
+Teléfono: 6836068215
+
+---
+
+Detalles Adicionales:
+
+Número de Cuenta: 875865-216
+
+Número de Registro Médico: jBCO-35489
+
+Número de Dispositivo: QT VFZntEW
+
+---
+
+Firma Electrónica:
+
+uárezMatía
+
+---
+
+Esta nota es generada por un agente inteligente para Garcia, Long and Robbins.\n"
+

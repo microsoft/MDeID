@@ -1,0 +1,70 @@
+"Note de Docteur Scratch
+
+Élouan Vasseur - 21 
+
+Diagnostic : Lupus érythémateux systémique (LES)
+
+Complications rénales et cardiaques
+
+Traitements précédents : 
+
+- Stéroïdes, cyclophosphamide, méthotrexate, azathioprine (arrêté le 13/11/2005)
+
+État actuel :
+
+- Syndrome néphrotique en rémission partielle
+
+- Détérioration progressive de la fonction rénale
+
+- Problèmes cardiaques graves (athérosclérose coronarienne, maladie cardiaque ischémique, infarctus du myocarde, cardiomyopathie dilatée post-infarctus, régurgitation sévère des valves mitrale et tricuspide)
+
+- Multiples chirurgies cardiaques
+
+- Dialyse, en attente de transplantation rénale
+
+- Tolérance à l'exercice réduite (1 volée d'escaliers)
+
+Statut d'infection : 
+
+- Positif pour le VHB
+
+- Positif pour le VHC
+
+Résultats de laboratoire récents :
+
+- Créatinine sérique : 2,2 mg/dL
+
+- Protéinurie : 2 g/jour
+
+- Biopsie rénale : Néphrite lupique proliférative focale active et sclérotique
+
+- Interventions cardiaques : PCI RCA, implantation de DAI, chirurgies de réparation de valve
+
+- Niveaux de complément : Normaux (C3\u20130.93 g/l, C4\u20130.4 g/l)
+
+- ANA : Négatif
+
+- BNP : Élevé (619 pg/ml)
+
+Diagnostic :
+
+- LES avancé
+
+- Complications secondaires : MRC stade 5 sous dialyse, cardiomyopathie dilatée post-infarctus, régurgitation sévère des valves mitrale et tricuspide, infection chronique par le VHB et le VHC
+
+Plan :
+
+- Continuer la gestion de la MRC avec la dialyse
+
+- Surveiller l'éligibilité à la transplantation rénale
+
+- Échocardiographie transthoracique pour l'évaluation de la fonction cardiaque
+
+- Surveillance régulière des niveaux de BNP
+
+- Gestion de l'hépatite virale
+
+- Éducation du patient sur les signes d'insuffisance cardiaque et de fonction rénale, maintenir une communication ouverte pour de nouveaux symptômes/préoccupations
+
+Sara Bertrand\n"
+

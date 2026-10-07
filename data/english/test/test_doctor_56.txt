@@ -1,0 +1,45 @@
+"Doctor Scratch Note
+
+Patient: Charles Parker 
+ID: 966771 103 
+Age: 16 
+Doctor: Liam Ouellet 
+Medical Record Number: 270882-081
+
+Presented complaints:
+- Chronic lower limb swelling: Duration - Approx 6 months
+- Shortness of breath: Duration - Approx 6 months
+- Intermittent abnormal vaginal bleeding: Duration - Approx 3 months
+
+Observations:
+- Oxygen saturation: 80% (room air)
+- Heart rate: Elevated (Tachycardia)
+- Blood Pressure: Low (Hypotension)
+- Noted: Decreased heart sounds
+- Left supraclavicular lymphadenopathy present
+- Chest X-ray: Enlarged cardiac silhouette, bilateral pleural effusion
+- Pericardiocentesis: Drained 500 mL bloody secretion
+- Pleural fluid cytology: Poorly differentiated carcinoma
+- Left supraclavicular lymph node biopsy: Metastatic squamous cell carcinoma
+- Cervical biopsy: Squamous cell carcinoma (intraepithelial high-grade lesion)
+- CA-125 level: 335.5 IU/mL
+- Pelvic MRI: No uterine or cervical tumor, confirmed peritoneal carcinomatosis
+
+Assessment:
+- Metastatic squamous cell carcinoma
+- Complications: Pericardial and pleural effusions, hemodynamic instability, respiratory failure
+- Differentials: Other forms of metastatic cancers (ruled out)
+
+Plan:
+- Chemotherapy: Carboplatin, paclitaxel
+- Repeated pericardiocentesis offered (patient refusal)
+- Intrapericardial sclerotherapy considered (not performed - lack of facility experience)
+- Deteriorated condition, led to death on Day 46 post initial presentation
+
+Contact Information:
+Phone: 301.579.2377x192
+Email: lleia@aol.com
+Hospital: St. Gobnait
+Address: Charles Parker, 4 Wildernesses, Chanting, 95 0112, United States
+"
+

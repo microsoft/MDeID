@@ -1,0 +1,27 @@
+"Informe de Atención al Paciente
+
+Despacho: El martes, 5 de agosto de 2003, el equipo de Servicios Médicos de Emergencia (EMS) recibió una llamada al 911 de una persona angustiada en museo. El equipo de despacho envió inmediatamente la unidad cmBr 5926e a la ubicación identificada.
+
+Encuentro con el Paciente: A su llegada a la escena, el equipo  encontró al paciente Francisco Moyano en moderado estado de angustia. Estaban sentados en una silla y se quejaban de experimentar síntomas similares a un resfriado común. Habían estado estornudando y tenían la nariz congestionada. Se sentían agotados y tenían dolores corporales.
+
+Queja Principal: El paciente Francisco Moyano afirma que los síntomas comenzaron el martes, 5 de agosto de 2003, y han empeorado progresivamente. Los síntomas son consistentes con una infección viral de las vías respiratorias superiores, posiblemente un resfriado común.
+
+Historia: Después de realizar una evaluación exhaustiva de la historia médica, se reveló que la última visita del paciente al hospital fue el martes, 5 de agosto de 2003 en el Universal Amphitheatre por un problema similar. El paciente Francisco Moyano indicó que tenían un médico de cabecera Gerardo Olvera en Tanner, Peters and Perry. Los registros médicos del paciente se accedieron desde la base de datos del hospital utilizando su número de registro médico mlwk 37040.
+
+Evaluación: El paciente Francisco Moyano parecía estar en una condición estable sin signos de angustia respiratoria aguda. Se tomaron y documentaron las constantes vitales del paciente para referencia y seguimiento. Se realizó un EKG STAT para descartar cualquier posible problema cardiovascular relacionado con la fatiga y los dolores corporales.
+
+Tratamiento: Se aconsejó al paciente que tomara muchos líquidos y descansara. Se recomendaron medicamentos de venta libre para el alivio sintomático. Según el plan de salud del paciente rNOeF, se programó una cita de seguimiento con su médico de cabecera Gerardo Olvera.
+
+Transporte: El paciente Francisco Moyano no fue trasladado al hospital ya que su condición era estable y no requería atención de emergencia. Se informó a la familia del paciente y se aseguraron las medidas de seguridad del paciente.
+
+Documentación: El equipo de EMS documentó el encuentro en el sistema bajo la cuenta del paciente cmBr 5926e. El paciente firmó digitalmente el formulario de consentimiento de tratamiento utilizando su nombre de usuario único oMoyan y una contraseña segura.
+
+Seguimiento: El equipo de EMS aconsejó al paciente que buscara atención médica inmediata si los síntomas empeoran o si desarrollan fiebre alta. El equipo aseguró que el informe del encuentro fue enviado al correo electrónico registrado del paciente Gerarda@yahoo.com y se envió una copia al médico de cabecera del paciente Gerardo Olvera en Universal Amphitheatre.
+
+Conductores: La unidad de EMS 7UY 380 fue conducida por un EMT certificado. La dirección IP 151.38.3.69 utilizada para el sistema de despacho fue registrada para fines de seguridad de datos y rastreabilidad.
+
+Informe Por: Este informe es preparado por el EMT Gerardo Olvera y firmado en el sistema con el número de licencia profesional FpexH 7530. El informe se almacena en el sistema de EMS para referencia futura y atención continua.
+
+Este informe es completamente anónimo en respeto a la PHI del paciente, número de seguridad social 36.981.626, BioID APne-27pRF, su dirección residencial Francisco Moyano, Paseo de Alondra Gordillo 43 Piso 1 161, Munchers, XEO1U4NV Palmar de Bravo, Argentina, ciudad Palmar de Bravo, estado 19, ZIP XEO1U4NV, país España, el número de fax de su lugar de trabajo 611.905.6623x18495, y su URL chambers.com.
+"
+

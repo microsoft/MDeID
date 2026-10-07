@@ -1,0 +1,81 @@
+Résumé de Sortie
+
+**Patient** : Martin Schneider
+
+**Dossier Médical** : Lz 83674Ao
+
+**Disposition de Sortie** : Retour à domicile avec instructions pour l'auto-soin
+
+---
+
+**Section Allergies et Intolérances**
+Aucune allergie ou intolérance connue enregistrée.
+
+---
+
+**Section Cours de l'Hôpital**
+Martin Schneider a été admis en raison d'une cellulite. Le séjour à l'hôpital s'est déroulé sans incident avec une réponse aux antibiotiques intraveineux.
+
+---
+
+**Section Diagnostic de Sortie**
+Diagnostic final : Cellulite.
+
+---
+
+**Section Plan de Traitement**
+Le patient s'est vu prescrire des antibiotiques oraux pour terminer le traitement à domicile.
+
+---
+
+**Section Consultations à l'Hôpital**
+Martin Schneider a été évalué par l'équipe des Maladies Infectieuses, leurs recommandations ont été intégrées au plan de traitement.
+
+---
+
+**Section Procédures**
+Aucune procédure n'a été effectuée pendant cette admission.
+
+---
+
+**Section Résultats**
+L'érythème, la douleur et le gonflement ont considérablement diminué et il n'y a pas eu de fièvre pendant l'hospitalisation.
+
+---
+
+**Section Médicaments de Sortie**
+Des antibiotiques oraux ont été prescrits pour une période de 10 jours.
+
+---
+
+**Section Instructions de Sortie de l'Hôpital**
+Martin Schneider a reçu l'instruction de continuer les antibiotiques oraux et de surveiller les signes d'infection. Un rendez-vous de suivi avec le médecin traitant Bo De Riddera été programmé.
+
+---
+
+**Section Physique de Sortie de l'Hôpital**
+Au moment de la sortie, les signes vitaux de Martin Schneider étaient stables et l'état de sa peau s'était amélioré.
+
+---
+
+**Section Résumé des Études de Sortie de l'Hôpital**
+Les analyses de sang ont montré un nombre normal de globules blancs au moment de la sortie, indiquant un contrôle de l'infection.
+
+---
+
+**Section Directives Anticipées**
+À son arrivée, Martin Schneider a fourni des informations pour les directives anticipées qui ont été discutées et enregistrées.
+
+---
+
+**Docteur** : Bo De Ridder**Date** : 26 février 1988
+
+**Hôpital** : Middlesex v M.C.C
+
+**Adresse** : Martin Schneider, 19 2776 Beguin Freeway, 0021 Arles, France
+
+**Téléphone** : (920)411-2724
+
+**Email** : oDed@outlook.com
+
+Ce document a été préparé avec soin et attention, en veillant à la protection des informations personnelles de santé. N'hésitez pas à nous contacter si vous avez des questions.

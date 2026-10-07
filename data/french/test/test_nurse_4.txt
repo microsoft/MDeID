@@ -1,0 +1,35 @@
+"Note Narrative de l'Infirmière
+
+S: Le patient Wyatt Bergeron, avec un historique médical de sarcome diagnostiqué le 14 sept. 1989, présente un parcours de traitement complexe impliquant des interventions chirurgicales, de la chimiothérapie et de la radiothérapie. L'évolution de la maladie du patient a été marquée par une progression locale et à distance, nécessitant l'administration récente de chimiothérapie à haute dose et d'ablation par micro-ondes pour des métastases pulmonaires. Le patient a refusé l'option de l'amputation de la jambe et a opté pour une ablation percutanée au laser (APL) sous guidage échographique pour de nouvelles rechutes locales sur le mollet et le muscle soléaire.
+
+O: Le traitement initial du patient a impliqué l'énucléation d'une lésion de la cuisse, suivie d'une chimiothérapie (Ifosfamide et Epirubicine couverts par A7l), de la radiothérapie préopératoire et d'une chirurgie radicale. Malgré une stabilité initiale, des rechutes locales sont survenues, nécessitant des chirurgies conservatrices de membre et un pontage fémoro-poplité. La progression à distance a impliqué des métastases pulmonaires, traitées par chimiothérapie à haute dose et ablation par micro-ondes. Une IRM récente et une échographie, réalisées à l'Saint-Herbland, ont confirmé de nouvelles rechutes locales au niveau du mollet et du muscle soléaire.
+
+A: Le diagnostic principal est un sarcome récurrent avec des métastases locales et à distance. Compte tenu de l'historique du patient de multiples récidives et traitements, le pronostic est compliqué. Les diagnostics différentiels pourraient inclure d'autres formes de sarcome des tissus mous ou une maladie métastatique provenant d'un autre cancer primaire, bien que l'historique clinique soutienne un sarcome récurrent.
+
+P: Le plan de soins implique une surveillance étroite de l'efficacité du traitement APL et l'évaluation des complications potentielles. Des suivis réguliers avec l'équipe d'oncologie sont cruciaux pour évaluer la progression de la maladie et la réponse au traitement. La gestion de la douleur et le soutien psychologique seront discutés si nécessaire. Le patient sera informé des signes de progression de la maladie ou des complications liées aux traitements actuels. L'adhésion aux suivis programmés sera soulignée, ainsi que l'importance d'une communication ouverte avec l'équipe de soins de santé.
+
+Informations de Contact:
+Téléphone: 3367001151
+Email: Linabvre@unwomen.org
+Contact d'Urgence: Wyatt Bergeron, 3367001151
+
+Informations Supplémentaires:
+Compte du Patient: rG qmYUMCB
+Dossier Médical du Patient: 656 814eOR
+Appareil du Patient: cLm 90woqj
+Nom d'Utilisateur du Patient: uvEPRP1J
+Véhicule du Patient: 21Y J91
+Sécurité Sociale du Patient: 3 46 91 78 158 421
+Permis du Patient: UfYsaC-439
+BIOID du Patient: 4205 320ov
+Adresse IP du Patient: 215.143.51.12
+Numéro d'ID du Patient: rG qmYUMCB
+Localisation du Patient: hôpital
+Plan de Santé du Patient: A7l
+Profession du Patient: Hydrologue
+Organisation du Patient: Mcgee and Sons
+Médecin du Patient: Lina Lefebvre
+Fax du Patient: +1-841-968-5531x680
+URL du Patient: http://little.biz/posts/tag/listhome.asp
+"
+

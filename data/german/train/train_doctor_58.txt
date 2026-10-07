@@ -1,0 +1,30 @@
+"Arzt Kratz Notiz
+
+Philip Fuchs: 81 Frau, aus Hofheim am Taunus, häufiges Gebiet für Dengue, Chikungunya und Zika. Hauptbeschwerden: Oberbauchschmerzen, Arthralgie, Myalgie, Hyporexie, Unwohlsein, intermittierendes Fieber, progressive Gelbsucht. Bemerkenswerte frühere medizinische Zustände: chronische Herzinsuffizienz (Stadium C, NYHA III), Rechtsschenkelblock, nicht-valvuläres Vorhofflimmern, Bluthochdruck, chronische Venenerkrankung.
+
+Bei der Untersuchung:
+- Tachykardie, Tachypnoe, mukokutane Gelbsucht.
+- Hals: Venöse Halspulsationen mit abdominojugulärem Reflux. 
+- Cardio: S1 Intensität erhöht, unregelmäßiger Rhythmus, systolisches Murmeln an beiden oberen Brustbeinrändern.
+- Atem: Verminderte Geräusche, beide Lungenbasen.
+- Abdomen: Nicht schmerzhaft tastbare Leber. Ausdehnung: 3 cm unterhalb der Rippenbogengrenze, mittlere Schlüsselbeinlinie.
+- Hämatologisch: Leukopenie, Thrombozytopenie.
+- EKG: Vorhofflimmern, schnelle ventrikuläre Antwort, Rechtsschenkelblock.
+- Röntgen-Thorax: Kardiomegalie, bilaterale Pleuraergüsse.
+- ICU: Hypoglykämie, Verschlechterung der Nierenfunktion, Beatmungsunterstützung und Vasopressorunterstützung erforderlich. Blutproben: Positiv, Dengue-IgM-Antikörper.
+
+Bewertung:
+Primärdiagnose: Schwere Dengue, hepatische Beeinträchtigung. Komplikationen: Chronische Herzinsuffizienz, Vorhofflimmern, akutes auf chronisches Nierenversagen.
+Differenzialdiagnosen: Arbovirale Infektionen (Chikungunya, Zika) aufgrund endemischer Flughafen.
+Prognose: Schlecht. Schnelle Verschlechterung, elektrische Aktivität ohne Puls, Tod.
+
+Plan:
+- ICU-Management: Supportive Behandlung, Antibiotikatherapie (Cephazolin), Beatmungs- und Vasopressorunterstützung.
+- Überwachung: Kontinuierlich, kardiale und renale Funktionen.
+- Ergebnis: Der Zustand des Patienten verschlechterte sich trotz aggressiver Behandlung, verursachte den Tod.
+- Post-Mortem: Familienberatung. Erklärte medizinische Bemühungen, Sensitivität, Spezifität der verwendeten diagnostischen Tests.
+
+Samira Sauer: Dr. Samira Sauer
+Jugendmedizin: ICU
+St Edmundsbury Kathedrale: St Edmundsbury Kathedrale"
+

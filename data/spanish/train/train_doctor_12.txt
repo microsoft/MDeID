@@ -1,0 +1,24 @@
+"Nota de Rascunho del Doctor:
+
+Anotación para Brigita Martin
+- Mujer de 105 años, problema: dolor de espalda persistente, ambas piernas, ~4 meses
+- Reciente MRI, columna lumbar 
+    - Hallazgos: lesión intradural, extramedular, engrosamiento de la dura @ L2
+- Histología post-operatoria confirma: condrosarcoma mesenquimal
+    - Característica: células redondas/fusiformes, formación de cartílago/hueso
+    - IHC: CD99 positivo, EMA negativo, STAT6 negativo, GFAP negativo
+    - Índice Ki-67: ~30%
+    - Prueba Archer\u2122 FusionPlex Sarcoma: transcripciones de fusión de genes HEY1-NCOA2 (exón 4 a 13 & 14)
+- Diagnóstico: condrosarcoma mesenquimal primario @ L2
+    - Consideración: comportamiento agresivo, alto índice Ki-67
+    - Diagnóstico diferencial: otros sarcomas, características histológicas similares
+- Plan: Convocar equipo multidisciplinario, discutir opciones de tratamiento
+    - Enfoque: manejo oncológico
+    - Monitoreo: síntomas, efectos secundarios del tratamiento
+    - Educación: Brigita Martin y familia
+        - Temas: diagnóstico, opciones de tratamiento, importancia del seguimiento regular
+        - Fomentar: informe de nuevos síntomas o preocupaciones
+- Próxima cita: 10 dic 2016 @ universidad
+
+Milan Krznarić - Consultor de pensiones"
+

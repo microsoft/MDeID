@@ -1,0 +1,45 @@
+"Nota Narrativa da Enfermeira para Paulo Teixeira
+
+S: Nosso paciente, diagnosticado com B-ALL em sábado, 1 de setembro de 1990, apresentou uma contagem alta de leucócitos (>100 x 10^9/L) e um cariótipo normal. Após alcançar uma segunda remissão completa, o paciente passou por um haplo-HSCT de seu Parceiro, seguido de complicações incluindo cistite hemorrágica e GVHD gastrointestinal agudo de estágio 1, que se resolveu com tratamento com metilprednisolona. O paciente experimentou uma terceira recaída da medula óssea com rápida progressão da doença marcada por aumento de blasts na medula, apesar da quimioterapia de resgate (regime MOEP) e tratamentos subsequentes incluindo protocolo de células haplo-CAR-T 19.
+
+O: O diagnóstico inicial mostrou WBC >100 x 10^9/L. Complicações pós-haplo-HSCT incluíram cistite hemorrágica e GVHD agudo, tratados com metilprednisolona. Foi notada uma recaída da doença com 6,4% de blasts na medula, aumentando para 56,5% e depois 65,4% apesar da quimioterapia. Tratamentos recentes reduziram os blasts da medula para 12,7% antes da infusão de células haplo-CAR-T 19, que alcançou remissão completa MRD-negativa e quimerismo total do doador.
+
+A: O diagnóstico primário é B-ALL com um histórico de múltiplas recaídas e complicações pós-haplo-HSCT. O paciente passou por um tratamento extenso incluindo quimioterapia, terapia com esteroides e terapia inovadora com células CAR-T, que atualmente resultou em remissão completa MRD-negativa.
+
+P: Continue o monitoramento próximo da condição do paciente com consultas de acompanhamento regulares para avaliar a durabilidade da remissão e gerenciar quaisquer complicações emergentes. Mantenha uma comunicação aberta com o paciente para tratar prontamente novos sintomas ou preocupações. Incentive a adesão aos compromissos e planos de tratamento programados para apoiar a saúde sustentada e a remissão.
+
+Informações de Contato do Paciente:
+- Telefone: (390)966-7020
+- Email: nisVieir@unicef.org
+- Endereço: Paulo Teixeira, Rua Moura, 261 121, 1688 Divino Espírito Santo, Portugal
+
+Identificadores do Paciente:
+- Número do Registro Médico: DmntX-ktjk
+- Número da Conta: 93 TXfzXzX
+- Identificador do Dispositivo: rl-pRLikrD
+- Nome de Usuário: ixeilo
+- Número do Seguro Social: 181.954.501-13
+- Identificador da Licença: 479 32114S
+- Identificador Biométrico: 71-xwjBgUY
+- Endereço IP: 161.155.225.217
+- Identificador Pessoal: 93 TXfzXzX
+- Identificador do Veículo: 481BQV
+
+Outras Informações Relevantes:
+- Idade: 97
+- Cidade: ALCOCHETE
+- País: Portugal
+- Estado: 50
+- Rua: 509 Mary Avenue Suite 951
+- Código Postal: 1688
+- Fax: 7168095548
+- Hospital: Thomas Jefferson Hospital
+- Organização: Powers-Morgan
+- Plano de Saúde: Zf4tPlH
+- Médico: Dinis Vieira
+- URL: http://smith-pugh.com/categoryhome.html
+
+Por favor, note que o nome completo do paciente é mascarado como Paulo Teixeira por razões de privacidade. 
+
+Enfermeira Dinis Vieira"
+

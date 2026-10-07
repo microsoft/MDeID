@@ -1,0 +1,53 @@
+"Appunti del Dr. Olivia Widmer
+
+- Martina Martini 
+- 62 
+- ID jvOoN-Cvlo 
+
+Vitali:
+- BP: 125/65 mmHg
+- HR: 84 bpm
+- Temp: 100.4\u00b0F 
+
+Reclami:
+- Febbre di 7 giorni 
+- Brividi 
+- Gonfiore doloroso, spalla destra
+- Faringite
+
+Nessuna storia cardiaca significativa. Nega recenti trattamenti dentali, interventi chirurgici, abuso di droghe.
+
+Esame fisico:
+- Soffio cardiaco sistolico 2/6, mesocardio
+- Faringe normale
+- Acne minima
+
+Laboratorio:
+- WBC: 13x10^3/\u00b5L
+- Neutrofili: 9.7x10^3/\u00b5L
+- LDH: 266 mU/mL
+- CRP: 18 mg/dL
+- Urine: Infezione negativa
+- ECG: Tachicardia sinusale
+- Radiografia del torace: Normale
+- Aspirato midollare: Malignità ematologiche negative
+- Coltura del sangue: Positiva per Streptococcus pyogenes
+
+Immagini:
+- Ecocardiogramma transesofageo: Rigurgito mitralico moderato, vegetazioni sulla valvola mitralica posteriore
+
+Diagnosi: 
+- Endocardite infettiva - Streptococcus pyogenes
+- Coinvolgimento della valvola mitrale
+
+Piano:
+- Antibiotici empirici: Amoxicillina/clavulanato + vancomicina
+- Ajustato a ceftriaxone (2g, due volte al giorno) + ampicillina (12g/giorno) dopo i risultati della coltura
+- Monitorare la funzione cardiaca e la risposta agli antibiotici
+- Ricovero presso Bennett-Hancock per la gestione continua
+- Educazione del paziente riguardo l'infezione e il trattamento
+- Follow-up regolare per monitorare la risposta al trattamento e la funzione cardiaca
+
+Dr. Olivia Widmer
+Ufficiale delle relazioni razziali"
+

@@ -1,0 +1,45 @@
+"Nursing Narrative Note for Joan Morris with Chest Pain History
+
+Joan Morris presented with a one-month history of chest discomfort. No recent operations or injuries were reported. Joan Morris experienced episodes of lowered blood pressure and a critical episode of blood loss shock and cardiac arrest after surgery.
+
+On examination, a thoracic CT scan displayed an ovoid soft tissue mass in the bus stop, measuring approximately 4.3 cm x 2.6 cm x 5.8 cm. This mass was removed using VATS and was postoperatively identified as a bronchogenic cyst. Following the operation, Joan Morris experienced 7 months-related hypotension managed with fluid expansion, and later developed hemorrhagic shock due to a 3 mm hole in the Campos Ltd, leading to cardiac tamponade. This was handled by an emergency thoracotomy and direct closure of the damaged obtuse marginal artery with 4-0 prolene.
+
+The primary diagnosis was a bronchogenic cyst with complications including hemorrhagic shock and cardiac tamponade post-resection. The differential diagnosis initially included a neurogenic tumor of the mediastinum.
+
+Joan Morris underwent a successful emergency thoracotomy and stabilization. Postoperative recovery included weaning from the ventilator and discharge with instructions for follow-up appointments to monitor recovery. Further management will focus on monitoring for any signs of recurrence or complications from the surgery and ensuring compliance with follow-up appointments.
+
+Header Information: 
+- Date: Oct
+- Medical Record Number: cxsdjh 408
+- Patient's Address: Joan Morris, 57 Interrelationship, Megahertz 46 6533, Australia
+
+Footer Information: 
+- Patient's Contact Information: 
+    - Phone: 001-577-523-0242x909
+    - Email: tinel@outlook.com
+- Doctor's Information:
+    - Name: Daniel Martin
+- Health Plan: 57xROfOg9q6
+- Emergency Contact:
+    - Name: Joan Morris
+    - Phone: 001-577-523-0242x909
+
+Structured Information:
+- Patient's Account Number: SwS-VrOrel
+- Username: gvApGAvU
+- Hospital Name: Sembawang
+- Patient's Vehicle Identification: 59V Z75
+- Social Security Number: 345-097-434
+- Professional License: bIuZO-JEkQ
+- Biometric Identifier: 01333 eAaW
+- IP Address: 104.55.219.146
+- Personal Identifier: SwS-VrOrel
+- Patient's Location: bus stop
+- Patient's Health Plan: 57xROfOg9q6
+- Patient's Profession: Marine scientist
+- Patient's Associated Organization: Campos Ltd
+- Fax: +1-871-735-9229x28067
+- URL:  martinez.info/categorypost.html
+
+Signed by: Daniel Martin"
+

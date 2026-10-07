@@ -1,0 +1,53 @@
+**Résumé de Sortie**
+
+**Patient:** Clotilde Duval
+
+**Hôpital:** Koninklijk Atheneum
+
+**Disposition de Sortie:** Retour à domicile avec suivi en consultation externe
+
+# Sections Requises
+
+## Section Allergies Et Intolérances :
+Aucune allergie ou intolérance connue.
+
+## Section Cours de l'Hôpital :
+Clotilde Duval a été admise avec une plainte principale d'abdomen distendu et d'inconfort associé. Pendant le séjour à l'hôpital, Clotilde Duval s'est plainte de se sentir suicidaire, ce qui a été traité de manière appropriée par notre équipe de santé mentale.
+
+## Section Diagnostic de Sortie :
+Le diagnostic de sortie est l'Hépatite C.
+
+## Section Plan de Traitement :
+Clotilde Duval a reçu une série de médicaments antiviraux pour le traitement de l'Hépatite C. Un suivi en consultation externe de santé mentale a également été programmé pour surveiller et gérer les préoccupations de santé mentale du patient.
+
+## Section Consultations à l'Hôpital :
+Le patient a été vu par une équipe multidisciplinaire comprenant des experts en hépatologie, des professionnels de la santé mentale et des nutritionnistes pour élaborer un plan de soins complet.
+
+## Section Procédures :
+Aucune intervention procédurale n'a été nécessaire pendant cette hospitalisation.
+
+## Section Résultats :
+Les résultats de laboratoire ont indiqué une charge virale significative cohérente avec l'Hépatite C.
+
+# Sections Recommandées
+
+## Section Médicaments de Sortie :
+Des médicaments antiviraux ont été prescrits. Clotilde Duval a été informée des effets secondaires des médicaments et de l'importance de leur prise régulière.
+
+# Sections Supplémentaires
+
+## Section Plainte Principale :
+Abdomen distendu et inconfort associé, ainsi que des sentiments suicidaires.
+
+## Section Nutrition :
+Un régime pauvre en sodium et riche en protéines a été recommandé pour gérer l'ascite et soutenir la fonction hépatique.
+
+## Suivi de Santé Mentale :
+Un suivi de santé mentale a été programmé après la sortie en raison des sentiments suicidaires exprimés par le patient. Le professionnel de la santé mentale Ward Adam sera en charge de ce soutien continu.
+
+**Note à Clotilde Duval:**
+Veuillez suivre attentivement le plan de sortie et respecter le calendrier des médicaments. N'hésitez pas à contacter votre fournisseur de soins de santé si vous ressentez une aggravation des symptômes ou des effets secondaires des médicaments.
+
+Document Préparé Par: Ward Adam
+
+**FIN DU DOCUMENT**

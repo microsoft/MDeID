@@ -1,0 +1,37 @@
+"Note narrative d'infirmière pour un patient suspecté de purpura thrombotique thrombocytopénique (PTT)
+
+Anaël Renard, connu pour être porteur du trait drépanocytaire, a signalé des symptômes compatibles avec de la fatigue, des arthralgies et des myalgies persistant sur une semaine. Aucune preuve de perte de poids, de fièvre, de saignement, d'ecchymose, de dyspnée ou de symptômes urinaires n'a été notée. Le patient nie toute consommation de tabac, de drogues et toute exposition à des voyages significatifs ou à des facteurs de risque pour le VIH. L'histoire familiale et médicale de Anaël Renard ne fournit aucune autre information pertinente au-delà du trait drépanocytaire.
+
+L'évaluation initiale effectuée dans un café non divulgué a indiqué la présence d'une anémie (hémoglobine : 11 g/dL), d'une thrombocytopénie (nombre de plaquettes : 46 000 par microlitre) et d'une insuffisance rénale aiguë (créatinine : 1,33 mg/dL). D'autres résultats de laboratoire comprenaient une lactate déshydrogénase élevée (968 IU/L), une haptoglobine diminuée (15 mg/dL) et la présence de schistocytes sur le frottis sanguin périphérique. Le nombre de globules blancs était de 4,1 par microlitre, le potassium de 4,1 mmol/L, le phosphate de 6,6 mg/dL, le calcium de 9,8 mg/dL et la bilirubine élevée à 2 mg/dL. Le patient a ensuite commencé un traitement à la prednisone à 1 mg/kg et à l'échange plasmatique quotidien. Cependant, ces interventions n'ont pas conduit à une amélioration, ce qui a conduit à une référence à un hôpital de soins tertiaires.
+
+Le diagnostic présumé est le purpura thrombotique thrombocytopénique (PTT) sur la base de la présentation clinique du patient et des résultats de laboratoire. Nous attendons actuellement les résultats du test ADAMTS13. Le diagnostic différentiel comprend d'autres causes d'anémie hémolytique microangiopathique et des complications liées au trait drépanocytaire.
+
+Le patient continuera le régime de traitement actuel de prednisone et d'échange plasmatique dans l'établissement de soins tertiaires. Nous surveillerons la réponse du patient au traitement et ajusterons si nécessaire en fonction des résultats de l'ADAMTS13 et de l'évolution clinique. Une éducation a été fournie au patient et à sa famille sur le PTT, ses implications et l'importance de la conformité avec le régime de traitement.
+
+Des rendez-vous de suivi réguliers ont été programmés, qui comprendront une surveillance en laboratoire, pour évaluer l'efficacité du traitement et gérer toute complication émergente.
+
+Pied de page :
+Coordonnées : 663.329.7749, aouchar@msf.org
+Contact d'urgence : 663.329.7749
+Numéro de dossier médical : 00064 ZmlY
+Numéro de compte : 61328 2477
+Numéro de série de l'appareil : 7863-76925
+Nom d'utilisateur : OsQTg2HN
+Numéro d'immatriculation du véhicule : OSF 9795
+Numéro de sécurité sociale : 532408-6245
+Numéro de licence professionnelle : FnLT FIDHN
+Identifiant biométrique Hash : 083-88DpqQ
+Adresse IP : 85.105.69.99
+Identifiant personnel : 61328 2477
+Adresse : Anaël Renard, 096 Christopher Alley Suite 268 20, 3325 Verrières-Le-Buisson, Belgique
+Hôpital : Rankin
+Lieu : café
+Plan de santé : rSB
+Profession : Thérapeute, drame
+Organisation : Quinn, Bradley and Johnson
+Date : 18 mai 2024
+Docteur : Samuel Bouchard
+Email : aouchar@msf.org
+URL : https://www.taylor.com/app/explore/appabout.html
+Fax : 492-525-5345x142"
+

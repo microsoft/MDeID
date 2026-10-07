@@ -1,0 +1,45 @@
+"**Nota Narrativa de la Enfermera:**
+
+Subjetivo: El paciente Félix Medrano que fue diagnosticado con Glaucoma de Ángulo Abierto Primario 214-370627 hace una década, informa molestias persistentes en el ojo derecho. El paciente describe la molestia como una sensación de ardor, picazón y sensación de sequedad. A pesar de usar varios sustitutos de lágrimas para alivio, la molestia ha sido particularmente severa durante los últimos seis meses. El paciente Félix Medrano ha cumplido con los tratamientos prescritos, incluyendo un sustituto de lágrimas a base de ácido hialurónico administrado cuatro veces al día.
+
+Objetivo: Al evaluar, los síntomas del paciente se cuantificaron con un Índice de Enfermedad de la Superficie Ocular (OSDI) de 74/100 y una Escala Analógica Visual (VAS) para el dolor de 85 mm/100 en el ojo derecho, indicando una molestia severa. El ojo izquierdo presentó síntomas más leves con un OSDI de 22/100 y un VAS de 21 mm/100. El examen con lámpara de hendidura no mostró daño epitelial ni signos de inflamación, pero reveló un Tiempo de Ruptura de la Película Lagrimal (TFBUT) reducido de 4 segundos en el ojo derecho y 8 segundos en el ojo izquierdo. El paciente ha estado sometido a terapia no convencional con gotas para los ojos a base de solución de cannabinoides (CBS) desde el 10/4/88, con una dosis de 0.4 ml diarios en el ojo derecho.
+
+Evaluación: El diagnóstico principal es POAG con enfermedad severa de la superficie ocular (OSD) que afecta predominantemente el ojo derecho. El diagnóstico diferencial podría incluir otras causas de irritación de la superficie ocular, pero la falta de daño epitelial o inflamación hace que estas sean menos probables. La respuesta del paciente a la terapia con CBS sugiere un resultado positivo para el manejo de los síntomas en casos refractarios de OSD.
+
+Plan: Continuar monitoreando la condición del paciente con seguimientos regulares para evaluar la eficacia y seguridad a largo plazo de la terapia con CBS. Mantener el régimen actual del sustituto de lágrimas a base de ácido hialurónico cuatro veces al día en ambos ojos. Animar al paciente a informar cualquier cambio en los síntomas o efectos secundarios. Considerar ajustes adicionales a la terapia basados en la progresión o regresión de los síntomas. Asegurar la educación del paciente sobre la importancia de la adherencia al tratamiento y las visitas de seguimiento programadas.
+
+Enfermera: Rodrigo de León
+
+**Información de Contacto**
+Teléfono: 409.878.8705
+Correo electrónico: odrigeóne@who.int
+Dirección: Félix Medrano, Circunvalación Guerrero 326 Interior 916 154, Unproded, 58478 Benito Juarez, 93, Colombia
+Nombre de usuario: élixed
+Cuenta: pY-HZVgUkX
+Historial Médico: 214-370627
+
+**Información del Dispositivo**
+Dispositivo: 957798-639
+
+**Información Extra**
+Organización: Mcclain LLC
+Profesión: Piloto, aerolínea
+Vehículo: JBE8006
+Seguridad Social: 40999034R
+Licencia: wKrkW-BDMQ
+BioId: 45 52663ns
+Dirección IP: 223.154.154.162
+IDNum: pY-HZVgUkX
+Ciudad: Benito Juarez
+País: Argentina
+Estado: 93
+Calle: 7711 Anthony Divide Suite 919
+URL:  adams.net/list/mainindex.php
+Plan de Salud: 923MWq0 LiGMX
+Hospital: G. B. Pant Hospital
+Otra Ubicación: hospital
+Código Postal: 58478
+Fax: 411-979-6813 
+
+Esta documentación se generó el 10/4/88 y es válida hasta el 10/4/88. Cualquier cambio o actualización se realizará en las versiones subsiguientes de este documento. Toda la información personal de salud (PHI) ha sido reemplazada por marcadores de posición para garantizar la privacidad y confidencialidad."
+

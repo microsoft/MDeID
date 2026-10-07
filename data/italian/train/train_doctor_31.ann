@@ -1,0 +1,12 @@
+T1	PATIENT 41 53	Alina Schmid
+T2	PATIENT 346 358	Alina Schmid
+T3	PATIENT 724 736	Alina Schmid
+T4	DOCTOR 878 892	Federica Adami
+T5	PATIENT 981 993	Alina Schmid
+T6	DOCTOR 1009 1023	Federica Adami
+T7	MEDICALRECORD 1043 1053	nfkQZ-6608
+T8	DOCTOR 1068 1082	Federica Adami
+T9	HOSPITAL 1094 1111	Gjörckes simskola
+T10	PHONE 1123 1135	228-510-5131
+T11	URL 1165 1211	https://mccarty-ellison.net/categorieshome.asp
+T12	EMAIL 1220 1236	caam@unwomen.org

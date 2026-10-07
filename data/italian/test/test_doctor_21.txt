@@ -1,0 +1,57 @@
+"Appunti del Dottore:
+
+Paziente Michele Negri
+ID 6429 26UUf
+ETA' 20
+Residenza: università
+
+Dettagli del Ricovero: 
+- Grave distress respiratorio
+- Stato mentale - alterato, disorientato
+
+Storia Medica Significativa: 
+- Aneurisma intracranico (emorragia post-chirurgica)
+- Ictus ischemico (afasia, paraplegia)
+- Posizionamento del tubo PEG
+
+All'Ammissione: 
+- Intubazione per supporto respiratorio
+- Vitali: AibVKf wqU
+- Risultati del Laboratorio Clinico: AibVKf wqU
+
+Diagnosi: Shock settico (potenziale)
+- Avviato workup per sepsi
+- Coltivazioni: Sangue, Urina
+- Trattamento iniziale: Idratazione endovenosa, Antibiotici ( e )
+
+Rapporto della TAC: 
+- TAC senza contrasto - torace, addome, pelvi
+- Risultati: Atelettasia polmonare bibasale, malposizionamento del catetere dello shunt VP (all'interno del lume gastrico), malposizionamento del tubo PEG (fuori dal lume gastrico), cellulite della parete addominale, ascessi localizzati (sito di inserimento del tubo PEG)
+
+Rapporto di Coltura: 
+- Analisi e colture del CSF - negative
+- Coltura della ferita - Proteus mirabilis (sensibile ai carbapenemi, piperacillina/tazobactam)
+
+Diagnosi Primaria: 
+- Shock settico, secondario a cellulite della parete addominale e ascessi localizzati
+- Complicazioni: Malposizionamento dello shunt VP e del tubo PEG
+
+Diagnosi Differenziale: 
+- Infezione dello shunt VP
+- Meningite/Encefalite
+(Escluse dall'analisi e dai risultati delle colture del CSF)
+
+Piano di Gestione: 
+- Continuare gli antibiotici IV (basati su test di sensibilità)
+- Monitorare lo stato clinico del paziente
+- Cura di supporto per la stabilizzazione respiratoria, circolatoria
+- Consultazione chirurgica per la correzione dello shunt VP e del tubo PEG
+
+Educazione & Follow-up: 
+- Educazione del paziente sul piano di trattamento
+- Osservare i segni/complicazioni dell'infezione
+- Follow-up regolari e rivalutazione dell'efficacia del trattamento
+
+Marcel Meyer
+Clinica Sudafricana"
+

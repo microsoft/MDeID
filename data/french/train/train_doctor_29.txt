@@ -1,0 +1,47 @@
+"Notes du Dr. Leonie Schneider
+--------------------------
+PATIENT: Sophie Widmer
+ID: 282808-66a
+
+AGE: 64
+
+PLAINTES PRÉSENTÉES:
+- Trouble de la démarche
+- Microcéphalie
+- Épisodes de déconnexion
+- Convulsions fébriles
+- Troubles du sommeil
+- Retards de développement (compétences motrices)
+- Comportement semblable à celui de l'ADHD
+
+INTERVENTIONS PRÉCÉDENTES:
+- Intervention psycho-pédagogique
+- Traitement au méthylphénidate
+
+OBSERVATIONS:
+Microcéphalie confirmée
+
+INVESTIGATIONS:
+- EEG: Normal
+- IRM: Structure encéphalique normale
+- Génétique: Suppression de 182 bases dans le marqueur C7 (bases 2475-2657). Pas d'altérations dans les gènes LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8, PAX2
+
+ÉVALUATION:
+- Microcéphalie avec problèmes de développement et de comportement associés
+- Possibles troubles génétiques ou métaboliques
+- Pronostic: Prudent
+
+ACTIONS PRÉVUES:
+- Continuer les interventions psycho-pédagogiques
+- Maintenir le traitement au méthylphénidate
+- Suivi EEG (problèmes de sommeil)
+- Évaluations régulières du développement
+- Éducation parentale sur la surveillance et l'adhésion au traitement
+- Prochain rendez-vous: 24 mai 2016
+
+Signé,
+Dr. Leonie Schneider
+Morris LLC
+4678489076
+er@unhcr.org"
+

@@ -1,0 +1,32 @@
+"S: Patientin Vanessa Berger berichtet über Migräne, die nach einem Verkehrsunfall 875-SJA mit einer Schädel-Hirn-Verletzung und einer Tracheostomie begann. Die Patientin hat eine 33-jährige Geschichte von rheumatoider Arthritis 33, die mit Methotrexat (2,5 mg dreimal täglich) und Topiramat (200 mg zweimal täglich) für Migräne behandelt wird.
+
+O: Die klinische Untersuchung durch Anni Schumacher ergab eine nicht tastbare und schmerzlose Schilddrüse. Laboruntersuchungen im Duncans Mills zeigten einen positiven Rheumafaktor, mit normalen Antithyroglobulin- und Thyreoperoxidase-Antikörpern (16 U/ml bzw. 16,7 U/ml). Eine ultraschallgesteuerte Nadelaspirationsbiopsie der Schilddrüse zeigte Knoten im unteren Pol des linken Schilddrüsenlappens, die auf eine Malignität hindeuten. Schilddrüsenfunktionstests zeigten einen euthyreoten Status mit TSH bei 0,89 μIU/ml, T3 bei 1,30 ng/ml und T4 bei 7,2 μg/dl. Die postthyreotomische Untersuchung zeigte nekrotisierende Läsionen, die rheumatoiden Knoten entsprechen.
+
+A: Primäre Diagnose von Hypothyreose sekundär zur rheumatoiden Beteiligung der Schilddrüse, mit einer Differentialdiagnose von Schilddrüsenkrebs, die von Anni Schumacher vorgeschlagen, aber nicht bestätigt wurde. Das Vorhandensein von rheumatoiden Knoten in der Schilddrüse kompliziert das klinische Bild.
+
+P: Beginnen Sie mit der Thyroxin-Behandlung, um die Hypothyreose zu behandeln und den euthyreoten Status aufrechtzuerhalten. Überwachen Sie die Schilddrüsenfunktion regelmäßig. Führen Sie eine totale Thyreoidektomie durch, um eine mögliche Malignität weiter zu bewerten und zu behandeln. Nach der Operation, weiterhin engmaschige Überwachung und Behandlung der rheumatoiden Arthritis, Anpassung der Medikamente nach Bedarf, um die systemische Entzündung zu kontrollieren und weitere autoimmune Komplikationen zu verhindern. Die Huerta, Massey und Stuart wird die Patientin über die Wichtigkeit der Medikamentenadhärenz und regelmäßige Nachsorge für Schilddrüsenfunktionstests und rheumatologische Beurteilung aufklären.
+
+Zusätzliche Informationen: 
+Kontonummer des Patienten: xpEpzc 874
+Adresse des Patienten: Vanessa Berger, Zieglerstrasse 401 7, 3541 Werther, Belgien
+E-Mail des Patienten: hAnni@yahoo.com
+Telefonnummer des Patienten: +1-956-271-1051x39350
+Sozialversicherungsnummer des Patienten: 324-4461808-26
+ID-Nummer des Patienten: xpEpzc 874
+Benutzername des Patienten: DEnVa2Vo
+Medizinische Aktennummer des Patienten: SiYcC 5710
+Beruf des Patienten: Inspektor für historische Gebäude/Konservierungsbeauftragter
+Gesundheitsplan des Patienten: 272Z fKF iK31FH
+IP-Adresse des Patienten: 210.241.153.40
+Lizenznummer des Patienten: kFcin vSvf
+Biometrischer Identifikator des Patienten: Iu-477357I
+Geräteidentifikator des Patienten: 784042-gVR
+Standort des Patienten: Flughafen
+Stadt des Patienten: Wilkau-Haßlau
+Bundesland des Patienten: Wittenau
+Land des Patienten: Österreich
+Straße des Patienten: 31924 Rodney Knolls Suite 366
+Postleitzahl des Patienten: 3541
+Faxnummer des Patienten: 9842658860
+URL des Patienten: cox.biz"
+

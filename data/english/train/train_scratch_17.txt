@@ -1,0 +1,59 @@
+"Nursing Scratch Note
+
+====================================================================================
+| Troy Watson's Brief Overview |
+------------------------------------------------------------------------------------
+| UTI Diagnosis |
+| 4 |
+| male |
+| Treatment Plan: #1234DS |
+====================================================================================
+
+- 09:45, ii/05: Troy Watson presented with complaints of abdominal pain, fever...
+
+- 10:30: Troy Watson's vitals: 78 bpm, BP: 130/80. Temp: 39.2C 
+
+- 10:45: Urine test requested for Troy Watson. 
+         Urine Sample: 231-14JTyR
+
+- 11:15: UTI suspected. Troy Watson started on antibiotics course #789DF
+
+- 12:00: Troy Watson displaying slight discomfort, temperature stable at 38.4C.
+
+- 15:00: Troy Watson shows signs of improvement, abdominal pain receding
+
+- 16:00: Troy Watson to continue prescribed antibiotics #789DF for the next five days.
+
+====================================================================================
+|  Important Contact Details |
+------------------------------------------------------------------------------------
+| Doctor in charge: Liam Walker |
+| Nurse: Chiropodist |
+| Hospital: London Central Collegiate Institute |
+| Emergency Contact: 744.979.4356x051 |
+| Email: ie@red-cross.org |
+====================================================================================
+
+====================================================================================
+| Miscellaneous Information |
+------------------------------------------------------------------------------------
+| Health Plan: Ajeg7L |
+| Patient's Location: library |
+| Medical Record Number: 404252 290 |
+| Account Number: 456720-xgV |
+| Patient's Username: royats |
+| IP Address: 117.170.72.182 |
+| Device: OwKhIj-90f|
+| Vehicle : TUT-0456 |
+| ID number :456720-xgV |
+| Social Security : 371-012-936 |
+| License : MJaZR-0940|
+====================================================================================
+
+**Note: Please refer to patient Troy Watson by their username royats in all communications**
+
+Note Prepared by: royats (Nurse)
+Date: 5-18-2013
+
+**Disclaimer: This note is for medical staff only, strictly no sharing with unauthorized personnel**"
+

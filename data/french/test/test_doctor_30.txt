@@ -1,0 +1,35 @@
+"Patient Gabriel Marechal - garçon de 18 ans. 
+
+S: 
+- Présenté à African Methodist Episcopal avec une détresse respiratoire, sans fièvre
+- Antécédents d'un mois de toux et de sifflements - non réactifs aux antibiotiques et aux stéroïdes 
+- Diagnostic d'asthme suspecté
+- Pas d'antécédents : étouffement, dysphagie, bave, atopie, problèmes périnataux 
+
+O: 
+- Conscient, apyrétique - Temp : 37.5\u00b0C
+- Fréquence cardiaque : 130 bpm, Fréquence respiratoire : 40 bpm, Saturation en O2 : 93%
+- Récession sus-sternale, ronflement dispersé, sifflement diffus
+- Pas de signes : déshydratation, malnutrition, cyanose
+- Examen cardiovasculaire : normal
+- Tests de laboratoire : numération globulaire complète normale, CRP : 14 mg/l
+- Radiographie : corps étranger (médiastin supérieur)
+
+A: 
+- Diagnostic principal : Détresse respiratoire due à un corps étranger (bouton de vêtement) dans l'œsophage thoracique supérieur
+- Mauvais diagnostic : Asthme
+- Diagnostic différentiel : Asthme, autres causes de détresse respiratoire pédiatrique
+- Pronostic : Bon, après l'élimination du corps étranger
+
+P: 
+- Élimination du corps étranger par hypopharyngoscopie sous sédation
+- Gestion post-opératoire : Fluides IV, corticostéroïdes (réduire l'inflammation péri-œsophagienne)
+- Sortie : 24 heures après la procédure
+- Régime : Liquides clairs
+- Pas de complications ou de récidive des symptômes
+- Suivi : Surveillance des dommages à l'œsophage, problèmes respiratoires
+- Éducation du soignant : Prévenir l'aspiration de corps étrangers
+
+Matthias Fontaine
+Planificateur média"
+

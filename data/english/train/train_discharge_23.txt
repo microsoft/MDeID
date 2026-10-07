@@ -1,0 +1,64 @@
+# Discharge Summary
+
+## Chief Complaint Section
+
+On admission, Sam Burns presented with symptoms of vomiting, orthopnea, hyperkalemia, and oliguria, indicative of chronic kidney failure.
+
+## Hospital Course Section
+
+Sam Burns was admitted under the care of Samantha Kitchener and was duly investigated and treated. Throughout the hospital course, the clinical management focused on controlling the symptoms and slowing the progression of the chronic kidney failure.
+
+## Discharge Diagnosis Section
+
+Sam Burns is discharged with a final diagnosis of chronic kidney failure. 
+
+## Plan of Treatment Section
+
+Sam Burns was given comprehensive education on disease management, dietary modifications, and medication adherence. A referral to a nephrologist for regular follow-ups has been arranged.
+
+## Hospital Consultations Section
+
+During the hospital stay, a consultation was requested with the Department of Nephrology, to provide their expert opinion on managing Sam Burns's condition. 
+
+## Procedures Section
+
+A kidney biopsy was done to determine the extent of kidney damage. Results have been shared with the Sam Burns and family.
+
+## Results Section
+
+The biopsy results confirmed chronic kidney failure. Sam Burns's potassium levels were elevated (hyperkalemia), and urine output was diminished (oliguria). 
+
+## Discharge Medications Section
+
+Sam Burns has been prescribed medications to manage hyperkalemia and other symptoms related to kidney failure. 
+
+## Hospital Discharge Instructions Section
+
+Sam Burns is advised to adhere strictly to the prescribed medication regimen, dietary modifications, and follow-up schedule. 
+
+## Hospital Discharge Physical Section
+
+At the time of discharge, Sam Burns was stable with controlled symptoms.
+
+## Hospital Discharge Studies Summary Section
+
+Follow-up studies including regular blood tests and renal function tests have been planned to monitor Sam Burns's condition post-discharge. 
+
+## Functional Status Section
+
+Sam Burns has been advised on lifestyle modifications and exercises to improve overall functional status.
+
+## Social History Section
+
+Addressed the importance of social support in managing chronic kidney failure, and informed Sam Burns of available support groups. 
+
+## Advance Directives Section
+
+Discussed the importance of advance directives with Sam Burns, considering the chronic nature of the disease. 
+
+## Vital Signs Section
+
+At the time of discharge, Sam Burns's vital signs were within normal range but will require regular monitoring.
+
+Please note, this is a synthetic document. Any similarity to actual persons, living or dead, is purely coincidental. All names and identifiers in this document are fictitious. No actual PHI is included in this document.
+

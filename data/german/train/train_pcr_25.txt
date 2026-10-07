@@ -1,0 +1,20 @@
+"Patientenpflegebericht - Notfallmedizinische Situation
+
+[DISPATCH] Diese Crew reagierte auf einen (292)721-8861x974 Anruf für einen Hugo Coppens, der akute Atemnot erlebte. Der Anrufer, ein Nachbar, berichtete von lauten keuchenden Geräuschen und anhaltendem Husten aus der Wohnung des Patienten. Wir wurden unter einem Notfallcode entsandt, mit Lichtern und Sirenen für eine schnelle Reaktion.
+
+[ON-SCENE ASSESSMENT] Bei unserer Ankunft fanden wir den Patienten in einem mäßigen Zustand der Not, mit Anzeichen von Fieber, anhaltendem Husten und Atemnot. Der Patient war bei Bewusstsein, kämpfte aber sichtlich um Atem. Die Szene deutete darauf hin, dass der Patient alleine in einem Haus wohnt, gelegen an Hugo Coppens, Kensystraße 6/3 57, 3332 Schönenberg an der Thur, Switzerland und es gab Anzeichen für eine chronische Krankheit, was darauf hindeutet, dass dies eine Verschlimmerung einer bestehenden Krankheit war.
+
+[HISTORY OF PRESENT ILLNESS] Nachdem wir den Patienten mit zusätzlichem Sauerstoff aus einer mit der Seriennummer xAeT iWQZA gekennzeichneten Flasche stabilisiert hatten, führten wir eine gründliche Anamnese durch. Der Patient identifizierte sich als Hugo Coppens und gab eine Kontonummer OyGfAh-459 für die medizinische Aktennummer MRVKz kkUp an. Sie informierten uns, dass die Symptome am Mittwoch, 19. August 2015 mit einem Husten und leichtem Fieber begannen, das sich seitdem zum aktuellen Zustand verschlimmert hat. Der Patient erwähnte auch, dass er unter der Betreuung von Hans Wyss im River Jordan mit bronchialem Asthma diagnostiziert wurde.
+
+[INITIAL ASSESSMENT] Unsere primäre Beurteilung ergab, dass der Patient bei Bewusstsein war, mit einer Orientierung zur Person, zum Ort und zur Zeit. Das Alter des Patienten 97 schien mit dem Aussehen übereinzustimmen. Wir führten eine vollständige Untersuchung von Kopf bis Fuß durch und fanden Anzeichen von angestrengtem Atmen, pfeifenden Atemgeräuschen und einer leicht erhöhten Herzfrequenz. Die vom Gerät ID xAeT iWQZA aufgezeichnete Temperatur des Patienten deutete auf Fieber hin.
+
+[TREATMENT] Wir begannen die Behandlung vor Ort, indem wir bronchodilatatorische Medikamente über einen Vernebler verabreichten, gemäß der bestehenden Verschreibung des Patienten von Dr. Hans Wyss. Der Patient wurde dann für den Transport ins nächstgelegene Krankenhaus, River Jordan, vorbereitet, mit kontinuierlicher Überwachung der Vitalzeichen. Eine sn@mail.com wurde an das Krankenhaus mit der ersten Beurteilung und Behandlung des Patienten gesendet.
+
+[TRANSPORT] Der Patient wurde sicher in unserem Krankenwagen mit dem Kennzeichen 9TI D78 für den Transport gesichert. Die IV-Leitung wurde angelegt, ohne Schwellung oder Verfärbung an der Einstichstelle. Die Habseligkeiten des Patienten, einschließlich eines Mobilgeräts mit der identifizierten 78.70.247.113, wurden während der Fahrt sicher bei uns aufbewahrt.
+
+[HOSPITAL HANDOVER] Bei der Ankunft im Krankenhaus wurde die Patientenpflege an die diensthabende Notfallkrankenschwester übergeben, mit allen Details zum Zustand, zur Behandlung und zur Vorgeschichte des Patienten. Alle Habseligkeiten des Patienten wurden dem Krankenhauspersonal übergeben. Ein ausgefülltes Patientenübergabeformular wurde von der Krankenschwester unterschrieben und entgegengenommen, dessen Dokumenten-URL  www.dougherty.com/categories/app/wp-contentterms.html ist.
+
+[DOCUMENTATION] Der Bericht wurde vom anwesenden EMT erstellt, und eine Kopie des Patientenpflegeberichts wurde generiert und an das Konto gesendet, das mit dem Benutzernamen des Patienten ra5gLQum verknüpft ist. Das Dokument wurde auch im System gegen die Sozialversicherungsnummer des Patienten 64 169 970 242 für Referenz- und Abrechnungszwecke gespeichert.
+
+[ATTENDING EMT] Dieser Bericht wurde von Hans Wyss, einem lizenzierten EMT mit der Zertifizierungsnummer 04609-WdVn, erstellt und überprüft. Dieses Dokument soll einen detaillierten Bericht über den Zustand und die Behandlung des Patienten während der Notfallsituation am Vorfallsdatum Mittwoch, 19. August 2015 liefern."
+

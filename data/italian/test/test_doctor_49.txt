@@ -1,0 +1,56 @@
+"Appunto
+
+Leonardo Farina
+
+Caso noto: Lupus Eritematoso Sistemico (LES)
+Storia: Pancreatite idiopatica
+
+Sintomi attuali: 
+- Debolezza, affaticamento
+- Nausea, vomito
+- Intolleranza alimentare
+- Visione offuscata
+- Dolore addominale
+
+Nessuna storia di diabete o altre malattie autoimmuni eccetto il LES
+Precedenti ricoveri - multipli per pancreatite (tutti i test negativi per calcoli biliari, tumori, malattie autoimmuni, metaboliche)
+Diagnosi recente: Lupus discoide, LES, gravi manifestazioni neuropsichiatriche
+
+Trattamento: 
+- Metilprednisolone
+- Clorochina
+- Levetiracetam
+- Fenitoina
+- Lorazepam
+- Bolo mensile di 
+
+I sintomi sono iniziati ~ 7 giorni dopo la 6a dose di , totale 6.25g
+
+Segni vitali: 
+- Tachicardia (125 bpm)
+- Tachipnea (27 respiri/minuto)
+- Sonnolenza
+- Disidratazione
+
+Risultati di laboratorio: 
+- Glucosio sierico: 1240 mg/dl (normale: 70-140 mg/dl)
+- Sodio: 127 mEq/L (normale: 135-145 mEq/L)
+- Potassio: 5.56 mEq/L (normale: 3.5-5.0 mEq/L)
+- Cloro: Non completamente riportato
+- Nessuna resistenza all'insulina
+
+Impressioni: Chetoacidosi diabetica (DKA) - probabilmente dovuta all'uso di steroidi sistemici, esacerbata da LES e recente terapia con . Diagnosi differenziale: fiammata di pancreatite acuta, meno probabile
+
+Raccomandazioni:
+- Iniziare il protocollo di gestione della DKA
+- Fluidi IV, terapia con insulina
+- Monitoraggio degli elettroliti, reintegrazione
+- Monitoraggio continuo dei segni vitali, glucosio, elettroliti
+- Consultare Sofia Huber (endocrinologia)
+- Consultare Sofia Huber (reumatologia)
+- Educazione del paziente sul riconoscimento dei segni di iperglicemia
+- Enfatizzare il follow-up regolare
+- Affrontare problemi di conformità legati al complesso regime di farmaci
+
+Sofia Huber"
+

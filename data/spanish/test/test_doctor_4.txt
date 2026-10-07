@@ -1,0 +1,36 @@
+"Notas del Doctor
+==========
+Paciente: Luis Alberto Román
+ID: IvpG KYzTp
+
+S:
+- Sangrados nasales recurrentes durante 6-8 meses
+- Sin dolores de cabeza o síntomas sistémicos
+- Bloqueo nasal
+
+O:
+- Masa dura, fosa nasal derecha
+- Fosfatasa alcalina normal
+- Tomografía computarizada: Masa detrás de la lámina basal, calcificación, desplaza el cornete inferior, se extiende al vestíbulo nasal
+- Cirugía endoscópica: Anestesia general, masa extirpada, adherida al septo posterior y superficie medial del cornete inferior
+- Tamaño de la masa: 3 x 2 x 1 cm
+- Microscopía: Lesión fibro-ósea benigna, indica displasia fibrosa
+
+A:
+- Diagnóstico primario: Displasia fibrosa de la cavidad nasal
+- Masa extirpada, sin complicaciones inmediatas
+- Pronóstico: Favorable, bajo riesgo de malignidad, lesión benigna
+
+P:
+- Recuperación: Monitoreo, seguimientos regulares con Leticia Arreola
+- Consejo: Informar síntomas inusuales o sangrados nasales recurrentes
+- No se requiere tratamiento adicional
+- Vigilancia: Continuada para la recurrencia de la masa
+
+Leticia Arreola
+Oficial de ensayos de campo
+Porter, Ellison y Harris
+eic@microsoft.org
+(783)978-0326
+5RMV9dnd"
+

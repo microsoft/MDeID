@@ -1,0 +1,49 @@
+"Informe de Atención al Paciente
+
+Despacho
+La unidad de campo de Servicios Médicos de Emergencia (EMS) 102N0 fue enviada a la dirección Matteo Vogel, Peatonal Véliz 388 Edif. 774, Depto. 043, 58, 8442 Manuel Doblado, Spain después de una llamada al 911 por un paciente que mostraba síntomas similares a los de la gripe. La llamada de despacho fue recibida a las 31 dic 2016 en nuestro sistema EMS aVdAm-zrnP.
+
+En la escena
+A la llegada a la escena a las 31 dic 2016, el equipo de EMS dirigido por el Técnico Médico de Emergencia (EMT) Agustín Caballero y el paramédico Agustín Caballero encontraron al paciente Matteo Vogel en su casa. El paciente estaba en moderado malestar, sentado en el sofá y parecía fatigado. El equipo evaluó la escena y la consideró segura.
+
+Queja e Historia del Paciente
+Matteo Vogel informó sentirse extremadamente cansado y tenía dolor de garganta. Los síntomas comenzaron el 31 dic 2016. Se revisó la historia médica del paciente a partir de su registro de salud LpR-aIeAAO proporcionado por su médico de atención primaria Agustín Caballero. Reveló que no tenía alergias y una historia de infecciones respiratorias superiores similares, leves y autolimitadas.
+
+Evaluación
+La evaluación inicial realizada por el EMT Agustín Caballero mostró un paciente alerta y orientado con signos vitales estables. Sin embargo, Matteo Vogel parecía fatigado y con fiebre leve. Basándose en los síntomas y el examen, la impresión fue una posible infección común de resfriado.
+
+Tratamiento
+El tratamiento inicial incluyó hacer que el paciente se sintiera cómodo y proporcionarle consejos para mantenerse hidratado y descansar. Se aconsejó al paciente que tomara remedios para el resfriado de venta libre para aliviar los síntomas. Se aconsejó además al paciente Matteo Vogel que buscara atención médica inmediata si los síntomas empeoran o persisten más allá de una semana.
+
+Transporte
+El paciente Matteo Vogel no fue trasladado al hospital Kastrup Airport ya que optó por quedarse en casa basándose en la recomendación del EMT Agustín Caballero.
+
+Documentación
+Todas las interacciones con el paciente fueron documentadas en el expediente del paciente LpR-aIeAAO. Se informó al paciente sobre las prácticas de privacidad y los datos registrados en el sistema EMS aVdAm-zrnP son seguros y cumplen con las regulaciones de HIPAA.
+
+Seguimiento
+Se programó un seguimiento para el 31 dic 2016 para asegurar el bienestar del paciente. El seguimiento se realizaría mediante una llamada telefónica al número de teléfono registrado del paciente (438)353-2608x4125 por el asistente médico Agustín Caballero.
+
+Informe presentado por:
+Técnico Médico de Emergencia (EMT) Agustín Caballero
+Número de Identificación 805503-627
+Correo Electrónico de Contacto: usallero@red-cross.org
+Teléfono de Contacto: (438)353-2608x4125
+Sitio Web: mckinney.shepherd.jackson.com
+Organización: Munoz PLC
+Vehículo del equipo 102N0
+Plan de salud del paciente 9D5
+Profesión del paciente Arts development officer
+Número de cuenta del paciente 805503-627
+Ubicación del paciente-Otro mercado
+Licencia del paciente 60343 7749
+BioID del paciente 5440-65OAe
+Nombre de usuario del paciente D8ZbP2f7
+Número de Seguridad Social del paciente 103-20-3303
+Estado del paciente Salta
+País del paciente Colombia
+Código Postal del paciente 8442
+Fax del paciente 854.359.4736x52537
+Calle del paciente 838 Taylor Road Apt. 565
+Dirección IP del paciente 117.192.180.237"
+

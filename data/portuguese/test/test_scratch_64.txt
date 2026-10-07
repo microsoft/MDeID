@@ -1,0 +1,57 @@
+"\"Notas de Enfermagem: Exame de Condição da Pele\"
+
+Informações do Cabeçalho:
+Médico responsável: Leonor Gonçalves
+
+Informações do Paciente:
+Nome do Paciente: Carolina Figueiredo
+IDADE: 57
+Endereço: Carolina Figueiredo, Passarela de Cardoso, 69 189, Casa, Mangaratiba - 87, F25TCJGI, Brasil
+Número da Conta: XbRS-08923
+Email: eonnçalve@microsoft.org
+Telefone: 319.526.7626
+
+Sinais Vitais:
+- Temperatura: 98.6\u00b0F 
+- Pulso: 80 bpm
+- Respiração: 16 respirações por min
+- Pressão Arterial: 120/80 mm Hg
+
+Exame de Erupção Cutânea:
+Vermelhidão: Sim
+Coceira: Sim
+Inchaço: Não
+Caroços: Sim
+Duração: 02/04/1993
+
+Observações:
+-Paciente reclama de erupção cutânea persistente, suspeita de ser uma infecção fúngica.
+-Exame confirmou erupção cutânea vermelha e coceira com pequenos caroços elevados. 
+-Área afetada do paciente: farmácia
+
+Histórico Médico:
+Hospitalização Anterior: Petteri Iivonen
+Registro Médico: DbNt 33864
+
+Tratamento:
+Creme antifúngico tópico e medicação antifúngica oral prescritos. Recomenda-se acompanhamento para 02/04/1993.
+
+Informações Adicionais:
+Plano de Saúde: iKofVB0k
+Dispositivo: KcZd-1700p
+Profissão: Gerente de galeria de arte
+Nome de usuário (para consulta online) : 1svwxJZU
+Contato de Emergência: 319.526.7626
+
+Informações de Rodapé:
+IP de envio: 71.202.83.11
+Licença de software por: gwCxRG-qSf
+Bio-ident para login: KlvL-9430Y
+ID do Documento: XbRS-08923
+
+Informações de Contato:
+Fax: 9727454229
+URL:  www.williams.com/blog/postscategory.htm 
+
+FIM DA NOTA."
+

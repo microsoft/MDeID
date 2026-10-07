@@ -1,0 +1,45 @@
+# Résumé de Sortie
+
+## Disposition du Patient
+Maison
+
+## Section Allergies et Intolérances
+Juliette Cordier n'a pas d'allergies connues.
+
+## Section du Cours de l'Hôpital
+La Juliette Cordier a été admise en raison de signes associés à la cardiomyopathie. Les symptômes présentés comprenaient un essoufflement, une orthopnée, une hypokinésie et des douleurs articulaires. La patiente a été surveillée et a bien répondu au traitement initial.
+
+## Section du Diagnostic de Sortie
+Diagnostic principal : Cardiomyopathie
+
+## Section du Plan de Traitement
+Il est conseillé à la patiente de continuer avec le médicament prescrit et de faire un suivi avec le Luna Verlinden au service ambulatoire.
+
+## Section des Consultations à l'Hôpital
+Plusieurs consultations ont été effectuées avec l'équipe de cardiologie dirigée par le Luna Verlinden.
+
+## Section des Procédures
+Un échocardiogramme et un ECG ont été effectués.
+
+## Section des Résultats
+L'échocardiogramme a montré une dysfonction systolique du ventricule gauche. L'ECG a montré un rythme sinusal normal.
+
+## Section des Médicaments de Sortie
+La Juliette Cordier doit continuer avec les bêta-bloquants, les inhibiteurs de l'ACE et les diurétiques tels que prescrits.
+
+## Section de l'État Fonctionnel
+Juliette Cordier a montré une amélioration de son état fonctionnel, avec une réduction de l'essoufflement et une amélioration de la mobilité vers la fin de l'admission.
+
+## Section des Instructions de Sortie de l'Hôpital
+Juliette Cordier doit continuer à prendre les médicaments prescrits sans faute, suivre un régime pauvre en sodium et pratiquer des activités physiques légères.
+
+## Section de l'Examen Physique de Sortie de l'Hôpital
+Au moment de la sortie, Juliette Cordier était stable, sans essoufflement ni douleur thoracique.
+
+## Section des Signes Vitaux
+Les signes vitaux à la sortie étaient stables : Pression artérielle : 120/80mmHg, Fréquence cardiaque : 75 bpm, Fréquence respiratoire : 16 respirations par minute, Température : 98,6°F, Saturation en oxygène : 98% à l'air ambiant.
+
+## Section des Directives Anticipées
+Les directives anticipées ont été discutées.
+
+N'oubliez pas, la Juliette Cordier devra continuer à surveiller les symptômes, prendre les médicaments tels que prescrits, et faire un suivi avec le Luna Verlinden après la sortie. Toute aggravation des symptômes doit être immédiatement signalée à l'équipe de soins de santé.

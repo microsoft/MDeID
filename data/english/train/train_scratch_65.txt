@@ -1,0 +1,65 @@
+"**-=Nurse's Quick Notes=-**
+
+```txt
+--------------------------------------
+PATIENT       : Harrison Nguyen
+AGE           : 1
+HOSPITAL      : Dongsoong Art Center
+MEDICALRECORD : 6582-EhkmT
+--------------------------------------
+
+Vital Signs:
+- BP: 120/80
+- HR: 88 bpm
+- Temp: 37\u00b0C
+
+Observations:
+- Shaking, trembling all over
+- Weight loss
+
+Possible Diagnosis:
+- Diabetes suspected
+
+Test ordered:
+- Blood sugar level
+- HbA1c
+
+--------------------------------------
+**Contact Info**
+- Address: Harrison Nguyen, 103 Meatal, Pinitannic, 4 6721, United States
+- Phone: 6748909525
+- Email: lazarWi@gmail.com
+--------------------------------------
+
+**Account and ID**
+- Account No.: QCBdPX-ckf
+- ID Num: QCBdPX-ckf
+- Health Plan: ppUaG5
+
+**Others**
+- Username: arrisonuyen
+- IP Address: 208.182.156.121
+- BioID: IWsby mlLh
+
+**Medical Devices**
+- Device used: ac-OGVlAvs
+
+**Emergency Contact**
+- Name: Harrison Nguyen
+- Contact: 6748909525
+
+**Hospital Details**
+- Location: mall
+- City: Pinitannic
+- State: 304
+- Zip: 6721
+
+**Profession and Organization**
+- Profession: Medical technical officer
+- Organization: Perez, Woodward and Mullins
+
+--------------------------------------
+*Noted by: Willie Salazar*
+```
+"
+

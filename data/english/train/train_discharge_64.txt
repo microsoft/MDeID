@@ -1,0 +1,62 @@
+Discharge Summary
+
+# Header
+
+Discharge Disposition: Home with Services
+
+# Allergies And Intolerances Section
+
+No known allergies reported by Jordan Welch.
+
+# Hospital Course Section
+
+Jordan Welch was admitted with complaints of persistent abdominal pain and notable hyperventilation. The clinical examination and subsequent diagnostic tests confirmed a hernia.
+
+# Discharge Diagnosis Section
+
+Final Diagnosis: Hernia
+
+# Plan of Treatment Section
+
+Jordan Welch has been advised to follow up with their primary care Luca Joss. Physical therapy sessions have been planned to help improve muscle strength. Continued monitoring of symptoms and regular check-ups are necessary.
+
+# Hospital Consultations Section
+
+Consultations were made with the general surgery team for possible surgical intervention. The final decision will be taken in the follow-up visit with the Luca Joss.
+
+# Procedures Section
+
+No surgical procedure was performed during this hospital stay. The decision to proceed with hernia repair surgery will be based on the progression of the hernia and the symptomatology of the Jordan Welch.
+
+# Results Section
+
+Laboratory results showed normal results for complete blood count, electrolytes, and renal function. However, the presence of the hernia was confirmed through an abdominal ultrasound.
+
+# Discharge Medications Section
+
+Pain management: Over-the-counter pain medication as needed.
+
+Note: Detailed medication information will be provided by the Pharmacy department at the follow-up visit.
+
+# Additional Sections
+
+## Chief Complaint Section
+
+Jordan Welch was admitted with chief complaints of severe abdominal pain and hyperventilation.
+
+## Admission Diagnosis Section
+
+Preliminary Diagnosis: Hernia
+
+## Hospital Discharge Instructions Section
+
+Jordan Welch is advised to follow a diet high in fiber and maintain hydration. Avoid physical exertion and heavy lifting. Follow up with the primary care Luca Joss within a week of discharge.
+
+## Vital Signs Section
+
+Upon discharge, vitals were stable. Heart Rate: 72 beats per minute, Blood Pressure: 120/80 mmHg, Temperature: 98.6 F, Respiratory Rate: 16 breaths per minute.
+
+This Discharge Summary provides a snapshot of Jordan Welch's hospital course. The final plan for potential surgical intervention will be decided at the follow-up consultation with the Luca Joss. We encourage Jordan Welch to keep all appointments and adhere to all medical advice given.
+
+NOTE: This document contains no Personal Health Information (PHI). All data present in the document is synthetic and does not relate to any real patient. Any resemblance to actual persons, living or dead, is purely coincidental.
+

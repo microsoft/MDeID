@@ -1,0 +1,62 @@
+"\ud83c\udfe5Pflegekratznotiz \ud83c\udfe5
+
+----------------------------------
+**Patientenkontext**:
+Gerhard Eder berichtet über Atembeschwerden, kontinuierliches Husten. 
+
+**Mögliche Diagnose**: Bronchialasthma
+----------------------------------
+
+**Vitalzeichen & Beobachtungen**
+
+BPM: 120
+Atemfrequenz: 22
+Temp: 98.6f
+BP: 130/80
+O2 Sat: 94%
+Keuchen bei Ausatmung festgestellt
+
+----------------------------------
+**Verabreichte Behandlungen**:
+Inhalator bereitgestellt (tcd-gfIvkv), 
+Bronchodilatator-Nebulisation durchgeführt (vfjWfG mSc)
+
+----------------------------------
+**Nächste Schritte**:
+Verabreichen Sie bei Bedarf Kortikosteroide. 
+Überwachen Sie die Vitalzeichen genau. 
+Informieren Sie Josef Zimmermann über die Reaktion des Patienten auf die Behandlung. 
+
+----------------------------------
+**Wichtige Kennungen**
+rharEd
+Kontonummer: fKG vMxysc
+Medizinische Aktennummer: vfjWfG mSc
+
+----------------------------------
+**Notfallkontaktinformationen**
+Telefon: 467.735.7879x7118
+Adresse: Gerhard Eder, Rüeggstrasse 323 62, 7052 Braak bei Hamburg, Schweiz
+
+----------------------------------
+**Weitere Informationen**
+Eingecheckt von: Theater
+Aufgenommen in: northwestern Milwaukee
+Gesundheitsplan: E89
+Organisation: Brown and Sons
+Beruf: Ingenieur, Bergbau
+Fahrzeug: RMJ-322
+Lizenz: ouC 4441NI
+Sozialversicherung: 11 875 443 037
+Bioid: ttNBIn-084
+IP-Adresse: 63.58.154.10
+ID-Nummer: fKG vMxysc
+Aufgenommen von: Josef Zimmermann
+
+----------------------------------
+**Datum der Notiz**: 28.10.2021
+**Notiz erstellt von**: rharEd
+----------------------------------
+
+*Die obige Notiz dient als schnelle Referenz und stellt keine vollständige Patientengeschichte oder Behandlungsprotokoll dar. Bitte beziehen Sie sich auf die detaillierte elektronische Gesundheitsakte für umfassende Informationen.*"
+

@@ -1,0 +1,41 @@
+"Nota de Enfermería:
+
+-Estado del Paciente [ID Único: YEOqB jZHJ]-
+Maricela Méndez presenta alta 21, malestar significativo y signos de malaria severa. 
+
+-Signos Vitales-
+Temp: 102.6F  |  Pulso: 112 lpm  |  Resp: 21/min  |  PA: 145/92 mmHg 
+
+-Información de Contacto-
+819.326.5583x721, osag@mail.com 
+
+-Contacto de Emergencia-
+Méndic () - 819.326.5583x721
+
+-Detalles del Proveedor-
+Thiago Ramos en Nakorn, Heroica Matamoros, 27, España 
+
+-Información de Ubicación-
+Última cafetería conocida, exposición sospechada
+
+-Observaciones-
+Parásitos de la Malaria Detectados, se requieren más pruebas
+
+-Información del Dispositivo-
+Serial del Dispositivo: 607 kVKDPl
+
+-Plan de Salud-
+e3QylyLFQZ 
+
+-Notas de Progreso-
+Prueba rápida: Positiva. Monitorear para más complicaciones. 
+
+-Detalles del Documento-
+Documento creado por: Méndic
+Fecha: 2 de noviembre de 2015
+
+-Aviso de Confidencialidad-
+Esta nota contiene información sensible del paciente protegida bajo PHI. El uso, divulgación o duplicación no autorizada está estrictamente prohibida. Solo para uso oficial del equipo de atención médica.
+
+-Fin de la Nota-"
+

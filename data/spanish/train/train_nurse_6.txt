@@ -1,0 +1,53 @@
+"Nota Narrativa de la Enfermera
+
+Subjetivo:
+
+Eva Ramos se presentó en la clínica informando de visión borrosa y fotopsias en un ojo que han persistido durante los últimos días. Estos síntomas fueron precedidos por síntomas similares a los de la gripe, incluyendo fiebre y dolor de cabeza reportados por la paciente. Eva Ramos niega cualquier historial médico significativo o contacto reciente con animales.
+
+Objetivo:
+
+El recuento completo de sangre (CBC) de Eva Ramos, y los resultados de las radiografías de tórax y senos paranasales fueron normales. Los resultados de las pruebas para sífilis, citomegalovirus, virus del herpes simple, virus de la inmunodeficiencia humana, Bartonella, Histoplasma capsulatum, Toxoplasma gondii, Toxocara canis, y Borrelia burgdorferi fueron negativos. El examen ocular revela una agudeza visual corregida de 20/20 en el ojo derecho y 20/25 en el ojo izquierdo. La biomicroscopía, las reacciones pupilares y la presión intraocular están dentro de los límites normales. La fotografía de fondo de color revela sutiles manchas blancas retinianas profundas en el polo posterior y alrededor del disco óptico del ojo izquierdo. La angiografía con fluoresceína (FA) muestra áreas punteadas en forma de guirnalda de hiperfluorescencia temprana y tinción del disco óptico en la fase tardía. La autofluorescencia del fondo (FAF) y la tomografía de coherencia óptica (OCT) confirman la interrupción de la zona elipsoide (EZ) y la presencia de lesiones hiperreflectantes e hiporreflectantes en la capa nuclear externa (ONL) y la coroides, respectivamente. La angiografía OCT (OCTA) no muestra ninguna alteración del flujo.
+
+Evaluación:
+
+Basándose en los síntomas y hallazgos diagnósticos de Eva Ramos, se sugiere una patología retiniana. Esto podría ser posiblemente un proceso inflamatorio o infeccioso, aunque las causas infecciosas han sido descartadas por serologías negativas. El diagnóstico diferencial podría incluir una retinopatía autoinmune o un desprendimiento retiniano localizado.
+
+Plan:
+
+El plan es monitorear de cerca la condición de Eva Ramos con una cita de seguimiento programada en unas pocas semanas para reevaluar la condición. Se ha aconsejado a Eva Ramos que informe inmediatamente cualquier empeoramiento de los síntomas. Se puede considerar realizar más pruebas o una derivación a un especialista en retina en función de la progresión o cambio en los síntomas.
+
+[Tabla: Información Personal de Salud (PHI)]
+| Tipo de PHI | Marcador de posición enmascarado |
+|----------|-------------------|
+|CUENTA|092370 zit|
+|DIRECCIÓN|Eva Ramos, Cuesta Marcos Bertrán 3, 20, 9037 Paso del Rey, España|
+|EDAD|11|
+|BIOID|79196 3458|
+|CIUDAD|Paso del Rey|
+|PAÍS|Perú|
+|FECHA|19 de julio de 1995|
+|DISPOSITIVO|jCG 62YuMh|
+|DOCTOR|Isabel Delgado|
+|CORREO ELECTRÓNICO|bo@zoho.com|
+|PLAN DE SALUD|yXwp3Ddp|
+|HOSPITAL|Medical City Dallas Hospital|
+|NÚMERO DE IDENTIFICACIÓN|092370 zit|
+|DIRECCIÓN IP|151.148.51.122|
+|LICENCIA|7246 93GtB|
+|OTRA UBICACIÓN|hospital|
+|HISTORIAL MÉDICO|60 zNBlujl|
+|ORGANIZACIÓN|White Group|
+|PACIENTE|Eva Ramos|
+|TELÉFONO|+1-735-848-5918|
+|PROFESIÓN|Diseñadora, cerámica/alfarería|
+|SEGURIDAD SOCIAL|81.133.789|
+|ESTADO|49|
+|CALLE|30297 Strong Glens|
+|URL|mullen-bender.olson-hooper.hicks-carlson.com|
+|NOMBRE DE USUARIO|TgdDOmeL|
+|VEHÍCULO|9KLO 96|
+|CÓDIGO POSTAL|9037|
+|FAX|001-664-403-9588|
+
+Firmado, Isabel Delgado"
+

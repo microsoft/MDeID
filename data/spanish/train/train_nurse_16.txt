@@ -1,0 +1,32 @@
+"------------------------------------------------------------------------------------------------------------------
+Notas de Enfermería para Anna Zelenka
+------------------------------------------------------------------------------------------------------------------
+
+Subjetivo: 
+
+La paciente, una mujer, informa que experimenta dolor, hinchazón y cambios en su seno derecho. También describe síntomas recientes de visión doble, visión borrosa y movimiento significativamente restringido en su ojo derecho, con una disminución en la agudeza ocular. 
+
+Objetivo: 
+
+La ecografía inicial de la mama reveló una masa irregular en el seno derecho y otra lesión en otra ubicación, con ganglios linfáticos agrandados en la axila derecha. Una biopsia con aguja gruesa confirmó un diagnóstico de carcinoma ductal invasivo (CDI), con ciertas características. La paciente se sometió a una tomografía computarizada de cuerpo completo, que no mostró ninguna enfermedad metastásica. Las pruebas posteriores al tratamiento confirmaron el diagnóstico de CDI, con varios ganglios linfáticos axilares que mostraban depósitos metastásicos. Una reciente resonancia magnética del cerebro indicó un bulto que involucra a un cierto músculo ocular. 
+
+Evaluación: 
+
+El diagnóstico principal es carcinoma ductal invasivo (CDI) del seno derecho, actualmente sin metástasis a distancia pero con una propagación local y regional significativa. Los nuevos síntomas oculares y los hallazgos de la resonancia magnética sugieren una posible metástasis o un segundo cáncer que involucra a un cierto músculo ocular. 
+
+Plan: 
+
+La paciente ha completado una serie de ciclos de quimioterapia neoadyuvante, se ha sometido a una mastectomía conservadora de piel en el lado derecho, a una disección de ganglios linfáticos axilares y a radioterapia de la pared torácica. Actualmente está en terapia hormonal con ciertos medicamentos. Dados los nuevos hallazgos oculares, se necesitan más pruebas diagnósticas y la consulta con un oncólogo y un oftalmólogo para determinar la estrategia de manejo adecuada para la posible metástasis o el nuevo cáncer primario. 
+
+------------------------------------------------------------------------------------------------------------------
+Pie de página: 
+
+Enfermero Marcelo Romero, Número de Licencia qel 99iLAn, Número de Contacto (831)701-5548x155, ID de Correo Electrónico eomero@red-cross.org, 
+Dispositivo utilizado para la documentación Oc 364478d, Dirección IP utilizada para iniciar sesión en el sistema 73.197.7.51, 
+Nombre de Usuario oKxrQWmT, Número de Seguridad Social 20.410.586, Número de Vehículo 623 0810,
+ID Biométrica del Paciente 43-521309V, Número de Cuenta del Paciente 896 anSEnH, Número de ID 896 anSEnH, 
+Edad del Paciente 2, Dirección del Paciente Anna Zelenka, Avenida Baca 389 Edif. 264, Depto. 202 169, Undercaptain, 01338 El Refugio, 9, Colombia, Ciudad El Refugio, Estado Michoacán de Ocampo, País México, 
+Código Postal 01338, Hospital Emerge, Otra Ubicación estación de tren, Plan de Salud XAeks, 
+Profesión Ejecutivo legal colegiado (Inglaterra y Gales), Organización Cooke Group, Fax 4533977067, URL larsen.com
+------------------------------------------------------------------------------------------------------------------"
+

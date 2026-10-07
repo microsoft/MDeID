@@ -1,0 +1,66 @@
+"Nurse Scratch Note:
+
+Patient: Emersyn Lévesque
+Age: 41 weeks
+
+---------------------------
+| Vitals                  |
+---------------------------
+| BP: 112/80              |
+| HR: 78                  |
+| RR: 16                  |
+| Temp: 37.1C             |
+| SPO2: 98%               |
+---------------------------
+
+Scratch note:
+General discomfort, reports feeling \"itchy\". Patient might have caught a fungal infection. Examination necessary. Informed William Bish about it. Prescription medications reviewed. 
+
+---------------------------
+| Additional Observations |
+---------------------------
+| Skin: Redness           |
+| Rash: Yes               |
+| Itchiness: High         |
+---------------------------
+
+---------------------------
+| Contact Details         |
+---------------------------
+| Email: Wh@icloud.com          |
+| Phone: (784)604-7557          |
+| Address: Emersyn Lévesque, 47 Zingare, Pardnomastic, 11 4494, United States      |
+---------------------------
+
+---------------------------
+| Patient ID Details      |
+---------------------------
+| MRN: YjbfB XPII    |
+| Account: 2893-34188      |
+| SSN: 162-233-013   |
+---------------------------
+
+---------------------------
+| Other Details           |
+---------------------------
+| Device ID: 08149 3954     |
+| Health Plan: Smfd|
+| Profession: Psychotherapist|
+| Organization: Davis, Chapman and Turner|
+---------------------------
+
+---------------------------
+| Additional Info         |
+---------------------------
+| City: Pardnomastic            |
+| State: 11          |
+| Country: New Zealand      |
+| License: 05297-ZaEb      |
+| BioID: 483-46787v          |
+| User Name: Emerséve   |
+| Hospital: Switzerland 's    |
+---------------------------
+
+Note: Follow-up visit required. Re-evaluate condition within Tue/May/26/09 days. Keep under watch for any worsening of symptoms. Inform William Bish if any changes observed.
+"
+

@@ -1,0 +1,52 @@
+"S: Il paziente Martin Keller ha riferito una storia del 9 novembre 1988 di febbre alta e ulcere dolorose con gonfiore del cuoio capelluto al momento del ricovero. Il paziente ha anche sperimentato un cattivo appetito a causa della condizione.
+
+O: L'esame fisico effettuato dalla Chiara Baumann ha rivelato coscienza con un punteggio di 15 alla Glasgow Coma Scale, formazione di pus, fistola con secrezione purulenta, desquamazione del cuoio capelluto e gonfiore del viso. Gli esami di laboratorio hanno mostrato una grave neutropenia con globuli bianchi a 2,39 x 10^9/l, neutrofili a 0,25 x 10^9/l e linfociti a 2,1 x 10^9/l. La velocità di sedimentazione degli eritrociti era elevata a 101 mm/ora, e la proteina C-reattiva era significativamente alta a 272 mg/dl. La coltura del pus ha dato esito positivo per Enterococcus faecalis ed Escherichia coli. Le colture di sangue e urine erano negative. La radiografia del torace, l'analisi delle urine e l'analisi del liquido cerebrospinale erano normali. I titoli sierici di immunoglobuline e le percentuali di cellule T erano entro i limiti normali. L'analisi del midollo osseo ha mostrato un arresto della maturazione allo stadio promielocita/mielocita senza coinvolgimento maligno. La TAC della testa e del cranio presso l'Kildalton ha indicato un enfisema sottocutaneo del cuoio capelluto ma nessuna lesione cerebrale o fratture del cranio.
+
+A: La diagnosi primaria è fascite necrotizzante del cuoio capelluto complicata da setticemia. Le diagnosi differenziali considerate includevano altre eziologie infettive, che sono state escluse attraverso varie colture e test sierologici.
+
+P: Il paziente è stato trattato con pentaglobina (0,5 g/kg) e una combinazione di antibiotici: vancomicina, meropenem e metronidazolo. È stata avviata la terapia con fattore stimolante le colonie di granulociti (G-CSF) a dosi comprese tra 5 e 15 µg/kg/giorno per gestire la grave neutropenia. Il paziente è stato dimesso dopo 9 novembre 1988 di trattamento e continua la terapia regolare con G-CSF per prevenire ulteriori infezioni. Il follow-up include il monitoraggio regolare del conteggio dei neutrofili e dello stato di salute generale presso l'Kildalton per garantire che non ci sia recidiva dell'infezione.
+
+Informazioni aggiuntive:
+
+- Numero di cartella clinica del paziente: Hw 855auah
+
+- Numero di conto del paziente: xQZbyD 413
+
+- Numero di serie del dispositivo del paziente: qxu ZaMBYG
+
+- Nome utente del paziente: ciaBgTn6
+
+- Informazioni sul veicolo del paziente: EPF1656
+
+- Numero di previdenza sociale del paziente: 490441-6226
+
+- Informazioni sulla licenza del paziente: 37-65nQNDU
+
+- Identificatore biometrico del paziente: 8351-Tiquk
+
+- Indirizzo IP del paziente: 133.51.36.78
+
+- Numero di ID aggiuntivo del paziente: xQZbyD 413
+
+- Età del paziente: 5
+
+- Indirizzo del paziente: Martin Keller, 8215 Foster Road 139, 0634 Castel S. Giorgio, Svizzera
+
+- Posizione del paziente: caffè
+
+- Piano sanitario del paziente: 1P0DrXvHa
+
+- Professione del paziente: Ingegnere, manutenzione (IT)
+
+- Organizzazione del paziente: Allen-Williamson
+
+- Data odierna: 9 novembre 1988
+
+- Email del paziente: nhi@mail.com
+
+- Numero di telefono del paziente: 834-486-4082x79659
+
+- URL del paziente:  www.shepherd.com/listsearch.html
+
+- Numero di fax del paziente: (638)330-7529"
+

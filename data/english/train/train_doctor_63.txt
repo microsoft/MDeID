@@ -1,0 +1,28 @@
+"Doctor Scratch Note:
+
+Emma Carpenter, 17, male, initial presentation with multi-site skin pigmentation, repeated vomiting x 4 days. Noted distinct physical features - round face, full cheeks, prominent forehead, hypertelorism, periorbital fullness, short nose, everted lower lip.
+
+Vitals:
+Temp: 98.6 F, HR: 110 bpm, RR: 24 breaths/min, BP: 100/60 mmHg, SpO2: 98%
+
+Examination:
+Confirmed above physical features.
+
+MRI Conduction: Hydrocephalus detected, shunt surgery undertaken. Post-op MRI - ventricular dilatation, brain stem volume reduction, leptomeningeal enhancement. Right frontal lobe - 3 cm mass.
+
+Tumor Resection: Dark-red to brown mass, 4x4x2 cm. Meninges attachment.
+
+Immunohistopathological Results: HMB45 positive, Melan-A positive, S100 positive, Ki-67 30%, P53 negative.
+
+Cytogenetic Study: No P53 allelic deletion, NRAS mutation in exon 3 (codon 61).
+
+Diagnosis: CNS malignant melanocytic tumor. Complications - Hydrocephalus, intracranial hypertension.
+
+Initial Differential Diagnosis: Other brain tumors, metastatic lesions.
+
+Prognosis: Poor. Aggressive growth, fatal outcome despite surgical intervention.
+
+Plan: Post hydrocephalus and tumor resection surgery, scheduled MRI/CT every 3 months. Further tumor characterization through immunohistopathological and cytogenetic studies. Emma Carpenter deceased 4 months post-tumor resection. Family counseling recommended.
+
+Richard Garrett"
+

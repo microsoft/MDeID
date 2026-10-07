@@ -1,0 +1,41 @@
+"Nota de Enfermera
+--------------------
+Signos Vitales: 
+PA: 120/80
+FC: 80 lpm
+FR: 20 rpm
+Temp: 98.6 F
+Sat O2: 96%
+
+Resumen del Paciente: 
+Andrea Ruíz: Tos seca, dificultad para respirar
+: Tratamiento con nebulizador, terapia de O2
+Observaciones: 
+Se nota inflamación bronquial, posible : asma bronquial
+
+Progreso del Tratamiento:
+El tratamiento con nebulizador muestra cierto alivio. Los niveles de O2 se mantienen estables después del tratamiento.
+
+Plan:
+Continuar con los tratamientos de nebulización, monitorear los niveles de O2, considerar la escalada a Adriana Castrillón si no hay mejoras
+
+Notas Informales:
+Se nota a Andrea Ruíz luchando con la tos; respirando con dificultad, el tratamiento con nebulizador es algo efectivo, se monitoreará de cerca
+
+Información del Dispositivo:
+: Número de serie del nebulizador
+: Número de serie de la terapia de oxígeno
+
+Contacto:
+Contacto de emergencia 576.599.1597x94427: Contacto de emergencia del paciente
+aas@mail.com: Para comunicación directa
+
+Detalles Adicionales:
+93: Edad del paciente
+Andreu: Nombre de usuario del portal del paciente
+Enfermera psiquiátrica: Ocupación actual
+5yGH5: Proveedor de Seguro de Salud
+txRYGy-Iax: Identificador de Paciente Misceláneo
+Roberts-Short: Organización Asociada
+Henrik: Hospital de referencia"
+

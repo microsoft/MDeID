@@ -1,0 +1,60 @@
+"#Nursing Scratch Note 
+
+--- Patient Details ---
+Name: Luke Boucher 
+Age: 28-weeks-old
+SSN: 738 217 341
+Medical Record: 9720 19432
+Account Number: 8731-196dT
+Profession: Tour manager
+Organization: Ayers, Bean and Potter
+Health Plan: h2BgeA85
+
+--- Contact Information ---
+Address: Luke Boucher, 41 Disks, Trismic, Trickful 2649, New Zealand
+Phone: 705-859-6734x353
+Email: ln@zoho.com
+
+--- Diagnostic Devices ---
+Device#: 673 938968
+
+--- Physician Information ---
+Attending Physician: Bella Patterson
+License: QHUa FjiXU
+
+--- IP Info ---
+IP Address: 218.202.41.221
+
+--- Network Handle ---
+Username: qjrGiEZ6
+
+--- Vehicle Info ---
+Plate#: 4-81285U
+
+--- Biometric ID ---
+BioID: 5419-FohFd
+
+--- Current State ---
+Difficulty swallowing food, periodic heartburn and indigestion, Potential for Trickful-856 Peptic Ulcer Disease.
+
+--- Vital Signs ---
+Blood Pressure: 120/80 mmHg 
+Pulse: 72 bpm 
+Body Temperature: 98.7\u00b0F
+Respiratory Rate: 16 breaths per minute
+
+--- Other Relevant Information ---
+Patient works for an Ayers, Bean and Potter, further stress-related factors need to be investigated. Possible smoking and alcohol history.
+
+--- Emergency Contact ---
+Name: Luke Boucher  
+Relation: Family Member
+Phone: 705-859-6734x353
+
+--- Follow Up ---
+Next Appointment with Dr. Bella Patterson on Wed:6 at Madras Christian College and bus stop
+
+--- Additional Notes ---
+qjrGiEZ6 needs to monitor symptoms and report any changes. Avoid spicy and hard-to-digest foods, take medication as prescribed by Dr. Bella Patterson
+"
+

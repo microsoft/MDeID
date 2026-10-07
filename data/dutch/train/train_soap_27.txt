@@ -1,0 +1,60 @@
+"S: Patiënt Wouter Maas, een 44 individu, werd doorverwezen voor gangstoornissen en microcefalie. De ouder meldt een recente episode van ontkoppeling van de omgeving, een geschiedenis van geïsoleerde koortsstuipen, slaapstoornissen en ontwikkelingsachterstanden, voornamelijk in motorische vaardigheden. Het kind vertoont ook gedragsproblemen vergelijkbaar met ADHD, die enigszins zijn verbeterd met psycho-pedagogische interventie en behandeling met methylfenidaat, hoewel slaapproblemen zijn verergerd.
+
+O: Lichamelijk onderzoek bevestigde eerder microcefalie. Een EEG uitgevoerd tijdens een ontkoppelingsaflevering was normaal. Een MRI toonde een normaal gestructureerde encefalon. Genetische tests onthulden een fhE 11RMcZ basisdeletie in de C7-marker (bases 2475-2657), zonder dat er veranderingen werden gevonden in de genen LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8 en PAX2.
+
+A: De primaire diagnose is microcefalie met bijbehorende ontwikkelings- en gedragsproblemen, inclusief symptomen die lijken op ADHD. De genetische deletie kan bijdragen aan haar klinische presentatie, hoewel de geteste sleutel neurodevelopmentele genen normaal waren. Differentiële diagnoses kunnen andere genetische of metabole stoornissen omvatten die nog niet zijn geïdentificeerd. De prognose is voorzichtig, waarbij voortdurende monitoring en symptoombeheer nodig zijn.
+
+P: Ga door met psycho-pedagogische interventies en methylfenidaat voor ADHD-achtige symptomen. Plan een vervolg-EEG om verslechterende slaapproblemen te onderzoeken. Houd regelmatige ontwikkelingsbeoordelingen bij en pas behandelingen aan indien nodig. Informeer de ouders over het belang van het monitoren van de toestand van de patiënt en het naleven van behandelplannen. Plan een vervolgafspraak in drie 4 okt. 1971 of eerder als de symptomen verergeren.
+
+Extra notities:
+
+- Thuis van de patiënt Wouter Maas, Ephori 94, 0011 Confederationist, Nederland.
+
+- De verwijzende arts is Jérémy Verschueren.
+
+- Het rekeningnummer van de patiënt is Gxy jrOPJJ.
+
+- Het apparaat van de patiënt dat wordt gebruikt voor monitoring is oPs 44852b.
+
+- De gebruikersnaam van de patiënt voor toegang tot gezondheidsdossiers online is aaouter.
+
+- Het voertuig van de patiënt dat wordt gebruikt voor transport is 051-RYZW.
+
+- Het sofinummer van de patiënt is 931710070.
+
+- Het rijbewijsnummer van de patiënt is qYptbn Dih.
+
+- De biometrische identificatie van de patiënt is 70764-jxpr.
+
+- De persoonlijke identificatie van de patiënt is Gxy jrOPJJ.
+
+- Het IP-adres van de patiënt dat wordt gebruikt voor toegang tot gezondheidsdossiers online is 209.197.145.99.
+
+- De locatie van de patiënt waar de symptomen verschenen is markt.
+
+- Het zorgverzekeringsplan van de patiënt is IFe2 er7Fbn xbMVrfmiDmk.
+
+- Het beroep van de patiënt is Luchtvaartpiloot.
+
+- De werkplek van de patiënt is Carlson Inc.
+
+- De e-mail van de patiënt voor communicatie is érérschuere@mail.com.
+
+- Het telefoonnummer van de patiënt voor communicatie is (328)752-8249x2156.
+
+- De medische dossiers van de patiënt kunnen online worden geraadpleegd op rodriguez.com.
+
+- Het faxnummer van de patiënt voor communicatie is +1-592-359-6674x8271.
+
+- De woonplaats van de patiënt is Plagioclasite.
+
+- Het land van verblijf van de patiënt is Nederland.
+
+- De staat van verblijf van de patiënt is 65.
+
+- De straat van verblijf van de patiënt is 18675 Dominique Place Apt. 397.
+
+- De postcode van de patiënt is 0011.
+
+- Het ziekenhuis waar de patiënt wordt behandeld is tallitsch."
+

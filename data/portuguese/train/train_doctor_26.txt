@@ -1,0 +1,53 @@
+"Nota Rápida do Dr. Arthur German
+
+- João Souza 
+- 88 
+- ID yur-80296w 
+
+Sinais vitais:
+- PA: 125/65 mmHg
+- FC: 84 bpm
+- Temp: 100.4\u00b0F 
+
+Queixas:
+- Febre de 7 dias 
+- Calafrios 
+- Inchaço doloroso, ombro direito
+- Faringite
+
+Sem histórico cardíaco significativo. Nega tratamento dentário recente, cirurgia, abuso de drogas.
+
+Exame físico:
+- Sopro cardíaco sistólico 2/6, mesocárdio
+- Faringe normal
+- Acne mínima
+
+Exames:
+- Leucócitos: 13x10^3/\u00b5L
+- Neutrófilos: 9.7x10^3/\u00b5L
+- LDH: 266 mU/mL
+- PCR: 18 mg/dL
+- Urina: Infecção negativa
+- ECG: Taquicardia sinusal
+- Raio-x do tórax: Normal
+- Aspirado de medula óssea: Malignidades hematológicas negativas
+- Culturas de sangue: Positivo para Streptococcus pyogenes
+
+Imagem:
+- Ecocardiograma transesofágico: Regurgitação mitral moderada, vegetações na cúspide mitral posterior
+
+Diagnóstico: 
+- Endocardite infecciosa - Streptococcus pyogenes
+- Envolvimento da válvula mitral
+
+Plano:
+- Antibióticos empíricos: Amoxicilina/clavulanato + vancomicina
+- Ajustado para ceftriaxona (2g, duas vezes ao dia) + ampicilina (12g/dia) após resultados de cultura
+- Monitorar função cardíaca e resposta aos antibióticos
+- Admissão na Moreno Ltd para gerenciamento contínuo
+- Educação do paciente sobre infecção e tratamento
+- Acompanhamento regular para monitorar resposta ao tratamento e função cardíaca
+
+Dr. Arthur German
+Pesquisador de Telecomunicações"
+

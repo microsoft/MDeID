@@ -1,0 +1,46 @@
+"Nota Narrativa de Enfermería para un Paciente Pediátrico con una Hernia de Bochdalek
+
+Subjetivo:
+
+El paciente, de 88 años, se presentó con un historial de dificultad respiratoria y arcadas que duraron un número no revelado de días. La cuidadora principal, Cecilia Gámez, informó que el niño tenía dificultades para respirar y parecía visiblemente angustiado. 
+
+Objetivo: 
+
+La imagen inicial utilizando un 10-gBggCZw, reveló un neumotórax a tensión del lado izquierdo con desplazamiento mediastinal. Surgió la sospecha de asas intestinales en el hemitórax inferior izquierdo. A su ingreso, el paciente mostró disnea severa, temperatura elevada y taquicardia. Se realizó una intubación endotraqueal inmediata. Otras imágenes utilizando una tomografía computarizada torácica confirmaron un enterothorax del lado izquierdo con desplazamiento mediastinal. Se insertó un tubo de tórax del lado izquierdo, drenando inicialmente un líquido considerado como sangre vieja. La laparoscopia diagnóstica identificó una hernia de Bochdalek del lado izquierdo con herniación del intestino delgado, bazo y estómago en el pecho y líquido teñido de bilis en el tórax y abdomen. Se descubrió y trató una perforación gástrica en la curvatura menor mediante la conversión a laparotomía, donde se cerró la perforación y se reparó la hernia diafragmática. Postoperatoriamente, se drenó un absceso retrovesical 30 días después de la cirugía.
+
+Evaluación: 
+
+El diagnóstico principal es una hernia de Bochdalek del lado izquierdo con complicaciones que incluyen perforación gástrica y posterior absceso retrovesical. El diagnóstico diferencial inicialmente incluyó ruptura diafragmática. El pronóstico es favorable con el paciente actualmente asintomático después de un seguimiento del 24/3/14.
+
+Plan: 
+
+El paciente se sometió a una reparación quirúrgica de la perforación gástrica y la hernia diafragmática, seguida de monitoreo y tratamiento postoperatorio de un absceso retrovesical. La recuperación incluyó el manejo de la gastroparesia y una estancia hospitalaria prolongada de 4 a 5 semanas. El paciente continuará siendo monitoreado regularmente para evaluar cualquier complicación a largo plazo o recurrencia. Se proporcionó educación a los padres sobre los signos de posibles complicaciones y la importancia de las visitas regulares de seguimiento.
+
+Información del Paciente:
+- Nombre: Cecilia Gámez
+- Edad: 88
+- Número de Registro Médico: 723 056WVS
+- Número de ID: 375 xPDVQc
+- Dirección: Cecilia Gámez, Eje vial Estonia 001 Interior 132 3, Demembration, D0ESW0BF Iniesta, 67, Mexico
+- Número de Contacto: 6367135736
+- Correo Electrónico: izí@who.int
+- Plan de Salud: RsUtOOBsfupE
+
+Información de Contacto de la Enfermera:
+- Nombre: Lucía Ortiz
+- Número de Licencia: 00-LLaWYug
+- Organización: Jones-Garcia
+- Número de Contacto: 6367135736
+- Correo Electrónico: izí@who.int
+
+Contacto de Emergencia:
+- Nombre: Cecilia Gámez
+- Relación: Cecilia Gámez
+- Número de Contacto: 6367135736
+- Correo Electrónico: izí@who.int
+
+Pie de Página: 
+- ID del Documento: 375 xPDVQc
+- Fecha: 24/3/14
+- Dirección IP: 223.62.223.217"
+

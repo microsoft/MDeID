@@ -1,0 +1,33 @@
+"----Doctor Scratch Note----
+
+cathedral parish
+Lucas Lévesque, Estate manager/land agent
+707-625-4261
+001-340-911-0378x20140
+cLévesqu@yahoo.com
+
+Patient: Roger Hunter
+ID: QzZ-vUBGoM
+90-years-old
+
+--Summary--
+Post-vehicle accident, craniocerebral injury, tracheostomy. Rheumatoid arthritis history, 3 years. Migraines, managed with methotrexate 2.5 mg TID, topiramate 200 mg BID.
+
+--Observations--
+Thyroid gland - impalpable, painless.
+Lab results: Positive rheumatoid factor, normal antithyroglobulin, thyroid peroxidase antibodies (16 U/ml, 16.7 U/ml).
+Ultrasound-guided biopsy: Nodules, lower pole, left thyroid lobe, possible malignancy.
+Thyroid function tests: TSH 0.89 \u03bcIU/ml, T3 1.30 ng/mL, T4 7.2 \u03bcg/dl.
+Post-thyroidectomy: Necrotizing lesions, rheumatoid nodules.
+
+--Assessment--
+Primary diagnosis: Hypothyroidism, secondary to rheumatoid arthritis, thyroid involvement.
+Differential diagnosis: Thyroid malignancy - unconfirmed.
+Rheumatoid nodules, thyroid gland - complication.
+
+--Plan--
+Initiate thyroxine treatment. Regular thyroid function monitoring. Total thyroidectomy for malignancy evaluation. Post-surgery, continue rheumatoid arthritis management, medication adjustments for systemic inflammation control, autoimmune complications prevention. Patient education on medication adherence, regular thyroid function tests, rheumatologic assessment importance.
+
+--End Note--
+Lucas Lévesque, xAv-UGozEA"
+

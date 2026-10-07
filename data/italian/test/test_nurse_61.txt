@@ -1,0 +1,40 @@
+"Nota Narrativa dell'Infermiera
+
+S: Il paziente Werner Roth riferisce di essere stato diagnosticato con masse epatiche ed è presente per la consultazione di trapianto. Il paziente non è sicuro dei sintomi specifici ma menziona una biopsia che conferma la diagnosi.
+
+O: L'imaging preoperatorio rivela un fegato ingrandito con malattia multifocale in tutto il parenchima epatico, miglioramento periferico con ipoattenazione centrale in fase arteriosa, e isodensità in immagini di fase ritardata. Si notano calcificazioni in alcune masse. Nessun cambiamento significativo nella dimensione della massa oltre il 05/08/89. L'esame patologico mostra multipli noduli marrone chiaro (0,5 a 3,0 cm) in lobi bilaterali, con due pattern istologici: canali vascolari ben formati e cordoni sparsi di cellule tumorali in una matrice sclerotica, e aree con cicatrici ialinizzate centrali e cellule neoplastiche. I risultati immunochimici mostrano una forte espressione di CD31 e ERG, TFE3 positivo, e CAMTA1 negativo nelle cellule tumorali.
+
+A: Il paziente ha masse epatiche multifocali con caratteristiche suggestive di un neoplasma vascolare, possibilmente una variante di emangioma epatico o angiosarcoma, data la natura vascolare e la colorazione immunochimica. La dimensione stabile delle masse e i dettagliati risultati istologici e immunochimici supportano un approccio controllato ma cauto, con il trapianto di fegato come trattamento indicato.
+
+P: Procedere con il trapianto di fegato come previsto. Dopo il trapianto, monitorare attentamente il paziente per segni di rigetto e gestire attentamente l'immunosoppressione. Saranno necessari appuntamenti di controllo regolari per valutare la funzione del fegato e rilevare qualsiasi recidiva della malattia. Educare il paziente sui segni di complicazioni legate al trapianto e assicurarsi che capisca la necessità di un follow-up e di cure per tutta la vita.
+
+Informazioni sul Paziente:
+ID Paziente: 88762-dGXu
+Numero di Cartella Clinica: 4331-7827X
+Numero di Conto: 88762-dGXu
+Località: teatro
+Ospedale: States Commerce
+Piano Sanitario: 0qFPKD9b
+
+Informazioni di Contatto:
+Dottore: Silvia Cattaneo
+Email: nei@outlook.com
+Telefono: 806-704-6722x3860
+Fax: 847-472-6169
+
+Informazioni Aggiuntive:
+Città: Fumone
+Stato: Lazio
+Professione: Scienziato, clinico (istocompatibilità e immunogenetica)
+Organizzazione: Powell, Jackson and Hudson
+Età: 62
+Nome utente: Lc0BLp6e
+Veicolo: 0-6998F
+Sicurezza Sociale: ENYTTB08F77M651Q
+Licenza: 109-yRQCmA
+BioID: 160-22umUW
+Indirizzo IP: 140.205.155.57
+URL: watson.smith.com
+
+Infermiera Silvia Cattaneo"
+

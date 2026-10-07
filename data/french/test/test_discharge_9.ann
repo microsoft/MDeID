@@ -1,0 +1,16 @@
+T1	PATIENT 34 50	Kyllian Pasquier
+T2	DATE 75 97	samedi 14 juillet 1990
+T3	DATE 120 141	lundi 23 juillet 2018
+T4	DOCTOR 166 179	Anaïs Gilbert
+T5	PATIENT 237 253	Kyllian Pasquier
+T6	PATIENT 515 531	Kyllian Pasquier
+T7	PATIENT 897 913	Kyllian Pasquier
+T8	PATIENT 1182 1198	Kyllian Pasquier
+T9	PATIENT 1463 1479	Kyllian Pasquier
+T10	PATIENT 1801 1817	Kyllian Pasquier
+T11	DOCTOR 1863 1876	Anaïs Gilbert
+T12	MEDICALRECORD 2002 2012	5609-uUYtC
+T13	PATIENT 2050 2066	Kyllian Pasquier
+T14	DOCTOR 2305 2318	Anaïs Gilbert
+T15	DATE 2322 2343	lundi 23 juillet 2018
+T16	PATIENT 2421 2437	Kyllian Pasquier

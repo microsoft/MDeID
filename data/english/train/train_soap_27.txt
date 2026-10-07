@@ -1,0 +1,35 @@
+"S: Patient Xavier Reynolds, a 35 individual, was referred for gait impairment and microcephalus. The parent reports a recent episode of disconnection from the environment, a history of isolated febrile convulsions, sleep disorders, and developmental delays primarily in motor skills. The child also exhibits behavior problems similar to ADHD, which have slightly improved with psycho-pedagogic intervention and methylphenidate treatment, though sleep issues have worsened.
+
+O: Physical examination previously confirmed microcephalus. An EEG performed during a disconnection episode was normal. An MRI showed a normally structured encephalon. Genetic testing revealed a HvY joPsbG base deletion in the C7 marker (bases 2475-2657), with no alterations found in genes LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8, and PAX2.
+
+A: The primary diagnosis is microcephalus with associated developmental and behavioral issues, including symptoms resembling ADHD. The genetic deletion may contribute to her clinical presentation, although key neurodevelopmental genes tested were normal. Differential diagnoses could include other genetic or metabolic disorders not yet identified. The prognosis is cautious, requiring ongoing monitoring and symptom management.
+
+P: Continue psycho-pedagogic interventions and methylphenidate for ADHD-like symptoms. Plan a follow-up EEG to investigate worsening sleep issues. Maintain regular developmental assessments and adjust treatments as necessary. Educate the parents about the importance of monitoring the patient's condition and adhering to treatment plans. Schedule a follow-up appointment in three Jun-7-96 or sooner if symptoms worsen.
+
+Additional Notes:
+- Patient's home Xavier Reynolds, 101 Unreposefully, Silliness, 19 9920, United States.
+- The referring doctor is Katherine Rodriguez.
+- The patient's account number is Ar-0167tDM.
+- The patient's device used for monitoring is 143784-25s.
+- The patient's username for accessing health records online is whgdwpIk.
+- The patient's vehicle used for transportation is 90E 8296.
+- The patient's social security number is 906-670-917.
+- The patient's driver's license number is dC-PQBqjxp.
+- The patient's biometric identifier is 434449 SHM.
+- The patient's personal identifier is Ar-0167tDM.
+- The patient's IP address used for accessing health records online is 85.147.169.42.
+- The patient's location where the symptoms appeared is library.
+- The patient's health insurance plan is Lakdyjft.
+- The patient's profession is Community education officer.
+- The patient's place of work is Wiggins-Scott.
+- The patient's email for communication is ini@gmail.com.
+- The patient's phone number for communication is (293)338-1397x906.
+- The patient's medical records can be accessed online at  www.johnson-ferguson.info/categoryhome.jsp.
+- The patient's fax number for communication is +1-604-923-8047x374.
+- The patient's city of residence is Silliness.
+- The patient's country of residence is Canada.
+- The patient's state of residence is 147.
+- The patient's street of residence is 7212 Danielle Union.
+- The patient's zip code is 9920.
+- The hospital where the patient is being treated is Solway Junction Railway."
+

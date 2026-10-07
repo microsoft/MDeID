@@ -1,0 +1,37 @@
+**Sommario delle Dimissioni**
+
+**Paziente**: Paul Huber
+
+**ID**: 89094-917D
+
+**Medico Ammettente**: Marco Pellegrin
+
+**Corso Ospedaliero**: Il paziente è stato ricoverato a causa di un notevole aumento degli episodi di dolore toracico, angina pectoris, palpitazioni e presincope, tutti indicativi di un grave caso di iperlipidemia. La condizione è stata gestita efficacemente attraverso farmaci e consigli sulla modifica dello stile di vita.
+
+**Procedure**: Il paziente ha subito un esame completo del profilo lipidico insieme a un ECG per valutare la condizione del cuore. Entrambe le procedure sono state eseguite senza complicazioni.
+
+**Trattamento e Servizi Forniti**: Al paziente è stata prescritta una rigorosa dieta a basso contenuto di grassi insieme a farmaci per abbassare il colesterolo. È stato anche incoraggiato l'esercizio quotidiano. È stata fornita una serie di servizi, tra cui consulenza cardiologica, consulenza nutrizionale e servizi farmaceutici.
+
+**Condizione al Momento delle Dimissioni**: Al momento delle dimissioni, la condizione del paziente era notevolmente migliorata. Il dolore toracico e le palpitazioni erano diminuiti e i livelli di lipidi stavano tornando al normale.
+
+**Diagnosi di Dimissione**: Il paziente è stato diagnosticato con iperlipidemia. Per gestire la condizione, è stato sviluppato e spiegato al paziente un piano di trattamento appropriato.
+
+**Informazioni Fornite al Paziente e alla Famiglia**: Informazioni dettagliate sull'iperlipidemia, le sue implicazioni e l'importanza delle modifiche dello stile di vita sono state spiegate accuratamente al paziente e alla famiglia.
+
+**Cura di Follow-up**: Al paziente è stato consigliato di tornare dopo due settimane per un controllo con il Dr. Marco Pellegrin. Il paziente dovrebbe mantenere una dieta a basso contenuto di grassi, esercizio regolare e aderire rigorosamente alla routine di farmaci prescritti. Il paziente dovrebbe segnalare immediatamente all'ospedale se sintomi come dolore toracico o palpitazioni si ripresentano.
+
+**Allergie**: Il paziente non ha allergie note. Qualsiasi nuovo farmaco dovrebbe essere assunto solo sotto supervisione medica.
+
+**Farmaci di Dimissione**: Al paziente sono stati prescritti i seguenti farmaci per l'iperlipidemia -
+1. Statine - per abbassare i livelli di colesterolo.
+2. Integratori di acidi grassi Omega-3 - per aumentare i livelli di colesterolo 'buono'.
+
+Questo sommario delle dimissioni è destinato alla continuazione delle cure.
+
+**Ospedale**: Dharnendrasinhji
+
+**Data di Dimissione**: 06/10/06
+
+**Firma**: Marco Pellegrin
+
+>Nota: Questo documento non contiene Informazioni Personali sulla Salute (PHI).

@@ -1,0 +1,39 @@
+"Nota do Dr. Scratch
+
+Sara Gomes - 22
+Kaio Alves - Pediatra
+
+Sintomas:
+- Atrasos no desenvolvimento e na fala (leves a moderados)
+- Diagnóstico de TDAH
+- Sem hipotonia
+
+Observações Físicas:
+- Retrognatia
+- Hipertelorismo leve
+- Filtro alongado
+- Lábio superior fino
+- Mãos largas e curtas
+- Sindactilia leve (2º, 3º dedos em ambos os pés)
+- Espaço entre os dedos dos pés (ambos os pés)
+
+Investigações:
+- Ressonância magnética (cérebro): Normal 45243 YHJB
+- WES: variante de frameshift de novo Chr1(GRCh37):g.244217335del, NM_205768.2(ZBTB18):c.259del(p.(Leu87Cysfs*21)) 412-vgipvo
+
+Diagnóstico:
+- Distúrbio genético (variante ZBTB18) - contribuindo para atrasos no desenvolvimento/fala, TDAH
+- Síndrome suspeita (requer mais correlação)
+
+Plano:
+- Terapeuta de fala e linguagem: Sessões regulares Odonnell-Dodson
+- Terapeuta ocupacional: Sessões regulares Odonnell-Dodson
+- Psicólogo: Sessões regulares Odonnell-Dodson
+- Consultas médicas: Regulares Željezničar
+- Aconselhamento genético: Família Cientista de pesquisa (ciências da vida)
+
+Nota: A mãe de Sara Gomes relatou os sintomas. Não há evidências de problemas de tônus muscular. Os achados genéticos sugerem uma síndrome específica, necessidade de mais correlação com os achados clínicos e aconselhamento genético. 
+
+Assinatura do Kaio Alves: _____________________
+Data: sábado, 17 de março de 2012"
+

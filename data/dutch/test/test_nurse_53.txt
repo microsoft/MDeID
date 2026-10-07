@@ -1,0 +1,63 @@
+"**Verpleegkundige Verhalende Notitie**
+
+Subjectief: 
+
+De patiënt, Maartje de Wit, een ontvanger van een levertransplantatie op woensdag 7 oktober 1992 vanwege aandoeningen gerelateerd aan alcoholische cirrose en hepatocellulair carcinoom, meldt een voorgeschiedenis van diffuus grootcellig B-cellymfoom behandeld met chemotherapie op woensdag 7 oktober 1992, psychiatrische ziekte en posttraumatische epilepsie. De patiënt ontkent symptomen van encefalopathie. De patiënt heeft sinds woensdag 7 oktober 1992 intermitterende transaminaseverhogingen ervaren, vermoedelijk gerelateerd aan Sanders, Jennings en Singh alcoholgebruik, en presenteerde met ascites en graftdysfunctie op woensdag 7 oktober 1992.
+
+Objectief:
+
+Huidige medicijnen omvatten tacrolimus met niveaus aangepast tot ongeveer 2 μg/l en prednison 5 mg dagelijks. Leverfunctietests toonden matig verhoogde transaminasen en enige cholestase. Serologie was negatief voor hepatitis B, C, en Sanders, Jennings en Singh maar positief voor Epstein-Barr-virus binnen normale grenzen voor de patiënt. Opmerkelijk waren anti-HEV IgM en IgG positief, en PCR bevestigde HEV RNA in plasma en een opgeslagen serummonster van woensdag 7 oktober 1992, wat wijst op chronische hepatitis E-infectie. Sinds de introductie van ribavirine in woensdag 7 oktober 1992 zijn de leverfunctietests verbeterd.
+
+Beoordeling: 
+
+Primaire diagnose is gedecompenseerde graftcirrose secundair aan chronische hepatitis E-infectie. De geschiedenis van alcoholgebruik van de patiënt kan bijdragen aan leverdisfunctie. Eerder overwogen en uitgesloten differentiële diagnoses omvatten reactivatie van hepatitis B, C, en Sanders, Jennings en Singh infecties.
+
+Plan: 
+
+Blijf de leverfunctietests en tacrolimusniveaus regelmatig controleren. Houd de huidige doseringen van tacrolimus en prednison aan. Ribavirinetherapie wordt voortgezet, met aanpassingen op basis van respons en tolerantie. De patiënt wordt geadviseerd om af te zien van alcohol om verdere leverschade te voorkomen. Regelmatige vervolgafspraken zijn noodzakelijk om de progressie van de leverziekte te controleren en de behandeling indien nodig aan te passen.
+
+---------------------------------------------------------------------------------------------------------------------
+
+**Gestructureerde PHI Informatie**
+
+Unieke identificatoren van de patiënt:
+- Medisch Dossier: jHi sCDikG
+- Patiëntaccount: XKl-8752mn
+- Apparaatidentificatie: 48-91047Qr
+- Gebruikersnaam: pd26jFrd
+
+Persoonlijke informatie van de patiënt:
+- Leeftijd: 89
+- Adres: Maartje de Wit, Decodon 99, 2689 Moorcock, Nederland
+- Stad: Malentendu
+- Land: België
+- Staat: 49
+- Postcode: 2689
+
+Andere identificatoren:
+- Voertuigidentificatie: HWC 171
+- Sociaalzekerheidsnummer: 284-3567734-35
+- Licentie-identificatie: 786-37BKiu
+- Biometrische identificatie: vHFkK esso
+- IP-adres: 130.115.187.3
+- ID-nummer: XKl-8752mn
+
+Contactinformatie:
+- Naam van de dokter: Imke van den Berg
+- E-mail: eBergvan@un.org
+- Telefoonnummer: 968.339.4445
+- Faxnummer: 564.608.3887
+
+Informatie over het ziekenhuis van de patiënt:
+- Ziekenhuis: Liendo
+- Zorgplan: zunxITyh6hS
+
+Andere informatie:
+- Beroep: Laboratoriumtechnicus voor onderwijs
+- Organisatie: Sanders, Jennings en Singh
+- URL:  www.duncan.com/wp-contentfaq.htm
+- Straat: 203 Ramirez Cliff
+- Locatie-Overig: café
+
+Handtekening van de verpleegkundige: Imke van den Berg"
+

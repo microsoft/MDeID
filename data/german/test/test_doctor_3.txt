@@ -1,0 +1,47 @@
+"Dr. Alexis Carlier Kratznotiz
+
+Samuel Dubois - 13 Japanischer Junge, postösophagektomie mit Magenrekonstruktion wegen Speiseröhrenkrebs. Familiengeschichte von Speiseröhrenkrebs beim älteren Bruder. Täglicher Konsum von japanischem Alkohol. 
+
+Vitalwerte:
+- Temp: 36.9 \u00b0C
+- HR: 96 bpm
+- BP: 148/68 mmHg
+
+Berichtete Symptome:
+- Fieber
+- Erhöhter Auswurf
+- Hypoxämie
+- Atembeschwerden
+- Knisternde Geräusche in der Brust
+
+ICU Tag 5:
+- Fieber von 38.0 \u00b0C
+- Sauerstoffsättigung 90% bei 10 L/min Maskensauerstoff
+- Beidseitige pulmonale grobe Knistern
+- Röntgenaufnahme der Brust: Diffuse bilaterale pulmonale Infiltrate, überwiegend rechte Lunge, Pleuraerguss
+
+Labor nach Intubation:
+- WBC: 5.7 \u00d7 10^9/L
+- RBC: 2.25 \u00d7 10^12/L
+- Hämoglobin: 7.3 g/dL
+- Hämatokrit: 21.4%
+- Thrombozyten: 145 \u00d7 10^9/L
+- AST: 54 U/L
+- ALT: 55 U/L
+- Gesamtbilirubin: 4.11 mg/dL
+- Albumin: 2.2 g/dL
+- Harnstoff-Stickstoff: 38 mg/dL
+- Kreatinin: 0.83 mg/dL
+- CRP: 18.7 mg/dL
+- Urin-Kreatinin: 95 mg/dL
+
+Sputumkultur: Positiv für Streptococcus pneumoniae
+
+Bewertung: Postoperative Lungenentzündung, Pleuraerguss, Atemversagen - erforderliche Intubation und mechanische Beatmung. Mögliche andere Infektionen oder pulmonale Komplikationen.
+
+Plan: Wechsel von Cefmetazol zu Meropenem, fortgesetzte Überwachung auf der Intensivstation, unterstützende Pflege, Behandlungsanpassung nach Bedarf. Patient wurde aufgefordert, neue Symptome/Bedenken zu melden. Tracheostomie am ICU-Tag 38, aktueller Zustand der mechanischen Beatmung: stabil (PaO2/FIO2 > 300 mmHg).
+
+Dr. Alexis Carlier
+18-8925gQO
+23.07.17"
+

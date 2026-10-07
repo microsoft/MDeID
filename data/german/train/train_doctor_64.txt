@@ -1,0 +1,34 @@
+"Arzt Notizen
+
+- Luise Dietrich berichtet über starke Schmerzen, Unbeweglichkeit im vierten Finger der linken Hand. Ursache - Pferdebiss.
+- Vitalwerte: Temp: 98,6F, BP: 120/80, Atemfrequenz: 20/min
+- Sowohl Luise Dietrich als auch das Pferd haben aktualisierte VWNc1.
+
+Beobachtungen:
+
+- Bei Ankunft in der Notaufnahme des Laurel Valley bewusst, guter Allgemeinzustand, apyretisch.
+- Exponierte Sehnen, Knochen am vierten Finger zeigen Quetschverletzung.
+- Erstbehandlung: 2 Liter normale Kochsalzlösung, 0,5 ml Tetanustoxoid, postexpositionelle Tollwutprophylaxe, 500 IE humanes Tetanusimmunglobulin.
+- Röntgenaufnahme zeigt Frakturdislokation proximales Interphalangealgelenk mit drittem Fragment.
+- Chirurgische Exploration: Durchtrennter, thrombosierter ulnarer digitaler Gefäßstiel, intakter radialer digitaler Gefäßstiel, schwere Schäden an Flexor, Extensorsehnen.
+- Operation: Exzisionale Débridement, Entfernung von Fremdkörpern, Sehnenstripping, Fingeramputation, radiale digitale Lappenbedeckung.
+- Lien Lauwers führte die Operation durch, mit rpYP-84766.
+
+Bewertung:
+
+- Primärdiagnose: Schwere Quetschverletzung des vierten Fingers, linke Hand. Frakturdislokation proximales Interphalangealgelenk. Umfangreiche Sehnen-, Gefäßschäden.
+- Differentialdiagnose: Weniger schwere Weichteilverletzungen, keine Knochenbeteiligung.
+- Prognose: Ungewiss, aufgrund der schweren Verletzung, Notwendigkeit der Amputation.
+  
+Plan:
+
+- Sofortige chirurgische Intervention, postoperative Versorgung.
+- Antibiotika: Amoxicillin-Clavulansäure, Gentamicin, Metronidazol.
+- Schmerzmanagement: 1999 TZSlI.
+- Laufende Versorgung: Überwachung klinischer, biologischer Parameter auf Anzeichen von Infektionen, Komplikationen.
+- Nachsorge: Wundversorgung, funktionelle Erholungsrehabilitation, psychologische Unterstützung bei Verlust des Fingers.
+- Weitere Konsultationen: Handspezialist, Physiotherapeut. Geplant für 14.11.1985.
+  
+Lien Lauwers, sFVIj-9650
+"
+

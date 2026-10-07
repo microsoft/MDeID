@@ -1,0 +1,44 @@
+# Résumé de Sortie
+
+## En-tête
+**Disposition de Sortie :** Retour à domicile avec services
+
+## Section Plainte Principale
+**Plainte Principale :** Douleur abdominale
+
+## Section Diagnostic à l'Admission
+**Raison de l'Hospitalisation :** La patiente, Fiona Jacobs, s'est présentée avec une gêne abdominale avec des symptômes de constipation et de fécalurie. Le diagnostic initial était la diverticulose.
+
+## Section Histoire de la Maladie Actuelle
+Fiona Jacobs avait des problèmes de constipation et des épisodes occasionnels de fécalurie, qui semblaient indiquer la formation d'un abcès.
+
+## Section Cours de l'Hôpital
+Au cours de son séjour à Le Crotoy, elle a subi plusieurs procédures et a reçu les soins et traitements nécessaires. L'état de Fiona Jacobs s'est amélioré progressivement au cours du séjour à l'hôpital.
+
+## Section Procédures
+La procédure effectuée était une coloscopie, qui a confirmé le diagnostic de diverticulose.
+
+## Section Diagnostic à la Sortie
+Le diagnostic final, à la sortie, était la diverticulose. L'état général et la disposition de Fiona Jacobs à la sortie étaient stables, avec une réduction significative de la gêne abdominale et aucune récidive de fécalurie.
+
+## Section Plan de Traitement
+Le professionnel de santé, Taylor Bergeron, a conseillé une combinaison d'un régime riche en fibres et de médicaments pour gérer la diverticulose. Elle a également recommandé de boire beaucoup de liquides et de faire de l'exercice régulièrement.
+
+## Informations fournies au patient et à la famille
+Taylor Bergeron a instruit Fiona Jacobs de continuer le médicament prescrit et le régime alimentaire. Elle a été conseillée de chercher une attention médicale immédiate si des symptômes tels que des douleurs abdominales sévères, de la fièvre ou des saignements rectaux se produisent.
+
+## Dispositions pour les soins de suivi
+Fiona Jacobs aura des consultations de suivi régulières avec Taylor Bergeron à Le Crotoy toutes les deux semaines pour surveiller l'état et les progrès. La prochaine date de rendez-vous sera fournie via l'roayl@zoho.com enregistré du patient.
+
+## Sections Supplémentaires
+
+### Section Signes Vitaux
+- Pression Artérielle : 120/80 mmHg
+- Fréquence Cardiaque : 78 bpm
+- Fréquence Respiratoire : 18 respirations/min
+- Température Corporelle : 98.6 F
+
+### Section Nutrition
+Le nutritionniste a recommandé un régime riche en fibres pour aider à prévenir les complications ou la récidive de la diverticulose. Les aliments recommandés comprenaient les céréales complètes, les fruits, les légumes et les légumineuses.
+
+**Veuillez Noter : Il s'agit d'un Document Synthétique. Les Informations Personnelles de Santé ont été supprimées pour préserver la confidentialité.**

@@ -1,0 +1,45 @@
+"**Notas de la Enfermera**
+
+**Subjetivo:**
+La paciente Rocío Soriano, una mujer de 79 años, se presentó con quejas de dolor abdominal superior, artralgia, mialgia, hiporexia, malestar, fiebre intermitente y ictericia progresiva. Tiene antecedentes de insuficiencia cardíaca crónica, bloqueo de rama derecha, fibrilación auricular no valvular, hipertensión y enfermedad venosa crónica. Rocío Soriano es de restaurante, un área conocida por el dengue, chikungunya y Zika.
+
+**Objetivo:**
+Al examinarla, se encontró que la paciente experimentaba taquicardia, taquipnea e ictericia mucocutánea. Se notaron pulsaciones venosas del cuello con reflujo abdominojugular. Se encontró que el sonido cardíaco S1 estaba aumentado con un ritmo irregular junto con un soplo sistólico en ambos bordes esternales superiores. Los sonidos respiratorios estaban disminuidos en ambas bases pulmonares. Se notó un hígado palpable no doloroso 3 cm por debajo del borde costal en la línea media clavicular. Los resultados de laboratorio indicaron leucopenia y trombocitopenia. La evaluación electrocardiográfica confirmó la fibrilación auricular con respuesta ventricular rápida y bloqueo de rama derecha. La radiografía de tórax mostró cardiomegalia y derrame pleural bilateral. Después del ingreso a la UCI, la paciente experimentó hipoglucemia y empeoramiento de la función renal, y requirió soporte ventilatorio y vasopresor. Las muestras de sangre dieron positivo para anticuerpos IgM contra el dengue.
+
+**Evaluación:**
+El diagnóstico principal es dengue grave con compromiso hepático. La condición de la paciente se complica aún más por la insuficiencia cardíaca crónica, la fibrilación auricular y la insuficiencia renal aguda sobre crónica. El diagnóstico diferencial incluye otras infecciones por arbovirus como chikungunya y Zika, dado que reside en un área endémica. El pronóstico de la paciente es pobre, como lo demuestra la rápida deterioración y la eventual muerte debido a la actividad eléctrica sin pulso.
+
+**Plan:**
+La paciente fue manejada en la UCI con tratamiento de soporte, incluyendo terapia antibiótica con cefazolina, soporte ventilatorio y vasopresor. Se implementó el monitoreo continuo de las funciones cardíacas y renales. A pesar del manejo agresivo, la condición de la paciente se deterioró, lo que llevó a su muerte. Se proporcionó asesoramiento familiar post-mortem, explicando los esfuerzos médicos y la sensibilidad y especificidad de las pruebas diagnósticas utilizadas.
+
+**Información relevante:**
+- Nombre de usuario del paciente: Rocoriano
+- ID del dispositivo electrónico: 97431-HNoA
+- Número de seguridad social: CFDU381871DCVQNF56
+- Hash de BioID: 2397 234ZA
+- Dirección IP: 48.99.235.19
+- Número de ID: iW 888fkRh
+- Dirección: Rocío Soriano, Andador Zacatecas 119 Edif. 585, Depto. 820, 198, 3359 Toluca de Lerdo, España
+- Admitido en: Bedford Magistrates Court
+- Plan de salud: sn1LUAb
+- Profesión: Profesora de inglés como segunda lengua
+- Organización: Green-Mann
+- Fecha: 17/10/09
+- Doctor: Hernán Villegas
+- Correo electrónico: nána@who.int
+- Teléfono: 001-985-891-4657
+- URL:  www.jackson-hayes.org/app/postscategory.jsp
+- Fax: (836)916-8445x3962
+
+**Pie de página:**
+Identificador del vehículo: F04-85H
+ID de licencia: jufaKl-823
+Ciudad: Toluca de Lerdo
+País: Perú
+Estado: 95
+Calle: 184 Chapman Mews Suite 150
+Código postal: 3359
+
+[Fin del Documento]
+"
+

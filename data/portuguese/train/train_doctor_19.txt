@@ -1,0 +1,39 @@
+"Nota Rápida do Médico:
+
+Notas da Giovanna Schmidt, 
+Paciente: Victor Cavalcanti, 88
+ID: 47 odNjizz
+
+Sinais vitais:
+PA: 128/84 mmHg
+FC: 78 bpm
+Temp: 36.6 C
+FR: 16 respirações/min
+O2 Sat: 98%
+
+Queixa principal: Dor abdominal no QIE. Sem histórico médico prévio de câncer GI ou ovariano. Histórico familiar - Irmão: Câncer de pulmão, Avó paterna: Câncer de mama bilateral sincrônico, Avô: Câncer de próstata.
+
+Exame:
+Abd: QIE sensível, sem defesa/rigidez.
+Massa retossigmoide palpável, obstruída.
+
+Testes:
+TC: Massa retossigmoide obstruída. Sem metástases distantes observadas.
+Colonoscopia: Massa R-sigmoide, 4.5x6.5 cm, 18 cm da margem anal.
+
+Patologia:
+Biopsia: Adenocarcinoma moderadamente diferenciado. 
+Cirurgia: Adenocarcinoma invasivo, invasão linfática e perineural. 6/28 linfonodos positivos.
+
+Teste Genético:
+Mutação em BRIP1, TP53. Tela de síndrome de Lynch normal. Sem alterações em KRAS, NRAS, BRAF.
+
+Impressão:
+Adenocarcinoma retossigmoide moderadamente diferenciado, estágio III (envolvimento de linfonodos). Alto risco - invasão linfática, perineural. Análise genética - predisposição hereditária potencial.
+
+Gerenciamento:
+Seguimentos pós-operatórios para monitoramento de recorrência/complicações. Teste germinativo para mutação BRIP1 planejado. Educação do paciente sobre sintomas de recorrência, modificações no estilo de vida para a saúde geral. Seguimento regular em oncologia.
+
+Giovanna Schmidt, 
+Durham, Meyer e Mitchell"
+

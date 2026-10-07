@@ -1,0 +1,34 @@
+"Nota del Doctor Scratch
+
+Paciente: Marco Villa, ID: vMH-nTtdFX, Edad: 15
+
+S:
+Las quejas incluyen fiebre de 4 días, úlceras dolorosas, hinchazón del cuero cabelludo. Apetito reducido debido a los síntomas. 
+
+O:
+Puntuación GCS: 15, Conciencia: Presente
+Ulceraciones: Presente, Pus: Presente, Fístula: Presente, Descamación del cuero cabelludo: Sí, Hinchazón facial: Sí
+Resultado de laboratorio: Neutropenia (WBC: 2.39 \u00d7 10^9/l, Neutrófilos: 0.25 \u00d7 10^9/l, Linfocitos: 2.1 \u00d7 10^9/l)
+Marcadores inflamatorios: Elevados (ESR: 101 mm/hora, CRP: 272 mg/dl)
+Cultivo de Pus: Positivo (Enterococcus faecalis, Escherichia coli)
+Cultivo de Sangre: Negativo, Cultivo de Orina: Negativo
+CXR: Normal, Análisis de orina: Normal, Análisis de LCR: Normal
+Inmunoglobulinas: Normal, % de células T: Normal
+Médula ósea: Arresto de maduración de promielocitos/mielocitos, Sin malignidad
+CT Cabeza: Enfisema subcutáneo, Cuero cabelludo: Positivo, Lesión cerebral: No, Fracturas de cráneo: No
+
+A:
+Dx primario: Fascitis necrotizante del cuero cabelludo, Septicemia
+Otras etiologías infecciosas: Descartadas
+
+P:
+Tratamiento: Pentaglobin (0.5 g/kg), Antibióticos (Vancomicina, Meropenem, Metronidazol)
+Terapia G-CSF: Sí (5 a 15 \u00b5g/kg/día)
+Alta: Después de 46 días
+Seguimiento: Monitoreo regular del recuento de neutrófilos y estado general de salud
+
+Atendido por: Juan Pablo Díaz, Licencia: duugJ BcXq, Hospital: Peterborough Cambridgeshire
+
+Contacto vía: Teléfono 703-524-1704x36133, Correo electrónico: bJz@unwomen.org
+"
+

@@ -1,0 +1,69 @@
+"Verpleegkundige Krasnotitie:
+
+PATIËNT: Sam De Cock
+-----
+Vitale functies: 
+BP - 120/80 
+HR - 110 bpm 
+Temp - 38.1\u00b0C 
+
+Observaties:
+- Ademhaling: Moeizaam 54 
+- Hoest: Aanhoudend 
+- Sputum: Geelachtig
+- Borst Röntgenfoto: RplBF NmLT
+
+Beoordeling: 
+- Toestand: Onder controle
+- Ziekte Ernst: Matig 
+- Ademhalingsgeluid: Krakend
+- Diagnose: Pneumonie
+
+Plan: 
+- Antibiotica: Gestart 
+- Zuurstof: Toegediend 
+- Vervolgevaluatie: 28 dec. 2012
+
+Contact Info:
+- Telefoon: +1-781-971-7379x2200
+- Email: kostma@red-cross.org
+- Noodcontact: Sam De Cock
+
+Adres: Sam De Cock, Bonspells 71, 8480 Demography, Netherlands
+Stad: Neutropenia 
+Postcode: 8480 
+Land: Netherlands
+
+Provider Info:
+- Dokter: Eefke Postma
+- Ziekenhuis: Pennsylvania Synod
+
+Extra Info:
+- Account Nr.: acfw 96XMf 
+- Gezondheidsplan: odtsvmT9
+- ID: acfw 96XMf
+
+Apparaat Info: 
+- Apparaat ID: 7865 90412
+- Apparaat Type: Vernevelaar 
+
+Internet Info:
+- IP Adres: 202.231.221.201
+- Gebruikersnaam: IeDG6z3j
+
+Verificatie Info:
+- BioID: 46-863wwxV
+- Licentie: 00681-SKGY
+- Sociale Zekerheid: 085333131
+
+Locatie-Overig: bank
+Beroep: Systems developer
+Organisatie: George LLC 
+
+URL: gonzalez.jefferson.com 
+Voertuig: 16U 3589
+Fax: 527.557.6970x747
+
+----
+Opmerking: Dit is een tijdelijke notitie, in afwachting van de volledige medische evaluatie om te worden voltooid."
+

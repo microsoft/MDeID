@@ -1,0 +1,59 @@
+"Pflege-Kratzdokument
+
+Patient: Josef Meier
+------------------------------------------------
+
+Vitalwerte:
+BP: 120/80
+Puls: 80 BPM
+Temp: 98,6 F
+OxySat: 98%
+
+----------------------- Stephens-Terrell -----------------------
+
+Beobachtung: 
+- Nackenbeschwerden
+- Instabilität
+- Gleichgewichtsstörungen
+- Mögliche 81 AfHeaOD
+
+---------------------------------------------------
+Vorheriger Arzt: Henry Stein
+Überweisender Arzt: Henry Stein
+Krankenhaus: Pagan
+
+---------------------------------------------------
+Behandlungsplan: 
+1. PtX omgIKD - Nutzungsbewertung
+2. Physiotherapie - laufend
+3. 4zzJrp7 - Deckungsbestätigung
+
+---------------------------------------------------
+Kontaktinformationen: 
+- E-Mail: enei@yandex.com
+- Telefon: 001-292-420-8810x745 
+- Fax: (340)992-5054x22610
+
+---------------------------------------------------
+Notizen:
+
+- Josef Meier zeigt medizinische Vorgeschichte von 81 AfHeaOD
+- PtX omgIKD - Implantat-Check-up empfohlen
+- Nachsorge am 16. Juli 1986
+- Benachrichtigen Sie Henry Stein über den Zustand des Patienten Josef Meier
+
+---------------------------------------------------
+Standort: Bank
+Zugewiesene Krankenschwester: xHyrl5eX
+
+----------------------- Stephens-Terrell -----------------------
+
+Zusätzliche Informationen:
+- ID: 65448 3219
+- SSN: 050-5094007-23
+- LIZENZ: 3229 viTSH
+- IP: 9.100.205.216
+- FAHRZEUG: 563 4CY
+
+---------------------- ENDE DER NOTIZ ----------------------"
+

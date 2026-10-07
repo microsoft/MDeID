@@ -1,0 +1,46 @@
+"Nota de Rascunho del Doctor
+
+Paciente: Patricia Medina
+Edad: 62
+Doctora: Olivia Ryan
+Hospital: Pellandina
+Ciudad: Taretan
+Estado: 8
+Teléfono: 289.841.1248x0844
+Correo electrónico: Olivy@outlook.com
+Historial Médico: POgkUz-JnT
+Cuenta: 26 uzZtLgR
+Licencia: 9498 4308R
+
+Signos Vitales y Observaciones:
+- Retención urinaria, debilidad en ambas extremidades inferiores, parestesia
+- Inicio: ~2 semanas antes
+- Erupción de Zoster, en la parte inferior derecha de la espalda, apareció ~10 días antes
+- Neurológico: Debilidad severa en las extremidades inferiores (grado MRC 0/5), reflejos abolidos (tobillo, rodilla), signo de Babinski positivo (ambos lados), disminución de la sensación al tacto (nivel T2)
+- Imagen: Resonancia magnética de la columna vertebral -> Lesión hiperintensa T2, T2-T11, realce con gadolinio en T7-T8
+- Laboratorio: WBC elevado (14100, 72% PMN), IgG VZV positivo, IgM VZV negativo
+- CSF: Pleocitosis linfocítica (94 células/uL), IgG VZV elevado (0.88), índice de IgG VZV alto (14)
+
+Evaluación:
+Diagnóstico primario sospechado: Mielitis relacionada con VZV (basado en lesiones espinales, hallazgos de CSF)
+Diagnósticos diferenciales: Otras mielitis virales (descartadas - serologías/cultivos negativos)
+
+Plan:
+- Iniciar aciclovir IV
+- Monitorear la eficacia/efectos secundarios
+- Abordar el manejo del dolor, retención urinaria (medicamentos, cateterización si es necesario)
+- Recomendar fisioterapia (prevenir atrofia, mejorar movilidad)
+- Educar al paciente (enfermedad, adherencia a la medicación)
+- Programar citas de seguimiento
+- Referencia: Neurólogo (manejo continuo), Urólogo (síntomas urinarios)
+
+Notas adicionales:
+- Se ha informado al paciente sobre las referencias a Hughes-Austin
+- No se conocen alergias
+- No se conocen cirugías previas
+- No se conoce nES6
+- Consulte santiago.bond-baker.com para más información
+- Profesión del paciente: Diseñadora gráfica
+
+Olivia Ryan"
+

@@ -1,0 +1,92 @@
+"NOTAS DE LA ENFERMERA
+
+---------------------------------------------
+IDENTIFICACIÓN RÁPIDA DEL PACIENTE: LHRwcS 595
+NOMBRE: Beatriz Rubio
+
+---------------------------------------------
+SIGNOS VITALES:
+- Temperatura: 100.4 F 
+- Pulso: 88 BPM 
+- Presión arterial: 120/80 mmHg
+- Respiración: 16 respiraciones por minuto 
+- Saturación de oxígeno: 96% 
+
+---------------------------------------------
+SÍNTOMAS:
+- Fiebre 60: Sí, alta
+- Escalofríos: Sí
+- Sudoración: Moderada
+- Fatiga: Sí
+- Malestar: Sí
+
+---------------------------------------------
+POSIBLE DIAGNÓSTICO:
+- Se sospecha de malaria, esperando confirmación del laboratorio
+
+---------------------------------------------
+SOLICITUD DE LABORATORIO: uJ7Se1ha
+- Prueba de frotis de sangre para parásitos de la malaria
+
+---------------------------------------------
+PLAN DE TRATAMIENTO:
+- Tratamiento inicial iniciado: Medicamentos antipalúdicos 
+- Se administraron líquidos IV para la deshidratación
+
+---------------------------------------------
+NOTAS ADICIONALES:
+- Viajó a una zona endémica de malaria escuela dos semanas antes del inicio de los síntomas
+
+---------------------------------------------
+INFORMACIÓN DE CONTACTO:
+- Contacto telefónico: (654)344-9446x14341
+- Contacto por correo electrónico: earí@outlook.com
+
+---------------------------------------------
+CONTACTO DE EMERGENCIA:
+- Nombre: Beatriz Rubio
+- Contacto: (654)344-9446x14341
+
+---------------------------------------------
+MÉDICO DE GUARDIA: María Josefa Calvo
+
+---------------------------------------------
+INSTALACIÓN DE TRATAMIENTO: Montreal Parc
+Dirección IP para chequeo remoto: 88.153.152.246
+
+---------------------------------------------
+SEGURO DE SALUD: cQ7Szdi
+Número de cuenta: 63358-5260
+
+---------------------------------------------
+ORGANIZACIÓN: Bowman Group
+Profesión: Administradora de educación
+
+---------------------------------------------
+Dispositivo utilizado para verificar los signos vitales: 48425-445G
+Número de licencia del dispositivo: 47031 UYhw
+
+---------------------------------------------
+Identificador único: 63358-5260
+Número de Seguridad Social: DWZE842984LKDJGZ47
+
+---------------------------------------------
+DATOS BIOMÉTRICOS: 6042-7314r
+VEHÍCULO: 3HI E96 utilizado para transportar al paciente.
+
+---------------------------------------------
+[Firma digital de la enfermera uJ7Se1ha]
+
+---------------------------------------------
+NOTAS GENERADAS EL: 28 sept 1973
+
+---------------------------------------------
+URL para acceder a los registros médicos del paciente: chandler-richards.com
+
+---------------------------------------------
+FAX: 5524052484
+CÓDIGO POSTAL: 6244
+CIUDAD: Medrano
+ESTADO: 52
+PAÍS: España"
+

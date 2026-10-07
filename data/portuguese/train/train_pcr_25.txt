@@ -1,0 +1,20 @@
+"Relatório de Atendimento ao Paciente - Situação Médica de Emergência
+
+[DISPATCH] Esta equipe respondeu a uma chamada 281.200.9881x330 para uma Leonor Carvalho que estava sofrendo de angústia respiratória aguda. O chamador, um vizinho, relatou ouvir sons altos de arquejo e uma tosse persistente na residência do paciente. Fomos despachados sob um código de emergência, utilizando luzes e sirenes para uma resposta rápida.
+
+[AVALIAÇÃO NO LOCAL] Ao chegar, encontramos o paciente em um estado moderado de angústia, exibindo sinais de febre, tosse persistente e falta de ar. O paciente estava consciente, mas visivelmente lutando para respirar. A cena indicava que o paciente mora sozinho em uma casa localizada em Leonor Carvalho, Rua Débora Vicente, 4 96, 4177 Formiga, Portugal e havia sinais de uma condição médica crônica, sugerindo que isso era uma exacerbação de uma doença existente.
+
+[HISTÓRICO DA DOENÇA ATUAL] Após estabilizar o paciente com oxigênio suplementar de um tanque marcado com o número de série 859156 324, realizamos uma anamnese completa. O paciente se identificou como Leonor Carvalho e forneceu o número de conta ICsfU-6673 para o número de registro médico UQU-80046R. Eles nos informaram que os sintomas começaram em 18 de março de 2019 com uma tosse e uma febre baixa que desde então escalou para o estado atual. O paciente também mencionou ter sido diagnosticado com asma brônquica no Sound Track Studio sob os cuidados da Daniela Schmidt.
+
+[AVALIAÇÃO INICIAL] Nossa avaliação primária encontrou o paciente consciente, com orientação para pessoa, lugar e tempo. A idade do paciente 40 parecia consistente com a aparência. Realizamos um exame completo de cabeça aos pés e encontramos sinais de respiração trabalhosa, chiado nos sons da respiração e uma frequência cardíaca ligeiramente elevada. A temperatura do paciente registrada pelo ID do dispositivo 859156 324 indicava febre.
+
+[TRATAMENTO] Iniciamos o tratamento no local administrando medicação broncodilatadora por meio de um nebulizador, conforme a prescrição existente do Dr. Daniela Schmidt. O paciente foi então preparado para transporte para o hospital mais próximo, Sound Track Studio, com monitoramento contínuo dos sinais vitais. Um ielamid@aol.com foi enviado ao hospital com a avaliação inicial e o tratamento do paciente.
+
+[TRANSPORTE] O paciente foi seguramente acomodado em nossa ambulância com o número da placa WEY-645 para transporte. A linha IV foi colocada, sem inchaço ou descoloração no local da inserção. Os pertences do paciente, incluindo um dispositivo móvel com um 58.104.167.222 identificado, foram mantidos em segurança conosco durante a viagem.
+
+[ENTREGA AO HOSPITAL] Ao chegar ao hospital, o atendimento ao paciente foi entregue à enfermeira do departamento de emergência, com todos os detalhes da condição, tratamento e histórico do paciente comunicados. Todos os pertences do paciente foram entregues à equipe do hospital. Um formulário de Transferência de Paciente preenchido foi assinado e recebido pela enfermeira, cujo URL do documento é james.chang.ramirez.org.
+
+[DOCUMENTAÇÃO] O relatório foi preenchido pelo EMT que atendeu e uma cópia do Relatório de Atendimento ao Paciente foi gerada e enviada para a conta vinculada ao nome de usuário do paciente WglOFDRt. O documento também foi salvo no sistema contra o número de segurança social do paciente 55970525-6 para fins de referência e faturamento.
+
+[EMT ATENDENTE] Este relatório foi preparado e verificado pela Daniela Schmidt, uma EMT licenciada com o número de certificação 515-gkDHXJ. Este documento tem como objetivo fornecer um relato detalhado da condição e tratamento do paciente durante a situação médica de emergência na data do incidente 18 de março de 2019."
+

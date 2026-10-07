@@ -1,0 +1,79 @@
+"Pflegekratznotiz:
+
+---------------------------------------------
+| PATIENTENDETAILS:                          |
+|                                          |
+| Jana Kraus                                |
+| Adresse: Jana Kraus, Isidor-Stroh-Ring 0/4 64, 8801 Herzogenaurach, Österreich                       |
+| Alter: 68                               |
+| Kontakt: (391)536-4864                         |
+| Email: iaier@gmail.com                           |
+| Hausarzt: Olivia Maier                 | 
+| Krankenhaus: 16th                     |
+| Gesundheitsplan: vM7GICexb                |
+| Notfallkontakt: (391)536-4864               |
+---------------------------------------------
+
+\ud83d\udca2 Beschwerde: 
+[Magenbeschwerden nach dem Essen]
+
+\ud83d\udcdd Beobachtungen: 
+- Anzeichen von Unbehagen sichtbar 
+- Empfindlichkeit im Oberbauchbereich 
+- Schmerzlevel: 7/10 
+
+\ud83c\udf21\ufe0f Vitalwerte: 
+- Blutdruck: 140/85 
+- Puls: 95 bpm
+- Temperatur: 37 Grad Celsius 
+
+\ud83d\udc8a Bereitgestellte Behandlung:
+Antazida verabreicht (709961 VMZ)
+
+\ud83d\udccc Fortschrittsnotiz: 
+01.03.70 - Verbesserung nach Verabreichung von Antazida festgestellt
+
+\ud83d\udcbc Beruflicher Eintrag: Schiffsarchitekt
+
+---------------------------------------------
+| MEDIZINISCHE AUSRÜSTUNGSDETAILS:               |
+|                                         |
+| Gerät: YwYBxZ-412                         |
+| Konto: wnDVki UxX                       |
+| Lizenz: 4844 86085                       |
+---------------------------------------------
+
+\ud83d\udcde Kontaktinformationen: 
+- Zuhause: (391)536-4864 
+- Arbeit: (391)536-4864 
+- Mobil: (391)536-4864 
+
+\ud83d\udcec Postanschrift: Jana Kraus, Isidor-Stroh-Ring 0/4 64, 8801 Herzogenaurach, Österreich
+- Postleitzahl: 8801
+
+\ud83d\udcbb Online-Anmeldeinformationen: 
+- Benutzername: A8lB9erQ 
+- IP-Adresse: 192.123.25.193
+
+\ud83c\udfe2 Organisation: Jones-Gould
+\ud835\ude82\ud835\ude82\ud835\ude7d: 27 373 273 712
+\ud83c\udd94 ID: wnDVki UxX
+
+\ud83d\ude98 Fahrzeug: 
+- Fahrzeug-ID: XS 1989
+
+\ud83d\udd10 Biometrischer Identifikator: 
+- Fingerabdruck-Hash: 323-goeUyV
+
+---------------------------------------------
+| ZUSÄTZLICHE INFORMATIONEN                        |
+|                                         |
+| Stadt: La Reina                             |
+| Bundesland: Kirchstraße                           |
+| Land: Österreich                       |
+| Fax: 913.282.9403                               |
+| URL: gonzalez.com                               |
+---------------------------------------------
+
+**Vertraulichkeit unterliegend - NICHT TEILEN **"
+

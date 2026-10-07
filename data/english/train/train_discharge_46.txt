@@ -1,0 +1,64 @@
+DISCHARGE SUMMARY
+
+=====================
+
+**Patient**: Xavier Morgan
+
+**Medical Record**: rwoE lZdzb
+
+**Admission**: Sun Apr 8 01Thu.7.1987
+
+**Discharge**: Sun Apr 8 01Thu.7.1987
+
+**Discharge Disposition**: Home with follow-up care
+
+**PRIMARY CARE PHYSICIAN**: Dr. Ryan White
+
+**REASON FOR HOSPITALIZATION**
+
+This summary pertains to Xavier Morgan who had a hospitalization due to worsening symptoms of encephalopathy, marked by uncoordination, asterixis, haemorrhage, and drowsiness.
+
+**HOSPITAL COURSE**
+
+Xavier Morgan was initially admitted in a drowsy state with evident signs of uncoordination and asterixis. Upon examination, there were also signs of haemorrhage. This led to the diagnosis of encephalopathy. The patient underwent numerous consultations, diagnostic procedures, and treatments during the hospital stay. 
+
+**DISCHARGE DIAGNOSIS**
+
+Primary Diagnosis: Encephalopathy 
+
+**CARE, TREATMENT, AND SERVICES PROVIDED**
+
+During the hospitalization, the patient was managed with medication therapy, nutritional support, and physical therapy to maintain mobility. 
+
+**DISCHARGE CONDITION**
+
+At the time of discharge, Xavier Morgan's condition had improved but requires ongoing management. The patient is lucid, mobile with assistance, and the episodes of haemorrhage have significantly reduced. 
+
+**PATIENT AND FAMILY INFORMATION**
+
+The diagnosis, the need for ongoing medication and symptom management, and warning signs necessitating immediate medical attention were explained to the patient and family at length. 
+
+**PROVISIONS FOR FOLLOW-UP CARE**
+
+A follow-up appointment with Dr. Ryan White has been scheduled for Sun Apr 8 01Thu.7.1987 at Froebel Institute. The patient and family have been advised to maintain strict adherence to the medication regimen. 
+
+**DISCHARGE MEDICATIONS**
+
+Prescription for the medication to manage symptoms of encephalopathy and other supportive therapy have been provided to the patient and family. 
+
+**HOSPITAL DISCHARGE INSTRUCTIONS**
+
+Xavier Morgan is advised to take adequate rest, follow the medication schedule, and monitor symptoms. In case of any complications, they should immediately contact the hospital.
+
+**VITAL SIGNS AT DISCHARGE**
+
+Temperature: 98.6°F
+
+Heart Rate: 80 bpm
+
+Blood Pressure: 120/80 mmHg
+
+The rest of the medical team and I wish Xavier Morgan a swift recovery.
+
+**Physician**: Dr. Ryan White
+

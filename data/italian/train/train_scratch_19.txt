@@ -1,0 +1,62 @@
+"**Nota di Osservazione Infermieristica** 
+
+- Paziente: Daniel Müller
+- Reclamo: eruzione cutanea, principalmente vicino alla bocca e al naso
+- Osservazione: La pelle appare rossa, trovati punti pieni di pus, sospetto impetigine
+- Segni vitali: 
+  - Temperatura: 98.6F
+  - Polso: 80 bpm
+  - Pressione sanguigna: 120/80 mmHg
+  - Frequenza respiratoria: 16 respiri/min
+
+- Progresso: 
+  - Insorgenza: 26 ago 1986
+  - Progressione: Veloce
+  - Stato attuale: Peggioramento
+
+- Trattamento: 
+  - Antibiotico prescritto: 301 guYgam
+  - Tempo di applicazione: 26 ago 1986
+  - Follow-up: 26 ago 1986
+
+-----------------------------------------------
+Note aggiuntive:
+
+Dispositivo utilizzato: NI-934743p
+Piano sanitario: 0Dj imN
+Luogo di valutazione: fermata dell'autobus
+
+-----------------------------------------------
+Informazioni di contatto di emergenza:
+
+- Persona di contatto: Daniel Müller
+- Relazione con il paziente: Analista di intelligence
+- Indirizzo: Daniel Müller, 879 Castro Plaza 60, 4865 Forni Avoltri, Svizzera
+- Telefono: 001-971-778-0862x5587
+- Email: ihe@un.org
+
+-----------------------------------------------
+Dettagli dell'istituzione:
+
+- Ospedale: Berkeley Tribe
+- Dottore: Michela Bellini
+- Infermiera: anielle
+- Cartella clinica: 301 guYgam
+- Account: BgYWS 9953
+- URL di contatto:  jones-crawford.com/bloghome.asp
+
+-----------------------------------------------
+Varie:
+
+- Veicolo del paziente: XB9 6257
+- Sicurezza sociale del paziente: PLUOUN45P59B487Q
+- Patente del paziente: yxwZE 9720
+- BIOID del paziente: 74700 qbkq
+- Indirizzo IP del paziente: 88.201.63.243
+- Numero ID del paziente: BgYWS 9953
+- Età del paziente: 63
+- Organizzazione del paziente: Fischer-Abbott
+- Fax: 329-985-3486  
+
+Fine della Nota di Osservazione."
+

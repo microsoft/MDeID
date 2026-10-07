@@ -1,0 +1,60 @@
+"VERPLEEGKUNDIGE KRABBEL NOTITIE 
+
+*******Kritieke Patiëntgegevens*******
+Stef Goossens: Klaagt over stijfheid en zwakte, mogelijk 1072 036zD
+
+*******Vitale Tekens*******
+BP: 125/78
+HR: 90 bpm
+RR: 20 ademhalingen/min
+Temp: 98.2\u00b0F
+
+*******Observaties*******
+Gang: Veranderd, voorzichtig, mogelijke pijn 72
+Eetlust: Normaal
+Slaap: Verstoord, meldt slapeloosheid eoossen
+
+*******Toegediende Behandelingen*******
+Fysiotherapie: Gestart, focus op pijnbeheersing
+Dieet: Gebalanceerd, hoog eiwit voorgeschreven
+
+*******Mogelijke Diagnose*******
+Verdacht: Artritis 88698 Badp 
+
+*******Externe Factoren*******
+Werk: Zittend, lange uren bij Adams Ltd 
+Locatie: Stedelijk park 
+
+*******Contact & Noodinformatie*******
+Telefoon van familielid: 345-909-3960
+Noodcontact: 
+E-mail: neinou@aol.com
+
+*******Andere Relevante Details*******
+Verwijzende arts: Reinout Prins
+Zorgverlener: Dwd9FH
+Ziekenhuis van opname: Meretz
+
+*******Apparatuur Info*******
+Apparaatmodel: 0200-hWsVJ
+Apparaat IP: 131.236.57.242 
+
+*******Identificatie Info*******
+Kenteken: 971QDG
+Maatschappelijk ID: 939-1103251-38
+
+*******Communicatie*******
+Patiëntenportaal: http://williams.com/search/list/mainauthor.php 
+Gebruikersnaam: eoossen 
+Wachtwoord (gehasht): 88698 Badp
+
+*******Extra Info*******
+Woonadres: Stef Goossens, Windowpanes 110, 4133 Unsyllabled, Nederland
+Patiënt Beroep: Planning en ontwikkeling landmeter
+Fax: 001-917-915-0517x7059
+Account Status: Actief, 88698 Badp 
+
+*******Notitie*******
+Mogelijke artritis, moet bevestigd worden door specialist. Stuur afspraakherinnering naar neinou@aol.com, volg op in 3 weken. Houd eoossen en Adams Ltd op de hoogte.
+"
+

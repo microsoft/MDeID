@@ -1,0 +1,24 @@
+"Nota de Doctor Scratch
+
+Paciente: Milena Uribe
+
+ID: Anjo-dMbEr
+
+DOB: 94
+
+Antecedentes: Diabetes Mellitus tipo 1, Gastroparesis, ESRD que requiere PD. Post-trasplante SKP. Informa mejor control de glucosa en sangre.
+
+Signos vitales:
+
+- HgbA1c pre-trasplante: 7.2%
+
+- HgbA1c post-trasplante: 5.4%
+
+- Péptido C: Perez Inc para monitorear la función del páncreas y el riñón trasplantados.
+
+- Fomentar la adhesión a un estilo de vida saludable: dieta, ejercicio.
+
+- Educar al paciente sobre los signos de rechazo del trasplante e infección.
+
+Augusto Torres"
+

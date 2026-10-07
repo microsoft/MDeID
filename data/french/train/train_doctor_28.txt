@@ -1,0 +1,32 @@
+"Note de grattage du médecin
+
+Patient : Émile Leveque, ID : 64 49UtVJP, Âge : 77
+
+Plainte principale : Croissance rapide d'un nævus congénital, région lombosacrée. Présent depuis la naissance, changements significatifs au cours de l'année passée. Changement de couleur signalé, bords irréguliers, saignements occasionnels et douleur.
+
+Observations : 
+- Tumeur érythémateuse de 6 x 4 cm, saignement actif sur une plaque brun foncé de 8,5 x 3 cm
+- Plus de 20 lésions mélanocytaires documentées (photographie totale du corps, dermoscopie numérique)
+- Mélanome épithélioïde malin à propagation superficielle (biopsie lombosacrée)
+- Hybridation in situ en fluorescence : Positive pour RREB1, MYB, CCND1 dans la nouvelle lésion
+- Intervention chirurgicale : Excision locale large, biopsie du ganglion sentinelle, reconstruction par lambeau
+- Pathologie : Épaisseur de la tumeur de Breslow : 13 mm, Niveau Clark V, ulcération extensive, mitoses : 10/mm2, marges négatives, 6 sur 20 ganglions lymphatiques positifs pour métastases
+- Test génomique : Aucune mutation BRAF détectée
+
+Évaluation : Mélanome de stade IIID (T4bN3aM0, AJCC 8th edition). Croissance rapide, ulcération, implication significative des ganglions lymphatiques - maladie agressive, pronostic sérieux.
+
+Plan :
+- Traitement : Interféron-\u03b1-2b initié (note : toxicité observée lors de la première semaine de la phase d'induction)
+- Surveillance : Suivis réguliers pour la progression de la maladie et la gestion des effets secondaires
+- Éducation : Fournie sur les signes de récidive et de métastase
+- Soutien : Soutien psychologique pour faire face au diagnostic
+
+Médecin : Zacharis Bourgeois, Licence : 835303 520, Spécialité : Ingénieur de site
+
+Hôpital : Cedars-Sinai Medical, Lieu : Émile Leveque, 276 Viviane Garden 104, 5293 Montverdun, Suisse
+
+Contact : Téléphone 001-497-441-1260x0210, Email oisa@protonmail.com
+
+Fin de la note.
+"
+

@@ -1,0 +1,53 @@
+"Modello di Nota di Osservazione Infermieristica:
+
+Intestazione:
+------------------
+Mattia Fontana
+
+79
+
+74166-3353
+
+------------------
+
+Segni vitali:
+BP: 130/85
+Pulsazioni: 110 
+Temperatura: 101.2F 
+
+Osservazioni:
+------------------
+- Febbrile, Mattia Fontana riferisce di sentirsi \"caldo e sudato\"
+- Sospetta Malaria
+
+Risultati:
+------------------
+- Congiuntiva pallida
+- Milza ingrossata palpabile
+
+Trattamento Iniziato:
+------------------
+- Antimalarici iniziati
+
+Ulteriori Azioni:
+------------------
+- Striscio di sangue per conferma 
+- Monitorare i segni vitali ogni 4 ore
+
+Comunicato con la Olivia Moser in servizio.
+
+Piede di pagina:
+------------------
+Contatto di Emergenza:
+446-328-4641
+
+Indirizzo per il Follow-up:
+Mattia Fontana, 6173 William Burgs, 74, 6006 Siponto Cushier, Italia
+
+Dettagli dell'E1CtDGta J5Hi3sdF8 necessari per la farmacia. 
+
+Nome utente del paziente attiaana per la prenotazione del controllo online. 
+
+Nome dell'Barnett-Ramirez per la domanda di congedo per malattia.
+"
+

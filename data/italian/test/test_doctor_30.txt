@@ -1,0 +1,35 @@
+"Paziente Lara Müller - 42 anni. 
+
+S: 
+- Si è presentata all'Ospedale di Dipalpur Taluka con difficoltà respiratorie, senza febbre
+- Storia di un mese di tosse e sibili - non risponde agli antibiotici e agli steroidi 
+- Sospetta diagnosi di asma
+- Nessuna storia di: soffocamento, disfagia, sputi, atopia, problemi perinatali 
+
+O: 
+- Cosciente, afebrile - Temp: 37.5\u00b0C
+- Frequenza cardiaca: 130 bpm, Frequenza respiratoria: 40 bpm, Saturazione O2: 93%
+- Recessione sopra sternale, russamento sparso, sibilo diffuso
+- Nessun segno di: disidratazione, malnutrizione, cianosi
+- Esame cardiovascolare: normale
+- Test di laboratorio: CBC normale, CRP: 14 mg/l
+- Radiografia: corpo estraneo (mediastino superiore)
+
+A: 
+- Diagnosi primaria: Distress respiratorio dovuto a corpo estraneo (bottone di abbigliamento) nell'esofago toracico superiore
+- Diagnosi errata: Asma
+- Diagnosi differenziale: Asma, altre cause di distress respiratorio pediatrico
+- Prognosi: Buona, dopo la rimozione del corpo estraneo
+
+P: 
+- Rimozione del corpo estraneo tramite ipofaringoscopia sotto sedazione
+- Gestione post-operatoria: fluidi IV, corticosteroidi (riducono l'infiammazione periesofagea)
+- Dimesso: 24 ore dopo l'intervento
+- Dieta: Liquidi chiari
+- Nessuna complicazione o recidiva dei sintomi
+- Follow-up: Monitorare i danni all'esofago, problemi respiratori
+- Educazione del caregiver: Prevenire l'aspirazione di corpi estranei
+
+Angelo Mancini
+Assicuratore"
+

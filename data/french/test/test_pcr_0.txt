@@ -1,0 +1,28 @@
+"Rapport de soins au patient
+
+Résumé de l'envoi : Notre unité EMS a été envoyée à la résidence de Gilbert Leclercq située à Gilbert Leclercq, 198 854 rue Brunet, 4677 Amnéville, France suite à un appel au 911 fait depuis 001-910-978-4402x82623 signalant que le patient ressentait un malaise sévère et montrait des signes de maladie.
+
+Arrivée : À notre arrivée, nous avons trouvé le patient en détresse modérée, conscient mais faible. Le patient a été trouvé chez lui à stade. Le patient semblait alerte et conscient de son état mais paraissait pâle et léthargique.
+
+Symptômes présentés : Le patient, un individu de 16 ans, a signalé se sentir mal depuis quelques jours. Il présentait des symptômes tels que de la fièvre, des frissons et de la fatigue - tous caractéristiques d'une possible infection par le paludisme. Cependant, il s'agit d'une évaluation préliminaire basée sur les symptômes et les antécédents du patient. 
+
+Antécédents médicaux : Nous avons contacté Adam Arnaud et avons obtenu les antécédents médicaux. L'historique médical du patient a été obtenu à partir de la base de données de son fournisseur de soins de santé en utilisant VV9QAfrK et . Son numéro de dossier médical était 41 aIylWEN, et son numéro d'identification était 86819 7002. Il a révélé qu'il avait récemment voyagé dans une zone à risque de paludisme, une information notée dans le suivi de santé de Higgins, Norton and Henry, accessible via avila.knight.com.
+
+Observations et traitement : Les signes vitaux du patient ont été pris, et des antipyrétiques ont été administrés pour gérer sa fièvre. En raison de la gravité potentielle et de la nature communicable du paludisme, des échantillons ont été prélevés pour des tests, et le patient a été immédiatement transporté à Saint Finbarrs ’ College Akoka Lagos pour une évaluation et un traitement plus approfondis.
+
+Transport : Notre unité, avec le numéro 794-VCC, a transporté le patient à l'hôpital, où il a été admis sous les soins de Adam Arnaud. Le patient a été livré à l'hôpital sans incident, et les soins ont été transférés au personnel des urgences. L'itinéraire pris pour se rendre à l'hôpital était Adam Arnaud, 1939 Robin Cliffs Suite 067 10, 8333 Clamart, Suisse, et le transport a été signalé avec un code d'urgence VtB4wZSy en raison du diagnostic potentiel de paludisme. 
+
+Communication : En route vers l'hôpital, nous avons communiqué l'état du patient au service des urgences par le biais du dispositif 1592-710NH. Tous les détails pertinents, y compris le numéro de sécurité sociale du patient 616479-4744, ont été partagés via mud@outlook.com et ont été stockés en toute sécurité suite à la date 19/11/1980 et à l'heure de l'incident selon le protocole standard.
+
+Rapporté par : Ce rapport a été documenté par Secrétaire de l'entreprise, et le document a été sauvegardé et crypté en toute sécurité dans notre système, accessible par un 563 5081Vn unique. Un suivi de l'équipe a été prévu pour le 19/11/1980 à Saint Finbarrs ’ College Akoka Lagos.
+
+Contacts du patient : Nous avons contacté le contact d'urgence du patient, qui est le détenteur de sa procuration, pour les informer de la situation. Les coordonnées d'urgence du patient ont été récupérées dans notre base de données en utilisant son compte 86819 7002.
+
+Informations supplémentaires : L'adresse IP du patient 104.71.55.221, qui a été utilisée pour la consultation initiale de télémédecine, a été documentée dans son dossier. Le numéro de permis du patient 42-0058qxp et d'autres informations connexes ont également été notées. 
+
+Documentation électronique : La copie numérique de ce rapport a été téléchargée sur le portail web sécurisé de Higgins, Norton and Henry, et un lien vers celui-ci a été envoyé par courriel à l'adresse électronique enregistrée du patient. Le patient et sa famille immédiate peuvent y accéder en utilisant leur nom d'utilisateur et leur mot de passe respectifs.
+
+Note : Toutes les affaires personnelles du patient lui ont été remises, et son état a été constamment surveillé jusqu'à ce que ses soins soient confiés à l'équipe des urgences.
+
+Nous avons suivi les directives nécessaires et respecté tous les protocoles de sécurité, y compris la garantie de la confidentialité du patient. Les informations personnelles de santé (PHI) du patient ont été traitées conformément à la loi sur la portabilité et la responsabilité de l'assurance maladie (HIPAA)."
+

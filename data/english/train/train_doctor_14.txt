@@ -1,0 +1,36 @@
+"Doctor Scratch Note:
+
+- Patient: Amelia Nguyen
+- ID: iyK nHzUgZ
+- Age: 2
+- Condition: Advanced Heart Failure
+- DCM history: Yes
+- Device: CRT-D (7 yrs ago), HeartMate II\u00ae LVAD (4 yrs ago, bridge to transplantation)
+- Recent Symptoms: VF, right heart failure, liver congestion
+- Treatment: Amiodarone, nifekalant, mexiletine, lidocaine, PDE5 inhibitor, diuretics, LVAD speed optimization
+
+Observations (Initial - Post LVAD implant):
+- EF: 13%
+- LV dilation (diastole): 51 mm
+- Aortic regurgitation: Trivial
+- RV contraction (FAC): 33%
+- VF: Sustained
+- AF: Increasing frequency (paroxysmal)
+- Total Bilirubin: Elevated (worsening liver function)
+
+Assessment:
+- Primary diagnosis: Advanced heart failure (DCM)
+- Complications: VF, right heart failure
+- Differential diagnoses: Progression of heart failure, arrhythmia-induced cardiomyopathy, device-related complications
+- Prognosis: Guarded
+
+Plan:
+- Continue monitoring: Cardiac function, liver enzymes
+- Medication adjustment: As needed (arrhythmias, heart failure symptoms)
+- LVAD settings: Ensure adequate perfusion
+- Follow-up: Regular appointments, monitor condition & device function
+- Education: Recognize heart failure symptoms, treatment plan adherence
+- Consultation: Lachlan Lee (heart transplant team)
+
+Note by: Lachlan Lee (Oncologist) at Leslie Feely/Alexander, Wagner and Powers"
+

@@ -1,0 +1,66 @@
+"**Note de l'infirmière**
+
+---
+
+**Informations sur le patient** :
+- Patient : Romain Declercq
+- Âge : 5
+- Dossier médical : 2632 84254
+- Enregistré avec : Page Group
+- Adresse : Romain Declercq, 42 30482 Collard Ways, Marche-en-Famenne, 78 4506, Canada
+
+**Signes vitaux** :
+- TA : 120/80
+- Temp : 98.6F
+- Pouls : 80 BPM
+- Respirations : 16/minute
+
+---
+
+**Contact d'urgence** :
+- Nom : Romain Declercq
+- Téléphone : 467.276.6732x298
+- Relation : ...
+
+**Informations sur l'assurance** :
+- Plan de santé : BxxjNW2s
+- Compte : zrb-MfEgLJ
+
+---
+
+**Observations** :
+- Inconfort au cou, restriction de mouvement
+- Colonne cervicale - changements dégénératifs notés
+- Possible Spondylose cervicale
+
+**Traitement** :
+- Séances de physiothérapie - conseillées
+- Médicaments contre la douleur - administrés
+
+---
+
+**Informations sur le médecin** :
+- Médecin traitant : Peter Keller
+
+**Interactions** :
+- Email : erll@hotmail.com
+- Contact à : https://orr.org/app/category/tagsterms.php
+
+**Informations sur l'appareil** :
+- Appareil : 55-PjffYjv
+
+---
+
+**Informations supplémentaires** :
+- Sécurité sociale : 834-3201998-67
+- Licence : 551932-jzt
+- ID biométrique : wAoWs 0136
+- Adresse IP : 40.115.199.159
+- Véhicule : HO-1369
+
+--- 
+
+**Signature**
+- Infirmière : ...
+- Date : 25 avril 1987"
+

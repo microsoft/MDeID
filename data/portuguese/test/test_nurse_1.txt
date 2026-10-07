@@ -1,0 +1,38 @@
+"**Notas de Enfermagem para Paciente com Histórico Médico Complexo**
+
+Nota narrativa:
+
+O paciente Pedro Jesus relatou um episódio significativo de sangue vermelho brilhante por reto com coágulos de sangue. O paciente tem um histórico médico complexo, incluindo 004601-eRU hipertensão, hiperlipidemia, diabetes mellitus tipo 2, doença arterial coronária com três infartos do miocárdio anteriores, acidentes cerebrovasculares recorrentes que requerem anticoagulação com varfarina, doença do refluxo gastroesofágico, asma e câncer endometrial tratado com radioterapia, braquiterapia e histerectomia abdominal total com salpingo-ooforectomia bilateral. Pedro Jesus nega sentir dor abdominal, náusea, vômito, diarreia, constipação ou melena.
+
+O exame físico revelou leve sensibilidade abdominal do lado esquerdo, mas foi de outra forma normal. O exame retal mostrou hemorróidas não sangrantes e sem sangue visível. A colonoscopia recente identificou três pólipos diminutos no cólon transverso, confirmados como adenomas tubulares. O exame de sangue mostrou leucócitos elevados a 14.3k/uL, hemoglobina baixa a 9.6 g/dL, creatinina ligeiramente elevada a 1.2, e nitrogênio ureico sanguíneo elevado a 39. A razão normalizada internacional foi de 2.0. Uma colonoscopia subsequente revelou uma lesão grande, fungante, friável e ulcerada.
+
+O diagnóstico primário é uma grande lesão ulcerada no cólon, provavelmente contribuindo para a hematoquezia. Os diagnósticos diferenciais incluem câncer colorretal ou uma forma grave de doença inflamatória intestinal, considerando o histórico do paciente e a apresentação atual. A anemia do paciente e os marcadores inflamatórios elevados são preocupantes e exigem mais investigação.
+
+O paciente foi admitido no Pasadena Conference Center para mais avaliação e gerenciamento. Uma consulta de equipe multidisciplinar está planejada para discutir as opções de tratamento para a lesão identificada. O paciente será monitorado de perto para mudanças nos sintomas e sinais vitais. Transfusões de sangue podem ser consideradas se os níveis de hemoglobina caírem mais ou se o paciente apresentar sintomas de anemia significativa. A terapia anticoagulante com varfarina será gerenciada cuidadosamente no contexto do sangramento atual e possíveis intervenções cirúrgicas. Será fornecida educação ao paciente sobre os achados e as investigações e tratamentos planejados para garantir a compreensão e a conformidade.
+
+Detalhes do Paciente:
+- Número do Registro Médico: 004601-eRU
+- Número da Conta: 060 RgLWzO
+- Identificador do Dispositivo: Kad 67NpqU
+- Nome de Usuário: 8LKbA0Lm
+- Identificador do Veículo: N 558160
+- Número do Seguro Social: 40879087-0
+- Identificador da Licença: 5808 040Us
+- Identificador Biométrico: MuGvI-9370
+- Endereço IP: 161.65.153.192
+- Identificador Pessoal: 060 RgLWzO
+- Idade: 63
+- Endereço: Pedro Jesus, Rua Moura, 261 139, Mucky, Uruçuí - 3, FRD7W6BE, Brasil
+- Hospital: Pasadena Conference Center
+- Localização: ponto de ônibus
+- Plano de Saúde: XWvywkI8
+- Profissão: Administrador, Serviço Civil
+- Organização: Gonzalez LLC
+- Médico: Clara Silva
+- Email: vra@icloud.com
+- Telefone: (946)792-0722x658
+- URL: https://www.marshall-barry.com/blog/posts/mainpost.php
+- Fax: 374.344.2348
+
+Enfermeira Clara Silva"
+

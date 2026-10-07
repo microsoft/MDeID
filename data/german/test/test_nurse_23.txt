@@ -1,0 +1,35 @@
+"Pflegebericht für Patientin mit systemischem Lupus erythematodes (SLE)
+
+Die Patientin Julia Graf, ein bekannter Fall von systemischem Lupus erythematodes (SLE) mit einer Vorgeschichte von idiopathischer Pankreatitis, stellte sich im Fiddlers mit Beschwerden von Schwäche, Müdigkeit, Übelkeit, Erbrechen, Unverträglichkeit von Nahrung, verschwommenem Sehen und Bauchschmerzen vor. Die Patientin berichtete keine Vorgeschichte von Diabetes oder Autoimmunerkrankungen außer SLE. Die Patientin war zuvor mehrmals wegen Pankreatitis eingeliefert worden, wobei alle von Dr. Roland Zimmermann durchgeführten Tests Gallensteine, Tumoren, Autoimmun- und Stoffwechselerkrankungen ausschlossen. Kürzlich wurde bei der Patientin ein diskoider Lupus und SLE diagnostiziert, die Patientin erlebte schwere neuropsychiatrische Manifestationen, die mit Medikamenten behandelt wurden.
+
+Bei der Untersuchung zeigte die Patientin Tachykardie (125 Schläge pro Minute), Tachypnoe (27 Atemzüge pro Minute), Schläfrigkeit und Dehydration. Laboruntersuchungen unter der medizinischen Aktennummer NKLcJ-9391 zeigten einen Serumglukosespiegel von 1240 mg/dl (Normalbereich: 70-140 mg/dl), Natrium 127 mEq/L (Normalbereich: 135-145 mEq/L), Kalium 5,56 mEq/L (Normalbereich: 3,5-5,0 mEq/L) und Chloridspiegel wurden nicht vollständig berichtet. Es wurden keine Anzeichen von Insulinresistenz festgestellt.
+
+Die Hauptdiagnose ist Diabetische Ketoazidose (DKA), wahrscheinlich ausgelöst durch systemischen Steroidgebrauch und möglicherweise verschlimmert durch SLE. Differenzialdiagnosen beinhalten akute Pankreatitis-Schübe, obwohl dies angesichts der aktuellen Laborbefunde und Symptomatik weniger wahrscheinlich ist. Die sofortige Einleitung des DKA-Management-Protokolls, einschließlich IV-Flüssigkeiten, Insulintherapie und Überwachung und Auffüllung der Elektrolyte, wurde von Roland Zimmermann empfohlen. Eine kontinuierliche Überwachung der Vitalzeichen, des Glukosespiegels und der Elektrolytwerte ist unerlässlich.
+
+Konsultationen mit Endokrinologie für Diabetes-Management und Rheumatologie für SLE-Management-Anpassungen wurden für den 25.09.15 geplant. Die Patientin wurde über die Erkennung von Anzeichen von Hyperglykämie und die Wichtigkeit regelmäßiger Nachsorge aufgeklärt. Mögliche Compliance-Probleme im Zusammenhang mit komplexen Medikamentenregimen und chronischem Krankheitsmanagement wurden ebenfalls besprochen.
+
+Kontaktinformationen:
+Telefon: 5213450049
+Email: dnn@yahoo.com
+Adresse: Julia Graf, Dobesplatz 01 51, 8781 Emil-Hermann-Nacke-Str. 5, 01640 Coswig, Schweiz
+
+Notfallkontakt:
+Name: Julia Graf
+Beziehung: Onkel
+Telefon: 5213450049
+
+Rezeptinformationen:
+Apotheke: Harrison-Jacobs
+Adresse: Julia Graf, Dobesplatz 01 51, 8781 Emil-Hermann-Nacke-Str. 5, 01640 Coswig, Schweiz
+Telefon: 5213450049
+
+Gesundheitsdienstleister der Patientin:
+Name: Roland Zimmermann
+Organisation: Harrison-Jacobs
+Adresse: Julia Graf, Dobesplatz 01 51, 8781 Emil-Hermann-Nacke-Str. 5, 01640 Coswig, Schweiz
+Telefon: 5213450049
+
+Unterschrieben,
+Roland Zimmermann, RN
+"
+

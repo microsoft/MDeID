@@ -1,0 +1,66 @@
+"**Nursing Scratch Note**
+
+--------------
+**Patient Info**
+-------------
+- Designation: Isabella Jones
+- Age: 44
+- Account: 777 wkBTwS
+
+--------------
+**Observation**
+-------------
+* Hypertension detected
+* Reports of dizziness
+* Lightheadedness
+* Vital Check:
+  * BP: 170/90
+  * HR: 108 
+
+--------------
+**Treatment Updates**
+------------
+* Medication: Lisinopril
+* Device: mMkZpV hFD 
+
+--------------
+**Progress**
+-------------
+* BP reduction: Incomplete
+* Dizziness status: Unchanged
+
+--------------
+**Care Details**
+------------
+* Healthcare Plan: 9uX
+* Nurse: Accounting technician
+
+--------------
+**Contacts**
+------------
+* Doctor: Ezra Bélanger
+* Phone: 561.940.8987x943
+
+--------------
+**Miscellaneous**
+------------
+* Username: Isabones
+* BioID: trlCp 979m
+* Hospital: Stimson
+* Location: train station
+* Email: aélang@icloud.com
+* IP Address: 27.179.181.234
+
+-------------
+**Summary**
+-------------
+* Patient Isabella Jones continues to report dizziness and lightheadedness. 
+* Vital signs show an elevated BP indicative of hypertension. 
+* Medication (Lisinopril) and mMkZpV hFD used in treatment.
+* No significant progress in BP reduction, monitoring to continue.
+* Contact Ezra Bélanger at 561.940.8987x943 for further details. 
+
+-------------
+**End of Scratch Note**
+-------------"
+

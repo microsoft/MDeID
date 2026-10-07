@@ -1,0 +1,42 @@
+"**Nursing Narrative Note for a Patient with Bipolar Disorder**
+
+The patient, Lucas Ouellet, is a 18-year African American male with a history of bipolar disorder, currently experiencing mental disorientation and frequent vomiting. His medical background includes a history of adverse reactions to various medications, including diarrhea with lithium, leading to a trial of Valproic Acid (VA) which was initiated 28.73. He has experienced VA-induced hyperammonemia, leading to discontinuation and subsequent trials with other medications including lactulose syrup and lamotrigine, which were also discontinued due to side effects and recurrence of manic symptoms.
+
+Upon physical examination, the patient has a Glasgow Coma Scale score of 15 and normal findings in muscle strength, deep tendon reflexes, and cranial nerve function. Neurological gait assessment was not possible due to patient fatigue and emergency condition. Two 16-gauge intravenous cannulas were placed, and a standard saline infusion was started to manage descending blood pressure. Laboratory tests have consistently shown elevated ammonia levels despite treatment adjustments.
+
+The primary diagnosis is bipolar disorder with complications including VA-induced hyperammonemia and medication-related side effects. Differential diagnoses could include other causes of vomiting and mental disorientation, but these are less likely given the patient's specific medication history and lab findings.
+
+The management plan includes continued monitoring of ammonia levels and adjustment of the treatment regimen as necessary. The patient is currently on a combination of lactulose syrup and levocarnitine. It is crucial for the patient to maintain weekly follow-up visits to monitor his condition and treatment efficacy. Education on the importance of compliance with the treatment plan and prompt reporting of any new symptoms or concerns is essential.
+
+**Contact Information**
+Phone Number: 296.953.8099x172
+Email Address: ns@yandex.com
+
+**Patient Information**
+Medical Record Number: 779-ZNJLoA
+Account Number: GynFrI 82y
+Username: XZ6oskfx
+
+**Medical Device Information**
+Device Identifier: Jl-iqQvMKo
+
+**Miscellaneous Information**
+Social Security Number: 598-039-535
+License Number: 16231 5585
+Biometric Identifier: 22-11bBPfs
+IP Address: 132.65.245.245
+Personal Identifier: GynFrI 82y
+
+**Demographic Information**
+Address: Lucas Ouellet, 120 Eschewals, Reuplift, 84 3396, United States
+Hospital: Rashtrapati Bhavan
+Location: mall
+Health Plan: BCB9D0o
+Profession: Solicitor
+Organization: Figueroa-Pitts
+Doctor: Madison Davis
+URL: reid-matthews.com
+Fax: 497-684-6590x99885
+
+Nurse: Madison Davis"
+

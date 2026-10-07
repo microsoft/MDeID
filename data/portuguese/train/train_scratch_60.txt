@@ -1,0 +1,61 @@
+"NOTA DE ENFERMAGEM
+
+**_Cabeçalho_**
+
+Registro de Enfermeira do Tiago Ribeiro
+Nome do Hospital: Sunswick
+Registro Médico do Paciente: djx MWKHCf
+
+**_Informações do Paciente_**
+
+Nome: Tomás Neves
+Idade: 23
+Endereço Residencial: Tomás Neves, R. Branco, 54 130, 3185 Ipixuna do para, Portugal
+Número de Contato: 591.672.6729
+Seguro de Saúde: fpM857vB
+Contato de Emergência: o7Md6YUt, 591.672.6729
+Médico Responsável: Tiago Ribeiro
+
+**_Sinais Vitais_**
+
+Temperatura: 101.2\u00b0F
+Frequência Cardíaca: 98 bpm
+Pressão Arterial: 130/85 mmHg
+Frequência Respiratória: 20 respirações/min
+Saturação de O2: 98%
+
+**_Observações Médicas_**
+
+O paciente está com febre e fraqueza geral.
+Feridas visíveis observadas na estação de trem. Possível Impetigo.
+A pele ao redor das feridas parece inchada e vermelha.
+O paciente relata coceira na área.
+
+**_Intervenções Iniciadas_**
+
+- Iniciado banho de esponja fria para baixar a febre.
+- Administrado Acetaminofeno 500mg para febre e desconforto.
+- Limpeza das feridas com solução antisséptica suave.
+- Aplicado antibiótico tópico na área afetada.
+- Instruído o paciente a continuar com a medicação prescrita e evitar coçar.
+
+**_Ações Futuras_**
+
+- Informar o Tiago Ribeiro sobre a condição do paciente.
+- Monitorar os sinais vitais a cada 4 horas.
+- Reavaliar as feridas em 24 horas.
+- Informar o paciente sobre os cuidados com o Impetigo em casa.
+- Planejar a próxima consulta para o dia 1 de março de 2012 com o Tiago Ribeiro.
+
+**_Rodapé_**
+
+Último acesso a partir do endereço IP: 73.41.216.207
+ID do dispositivo usado para registro: 6340-RPDke
+Organização: Clark-Allen
+Email para comunicações: ibeiroia@gmail.com
+URL para acessar o registro online do paciente:  www.olsen.com/wp-contentprivacy.html
+Número de fax para troca de documentos: 518.743.4882x0597
+
+Fim da Nota-------
+"
+

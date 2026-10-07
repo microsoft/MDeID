@@ -1,0 +1,48 @@
+"Nurse Scratch Note: Dengue Watch
+
+Vitals Snapshot:
+
+Temperature: 38.5
+Blood Pressure: 120/80
+Heart Rate: 88 bpm
+Respiration: 16 breaths per min
+
+Condition Keywords: Joint pain, High Fever, Headache, Nausea 
+
+Treatment Administered: 
+Administered , dosage 200mg
+
+Additional Observations:
+Rash observed on Mya Melvin's skin - Suspected Dengue. Awaiting further tests.
+
+Notes:
+Mya Melvin moved from Australia recently. Potential exposure. 
+Lives at Mya Melvin, 184 Analemmatic, Subdentated, Cancerogenic 8096, New Zealand - check for mosquito breeding sites.
+
+Next Steps:
+Amy Halliday to confirm diagnosis. 
+Inform Lane-Nunez if dengue is confirmed.
+
+Contacts: +1-567-362-4985, ya@un.org, 001-454-633-5392x42438 (In case of emergency or need to discuss further)
+
+----------------------------------------
+Document Footnotes:
+
+- Personal Device: OUB-imjEMX used for monitoring
+- Health Insurance plan details: o9Dko6s
+- Patient Username for online portal: VTBK3AtE
+- Patient Medical Record Number: 664147 yqp
+
+Note: Consultation happened on Mar-30-92. All information is accurate as of this date.
+
+----------------------------------------
+
+Device IP: 114.59.162.121
+License Number: mmEX BPZgt
+BioID: rIsznA 693
+Vehicle Identifier: 47H QL8
+Social Security Number: 506 109 552
+Account Number: 1689-530Jp
+
+**Confidential Note**: For internal use by authorized personnel only."
+

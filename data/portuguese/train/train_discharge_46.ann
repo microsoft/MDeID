@@ -1,0 +1,20 @@
+T1	PATIENT 51 64	André Ribeiro
+T2	MEDICALRECORD 88 98	DiBJwg 048
+T3	DATE 113 146	segunda-feira, 5 de junho de 1989
+T4	DATE 154 182	10 de novembro de 1990sábado
+T5	DATE 184 206	10 de novembro de 1990
+T6	DATE 217 250	segunda-feira, 5 de junho de 1989
+T7	DATE 258 286	10 de novembro de 1990sábado
+T8	DATE 288 310	10 de novembro de 1990
+T9	DOCTOR 406 415	Cauã Cruz
+T10	PATIENT 467 480	André Ribeiro
+T11	PATIENT 651 664	André Ribeiro
+T12	PATIENT 1269 1282	André Ribeiro
+T13	DOCTOR 1764 1773	Cauã Cruz
+T14	DATE 1791 1824	segunda-feira, 5 de junho de 1989
+T15	DATE 1832 1860	10 de novembro de 1990sábado
+T16	DATE 1862 1884	10 de novembro de 1990
+T17	HOSPITAL 1888 1901	Mallingapuram
+T18	PATIENT 2197 2210	André Ribeiro
+T19	PATIENT 2553 2566	André Ribeiro
+T20	DOCTOR 2608 2617	Cauã Cruz

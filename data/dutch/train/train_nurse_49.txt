@@ -1,0 +1,41 @@
+"Verpleegkundige Narratieve Notitie voor Léa Van De Velde
+
+13 sep. 2016 om . Léa Van De Velde met een bekende geschiedenis van gedilateerde cardiomyopathie, wat leidde tot hartfalen, meldde zich zwak te voelen en moeite te hebben met ademhalen. Deze patiënt heeft een eerder gedocumenteerd geval van ventriculaire fibrillatie, en ongeveer 7 jaar geleden werd een CRT-D-apparaat (EaIT 56yMW) geïmplanteerd. Daarnaast werd ongeveer 4 jaar geleden een HeartMate II® LVAD (EaIT 56yMW) geïmplanteerd in afwachting van een mogelijke harttransplantatie. Onlangs ervoer de patiënt hartkloppingen en aanhoudende ventriculaire fibrillatie (VF) na LVAD-implantatie, wat leidde tot symptomen van rechter hartfalen en levercongestie.
+
+De echocardiografische studie die werd uitgevoerd tijdens de LVAD-implantatie toonde een ejectiefractie van 13%, dilatatie van de linker ventrikel (51 mm in diastole), triviale aortaregurgitatie, en relatief behouden rechter ventriculaire contractie (fractionele oppervlakteverandering; 33%). Recente bevindingen omvatten aanhoudende VF, paroxismale atriale fibrillatie (AF) gedetecteerd met toenemende frequentie, en verhoogde totale bilirubine niveaus die wijzen op verslechterende leverfunctie. De behandeling van de patiënt heeft onder andere bestaan uit amiodaron, nifekalant, mexiletine, lidocaïne, een fosfodiësterase type 5 remmer, diuretica, en de optimalisatie van de LVAD rotatiesnelheid.
+
+De primaire diagnose blijft gevorderd hartfalen secundair aan gedilateerde cardiomyopathie. Complicaties omvatten aanhoudende VF en rechter hartfalen. Differentiële diagnoses kunnen de progressie van hartfalen, aritmie-geïnduceerde cardiomyopathie, of complicaties gerelateerd aan het apparaat omvatten. De prognose is voorzichtig gezien de complexiteit en progressie van de ziekte.
+
+Het plan voor de patiënt blijft nauwgezette monitoring van de hartfunctie en leverenzymen. Aanpassingen aan medicijnen kunnen nodig zijn om aritmieën en symptomen van hartfalen te beheersen. Instellingen van de LVAD moeten worden geoptimaliseerd om voldoende perfusie te garanderen. Regelmatige vervolgafspraken zullen worden gepland om de toestand van de patiënt en de functie van het apparaat te monitoren. De patiënt zal worden voorgelicht over het herkennen van symptomen van verslechterend hartfalen en het belang van naleving van het behandelplan. Een consultatie met het harttransplantatieteam kan worden overwogen als de toestand van de patiënt verder verslechtert.
+
+Verpleegkundige Nick Evrard, RN, Carney-Garcia 
+Contactinformatie: 
+Telefoon: +1-891-587-8514x5673
+Email: arNi@who.int
+Adres: Léa Van De Velde, Levitative 129, 6107 Heteroploidy, Nederland
+
+Noodcontact: 
+Naam: Léa Van De Velde
+Relatie: Tante
+Telefoon: +1-891-587-8514x5673
+Email: arNi@who.int
+Adres: Léa Van De Velde, Levitative 129, 6107 Heteroploidy, Nederland
+
+Apparaatinformatie:
+CRT-D: EaIT 56yMW
+HeartMate II® LVAD: EaIT 56yMW
+
+Patiënt Identificatoren:
+Medisch Dossier Nummer: 4777-KikbU
+Accountnummer: bNQIYN-Win
+Gebruikersnaam: gmL8Af2Y
+IP Adres: 40.101.0.165
+Sociale Zekerheidsnummer: 942-6788260-19
+Licentienummer: 951 xyDSAh
+Biometrische ID: zwEC-20KPU
+Voertuig ID: DFB-335
+Persoonlijke ID: bNQIYN-Win
+Verzekering: VrBNe
+
+Disclaimer: Deze notitie is ontworpen voor medische professionals om de gezondheidsstatus en medische geschiedenis van Léa Van De Velde bij te houden. Het bevat gevoelige informatie beschermd door de Health Insurance Portability and Accountability Act (HIPAA) en andere toepasselijke wetten. Ongeautoriseerd kopiëren, gebruik, of distributie van deze informatie is strikt verboden."
+

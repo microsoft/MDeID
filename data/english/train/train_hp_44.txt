@@ -1,0 +1,74 @@
+# History and Physical Note
+
+## Chief Complaint and Reason for Visit
+
+Amber Walker presenting with a disseminated exanthema characterized by macular lesions dispersed across the extremities. Accompanied by heightened fever and pruritus, resulting in considerable discomfort. 
+
+## History of Present Illness
+
+Amber Walker reports the presentation of skin changes, primarily in the form of red macules appearing spontaneously, followed by a general feeling of unwellness and a consistent high-grade fever. The onset of pruritus was relatively sudden, following the appearance of the skin lesions.
+
+## Past Medical History
+
+Amber Walker has a relatively unremarkable past medical history, with no chronic conditions and a strong emphasis on a healthy lifestyle. 
+
+## Medications
+
+Currently, Amber Walker is not on any regular medication. 
+
+## Allergies
+
+No known allergies reported by Amber Walker or Amber Walker's caregivers. 
+
+## Family History
+
+Family history reveals no known genetic predisposition to skin disorders or autoimmune diseases.
+
+## Review of Systems
+
+Upon assessment, all systems appear functionally normal. No abnormal correlations were observed.
+
+## Physical Exam
+
+Physical examination reveals multiple red macules disseminated across the extremities, most potent on the trunk, arms, and legs. No signs of infection or secondary complications at present.
+
+## Vital Signs
+
+- Temperature: 38.5°C
+
+- Heart Rate: 98 beats/min
+
+- Blood Pressure: 120/80 mmHg
+
+- Respiratory Rate: 18 breaths/min
+
+- Oxygen Saturation: 98%
+
+## Results Section
+
+Lab results pending analysis. Dermatology has been consulted to assist with the differential diagnosis and formulation of the treatment plan.
+
+## Assessment and Plan
+
+In light of the symptoms, exanthematous disease is the working diagnosis. The Thomas Clarkhas recommended a series of diagnostic tests, including a complete blood count, liver function test, and skin biopsy. Symptomatic treatment with antipyretics and antihistamines has been initiated to alleviate the fever and itching. 
+
+## Social History
+
+Amber Walker leads an active lifestyle, with a balanced diet and regular exercise. 
+
+## Instructions Section
+
+Further instructions and treatment plan will be formulated based on the results of the pending diagnostic tests. Amber Walker is advised to rest, maintain hydration, and avoid scratching the skin lesions.
+
+[End of H&P Note] 
+
+*Note:* No PHI disclosed. All PHI instances have been replaced with  placeholders.
+
+*Doctor: Thomas Clark*  
+
+*Patient: Amber Walker*  
+
+*Date of Encounter: Mar.7*  
+
+*Medical Record number: rMXpC-TNTP*
+

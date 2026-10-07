@@ -1,0 +1,57 @@
+"NOTA DELL'INFERMIERA
+
+### Dettagli del Paziente
+
+- Paziente: Ernst Graf
+- Età: 68
+- Città: Castel S. Giorgio
+- Stato: Mi
+- Paese: Italia
+- Indirizzo: Ernst Graf, 10626 Brenda Parks, 130, 9912 Castel S. Giorgio Dysmnesia, Italia
+- Telefono: (391)498-9683
+- Email: caMa@unicef.org
+- Piano Sanitario: Gvt
+
+----
+
+---- VITALI ----
+BP: 125/85 mmHg
+HR: 85 bpm
+Frequenza respiratoria: 16 respiri/min
+
+---- OSSERVAZIONI ----
+- Pelle: Rash/irritazione (specialmente sugli arti inferiori)
+- Glucosio: 170 mg/dL (Alto)
+
+---- NOTA DELL'INFERMIERA ----
+Condizione della pelle prevalente. Correla con alto glucosio - possibile diabete. 
+
+Contatto:
+Dott.ssa Jessica Mancini
+Posizione: Winchester Virginia
+
+---- ALTRI INFORMAZIONI ---- 
+- BioID: OCzXvN uLH
+- Dispositivo: 500682 KjP
+- Cartella Clinica: 8608-vDeWT
+- Conto: 17543 2313
+- SSN: QTFDYA45H93N059C
+- Patente: mDTd 82940
+- Veicolo: ICE-5655
+- Indirizzo IP: 88.198.246.116
+- Numero ID: 17543 2313
+- Nome utente: 7p4s1wM6
+- CAP: 9912
+- Fax: 329-513-6486x49133
+
+### Prossimi Passaggi
+Rinvio alla Dott.ssa Jessica Mancini per ulteriori valutazioni. Posizione di preoccupazione: spiaggia.
+
+### Professione e Organizzazione 
+Professione: Ingegnere, produzione
+Organizzazione: Parker, Porter and Green
+
+--------
+
+Fine della Nota."
+

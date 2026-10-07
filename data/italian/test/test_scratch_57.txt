@@ -1,0 +1,102 @@
+"Appunto di Infermieristica
+
+-----------------------------------
+
+Informazioni Paziente & Osservazioni (KA: )
+
+-----------------------------------
+
+Paziente: Laura Meier 
+
+Età: 10 
+
+Vitali: 
+
+BP: 120/80
+
+HR: 90
+
+RR: 16
+
+Temp: 98.6°F
+
+-----------------------------------
+
+Riassunto Clinico
+
+-----------------------------------
+
+Reclamo: Problemi di vista, sfocato. 
+
+Lettura del glucometro: 215 mg/dl 
+
+Dx: Diabete 
+
+-----------------------------------
+
+Trattamento & Progresso
+
+-----------------------------------
+
+Insulina somministrata - dettagli nel record medico: 4701 3484L
+
+Tendenza BG monitorata - vedere id dispositivo: IBSFxU hgz
+
+-----------------------------------
+
+Altre Info
+
+-----------------------------------
+
+Indirizzo: Laura Meier, 12038 Camacho Oval Suite 539 57, 3940 Maddaloni, Svizzera
+
+Email: AlbertGrasso@protonmail.com
+
+Nome utente: auraei
+
+Dottore: Alberto Grasso 
+
+Fornitore di assistenza sanitaria: TMUOoJW tb3by
+
+Ospedale: Allenby
+
+-----------------------------------
+
+Contatti
+
+-----------------------------------
+
+Telefono: 793.723.4695x07972
+
+Telefono alternativo: 793.723.4695x07972
+
+Contatto di emergenza: Laura Meier
+
+-----------------------------------
+
+Dettagli Vari
+
+-----------------------------------
+
+Licenza: niCMaU-035
+
+SSN: IITZUF30V95A492F
+
+Numero di conto: 035 vyTnSb
+
+ID biometrico: 865 17496c
+
+Indirizzo IP: 99.216.75.17
+
+Informazioni sul veicolo: 0EAT977
+
+Altra località: aeroporto
+
+Organizzazione: Bryant LLC
+
+Professione: Insegnante di musica
+
+URL: flores.rivera-kelley.anderson.org
+
+Fax: 001-725-725-3119"
+

@@ -1,0 +1,17 @@
+"Dokter Kras Notitie
+
+Patiënt: Chloé De Meyer
+ID: 15-ASSALMg
+DOB: 62
+
+Achtergrond: Type 1 DM, Gastroparese, ESRD vereist PD. Na SKP-transplantatie. Meldt verbeterde bloedsuikercontrole.
+
+Vitaliteit:
+- Pre-transplantatie HgbA1c: 7,2%
+- Post-transplantatie HgbA1c: 5,4%
+- C-peptide: Fernandez, Williams en Davis voor het monitoren van transplantatie pancreas en nierfunctie.
+- Aanmoedigen om gezonde levensstijl te volgen: dieet, oefening.
+- Patiënt voorlichten over tekenen van transplantatie afstoting en infectie.
+
+Kaat Claes"
+

@@ -1,0 +1,61 @@
+"**NURSING SCRATCH NOTE**
+
+-----------------------------
+[Patient Info]
+    Patient: Grace Kelly
+    Age: 4
+
+[Location Info]
+    Address: Grace Kelly, 11 Labour, Semipendulous 33 2912, Australia
+    Hospital: Government Hospital
+
+[Vitals]
+    BP: 120/80 mmHg
+    HR: 80 bpm
+    Temp: 98.6 \u00b0F
+    RR: 16 breaths per min
+    SpO2: 98%
+
+[Observations]
+    Skin: Severe rash noted 
+
+[Assessment]
+    Possible infection: Chicken Pox
+
+[Plan]
+    Medication: Antiviral drug (if necessary)
+    Follow up: 1 week 
+
+[Notes]
+    Patient reported intense itching at various locations on body.
+
+[Referrals]
+    Dermatologist: Henry Smith
+
+-----------------------------
+[ADMIN PANEL]
+    Medical Record No: 487 gPLchm
+    Account ID: 12609-3453
+    Device ID: 928359-83C
+    Login Alias: sz1YdNIx
+    Social Security: 434-042-655
+    License: wczeu vcwa
+    Biometric Identifier: gL-OfCmDpr
+    IP Address: 106.194.177.17
+    ID No.: 12609-3453
+    City: Affluent
+    Country: United States
+    Zip: 2912
+    Health Plan: Q7Ekl72
+    Profession: Market researcher
+    Organization: Collins, Singh and Martinez
+    Contact No.: (201)596-4224x699
+    Fax No.: 727-500-6679
+    Email: Hem@aol.com
+    Vehicle: D16 9RT
+    URL: riley.com
+    Location Details: park
+-----------------------------
+
+***Preserving Health & Values***"
+

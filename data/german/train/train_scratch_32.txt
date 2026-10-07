@@ -1,0 +1,79 @@
+"## KRANKENSCHWESTER NOTIZEN
+
+---
+
+**Sofia Huber - Medizinischer Bericht**
+
+_Notizen & Beobachtungen_
+
+- Bemerkung: Ausschlagähnliche Symptome, manchmal mit Hautabschälung.
+- Sensibilität: Hoch 7862-jKhgO
+
+---
+
+**Liste der Vitalzeichen**
+
+| Parameter | Beobachtung |
+|-----------|-------------|
+| BP        | 125/80      |
+| HR        | 80 bpm      |
+| Temp      | 98.4F       |
+| RR        | 16 bpm      |
+
+---
+
+**Komm. mit Daniel Stein**
+
+- Symptome mit Daniel Stein besprochen
+- Beratung: Weitere Tests auf mögliche Medikamentenreaktion
+
+---
+
+**Patienteninformationen**
+
+- **Sofia Huber** 
+- **56343 NvLd**
+- **Alter: 80**
+
+---
+
+**Fortschritt der Pflege**
+
+- Hautpflegebehandlung begonnen.
+
+**Erinnerung**
+
+- Überwachen Sie die Vitalzeichen des Patienten alle 2 Stunden
+- Kommunikation mit Daniel Stein aufrechterhalten
+
+---
+
+**Kontaktinformationen**
+
++1-670-337-9606x61657  
+le@microsoft.org  
+
+**Notfallkontakt**
+
+- Sofia Huber Beziehungen +1-670-337-9606x61657
+
+---
+
+**Verschiedenes**
+
+- **Gesundheitsplan: 13C**
+- **Arbeitsplatz: Morrison, Lee und Bowers**
+- **Wohnadresse: Sofia Huber, Isabelle-Spiegl-Ring 8 119, 1830 Meinerzhagen, Belgien**
+- **Krankenhaus: St Kentigern 's Cemetery Glasgow**
+- **Ort des Vorfalls: Flughafen**
+
+---
+
+**Konnektivität**
+
+- **Geräte-ID: eo-yVSSEpd**
+- **IP-Adresse: 17.114.210.35**
+- **URL: schmitt.net**
+
+**Ende des Dokuments**"
+

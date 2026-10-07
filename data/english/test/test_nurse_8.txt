@@ -1,0 +1,63 @@
+"Nurse Narrative Note:
+
+Subjective: 
+Patient Samuel Jimenez reports experiencing intermittent episodes of visual disturbances in the left eye, described as blurring and a sensation of vertical movement. These episodes are reported to occur a few times a month, each lasting approximately 20-30 minutes. Accompanying these visual symptoms are severe left-sided headaches and sensitivity to light, which appear almost immediately after the onset of visual disturbances. Patient also notes similar visual blurring when exposed to sunlight, which resolves promptly upon closing the eyes. The patient's medical history includes untreated high blood pressure, smoking, and significant alcohol use. In addition, there is a family history of Parkinson's disease, suspected oropharyngeal cancer, and AGS mutation linked with various cardiovascular and neurological manifestations.
+
+Objective: 
+On examination, the patient was found to have high blood pressure, with a reading of 168/98 mmHg. Other findings included skin discoloration in a net-like pattern (livedo reticularis), a slightly pointed chin, aortic regurgitation, and diffuse abdominal tenderness. The patient's abdomen did not show signs of guarding, rigidity, or audible bruits. Previous symptoms of disorientation, altered awareness, and tremulousness were connected to focal seizures with impaired awareness.
+
+Assessment: 
+The primary assessment indicates that the patient's left monocular transient ischemic attacks (TIAs) might be related to low-flow retinopathy, given the visual symptoms and rapid resolution upon eye closure. Differential diagnoses include focal seizures with impaired awareness and migraine-like episodes without typical migraine features. The patient's family history and personal medical history suggest a genetic predisposition to vascular and neurological conditions, potentially linked to AGS mutation.
+
+Plan: 
+The management plan will focus on controlling hypertension through appropriate medication adjustments and lifestyle modifications, including smoking cessation and reduction in alcohol consumption. Referrals to a neurologist for further evaluation of seizure activity and a geneticist for assessment of implications related to AGS mutation are recommended. Regular follow-ups will be necessary to monitor the patient's blood pressure and the effectiveness of the treatment plan. Patient education regarding the signs and symptoms of TIAs and the importance of lifestyle changes will be provided.
+
+[Header]
+Patient ID: 968254-195
+Doctor: Zoe Thomas
+Nurse: imenuel
+Date: Tue:17:01
+Location: theater
+
+[Footer]
+Contact Information:
+Phone Number: +1-561-203-2330x5354
+Email: oTh@who.int
+
+Emergency Contact Information:
+Name: Samuel Jimenez
+Relationship: Proofreader
+Phone Number: +1-561-203-2330x5354
+
+Account Information:
+Account Number: 15202-44QW
+Health Plan: AekrGAvc
+
+Patient's Device Information:
+Device ID: qIfGa-3033
+
+Network Information:
+IP Address: 142.203.97.216
+
+Vehicle Information:
+Vehicle ID: 23-4920B
+
+Social Security Number: 603-549-005
+License Number: xsJQSg-945
+Biometric Identifier: 0369 11048
+Personal ID Number: 15202-44QW
+Fax Number: 001-845-302-5475x172
+
+Patient's Address:
+Address: Samuel Jimenez, 45 Glorifies, Chantages 82 0769, Australia
+City: Unpropitiatedness
+State: 116
+Country: Australia
+Zip Code: 0769
+
+Hospital Information:
+Hospital Name: St. Theresa College
+Organization: Smith-Reed
+
+URL: https://guzman-gonzales.net/search/wp-contentauthor.htm"
+

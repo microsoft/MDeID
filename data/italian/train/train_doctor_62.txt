@@ -1,0 +1,60 @@
+"[Nota del Dottore Scratch]
+
+Caterina Bianchi, Maschio, 60 (37)
+__Sintomi:__
+* Problemi progressivi di deambulazione
+* Rigidità
+* Debolezza degli arti inferiori
+* Urgenza urinaria (con incontinenza)
+* Disfunzione erettile
+
+__Esame Neurologico:__
+* Disartria lieve
+* Paraparesi spastica
+* Andatura spastica ampia
+* Riflessi tendinei profondi vivaci
+* Clono bilaterale di Achille
+* Segno di Babinski
+
+__MRI (Cervello):__ 
+* Agenesia del commissura posteriore
+* Ipoplasia del fornix destro e del corpo mammillare ipsilaterale
+* Colpocefalia
+* Ispessimento corticale parasagittale frontale destro
+* Foci eterotopici nodulari periventricolari
+* Anomalie del drenaggio venoso
+
+__MRI (Spinale):__
+* Atrofia del midollo spinale
+
+__Valutazione Neuropsicologica:__ Normale
+__EEG:__ Normale
+__EMG:__ Normale
+__SEPs:__ 
+* Aumento del tempo di conduzione centrale
+* Nessuna risposta dalla gamba destra
+
+__MEPs:__ Assenti in entrambe le gambe
+__VEPs:__ Non rilevanti
+__OCT:__ Non rilevanti
+
+__Test Genetico:__
+* Mutazione emizigote c.1394-2A > G nel gene ABCD1
+
+__Esame Ematochimico:__
+* Cortisolo: Normale
+* ACTH: Elevato (352 pg/mL)
+
+__Diagnosi:__
+* Adrenoleucodistrofia legata all'X (x-ALD)
+* Insufficienza adrenocorticale subclinica
+
+__Piano:__
+* Monitoraggio regolare
+* Gestione dei sintomi
+* Follow-up con il René Fischer (Neurologo) e il René Fischer (Endocrinologo)
+* Educazione del paziente sulla x-ALD
+
+René Fischer
+"
+

@@ -1,0 +1,58 @@
+"**NOTA DE ENFERMAGEM**
+
+**Detalhes do paciente**
+Maria Correia
+66
+Maria Correia, Avenida Esteves, 76 76, 7045 Cornélio Procópio, Portugal
+001-581-527-4848x44881
+
+**Sinais vitais**
+PA: 130/85
+Pulso: 75
+Temp: 36.5 C
+Respiração: 20
+
+**Queixa**
+1. Cãibras nas panturrilhas (Varizes teatro)
+
+**Observações**
+1. Veias dilatadas nas extremidades inferiores
+2. Sem úlceras visíveis
+
+**Tratamento**
+Medicação: 
+Dosagem: 20mg diariamente
+Consulta de acompanhamento: 19 de mar. de 2004
+
+**Equipe de Saúde**
+Médico Principal: Lara Schmidt
+Enfermeira: vXoiprNz
+
+**Histórico Médico**
+Última visita ao hospital: St. Mary 's Church Paddington London, 19 de mar. de 2004, xZAbF KZra
+Plano de saúde: NzGl5Rc5wKe Cty5jnf
+
+**Informações Adicionais**
+Endereço IP do login do paciente: 71.108.195.147
+Número do dispositivo para marcapasso: OhlN-530Ju
+
+**Detalhes de Contato**
+Contato de emergência: Maria Correia
+Número de contato: 001-581-527-4848x44881
+Email de contato: Larat@red-cross.org
+
+**Informações Estruturadas**
+Licença profissional do médico principal: mZU-797676
+Número da conta do paciente: 447569 66y
+Identificador pessoal: 447569 66y
+Número do Seguro Social: 49496444-0
+Hash biométrico da impressão digital do paciente para login seguro: 75654-ztEE
+
+**Informações Não Estruturadas**
+Paciente trabalha para: Wheeler, Wood and Wilson
+Último veículo usado pelo paciente: 8-2320A, Placa do veículo: mZU-797676
+URL para acessar o portal de saúde online do paciente: https://sandoval.com/exploreprivacy.htm
+Número de fax para envio de relatórios médicos: (909)299-5068x9684
+
+**Nota**: Condição do paciente estável. Próxima revisão em 19 de mar. de 2004.
+

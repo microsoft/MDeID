@@ -1,0 +1,62 @@
+"# Note de l'infirmière Scratch 
+
+### Détails du patient:
+    ======================================
+    Nom : Tim Vandenberghe
+    Âge : 40
+    Sécurité sociale : 0 93 42 04 090 738
+    Hôpital : Bible Christian Church
+    Médecin traitant : Emilia Zimmermann
+    Numéro de dossier médical : Zo-47124Eq
+    ======================================
+
+    |Signes vitaux|
+    ---------------
+    T.A : 120/80 
+    Temp : 37 C 
+    Pouls : 80 BPM 
+    Fréq. Resp. : 16/min 
+    Sat O2 : 98%
+
+## Condition :
+    - Toux persistante
+    - Difficultés respiratoires
+
+## Observations :
+    - Sons pulmonaires anormaux
+    - Écoulement nasal présent
+
+## Traitement :
+    - Nébulisation saline
+    - Antitussifs
+
+    -------------------------------------
+
+### Informations supplémentaires :
+    -------------------------------------
+    Plan de santé : 3Pjo
+    Adresse : Tim Vandenberghe, 346 Brichard Crescent Suite 390 172, 2779 Richwiller, Belgique
+    Contact : (393)964-6546x821
+    Contact d'urgence : (393)964-6546x821
+
+    -------------------------------------
+
+## Autres détails :
+    -------------------------------------
+    Appareil : pbCjrl 80x
+    BioID : Yub-fVbfvt
+    Adresse IP : 179.6.129.216
+    Numéro d'identification : 04263-4623
+    Nom d'utilisateur : aoIF2LfR
+    Licence : oyDR 89525
+    Véhicule : 089-TVUS
+    -------------------------------------
+
+- Professions impliquées : Physicien, médical
+- Organisations pertinentes : Williams Group
+- Autres lieux : école
+- Dates pertinentes : 17/07/1989
+- Email du patient : mermanili@hotmail.com
+- URL : pena-cooper.padilla-archer.info
+- Fax : 933-510-6895"
+

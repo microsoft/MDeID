@@ -1,0 +1,49 @@
+"Tipo de Nota: Nota Rápida
+
+----------
+Notas de Liliana Lopera
+----------
+
+1/12/04
+
+Paciente: Gabriel Puerta
+
+ID: HdCf-237rJ
+
+EDAD: 54
+
+Historial de sinusitis recurrente, otitis media, timpanostomía bilateral, amigdalectomía, inmunoterapia alérgena en curso para alergias ambientales.
+
+Síntomas presentes:
+- Irritación, enrojecimiento, sensación de cuerpo extraño móvil en el ojo izquierdo
+- Inicio: ayer mientras jugaba deportes en un campo de fútbol fertilizado con estiércol
+- Intentos de auto-tratamiento: lágrimas artificiales, irrigación con agua del grifo, sin alivio
+
+Visita al Departamento de Emergencias:
+- Hallazgos del examen: 11 larvas consistentes con la primera etapa de O ovis en el ojo izquierdo
+- Conjuntiva izquierda: inyectada
+- Movimientos extraoculares: intactos
+- Agudeza visual: normal en ambos ojos
+- Examen con lámpara de hendidura: múltiples larvas en la conjuntiva bulbar, fórnix palpebral
+- Tratamiento: solución oftálmica de polisporina-bacitracina-neomicina, albendazol 400 mg diarios durante 3 días
+
+Diagnóstico: 
+- Primario: Oftalmomiasis externa debido a la exposición a larvas de O ovis
+- Diferencial: Otras causas de conjuntivitis o sensación de cuerpo extraño en el ojo descartadas por hallazgos objetivos e identificación larvaria confirmada
+- Pronóstico: Bueno, dada la identificación y el tratamiento oportunos
+
+Plan: 
+- Continuar con la solución oftálmica según las indicaciones
+- Completar el curso de albendazol
+- Cita de seguimiento con el oftalmólogo: 1/12/04
+- Educación del paciente:
+    - Importancia de usar protección ocular mientras se practican deportes, especialmente en entornos con mayores riesgos de exposición
+    - Importancia de mantener una buena higiene
+    - Buscar atención médica si los síntomas reaparecen o se desarrollan nuevos síntomas
+
+Liliana Lopera
+
+----------
+Fin de la Nota
+----------"
+

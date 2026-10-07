@@ -1,0 +1,62 @@
+"Nota del Dottore
+-------------
+Gianluca Moro - 107 - maschio
+
+Storia recente:
+- Febbre intermittente, brividi
+- Affaticamento, diminuzione dell'appetito
+- Dolore alla schiena e all'addome
+- Perdita di peso: 35 lbs (3 mesi)
+- Trattamento per la malaria: 6 mesi fa
+- Viaggio recente: Italia
+
+Vitali:
+- Temp: 102.3 F
+- BP: 103-110/59-64 mmHg
+- HR: 92-113 bpm
+- O2 Sat: 99% (Aria ambiente)
+
+Laboratorio:
+- Hb: 4.4
+- MCV: 87.5
+- Piastrine: 13
+- WBC: 6.4
+- INR: 1.73
+- Na: 132
+- Lattato: 4.6
+- ALP: 133
+- Tbili: 1.9
+- Dbili: 1.6
+- Albumina: 2.8
+
+Immagini:
+- RX, TC: infiltrati bilaterali del lobo inferiore, aree focali di infiltrati e consolidamento (Butler)
+- Piccolo idrocele scrotale destro
+
+Striscio di sangue:
+- Pochi monoblasti
+- Caratteristiche displastiche
+- Eritrociti con inclusioni intracellulari
+
+Aspirato del midollo osseo:
+- Midollo ipercellulare, monoblasti
+- Eritroblasti, difetto di maturazione
+- Pochi megacariociti
+- Lamine di cellule mononucleari immature che occupano diffusamente le cavità del midollo
+
+Valutazione:
+- Anemia grave
+- Trombocitopenia
+- Polmonite acquisita in comunità
+- Possibile malignità ematologica (AML?)
+
+Piano:
+- Cura di supporto (trasfusioni di sangue, piastrine)
+- Antibiotici IV (ceftriaxone, azithromicina)
+- Atovaquone per la profilassi della malaria
+- Valutazione ematologica (Consultare con Emma Müller)
+- Monitorare i vitali, i conteggi del sangue, le funzioni degli organi
+- Educazione del paziente riguardo: diagnosi, piano di trattamento, possibili complicazioni
+
+Emma Müller"
+

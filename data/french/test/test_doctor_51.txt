@@ -1,0 +1,45 @@
+"Note de Docteur Scratch
+
+Patient : Romane Collet 
+ID : 53-447NACx 
+Âge : 68 
+Docteur : Layla Tremblay 
+Numéro de dossier médical : 719 2813fb
+
+Plaintes présentées :
+- Gonflement chronique des membres inférieurs : Durée - Environ 6 mois
+- Essoufflement : Durée - Environ 6 mois
+- Saignements vaginaux anormaux intermittents : Durée - Environ 3 mois
+
+Observations :
+- Saturation en oxygène : 80% (air ambiant)
+- Fréquence cardiaque : Élevée (Tachycardie)
+- Pression artérielle : Basse (Hypotension)
+- Remarqué : Diminution des bruits cardiaques
+- Présence d'une adénopathie supraclaviculaire gauche
+- Radiographie du thorax : Silhouette cardiaque élargie, épanchement pleural bilatéral
+- Péricardiocentèse : Drainage de 500 mL de sécrétion sanglante
+- Cytologie du liquide pleural : Carcinome mal différencié
+- Biopsie du ganglion lymphatique supraclaviculaire gauche : Carcinome épidermoïde métastatique
+- Biopsie cervicale : Carcinome épidermoïde (lésion intraépithéliale de haut grade)
+- Niveau de CA-125 : 335,5 IU/mL
+- IRM pelvienne : Pas de tumeur utérine ou cervicale, carcinomatose péritonéale confirmée
+
+Évaluation :
+- Carcinome épidermoïde métastatique
+- Complications : Épanchements péricardique et pleural, instabilité hémodynamique, insuffisance respiratoire
+- Différentiels : Autres formes de cancers métastatiques (exclus)
+
+Plan :
+- Chimiothérapie : Carboplatine, paclitaxel
+- Péricardiocentèse répétée proposée (refus du patient)
+- Sclérothérapie intrapéricardique envisagée (non réalisée - manque d'expérience de l'établissement)
+- Détérioration de l'état, conduisant à la mort le 46ème jour après la première présentation
+
+Informations de contact :
+Téléphone : 703-214-4737
+Email : aa@msf.org
+Hôpital : Portland politician
+Adresse : Romane Collet, 32 841 route Charles, 5512 Riscle, France
+"
+

@@ -1,0 +1,60 @@
+"NOTA DE ENFERMAGEM 
+
+*******Dados Críticos do Paciente*******
+Daniela Rocha: Reclama de rigidez e fraqueza, possível 034 30BnoD
+
+*******Sinais Vitais*******
+PA: 125/78
+FC: 90 bpm
+FR: 20 respirações/min
+Temp: 98.2\u00b0F
+
+*******Observações*******
+Marcha: Alterada, cautelosa, possível dor 71
+Apetite: Normal
+Sono: Perturbado, insônia relatada Dalh3j9g
+
+*******Tratamentos Administrados*******
+Fisioterapia: Iniciada, foco no controle da dor
+Dieta: Equilibrada, alta proteína prescrita
+
+*******Possível Diagnóstico*******
+Suspeita: Artrite 025691-SsU 
+
+*******Fatores Externos*******
+Trabalho: Sedentário, longas horas na Berg LLC 
+Localização: Urbana museu 
+
+*******Informações de Contato & Emergência*******
+Telefone do Parente: 866-902-4068x81008
+Contato de emergência: 
+E-mail: iral@microsoft.org
+
+*******Outros Detalhes Relevantes*******
+Médico referente: Paulo Ferreira
+Provedor de Saúde: s6PgQZdx
+Hospital de Admissão: Hamilton Police
+
+*******Informações do Equipamento*******
+Modelo do Dispositivo: 183 4117Ja
+IP do Dispositivo: 106.80.214.218 
+
+*******Informações de Identificação*******
+Placa do Veículo: 54-SZ76
+ID Social: 05346382-1
+
+*******Comunicação*******
+Portal do Paciente: http://smith-frank.com/applogin.html 
+Nome de usuário: Dalh3j9g 
+Senha (Hashed): 025691-SsU
+
+*******Informações Adicionais*******
+Endereço Residencial: Daniela Rocha, Estação de Monteiro, 94 183, Providencialismo, Goiatuba - 61, QO8KVI04, Brasil
+Ocupação do Paciente: Consultora de pensões
+Fax: 635-619-6686
+Status da Conta: Ativo, 025691-SsU 
+
+*******Nota*******
+Possível artrite, necessidade de confirmar com especialista. Enviar lembrete de consulta para iral@microsoft.org, retorno em 3 semanas. Manter Dalh3j9g e Berg LLC informados.
+"
+

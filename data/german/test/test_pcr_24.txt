@@ -1,0 +1,26 @@
+"Patientenpflegebericht: Atemnot 
+
+Einsatz und Ankunft am Einsatzort:
+Am 19. August 2015 erhielten wir einen 911-Anruf wegen einer Person, die Atembeschwerden hatte. Patient Hannes Lehner wurde von unserem Team an Bank in Fuldabrück, 84 gefunden. Bei der Ankunft saß Hannes Lehner aufrecht auf einem Stuhl und schien Atemnot zu haben.
+
+Anamnese und Symptome:
+Hannes Lehner ist ungefähr 107 Jahre alt und hat kürzlich eine Erkältung gehabt. Während des Anrufs äußerte Hannes Lehner ein hohes Maß an Unbehagen und gab an, einen anhaltenden Husten und eine verstopfte Nase zu haben. Der Patient war wach und orientiert bezüglich Person, Ort und Zeit und hatte eine Vorgeschichte von ähnlichen Ereignissen aus 5099-62235.
+
+Untersuchung:
+Eine schnelle körperliche Untersuchung wurde von Daniel Schmid durchgeführt. Die Atemwege des Patienten waren offen, jedoch wurde eine erschwerte Atmung festgestellt. Die Auskultation der Brust ergab beidseitige Rasselgeräusche. Die Haut war blass und kühl, was auf eine unzureichende Sauerstoffversorgung hindeuten könnte. Die Sauerstoffsättigung betrug 92% in Raumluft, gemessen mit dem Gerät mit der Kennung 2645 MOyGf.
+
+Behandlung und Transport:
+Die Erstbehandlung bestand aus der Verabreichung von zusätzlichem Sauerstoff über eine Non-Rebreather-Maske mit einem Durchfluss von 15 Litern pro Minute. Die Sauerstoffsättigung des Patienten verbesserte sich nach der Sauerstofftherapie auf 98%. Hannes Lehner wurde dann sicher auf die Trage gelegt mit Hilfe des Rettungsdienstteams und wurde mit dem ZUD-0098 zur Northern Lights Lounge transportiert.
+
+Während des Transports wurde Hannes Lehner kontinuierlich überwacht. Eine erneute Beurteilung wurde alle 5 Minuten durch das anwesende Rettungsdienstpersonal durchgeführt. Der Zustand des Patienten blieb während des Transports stabil und er wurde mit allen relevanten Informationen an das ED-Team der Northern Lights Lounge übergeben.
+
+Die Details dieses Berichts, einschließlich der Symptome des Patienten, der verabreichten Behandlung, der medizinischen Befunde und der Transportinformationen, wurden alle in der elektronischen Gesundheitsakte des Patienten, Nummer 5099-62235, dokumentiert, die über das Krankenhausportal mit der URL http://www.dougherty.com/appterms.html mit dem nneser und 610-WoLMrg zugänglich ist.
+
+Die Rechnung für den Rettungsdienst wurde an den Krankenversicherungsanbieter des Patienten, qrdnGR wiyG, unter der Kontonummer 610-WoLMrg gesendet. Der Rettungsdienst wurde von Hannes Lehner über die Telefonnummer (292)721-8861x974 gerufen und die E-Mail Danimid@unicef.org wurde für den Versand der elektronischen Zahlungsbestätigung verwendet. Der Krankenwagen wurde von einem Rettungssanitäter mit der Lizenz aq-XBUQURc von der Organisation Mendez, Brown und Lewis gefahren. Der Anruf wurde über die IP-Adresse 222.34.91.188 an unser Rettungsdienstteam weitergeleitet und die Faxnummer 451-227-8893 wurde für den Versand der medizinischen Unterlagen des Patienten an das Krankenhaus verwendet.
+
+Bericht erstellt von:
+Daniel Schmid (Unterschrift)
+19. August 2015
+
+HINWEIS: Weitere persönliche Angaben des Patienten, einschließlich seiner Adresse Hannes Lehner, Bayerweg 362 60, 4832 Oberaurach, Belgien, Stadt Fuldabrück, Bundesland 84, PLZ 4832, Land Österreich und seiner Sozialversicherungsnummer 082814-2186 wurden ebenfalls dokumentiert und sind gemäß den HIPAA-Regeln vertraulich."
+

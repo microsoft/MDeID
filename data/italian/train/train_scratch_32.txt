@@ -1,0 +1,96 @@
+"## APPUNTI DELL'INFERMIERA
+
+---
+
+**Hans Zimmermann - Rapporto Medico**
+
+_Note & Osservazioni_
+
+- Notato: Sintomi simili a un'eruzione cutanea, a volte con desquamazione della pelle.
+
+- Sensibilità: Alta 3385-nRzsp
+
+---
+
+**Lista dei Segni Vitali**
+
+| Parametro | Osservazione |
+
+|-----------|-------------|
+
+| BP        | 125/80      |
+
+| HR        | 80 bpm      |
+
+| Temp      | 98.4F       |
+
+| RR        | 16 bpm      |
+
+---
+
+**Comunicazione con Urs Widmer**
+
+- Discusso i sintomi con Urs Widmer
+
+- Consiglio: Ulteriori test per possibile reazione ai farmaci
+
+---
+
+**Informazioni Paziente**
+
+- **Hans Zimmermann** 
+
+- **OWz fABWzz**
+
+- **Età: 72**
+
+---
+
+**Progresso Cura**
+
+- Iniziato trattamento per la cura della pelle.
+
+**Promemoria**
+
+- Monitorare i segni vitali del paziente ogni 2 ore
+
+- Mantenere la comunicazione con Urs Widmer
+
+---
+
+**Informazioni di Contatto**
+
+(903)220-9431  
+
+sme@outlook.com  
+
+**Contatto di Emergenza**
+
+- Relazioni di Hans Zimmermann (903)220-9431
+
+---
+
+**Varie**
+
+- **Piano Sanitario: 1BNVWKFn**
+
+- **Luogo di lavoro: Thompson-Murphy**
+
+- **Indirizzo di casa: Hans Zimmermann, 1306 Ramirez Trail Apt. 959, 71, 8905 Bari Sardo Underseen, Italia**
+
+- **Ospedale: Rijnstate hospital**
+
+- **Luogo dell'incidente: supermercato**
+
+---
+
+**Connettività**
+
+- **ID Dispositivo: 013-ZSfGcR**
+
+- **Indirizzo IP: 207.63.94.173**
+
+- **URL: vazquez.montgomery.romero.biz**
+
+**Fine del Documento**"
+

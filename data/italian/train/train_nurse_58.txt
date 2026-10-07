@@ -1,0 +1,48 @@
+"
+NOTA INFERMIERISTICA PRIMARIA
+Preparato da: Infermiere Christian Gerber
+Data di preparazione: 9 ottobre 2021
+
+
+Il paziente Roberto Caruso, di 11 anni, è stato ricoverato a causa di sintomi di poliuria e polidipsia. È stato segnalato che il bambino consuma circa 3-4 litri d'acqua al giorno, con frequenti pannolini pesantemente bagnati. È stata osservata anche una diminuzione dell'appetito e una recente perdita di peso di 1 libbra. È degno di nota che questi sintomi sono iniziati improvvisamente circa quattro mesi fa, dopo che la madre di Roberto Caruso era tornata a lavorare presso Oliver-King. Non è stata segnalata dalla famiglia alcuna storia familiare di sintomi simili o di diabete insipido.
+
+All'esame fisico e ai test di laboratorio, sono stati osservati livelli normali di sodio sierico, glucosio, azoto ureico nel sangue, creatinina, ormone adrenocorticotropo, ormone stimolante la tiroide, livello di tiroxina, fattore di crescita simile all'insulina, cortisolo, velocità di sedimentazione degli eritrociti e prolattina. È stato riscontrato un arginina vasopressina casuale di 1,4 pg/mL (intervallo normale 1\u201313.3 pg/mL), e un'osmolalità urinaria casuale di 285 mOsm/kg. Un'RMN della testa e un'ecografia renale eseguita con kNM 104751 non hanno rilevato nulla di significativo, ad eccezione di un sistema di raccolta duplicato nel rene destro notato sul XUoBT 0616. Un test di privazione d'acqua a casa ha aumentato l'osmolalità urinaria a 683 mOsm/kg dopo 12 ore.
+
+Sulla base della presentazione clinica e della risposta alla privazione d'acqua, al paziente è stato diagnosticato un diabete insipido parziale. L'assenza di altri risultati significativi nei risultati di laboratorio e nelle immagini supporta questa diagnosi. Al paziente è stato iniziato un trattamento con desmopressina orale (DDAVP) 0,2 mg due volte al giorno, dispensato dalla nostra farmacia ospedaliera situata a fermata dell'autobus. Questo trattamento ha risolto efficacemente i sintomi di poliuria e polidipsia. 
+
+Il piano è di continuare a monitorare la risposta del paziente al farmaco e di regolare il dosaggio se necessario. Si consiglia alla madre del paziente di segnalare immediatamente al nostro centro di contatto al numero 362-442-8375 qualsiasi nuovo sintomo o preoccupazione. Saranno programmati appuntamenti di follow-up regolari per valutare i progressi e gestire il trattamento. La madre può anche accedere ai registri medici del paziente online su shelton.com utilizzando il suo nome utente aruberto per gli aggiornamenti. 
+
+**Informazioni di contatto:**
+
+- Ospedale: St John 's Gardens
+- Indirizzo: Roberto Caruso, 12611 Hancock Cape Suite 959 7, 7972 Miglionico, Svizzera
+- Telefono: 362-442-8375
+- Fax: 215.261.4617x734
+- Email: stbe@mail.com
+- Sito web: shelton.com
+
+**Identificazione del paziente:**
+
+- ID Paziente: lOrtGY kwx
+- Numero di conto: lOrtGY kwx
+- Sicurezza sociale: 652916-0879
+- Licenza: ziMG-gkMzG
+
+**Informazioni aggiuntive:**
+
+- Piano sanitario: xOl
+- Indirizzo IP: 44.86.243.40
+- Veicolo: 10GC2
+- BioID: DWFG-zQZAW
+
+**Informazioni amministrative:**
+
+- Città: Morciano Di Romagna
+- Paese: Italia
+- Stato: MC
+- Via: 70242 Meyers Fall
+- CAP: 7972
+
+Christian Gerber, RN
+"
+

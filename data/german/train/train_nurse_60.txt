@@ -1,0 +1,46 @@
+"Pflegebericht für einen pädiatrischen Patienten mit einer Bochdalek-Hernie
+
+Subjektiv:
+
+Der Patient, ein 95-Jähriger, stellte sich mit einer Vorgeschichte von Atemnot und Würgen vor, die seit einer nicht genannten Anzahl von Tagen anhielten. Die Hauptpflegeperson, Olivia Zimmermann, berichtete, dass das Kind Schwierigkeiten beim Atmen hatte und sichtlich beunruhigt wirkte. 
+
+Objektiv: 
+
+Die erste Bildgebung mit einem WkdQzO 593 zeigte einen linksseitigen Spannungspneumothorax mit Mediastinalverschiebung. Es bestand der Verdacht auf Darmschlingen im linken unteren Hemithorax. Bei der Aufnahme zeigte der Patient schwere Dyspnoe, erhöhte Temperatur und Tachykardie. Eine sofortige endotracheale Intubation wurde durchgeführt. Weitere Bildgebung mittels thorakaler CT-Scan bestätigte einen linksseitigen Enterothorax mit Mediastinalverschiebung. Ein linksseitiger Thoraxschlauch wurde eingelegt, der zunächst als altes Blut betrachtete Flüssigkeit abließ. Eine diagnostische Laparoskopie identifizierte eine linksseitige Bochdalek-Hernie mit Herniation des Dünndarms, der Milz und des Magens in den Thorax und Galle-gefärbte Flüssigkeit im Thorax und Abdomen. Eine Magenperforation an der kleinen Kurvatur wurde entdeckt und mittels Umstellung auf Laparotomie behandelt, bei der die Perforation verschlossen und die Zwerchfellhernie repariert wurde. Postoperativ wurde ein retrovesikaler Abszess 30 Tage nach der Operation abgelassen.
+
+Bewertung: 
+
+Die Hauptdiagnose ist eine linksseitige Bochdalek-Hernie mit Komplikationen, einschließlich Magenperforation und nachfolgendem retrovesikalem Abszess. Die Differenzialdiagnose umfasste zunächst eine Zwerchfellruptur. Die Prognose ist günstig, der Patient ist derzeit nach einer Nachuntersuchung am 24. August 1972 symptomfrei.
+
+Plan: 
+
+Der Patient wurde operativ behandelt, um die Magenperforation und die Zwerchfellhernie zu reparieren, gefolgt von postoperativer Überwachung und Behandlung eines retrovesikalen Abszesses. Die Genesung beinhaltete die Behandlung einer Gastroparese und einen verlängerten Krankenhausaufenthalt von 4 bis 5 Wochen. Der Patient wird weiterhin regelmäßig überwacht, um mögliche Langzeitkomplikationen oder ein Wiederauftreten zu beurteilen. Den Eltern wurde eine Schulung zu Anzeichen möglicher Komplikationen und der Bedeutung regelmäßiger Nachsorgeuntersuchungen gegeben.
+
+Patienteninformationen:
+- Name: Olivia Zimmermann
+- Alter: 95
+- Medizinische Aktennummer: QYI 268xbh
+- ID-Nummer: 998 HVxEPT
+- Adresse: Olivia Zimmermann, Ellen-Trub-Gasse 5/8 118, 6452 Derby, Deutschland
+- Telefonnummer: 847-472-6169
+- E-Mail: ulf@yandex.com
+- Krankenversicherung: ycXc09 7E BbNmcbwh5bGjeBJbf
+
+Kontaktinformationen der Krankenschwester:
+- Name: Paul Graf
+- Lizenznummer: 33178-kFXh
+- Organisation: King-Davis
+- Telefonnummer: 847-472-6169
+- E-Mail: ulf@yandex.com
+
+Notfallkontakt:
+- Name: Olivia Zimmermann
+- Beziehung: Olivia Zimmermann
+- Telefonnummer: 847-472-6169
+- E-Mail: ulf@yandex.com
+
+Fußzeile: 
+- Dokumenten-ID: 998 HVxEPT
+- Datum: 24. August 1972
+- IP-Adresse: 182.150.83.135"
+

@@ -1,0 +1,56 @@
+"Note de Scratch
+
+Lilian Gauthier
+
+Cas connu : Lupus érythémateux systémique (LES)
+Antécédents : Pancréatite idiopathique
+
+Plaintes actuelles : 
+- Faiblesse, fatigue
+- Nausées, vomissements
+- Intolérance alimentaire
+- Vision floue
+- Douleur abdominale
+
+Aucun antécédent de diabète ou d'autres maladies auto-immunes à part le LES
+Hospitalisations précédentes - multiples pour pancréatite (tous les tests négatifs pour calculs biliaires, tumeurs, maladies auto-immunes, maladies métaboliques)
+Diagnostic récent : Lupus discoïde, LES, manifestations neuropsychiatriques sévères
+
+Traitement : 
+- Méthylprednisolone
+- Chloroquine
+- Levetiracetam
+- Phénytoïne
+- Lorazépam
+- Bolus mensuel de 
+
+Les symptômes ont commencé ~ 7 jours après la 6ème dose de , total 6.25g
+
+Signes vitaux : 
+- Tachycardie (125 bpm)
+- Tachypnée (27 respirations/minute)
+- Somnolence
+- Déshydratation
+
+Résultats de laboratoire : 
+- Glucose sérique : 1240 mg/dl (normal : 70-140 mg/dl)
+- Sodium : 127 mEq/L (normal : 135-145 mEq/L)
+- Potassium : 5.56 mEq/L (normal : 3.5-5.0 mEq/L)
+- Chlore : Non entièrement rapporté
+- Pas de résistance à l'insuline
+
+Impression : Acidocétose diabétique (ACD) - probablement due à l'utilisation de stéroïdes systémiques, exacerbée par le LES et le récent traitement par . Diagnostic différentiel : Poussée de pancréatite aiguë, moins probable
+
+Recommandations :
+- Initier le protocole de gestion de l'ACD
+- Fluides IV, thérapie à l'insuline
+- Surveillance des électrolytes, reconstitution
+- Surveillance continue des signes vitaux, du glucose, des électrolytes
+- Consulter avec Sarah Lee (endocrinologie)
+- Consulter avec Sarah Lee (rhumatologie)
+- Éducation du patient sur la reconnaissance des signes d'hyperglycémie
+- Insister sur le suivi régulier
+- Aborder les problèmes de conformité liés au régime médicamenteux complexe
+
+Sarah Lee"
+

@@ -1,0 +1,12 @@
+"Doctor's Scratch Note:
+
+Benjamin Bennett - Severe discomfort, leg swelling noted. Dx: Soft tissue infection. No abnormal bruising/bleeding. Current meds: enalapril, simvastatin. Recent additions: Ceftriaxone, clindamycin, prophylactic enoxaparin.
+
+Vitals: Normal. Labs: Thrombocytopenia, platelet count drop 320x10^9/L to 8x10^9/L in David, Robinson and Wolfe. Three full-dose platelet transfusions, no improvement in platelet count. Sodium citrate and heparin platelet counts normal (355x10^9/L and 310x10^9/L); in vitro platelet clumping in David, Robinson and Wolfe samples. 
+
+Dx: Severe soft tissue infection, secondary pseudothrombocytopenia - in vitro clumping of platelets in David, Robinson and Wolfe. Differential Dx: True thrombocytopenia - ruled out by normal platelet counts in non-David, Robinson and Wolfe samples. Leg infection requiring amputation.
+
+Plan: Continue Ceftriaxone, clindamycin. Enoxaparin for thromboprophylaxis. Amputation scheduled under spinal anesthesia. Post-op: Infection monitoring, recovery progress. Patient education on procedure, recovery expectations. Refer to rehab specialist post-amputation for mobility training.
+
+Cameron Lavoie - Lobbyist"
+

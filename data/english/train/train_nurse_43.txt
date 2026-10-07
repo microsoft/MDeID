@@ -1,0 +1,32 @@
+"------------------------------------------------------------------------------------------------------------------
+Nurse Notes for Lachlan Taylor
+------------------------------------------------------------------------------------------------------------------
+
+Subjective: 
+
+The patient, a male, reports experiencing pain, swelling, and changes to her right breast. She also describes recent symptoms of double vision, blurred vision, and significantly restricted movement in her right eye, with a decrease in ocular acuity. 
+
+Objective: 
+
+Initial breast ultrasonography revealed an irregular mass in the right breast and another lesion in another location, with enlarged lymph nodes in the right axilla. A core needle biopsy confirmed a diagnosis of invasive ductal carcinoma (IDC), with certain characteristics. The patient underwent a total body CT scan, which did not show any metastatic disease. Post-treatment testing confirmed the IDC diagnosis, with several axillary lymph nodes showing metastatic deposits. A recent MRI of the brain indicated a lump involving a certain eye muscle. 
+
+Assessment: 
+
+The primary diagnosis is invasive ductal carcinoma (IDC) of the right breast, currently without distant metastasis but with significant local and regional spread. The new ocular symptoms and MRI findings suggest a possible metastasis or a secondary malignancy involving a certain eye muscle. 
+
+Plan: 
+
+The patient has completed a number of cycles of neoadjuvant chemotherapy, undergone a right skin-sparing mastectomy, axillary lymph node dissection, and chest wall radiotherapy. She is currently on hormonal therapy with certain medications. Given the new ocular findings, further diagnostic workup and consultation with an oncologist and ophthalmologist are necessary to determine the appropriate management strategy for the potential metastasis or new primary cancer. 
+
+------------------------------------------------------------------------------------------------------------------
+Footer: 
+
+Nurse Jesse Ray, License Number 559-511dAS, Contact Number 2183088408, Email ID Raye@unwomen.org, 
+Device used for documentation 229632-KBf, IP Address used for logging into the system 181.179.204.43, 
+Username oncjMXo1, Social Security Number 835-02-7768, Vehicle Number 4-51781Y,
+Patient's Biometric ID 78821 KMqe, Patient's Account Number QyO 250147, ID Number QyO 250147, 
+Patient's Age 9 month, Patient's Address Lachlan Taylor, 25 Dreyfusist, Peroxided, 55 2353, Canada, City Peroxided, State 55, Country Canada, 
+ZIP 2353, Hospital Zintan, Other Location bus stop, Health Plan DiGaZ, 
+Profession Psychologist, forensic, Organization Robles, Little and Richards, Fax 221-754-4906x54481, URL rodriguez.velez.net
+------------------------------------------------------------------------------------------------------------------"
+

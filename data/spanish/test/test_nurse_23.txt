@@ -1,0 +1,35 @@
+"Nota de Enfermería Narrativa para Paciente con Lupus Eritematoso Sistémico (LES)
+
+El paciente Jesper Johansson, un caso conocido de Lupus Eritematoso Sistémico (LES) con antecedentes de pancreatitis idiopática, se presentó en Louis VII of con quejas de debilidad, cansancio, náuseas, vómitos, incapacidad para tolerar alimentos, visión borrosa y dolor abdominal. El paciente no reportó antecedentes de diabetes o enfermedades autoinmunes aparte del LES. El paciente había sido admitido previamente varias veces por pancreatitis, con todas las pruebas realizadas por la Dra. Beatriz Jiménez descartando cálculos biliares, tumores, enfermedades autoinmunes y metabólicas. Recientemente diagnosticado con lupus discoide y LES, el paciente experimentó manifestaciones neuropsiquiátricas severas tratadas con medicación.
+
+En el examen, el paciente demostró taquicardia (125 lpm), taquipnea (27 respiraciones por minuto), somnolencia y deshidratación. Las pruebas de laboratorio realizadas bajo el número de registro médico IDqdYj 866 mostraron un nivel de glucosa en suero de 1240 mg/dl (rango normal: 70-140 mg/dl), sodio 127 mEq/L (rango normal: 135-145 mEq/L), potasio 5.56 mEq/L (rango normal: 3.5-5.0 mEq/L), y los niveles de cloro no se informaron completamente. No se observaron signos de resistencia a la insulina.
+
+El diagnóstico principal es la Cetoacidosis Diabética (CAD), probablemente precipitada por el uso de esteroides sistémicos y posiblemente exacerbada por el LES. Los diagnósticos diferenciales incluyen un brote de pancreatitis aguda, aunque menos probable dadas las actuales hallazgos de laboratorio y sintomatología. La Dra. Beatriz Jiménez recomendó la iniciación inmediata del protocolo de manejo de la CAD, incluyendo líquidos IV, terapia con insulina, y monitoreo y reposición de electrolitos. Es esencial el monitoreo continuo de los signos vitales, la glucosa y los niveles de electrolitos.
+
+Se programaron consultas con endocrinología para el manejo de la diabetes y reumatología para ajustes en el manejo del LES para el 11 de mayo de 2023. Se proporcionó educación al paciente sobre el reconocimiento de los signos de hiperglucemia y la importancia del seguimiento regular. También se discutió la posibilidad de problemas de cumplimiento relacionados con el régimen de medicación complejo y el manejo de enfermedades crónicas.
+
+Información de Contacto:
+Teléfono: (978)890-2118x532
+Correo electrónico: eatne@yahoo.com
+Dirección: Jesper Johansson, Ronda de Raúl Ribera 38 52, Unsister, 95884 Montblanc, 61, Colombia
+
+Contacto de Emergencia:
+Nombre: Jesper Johansson
+Relación: Hijo
+Teléfono: (978)890-2118x532
+
+Información de la Receta:
+Farmacia: Curtis, Crosby and Warren
+Dirección: Jesper Johansson, Ronda de Raúl Ribera 38 52, Unsister, 95884 Montblanc, 61, Colombia
+Teléfono: (978)890-2118x532
+
+Proveedor de Atención Médica del Paciente:
+Nombre: Beatriz Jiménez
+Organización: Curtis, Crosby and Warren
+Dirección: Jesper Johansson, Ronda de Raúl Ribera 38 52, Unsister, 95884 Montblanc, 61, Colombia
+Teléfono: (978)890-2118x532
+
+Firmado,
+Beatriz Jiménez, RN
+"
+

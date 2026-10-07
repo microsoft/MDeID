@@ -1,0 +1,79 @@
+"Nota de Enfermería:
+
+---------------------------------------------
+| DETALLES DEL PACIENTE:                          |
+|                                          |
+| Pilar Durán                                |
+| Dirección: Pilar Durán, Viaducto Micronesia 320 792 42, Epimers, Banos de Montemayor 09050, Peru                       |
+| Edad: 32                               |
+| Contacto: (243)811-6544x9960                         |
+| Correo electrónico: cass@gmail.com                           |
+| Doctor Principal: Lucas Ledesma                 | 
+| Hospital: Evergreen Sanitarium                     |
+| Plan de Salud: h0oNCKJi 6kRt08b dmRfeFul                |
+| Contacto de Emergencia: (243)811-6544x9960               |
+---------------------------------------------
+
+\ud83d\udca2 Queja: 
+[dolor_de_estómago_post-comida]
+
+\ud83d\udcdd Observaciones: 
+- Signos de incomodidad visibles 
+- Sensibilidad en la región epigástrica 
+- Nivel de dolor: 7/10 
+
+\ud83c\udf21\ufe0f Signos vitales: 
+- Presión arterial: 140/85 
+- Pulso: 95 bpm
+- Temperatura: 98.6F 
+
+\ud83d\udc8a Tratamiento proporcionado:
+Administrado Antiacidos (dPXdet 693)
+
+\ud83d\udccc Nota de progreso: 
+30 de noviembre de 2023 - Mejora notada después de la administración de antiácidos
+
+\ud83d\udcbc Entrada profesional: Consultor de asuntos públicos
+
+---------------------------------------------
+| DETALLES DEL EQUIPO MÉDICO:               |
+|                                         |
+| Dispositivo: iqA 28442G                         |
+| Cuenta: nWgSs 0016                       |
+| Licencia: HatvCg TUc                       |
+---------------------------------------------
+
+\ud83d\udcde Información de contacto: 
+- Casa: (243)811-6544x9960 
+- Trabajo: (243)811-6544x9960 
+- Móvil: (243)811-6544x9960 
+
+\ud83d\udcec Dirección de correo: Pilar Durán, Viaducto Micronesia 320 792 42, Epimers, Banos de Montemayor 09050, Peru
+- Código Postal: 09050
+
+\ud83d\udcbb Credenciales en línea: 
+- Nombre de usuario: WtfCgS0x 
+- Dirección IP: 85.122.96.155
+
+\ud83c\udfe2 Organización: Neal, Smith and Gonzalez
+\ud835\ude82\ud835\ude82\ud835\ude7d: 48836933W
+\ud83c\udd94 ID: nWgSs 0016
+
+\ud83d\ude98 Vehículo: 
+- ID del Vehículo: U93 1LF
+
+\ud83d\udd10 Identificador biométrico: 
+- Hash de huella dactilar: 484-608XJs
+
+---------------------------------------------
+| INFORMACIÓN EXTRA                        |
+|                                         |
+| Ciudad: Banos de Montemayor                             |
+| Estado: Canary Islands                           |
+| País: Spain                       |
+| Fax: (746)640-3380x864                               |
+| URL: miller.scott.net                               |
+---------------------------------------------
+
+**Sujeto a confidencialidad - NO COMPARTIR **"
+

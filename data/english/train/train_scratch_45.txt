@@ -1,0 +1,69 @@
+"===================
+PATIENT INFORMATION
+===================
+-Patient Name: Ty Wilson
+-Username: qj6ZySNc
+-Address: Ty Wilson, 61 Gunsmith, Fiveling, Trachypteridae 5167, New Zealand
+-Phone: 473.423.3782x81443
+-Email: na@msf.org
+-DOB: Fri Nov 17
+-Social Security: 018-489-452
+-Account: SSPT CVYuU
+
+===================
+MEDICAL DATA
+===================
+-Hospital: USS Benjamin
+-Doctor: Emma Carlson
+-Medical Record: scO-SaOPVW
+-HealthPlan: N5O YpD
+-IDNUM: SSPT CVYuU
+-Device: 54486-UGWO
+-LICENSE: 660 58Ztpz
+-IPADDRESS: 135.187.218.169
+-BIOID: Zb-317796b
+
+===================
+VITALS
+===================
+-Temp: 98.4 F
+-Pulse: 78 bpm
+-Respiration: 22 rpm
+-BP: 120/80 mmHg
+
+===================
+OBSERVATIONS
+===================
+- General Appearance: Patient continues to report an itchy feeling all over body. 
+- Skin: Pale, various red spots across the torso
+- Eyes: Jaundice noticeable 
+
+===================
+ASSESSMENT
+===================
+-Probable Malaria, blood smear requested to Singh Inc. 
+-Awaiting response from lab at train station to confirm diagnosis.
+
+===================
+PLAN
+===================
+-Advance malaria therapy as suggested by Emma Carlson 
+-Blood transfusion if needed
+-Follow-up consultation after result from Singh Inc
+
+===================
+ADDITIONAL INFORMATION
+===================
+-Patient's vehicle: 54O 7571
+-Profession: Podiatrist
+-Patient's emergency contact: Ty Wilson
+-Emergency contact phone: 473.423.3782x81443
+
+===================
+Footer
+===================
+Doctor's e-signature: Emma Carlson
+Time of completion: Fri Nov 17
+Hospital URL:  johnson.com/main/main/searchabout.html
+Hospital Fax: 726-869-1678x280"
+

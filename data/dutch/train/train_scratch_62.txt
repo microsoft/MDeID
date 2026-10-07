@@ -1,0 +1,57 @@
+"Verpleegkundige Kras Notitie: Huidgevoeligheid
+
+Kop:
+======================
+Patënt: Florian Verlinden
+Beroep: Conservatieofficier, natuur
+Contact: 
+- Telefoon: +1-654-322-9875x1575
+- Email: uzanse@who.int
+- Adres: Florian Verlinden, Vaquero 50, 7841 Invalidness, België
+======================
+
+Vitalen:
+- Temp: 98.6\u00b0F
+- HR: 70 bpm
+- RR: 16 ademhalingen/min
+- BP: 120/80 mmHg
+
+Observaties:
+1. Verhoogde huidgevoeligheid 
+2. Roodheid en schilfering 
+3. Mogelijke psoriasis 
+4. 302 4195AM metingen stabiel 
+
+Beoordelingen & Plan:
+- Huidbiopsie voorgesteld 
+- Dermatologie consult 
+- Gezondheidsplan: 0sNT6IYy
+
+Voetnoot:
+======================
+Noodcontact:
+- Naam: Florian Verlinden
+- Relatie: 
+- Telefoon: +1-654-322-9875x1575
+- Locatie: apotheek
+
+Medische Details:
+- Medisch Dossier: 5440-81466
+- Ziekenhuis: American Colony
+- Dokter: Suzanne Jansen
+- Laatste Bezoek: 16-03-1974
+
+Technische Info:
+- Account: jAUH 66600
+- Gebruikersnaam: loerlinde
+- IP Adres: 189.148.220.117
+
+======================
+
+Neem contact op met de patiënt op +1-654-322-9875x1575 of uzanse@who.int voor eventuele zorgen met betrekking tot Solomon-Gaines werk.
+
+Opmerking: Bespreek met Dr. Suzanne Jansen op 16-03-1974 voor Florian Verlinden's vervolgplan. Permanent record onder ID jAUH 66600 en SOCSEC 681-2383406-32.
+
+Ondertekend,
+Suzanne JansenVerpleegkundige"
+

@@ -1,0 +1,60 @@
+"[Arzt Notiz]
+
+Marlene Schreiber, männlich, 67 (37)
+__Symptome:__
+* Progressive Gangprobleme
+* Steifheit
+* Schwäche der unteren Gliedmaßen
+* Dringender Harndrang (mit Inkontinenz)
+* Erektile Dysfunktion
+
+__Neurologische Untersuchung:__
+* Leichte Dysarthrie
+* Spastische Paraparese
+* Breitbeiniger spastischer Gang
+* Lebhafte tiefe Sehnenreflexe
+* Beidseitiger Achilles-Klonus
+* Babinski-Zeichen
+
+__MRT (Gehirn):__ 
+* Agenesie der hinteren Kommissur
+* Hypoplasie des rechten Fornix und des ipsilateralen Mammillarkörpers
+* Kolpozephalie
+* Rechte frontale parasagittale kortikale Verdickung
+* Periventrikuläre noduläre heterotope Herde
+* Venöse Drainageanomalien
+
+__MRT (Wirbelsäule):__
+* Atrophie des Rückenmarks
+
+__Neuropsychologische Bewertung:__ Normal
+__EEG:__ Normal
+__EMG:__ Normal
+__SEPs:__ 
+* Erhöhte zentrale Leitungszeit
+* Keine Reaktion vom rechten Bein
+
+__MEPs:__ Fehlen in beiden Beinen
+__VEPs:__ Unauffällig
+__OCT:__ Unauffällig
+
+__Genetische Untersuchung:__
+* Hämizygote Mutation c.1394-2A > G im ABCD1-Gen
+
+__Hämochemische Untersuchung:__
+* Cortisol: Normal
+* ACTH: Erhöht (352 pg/mL)
+
+__Diagnose:__
+* X-chromosomal vererbte Adrenoleukodystrophie (x-ALD)
+* Subklinische Nebennierenrindeninsuffizienz
+
+__Plan:__
+* Regelmäßige Überwachung
+* Symptommanagement
+* Nachsorge mit Theresa Vogel (Neurologin) und Theresa Vogel (Endokrinologin)
+* Patientenaufklärung über x-ALD
+
+Theresa Vogel
+"
+

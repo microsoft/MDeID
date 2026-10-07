@@ -1,0 +1,92 @@
+"VERPLEEGKUNDIGE KRABBEL NOTITIES
+
+---------------------------------------------
+PATIËNT'S SNELLE ID: GEPp-wTiLp
+NAAM: Rik van Vliet
+
+---------------------------------------------
+VITALE FUNCTIES:
+- Temperatuur: 100.4 F 
+- Pols: 88 BPM 
+- Bloeddruk: 120/80 mmHg
+- Ademhaling: 16 ademhalingen per minuut 
+- Zuurstofsaturatie: 96% 
+
+---------------------------------------------
+SYMPTOMEN:
+- Koortsig 94: Ja, hoog
+- Rillingen: Ja
+- Transpiratie: Matig
+- Vermoeidheid: Ja
+- Malaise: Ja
+
+---------------------------------------------
+MOGELIJKE DIAGNOSE:
+- Malaria vermoed, wacht op bevestiging van het lab
+
+---------------------------------------------
+LAB AANVRAAG: VlRikn
+- Bloeduitstrijkje Test voor Malaria Parasieten
+
+---------------------------------------------
+BEHANDELPLAN:
+- Initiële behandeling gestart: Antimalariamiddelen 
+- IV vloeistoffen toegediend voor uitdroging
+
+---------------------------------------------
+EXTRA OPMERKINGEN:
+- Gereisd naar malaria-endemisch treinstation twee weken voor symptomen begin
+
+---------------------------------------------
+CONTACT INFO:
+- Telefoon Contact: +1-513-932-0891x56036
+- Email Contact: BEv@red-cross.org
+
+---------------------------------------------
+NOODCONTACT:
+- Naam: Rik van Vliet
+- Contact: +1-513-932-0891x56036
+
+---------------------------------------------
+ARTS VAN DIENST: Eva Bakker
+
+---------------------------------------------
+BEHANDELINGSFACILITEIT: Red Rock Cemetery
+Adres: Rik van Vliet, Georgiana 183, 0752 Micawberism, België
+IP Adres voor Remote Check: 39.131.134.40
+
+---------------------------------------------
+ZORGVERZEKERING: vu6B
+Accountnummer: mn-1773MUm
+
+---------------------------------------------
+ORGANISATIE: Thompson Ltd
+Beroep: Therapeut, muziek
+
+---------------------------------------------
+Apparaat gebruikt voor het controleren van vitale functies: 261756-238
+Licentienummer van het apparaat: 26 kkYWMSX
+
+---------------------------------------------
+Unieke Identifier: mn-1773MUm
+Sociale Zekerheidsnummer: 786-5611532-65
+
+---------------------------------------------
+BIOMETRISCHE GEGEVENS: moAZ-17ySl
+VOERTUIG: 617VP gebruikt voor het vervoeren van de patiënt.
+
+---------------------------------------------
+[Verpleegkundige's Digitale Handtekening VlRikn]
+
+---------------------------------------------
+NOTITIES GEGENEREERD OP: 14 aug. 1997
+
+---------------------------------------------
+URL voor toegang tot medische dossiers van de patiënt:  white.com/tags/categorylogin.html
+
+---------------------------------------------
+FAX: (261)412-5628x644
+POSTCODE: 0752
+STAD: Pierrot
+LAND: België"
+

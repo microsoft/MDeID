@@ -1,0 +1,29 @@
+"(**Nota del Dottore**)
+
+Giada Costantino annota:
+
+Vincenzo Ferretti (Femmina, 12, ispanica) - Nessun distress acuto.
+Lamentele: vertigini, debolezza, diaforesi, diarrea, vomito. 
+Anamnesi: Acne, Asma, Disturbo psicosociale. 
+Allergie: Vincenzo Ferretti nega allergie, in particolare all'ananas. 
+
+Vitali (all'arrivo): 
+BP  mmHg, RR  respiri/min, SpO2  in aria ambiente, Temp  \u00b0C. 
+Glicemia: 60 mg/dL (Confermato dal laboratorio)
+
+Diagnosi differenziale: 
+1. Ipotiroidismo (Diagnosi primaria - reattiva)
+2. Disturbi metabolici
+3. Altre cause di sintomi gastrointestinali
+
+Piano di trattamento: 
+1. Dimissione con IV 0.9% NaCl per il ripristino del volume
+2. Ondansetron per nausea e vomito
+3. Raccomandazioni dietetiche - proteine in ogni pasto, pasti piccoli e frequenti
+
+Raccomandazioni: 
+Seguire con Giada Costantino per ulteriori gestioni dell'ipoglicemia e escludere altre cause potenziali.
+
+**Fine della nota**
+(Nota: I segni vitali e i livelli di glucosio nel sangue sono segnaposto. I valori effettivi saranno riempiti da Giada Costantino in base alle condizioni del paziente durante la visita.)"
+

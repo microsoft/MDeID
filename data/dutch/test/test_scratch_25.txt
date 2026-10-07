@@ -1,0 +1,66 @@
+"**Verpleegkundige Krasnotitie**
+
+--------------
+**Patiëntinformatie**
+-------------
+- Aanwijzing: Femke Lemmens
+- Leeftijd: 37
+- Account: Yq-zUkLQSr
+
+--------------
+**Observatie**
+-------------
+* Hypertensie gedetecteerd
+* Meldingen van duizeligheid
+* Licht in het hoofd
+* Vital Check:
+  * BP: 170/90
+  * HR: 108 
+
+--------------
+**Behandelingsupdates**
+------------
+* Medicatie: Lisinopril
+* Apparaat: 5197-08502 
+
+--------------
+**Voortgang**
+-------------
+* BP vermindering: Onvolledig
+* Duizeligheid status: Onveranderd
+
+--------------
+**Zorgdetails**
+------------
+* Zorgplan: VQNpNGrq
+* Verpleegkundige: Glasblazer/ontwerper
+
+--------------
+**Contacten**
+------------
+* Dokter: Sofie Moens
+* Telefoon: 621-369-7029x92757
+
+--------------
+**Diversen**
+------------
+* Gebruikersnaam: R29nueH1
+* BioID: XOvnW iCKD
+* Ziekenhuis: Moderne Centre Georges
+* Locatie: bibliotheek
+* Email: Soen@microsoft.org
+* IP Adres: 9.31.70.105
+
+-------------
+**Samenvatting**
+-------------
+* Patiënt Femke Lemmens blijft duizeligheid en lichtheid in het hoofd melden. 
+* Vitale tekenen tonen een verhoogde BP indicatief voor hypertensie. 
+* Medicatie (Lisinopril) en 5197-08502 gebruikt in behandeling.
+* Geen significante vooruitgang in BP vermindering, monitoring om door te gaan.
+* Neem contact op met Sofie Moens op 621-369-7029x92757 voor verdere details. 
+
+-------------
+**Einde van Krasnotitie**
+-------------"
+

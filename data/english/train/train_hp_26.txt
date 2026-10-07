@@ -1,0 +1,72 @@
+## H_p_note
+
+### Chief Complaint and Reason for Visit 
+
+Grace Nguyen reports experiencing persistent, localized discomfort and noticeable swelling in the lower extremities, particularly on one side, signs indicative of potential deep vein thrombosis (DVT). Patient also mentions episodes of shortness of breath and visible ecchymosis. 
+
+### Past Medical History
+
+No previous history of thrombotic or hematologic disorders evident in Grace Nguyen's medical records. No family history of DVT or similar conditions reported. 
+
+### Medications Section
+
+Currently, Grace Nguyen is not taking any regular medication or self-prescribed supplements. 
+
+### General Status Section
+
+Patient appears slightly uncomfortable due to the swelling in the lower extremities but otherwise is in fair health. No other signs of distress or confusion. 
+
+### Allergies And Intolerances Section
+
+No known drug allergies or intolerances reported. 
+
+### Family History Section
+
+Grace Nguyen's family history does not demonstrate a significant predisposition to clotting disorders or venous thrombosis. 
+
+### Physical Exam Section
+
+Localized swelling visible in the affected extremity. Palpation elicits pain response from the patient. No other abnormalities noted during the physical examination.
+
+### Vital Signs Section
+
+Baseline vitals show Temperature: 98.6 F, Blood Pressure: 130/85 mmHg, Pulse: 76 bpm, Respiratory Rate: 20 breaths per minute, Oxygen Saturation: 97% on room air.
+
+### Review of Systems Section
+
+Integumentary: No rashes, lesions or ulcers noted. Evident ecchymosis and edema in the lower extremity.
+
+Pulmonary: Reports of shortness of breath.
+
+Cardiovascular: Regular rhythm, no murmurs detected.
+
+Neurological: Alert and oriented, no evident neurological deficits.
+
+### Social History Section
+
+Grace Nguyen leads an active lifestyle with no reported use of tobacco, alcohol, or illicit substances. 
+
+### Results Section
+
+Initial labs ordered for CBC, Coagulation Panel, D-dimer, and other relevant studies. Imaging studies suggested to confirm the presence of DVT.
+
+### Assessment and Plan 
+
+Based on the physical examination and patient's symptoms, DVT is a potential diagnosis. The physician, Cynthia Jackson, plans to manage the patient's symptoms and reduce the risk of more serious complications until further diagnostic results are available. Treatment plan includes anticoagulant medication, monitoring of symptoms and follow-up after test results.
+
+### Instructions Section
+
+Grace Nguyen is advised to maintain leg elevation when possible, to promote venous return and minimize swelling. Additionally, to report any worsening symptoms or new onset symptoms immediately.
+
+### Problem Section
+
+The primary concern at present is the suspicion of deep vein thrombosis (DVT), as indicated by the patient's symptoms and physical exam findings. Laboratory tests and imaging will provide a definitive diagnosis.
+
+### Advance Directives Section
+
+Grace Nguyen has not specified any advance directives yet. A discussion about the importance of advance directives will take place at the appropriate time.
+
+### Procedural Section
+
+No procedures scheduled at this time. Future course of action is heavily dependent on test results.
+

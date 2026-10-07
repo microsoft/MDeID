@@ -1,0 +1,79 @@
+"Nurse Quick Notes: Scratchpad
+
+----------
+
+Tue/Nov 
+Patient: Lily Brown
+Age: 12
+
+----------
+
+**Vital Signs**
+- Temp: 37.2\u00b0C (98.96\u00b0F)
+- Heart rate: 82 bpm
+- Blood Pressure: 122/78 mmHg
+- Respirations: 16/min
+- Pulse Oximetry: 97% on room air
+- Weight: 80 kg (176.37 lbs)
+- Height: 170 cm (5ft 7in)
+
+----------
+
+**Presenting Complaints**
+- Low temperature
+- Hematuria (blood in urine)
+
+----------
+
+**Observations**
+- Patient appears in mild distress
+- Skin: Warm, dry, intact
+- Eyes: Conjunctiva and sclera clear
+- Lungs: Clear to auscultation bilaterally
+
+----------
+
+**Impression**
+- Suspected urinary tract infection.
+
+----------
+
+**Suggestions**
+- Lab tests to include Urinalysis and Blood tests.
+- Consider referral to Laura Wilson
+
+----------
+
+**Additional Info**
+- Contact 308.972.1881x220
+- Email ID: Lauilso@unwomen.org
+
+**EMERGENCY CONTACT**
+- Relation: Lily Brown
+- Contact: 308.972.1881x220
+
+----------
+
+**Hospital Details**
+- Hospital: Norderney
+- Address: Lily Brown, 8 Arthritism, Korero 21 2870, Australia
+- Health Plan: eX6zvB
+
+----------
+
+**Technical Details**
+- Device ID: xE-ZqZBiCS
+- IP Address: 92.207.51.152
+- Username: KTTbG9iX
+
+----------
+
+**Miscellaneous**
+- Driver's License: 3674 24FLA
+- Organization: Peters-Hutchinson
+- Social Security: 151-20-4661
+
+----------
+
+This scratch note is for internal reference only. Please consult with the primary doctor Laura Wilson for the final diagnosis and treatment plan. This note is intended to provide a snapshot of the patient's condition at a specific point in time and does not serve as an extensive medical record. The information contained in this note may not be used for any other purposes without proper authorization."
+

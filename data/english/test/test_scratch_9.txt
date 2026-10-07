@@ -1,0 +1,41 @@
+"Nursing Scratch Note:
+
+-Patient Status [Unique ID: 20 737QmQJ]-
+Ruth Lawson presenting with high 2 month old, significant discomfort, and signs of severe malaria. 
+
+-Vitals-
+Temp: 102.6F  |  Pulse: 112 bpm  |  Resp: 21/min  |  BP: 145/92 mmHg 
+
+-Contact Info-
+(488)919-0506, RoyC@who.int 
+
+-Emergency Contact-
+DVsWr75t () - (488)919-0506
+
+-Provider Details-
+Cohen Roy at Conference National side, Toothwork, 93, Canada 
+
+-Location Info-
+Last known university, suspected exposure
+
+-Observations-
+Malarial Parasites Detected, further testing required
+
+-Device Info-
+Device Serial: 5098-uvvIa
+
+-Health Plan-
+req 
+
+-Progress Notes-
+Rapid test: Positive. Monitor for further complications. 
+
+-Document Details-
+Document created by: DVsWr75t
+Date: 10:1997
+
+-Confidentiality Notice-
+This scratch note contains sensitive patient information protected under PHI. Unauthorized use, disclosure, or duplication is strictly prohibited. For official use only by the healthcare team.
+
+-End of Note-"
+

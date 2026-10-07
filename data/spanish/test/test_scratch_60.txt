@@ -1,0 +1,53 @@
+"\"Notas de Enfermería - 29/11/72\"
+
+======== Detalles del Paciente =========
+Nombre: Gustavo Castro
+Edad: 65
+
+======== Signos Vitales =========
+PA - 120/80
+FC - 78 lpm
+Temp - 98.6\u00b0F
+FR - 18 rpm
+
+======== Observaciones =========
+Frecuencia Urinaria - Aumentada
+Malestar - Leve 
+
+======== Diagnóstico =========
+Posible ITU
+
+======== Plan de Tratamiento =========
+Monitorear signos vitales cada 4 horas
+Administrar antibióticos
+
+======== Misceláneos =========
+Ubicación: playa
+Hospital: Welsh Arts Council
+Plan de Salud: T9WTzfZ
+Doctor: Zöhrə Yaqublu
+Nombre de Usuario: 7Ue87C9g
+Dirección IP: 123.106.27.138
+Dispositivo: AWjRPc JCH
+Historial Médico: pEyZxB 012
+Cuenta: 3137 44WEX
+IDNUM: 3137 44WEX
+Fecha de Nacimiento: 29/11/72
+Bioid: DVyQ-59799
+Licencia: 342 SzZmvE
+Seguridad Social: 33887968L
+Vehículo: GGY 536
+Organización: Oneill, Burke and Green
+Profesión: Copy
+URL: robinson.vazquez.barron.com
+Dirección: Gustavo Castro, Retorno Madera 513 Edif. 853, Depto. 778 107, Chalaco, 52343 TENOSIQUE, 91, Colombia
+Ciudad: TENOSIQUE
+Estado: 91
+País: Argentina
+Código Postal: 52343
+Teléfono: +1-802-271-6419x832
+Fax: 821-667-6534x722 
+
+======== Nota =========
+El paciente Gustavo Castro muestra signos de ITU. Se nota un aumento en la frecuencia de la micción, con un leve malestar. Se comenzará con antibióticos y se monitoreará vitalmente cada 4 horas. Se notificó al Zöhrə Yaqublu de la situación."
+

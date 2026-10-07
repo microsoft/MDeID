@@ -1,0 +1,68 @@
+"Nota de Enfermería:
+
+--------------------------------------------
+ID del paciente: Lorenzo Herrera
+MRN: ZpviIB jBn
+--------------------------------------------
+
+Signos vitales:
+- Temp.: 38.5 Celsius
+- HR: 102 lpm
+- Resp.: 20 /min
+- BP: 135/85 mmHg
+- SpO2: 94%
+
+-------------------------------------------------
+Síntomas notables:
+- Fatiga 
+- Dolores corporales
+- Tos persistente
+- Falta de aliento
+
+Dx: Sospecha de 
+--------------------------------------------------
+
+Tx Administrado:
+- Administrado O2: 2L por cánulas nasales
+- Fluidos IV: 0.9% NaCl 1L
+- Administrado Paracetamol: 
+
+---------------------------------------------------
+Rx Pendiente:
+- Radiografía de tórax
+- Cultivos de sangre
+- CBC, CRP, 
+---------------------------------------------------
+
+Nota: 
+El paciente Lorenzo Herrera se siente agotado. Se queja de dolores, tos persistente, falta de aliento. Posible neumonía, se requieren más pruebas para la confirmación. 
+
+---------------------------------------------------
+Datos adicionales:
+
+Médico referente: Teresa Osorio
+Plan de salud: sU3ndS
+ID del dispositivo: UHAkJu-870
+---------------------------------------------------
+
+Información de contacto:
+
+- Teléfono: 6044786347
+- Correo electrónico: resaorio@hotmail.com
+- Contacto de emergencia: 
+
+---------------------------------------------------
+
+Observaciones:
+aDlSkx7v para hacer seguimiento después de que se completen las pruebas. 
+Administrar tratamiento según lo prescrito por la Dra. Teresa Osorio 
+
+---------------------------------------------------
+Hostname/IP: 46.194.187.165
+Conectado al Sistema Hospitalario: St. Columba ’ s
+Profesión: Perito de cantidad
+---------------------------------------------------
+
+Nota creada el: viernes, 15 de agosto de 2008
+Nota revisada por: aDlSkx7v"
+

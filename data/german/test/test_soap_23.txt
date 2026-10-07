@@ -1,0 +1,28 @@
+"S: Patient Thomas Schumacher ist eine 39 Jahre alte Person mit einer Vorgeschichte von Hypertonie und HER-2-positivem Magenadenokarzinom im Stadium 4 mit Metastasen in die Café, Café und Café. Der Patient berichtet über den neuen Beginn eines tonisch-klonischen Anfalls, den er noch nie zuvor erlebt hat. Darüber hinaus äußert die Person Bedenken wegen zunehmender epigastrischer Schmerzen und möglicher Krankheitsprogression.
+
+O: Der Patient wurde mit Trastuzumab, Cisplatin und Capecitabin behandelt und setzte Trastuzumab bis vor kurzem fort. Eine MRT des Gehirns zeigte eine bilaterale symmetrische T2-FLAIR-Hyperintensität in den okzipitalen und hinteren Parietallappen, was auf PRES hindeutet, ohne Hinweise auf einen akuten Schlaganfall, intrakranielle Blutungen oder Metastasen. Die Blutdruckwerte waren kontrolliert, alle wxL 954908. Eine kürzlich durchgeführte Ösophagogastroduodenoskopie zeigte eine große, bösartig erscheinende, teilweise obstruierende Masse im Magenkörper, was eine Krankheitsprogression bestätigt.
+
+A: Die Hauptdiagnose ist PRES, wahrscheinlich sekundär zu Trastuzumab-Toxizität oder Hypertonie, und HER-2-positives Magenadenokarzinom im Stadium 4 mit bestätigter Progression. Die Differenzialdiagnose umfasst Komplikationen durch Metastasen und Nebenwirkungen der laufenden Chemotherapie.
+
+P: Fortsetzung der Überwachung mit Levetiracetam zur Anfallsbehandlung und strikte Blutdruckkontrolle. Trastuzumab für Dienstag, 18. Oktober 1983 aussetzen und neu bewerten. Wiederholen Sie die MRT des Gehirns am Dienstag, 18. Oktober 1983, um PRES zu überwachen. Behandeln Sie die Magenmasse und die Krankheitsprogression durch Gespräche in der King and Sons und passen Sie den Behandlungsplan entsprechend an. Unterstützende Pflege aufrechterhalten und den Patienten in Entscheidungsprozesse einbeziehen.
+
+Zusätzliche Informationen: 
+Medizinische Aktennummer: rMpC WjIrn
+Kontonummer: HHJ 8974Po
+Gerätebezeichnung: wxL 954908
+Benutzername: Nuu3JVrR
+Fahrzeugkennzeichen: 119 BCL
+Sozialversicherungsnummer: 093-0272280-10
+Lizenzkennzeichen: 02 344988D
+Biometrischer Identifikator: AmlyZ-RzGK
+IP-Adresse: 49.11.209.64
+ID-Nummer: HHJ 8974Po
+Adresse: Thomas Schumacher, Danielle-Schmidtke-Ring 57 186, 9481 Stummrigestr. 3, 37671 Höxter, Schweiz
+Krankenhausname: Kitchee Chan
+Gesundheitsplan: r7MKwB72
+Beruf: Galeriemanager
+E-Mail: ilie@protonmail.com
+Telefonnummer: 383-899-2980x752
+URL: love.com
+Faxnummer: (368)868-6617x0026"
+

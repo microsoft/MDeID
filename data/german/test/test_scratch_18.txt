@@ -1,0 +1,57 @@
+"****
+#### **Krankenpflege-Kratznotiz**
+
+****
+- **Lena Ziegler:** Fieber, 102.9F, Schüttelfrost, Müdigkeit 
+- **39:** Notiert
+- **Medikation: **Überweisung an Thomas Meyer für Typhus-Behandlungsplan
+- **Vitalwerte:**
+    - BP: 121/70mmHg
+    - HR: 98 bpm
+    - RR: 15 Atemzüge/min
+
+****
+
+- **Beobachtungen:**
+    - Rosenflecken auf dem Bauch
+    - Relative Bradykardie
+
+****
+
+- **Untersuchungen:**
+    - Blutkultur: Angefordert, 44 301151a
+    - Widal-Test: In Bearbeitung, KwT 839nBg
+
+****
+
+- **Gesundheitsplan:** 16SB rcLY6SYMK
+- **Krankenhausaufenthaltsinformationen:**
+    - Aufgenommen: Michelbach an der
+    - Zimmernummer: Universität
+- **Kontaktinformationen:**
+    - Telefon: 001-971-778-0862x5587
+    - E-Mail: se@unwomen.org
+
+****
+
+- **Verschiedene Informationen:**
+    - Kontonummer: KwT 839nBg
+    - Gerätenummer (falls beteiligt): 249347 439
+    - Benutzername des Patienten (Krankenhausportal): iJR2V0ch
+    - Fahrzeugkennung (für Abhol-/Bringdienste): M09-62I
+    - Sozialversicherungsnummer: 81 147 751 665
+    - Berufslizenz (falls zutreffend): Tby 972xwZ
+    - Biometrischer Identifikator: 967 sFccqb
+    - IP-Adresse (für Telekonsultationen): 176.238.166.234
+    - Adresse: Lena Ziegler, Ortnerstr. 946 82, 2154 Kradolf, Switzerland
+    - Stadt/Staat/Land/PLZ: Bonn-Bad Godesberg/Appelhülsener/Switzerland/2154
+    - Organisation (falls beteiligt): Braun-Kennedy
+    - URL (für verwandte Ressourcen):  jones-crawford.com/app/main/appterms.asp
+    - Fax (falls zutreffend): 329-985-3486
+
+****
+
+- **Hinweis:** Patient hat Schlafprobleme aufgrund von hohem Fieber, Unwohlsein und Müdigkeit. Der Patient muss engmaschig überwacht werden. Die Familie des Patienten wurde über den Zustand und die nächsten Schritte informiert.
+
+****"
+

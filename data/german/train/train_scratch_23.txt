@@ -1,0 +1,58 @@
+"**KRANKENSCHWESTER-KRATZNOTIZ**
+
+**Patientendetails**
+Victoria Meyer
+83
+Victoria Meyer, Darko-Weitzel-Allee 9 156, 1651 Weilheim, Belgien
+2799408333
+
+**Vitalwerte**
+BP: 130/85
+Puls: 75
+Temp: 36.5 C
+Atmung: 20
+
+**Beschwerde**
+1. Krämpfe in den Waden (Varikose Theater)
+
+**Beobachtungen**
+1. Venen in den unteren Extremitäten erweitert
+2. Keine sichtbaren Ulzerationen
+
+**Behandlung**
+Medikation: 
+Dosierung: 20mg täglich
+Nachsorgetermin: 24.06.1980
+
+**Gesundheitsteam**
+Hauptarzt: Marcel Brunner
+Krankenschwester: P8HLlKNU
+
+**Medizinische Vorgeschichte**
+Letzter Krankenhausbesuch: Royal Anthem, 24.06.1980, 1501-lxxni
+Gesundheitsplan: TaUCwjZS9
+
+**Zusätzliche Informationen**
+IP-Adresse des Patientenlogins: 219.127.196.116
+Gerätenummer für Herzschrittmacher: rJtGS-TqVs
+
+**Kontaktdetails**
+Notfallkontakt: Victoria Meyer
+Kontaktnummer: 2799408333
+Kontakt-E-Mail: Be@yahoo.com
+
+**Strukturierte Informationen**
+Berufslizenz des Hauptarztes: VesOL 6634
+Kontonummer des Patienten: omzbMM-881
+Persönliche Identifikationsnummer: omzbMM-881
+Sozialversicherungsnummer: 095-2115715-87
+Biometrischer Hash des Fingerabdrucks des Patienten für sicheres Einloggen: 33 558fiDW
+
+**Unstrukturierte Informationen**
+Patient arbeitet für: Hall Ltd
+Letztes vom Patienten benutztes Fahrzeug: 9MR6847, Kennzeichen: VesOL 6634
+URL für den Zugriff auf das Online-Gesundheitsportal des Patienten:  turner-hodges.biz/tag/categoryprivacy.php
+Faxnummer für den Versand von medizinischen Berichten: (719)385-4179x4384
+
+**Hinweis**: Zustand des Patienten stabil. Nächste Überprüfung am 24.06.1980.
+

@@ -1,0 +1,14 @@
+"Nursing Narrative Note for Patient with Recurrent Diffuse Large B-Cell Lymphoma (DLBL)
+
+Nurse Note: Patient Phoenix Goodall reported experiencing an incident of a sudden-onset tonic-clonic seizure back in Sun,Mar,23,2014, which he described as both frightening and uncontrollable. The patient's medical history includes a diagnosis of left maxillary sinus diffuse large B-cell lymphoma (DLBL) which was initially diagnosed in Sun,Mar,23,2014. The initial symptoms included left facial swelling, erythema, and a sensation of pressure. The patient underwent a series of treatments including chemotherapy and radiation, which resulted in the resolution of the mass.
+
+In Sun,Mar,23,2014, Patient Phoenix Goodall was intubated and admitted to the Ötisheim for management of status epilepticus. An MRI scan of his brain with contrast indicated the presence of a left frontal mass approximately 3.8 cm in diameter, accompanied by adjacent vasogenic edema. This was suggestive of lymphoma, metastasis, or a primary brain tumor. A frameless CT-guided biopsy of the mass confirmed the recurrence of DLBL. Initial staging in Sun,Mar,23,2014 was IIA with a CNS-IPI score of four, indicating a high risk. The treatment plan included R-CHOP chemotherapy and 36 Gy radiation, with post-treatment scans showing a decrease in mass size.
+
+The primary diagnosis for Patient Phoenix Goodall is recurrent DLBL, manifesting as a left frontal brain mass associated with seizure activity. Differential diagnoses considered were metastasis or a primary brain tumor. The prognosis is guarded given the recurrence and the high-risk nature of the initial presentation.
+
+The ongoing plan involves close monitoring of Patient Phoenix Goodall's condition through regular follow-up appointments and imaging studies to assess the status of the disease. The patient will be managed with a multidisciplinary approach involving specialists from oncology, neurology, and potentially radiation oncology for further treatment options. Education regarding symptom management and when to seek immediate care will be provided. The importance of adherence to the treatment plan and follow-up schedule will be emphasized to the patient.
+
+Header: XcgI-34316 | pgLtA 566F | Balanopsidales | Australia | hEIgF-6734 | Jeremy Perez | remz@outlook.com | EQLZ sMC | XcgI-34316 | 13.86.29.43 | 9978-4268w | Jeremy Perez, 44 Ballat, Sixths 2 4356, Australia | Pope, Silva and Johnson | 001-573-469-4510x2113 | Sales professional, IT | 630-002-619 | 594 | 4418 Brown Shoal | smith.net | EuEOLhAN | MLN 151 | 8518 | 384.679.2793x9910
+
+Footer: EuEOLhAN | MLN 151 | 630-002-619 | 9978-4268w | pgLtA 566F | 13.86.29.43 | XcgI-34316 | 9 | Phoenix Goodall, 127 Hemianesthesia, Turquoises 41 8518, Australia | Ötisheim | mall | EQLZ sMC | Sales professional, IT | Pope, Silva and Johnson | Sun,Mar,23,2014 | Jeremy Perez | remz@outlook.com | Phoenix Goodall | 001-573-469-4510x2113 | smith.net | 384.679.2793x9910"
+

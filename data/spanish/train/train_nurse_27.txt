@@ -1,0 +1,39 @@
+"**NOTA NARRATIVA DE LA ENFERMERA**
+
+Información de admisión para el paciente Guillermo Calderón
+
+El paciente, un residente de 2 años de México originario de México, fue admitido con una historia de una semana de alteración del estado mental, fiebre, dolor de cuello, náuseas y vómitos. El paciente niega cualquier historia de dolor abdominal, dolor de cabeza, cambios visuales, debilidad focal, dolor en el pecho, disnea, tabaquismo, alcohol o uso de drogas ilícitas. El paciente no ha visto a un René Graf en la edad adulta y no ha tomado medicamentos. La familia informa actividades nocturnas como cocinar y limpiar, y somnolencia intermitente.
+
+A su ingreso, el paciente fue intubado debido a preocupaciones de las vías respiratorias y admitido en el Dakshina Kannada district en Algete, Tamps.. Los signos vitales incluyeron una temperatura de 36.5\u00b0C, frecuencia cardíaca de 90 lpm, frecuencia respiratoria de 22/min, presión arterial de 108/61 mm Hg, y saturación de oxígeno del 100% en 40% de FiO2. El examen físico reveló signo de Brudzinski positivo, rigidez de cuello, pupilas iguales y reactivas a la luz, y respuesta a estímulos dolorosos. Los pulmones estaban claros, y los exámenes cardíacos y abdominales no mostraron nada notable. 
+
+Los datos de laboratorio mostraron un recuento elevado de glóbulos blancos de 19,900/mm3 con 81% de neutrófilos, hemoglobina 11.8 g/dL, recuento de plaquetas 170,000/\u00b5L, creatinina 0.5 mg/dL, bilirrubina 0.6 mg/dL, AST 49 IU/L, ALT 81 IU/L, y fosfatasa alcalina.
+
+La presentación clínica y los hallazgos sugieren meningitis bacteriana aguda, considerando síntomas de fiebre, rigidez de cuello, alteración del estado mental, y hallazgos de laboratorio de apoyo incluyendo leucocitosis con neutrofilia. Los diagnósticos diferenciales podrían incluir encefalitis viral u otras infecciones del SNC.
+
+El plan de manejo incluirá la continuación de la monitorización en la UCI con cuidados de apoyo. Iniciar terapia antibiótica empírica dirigida a patógenos comunes que causan meningitis, pendiente de más resultados diagnósticos como el análisis del LCR. Asegurar un seguimiento cercano del estado neurológico y los signos vitales. Educar al paciente y a la familia sobre la condición, el plan de tratamiento, y los resultados esperados. Organizar una consulta neurológica y considerar una consulta de enfermedades infecciosas si es necesario. Discutir la importancia del seguimiento y el manejo a largo plazo.
+
+**Detalles adicionales**
+- Número de registro médico: 34025-uOmK
+- Número de cuenta: SibXe oZNm
+- Número de serie del dispositivo del paciente: 32 oGrUpfs
+- Nombre de usuario para el portal del paciente: Guillermoó
+- Número de identificación del vehículo: 237GA
+- Número de seguridad social: 82097736N
+- Número de licencia: lsr-NKHYdL
+- Identificador biométrico: DIRsG-aPAU
+- Dirección IP: 4.101.214.39
+- Número de ID: SibXe oZNm
+- Dirección de casa: Guillermo Calderón, Via Dorotea Castro 5 10, Heliocentricity, Algete 71627, Peru
+- Plan de salud: PXaGzkMbZu
+- Profesión del paciente: Asistente de político
+- Organización: Pierce-Wallace
+- Fecha de admisión: 25 de septiembre de 2018
+- Nombre del doctor: René Graf
+- Email del paciente: Rena@msf.org
+- Número de contacto: 313-971-5676
+- URL para recursos del paciente: rodriguez-mckay.com
+- Número de fax: 001-628-929-2147x741
+
+Enfermera René Graf
+"
+

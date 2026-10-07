@@ -1,0 +1,54 @@
+"**Krankenpflege-Kratznotiz**
+
+_Patientendetails:_
+- **Patienten-ID**: Sascha Brunner
+- **MRN**: jcE-rCQsCG
+- **Alter**: 95
+- **Aufgenommen von**: Christian Schmid
+
+_Kontaktinformationen:_
+- **Hausanschrift**: Sascha Brunner, Schöffmannstraße 09 146, 4573 Großaitingen, Belgien
+- **Telefonkontakt**: +1-699-378-1879x362
+- **E-Mail**: aid@yandex.com
+
+_Vitalwerte und Beobachtungen:_
+- **BP**: 120/80 
+- **Atemfrequenz**: 14
+- **Puls**: 65
+
+_Aktueller Status:_
+
+Symptome von Impetigo festgestellt. Entwickelnde Geschwüre im Gesicht. Hautinfektion vermutet. Antibiotika verschrieben.
+
+_Laboruntersuchungen:_
+
+Angeordnet für komplettes Blutbild, Kultur von Hautabstrich.
+
+_Verfahren & Gerät:_
+- **Verfahren**: 174736-16F
+- **Geräte-ID**: fxPG-0343B
+
+_Andere Details:_
+- **IP-Adresse** : 155.47.208.221
+- **Krankenhaus-ID** : Sehan
+- **Gesundheitsplan**: ChRRLS
+
+_Kommentare:_
+
+Zustand des Patienten verbessert sich. Nachsorge mit Hausarzt geplant. 
+
+-----------------------------------------------------------------------------------------------
+
+**Datenschutzabschnitt:**
+- **Gesundheitsdienstleister**: Rollins-Saunders
+- **Login-Benutzername**: DpyfYZXO
+- **Lizenzinformationen**: rtTv 47946
+- **Biometrischer Identifikator (Fingerabdruck-Hash)**: 60-stAiPMC
+- **Allgemeine ID-Nummer**: 174736-16F
+- **Sozialversicherung**: 97 990 667 374
+- **Fahrzeug-ID (für Notfall-Evakuierung)**: 7HA 620
+
+-----------------------------------------------------------------------------------------------
+
+Diese Kratznotiz unterliegt den Datenschutzregeln und -richtlinien der Gesundheitsorganisation. Jeder unbefugte Zugriff oder die Offenlegung von Informationen kann rechtliche Schritte zur Folge haben."
+

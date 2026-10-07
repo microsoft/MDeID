@@ -1,0 +1,62 @@
+"**Verpleegkundige Krasnotitie** 
+
+- Patiënt: Ruben De Vos
+- Klacht: uitslag op de huid, voornamelijk bij mond en neus
+- Observatie: Huid lijkt rood, pusgevulde plekken gevonden, vermoedelijke impetigo
+- Vitale functies: 
+  - Temperatuur: 98.6F
+  - Pols: 80 bpm
+  - Bloeddruk: 120/80 mmHg
+  - Ademhalingsfrequentie: 16 ademhalingen/min
+
+- Voortgang: 
+  - Begin: zaterdag 12 november 1977
+  - Progressie: Snel
+  - Huidige staat: Verslechterend
+
+- Behandeling: 
+  - Voorgeschreven antibioticum: 81 AfHeaOD
+  - Toepassingstijd: zaterdag 12 november 1977
+  - Vervolgafspraak: zaterdag 12 november 1977
+
+-----------------------------------------------
+Extra notities:
+
+Apparaat gebruikt: IK-4331DXy
+Zorgplan: 9Qv
+Beoordelingslocatie: stadion
+
+-----------------------------------------------
+Noodcontactinformatie:
+
+- Contactpersoon: Ruben De Vos
+- Relatie tot patiënt: Ingenieur, controle en instrumentatie
+- Adres: Ruben De Vos, Aerobee 145, 7606 Handygrip, Nederland
+- Telefoon: 001-292-420-8810x745
+- Email: ss@gmail.com
+
+-----------------------------------------------
+Instituutdetails:
+
+- Ziekenhuis: Steinfort
+- Dokter: Jens Pieters
+- Verpleegkundige: eenVos
+- Medisch dossier: 81 AfHeaOD
+- Account: 5448-3219G
+- Contact URL:  taylor.com/categoryhome.htm
+
+-----------------------------------------------
+Diversen:
+
+- Patiënt's voertuig: 5-63427
+- Patiënt's Sociale Zekerheid: 097-7294752-54
+- Patiënt's Licentie: 322952 TSH
+- Patiënt's BIOID: BfpiSn pbP
+- Patiënt's IP-adres: 178.26.179.90
+- Patiënt's ID-nummer: 5448-3219G
+- Patiënt's Leeftijd: 65
+- Patiënt's Organisatie: Stephens-Terrell
+- Fax: (340)992-5054x22610  
+
+Einde van Krasnotitie."
+

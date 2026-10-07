@@ -1,0 +1,22 @@
+"Note du Docteur Scratch :
+
+Lara Huber : 6 ans, femme, antécédents de prématurité, parent adoptif soignant. Retard moteur, agitation, incapacité à supporter le poids des membres inférieurs, pas de traumatisme.
+
+Signes vitaux : 
+Poids : 100,000 CFU/mL (positif)
+CBC, BMP : Sans particularité
+TSH : Normal
+Créatinine kinase : >1200 U/L (élevé, 6x limite supérieure normale)
+
+Évaluation :
+Primaire : Compression de la moelle épinière, rétrospondylolisthésis T12 (cause de la paralysie des membres inférieurs, rétention urinaire)
+Différentiels : Troubles neuromusculaires, conditions infectieuses/inflammatoires (indiquées par l'élévation de la créatinine kinase)
+
+Plan :
+Consultations immédiates : Neurochirurgie pédiatrique, orthopédie, urologie. 
+Tests supplémentaires : Évaluer les dommages musculaires, les causes sous-jacentes.
+Surveillance : État neurologique, fonction rénale.
+Éducation parentale : Condition, options de traitement, exigences de soins.
+
+Nicolas Wouters"
+

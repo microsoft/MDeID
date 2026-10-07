@@ -1,0 +1,96 @@
+"**NOTA DEL PAZIENTE**
+
+----------
+**Centro di Cura di Cardito - Garcia, Lopez e Hall**
+----------
+**Paziente**: Greta Serra
+
+**ID**: AeCxyX 622
+
+**SSN**: 392377-6704
+
+**Account**: LKBUhV 70M
+
+**Piano Sanitario**: T2Ldqnw37N
+
+----------
+**Segni Vitali**
+----------
+Temp: 98.6\u2109
+
+BP: 120/80
+
+HR: 75 bpm
+
+RR: 20/min
+
+SpO2: 98%
+
+----------
+**Osservazioni**
+----------
+- Si lamenta di mal di testa
+- 82 mostra segni di disagio
+- Nessuna allergia nota
+- PERRLA normale
+
+----------
+**Trattamenti**
+----------
+- Prescritto analgesico
+- Si consiglia idratazione
+
+----------
+**Note di Progresso**
+----------
+- Mal di testa persistente
+- Greta Serra riposa
+- Monitoraggio per cambiamenti
+
+----------
+**Informazioni di Contatto**
+----------
+Medico Primario: René Zimmermann
+
+Email: ermannné@hotmail.com
+
+Telefono: 001-670-325-0670x219
+
+----------
+**Informazioni sul Dispositivo**
+----------
+ID Dispositivo: bGv 4486De
+
+----------
+**Informazioni Aggiuntive**
+----------
+Nome utente: B1HXqSCj
+
+Indirizzo IP: 160.9.211.6
+
+Licenza: mt-IyyOTIB
+
+Professione: Bibliotecario accademico
+
+----------
+**Contatti di Emergenza**
+----------
+1. Greta Serra | 001-670-325-0670x219
+2. Greta Serra | 001-670-325-0670x219
+
+----------
+**Indirizzo**: Greta Serra, Rotonda Omma, 435 Piano 0 89, 7888 Gallarate, Svizzera
+
+----------
+**Ospedale**: Bishop Bank
+
+----------
+**Altra Località**: mercato
+
+----------
+**BIOID**: Rbm-DTdQtG
+
+**VEICOLO**: CIQ-8377
+
+**FAX**: 592.424.2954"
+

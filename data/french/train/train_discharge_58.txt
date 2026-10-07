@@ -1,0 +1,47 @@
+# Résumé de Sortie
+
+## Patient : Angelina Gay
+
+## Hôpital : Messancy
+
+## Diagnostic à l'admission :
+
+La patiente a été admise en raison d'un cas sévère de goutte, qui était accompagné de symptômes tels que des bouffées de chaleur, une douleur intense, des rougeurs, un gonflement et un érythème notable.
+
+## Parcours hospitalier :
+
+Tout au long du séjour à l'hôpital, la patiente a reçu un traitement visant à soulager la douleur et à réduire l'inflammation causée par la goutte. Cela comprenait des injections de stéroïdes, des AINS et de la colchicine.
+
+## Procédures effectuées :
+
+Une analyse du liquide synovial a été effectuée pour confirmer le diagnostic, qui a effectivement révélé des cristaux d'urate indicatifs de la goutte.
+
+## Diagnostic à la sortie :
+
+Lors de la sortie, l'état de Angelina Gay s'était nettement amélioré, l'érythème et le gonflement ayant considérablement diminué. La patiente a signalé une diminution substantielle de la douleur.
+
+## Plan de traitement :
+
+Angelina Gay a été prescrit de l'allopurinol, un médicament utilisé pour prévenir les crises de goutte. Il a été souligné que ce médicament ne doit pas être utilisé pendant une crise de goutte, mais plutôt pour prévenir les occurrences futures.
+
+## Médicaments à la sortie :
+
+Désirée Benoit a prescrit de l'allopurinol, à prendre régulièrement pour prévenir d'autres crises de goutte.
+
+## Consultations à l'hôpital :
+
+Angelina Gay a été référée à un rhumatologue, Dr. Désirée Benoit, pour un suivi et une gestion supplémentaire de la condition.
+
+## Informations fournies au patient et à la famille :
+
+La patiente a été informée des modifications alimentaires à apporter pour gérer la goutte, qui comprennent la réduction de la consommation d'alcool, de boissons sucrées et d'aliments riches en purines. Il a également été conseillé de maintenir un poids corporel sain et de faire de l'exercice régulièrement.
+
+## Dispositions pour les soins de suivi :
+
+Un rendez-vous de suivi avec le rhumatologue référé, Dr. Désirée Benoit, a été programmé dans le mois suivant la sortie.
+
+## Numéro de dossier médical : Fn rUMKltY
+
+## Informations supplémentaires :
+
+Ce document de résumé de sortie est destiné à la continuité des soins, il comprend donc toutes les informations pertinentes concernant l'admission, le traitement et le suivi du patient. Il fournit la base du plan de soins de santé continu du patient et aide les autres prestataires de soins de santé dans leurs interactions futures avec le patient.

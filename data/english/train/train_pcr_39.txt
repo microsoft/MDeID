@@ -1,0 +1,33 @@
+"EMS Patient Care Report
+
+[DISPATCH DETAILS]
+This team was dispatched to a call for an individual, Morgan Lévesque, experiencing fatigue and an unusual taste in the mouth - as was initially reported in our system under the account wbUVv 4687. The dispatch was received via our 33083 3793 from a nearby stadium. Login credentials for our system, organsqu, were used to allocate the appropriate team for the emergency.
+
+[SYMPTOMS]
+Upon arrival at the scene, we found Morgan Lévesque in a state of lethargy, which has been progressive for Sun:2010. Morgan Lévesque was conscious but reported feeling constantly tired and experiencing a persistent, unpleasant taste. 
+
+[HISTORY OF PRESENT ILLNESS]
+The patient-reported problem began approximately Sun:2010 ago. The patient's medical record number DNXqH-1509 revealed that this is an occasional problem. The unpleasant taste, described as 'terrible', appeared to be a new complaint. Morgan Lévesque was seated in a stadium at the time symptoms intensified.
+
+[TREATMENT AND ASSESSMENT]
+The primary assessment was performed by the paramedic Howard Webb, who is licensed under number RgIq-IgJui. The patient was conscious and alert. The general impression of the patient was of moderate distress. The patient's vitals were recorded on our handheld device with an IP address 47.169.189.233.
+
+During the secondary assessment, the patient's lung sounds were clear bilaterally. The taste complaint was noted, though no physical cause was immediately apparent. The patient's state of constant tiredness (1-month-old related fatigue) was acknowledged, and the decision to transport Morgan Lévesque to the hospital Crowborough Sussex was made for further evaluation.
+
+[TRANSPORT] 
+The patient was transported without incident in the hospital's vehicle LNL 634 and without delay to the Crowborough Sussex. The patient's belongings were secured for transport - this was confirmed by the ambulance driver, Howard Webb.
+
+[REPORT]
+Upon arrival at the emergency department, Morgan Lévesque's care and the report were handed over to the emergency department nurse. The person taking over patient care received a patient report which included the patient\u2019s medical history and treatments. Contact information for the patient, including 001-688-966-6396x585 and warWeb@zoho.com, was confirmed.
+
+The nurse, having been informed about the patient's health plan c5G, managed the billing information and processed it using our secured website lindsey.wilson-kelly.com. The patient Morgan Lévesque, who works professionally under the title Agricultural consultant for the organization Craig, Thompson and Snyder provided their social security number 768-157-465.
+
+[PERSONAL DETAILS]
+The patient Morgan Lévesque resides at: Morgan Lévesque, 122 Checkups, Periproctous, 70 8392, United States, was reached at 001-688-966-6396x585. No further questions were raised from the healthcare provider's side.
+
+[DOCUMENTATION]
+The nurse secured the patient's consent on the computer form - the signed copy was scanned and sent to the billing department through fax 608-318-7317.
+
+Report Compiled by:
+Howard Webb"
+

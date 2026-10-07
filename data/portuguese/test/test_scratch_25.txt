@@ -1,0 +1,66 @@
+"**Nota Rápida de Enfermagem**
+
+--------------
+**Informações do Paciente**
+-------------
+- Designação: Juliana Carvalho
+- Idade: 90
+- Conta: BcId 88VDq
+
+--------------
+**Observação**
+-------------
+* Hipertensão detectada
+* Relatos de tontura
+* Sensação de desmaio
+* Verificação Vital:
+  * PA: 170/90
+  * FC: 108 
+
+--------------
+**Atualizações de Tratamento**
+------------
+* Medicação: Lisinopril
+* Dispositivo: 16 871263a 
+
+--------------
+**Progresso**
+-------------
+* Redução da PA: Incompleta
+* Estado de tontura: Inalterado
+
+--------------
+**Detalhes do Cuidado**
+------------
+* Plano de Saúde: 2mXhTE2N2
+* Enfermeira: Executiva de vendas
+
+--------------
+**Contatos**
+------------
+* Médico: Renan Araújo
+* Telefone: +1-767-341-1542x67648
+
+--------------
+**Diversos**
+------------
+* Nome de usuário: oJuliana
+* BioID: RBLA-iRRwk
+* Hospital: Castelo Tantallon
+* Localização: cafeteria
+* Email: onan@icloud.com
+* Endereço IP: 53.52.53.127
+
+-------------
+**Resumo**
+-------------
+* Paciente Juliana Carvalho continua relatando tontura e sensação de desmaio. 
+* Sinais vitais mostram uma PA elevada indicativa de hipertensão. 
+* Medicação (Lisinopril) e 16 871263a usados no tratamento.
+* Sem progresso significativo na redução da PA, monitoramento a continuar.
+* Contate Renan Araújo no +1-767-341-1542x67648 para mais detalhes. 
+
+-------------
+**Fim da Nota Rápida**
+-------------"
+

@@ -1,0 +1,52 @@
+DISCHARGE SUMMARY
+
+Patient: Zoe Jones
+
+Attending Physician: Nicholas Russell
+
+# REASON FOR HOSPITALIZATION:
+
+Zoe Jones was admitted to the hospital following positive guaiac results and symptoms that included chills and ecchymosis, indicative of anemia.
+
+# HOSPITAL COURSE:
+
+Upon admission, the patient's initial hemoglobin level was noted to be low at 8g/dl, signaling a possible medical condition like anemia. The hospital course was complicated by episodes of chilling, and the appearance of spontaneous bruising (ecchymosis), prompting further investigation which included a battery of tests.
+
+# PROCEDURES PERFORMED:
+
+During the stay, a bone marrow biopsy was performed due to the presence of monoclonal proteins in the blood. This procedure helped in identifying the root cause of the patient's condition.
+
+# CARE, TREATMENT, AND SERVICES:
+
+Zoe Jones was started on iron supplementation and Erythropoietin. Regular blood tests were carried out to monitor hemoglobin levels and response to treatment. Additional services like dietary consultation were also availed to ensure an intake of iron-rich food. Nursing care was provided around the clock to monitor the patient's vital signs and general well-being.
+
+# CONDITION AT DISCHARGE:
+
+At the time of discharge, Zoe Jones's hemoglobin level had increased to 11g/dl and the symptoms such as chilling and ecchymosis had subsided significantly. The patient's general condition also showed improvements.
+
+# INFORMATION PROVIDED TO THE PATIENT AND FAMILY:
+
+The findings and the subsequent treatment plan were explained in detail to Zoe Jones and the family. They were also informed about the importance of a healthy, iron-rich diet and regular follow-up for continuous monitoring of the medical condition.
+
+# PROVISIONS FOR FOLLOW-UP CARE:
+
+Outpatient follow-up care has been arranged with Nicholas Russell in the Hematology Division. The patient is scheduled to return for a check-up in two weeks. 
+
+# DISCHARGE MEDICATION:
+
+Iron supplements and Erythropoietin injections were prescribed and instructions for the same were explained to the patient and family.
+
+# HOSPITAL DISCHARGE INSTRUCTIONS:
+
+Zoe Jones and the family were given specific instructions on signs of worsening condition like continuous chills, excessive fatigue, or significant bruising and to seek immediate medical attention in case these symptoms arise.
+
+# DISCHARGE DIAGNOSIS:
+
+Anemia, likely caused by decreased iron absorption or inadequate dietary intake.
+
+Signed:
+
+Nicholas Russell
+
+Medical Record Number: 027484-999
+

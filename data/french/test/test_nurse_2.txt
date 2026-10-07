@@ -1,0 +1,41 @@
+"En-tête : Document d'admission du patient
+---------------------------------------
+Informations sur le patient : Arthur Claessens
+Date d'admission : mardi 9 octobre 2012
+
+Sujet : Narration subjective
+---------------------------------------
+Arthur Claessens, un homme de 62 ans d'origine mixte Suisse, a présenté une sensation anormale, spécifiquement, une sensibilité diminuée de la lèvre inférieure droite s'étendant à la région mentale. Son état physique général a été signalé comme modéré, et son état nutritionnel a été évalué comme favorable. Aucun autre facteur significatif n'a été noté dans l'évaluation du thérapeute horticole.
+
+Objectif : Résultats objectifs
+---------------------------------------
+L'imagerie diagnostique, y compris une tomodensitométrie (TDM) de la région faciale de Arthur Claessens, a révélé une zone radiotransparente ronde dans le corps mandibulaire droit. Une imagerie par résonance magnétique (IRM) subséquente a mis en évidence une intensité de signal élevée irrégulière sur les sections horizontales STIR, ainsi qu'une dilatation du canal mandibulaire droit sur les sections sagittales. Les résultats de la biopsie ont indiqué un schwannome impliquant la région Antoni A, suggérant une lésion immature avec un potentiel de croissance active. Pendant la chirurgie, une tumeur kystique (mesurant 3,2 x 1,0 cm) associée au nerf alvéolaire inférieur a été trouvée, qui a été ligaturée et extirpée. Les suivis postopératoires ont montré une radiopacité accrue au site de la plaie, signifiant une croissance osseuse saine.
+
+Évaluation : Diagnostic et pronostic
+---------------------------------------
+Le diagnostic principal pour Arthur Claessens est un schwannome de la région mandibulaire droite. Une extirpation chirurgicale réussie a été réalisée, et aucune cellule tumorale n'a été trouvée aux marges du spécimen de nerf résecté. Le pronostic semble prometteur, à condition que la surveillance régulière soit maintenue.
+
+Plan : Plan de traitement
+---------------------------------------
+Arthur Claessens a subi une extirpation de tumeur sous anesthésie générale, montrant des résultats positifs après la chirurgie. Des suivis réguliers sont prévus pour évaluer la croissance osseuse et s'assurer qu'il n'y a pas de récidive de la tumeur. Arthur Claessens est conseillé de maintenir son état nutritionnel et de signaler tout nouveau symptôme ou préoccupation sans délai.
+
+Pied de page : Informations de contact et détails supplémentaires
+---------------------------------------
+Contact d'urgence : +1-473-277-6485x329
+Informations sur le véhicule : NDJ 841
+Adresse résidentielle : Arthur Claessens, 97337 Legrand Glens Suite 058 116, 4584 Port Launay (Finistère, Suisse
+Email : xWhit@red-cross.org
+Fournisseur de soins de santé : Felix White
+Plan de santé : r8O
+Hôpital : Pärnu Gymnasium
+Numéro de dossier médical : NDVMO QPAB
+Numéro de compte : 11-RUpdCcy
+Identifiant de l'appareil : rBR-03400d
+Numéro d'identification : 11-RUpdCcy
+Numéro de sécurité sociale : 734071-2691
+Numéro de licence : 292052-571
+Identifiants biométriques : vIdIcs bUs
+Adresse IP : 120.250.40.14
+URL : https://cox-ball.com/list/categories/mainhome.jsp
+Fax : 479.620.3557"
+

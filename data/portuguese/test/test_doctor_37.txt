@@ -1,0 +1,33 @@
+"Nota do Doutor Scratch:
+
+Paciente: Helena Alves
+ID: JVP ksDaeV
+
+S: 
+Homem de 19 anos 84. Queixas: polidipsia, poliúria, fraqueza muscular, vômitos, paralisia transitória. Duração: Mais de um mês. Histórico médico: Negativo para doenças neuromusculares, tireoidianas, autoimunes. Hospitalização anterior: Sim, causa- hipocalemia grave, acidose metabólica. Mudanças nos sintomas desde a última avaliação: Nenhuma relatada.
+
+O:
+PHI: Scone Abbey 
+Última admissão: Diagnosticado com hipocalemia grave, acidose metabólica. pH 7.22, pCO2 26.0 mm Hg, HCO3 10.6 mmol/L, lactato 7.1 mmol/L, excesso de base -15.6 mmol/L. 
+
+Exames atuais: 
+WBC 3.16 \u00d7 109/L, hemoglobina 74 g/L, contagem de plaquetas 128 \u00d7 109/L, sódio 140 mmol/L, cloreto 108 mmol/L, potássio 3.18 mmol/L, cálcio 1.89 mmol/L, creatinina 57.8 mmol/L, bicarbonato 19 mmol/L, pH urinário 6.5, sódio urinário 80 mmol/L, potássio urinário 18.68 mmol/L. 
+
+Teste de urina de 24 horas: 
+Sódio 320 mmol/24h, potássio 74.7 mmol/24h, cálcio 12.24 mmol/24h, proteína 988.00 mg/24h. 
+
+Osmolalidade sérica e urinária: 
+303 e 158 mOsm/kg, respectivamente. 
+
+Exame físico: 
+Pálido.
+
+A:
+Diagnóstico primário: Hipocalemia, acidose metabólica associada. Diferenciais: Acidose tubular renal, insuficiência adrenal, perda gastrointestinal de potássio. Paralisia transitória, fraqueza muscular: Preocupante para paralisia periódica, potencialmente secundária a distúrbios eletrolíticos graves.
+
+P:
+Plano de ação: Monitorar níveis de eletrólitos, equilíbrio ácido-base. Administrar suplementos de potássio. Considerar terapia com bicarbonato se a acidose metabólica persistir. Encaminhamento: Laura Fernandes, Nefrologista para avaliação adicional da função renal, potenciais distúrbios tubulares. Aconselhar o paciente: Adira ao tratamento e recomendações dietéticas para o potássio. Seguimento: Em uma semana para reavaliar sintomas, resultados de exames. Discutir plano de gerenciamento com o paciente, incentivar a notificação de novos sintomas ou preocupações.
+
+Assinado:
+Laura Fernandes"
+

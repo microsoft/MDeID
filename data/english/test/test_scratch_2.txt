@@ -1,0 +1,79 @@
+"Nursing Scratch Note:
+
+---------------------------------------------
+| PATIENT DETAILS:                          |
+|                                          |
+| Elliot Girard                                |
+| Address: Elliot Girard, 159 Itemy, Amusee, 50 2290, United States                       |
+| Age: 11 week                               |
+| Contact: 4289872817                         |
+| Email: ao@unwomen.org                           |
+| Primary Doctor: Madison Johnson                 | 
+| Hospital: www.gutenberg.org                     |
+| Health Plan: 2Lo                |
+| Emergency Contact: 4289872817               |
+---------------------------------------------
+
+\ud83d\udca2 Complaint: 
+[stomach_pain_post-meal]
+
+\ud83d\udcdd Observations: 
+- Signs of discomfort visible 
+- Tenderness in epigastric region 
+- Pain level: 7/10 
+
+\ud83c\udf21\ufe0f Vitals: 
+- Blood Pressure: 140/85 
+- Pulse: 95 bpm
+- Temperature: 98.6F 
+
+\ud83d\udc8a Treatment Provided:
+Administered Antacids (358526-006)
+
+\ud83d\udccc Progress Note: 
+1995 - Noted improvement post-antacid administration
+
+\ud83d\udcbc Professional Entry: Immunologist
+
+---------------------------------------------
+| MEDICAL EQUIPMENT DETAILS:               |
+|                                         |
+| Device: TUcQ-SLamu                         |
+| Account: 69-300etcG                       |
+| License: 4448 Xqlwr                       |
+---------------------------------------------
+
+\ud83d\udcde Contact Information: 
+- Home: 4289872817 
+- Work: 4289872817 
+- Mobile: 4289872817 
+
+\ud83d\udcec Mailing Address: Elliot Girard, 159 Itemy, Amusee, 50 2290, United States
+- Zip Code: 2290
+
+\ud83d\udcbb Online Credentials: 
+- Username: nkvkM0tp 
+- IP Address: 201.49.203.79
+
+\ud83c\udfe2 Organization: Reed-Russell
+\ud835\ude82\ud835\ude82\ud835\ude7d: 999-717-002
+\ud83c\udd94 ID: 69-300etcG
+
+\ud83d\ude98 Vehicle: 
+- Vehicle ID: MEE-3549
+
+\ud83d\udd10 Biometric Identifier: 
+- Fingerprint Hash: SRr-HatvCg
+
+---------------------------------------------
+| EXTRA INFORMATION                        |
+|                                         |
+| City: Amusee                             |
+| State: 50                           |
+| Country: New Zealand                       |
+| Fax: 522.319.0460x427                               |
+| URL: reyes.stout-davis.info                               |
+---------------------------------------------
+
+**Subject to Confidentiality - DO NOT SHARE **"
+

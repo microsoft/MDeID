@@ -1,0 +1,104 @@
+"Nota de Enfermagem
+
+--------------------------------------------------
+
+|             DETALHES DO PACIENTE:              |
+
+| Paciente João Castro        |
+
+| Idade: 58                           |
+
+| Endereço: João Castro, Travessa Lorena Araújo, 5 132, Pyruline, Corumbaíba - 67, YQLORXLQ, Brasil |
+
+| Conta: AA 5055cRR           |
+
+| Hospital: Coetzenburg     |
+
+| Prontuário Médico: CPhxB-QgSm |
+
+--------------------------------------------------
+
+-----------------------------------------------------
+
+|             OBSERVAÇÃO DE ENFERMAGEM:             |
+
+-----------------------------------------------------
+
+PA: 128/84      
+
+Frequência Cardíaca: 72 bpm    
+
+Frequência Respiratória: 18 rpm
+
+Saturação de O2: 98%
+
+-----------------------------------------------------
+
+|             AVALIAÇÃO DE ENFERMAGEM:              |
+
+-----------------------------------------------------
+
+Paciente João Castro relata sintomas de resfriado - 
+
+Presente: 
+
+- Tosse (gravidade 7/10)
+
+- Congestão nasal
+
+------------------------------------------------
+
+|             POSSÍVEIS INTERVENÇÕES:           |
+
+------------------------------------------------
+
+- Hidratação 
+
+- Descanso
+
+- Medicamentos para resfriado de venda livre
+
+-----------------------------------------------------
+
+|             INFORMAÇÕES DE CONTATO:               |
+
+-----------------------------------------------------
+
+Doutora: Raissa Moraes      
+
+Telefone: 996-868-6944      
+
+Email: ssra@msf.org
+
+--------------------------------------------------
+
+|             INFORMAÇÕES ADICIONAIS:              |
+
+--------------------------------------------------
+
+Identificador do Usuário: M3qcrDUw                               
+
+ID do Dispositivo: AaSsod-GZg        
+
+Contato de Emergência: João Castro        
+
+CPF: 465.566.456-07                          
+
+Licença: 37 841458c                            
+
+Profissão: Contador, certificado  
+
+-----------------------------------------------------
+
+|             PRÓXIMA CONSULTA:                     |
+
+-----------------------------------------------------
+
+Local: ponto de ônibus
+
+Data: segunda-feira, 6 de janeiro de 2003
+
+Plano de Saúde: shb 
+
+Nota: Monitorar a melhora ou piora dos sintomas. Contate a Raissa Moraes se os sintomas persistirem ou piorarem."
+

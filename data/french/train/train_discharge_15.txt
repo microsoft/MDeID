@@ -1,0 +1,32 @@
+RÉSUMÉ DE SORTIE
+
+Patient : Aria Morin
+
+Diagnostic à l'admission : Bronchite aiguë
+
+Raison de l'hospitalisation :
+Aria Morin a été admise en raison d'une toux persistante, de sifflements, d'essoufflement et d'une oppression thoracique. Ces symptômes sont devenus de plus en plus graves malgré un traitement préalable, ce qui a conduit à l'admission du patient.
+
+Parcours hospitalier :
+Aria Morin a d'abord reçu des traitements par nébuliseur et des corticostéroïdes intraveineux pour aider à soulager l'inflammation des bronches. Au cours du séjour à l'hôpital, les symptômes se sont progressivement améliorés et le patient a répondu positivement au traitement. Les signes vitaux et les niveaux d'oxygène dans le sang ont été étroitement surveillés quotidiennement.
+
+Allergies et Intolérances :
+Le patient n'a signalé aucune allergie ou intolérance médicamenteuse connue pendant le séjour à l'hôpital.
+
+Procédures effectuées :
+Aucune intervention chirurgicale n'a été nécessaire pendant l'hospitalisation de Aria Morin. Les soins primaires ont impliqué l'administration de médicaments et la surveillance de la fonction pulmonaire.
+
+Diagnostic à la sortie :
+Au moment de la sortie, l'état de Aria Morin s'était nettement amélioré. Le diagnostic à la sortie reste la bronchite aiguë.
+
+Traitement et services fournis :
+Pendant le séjour à l'hôpital, des soins complets ont été fournis, y compris l'administration de médicaments, des traitements par nébuliseur et de la physiothérapie pour la mobilisation thoracique. Une surveillance régulière des signes vitaux et de la saturation en oxygène a été effectuée, avec des valeurs dans la plage normale pendant la dernière partie du séjour à l'hôpital.
+
+Instructions de sortie :
+Aria Morin a été conseillée de continuer les médicaments prescrits, de maintenir une bonne hydratation et d'éviter l'exposition aux polluants. En cas d'augmentation de la toux, de fièvre ou de toute forme de détresse respiratoire, le patient doit chercher une attention médicale immédiate.
+
+Suivi :
+Aria Morin a un rendez-vous de suivi prévu avec le médecin traitant, Evan Roy, deux semaines après la sortie. Lors de cette visite, l'efficacité du traitement sera évaluée et tout ajustement nécessaire du régime médicamenteux sera effectué.
+
+Ce rapport a été préparé par : Evan Roy[MEDICALRECORD:XXXX]
+[DATE: XX/XX/XXXX]

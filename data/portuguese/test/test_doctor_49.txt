@@ -1,0 +1,88 @@
+"Nota Rápida
+
+Murilo Sousa
+
+Caso Conhecido: Lúpus Eritematoso Sistêmico (LES)
+
+Histórico: Pancreatite idiopática
+
+Queixas Atuais: 
+
+- Fraqueza, fadiga
+
+- Náusea, vômito
+
+- Intolerância alimentar
+
+- Visão embaçada
+
+- Dor abdominal
+
+Sem histórico de diabetes ou outras doenças autoimunes, exceto LES
+
+Hospitalizações anteriores - múltiplas por pancreatite (todos os testes negativos para cálculos biliares, tumores, doenças autoimunes, doenças metabólicas)
+
+Diagnóstico recente: Lúpus discóide, LES, manifestações neuropsiquiátricas graves
+
+Tratamento: 
+
+- Metilprednisolona
+
+- Cloroquina
+
+- Levetiracetam
+
+- Fenitoína
+
+- Lorazepam
+
+- Bolus mensal de 
+
+Sintomas começaram ~ 7 dias após a 6ª dose de , total 6.25g
+
+Sinais vitais: 
+
+- Taquicardia (125 bpm)
+
+- Taquipneia (27 respirações/minuto)
+
+- Sonolência
+
+- Desidratação
+
+Resultados de laboratório: 
+
+- Glicose sérica: 1240 mg/dl (normal: 70-140 mg/dl)
+
+- Sódio: 127 mEq/L (normal: 135-145 mEq/L)
+
+- Potássio: 5.56 mEq/L (normal: 3.5-5.0 mEq/L)
+
+- Cloro: Não totalmente relatado
+
+- Sem resistência à insulina
+
+Impressão: Cetoacidose diabética (CAD) - provavelmente devido ao uso de esteróides sistêmicos, exacerbado pelo LES e recente terapia com . Diagnóstico diferencial: Surto de pancreatite aguda, menos provável
+
+Recomendações:
+
+- Iniciar protocolo de gerenciamento de CAD
+
+- Fluidos IV, terapia com insulina
+
+- Monitoramento de eletrólitos, reposição
+
+- Monitoramento contínuo de sinais vitais, glicose, eletrólitos
+
+- Consultar com Camila Correa (endocrinologia)
+
+- Consultar com Camila Correa (reumatologia)
+
+- Educação do paciente sobre o reconhecimento de sinais de hiperglicemia
+
+- Enfatizar acompanhamento regular
+
+- Abordar questões de conformidade relacionadas ao regime de medicação complexo
+
+Camila Correa"
+

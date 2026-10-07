@@ -1,0 +1,32 @@
+"Nota de Rasguño del Doctor
+
+Paciente: Francisco Flores, ID: oaN-1650sM, Edad: 9
+
+Queja Principal: Crecimiento rápido de nevo congénito, región lumbosacra. Presente desde el nacimiento, cambios significativos durante el último año. Cambio de color reportado, bordes irregulares, sangrado ocasional y dolor.
+
+Observaciones: 
+- Tumor eritematoso de 6 x 4 cm, sangrado activo en placa marrón oscuro de 8.5 x 3 cm
+- Más de 20 lesiones melanocíticas documentadas (fotografía total del cuerpo, dermatoscopia digital)
+- Melanoma epitelioide maligno de propagación superficial (biopsia lumbosacra)
+- Hibridación in situ de fluorescencia: Positivo para RREB1, MYB, CCND1 en nueva lesión
+- Intervención quirúrgica: Escisión local amplia, biopsia del ganglio linfático centinela, reconstrucción de colgajo
+- Patología: Espesor del tumor de Breslow: 13 mm, Nivel Clark V, ulceración extensa, mitosis: 10/mm2, márgenes negativos, 6 de 20 ganglios linfáticos positivos para metástasis
+- Pruebas genómicas: No se detectaron mutaciones BRAF
+
+Evaluación: Melanoma en etapa IIID (T4bN3aM0, AJCC 8ª edición). Crecimiento rápido, ulceración, participación significativa de los ganglios linfáticos - enfermedad agresiva, pronóstico grave.
+
+Plan:
+- Tratamiento: Iniciado Interferón-\u03b1-2b (nota: toxicidad observada en la primera semana de la fase de inducción)
+- Monitoreo: Seguimientos regulares para la progresión de la enfermedad y el manejo de los efectos secundarios
+- Educación: Proporcionada sobre signos de recurrencia y metástasis
+- Apoyo: Apoyo psicológico para afrontar el diagnóstico
+
+Doctor: Lidija Mesić, Licencia: 112600 210, Especialidad: Diseñadora de moda
+
+Hospital: Millennium resident, Ubicación: Francisco Flores, Callejón Paraguay 802 Edif. 316, Depto. 064 147, Diel, SAN MARTIN 86211, Perú
+
+Contacto: Teléfono (444)994-8889x7461, Correo electrónico iMe@unicef.org
+
+Fin de la Nota.
+"
+

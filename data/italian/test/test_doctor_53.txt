@@ -1,0 +1,49 @@
+"Tipo di nota: Nota Rapida
+
+----------
+Note di Mia Meier
+----------
+
+6 mag 2015
+
+Paziente: Walter Wyss
+
+ID: Sx-21TBNqb
+
+ETÀ: 41
+
+Storia di sinusite ricorrente, otite media, timpanostomia bilaterale, tonsillectomia, immunoterapia allergenica in corso per allergie ambientali.
+
+Sintomi presentati:
+- Irritazione, arrossamento, sensazione di corpo estraneo mobile nell'occhio sinistro
+- Insorgenza: ieri mentre giocava a sport su un campo di calcio fertilizzato con letame
+- Tentativi di auto-trattamento: lacrime artificiali, irrigazione con acqua del rubinetto, nessun sollievo
+
+Visita al Pronto Soccorso:
+- Risultati dell'esame: 11 larve coerenti con il primo stadio di O ovis nell'occhio sinistro
+- Congiuntiva sinistra: iniettata
+- Movimenti extraoculari: integri
+- Acuità visiva: normale in entrambi gli occhi
+- Esame con lampada a fessura: molteplici larve nella congiuntiva bulbare, fornice palpebrale
+- Trattamento: soluzione oftalmica di polisporina-bacitracina-neomicina, albendazolo 400 mg al giorno per 3 giorni
+
+Diagnosi: 
+- Primaria: Oftalmomiasi esterna dovuta all'esposizione a larve di O ovis
+- Differenziale: Altre cause di congiuntivite o sensazione di corpo estraneo nell'occhio escluse dai risultati oggettivi e dalla conferma dell'identificazione larvale
+- Prognosi: Buona, data l'identificazione e il trattamento tempestivi
+
+Piano: 
+- Continuare la soluzione oftalmica come indicato
+- Completare il ciclo di albendazolo
+- Appuntamento di controllo con l'oftalmologo: 6 mag 2015
+- Educazione del paziente:
+    - Importanza di indossare occhiali protettivi durante la pratica sportiva, soprattutto in ambienti con maggiori rischi di esposizione
+    - Importanza del mantenimento di una buona igiene
+    - Cercare assistenza medica se i sintomi ricorrono o si sviluppano nuovi sintomi
+
+Mia Meier
+
+----------
+Fine della Nota
+----------"
+

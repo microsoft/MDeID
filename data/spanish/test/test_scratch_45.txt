@@ -1,0 +1,62 @@
+"# Nota de Enfermera Scratch 
+
+### Detalles del Paciente:
+    ======================================
+    Nombre: Erick Rocha
+    Edad: 1
+    Seguridad Social: 597-21-5656
+    Hospital: 17th century collections
+    Doctor Asistente: Ramiro Campos
+    Número de Historia Clínica: WlUrS 6315
+    ======================================
+
+    |Signos Vitales|
+    ---------------
+    P.A: 120/80 
+    Temp: 37 C 
+    Pulso: 80 BPM 
+    Frec. Resp.: 16/min 
+    Sat O2: 98%
+
+## Condición:
+    - Tos persistente
+    - Dificultades para respirar
+
+## Observaciones:
+    - Sonidos pulmonares anormales
+    - Secreción nasal presente
+
+## Tratamiento:
+    - Nebulización con solución salina
+    - Supresores de la tos
+
+    -------------------------------------
+
+### Información Adicional:
+    -------------------------------------
+    Plan de Salud: FtfD9IygFCKCZIHI
+    Dirección: Erick Rocha, Ronda de Dimas Paredes 268 63, Uncuffed, REYNOSA 12284, Peru
+    Contacto: 001-436-429-8214
+    Contacto de Emergencia: 001-436-429-8214
+
+    -------------------------------------
+
+## Otros Detalles:
+    -------------------------------------
+    Dispositivo: 2345-PoNHx
+    BioID: gaG 176fka
+    Dirección IP: 212.57.220.6
+    Número de ID: 615-pbseqg
+    Nombre de Usuario: charic
+    Licencia: onwz 6022i
+    Vehículo: 976K3
+    -------------------------------------
+
+- Profesiones involucradas: Metallurgist
+- Organizaciones Relevantes: Barr, Martinez and Hall
+- Otras Ubicaciones: escuela
+- Fechas Relevantes: lunes, 24 de octubre de 1983
+- Correo Electrónico del Paciente: mpr@red-cross.org
+- URL: https://www.cherry.org/categoryfaq.html
+- Fax: 270.380.7589"
+

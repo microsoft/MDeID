@@ -1,0 +1,56 @@
+"**Note de l'infirmière**
+
+Informations sur le patient : Rosalie Lévesque
+
+Signes vitaux :
+- TA : 120/80 mmHg
+- FC : 75 bpm
+- FR : 16/min 
+- Temp : 98.6 F
+- SpO2 : 98%
+
+Observations :
+- Éruption cutanée : Sur tout le corps
+- Peau : Sèche, squameuse
+- État : Démangeaisons, intense
+- Soupçonné : Infection fongique
+
+Plan de traitement :
+- Médicament antifongique
+- Crème hydratante pour la peau
+- Suivi : Après 2 semaines
+
+Informations structurées :
+
+| Élément        | Placeholder   |
+| -------------- | ------------- |
+| Nom du médecin  | Clément Le goff      |
+| Dossier médical | PwqgM-0783 |
+| Numéro de compte | 199 817UWe     |
+| Numéro de licence | 1891-OYNmX     |
+| ID de l'appareil      | 7618-JudtG      |
+| Nom d'utilisateur       | DVKZZf6u    |
+| ID du véhicule     | 235-112     |
+| Sécurité sociale| 450923-6064 |
+| ID Bio         | 14673-914J       |
+| Adresse IP     | 111.1.205.19   |
+| Numéro d'identification      | 199 817UWe       |
+| Âge            | 71         |
+| Adresse        | Rosalie Lévesque, 4606 Jamar Ford 30, 9016 Vieux, Suisse     |
+| Hôpital       | Joaquim Arcoverde de    |
+| Autre lieu | parc |
+| Plan de santé    | 3tE  |
+| Profession     | Expert-comptable  |
+| Organisation   | Barnes-Osborne|
+| Email          | goffmenL@yahoo.com       |
+| Téléphone          | 385-510-8432x2874       |
+| URL            |  www.jones-white.org/tag/tagindex.asp         |
+| Fax            | 001-917-548-4224x11529         |
+| État          | Calvados       |
+| Ville           | La Ferté-Beauharnais        |
+| Pays        | Suisse     |
+| Rue         | 40953 Kevin Drives Apt. 326      |
+| Code postal            | 9016         |
+
+Note : Le patient se plaint de démangeaisons intenses et d'inconfort dus à l'éruption cutanée. Prescription d'un médicament antifongique et d'une crème hydratante pour la peau. Suivi régulier recommandé."
+

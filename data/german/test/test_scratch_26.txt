@@ -1,0 +1,75 @@
+"Pflegekratznotiz:
+
+--------------
+Donnerstag, 3. November 1977 
+--------------
+Pt: Samuel Krüger
+--------------
+- CC: \"Bauchschmerzen, fühlt sich fiebrig an\"
+- Temp: 38,8\u00b0C
+- BP: 130/85 mmHg
+- Puls: 92 pm
+
+Beobachtungen:
+- Scheint unwohl zu sein, hält ständig den Bauch
+- Haut fühlt sich warm an
+- Keine bekannten Allergien
+
+-------------
+Aktuelle Medikamente:
+-------------
+- 
+- 
+
+-----------------
+Testergebnisse:
+-----------------
+- 
+- 
+
+Mögliche Dx: Typhus
+
+----------------------
+Behandlungsplan:
+----------------------
+- 
+- 
+
+-----------------
+Kontakt:
+-----------------
+- Anna Wyss: Dr. Anna Wyss
+- 939-692-2021x247: 939-692-2021x247
+- Email: yssAnna@mail.com
+- Fax: +1-346-645-6931x6080
+
+----------------
+Andere PHI:
+----------------
+- Aufnahmedatum: Donnerstag, 3. November 1977
+- Entlassungsdatum: Donnerstag, 3. November 1977
+- MRN: WcFoX-4783
+- Krankenkasse: wXzwf
+- Org.: Wilson-Payne
+- Beruf: Agrarberater
+- Standort: Park
+- IP-Adresse: 18.211.114.2
+- SSN: 219-7664026-12
+- Konto-Nr.: UE 40529Za
+- Gerätenummer: PZtM 91368
+- Benutzername: Krügeru
+- Fahrzeug: 4SA92
+- Lizenz: DfGeAJ bnL
+- Biometrische ID: eOZ-8772bC
+- ID-Nr.: UE 40529Za
+- Adresse: Samuel Krüger, Junckenallee 7 109, 0651 Elsbethen-Glasenbach, Belgien
+- Stadt: Alegría
+- Staat: Reulsbergweg
+- Land: Österreich
+- PLZ: 0651
+- URL: hamilton.medina.com
+
+---------------
+Ende der Notiz
+---------------"
+

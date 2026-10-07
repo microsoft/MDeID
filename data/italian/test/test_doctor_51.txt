@@ -1,0 +1,45 @@
+"Appunti del Dottore
+
+Paziente: Lara Meyer 
+ID: DNXzzE 248 
+Età: 31 
+Dottore: Federica Basile 
+Numero di Cartella Clinica: HVFnh 2374
+
+Reclami presentati:
+- Gonfiore cronico degli arti inferiori: Durata - Circa 6 mesi
+- Mancanza di respiro: Durata - Circa 6 mesi
+- Sanguinamento vaginale anormale intermittente: Durata - Circa 3 mesi
+
+Osservazioni:
+- Saturazione di ossigeno: 80% (aria ambiente)
+- Frequenza cardiaca: Elevata (Tachicardia)
+- Pressione sanguigna: Bassa (Ipotensione)
+- Notato: Suoni cardiaci diminuiti
+- Presente linfadenopatia sopraclavicolare sinistra
+- Radiografia del torace: Silhouette cardiaca ingrandita, versamento pleurico bilaterale
+- Pericardiocentesi: Drenati 500 mL di secrezione sanguinolenta
+- Citologia del fluido pleurico: Carcinoma scarsamente differenziato
+- Biopsia del linfonodo sopraclavicolare sinistro: Carcinoma squamoso metastatico
+- Biopsia cervicale: Carcinoma squamoso (lesione intraepiteliale ad alto grado)
+- Livello di CA-125: 335.5 IU/mL
+- Risonanza magnetica pelvica: Nessun tumore uterino o cervicale, confermata carcinomatosi peritoneale
+
+Valutazione:
+- Carcinoma squamoso metastatico
+- Complicazioni: Versamenti pericardici e pleurici, instabilità emodinamica, insufficienza respiratoria
+- Differenziali: Altre forme di cancro metastatico (escluse)
+
+Piano:
+- Chemioterapia: Carboplatino, paclitaxel
+- Offerta pericardiocentesi ripetuta (rifiuto del paziente)
+- Considerata scleroterapia intrapericardica (non eseguita - mancanza di esperienza della struttura)
+- Condizione deteriorata, ha portato alla morte il giorno 46 dopo la presentazione iniziale
+
+Informazioni di contatto:
+Telefono: +1-419-529-2821x76450
+Email: sic@unicef.org
+Ospedale: Street Plaza
+Indirizzo: Lara Meyer, 317 Baker Cliff 123, 3437 Porto Azzurro, Svizzera
+"
+

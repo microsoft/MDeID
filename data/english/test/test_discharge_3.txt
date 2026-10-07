@@ -1,0 +1,34 @@
+--------------------------------------DISCHARGE SUMMARY--------------------------------------
+
+**[PATIENT]**Pamela Douglas, **[MEDICAL RECORD NUMBER]** wp 06pbcCw, **[ATTENDING PHYSICIAN]** Linda Bradley**Primary Reason for Hospitalization:** Diagnosis of osteomyelitis
+
+**Allergies and Intolerances Section:** No known allergies or intolerances.
+
+**Hospital Course Section:** During the hospitalization, the patient experienced moderate to severe pain, redness at local sites, tenderness in the prostate, recurrent fever, and difficulty in urination - further diagnostic tests confirmed the presence of osteomyelitis. Immediate treatment was initiated to manage symptoms and prevent further progression of the disease.
+
+**Procedures Section:** Performed MRI for assessment and confirmation of osteomyelitis. 
+
+**Results Section:** MRI results showed evidence of infection in the bones indicative of osteomyelitis. 
+
+**Discharge Diagnosis:** Osteomyelitis
+
+**Discharge Medications:** Prescribed antibiotics and pain management medications. All the necessary information and instructions regarding medicines have been explained and handed over to the patient. 
+
+**Plan of Treatment Section:** Post-discharge, the patient would continue antibiotic therapy for a further four weeks and have regular follow-up appointments at the hospital outpatient department.
+
+**Hospital Consultations Section:** Consulted with a team of infectious disease specialists during the course of hospitalization for guidance in managing osteomyelitis.
+
+**Provisions for Follow-up Care:** Follow-up care has been arranged at the outpatient department with Linda Bradley. 
+
+**Information provided to the patient and family:** Extensive counseling was provided regarding disease management, potential complications, medication adherence, importance of follow-ups, and lifestyle modifications.
+
+**Hospital Discharge Instructions Section:** The patient is advised to complete the course of antibiotics without fail, take rest, maintain hydration, and avoid stress. Also, any worsening symptoms or side effects of medications should be reported immediately. 
+
+**Discharge Disposition:** The patient's condition improved significantly at the time of discharge and is safe to continue recovery at home.
+
+**Past Medical History:** Not significant for chronic diseases. This was the first incidence of a serious infection.
+
+**Social History Section:** No history of smoking or alcohol abuse. Regular physical activity and balanced diet.
+
+--------------------------END OF DOCUMENT---------------------------
+

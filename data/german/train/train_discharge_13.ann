@@ -1,0 +1,14 @@
+T1	PATIENT 60 72	Silke De Vos
+T2	PATIENT 559 571	Silke De Vos
+T3	PATIENT 954 966	Silke De Vos
+T4	PROFESSION 1237 1303	Wissenschaftlers, klinisch (Histokompatibilität und Immunogenetik)
+T5	PATIENT 1378 1390	Silke De Vos
+T6	PATIENT 1796 1808	Silke De Vos
+T7	DOCTOR 1860 1877	Benjamin De Wilde
+T8	HEALTHPLAN 2319 2345	ZSQeMT OcGmC0 LkCvTD pnolI
+T9	MEDICALRECORD 2441 2451	7800-yKMTD
+T10	PATIENT 2693 2705	Silke De Vos
+T11	PROFESSION 2903 2968	Wissenschaftler, klinisch (Histokompatibilität und Immunogenetik)
+T12	DOCTOR 3064 3081	Benjamin De Wilde
+T13	PATIENT 3172 3184	Silke De Vos
+T14	DOCTOR 3271 3288	Benjamin De Wilde

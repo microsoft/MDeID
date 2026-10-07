@@ -1,0 +1,31 @@
+"Arzt Kratz Notiz
+
+Nico Arnold 
+kwg-RFoJlx
+10 
+
+Diagnose : 
+Systemischer Lupus Erythematodes (SLE) bestätigt vor 3 Jahren
+Auffällige Anzeichen: Hautanomalien, Alopezie, +ANA
+Aufnahmegrund: Lupus-Nephritis - nephrotisches Bereichsproteinurie, dysmorphe Hämaturie, +direkter Coombs 
+Kürzliche Krankenhausaufenthalt: Fieber, Desorientierung, Halluzinationen (aufgelöst nach Behandlung)
+
+Beobachtungen:
+Frühere Tests: +anti-Sm, +anti-dsDNA, konsumierendes Komplement
+Frühere Behandlungen: Endovenöse Kortikosteroide, Cyclophosphamid für Lupus-Nephritis
+Letzter Krankenhausaufenthalt: Empirische Antibiotika, CMV-Screening: +niedrige pp65 Antigenämie
+
+Bewertung:
+Hauptdiagnose: SLE mit Komplikationen (Lupus-Nephritis, jüngste Episode wahrscheinlich aufgrund einer CMV-Infektion)
+Differentialdiagnose: Andere Ursachen für CNS-Symptome (aufgelöst mit vermuteter Infektionsbehandlung)
+
+Plan:
+Überwachung von SLE, Lupus-Nephritis regelmäßig, Denise Bauer Nachsorge zur Behandlungsanpassung.
+Schnelle Symptommeldung wird empfohlen.
+CMV-Behandlung derzeit nicht erforderlich, Überwachung möglicher Aufflackern oder Komplikationen.
+Weitere Aufklärung über Symptommanagement und Behandlungstreue bei Nachsorge.  
+
+Denise Bauer
+eniseuer@unhcr.org
+(703)755-7093x11513"
+

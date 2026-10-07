@@ -1,0 +1,47 @@
+"Notas do Dr. Martim Gonçalves
+--------------------------
+PACIENTE: Mariana Correa
+ID: 690 sHpOzL
+
+IDADE: 104
+
+QUEIXAS APRESENTADAS:
+- Alteração da marcha
+- Microcefalia
+- Episódios de desconexão
+- Convulsões febris
+- Distúrbios do sono
+- Atrasos no desenvolvimento (habilidades motoras)
+- Comportamento semelhante ao TDAH
+
+INTERVENÇÕES ANTERIORES:
+- Intervenção psicopedagógica
+- Tratamento com metilfenidato
+
+OBSERVAÇÕES:
+Microcefalia confirmada
+
+INVESTIGAÇÕES:
+- EEG: Normal
+- RM: Estrutura encefálica normal
+- Genética: Deleção de 182 bases no marcador C7 (bases 2475-2657). Sem alterações nos genes LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8, PAX2
+
+AVALIAÇÃO:
+- Microcefalia com problemas de desenvolvimento e comportamento associados
+- Possíveis distúrbios genéticos ou metabólicos
+- Prognóstico: Cauteloso
+
+AÇÕES PLANEJADAS:
+- Continuar intervenções psicopedagógicas
+- Manter tratamento com metilfenidato
+- Acompanhamento EEG (problemas de sono)
+- Avaliações regulares de desenvolvimento
+- Educação parental sobre monitoramento e adesão ao tratamento
+- Próxima consulta: 29/05/2005
+
+Assinado,
+Dr. Martim Gonçalves
+Bryant-Ortiz
+4695232033
+vrti@gmail.com"
+

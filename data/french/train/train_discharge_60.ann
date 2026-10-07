@@ -1,0 +1,9 @@
+T1	PATIENT 24 40	Quentin Bertrand
+T2	PATIENT 75 91	Quentin Bertrand
+T3	PATIENT 429 445	Quentin Bertrand
+T4	DOCTOR 476 491	Mélissa Laurent
+T5	PATIENT 885 901	Quentin Bertrand
+T6	PATIENT 1652 1668	Quentin Bertrand
+T7	DOCTOR 1702 1717	Mélissa Laurent
+T8	MEDICALRECORD 2612 2622	BF 278GyIM
+T9	DOCTOR 2639 2654	Mélissa Laurent

@@ -1,0 +1,22 @@
+"Nota de Rascunho do Médico
+
+S:
+
+Francisco Coelho, 21, infecções recorrentes na garganta. Febre, dor de garganta, congestão nasal e tosse - 5 dias. Diagnóstico de Influenza - dia 1, prescrito oseltamivir. Medicamento D/C - dia 3 devido a náuseas e vômitos. Dor abdominal, dor nas articulações (joelho esquerdo, tornozelo direito, cotovelo direito), letargia, falta de apetite, urina escura. Ambiente familiar - vive com a mãe e três irmãos, sem sintomas semelhantes.
+
+O:
+
+Exame no centro de emergência - febre (39,4°C), hipotensão (78/47 mm Hg), taquipneia (taxa respiratória 33/min), taquicardia (frequência cardíaca 160/min). Exame físico - lesões labiais crostosas, linfadenopatia cervical, congestão nasal, eritema faríngeo não purulento, sopro sistólico, hepatosplenomegalia, sem sinais de artrite. Resultados laboratoriais - contagem normal de leucócitos (11.600/mm3), trombocitopenia (contagem de plaquetas 36.000/mm3), anemia (hemoglobina 8,9 g/dL), hipoalbuminemia (albumina 1,9 g/dL), proteinúria, piúria estéril, marcadores inflamatórios elevados (proteína C-reativa 182 mg/L, taxa de sedimentação de eritrócitos elevada). Admitido no Villebertran, unidade de terapia intensiva pediátrica, iniciado cefepime e vancomicina intravenosos.
+
+A:
+
+Sintomas graves - infecção sistêmica ou processo inflamatório. Complicações - diagnóstico recente de influenza, reação adversa à medicação antiviral. Diagnóstico diferencial - sepse, complicações pós-infecciosas da influenza, outra condição infecciosa ou autoimune subjacente. Envolvimento multi-sistêmico - anormalidades hematológicas, hepatosplenomegalia, marcadores inflamatórios elevados.
+
+P:
+
+Monitorar sinais vitais, valores laboratoriais no Villebertran, unidade de terapia intensiva pediátrica. Manter cefepime intravenoso, vancomicina, ajustes baseados em resultados de cultura, resposta clínica. Cuidados de suporte - hidratação, nutrição. Mais investigação diagnóstica - culturas de sangue, ecocardiograma, possível biópsia de medula óssea (causa de trombocitopenia, anemia). Atualizações regulares para a família de Francisco Coelho, educação sobre aderência ao tratamento, monitoramento de sintomas em casa após a alta. Consultar José Silva, hematologia, especialistas em doenças infecciosas para manejo abrangente.
+
+José Silva, Dançarino
+
+Jenkins Ltd"
+

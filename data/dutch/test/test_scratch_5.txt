@@ -1,0 +1,49 @@
+"**Verpleegkundige Krasnotities** - Unieke ID: 663657-jHz
+***Patiënt Zorgen*** 
+Ademhalingsproblemen - Ernst opgemerkt, extra details vastgelegd in patiëntendossier nr. 527990 416
+
+***Vitale Tekens*** 
+BP: 120/80 mmHg
+Hartslag: 75 bpm
+Ademhaling: 21 bpm 
+Temperatuur: 37.2 C 
+Zuurstofverzadiging: 92% 
+
+***Observaties*** 
+Zichtbare Problemen - Ademhaling, Astmatische Symptomen - Opgemerkt
+Verwijzing naar Dr. Lore Gérard voor verder onderzoek. 
+
+--- 
+**Noodcontact Informatie** 
+Naam: Melissa Claessens 
+Contact Nr: (209)956-3890 
+Email Id: arL@aol.com 
+Adres: Melissa Claessens, Enterozoa 160, 3427 Relighter, België
+
+**Apparaat Info**
+Apparaat Naam: Astma Inhalator, 
+Apparaat Nr: 12010-03Ks
+
+**Factuur Info**
+Account Nr: 663657-jHz
+Gezondheidsplan: d4Fd jnqd0f
+---
+**Andere Info** 
+Patiënt's Beroep: Rural practice surveyor
+Leeftijd: 68
+Consultatiedatum: 13 feb. 1993
+Locatie van Consultatie: bank
+Ziekenhuis Naam: Fort Anne near
+Patiënt's Sociale Zekerheid Nr: 334659746
+
+***Plan***
+Verhoog frequentie van inhalatorgebruik. 
+Ademhalingspatroon monitoren. Verwijzen naar longarts Dr.Lore Gérard.
+Patiënt's BioID: CjGqpQ txy
+---
+**Opmerkingen**
+Patiënt's IP Adres: 83.124.21.130
+Patiënt's Licentie Info: 07342 9654
+
+Dit is een synthetisch document."
+

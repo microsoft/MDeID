@@ -1,0 +1,62 @@
+"Nota del Doctor
+-------------
+Alexa Gómez - 33 - mujer
+
+Historia reciente:
+- Fiebre intermitente, escalofríos
+- Fatiga, disminución del apetito
+- Dolor de espalda y abdominal
+- Pérdida de peso: 35 lbs (3 meses)
+- Tratamiento para la malaria: 6 meses atrás
+- Viaje reciente: Perú
+
+Signos vitales:
+- Temp: 102.3 F
+- PA: 103-110/59-64 mmHg
+- FC: 92-113 lpm
+- Sat O2: 99% (Aire ambiente)
+
+Laboratorio:
+- Hb: 4.4
+- VCM: 87.5
+- Plaquetas: 13
+- GB: 6.4
+- INR: 1.73
+- Na: 132
+- Lactato: 4.6
+- FAL: 133
+- Tbili: 1.9
+- Dbili: 1.6
+- Albúmina: 2.8
+
+Imágenes:
+- RX, TC: Infiltrados en los lóbulos inferiores bilaterales, áreas focales de infiltrados y consolidación (Wehen)
+- Pequeño hidrocele escrotal derecho
+
+Frotis de sangre:
+- Pocos monoblastos
+- Características displásicas
+- Eritrocitos con inclusiones intracelulares
+
+Aspirado de médula ósea:
+- Médula hiper celular, monoblastos
+- Eritroblastos, defecto de maduración
+- Pocos megacariocitos
+- Láminas de células mononucleares inmaduras ocupando difusamente las cavidades de la médula
+
+Evaluación:
+- Anemia severa
+- Trombocitopenia
+- Neumonía adquirida en la comunidad
+- Posible malignidad hematológica (¿AML?)
+
+Plan:
+- Cuidado de apoyo (Transfusiones de sangre, plaquetas)
+- Antibióticos IV (ceftriaxona, azitromicina)
+- Atovaquona para profilaxis de malaria
+- Evaluación hematológica (Consulta con Ernest Melisov)
+- Monitorear signos vitales, recuentos sanguíneos, funciones de órganos
+- Educación al paciente sobre: diagnóstico, plan de tratamiento, posibles complicaciones
+
+Ernest Melisov"
+

@@ -1,0 +1,49 @@
+Résumé de Sortie
+
+**Patient :** Élouan Le gall 
+**Numéro de Dossier Médical :** vGcZHG 630 
+**Médecin Admetteur :** Mathieu Brunet 
+
+# Sections Requises
+
+## Section Allergies et Intolérances
+Le patient n'a montré aucun signe d'allergies ou d'intolérances pendant le séjour.
+
+## Section Cours de l'Hôpital
+Le patient a été admis en raison d'un diagnostic confirmé de carcinome. Ils ont présenté des symptômes incluant une structure de masse corporelle, de la douleur et des lésions. Le séjour à l'hôpital a été marqué par une surveillance et un traitement attentifs de ces symptômes.
+
+## Section Diagnostic de Sortie
+Le patient est diagnostiqué avec un carcinome et des maux connexes. 
+
+## Section Plan de Traitement
+Le plan de traitement recommandé comprend une récupération progressive à domicile avec beaucoup de repos et un régime équilibré. Des contrôles réguliers à l'Birkende sont conseillés pour surveiller l'état.
+
+## Section Consultations à l'Hôpital
+Mathieu Brunet de l'oncologie a été consulté pendant le séjour du patient à l'hôpital. 
+
+## Section Procédures
+Une biopsie a été réalisée pour confirmer la présence de carcinome. 
+
+## Section Résultats
+Les résultats de la biopsie ont confirmé le diagnostic de carcinome. 
+
+# Sections Recommandées
+
+## Section Médicaments de Sortie
+Des médicaments sont prescrits au patient pour gérer la douleur et améliorer la santé globale. 
+
+# Sections Supplémentaires
+
+## Section Signes Vitaux
+Les signes vitaux sont restés constamment dans la plage de sécurité lors du dernier contrôle. Il est nécessaire de les surveiller régulièrement à domicile. 
+
+## Section Instructions de Sortie de l'Hôpital
+Il est conseillé au patient de continuer à prendre les médicaments prescrits, de maintenir un régime alimentaire et un mode de vie sains, et de programmer des visites de suivi régulières avec Mathieu Brunet à l'Birkende. 
+
+## Section Physique de Sortie de l'Hôpital
+Lors de la sortie, le patient était stable et de bonne humeur. 
+
+## Section Directives Anticipées
+Les soins après la sortie ont été expliqués et compris par le patient et la famille. 
+
+Ce document exclut toute Information de Santé Personnelle (PHI) qui n'a pas de sens dans le contexte d'une note et ne contient aucune information qui pourrait être considérée comme PHI.

@@ -1,0 +1,43 @@
+"Dr. Julia Lang Kratznotiz:
+
+Patient: Markus Wyss
+SSN: 224005-6786
+Geburtsdatum: Samstag, 14. Januar 1995
+ID: MCkox zRyf
+Adresse: Markus Wyss, Rognerallee 37 101, 2635 Garbsen, Belgien
+
+Vitalwerte: 
+BP: 130/85 
+Puls: 75 
+Temp: 98.6F 
+Resp: 16/min 
+Gewicht: 170 lbs
+Größe: 5'10\"
+
+Beobachtungen:
+- Vorgeschichte: Mehrere OSCC, Prostatakrebs, starker Raucher (vergangen), starker Alkoholkonsum (vergangen)
+- Komplikationen: Zervikales Hämatom nach OP, Mukositis, Epithelitis, Strahlentherapie, Venenthrombose (aufgelöst)
+- Aktuelle Behandlung: Prostatakrebs, Hypothyreose (Medikation)
+
+Bewertung:
+- OSCC: verschiedene Behandlungen (chirurgische Exzisionen, Lymphadenektomien, mikrovaskuläre freie radiale Lappenrekonstruktionen, interne/externe Strahlentherapien)
+- Aktuelle OSCC: linke Wange (T2 N0 M0), keine Strahlentherapie
+- Prostatakrebs: Externe Strahlentherapie
+- Hypothyreose: Medikation, Überwachung der Werte
+
+Plan:
+- Fortsetzung: Behandlungsregime für Prostatakrebs, Schilddrüsenhormonersatztherapie
+- Planung: regelmäßige Nachsorge (OSCC-Rezidiv, Komplikationen)
+- Unterstützende Pflege: Nebenwirkungen der Strahlentherapie
+- Psychologische Unterstützung: falls erforderlich
+- Rauchgewohnheiten, Alkoholkonsum: Beendigung
+
+E-Mail: Julan@un.org
+Telefon: 864-398-6165x73689
+Org: Chambers LLC
+Beruf: Corporate Investment Banker
+
+Unterschrieben,
+Julia Lang
+Lizenz: 2735 84xZg"
+

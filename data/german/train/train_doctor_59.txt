@@ -1,0 +1,28 @@
+"Arzt Kratz Notiz:
+
+Lucas Pauwels, 60, männlich, erste Vorstellung mit multi-lokaler Hautpigmentierung, wiederholtes Erbrechen x 4 Tage. Auffällige physische Merkmale - rundes Gesicht, volle Wangen, prominente Stirn, Hypertelorismus, periorbitale Fülle, kurze Nase, evertierte untere Lippe.
+
+Vitalwerte:
+Temp: 98,6 F, HR: 110 bpm, RR: 24 Atemzüge/min, BP: 100/60 mmHg, SpO2: 98%
+
+Untersuchung:
+Bestätigte oben genannte physische Merkmale.
+
+MRI-Leitung: Hydrozephalus festgestellt, Shunt-Operation durchgeführt. Post-Op-MRI - Ventrikelerweiterung, Volumenreduktion des Hirnstamms, leptomeningeale Verstärkung. Rechter Frontallappen - 3 cm Masse.
+
+Tumorresektion: Dunkelrote bis braune Masse, 4x4x2 cm. Meningenbefestigung.
+
+Immunhistopathologische Ergebnisse: HMB45 positiv, Melan-A positiv, S100 positiv, Ki-67 30%, P53 negativ.
+
+Zytogenetische Studie: Keine P53-allelische Deletion, NRAS-Mutation in Exon 3 (Codon 61).
+
+Diagnose: CNS maligner melanocytischer Tumor. Komplikationen - Hydrozephalus, intrakranielle Hypertonie.
+
+Erste Differentialdiagnose: Andere Hirntumoren, metastatische Läsionen.
+
+Prognose: Schlecht. Aggressives Wachstum, tödlicher Ausgang trotz chirurgischer Intervention.
+
+Plan: Nach Hydrozephalus- und Tumorresektionsoperation, geplantes MRI/CT alle 3 Monate. Weitere Tumorcharakterisierung durch immunhistopathologische und zytogenetische Studien. Lucas Pauwels verstorben 4 Monate nach Tumorresektion. Familienberatung empfohlen.
+
+Werner Baumann"
+

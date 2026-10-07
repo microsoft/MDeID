@@ -1,0 +1,20 @@
+"Rapport de soins aux patients - Situation médicale d'urgence
+
+[DISPATCH] Cette équipe a répondu à un appel au 001-334-634-3531x52709 pour un Jason Thys souffrant de détresse respiratoire aiguë. L'appelant, un voisin, a signalé avoir entendu des bruits de respiration forts et une toux persistante provenant de la résidence du patient. Nous avons été dépêchés sous un code d'urgence, utilisant des lumières et des sirènes pour une réponse rapide.
+
+[ÉVALUATION SUR PLACE] À notre arrivée, nous avons trouvé le patient dans un état de détresse modéré, présentant des signes de fièvre, de toux persistante et d'essoufflement. Le patient était conscient mais visiblement en difficulté pour respirer. La scène indiquait que le patient vit seul dans une maison située à Jason Thys, 73 5362 rue Lucy Suite 318, Bugeat, 53 7039, Canada et il y avait des signes d'une maladie chronique, suggérant qu'il s'agissait d'une exacerbation d'une maladie existante.
+
+[HISTOIRE DE LA MALADIE ACTUELLE] Après avoir stabilisé le patient avec de l'oxygène supplémentaire provenant d'un réservoir marqué du numéro de série GYXLRS-noR, nous avons effectué une anamnèse approfondie. Le patient s'est identifié comme étant Jason Thys et a donné un numéro de compte Epa-UikwUV pour le numéro de dossier médical 096523 266. Ils nous ont informés que les symptômes ont commencé le dimanche 8 avril 1984 avec une toux et une fièvre légère qui se sont depuis transformées en l'état actuel. Le patient a également mentionné avoir été diagnostiqué avec de l'asthme bronchique à l'Bivins Gallery William sous les soins du Noë Antoine.
+
+[ÉVALUATION INITIALE] Notre évaluation primaire a révélé que le patient était conscient, avec une orientation vers la personne, le lieu et le temps. L'33 du patient semblait cohérent avec son apparence. Nous avons effectué un examen complet de la tête aux pieds et avons trouvé des signes de respiration laborieuse, de sifflements lors de la respiration et une légère augmentation du rythme cardiaque. La température du patient enregistrée à partir de l'ID de l'appareil GYXLRS-noR indiquait une fièvre.
+
+[TRAITEMENT] Nous avons commencé le traitement sur place en administrant un médicament bronchodilatateur via un nébuliseur, conformément à l'ordonnance existante du patient du Dr. Noë Antoine. Le patient a ensuite été préparé pour le transport vers l'hôpital le plus proche, l'Bivins Gallery William, avec une surveillance continue des signes vitaux. Un oe@outlook.com a été envoyé à l'hôpital avec l'évaluation initiale et le traitement du patient.
+
+[TRANSPORT] Le patient a été sécurisé dans notre ambulance avec le numéro de plaque 93K YX1 pour le transport. La ligne IV a été mise en place, sans gonflement ni décoloration au site d'insertion. Les effets personnels du patient, y compris un appareil mobile avec une 80.35.235.131 identifiée, ont été conservés en toute sécurité avec nous pendant le voyage.
+
+[REMISE À L'HÔPITAL] À l'arrivée à l'hôpital, les soins du patient ont été remis à l'infirmière du service des urgences, avec tous les détails de l'état du patient, du traitement et de l'histoire communiqués. Tous les effets personnels du patient ont été remis au personnel de l'hôpital. Un formulaire de remise du patient a été signé et reçu par l'infirmière, dont l'URL du document est  www.lee-strong.com/list/app/wp-contentmain.html.
+
+[DOCUMENTATION] Le rapport a été complété par l'EMT présent, et une copie du rapport de soins aux patients a été générée et envoyée au compte lié au nom d'utilisateur du patient fBXBITNh. Le document a également été enregistré dans le système contre le numéro de sécurité sociale du patient 920-205-205 à des fins de référence et de facturation.
+
+[EMT PRÉSENT] Ce rapport a été préparé et vérifié par Noë Antoine, un EMT agréé avec le numéro de certification 84-5087FSO. Ce document vise à fournir un compte rendu détaillé de l'état et du traitement du patient lors de la situation médicale d'urgence à la date de l'incident dimanche 8 avril 1984."
+

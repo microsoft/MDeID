@@ -1,0 +1,29 @@
+"Rapport de soins aux patients : Infection fongique
+
+[DISPATCH]
+L'unité des services médicaux d'urgence (SMU) Lhf 0890XP a reçu un appel le 03/07/2019 de Bryce Leblanc à son domicile Bryce Leblanc, 110 2437 Rue Adam Apt. 259, 0878 Sainte Marie, France. L'unité a répondu sur les lieux équipée d'un équipement de protection individuelle (EPI) complet. 
+
+[SYMPTOMS AND INTERVENTIONS]
+À notre arrivée, nous avons trouvé Bryce Leblanc en détresse modérée, éprouvant des démangeaisons intenses et une toux persistante. Le patient a déclaré : \"Je me gratte beaucoup, et cela s'accompagne d'une toux.\" Les symptômes duraient depuis quelques jours. Le patient âgé de 1 an a été transporté à l'Niki Volos pour une évaluation et un traitement plus approfondis. 
+
+[TREATMENT]
+Notre équipe a administré un antihistaminique pour soulager les démangeaisons et un antitussif pour gérer la toux. Toutes les interventions ont été documentées dans le dossier médical du patient sPg-91LnHJ.
+
+[OVERVIEW]
+Le patient Bryce Leblanc a reçu tous les soins immédiats nécessaires. Notre unité a atteint le patient rapidement après avoir reçu l'appel. Nous avons ensuite transporté le patient à l'Niki Volos tout en assurant la sécurité et le confort du patient. Le dossier médical du patient sPg-91LnHJ a été mis à jour avec toutes nos interventions. 
+
+[HAND-OFF] 
+À l'arrivée au service des urgences, Samantha Taylor a pris en charge les soins du patient. Tous les détails pertinents ont été consignés dans le dossier médical du patient sPg-91LnHJ. Un rapport complet sur l'état du patient, les symptômes et les médicaments administrés a été communiqué à Samantha Taylor.
+
+Le rapport a été reçu par Samantha Taylor à l'Walter-Wilson et le plan de santé du patient XdrSulC a été informé de la situation. Ils ont également reçu les informations de compte du patient Lhf 0890XP à des fins de facturation. 
+
+[IDENTIFIERS]
+L'appel de dispatch a été reçu depuis une adresse IP 66.137.239.193, et la communication a été effectuée via un email sécurisé har@icloud.com. L'unité SMU Lhf 0890XP était conduite par un officiel SMU avec la licence 626-1893aG. Le nom d'utilisateur du patient pour le portail de santé est lanryce, et leur numéro de sécurité sociale est 278665-1317. Le pays de l'incident est la Suisse, et a eu lieu à hôpital. Le patient travaille pour Walter-Wilson en tant qu'ingénieur de site et a un identifiant de dispositif vz 027cLkq sur son dispositif d'assistance personnelle. L'ambulance utilisée pour le transport avait un identifiant de véhicule 838 YMU. 
+
+Ce rapport est compilé et soumis par lanryce et est documenté sur notre serveur en ligne sécurisé avec l'URL http://campbell.biz/list/tagshomepage.jsp, et peut être contacté via le téléphone (408)942-4787 ou le fax 001-449-936-8547x32481.
+
+[END OF REPORT]
+Le rapport a été compilé pour documenter l'incident et assurer l'exactitude des informations personnelles de santé (PHI) identifiées. La confidentialité de Bryce Leblanc est d'une importance capitale pour nous, et nous avons suivi tous les protocoles nécessaires pour la protéger.
+
+Rapport par : EMT lanryce et Paramédic lanryce"
+

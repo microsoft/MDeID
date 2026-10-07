@@ -1,0 +1,38 @@
+"Patientenpflegebericht
+
+[DISPATCH]: Die Leitstelle Combs, Wu und Fletcher erhielt einen 911-Anruf von einem lokalen Bewohner Nicole Wimmer. Die Einheit 5-6370N reagierte auf den Leitstellenanruf.
+
+[RESPONSE]: Bei der Ankunft am Einsatzort Schule wurden wir von der Patientin Nicole Wimmer empfangen, die über einen schweren Hautausschlag klagte. Die Patientin Nicole Wimmer befand sich in einem mäßigen Zustand der Not.
+
+[HISTORY OF PRESENT ILLNESS]: Die Patientin Nicole Wimmer erklärte, dass der Ausschlag vor einigen Tagen begonnen hatte. Die Symptome haben sich stetig verschlechtert und werden nun von mäßigem Fieber begleitet. Die Patientin Nicole Wimmer gab an, dass der Ausschlag sehr schwer und juckend sei, was zu der Entscheidung führte, 911 zu rufen. Die vorherige Krankengeschichte wurde von der Patientin Nicole Wimmer erhalten. Die Patientin Nicole Wimmer konnte keine bekannten Allergien angeben. 
+
+[ASSESSMENT - PRIMARY]: Die Patientin Nicole Wimmer war bei Bewusstsein und wach. Die Hautuntersuchung ergab einen weit verbreiteten Ausschlag, Blasen und rote Flecken, was auf eine mögliche Varizellen, allgemein bekannt als Windpocken, hindeutet. Die Vitalzeichen der Patientin Nicole Wimmer wurden erfasst und wie folgt dokumentiert: (Diese Vitalzeichen sollten keine kritischen Zustände anzeigen, können aber eine leicht erhöhte Temperatur zeigen).
+
+[ASSESSMENT - SECONDARY]: Bei weiterer Untersuchung war offensichtlich, dass der Ausschlag über den gesamten Körper verteilt war. Juckreiz war offensichtlich, und die Patientin Nicole Wimmer schien aufgrund anhaltenden Fiebers unwohl zu sein.
+
+[TREATMENT]: Die Patientin Nicole Wimmer wurde vor Ort mit geeigneten fiebersenkenden Medikamenten VY-tJawIva behandelt, um das Fieber zu lindern. Der Patientin Nicole Wimmer wurde auch geraten, den Ausschlag nicht zu kratzen, um sekundäre Hautinfektionen zu vermeiden.
+
+[TRANSPORT]: Die Patientin Nicole Wimmer wurde dann ohne Verzögerung zur weiteren Untersuchung und Behandlung ins Krankenhaus Fiji Human transportiert. Aufgrund der ansteckenden Natur des vermuteten Zustands wurden während des Transports notwendige Vorsichtsmaßnahmen getroffen. 
+
+[OVERVIEW]: Bei der Ankunft im Krankenhaus Fiji Human wurde die Versorgung der Patientin Nicole Wimmer an den Notarzt Thomas Lang übergeben. Der medizinische Bericht wurde dem behandelnden Arzt Thomas Lang übergeben und die Patientin Nicole Wimmer wurde zur weiteren Behandlung ins Krankenhaus Fiji Human eingeliefert.
+
+[DOCUMENTATION]: Die Patientin Nicole Wimmer unterzeichnete eine Einverständniserklärung für die Notfallbehandlung. Dieser Bericht wurde vom anwesenden Notfallsanitäter erstellt. 
+
+[NAME]: mAYg7bWb
+[EMAIL]: TLang@unhcr.org
+[DOB]: 30.09.2001
+[PHONE]: 720.218.3348
+[SEX]: 99 402HZgI
+[SSN]: 562-5655369-61
+[ADDRESS]: Nicole Wimmer, Hans-Gerd-Boucsein-Allee 2 103, 6494 Bad Griesbach im Rottal, Switzerland
+[CITY]: WR. NEUDORF
+[ZIP]: 6494
+[STATE]: 17
+[COUNTRY]: Switzerland
+[ACCOUNT]: qWCe-19223
+[IDNUM]: qWCe-19223
+[IPADDRESS]: 207.41.213.49
+[LICENSE]: 01672-09iQ
+[URL]:  robinson.com/app/listabout.html
+[FAX]: 001-985-772-0337x2091"
+

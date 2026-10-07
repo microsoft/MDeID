@@ -1,0 +1,60 @@
+# Discharge Summary
+
+## Header
+
+**Discharge Disposition:** Home with Services
+
+## Chief Complaint Section
+
+**Chief Complaint:** Abdominal Pain 
+
+## Admission Diagnosis Section
+
+**Reason for Hospitalization:** The patient, Maggie Paquette, presented with abdominal discomfort with symptoms of constipation and fecaluria. The initial diagnosis was diverticulosis.
+
+## History of Present Illness Section
+
+Maggie Paquette had been experiencing constipation and occasional bouts of fecaluria, which were observed to be indicative of an abscess formation. 
+
+## Hospital Course Section
+
+During the course of her stay in Southern University Law Center, she underwent several procedures and received the necessary care and treatment. The condition of Maggie Paquette improved gradually over the course of the hospital stay.
+
+## Procedures Section 
+
+The procedure performed was a colonoscopy, which confirmed the diagnosis of diverticulosis. 
+
+## Discharge Diagnosis Section
+
+The final diagnosis, upon discharge, was diverticulosis. Maggie Paquette's general condition and disposition at discharge was stable, with a significant reduction in abdominal discomfort and no recurrence of fecaluria.
+
+## Plan of Treatment Section
+
+The healthcare professional, Liam Walker, advised a combination of a high fiber diet and medication to manage the diverticulosis. She also recommended drinking plenty of fluids and regular exercise.
+
+## Information provided to the patient and family
+
+The Liam Walker instructed Maggie Paquette to continue the prescribed medication and diet plan. She was advised to seek immediate medical attention if symptoms such as severe abdominal pain, fever, or rectal bleeding occur.
+
+## Provisions for follow-up care
+
+Maggie Paquette will be having regular follow-up consultations with Liam Walker at Southern University Law Center every two weeks to monitor the condition and progress. The next appointment date will be provided via the patient's registered alkem@who.int.
+
+## Additional Sections
+
+### Vital Signs Section
+
+- Blood Pressure: 120/80 mmHg
+
+- Pulse Rate: 78 bpm
+
+- Respiratory Rate: 18 breaths/min
+
+- Body Temperature: 98.6 F
+
+### Nutrition Section
+
+The Nutritionist recommended a high-fiber diet to help prevent complications or recurrence of diverticulosis. Foods recommended included whole grains, fruits, vegetables, and legumes.
+
+**Please Note: This is a Synthetic Document. Personal Health Information has been removed to maintain privacy.**
+

@@ -1,0 +1,61 @@
+### **RESUMEN DE ALTA**
+
+**Información del paciente:**
+Florencia Ledesma
+99
+Florencia Ledesma, Calle Tamaulipas 392 Interior 457, 70, 9778 Hoyo De Epuyén, España
+
+**Médico tratante:**
+Manuel Cardona
+
+**Hospital:**
+Haga
+
+**Número de Historia Clínica:**
+5811 nGiid
+
+**Diagnóstico de admisión:**
+Colecistitis aguda
+
+**Sección de alergias e intolerancias:**
+No se conocen alergias a medicamentos.
+
+**Sección del curso hospitalario:**
+El paciente fue admitido en el hospital con quejas de dolor abdominal severo, náuseas y se observó un signo de Murphy positivo durante el examen físico. Se diagnosticó al paciente con colecistitis aguda.
+
+**Sección de procedimientos:**
+El ultrasonido confirmó el diagnóstico de colecistitis. Se realizó una colecistectomía para eliminar la vesícula biliar inflamada. El paciente respondió bien al procedimiento.
+
+**Cuidado, tratamiento y servicios proporcionados:**
+El paciente fue tratado con antibióticos y analgésicos antes de la cirugía. Después del procedimiento, al paciente se le administró reanimación con líquidos y se le vigiló por cualquier complicación postoperatoria.
+
+**Diagnóstico de alta:**
+El paciente fue dado de alta con un diagnóstico de colecistitis aguda resuelta después de una colecistectomía exitosa.
+
+**Sección del plan de tratamiento:**
+Se aconsejó al paciente seguir una dieta baja en grasas y asegurar seguimientos regulares con el departamento ambulatorio para el monitoreo de la recuperación. Se le dio al paciente una receta para el manejo del dolor.
+
+**Sección de consultas hospitalarias:**
+Se realizaron consultas con el departamento de gastroenterología y cirugía. Todos los departamentos estuvieron de acuerdo con el plan de tratamiento.
+
+**Sección de resultados:**
+El paciente mostró una mejora significativa en su condición después de la cirugía. El ultrasonido de repetición no mostró ninguna anormalidad.
+
+**Sección de medicamentos de alta:**
+El paciente fue dado de alta con una receta para medicación analgésica e instrucciones para su uso.
+
+**Información proporcionada al paciente y a la familia:**
+Se informó al paciente y a la familia sobre la condición, el procedimiento realizado y la importancia del cuidado de seguimiento.
+
+**Provisiones para el cuidado de seguimiento:**
+Se programaron citas de seguimiento con el departamento ambulatorio para la extracción de suturas y el monitoreo de la recuperación.
+
+**Disposición de alta:**
+El paciente fue dado de alta en un estado estable a casa con la familia. El paciente y la familia demostraron comprender las instrucciones de alta y el plan de seguimiento.
+
+**Sección de instrucciones de alta hospitalaria:**
+Se aconsejó al paciente seguir una dieta baja en grasas, tomar los medicamentos según lo prescrito, asegurar el cuidado de la herida y visitar el hospital para las citas de seguimiento programadas.
+
+---
+
+Recuerde: Este documento resumen tiene como objetivo proporcionar una breve descripción de la condición del paciente en el momento del alta y no contiene detalles exhaustivos de la historia médica o el tratamiento del paciente. En caso de cualquier cambio de salud o preocupación, consulte inmediatamente con los profesionales de la salud.

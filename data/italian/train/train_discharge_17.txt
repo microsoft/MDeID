@@ -1,0 +1,49 @@
+Riassunto delle Dimissioni
+
+**Paziente:** Andreas Wyss 
+**Numero di Cartella Clinica:** CwolLK 297 
+**Medico di Ricovero:** Emilia Keller 
+
+# Sezioni Richieste
+
+## Sezione Allergie e Intolleranze
+Il paziente non ha mostrato segni di allergie o intolleranze durante il soggiorno.
+
+## Sezione Corso Ospedaliero
+Il paziente è stato ricoverato a causa di una diagnosi confermata di carcinoma. Ha presentato sintomi tra cui una struttura di massa corporea, dolore e lesioni. Il soggiorno in ospedale è stato caratterizzato da un attento monitoraggio e trattamento di questi sintomi.
+
+## Sezione Diagnosi di Dimissione
+Il paziente è stato diagnosticato con carcinoma e disturbi correlati. 
+
+## Sezione Piano di Trattamento
+Il piano di trattamento consigliato include un recupero progressivo a casa con molto riposo e una dieta equilibrata. Si consiglia di effettuare controlli regolari presso Beijing Advanced Innovation Center per monitorare la condizione.
+
+## Sezione Consulenze Ospedaliere
+Durante il soggiorno del paziente in ospedale è stata consultata Emilia Keller dell'oncologia.
+
+## Sezione Procedure
+È stata effettuata una biopsia per confermare la presenza di carcinoma. 
+
+## Sezione Risultati
+I risultati della biopsia hanno confermato la diagnosi di carcinoma. 
+
+# Sezioni Consigliate
+
+## Sezione Farmaci di Dimissione
+Al paziente è stato prescritto un farmaco per gestire il dolore e migliorare la salute generale. 
+
+# Sezioni Aggiuntive
+
+## Sezione Segni Vitali
+I segni vitali sono rimasti costantemente nel range sicuro durante l'ultimo controllo. È necessario monitorarli regolarmente a casa. 
+
+## Sezione Istruzioni per le Dimissioni Ospedaliere
+Si consiglia al paziente di continuare la terapia come prescritto, mantenere una dieta e uno stile di vita sani, e programmare visite di controllo regolari con Emilia Keller presso Beijing Advanced Innovation Center. 
+
+## Sezione Fisica delle Dimissioni Ospedaliere
+Alla dimissione, il paziente era stabile e di buon umore. 
+
+## Sezione Direttive Anticipate
+Le cure post-dimissione sono state spiegate e comprese dal paziente e dalla famiglia. 
+
+Questo documento omette qualsiasi Informazione Sanitaria Personale (PHI) che non ha senso nel contesto di una nota e non contiene alcuna informazione che potrebbe essere considerata PHI.

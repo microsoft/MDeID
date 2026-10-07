@@ -1,0 +1,36 @@
+"Doctor Scratch Note
+
+Lily Nguyen
+
+ID: 22009 VpVM
+
+11 months with a history of symptomatic sustained idiopathic ventricular tachycardia (VT), implanted with a dual-chamber implantable cardioverter-defibrillator (ICD) in 8 for secondary prevention. 
+
+Since 8, patient experienced several ICD discharges and VT recurrences despite three catheter ablation procedures done in 8 (performed without a contact force (CF) sensor and using a retrograde transaortic approach). 
+
+Reports of up to 97 appropriate ICD shocks since implantation. Episodes of arrhythmic storms noted.
+
+Last recorded 12-lead ECG: Sinus rhythm with premature ventricular contractions originating from mid-inferoseptum of the left ventricle. 
+
+Transthoracic echocardiography: Normal biventricular systolic function, mild-to-moderate mitral valve regurgitation. 
+
+Ablation parameters: 
+RF power - 50 W, 
+Max temperature - 45\u00b0C, 
+Irrigation flow - 15 mL/min.
+
+Primary Diagnosis: Recurrent idiopathic ventricular tachycardia. Multiple ICD shocks and arrhythmic storms despite previous ablation therapies and antiarrhythmic medications.
+
+Differential Diagnoses: Other forms of ventricular arrhythmias or structural heart disease. Preserved ejection fraction and specific VT origin suggest a focal arrhythmic process.
+
+Plan: Close monitoring of arrhythmic episodes and ICD function. Adjustments to antiarrhythmic medications, possible further ablation procedures if VT persists. 
+
+Aaron McCook
+
+Hospital pharmacist
+
+Valentine, Tucker and Perez
+
+Contact: 849-639-8365x126, ooo@un.org
+"
+

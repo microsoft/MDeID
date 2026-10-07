@@ -1,0 +1,54 @@
+"Nursing Scratch Notes:
+
+==========================
+(Patient) Keith Medina  
+(Medical Record) 62567 33zn  
+(Attending Physician) Liam Leblanc  
+(Health Plan) cUWUys AXNkyH 9mXCrijH 
+(Admission Date) Tue:2018 
+==========================
+
+
+Vitals & Observations
+-------------------
+BP: 130/80
+HR: 88 bpm
+Temp: 101.3 F
+RR: 20 breaths/min
+
+-Noted feverish, possible underlying condition  
+-Patient complaints: feels really sick  
+-Suspected: griffin-edwards.com (malaria resource link)  
+-Advised Keith Medina to take rest and stay hydrated    
+
+===========================
+(Address) Keith Medina, 176 Freshes, Parished, 44 5034, United States  
+(Contact) 6314628982  
+(Account) LccJ 38gIT 
+(Email) anLiam@unwomen.org
+(Professional License No.) FhMb-745cr
+(Device Info) 64 MyJWcff
+===========================
+
+Treatment
+-------------------
+-Prescribed Antimalarial drugs
+-Will Monitor Progress
+
+===========================
+(Patient age) 30 
+(Patient Username) Keitha 
+(Patient SSN) 384-269-765 
+(IP Address) 129.64.73.67
+(Patient Bio ID) lF-yxHrNLG
+(ID Number) LccJ 38gIT
+===========================
+
+Additional Notes
+-------------------
+-Patient will need follow up after Tue:2018
+-Patient connected with organization Wise, Vaughn and Keith
+-Emergency Contact: Keith Medina
+
+[End of Note]"
+

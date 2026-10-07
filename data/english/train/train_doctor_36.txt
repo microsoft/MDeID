@@ -1,0 +1,47 @@
+"Dr. Nikita Tate Notes
+--------------------------
+PATIENT: Kathleen Wood
+ID: 266 NcsHpO
+
+AGE: 53 week
+
+PRESENTING COMPLAINTS:
+- Gait impairment
+- Microcephalus
+- Disconnection episodes
+- Febrile convulsions
+- Sleep disorders
+- Developmental delays (motor skills)
+- ADHD-like behavior
+
+PREVIOUS INTERVENTIONS:
+- Psycho-pedagogic intervention
+- Methylphenidate treatment
+
+OBSERVATIONS:
+Microcephalus confirmed
+
+INVESTIGATIONS:
+- EEG: Normal
+- MRI: Normal encephalon structure
+- Genetic: 182 base deletion in C7 marker (bases 2475-2657). No alterations in genes LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8, PAX2
+
+ASSESSMENT:
+- Microcephalus with associated developmental and behavioral issues
+- Possible genetic or metabolic disorders
+- Prognosis: Cautious
+
+PLANNED ACTIONS:
+- Continue psycho-pedagogic interventions
+- Maintain methylphenidate treatment
+- Follow-up EEG (sleep issues)
+- Regular developmental assessments
+- Parental education on monitoring and treatment adherence
+- Next appointment: 30-1991
+
+Signed,
+Dr. Nikita Tate
+Bryant-Ortiz
+4695232033
+Tateta@zoho.com"
+

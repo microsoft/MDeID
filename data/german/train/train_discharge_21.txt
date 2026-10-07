@@ -1,0 +1,45 @@
+## Entlassungsbericht 
+
+### Kopfzeile
+Entlassungsverfügung: Zustand stabil, Entlassung nach Hause mit Pflegeanweisungen 
+
+### Aufnahmediagnose Abschnitt
+Diagnostizierter Zustand: Cholelithiasis 
+
+### Krankenhausverlauf Abschnitt
+Bei der Aufnahme präsentierte sich Lara Graf mit Übelkeit, Bauchschmerzen, Erbrechen und leichten Episoden von übertragenen Schmerzen. Die während des Krankenhausaufenthalts erbrachten Behandlungen, Pflege und Dienstleistungen umfassten die Behandlung der Symptome, sorgfältige Überwachung und eine gründliche Bewertung, um die Schwere der Cholelithiasis zu bestimmen.  
+
+### Verfahren Abschnitt 
+Für Lara Graf wurde ein abdominales Ultraschall durchgeführt, der die Diagnose bestätigte. Eine chirurgische Intervention war zu diesem Zeitpunkt nicht erforderlich.
+
+### Ergebnisse Abschnitt
+Das Ergebnis des Ultraschalls zeigte mehrere Gallensteine, und die Berichte über die Leberfunktionstests des Patienten lagen im normalen Bereich. Diese Befunde bestätigten die Diagnose einer Cholelithiasis.
+
+### Entlassungsdiagnose Abschnitt
+Lara Graf wird mit Cholelithiasis diagnostiziert. Diese Diagnose basiert auf den zugehörigen Symptomen, klinischen Bewertungen und Ergebnissen aus der Ultraschalluntersuchung.
+
+### Behandlungsplan Abschnitt
+Lara Graf wurde mit einem Medikamentenregime entlassen, das Schmerzmanagement und Antiemetika umfasst. Eine Nachsorgeuntersuchung bei David Huber ist in zwei Wochen oder früher geplant, wenn die Symptome anhalten oder sich verschlimmern. Der Patient wird auch geraten, eine fettarme Diät einzuhalten, um den Zustand zu bewältigen. 
+
+### Krankenhaus Entlassungsanweisungen Abschnitt
+Lara Graf sollte die von David Huber verschriebenen Medikamente weiterhin wie angewiesen einnehmen. Wenn die Symptome anhalten oder sich verschlimmern, sollte Lara Graf sofort medizinische Hilfe in Anspruch nehmen. 
+
+### Allergien und Unverträglichkeiten Abschnitt
+Keine bekannten Allergien oder Unverträglichkeiten. 
+
+### Familienanamnese Abschnitt
+Keine Familienanamnese von Gallensteinen oder Cholelithiasis.
+
+### Funktioneller Status Abschnitt
+Zum Zeitpunkt der Entlassung war der Zustand von Lara Graf stabil. Der Patient konnte alle täglichen Aktivitäten ohne signifikante Beschwerden durchführen.
+
+### Frühere medizinische Geschichte
+Keine signifikante frühere medizinische Geschichte.
+
+### Vorausverfügungen Abschnitt
+In der medizinischen Akte des Patienten 161804-Fyb wurden keine Vorausverfügungen vermerkt.
+
+### Entlassungsmedikamente Abschnitt
+Zu den bei der Entlassung verschriebenen Medikamenten gehörten rezeptfreie Schmerzmittel und Antiemetika.
+
+**Hinweis: Dieses medizinische Dokument ist ein Entlassungsbericht und enthält keine identifizierbaren Patienteninformationen in Übereinstimmung mit HIPAA und Datenschutzbestimmungen.**

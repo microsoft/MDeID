@@ -1,0 +1,46 @@
+"Arzt Kratz Notiz
+
+Sabine Schmidt: EyRA-sQrxl
+85: 85
+Leonard Wagner: Leonard Wagner
+
+***
+S:
+
+PHx Sigmoid Volvulus
+Behandelt mit Laparotomie, Sigmoidopexie, elektive Sigmoidektomie
+Symptome begannen vor 2 Monaten
+Abdominale Distension, Verstopfung, Erbrechen x 3 Tage
+Starke Bauchschmerzen x 1 Tag
+Wiederkehrende Verstopfung, OTC und traditionelle Medikation
+Keine signifikante Familien-, Drogen-, Sozialgeschichte
+
+***
+O:
+
+Erscheinungsbild - Krank, keine Blässe/Gelbsucht/Fieber
+Vitalwerte: PR 104 bpm, BP 110/70 mmHg, RR 22 cpm, T 38.8\u00b0C
+Abdomen: starke Distension, volle Flanken, Narbe in der Mitte, sichtbare erweiterte Darmschleife, Peristaltik, Empfindlichkeit, keine Darmgeräusche
+Rektal: 3. Grades Haufen, leerer Rektum
+Labor: Hb 13 g/dl, WBCs 14 \u00d7 109/L, PLTs 305 \u00d7 109/L, Nierenprofil normal, Serum-Elektrolyte normal, Blutzucker 193 mg/dl, Urin unauffällig
+Bildgebung: Röntgen - Omega-förmiger Dickdarm
+
+***
+A:
+
+Strangulierte Darmobstruktion
+Differential: adhäsiver Typ, wiederkehrender/anderer Ort Volvulus
+Symptome + Bildgebung konsistent
+Geschichte von früheren abdominalen Operationen - adhäsive Obstruktion wahrscheinlich
+
+***
+P:
+
+Sofortige Behandlung: NG-Röhrenabsaugung, IV-Flüssigkeiten
+Enge Überwachung für weitere Behandlungsentscheidung
+Regelmäßige Nachsorge, sofortige Meldung bei Veränderungen empfohlen
+
+***
+Leonard Wagner
+Black, Rich and Macias"
+

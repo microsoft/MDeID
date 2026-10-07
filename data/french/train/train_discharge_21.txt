@@ -1,0 +1,45 @@
+## Résumé de Sortie
+
+### En-tête
+Disposition de Sortie : État stable, renvoyé à la maison avec des instructions de soins
+
+### Section du Diagnostic d'Admission
+Condition Diagnostiquée : Cholélithiase
+
+### Section du Cours de l'Hôpital
+À l'admission, Louise Humbert a présenté des nausées, des douleurs abdominales, des vomissements et des épisodes légers de douleur référée. Le traitement, les soins et les services fournis pendant le séjour à l'hôpital comprenaient la gestion des symptômes, une surveillance attentive et une évaluation approfondie pour déterminer la gravité de la cholélithiase.
+
+### Section des Procédures
+Une échographie abdominale a été réalisée pour Louise Humbert, ce qui a confirmé le diagnostic. Aucune intervention chirurgicale n'était nécessaire à ce stade.
+
+### Section des Résultats
+Le résultat de l'échographie a montré plusieurs calculs biliaires, et les rapports des tests de fonction hépatique du patient étaient dans les limites normales. Ces résultats ont confirmé le diagnostic de cholélithiase.
+
+### Section du Diagnostic de Sortie
+Louise Humbert est diagnostiquée avec une cholélithiase. Ce diagnostic est basé sur les symptômes associés, les évaluations cliniques et les résultats de l'examen échographique.
+
+### Section du Plan de Traitement
+Louise Humbert a été renvoyée avec un régime médicamenteux qui comprend la gestion de la douleur et des anti-émétiques. Une consultation de suivi avec Valentine Menard est prévue dans deux semaines ou plus tôt si les symptômes persistent ou s'aggravent. Le patient est également conseillé d'adopter un régime pauvre en graisses pour gérer la condition.
+
+### Section des Instructions de Sortie de l'Hôpital
+Louise Humbert doit continuer à prendre les médicaments prescrits comme indiqué par Valentine Menard. Si les symptômes persistent ou s'aggravent, Louise Humbert doit chercher une attention médicale immédiate.
+
+### Section des Allergies et Intolérances
+Aucune allergie ou intolérance connue.
+
+### Section des Antécédents Familiaux
+Aucun antécédent familial de calculs biliaires ou de cholélithiase.
+
+### Section de l'État Fonctionnel
+Au moment de la sortie, l'état de Louise Humbert était stable. Le patient était capable d'effectuer toutes les activités quotidiennes sans inconfort significatif.
+
+### Antécédents Médicaux
+Aucun antécédent médical significatif.
+
+### Section des Directives Anticipées
+Aucune directive anticipée notée dans le dossier médical du patient 52 iUUBGnJ.
+
+### Section des Médicaments de Sortie
+Les médicaments prescrits à la sortie comprenaient des analgésiques en vente libre et des anti-émétiques.
+
+**Note : Ce document médical est un Résumé de Sortie et il ne comprend aucune information identifiable du patient conformément à la HIPAA et aux réglementations sur la vie privée.**

@@ -1,0 +1,81 @@
+"**Nota de Rascunho do Paciente:**
+
+```
+--------------------------------------
+| Paciente Madalena Machado      24 de abril de 1973 |
+--------------------------------------
+```
+```
+|-------------------|--------------|
+| Sinais Vitais     | Valor        |
+|-------------------|--------------|
+| Temperatura (°F)  | 98.7         |
+| Frequência Cardíaca (bpm)  | 88           |
+| Frequência Respiratória  | 16           |
+| Pressão Arterial    | 130/85 mmHg  |
+|-------------------|--------------|
+| Nível de Dor        | 7/10         |
+|-------------------|--------------|
+```
+
+```
+Resumo: Madalena Machado relata que a dor no estômago intensifica ao comer. Possibilidade de doença de úlcera péptica.
+
+Observações Clínicas:
+- Dor abdominal localizada na região epigástrica
+- Madalena Machado comeu um café da manhã leve antes do check-up
+- Nenhum outro sintoma como náusea ou vômito relatado
+- Madalena Machado mencionou evento Pearson, Miller and Johnston antes de sentir dor
+- 45 anos, sem registro anterior de distúrbios gastrointestinais
+```
+
+```
+Resultados dos Testes Graduados:
+- Hemograma completo: Normal
+- Testes de função hepática: Normal
+- Ultrassom abdominal: Normal
+- Endoscopia do trato gastrointestinal superior: Agendada para 24 de abril de 1973 no Frommer's
+```
+
+```
+|-----------------------|--------------|
+| Informações de Contato | Info         |
+|-----------------------|--------------|
+| Telefone                 | (902)378-2240      |
+| Email                 | Rode@yahoo.com      |
+| Contato de Emergência     | Madalena Machado    |
+|-----------------------|--------------|
+```
+
+```
+|-----------------------|--------------|
+| Informações Adicionais       | Info         |
+|-----------------------|--------------|
+| Plano de Saúde           | y3Hm |
+| Profissão            | Contadora |
+| Organização          | Pearson, Miller and Johnston|
+|-----------------------|--------------|
+```
+
+```
+Medicação Prescrita: Antiácidos, Inibidores da Bomba de Prótons
+Retorno: 24 de abril de 1973
+```
+```
+Número de série do dispositivo do paciente: 016 CKlBNX
+```
+```
+Número do Prontuário Médico: sL BfhwVNA
+```
+```
+---------------------------------------------------------
+| Enfermeiro: Rodrigo Lopes              IP: 206.160.173.97 |
+---------------------------------------------------------
+```
+```
+-----------------------------------------------------
+| Segurança Social: 33250521-0    |
+-----------------------------------------------------
+```
+Nota: Monitorar sinais de maior angústia. Necessário verificar se há perfuração ou sangramento de úlcera. Paciente aconselhado a evitar alimentos irritantes e estresse."
+

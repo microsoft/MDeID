@@ -1,0 +1,52 @@
+"**Nota de Enfermería**
+
+| Información del Paciente | Detalles |
+|---------|-----------|
+|Nombre: |Sonia Ferrer|
+|Edad: |79|
+|ID: |74734-klmc|
+|Cuenta: |72209-cNTS|
+|Plan de Salud: |dwSD|
+|Correo electrónico: |leEs@aol.com|
+
+| Signos vitales y Observaciones |
+|--------|
+|PA: 120/80 mmHg| 
+|Pulso: 98 lpm|
+|Temp: 36.5\u00b0C|
+|Resp: 22 respiraciones/min|
+
+**Notas Clínicas**
+-Disfagia, dificultad para tragar Sonia Ferrer
+-Enfermedad por Reflujo Gastroesofágico (ERGE) sospechada
+-Iniciado en Omeprazol 20mg/24hr
+
+|Información de Contacto|
+|---------|
+|Médico Principal:| Estela del Ángel|
+|Hospital de Referencia: Bay Mutiny|
+|Teléfono: |396-216-8078x867|
+|Fax: |+1-282-329-8199x1910|
+
+| Información del Dispositivo |
+|---------|
+|Marcapasos: |wV 6040tjg|
+
+|Otra Información|
+|---------|
+|Nombre de usuario: |erreSoni|
+|Licencia: |gmrpD-16Fw|
+|Dirección IP: |159.133.231.200|
+
+**Próximos Pasos**
+-Programar Endoscopia
+-Revisar dieta y estilo de vida Sonia Ferrer
+-Cita de seguimiento en 2 semanas
+-Notificar a Estela del Ángel cualquier cambio o empeoramiento de los síntomas
+
+**Resumen del Alta**
+-Sonia Ferrer a los 79 años presenta dificultad para tragar.
+-ERGE sospechada, iniciada en medicación, seguimiento programado.
+-Toda la información importante enviada a Estela del Ángel en Bay Mutiny vía +1-282-329-8199x1910
+"
+

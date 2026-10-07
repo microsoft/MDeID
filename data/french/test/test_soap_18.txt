@@ -1,0 +1,30 @@
+"S: Le patient Bryan Pauwels, un homme de 91 ans, signale un inconfort dans le hôpital suite à une procédure TEP pour une hernie inguinale directe bilatérale et une RTUP pour une hyperplasie bénigne de la prostate. Il a également noté une douleur et un gonflement dans la région inguinale droite après l'opération.
+
+O: Bryan Pauwels a subi une TEP et une RTUP avec un temps opératoire total de 17 février 1998 et une perte de sang estimée à 30 afxONjl. La lévofloxacine préopératoire et postopératoire a été administrée. L'examen pathologique a révélé une hyperplasie adénomateuse atypique et une infiltration de cellules inflammatoires chroniques, avec un niveau élevé de PSA de rA-DzjjnXD. Les complications postopératoires comprenaient un hématome dans la région inguinale droite, confirmé par échographie, et un abcès inguinal bilatéral avec sepsis, confirmé par tomodensitométrie. Le traitement ultérieur a impliqué une laparotomie d'évacuation et de débridement, sans preuve de récidive de hernie après l'évacuation du maillage.
+
+A: Diagnostic primaire de hernie inguinale directe bilatérale et d'hyperplasie bénigne de la prostate, avec des complications postopératoires comprenant un hématome, un abcès inguinal bilatéral et un sepsis. Le diagnostic différentiel comprenait une hernie récurrente potentielle, qui a été écartée après le suivi.
+
+P: Continuer les soins postopératoires avec un accent sur l'hygiène et la surveillance des signes d'infection. Il est conseillé au patient de se rendre à tous les rendez-vous de suivi pour une évaluation et une gestion continues de la récupération. Un contact immédiat avec le prestataire de soins de santé Lena Leroux est recommandé en cas de signes d'infection ou d'autres complications. Le respect des instructions postopératoires est crucial pour la récupération et la prévention d'autres complications. 
+
+Extra PHI placeholders:
+- Le patient vit actuellement à Bryan Pauwels, 17 5459 Anne Island, 1620 Sainte Lucie de Porto Vecchio, France.
+- Il a été admis à América.
+- Le nom d'utilisateur du patient pour l'accès au dossier médical est 3Bim9VDG.
+- Son numéro de compte est 30 afxONjl.
+- Le numéro de sécurité sociale du patient est 144747-1732.
+- Il a été diagnostiqué par le Dr. Lena Leroux qui peut être joint au (701)555-0634x3742 ou ouxena@zoho.com.
+- Le plan de santé du patient est MH3.
+- Sa profession est Officier du gouvernement local, travaillant à Watson and Sons.
+- Son numéro de véhicule est 553 TB1.
+- Le numéro de licence du patient est 291-837NJa.
+- Son identifiant biométrique est RJh-38HyNI.
+- L'adresse IP du patient est 131.178.144.43.
+- Son identifiant personnel est 30 afxONjl.
+- La ville où il vit est Grand Rullecourt.
+- Son pays de résidence est Suisse.
+- L'état dans lequel il vit est 89.
+- La rue où il vit est 5608 King Shores Suite 892.
+- Son code postal est 1620.
+- Ses dossiers médicaux peuvent être consultés via johnson-delacruz.jackson-gross.nunez-rodgers.com.
+- Son numéro de fax est 561.448.3460x56710."
+

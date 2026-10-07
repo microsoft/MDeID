@@ -1,0 +1,30 @@
+"Patientenzorg Rapport - Malaria
+
+[DISPATCH] Nood Medische Diensten Morris-Wilson ontving een 911 oproep van Luca Van Damme die melding maakte van ernstige ziekte. Dit team werd ingezet op basis van het telefoontje (548)427-7930x576 van de lokale bewoner. We reageerden met lichten en sirenes naar de bibliotheek.
+
+[SYMPTOMS] Bij aankomst werd Luca Van Damme in een staat van nood gevonden. De patiënt meldde hoge koorts 68, rillingen en zwakte. Het primaire probleem lijkt deze griepachtige symptomen te zijn, wat een mogelijk geval van malaria weerspiegelt. 
+
+[HISTORY] Volgens Luca Van Damme begonnen de symptomen ongeveer 10-11-2010 geleden. De medische geschiedenis van de patiënt werd verkregen van de patiënt en hun medisch dossiernummer 66 06643vN. 
+
+[INITIAL ASSESSMENT] Een eerste primaire beoordeling werd uitgevoerd. Luca Van Damme is bij bewustzijn maar lijkt zwak en vermoeid. De neurologische beoordeling toonde geen tekenen van verwarring of veranderde mentale status. Er werd echter een hoge temperatuur opgemerkt. 
+
+[TREATMENT] De patiënt werd op milde zuurstoftherapie geplaatst via een masker. Een zoutoplossing IV-lijn vcxW-28114 werd gevestigd voor hydratatie doeleinden tijdens de ambulance rit. Vanwege de gemelde reisgeschiedenis en symptomen van de patiënt werd een mogelijke diagnose van malaria overwogen. 
+
+[TRANSPORT] Luca Van Damme werd vervoerd naar het Bray Studios voor verdere evaluatie en behandeling. Tijdens het transport werden de vitale functies van de patiënt continu bewaakt en werden updates verstrekt aan het ontvangende ziekenhuis via ons communicatieapparaat vcxW-28114. 
+
+[HANDOVER] Bij aankomst in Bray Studios werd de patiënt overgedragen aan de spoedeisende hulp arts Julien Charlier. Gedetailleerde patiëntinformatie, waaronder het rekeningnummer TwkoUE-55D, zorgplan 5ITs5RBrz8, en de staat 901 van herkomst van de patiënt voor facturering, werden verstrekt aan het ontvangende team samen met een korte samenvatting van de zaak.
+
+[DOCUMENTATION] De ondertekende toestemming van de patiënt werd verkregen op ons digitale formulier met hun gebruikersnaam meVaca, en een brochure over privacypraktijken werd aan hen verstrekt. De noodcontactpersoon van de patiënt Luca Van Damme, gemeld als een familielid, werd geïnformeerd over de situatie. 
+
+Dit rapport is samengesteld door begeleider Julien Charlier, Diagnostisch radiograaf, met de Morris-Wilson ambulance aan boord 132QLK. Het documentatieproces werd uitgevoerd met volledige vertrouwelijkheid van de patiënt en strikte naleving van HIPAA-regelgeving. 
+
+[REPORTED BY] 
+Begeleider Julien Charlier 
+Licentienummer 910826-RnW
+Handtekening 0361-ZSyvS
+Datum 10-11-2010
+Email ien@red-cross.org
+IP Adres 52.217.91.18 
+Faxnummer 001-205-311-3429x79999 
+URL jones-frey.com"
+

@@ -1,0 +1,61 @@
+"---
+> **SCRATCH NOTE** HyCbQ 0877 \ud83d\udc69\u200d\u2695\ufe0f\ud83d\udccb\ud83d\udd8a\ufe0f
+--- 
+
+> **Patient's Profile**
+- Charlotte Harlen 
+- 55 years old
+- Address: Charlotte Harlen, 142 Fluorides, Frosting, Wholefood 0430, New Zealand
+- Contact: 693-595-4398x785
+- Email: Nguyac@unwomen.org
+- Health Plan: Rfd
+
+> **Medical Details**
+- Major Complaint: \ud83c\udf21\ufe0fFever, headache, red spots
+
+> **Medical Device**
+- Device ID: 4434-zatbM
+
+> **Medical Observations** 
+> * Vitals
+    - Temp: 102.5\u00b0 F 
+    - BP: 130/80 mmHg 
+    - Pulse: 98 bpm 
+    - Resp: 21 bpm
+* Skin: Multiple red spots present
+
+> **Treatment Plan**
+- Antipyretics for fever
+- Rest and hydration
+
+> **Next Appointment** 
+- Date: Sep
+- Location: Mount Amagi
+- Room: hospital
+
+> **Contact Information** for emergencies
+- Emergency Contact: Charlotte Harlen
+- Contact number: 693-595-4398x785
+
+> **Additional Information**
+- Doctor in charge: Jacob Nguyen
+- USERNAME on portal: 7E5Hggyn
+- IDNUM in system: 11049-ssjL
+- SSN: 344 435 113
+- Professional consulted: Psychologist, occupational
+
+> **Discharge Summary** 
+- Further consultation required with Jacob Nguyen at Mount Amagi 
+- Next follow-up appointment on Sep
+
+> **Communications**
+- Please check updates on patient portal https://www.fisher.com/explore/blogabout.php
+
+> **Billing Details**
+- Account: 11049-ssjL
+- Organization: Watson-Burke
+
+---
+*This note was created by 7E5Hggyn/FIuI-5658I/155.77.86.38/HehGso AHw for Charlotte Harlen with 24U Z16/641-235-0722 at Wholefood/New Zealand/752/755 Marcus Estate Apt. 060/0430 recorded as per 4434-zatbM.* 
+---"
+

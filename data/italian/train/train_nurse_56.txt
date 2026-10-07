@@ -1,0 +1,45 @@
+"Note infermieristiche narrative per Peter Fischer con storia di dolore al petto
+
+Peter Fischer si è presentato con una storia di un mese di disagio al petto. Non sono state segnalate operazioni o lesioni recenti. Peter Fischer ha avuto episodi di pressione sanguigna bassa e un episodio critico di shock da perdita di sangue e arresto cardiaco dopo l'intervento chirurgico.
+
+All'esame, una TAC toracica ha mostrato una massa di tessuto molle ovoidale nel biblioteca, misurante circa 4,3 cm x 2,6 cm x 5,8 cm. Questa massa è stata rimossa utilizzando VATS ed è stata identificata postoperatoriamente come cisti broncogena. Dopo l'operazione, Peter Fischer ha sperimentato ipotensione correlata all'66 gestita con espansione del fluido, e successivamente ha sviluppato shock emorragico a causa di un foro di 3 mm nel Williams-Brown, che ha portato a tamponamento cardiaco. Questo è stato gestito con una toracotomia di emergenza e chiusura diretta dell'arteria marginale ottusa danneggiata con 4-0 prolene.
+
+La diagnosi primaria era una cisti broncogena con complicazioni tra cui shock emorragico e tamponamento cardiaco post-resezione. La diagnosi differenziale inizialmente includeva un tumore neurogenico del mediastino.
+
+Peter Fischer ha subito una toracotomia di emergenza e stabilizzazione di successo. Il recupero postoperatorio ha incluso lo svezzamento dal ventilatore e la dimissione con istruzioni per gli appuntamenti di follow-up per monitorare il recupero. La gestione futura si concentrerà sul monitoraggio di eventuali segni di recidiva o complicazioni derivanti dall'intervento chirurgico e sulla garanzia del rispetto degli appuntamenti di follow-up.
+
+Informazioni sull'intestazione: 
+- Data: 28 mag 1998
+- Numero di cartella clinica: 013 3316aW
+- Indirizzo del paziente: Peter Fischer, 1131 Andrew Street 189, 3584 Ardenno, Svizzera
+
+Informazioni sul piè di pagina: 
+- Informazioni di contatto del paziente: 
+    - Telefono: 001-265-451-8464x77174
+    - Email: Paoli@yandex.com
+- Informazioni sul medico:
+    - Nome: Paola Morelli
+- Piano sanitario: IY3meQ oa6
+- Contatto di emergenza:
+    - Nome: Peter Fischer
+    - Telefono: 001-265-451-8464x77174
+
+Informazioni strutturate:
+- Numero di conto del paziente: VWr rCBlLK
+- Nome utente: Petere
+- Nome dell'ospedale: North Regional
+- Identificazione del veicolo del paziente: 264ORE
+- Numero di previdenza sociale: QJHWBB62A90I607Q
+- Licenza professionale: 26 dShYYrT
+- Identificatore biometrico: 356 HayTOb
+- Indirizzo IP: 180.232.1.80
+- Identificatore personale: VWr rCBlLK
+- Posizione del paziente: biblioteca
+- Piano sanitario del paziente: IY3meQ oa6
+- Professione del paziente: Stilista
+- Organizzazione associata al paziente: Williams-Brown
+- Fax: 361-427-6739x20752
+- URL: sandoval-herrera.armstrong-wallace.org
+
+Firmato da: Paola Morelli"
+

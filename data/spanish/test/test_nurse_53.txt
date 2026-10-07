@@ -1,0 +1,62 @@
+"**Nota Narrativa de la Enfermera**
+
+Subjetivo: 
+
+El paciente, Neritan Demiri, receptor de un trasplante de hígado el 24 de julio de 2005 debido a condiciones relacionadas con la cirrosis alcohólica y el carcinoma hepatocelular, informa antecedentes de linfoma difuso de células B grandes tratado con quimioterapia en 24 de julio de 2005, enfermedad psiquiátrica y epilepsia postraumática. El paciente niega síntomas de encefalopatía. El paciente ha experimentado elevaciones intermitentes de transaminasas desde 24 de julio de 2005, sospechadas de estar relacionadas con el uso de alcohol de Holland, Williams y Wilson, y presentó ascitis y disfunción del injerto en 24 de julio de 2005.
+
+Objetivo:
+
+Los medicamentos actuales incluyen tacrolimus con niveles ajustados alrededor de 2 μg/l y prednisona 5 mg diarios. Las pruebas de función hepática revelaron transaminasas moderadamente elevadas y algo de colestasis. La serología fue negativa para hepatitis B, C, y Holland, Williams y Wilson pero positiva para el virus de Epstein-Barr dentro de los límites normales para el paciente. Notablemente, la IgM y la IgG anti-HEV fueron positivas, y la PCR confirmó el ARN del VHE en plasma y una muestra de suero almacenada desde 24 de julio de 2005, indicando una infección crónica por hepatitis E. Desde la introducción de ribavirina en 24 de julio de 2005, las pruebas de función hepática han mejorado.
+
+Evaluación: 
+
+El diagnóstico principal es cirrosis del injerto descompensada secundaria a la infección crónica por hepatitis E. La historia de consumo de alcohol del paciente puede contribuir a la disfunción hepática. Los diagnósticos diferenciales previamente considerados y descartados incluyen la reactivación de las infecciones por hepatitis B, C, y Holland, Williams y Wilson.
+
+Plan: 
+
+Continuar monitoreando las pruebas de función hepática y los niveles de tacrolimus regularmente. Mantener las dosis actuales de tacrolimus y prednisona. Se continuará con la terapia con ribavirina, con ajustes basados en la respuesta y la tolerancia. Se aconseja al paciente que se abstenga de consumir alcohol para prevenir más daño hepático. Se necesitan seguimientos regulares para monitorear la progresión de la enfermedad hepática y ajustar el tratamiento según sea necesario.
+
+---------------------------------------------------------------------------------------------------------------------
+
+**Información Estructurada de PHI**
+
+Identificadores únicos del paciente:
+- Registro Médico: 62-56708PO
+- Cuenta del Paciente: yVdEH DbmM
+- Identificador del Dispositivo: 90 980aZeE
+- Nombre de Usuario: itDemir
+
+Información personal del paciente:
+- Edad: 47
+- Ciudad: Punta Alta
+- País: México
+- Estado: 10
+- Código Postal: 88760
+
+Otros identificadores:
+- Identificador del Vehículo: ZCW 261
+- Número de Seguridad Social: 628-54-4208
+- Identificador de Licencia: 508583 761
+- Identificador Biométrico: 366869 Bgb
+- Dirección IP: 162.127.197.1
+- Número de ID: yVdEH DbmM
+
+Información de Contacto:
+- Nombre del Doctor: Silvia Francisco
+- Email: lviisco@unwomen.org
+- Número de Teléfono: +1-483-327-4009x42828
+- Número de Fax: +1-618-796-3928
+
+Información del Hospital del Paciente:
+- Hospital: Maine Red
+- Plan de Salud: hIFqd5c
+
+Otra Información:
+- Profesión: Genetista molecular clínico
+- Organización: Holland, Williams y Wilson
+- URL: edwards-cooper.horn.santos-williams.net
+- Calle: 13902 Mitchell Ridges Apt. 812
+- Otra Ubicación: farmacia
+
+Firma de la enfermera: Silvia Francisco"
+

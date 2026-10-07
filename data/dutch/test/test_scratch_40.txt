@@ -1,0 +1,60 @@
+"Verpleegkundige Kras Notitie
+
+[Header Informatie]
+------------------------------------------------------------------------
+Account: 90-336500r | Record: yXPmS-xYdt | ID: 90-336500r | Gebruiker: 6X3jbrK5
+
+Contactgegevens: Telefoon: 845.652.1125 | Email: jImke@gmail.com | Fax: 4913719860
+
+Relevante Details:
+- Ziekenhuis: Green Howards Museum Richmond North Yorkshire England
+- Locatie: sportschool
+- Geboortedatum: 22-03-2009
+- Leeftijd: 17
+- Adres: Roos Postma, Oculistic 140, 0770 Samydaceae, België
+
+[Primaire Observaties]
+------------------------------------------------------------------------
+Patiënt: Roos Postma
+- Klacht: Bonzende hoofdpijn, waarschijnlijk migraine
+
+Vitale Lezing:
+- BP: 130/80 mmHg
+- HR: 82 bpm
+- SpO2: 98%
+- Temp: 98.6 F
+
+[Medische Observaties en Behandelplan]
+------------------------------------------------------------------------
+- Waargenomen lichtgevoeligheid
+- Misselijkheid gemeld
+- Geen koorts
+- Geen zichtbare tekenen van distress
+
+Plan:
+- Toegediend 50 mg sumatriptan
+- Rust aanbevolen in een omgeving met weinig licht
+- Voortdurende monitoring
+
+[Extra Informatie]
+------------------------------------------------------------------------
+- Zorgplan: RJn
+- Apparaat ID: pkqn-xlMSd
+- Professionele Licentie: oCf oAMYtI
+- Biometrische ID: Ss 90010aF
+- IP Adres: 132.124.71.110
+- Voertuig ID: MDM 108
+- Sociale Zekerheid: 519-1528168-27
+- Stad: Fimbriodentate
+- Land: België
+- Postcode: 0770
+- Organisatie: Morgan-Williams
+- Beroep: Horticultural consultant
+
+[Footer Informatie]
+------------------------------------------------------------------------
+- Rapport opgesteld door: Imke Kuijpers
+- URL voor patiëntenportaal:  www.schneider.biz/appabout.html
+
+Opmerking: Alle verstrekte informatie is vertrouwelijk en mag niet worden vrijgegeven zonder de juiste autorisatie."
+

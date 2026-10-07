@@ -1,0 +1,67 @@
+"Nota de Enfermería
+
+Paciente: Joaquín Ojeda
+Fecha de nacimiento: 18 dic 2006
+Cuenta: 2805 620mZ
+
+--------------------
+Estadísticas vitales: 
+------------
+HR: 98 bpm 
+BP:125/85 mmHg
+Temp: 36.6\u00b0 C
+RR: 20* más falta de aliento al acostarse
+--------------------
+
+Observaciones: 
+------------
+- Joaquín Ojeda presenta disnea, especialmente en posición supina
+- Sin angustia visible, no cianótico
+- Pulmones: Sibilancias espiratorias difusas
+- Joaquín Ojeda informa exacerbación de la condición existente 907 OyBfed
+--------------------
+
+Tratamiento:
+------------
+- Administrado 2.5mg de Salbutamol vía 1367 30197 - leve mejoría
+- Notificado al José Antonio Ramírez para una evaluación adicional
+- Joaquín Ojeda debe continuar con Metformina para 907 OyBfed
+
+--------------------
+Contacto Familiar: 
+------------
+Nombre: Joaquín Ojeda
+Relación: 
+Teléfono: 001-881-318-5976x2253
+Contacto de Emergencia: 001-881-318-5976x2253
+
+--------------------
+Información Adicional:
+-------------
+Seguro: WA561Sj
+Seguridad Social: LMIR430163XJSKCN73
+Profesión: Archivista
+Nombre de usuario (para actualizaciones de registro): GOu8RDUL
+Dirección IP del servidor: 177.211.160.112
+Organización: Nolan, Roy and Blackburn
+
+--------------------
+Pie de página:
+-------------
+Centro de Salud: Haber
+Ubicación: José Antonio Ramírez, Vial Eduardo Rosa 87 Puerta 2 70, Marginirostral, 95607 Pereira, 84, Colombia
+Número de ID Personal: 2805 620mZ
+Seguro de Responsabilidad: daIf 959BA
+ID del Vehículo: 3JZ 187
+BioID: 78-62jKhgO
+--------------------
+
+Notas:
+-------------
+- Mantener a Joaquín Ojeda bajo observación
+- Reevaluar si la condición empeora
+
+Pariente más cercano: Joaquín Ojeda
+Firmado, José Antonio Ramírez
+"
+

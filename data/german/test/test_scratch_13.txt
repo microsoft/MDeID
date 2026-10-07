@@ -1,0 +1,56 @@
+"**Pflegekratznotiz** 
+
+***Patientenstatus***
+
+- Hans Wyss: In Not
+- Schmerzskala: 8/10 
+- Ort des Schmerzes: Gelenke
+- Vermuteter Zustand: Arthritis
+
+***Vitalwerte***
+
+- Temp: 98,2 F
+- HR: 78 bpm
+- RR: 18 bpm
+- BP: 120/80 mmHg
+
+***Beobachtungen***
+
+- Hans Wyss: Scheint unwohl
+- Gliedmaßenbewegung: Eingeschränkt
+- Haut: Normal
+- Gelenke: Geschwollen, gerötet 
+
+***Behandlung***
+
+- Verabreicht: Schmerzmittel
+- Wirksamkeit: Überwachung 
+
+***Medizinische Info***
+
+- 87172 938i: Notiert
+- K1bnOZS: Zu überprüfen
+
+***Kontakt Info***
+
+- atoiet@microsoft.org: Für Kommunikation 
+- 678-688-3082: Für Notfälle 
+- 883-252-8742x3833: Für Dokumentenaustausch
+
+***Verschiedenes***
+
+- Ic-ymntqhf Details: Benötigt
+- 7yljIzTb: Für medizinisches Portal
+- bx-IAcxELK: Schmerzlinderungsgerät 
+- Ic-ymntqhf: Identifikation 
+- Hans Wyss, Keudelweg 9 19, 2248 Hinwil, Belgien: Für häusliche Pflegehilfe
+- Ely Abbey: Überweisung erforderlich
+- Supermarkt: Letzte gemeldete Anwesenheit
+- Redakteur, Magazin-Features: Beruf des Patienten
+- Byrd-Klein: Arbeitsplatz des Patienten
+- Kato Pieters: Behandelnder Arzt 
+
+Hinweis: Detaillierte Bewertung und Managementplan ausstehend 04.12.2013 Termin. Weitere Behandlung wird auf der Grundlage der Untersuchungsergebnisse, des Alters des Patienten 65 und des aktuellen Zustands basieren. 
+
+[Ende der Kratznotiz]"
+

@@ -1,0 +1,49 @@
+Resumen de Alta
+
+**Paciente:** Camilo Londoño 
+**Número de Historia Clínica:** 468 07faaV 
+**Médico Admitente:** Lucas Godoy 
+
+# Secciones Requeridas
+
+## Sección de Alergias e Intolerancias
+El paciente no ha mostrado signos de alergias o intolerancias durante la estancia.
+
+## Sección del Curso Hospitalario
+El paciente fue admitido debido a un diagnóstico confirmado de carcinoma. Presentó síntomas que incluyen una estructura de masa corporal, dolor y lesiones. La estancia hospitalaria estuvo marcada por un cuidadoso seguimiento y tratamiento de estos síntomas.
+
+## Sección de Diagnóstico de Alta
+El paciente está diagnosticado con carcinoma y dolencias relacionadas. 
+
+## Sección de Plan de Tratamiento
+El plan de tratamiento recomendado incluye una recuperación progresiva en casa con mucho descanso y una dieta equilibrada. Se aconsejan chequeos regulares en NK Inter para monitorear la condición.
+
+## Sección de Consultas Hospitalarias
+Se consultó a Lucas Godoy de oncología durante la estancia del paciente en el hospital. 
+
+## Sección de Procedimientos
+Se realizó una biopsia para confirmar la presencia de carcinoma. 
+
+## Sección de Resultados
+Los resultados de la biopsia confirmaron el diagnóstico de carcinoma. 
+
+# Secciones Recomendadas
+
+## Sección de Medicamentos de Alta
+Se le ha recetado al paciente medicación para manejar el dolor y mejorar la salud general. 
+
+# Secciones Adicionales
+
+## Sección de Signos Vitales
+Los signos vitales se mantuvieron constantemente en el rango seguro durante el último chequeo. Es necesario monitorear estos regularmente en casa. 
+
+## Sección de Instrucciones de Alta Hospitalaria
+Se aconseja al paciente que continúe con la medicación según lo prescrito, mantenga una dieta y estilo de vida saludables, y programe visitas de seguimiento regulares con Lucas Godoy en NK Inter. 
+
+## Sección de Físico de Alta Hospitalaria
+Al dar de alta, el paciente estaba estable y de buen ánimo. 
+
+## Sección de Directivas Anticipadas
+El cuidado post-alta ha sido explicado y comprendido por el paciente y la familia. 
+
+Este documento deja fuera cualquier Información de Salud Personal (PHI) que no tenga sentido en el contexto de una nota y no contiene ninguna información que pueda considerarse PHI.

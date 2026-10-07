@@ -1,0 +1,78 @@
+"---
+**Schicht: 1**
+**Krankenschwester: chusta**
+**Notiz: PBCXx wSxA**
+**Kontakt: 852-978-4415**
+
+---
+**Patient: Anna Schuster**
+**ALTER: 11**
+**Adresse: Anna Schuster, Jacobgasse 556 33, 8739 Rendsburg, Österreich**
+
+---
+**Beobachtungen:**
+
+- Beschwert sich über Sodbrennen - schwer 
+- Häufige Verdauungsstörungen - chronisch 
+- Erbrechen - regelmäßig
+
+**Behandlungsfortschritt:**
+
+- Medikamente gegen Magengeschwüre begonnen (sCkZvf-768)
+- Überwachung der GERD-Symptome
+
+---
+**Vitalzeichen:**
+
+- Temp: 37 Grad Celsius 
+- BP: 130/80
+- Herzfrequenz: 88 bpm
+- Atemfrequenz: 16 bpm
+
+---
+**Bedanken:**
+
+- GERD-Fortschritt
+- Risiko für die Entwicklung von Magengeschwüren
+
+---
+**Nachverfolgung:**
+
+- GERD-Remission/scharfer Schmerz - Kontaktieren Sie Dr. Ines Van Damme 
+- Anhaltende Symptome - Termin mit Krankenhaus Alfa Romeo
+- Notfall - Verwenden Sie 506216 QNz (Ruftaste) 
+
+---
+**Nächste Schritte:**
+
+- Aktuelle Behandlung fortsetzen
+- Vitalzeichen alle 4 Stunden überwachen
+- Überprüfen Sie auf Nebenwirkungen der Medikation
+
+---
+**Für Info/Bedenken:**
+
+- Gesundheitsplan jZPIUU BuGlfCw8 
+- Email: Inm@mail.com
+- Web: alvarez.com
+
+---
+**Weitere Details des Patienten:**
+
+- Fahrzeug: 42-MV82
+- Sozialversicherung: 01 603 126 518
+- IP-Adresse: 140.13.97.197
+- Lizenz: dIsP 30505
+- BioID: cF-EQBfcIP
+
+---
+**Identifikatoren:**
+
+- Kontonummer: PBCXx wSxA
+- Ort des Ereignisses: Apotheke
+- Beruf: Flugbegleiter
+- Organisation: Colon-Jones
+- Fax: 397.368.9711x15433
+
+---"
+

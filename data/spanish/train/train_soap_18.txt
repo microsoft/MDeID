@@ -1,0 +1,30 @@
+"S: El paciente Alfredo Aguirre presentó un historial de dolor en el pecho de un mes 19 abr 1987. No se informó de cirugía reciente o trauma. El paciente experimentó episodios de hipotensión y un episodio severo de shock hemorrágico y paro cardíaco postoperatorio.
+
+O: Un escáner torácico CT 48283-peNl reveló una masa de tejido blando ovoide en el ángulo costofrénico posterior izquierdo, que mide aproximadamente 4.3 cm x 2.6 cm x 5.8 cm. La masa fue resecada usando VATS y diagnosticada como un quiste broncogénico postoperatorio en el hospital Windmill. Después de la cirugía, el paciente experimentó hipotensión tratada con expansión de fluidos y luego desarrolló shock hemorrágico debido a un agujero de 3 mm en el pericardio, lo que llevó a un taponamiento cardíaco. Esto fue manejado por toracotomía de emergencia y cierre directo de la arteria marginal obtusa lesionada con prolene 4-0.
+
+A: El diagnóstico principal fue un quiste broncogénico con complicaciones que incluyen shock hemorrágico y taponamiento cardíaco post-resección. El diagnóstico diferencial inicialmente incluyó un tumor neurogénico del mediastino.
+
+P: El paciente se sometió a una toracotomía de emergencia exitosa y estabilización. La recuperación postoperatoria incluyó el destete del ventilador y el alta con instrucciones para citas de seguimiento para monitorear la recuperación en el hogar del paciente Alfredo Aguirre, Avenida Oaxaca 013 Edif. 358, Depto. 784 190, Sin dudarlo, I3AM16T2 Pulpí, 97, México. La gestión adicional se centrará en monitorear cualquier signo de recurrencia o complicaciones de la cirugía y asegurar el cumplimiento de las citas de seguimiento.
+
+Información adicional: 
+
+- Número de registro médico del paciente: 72855-QaMb
+- Número de cuenta del paciente: 73139-mOAO
+- Nombre de usuario del paciente: M8MBiL2e
+- Número de identificación del vehículo del paciente: 8-L6831
+- Número de seguridad social del paciente: 564-72-3352
+- Número de licencia profesional del paciente: YEfGS-73Gs
+- Identificador biométrico del paciente: BAtcXc 516
+- Dirección IP del paciente: 95.205.8.43
+- Identificador personal del paciente: 73139-mOAO
+- Edad del paciente: 3
+- Ubicación del paciente: gimnasio
+- Plan de salud del paciente: Tthvhz
+- Profesión del paciente: Osteópata
+- Organización del paciente: Humphrey-Bright
+- Nombre del doctor: Isabella Aguirre
+- Correo electrónico del paciente: Agula@microsoft.org
+- Teléfono del paciente: 849-414-4355x5703
+- URL del paciente: https://www.matthews.org/blogsearch.asp
+- Fax del paciente: 313-636-3397x1502"
+

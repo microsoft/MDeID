@@ -1,0 +1,56 @@
+"Note infermieristiche narrative per paziente pediatrico con distress respiratorio
+
+Soggettivo: Il paziente Giorgia Lombardi, un ragazzo di 100 anni, è stato portato al nostro pronto soccorso mostrando segni di distress respiratorio. Non era presente febbre. Secondo il racconto del caregiver, Giorgia Lombardi ha avuto ripetuti episodi di tosse e respiro sibilante per un mese, con sintomi che non mostrano miglioramenti nonostante i farmaci, tra cui antibiotici e steroidi, per una diagnosi sospetta di asma. Non c'era una storia riportata di soffocamento, disfagia, sialorrea, atopia o problemi perinatali di natura patologica.
+
+Oggettivo: All'esame, Giorgia Lombardi era vigile, senza febbre con una temperatura di 37,5°C, mostrando tachicardia con un ritmo cardiaco di 130 battiti al minuto e tachipnea con un ritmo respiratorio di 40 respiri al minuto. La sua saturazione di ossigeno era segnata al 93%. L'esame fisico ha rivelato una retrazione sopra-sternale, russamento sparso e respiro sibilante diffuso. Tuttavia, non sono stati osservati segni di disidratazione, malnutrizione o cianosi. L'esame cardiovascolare non ha indicato anomalie. Gli esami di laboratorio hanno mostrato un normale emocromo completo e una proteina C-reattiva di 14 mg/l. Una radiografia del torace ha identificato un corpo estraneo nell'alto mediastino.
+
+Analisi: La nostra diagnosi primaria per Giorgia Lombardi è distress respiratorio dovuto a un oggetto estraneo - un bottone di abbigliamento bloccato nell'esofago toracico superiore. Questo era stato inizialmente diagnosticato erroneamente come asma. La diagnosi differenziale includeva asma e altre cause di distress respiratorio pediatrico. La prognosi, dopo la rimozione del corpo estraneo, è buona senza segni di stenosi o perforazione e un recupero soddisfacente nell'ultimo anno.
+
+Piano: Il corpo estraneo è stato rimosso con successo tramite ipofaringoscopia eseguita sotto sedazione. Post-operatoriamente, Giorgia Lombardi è stato gestito con fluidi endovenosi e corticosteroidi per ridurre l'infiammazione periesofagea. È stato dimesso 24 ore dopo l'intervento con una dieta liquida chiara e non ha mostrato segni di complicazioni o recidiva dei sintomi. La cura di follow-up dovrebbe includere il monitoraggio di eventuali segni di danni all'esofago o problemi respiratori. È consigliata un'ulteriore educazione sulla prevenzione dell'aspirazione di corpi estranei per i caregiver.
+
+---
+
+**Dati del paziente**
+- Numero di cartella clinica: 55-uwCQXMN
+- Numero di conto: 4552-vOunh
+- ID Paziente: 4552-vOunh
+- Numero di previdenza sociale: 757567-5136
+
+**Informazioni di contatto**
+- Indirizzo: Giorgia Lombardi, 35097 Cook Knolls, 14, 2818 Miglionico Pulsatile, Italia
+- Telefono: 001-594-571-0933x57304
+- Email: rid@zoho.com
+
+**Informazioni aggiuntive**
+- Dottore: Urs Schmid
+- Ospedale: Ferrybridge Yorkshire
+- Piano sanitario: mT6a6rnl3
+
+**Contatto di emergenza**
+- Nome: Giorgia Lombardi
+- Telefono: 001-594-571-0933x57304
+- Relazione: 
+
+**Informazioni digitali**
+- Dispositivo: 926971-297
+- Indirizzo IP: 100.172.203.242
+- Nome utente: zMbJP5ck
+- URL: jacobs.jefferson.com
+- Fax: 991.796.3458x622
+
+**Informazioni personali**
+- Età: 100
+- Professione: Bibliotecario pubblico
+- Organizzazione: Turner PLC
+- Licenza: 91092 3706
+- BioID: 078-teabWl
+- Veicolo: 7PV 840
+
+**Informazioni sulla località**
+- Città: Miglionico
+- Stato: IS
+- Paese: Italia
+- Via: 276 Reese Tunnel Suite 242
+- CAP: 2818
+- Altra località: parco"
+

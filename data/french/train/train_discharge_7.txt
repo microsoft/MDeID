@@ -1,0 +1,38 @@
+RÉSUMÉ DE SORTIE
+
+Patient : Roméo Fleury
+Médecin traitant : Christian Weber
+
+# RAISON DE L'HOSPITALISATION :
+Roméo Fleury a été admis à l'hôpital suite à des résultats positifs au test de guaiac et des symptômes incluant des frissons et des ecchymoses, indicateurs d'une anémie.
+
+# COURS DE L'HOSPITALISATION :
+À l'admission, le taux d'hémoglobine initial du patient a été noté comme étant bas à 8g/dl, signalant une possible condition médicale comme l'anémie. Le séjour à l'hôpital a été compliqué par des épisodes de frissons et l'apparition d'ecchymoses spontanées, incitant à une enquête plus approfondie qui a inclus une série de tests.
+
+# PROCÉDURES EFFECTUÉES :
+Durant le séjour, une biopsie de la moelle osseuse a été effectuée en raison de la présence de protéines monoclonales dans le sang. Cette procédure a aidé à identifier la cause profonde de la condition du patient.
+
+# SOINS, TRAITEMENT ET SERVICES :
+Roméo Fleury a commencé un supplément de fer et de l'Erythropoïétine. Des analyses de sang régulières ont été effectuées pour surveiller les niveaux d'hémoglobine et la réponse au traitement. Des services supplémentaires comme une consultation diététique ont également été utilisés pour assurer une consommation d'aliments riches en fer. Des soins infirmiers ont été fournis en continu pour surveiller les signes vitaux du patient et son bien-être général.
+
+# ÉTAT À LA SORTIE :
+Au moment de la sortie, le taux d'hémoglobine de Roméo Fleury avait augmenté à 11g/dl et les symptômes tels que les frissons et les ecchymoses avaient considérablement diminué. L'état général du patient a également montré des améliorations.
+
+# INFORMATIONS FOURNIES AU PATIENT ET À LA FAMILLE :
+Les résultats et le plan de traitement subséquent ont été expliqués en détail à Roméo Fleury et à la famille. Ils ont également été informés de l'importance d'un régime alimentaire sain, riche en fer et d'un suivi régulier pour une surveillance continue de la condition médicale.
+
+# DISPOSITIONS POUR LES SOINS DE SUIVI :
+Des soins de suivi en consultation externe ont été organisés avec Christian Weber dans la Division d'Hématologie. Le patient est prévu pour un contrôle dans deux semaines.
+
+# MÉDICAMENTS À LA SORTIE :
+Des suppléments de fer et des injections d'Erythropoïétine ont été prescrits et les instructions pour ceux-ci ont été expliquées au patient et à la famille.
+
+# INSTRUCTIONS DE SORTIE DE L'HÔPITAL :
+Roméo Fleury et la famille ont reçu des instructions spécifiques sur les signes d'une aggravation de la condition comme des frissons continus, une fatigue excessive ou des ecchymoses significatives et de chercher une attention médicale immédiate en cas d'apparition de ces symptômes.
+
+# DIAGNOSTIC À LA SORTIE :
+Anémie, probablement causée par une absorption réduite de fer ou une consommation alimentaire inadéquate.
+
+Signé :
+Christian Weber
+Numéro de dossier médical : 96315-DZeM

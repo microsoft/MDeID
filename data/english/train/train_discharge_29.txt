@@ -1,0 +1,62 @@
+DISCHARGE SUMMARY
+
+# HEADER 
+
+Discharge Disposition: Home Care
+
+# REASON FOR HOSPITALIZATION
+
+Lucy Gledhill was admitted due to the presence of a decubitus ulcer. 
+
+# PROCEDURES PERFORMED
+
+Debridement of the decubitus ulcer was performed on Lucy Gledhill. 
+
+# CARE, TREATMENT, AND SERVICES PROVIDED
+
+Lucy Gledhill underwent daily wound dressings, antibiotic therapy, and pain management. 
+
+# CONDITION AND DISPOSITION AT DISCHARGE
+
+At the time of discharge, Lucy Gledhill's ulcer showed signs of improvement, however still requires wound care at home. The patient also presented symptoms such as systolic murmur and frailty, that were managed during the hospital stay. Before discharge, Lucy Gledhill showed a temporary spike in temperature which was successfully managed with antipyretics. 
+
+# INFORMATION PROVIDED TO PATIENT AND FAMILY
+
+Education was provided to Lucy Gledhill and family on how to properly care for the ulcer at home, signs of infection to watch for, and the importance of regular turning and repositioning to prevent further ulcers. 
+
+# PROVISIONS FOR FOLLOW-UP CARE
+
+Lucy Gledhill is advised to follow up with Max Wilson after discharge for a wound check and management of the underlying causes of decubitus ulcer development. Home care service might be necessary, pending on the healing progress of the ulcer.
+
+# ADDITIONAL SECTIONS
+
+**Allergies And Intolerances Section:**
+
+No known drug allergies.
+
+**Discharge Diagnosis Section:**
+
+Discharge diagnosis includes a decubitus ulcer, systolic murmur, and frailty.
+
+**Plan Of Treatment Section:**
+
+The plan after discharge involves continuation of antibiotic therapy, a regular wound care regime, follow-up visits to the outpatient department, and lifestyle modifications to prevent recurrence of decubitus ulcers.
+
+**Hospital Consultations Section:**
+
+Consulted with the wound care specialist and cardiologist during the course of treatment.
+
+**Procedures Section:**
+
+Underwent debridement of the ulcer.
+
+**Results Section:**
+
+The wound showed significant improvement post-debridement.
+
+Please note this discharge summary should accompany the patient for the first few follow-up visits to guide further care.
+
+[End of Summary]
+
+(DOCUMENT CODE: 397-rYvKwD)
+

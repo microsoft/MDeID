@@ -1,0 +1,20 @@
+T1	PATIENT 50 62	Ana González
+T2	AGE 69 71	33
+T3	MEDICALRECORD 90 100	193139 NpR
+T4	PATIENT 122 134	Ana González
+T5	PATIENT 268 280	Ana González
+T6	DOCTOR 345 364	Juan Antonio Olvera
+T7	PATIENT 775 787	Ana González
+T8	DOCTOR 913 932	Juan Antonio Olvera
+T9	HOSPITAL 936 986	Boston Cambridge Somerville Everett Revere Chelsea
+T10	PATIENT 1047 1059	Ana González
+T11	PATIENT 1287 1299	Ana González
+T12	PATIENT 1635 1647	Ana González
+T13	PATIENT 1858 1870	Ana González
+T14	PATIENT 2081 2093	Ana González
+T15	DOCTOR 2298 2317	Juan Antonio Olvera
+T16	HOSPITAL 2321 2371	Boston Cambridge Somerville Everett Revere Chelsea
+T17	PATIENT 2512 2524	Ana González
+T18	DOCTOR 2540 2559	Juan Antonio Olvera
+T19	DOCTOR 2715 2734	Juan Antonio Olvera
+T20	HOSPITAL 2735 2785	Boston Cambridge Somerville Everett Revere Chelsea

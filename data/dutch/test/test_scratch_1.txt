@@ -1,0 +1,86 @@
+"**Krabbel Notitie: Patiënt Conditie Update**
+
+---
+
+Patiënt: Ivo de Lange
+
+Leeftijd: 35
+
+---
+
+1. Klacht: Ernstige pijn, maagstreek
+2. Observaties: Zweten, koorts symptomen 
+3. Vitale tekenen: Temp (F): 100.4, BP: 120/80, HR: 88, RR: 20
+4. Mogelijk: Tyfus diagnose
+
+---
+
+Volgende stappen:
+
+1. Bloedtest - om tyfus te bevestigen
+2. IV vloeistoffen - rehydratatie
+3. Medicatie - antibiotica voor tyfus
+
+---
+
+Patiënt Info:
+
+- Medisch Dossier: 43414 Mgbw
+- Accountnummer: TS-FJMlCDl
+- ID Nummer: TS-FJMlCDl
+
+---
+
+Dokter Info:
+
+- Dokter Naam: Gerrit Willemsen
+- Email: ent@unwomen.org
+
+---
+
+Ziekenhuis Info:
+
+- Ziekenhuis Naam: Detroit Pistons
+- Locatie: strand
+
+---
+
+Nood Contact:
+
+- Contact Naam: Ivo de Lange
+- Telefoonnummer: 544-784-2544x5863
+
+---
+
+Apparaat Info:
+
+- Apparaat ID: CckG HDiHg
+- IP Adres: 133.236.180.225
+
+---
+
+Verzekering Info:
+
+- Gezondheidsplan: AubJl
+- Plan Provider: Campbell, Torres en Miller
+
+---
+
+Licentie Info:
+
+- Licentienummer: 39006-vtqs
+
+---
+
+Andere Info:
+
+- Sociale Zekerheidsnummer: 976-6779377-15
+- Kentekenplaat: 04X 604
+- Gebruikersnaam: 4TNbERa0
+- Biometrische ID: 43 yrlzwgz
+- Fax: 452.760.0663x42396
+
+---
+
+Let op, dit zijn voorlopige observaties en acties. Verdere diagnose en behandeling worden bepaald na laboratoriumresultaten."
+

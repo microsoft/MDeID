@@ -1,0 +1,36 @@
+"Appunti del Dottore Scratch:
+
+- Paziente: Ernst Wyss
+- ID: AvKfl-1451
+- Età: 4
+- Condizione: Insufficienza cardiaca avanzata
+- Storia DCM: Sì
+- Dispositivo: CRT-D (7 anni fa), HeartMate II® LVAD (4 anni fa, ponte per il trapianto)
+- Sintomi recenti: VF, insufficienza cardiaca destra, congestione epatica
+- Trattamento: Amiodarone, nifekalant, mexiletina, lidocaina, inibitore PDE5, diuretici, ottimizzazione della velocità LVAD
+
+Osservazioni (Iniziale - Post impianto LVAD):
+- EF: 13%
+- Dilatazione LV (diastole): 51 mm
+- Rigurgito aortico: Triviale
+- Contrazione RV (FAC): 33%
+- VF: Sostenuto
+- AF: Frequenza crescente (parossistica)
+- Bilirubina totale: Elevata (peggioramento della funzione epatica)
+
+Valutazione:
+- Diagnosi primaria: Insufficienza cardiaca avanzata (DCM)
+- Complicazioni: VF, insufficienza cardiaca destra
+- Diagnosi differenziali: Progressione dell'insufficienza cardiaca, cardiomiopatia indotta da aritmia, complicazioni legate al dispositivo
+- Prognosi: Riservata
+
+Piano:
+- Continuare il monitoraggio: Funzione cardiaca, enzimi epatici
+- Regolazione del farmaco: Come necessario (aritmie, sintomi di insufficienza cardiaca)
+- Impostazioni LVAD: Assicurare una perfusione adeguata
+- Follow-up: Appuntamenti regolari, monitorare la condizione e la funzione del dispositivo
+- Educazione: Riconoscere i sintomi dell'insufficienza cardiaca, aderenza al piano di trattamento
+- Consultazione: Erika Marino (squadra di trapianto di cuore)
+
+Nota di: Erika Marino (Ispettore di edifici storici/ufficiale di conservazione) presso Indipendenza gallese/Koch-Prince"
+

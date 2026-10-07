@@ -1,0 +1,59 @@
+"Kratz Krankenschwester Notiz
+----------------------
+
+Abschnitt 1: Patientenidentifikation
+Eva Van Dyck
+49680-ffRZ
+79
+IWhE 9705u
+VINn-06373
+IWhE 9705u
+
+Abschnitt 2: Vitalwerte & Beobachtungen
+BP - 130/80
+HR - 80 bpm
+Temp - 98.6 F
+RR - 20/Minute
+O2 - 98%
+BS - Zufällig 150 mg/dl
+
+Abschnitt 3: Hautbeobachtungen
+Sichtbarer Ausschlag, rot & erhöht. Flecken vorhanden, gelbliche Kruste. Impetigo vermutet?
+
+Abschnitt 4: Verabreichte Behandlung
+Antibiotika eingeleitet. Topische Behandlung vorgeschlagen.
+
+Abschnitt 5: Fortschritt & Bemerkungen
+Reaktion auf Antibiotika überwachen. Regelmäßige Verbandswechsel, um das Risiko einer weiteren Infektion zu minimieren.
+
+Abschnitt 6: Kontaktinformationen
+(268)241-7174x5719
+ehomas@zoho.com
+Eva Van Dyck, Erhardt-Rosenow-Ring 98 60, 2490 Novara, Deutschland
+
+Abschnitt 7: Andere
+Thomas Huber
+Haselnussfarmen
+7n2LsHyx
+Cruz-Green
+Krankenschwester, Kinder
+VcD9rTsf
+93.172.31.111
+37 781 218 553
+807381-JRX
+30-AJ31
+http://www.blake.org/blog/tagabout.asp
+
+Abschnitt 8: Rückruf
+03.02.1975
+Bushaltestelle
+JgIT 38900
+Deutschland
+Riedau
+Clarholzer
+9262 Hartman Spring
+2490
+584-876-2567x336
+
+Hinweis: Alle Messungen und Beobachtungen unterliegen der Überprüfung und sollten nicht für diagnostische Zwecke verwendet werden. Bitte überprüfen Sie mit den Haselnussfarmen Aufzeichnungen mit VINn-06373."
+

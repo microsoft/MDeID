@@ -1,0 +1,79 @@
+"## VERPLEEGKUNDIGE KRABBELNOTITIES
+
+---
+
+**Jack Meijer - Medisch Rapport**
+
+_Notities & Observaties_
+
+- Opmerking: Uitslag-achtige symptomen, soms resulterend in huidschilfering.
+- Gevoeligheid: Hoog 086-kJudzf
+
+---
+
+**Lijst met vitale tekenen**
+
+| Parameter | Observatie |
+|-----------|-------------|
+| BP        | 125/80      |
+| HR        | 80 bpm      |
+| Temp      | 98.4F       |
+| RR        | 16 bpm      |
+
+---
+
+**Comm. met William Charlier**
+
+- Symptomen besproken met William Charlier
+- Advies: Verdere tests voor mogelijke medicijnreactie
+
+---
+
+**Patiëntinformatie**
+
+- **Jack Meijer** 
+- **996-07333N**
+- **Leeftijd: 70**
+
+---
+
+**Zorgvoortgang**
+
+- Huidverzorgingsbehandeling gestart.
+
+**Herinnering**
+
+- Monitor patiënt vitale functies elke 2 uur
+- Onderhoud communicatie met William Charlier
+
+---
+
+**Contactinformatie**
+
+648.298.8921x359  
+liamrlier@who.int  
+
+**Noodcontact**
+
+- Jack Meijer Relaties 648.298.8921x359
+
+---
+
+**Diversen**
+
+- **Gezondheidsplan: BrQ**
+- **Werkplek: Thomas-Lewis**
+- **Woonadres: Jack Meijer, Cotrine 6, 1831 Pantotype, België**
+- **Ziekenhuis: Casinoin**
+- **Locatie van incident: café**
+
+---
+
+**Connectiviteit**
+
+- **Apparaat ID: wZoxK-097V**
+- **IP-adres: 175.214.61.177**
+- **URL: everett.francis.com**
+
+**Einde van Document**"
+

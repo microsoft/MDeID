@@ -1,0 +1,25 @@
+"Arzt Kratz Notiz
+
+P: Alina Heinrich, lDUhPI bsF, 88 
+C: Hypertonie, Herzklappenerkrankung, Diabetes Mellitus, Chronische Nierenerkrankung Stadium 4
+H: Schmerzen im unteren Rückenbereich festgestellt, frühere Behandlungen für große Nierensteine auf beiden Seiten beinhalten die Einsetzung von doppelten J-Stents auf beiden Seiten, extrakorporale Stoßwellenlithotripsie links und FURS mit Lasersteinfragmentierung. 
+
+**Beobachtungen** 
+O: Aktuelle CT ohne Kontrastmittel - mehrere Nierensteine auf beiden Seiten, gesamte Steinlast von 3,0 cm in der linken Niere und 3,2 cm in der rechten Niere. 
+Verfahren: Gleichzeitige bilaterale FURS und Holmium-Laser-Lithotripsie unter Vollnarkose, dauerte 125 Minuten. 
+Operative Details: Hydrophiler Spitzenführungsdraht, Harnleiterzugangshülle, Karl Storz flexibler Ureterorenoskop. 
+Laser-Einstellungen: 1,0\u20131,2 Joule bei 8-12 Hz, 4200 und 4066 Impulse für die linke und rechte Seite, jeweils.
+
+**Bewertung**
+A: Primärdiagnose - bilaterale Nephrolithiasis mit signifikanter Steinlast, chirurgisch behandelt mit FURS und Laser-Lithotripsie. 
+Risiken: Mehrere Begleiterkrankungen und CKD Stadium 4 - sorgfältige postoperative Überwachung erforderlich.
+
+**Plan**
+P: Regelmäßige Nachsorge zur Überwachung der Wirksamkeit der Steinentfernung und zur Behandlung möglicher Komplikationen. 
+Anweisungen: Melden Sie sofort neue Symptome oder Beschwerden. 
+Bildgebung: Weitere bildgebende Untersuchungen können erforderlich sein, um postoperative Ergebnisse zu bewerten und eine vollständige Steinentfernung zu gewährleisten. 
+Versorger: Weiterhin Behandlung seiner chronischen Erkrankungen mit Stella Richter und relevanten Spezialisten.
+
+Von: Stella Richter, Martin Group
+"
+

@@ -1,0 +1,16 @@
+T1	PATIENT 111 125	Yannick Martin
+T2	PATIENT 324 338	Yannick Martin
+T3	PATIENT 559 573	Yannick Martin
+T4	PATIENT 625 639	Yannick Martin
+T5	DOCTOR 723 737	Katherine Wong
+T6	PATIENT 902 916	Yannick Martin
+T7	PATIENT 1095 1109	Yannick Martin
+T8	PATIENT 1335 1349	Yannick Martin
+T9	PATIENT 1685 1699	Yannick Martin
+T10	HOSPITAL 1809 1843	Université de Giessen en Allemagne
+T11	PATIENT 1845 1859	Yannick Martin
+T12	DOCTOR 1915 1929	Katherine Wong
+T13	PATIENT 2294 2308	Yannick Martin
+T14	DOCTOR 2582 2596	Katherine Wong
+T15	PATIENT 2656 2670	Yannick Martin
+T16	PATIENT 2884 2898	Yannick Martin

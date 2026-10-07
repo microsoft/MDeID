@@ -1,0 +1,45 @@
+"Nurse Narrative Note for Casey Taylor
+
+S: Our patient, diagnosed with B-ALL in 6.17, presented with a high WBC count (>100 x 10^9/L) and a normal karyotype. After achieving a second complete remission, the patient underwent a haplo-HSCT from their Aunt, followed by complications including hemorrhagic cystitis and stage 1 gastrointestinal acute GVHD, which resolved with methylprednisolone treatment. The patient experienced a third bone marrow relapse with rapid progression of disease marked by increasing marrow blasts, despite salvage chemotherapy (MOEP regimen) and subsequent treatments including haplo-CAR-T 19 cell protocol.
+
+O: Initial diagnosis showed WBC >100 x 10^9/L. Post-haplo-HSCT complications included hemorrhagic cystitis and acute GVHD, treated with methylprednisolone. Disease relapse was noted with 6.4% marrow blasts, increasing to 56.5% and then 65.4% despite chemotherapy. Recent treatments reduced marrow blasts to 12.7% before haplo-CAR-T 19 cell infusion, which achieved MRD-negative complete remission and full donor chimerism.
+
+A: Primary diagnosis is B-ALL with a history of multiple relapses and complications post-haplo-HSCT. The patient has undergone extensive treatment including chemotherapy, steroid therapy, and innovative CAR-T cell therapy, which has currently resulted in MRD-negative complete remission.
+
+P: Continue close monitoring of the patient's condition with regular follow-up appointments to assess the durability of the remission and manage any emerging complications. Maintain open communication with the patient to promptly address new symptoms or concerns. Encourage adherence to scheduled appointments and treatment plans to support sustained health and remission.
+
+Patient's Contact Information:
+- Phone: 001-669-314-0848x14352
+- Email: aim@red-cross.org
+- Address: Casey Taylor, 61 Mazic, Hillculture 26 3409, Australia
+
+Patient's Identifiers:
+- Medical Record Number: lf-564793h
+- Account Number: Ffx wjBgUY
+- Device Identifier: Bb 589413v
+- Username: SVqhTfXu
+- Social Security Number: 065-964-061
+- License Identifier: WYh-70BaMx
+- Biometric Identifier: UECKi kbUR
+- IP Address: 126.125.231.148
+- Personal Identifier: Ffx wjBgUY
+- Vehicle Identifier: 2S247
+
+Other Relevant Information:
+- Age: 7
+- City: Pantophile
+- Country: United States
+- State: 875
+- Street: 374 Dougherty Prairie Apt. 550
+- Zip Code: 3409
+- Fax: 001-226-305-0290x66702
+- Hospital: Emperor Constantine V
+- Organization: Evans-Howell
+- Health Plan: Y9A4L6IVI
+- Doctor: Martha Jimenez
+- URL: higgins.biz
+
+Please note that the patient's full name is masked as Casey Taylor for privacy reasons. 
+
+Nurse Martha Jimenez"
+

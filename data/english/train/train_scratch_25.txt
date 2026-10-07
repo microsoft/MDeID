@@ -1,0 +1,58 @@
+"**Scratch Notes**
+
+-------------------------------------------------
+| Vashem Holocaust Memorial                                 |
+-------------------------------------------------
+| Patient Code: Aidan Kitchener                     |
+| Med Record: 0801-471Ge                 |
+| Doc: Jennifer Chapman                               |
+| Health Plan: xqig                   |
+| Contact: 2703190492                            |
+| Email: nin@yandex.com                              |
+-------------------------------------------------
+
+**Complaints**
+- Neck Pain
+- Balance issues
+
+**Observation**
+BP: 120/80
+HR: 86 BPM
+
+**Impressions**
+- Cervical Spondylosis 
+
+-------------------------------------------------
+| **Additional Info**                         |
+-------------------------------------------------
+| DOB: 12 month old                                  |
+| Address: Aidan Kitchener, 181 Deviable, Juniors 100 4632, Australia                          |
+| Personal ID: 468-DQRCle                        |
+| SSN: 870-275-262                       |
+| Device: XC-TuwCSxs                            |
+| BioID: 123-28404Q                              |
+| IP: 129.160.0.10                             |
+| License: 77446-OZsw                          |
+| Username: vCIHK4Ec                        |
+| Vehicle: 13-S684                          |
+| Org: Weber-Brown                         |
+| Profession: Trading standards officer                    |
+| Location-Other: stadium            |
+| URL: smith-cooper.escobar.info                                  |
+| Fax: (488)692-4399x22021                                  |
+-------------------------------------------------
+
+**Assessment**
+- Experiencing neck pain and balance issues, suspect cervical spondylosis. Pain managed with medication and physiotherapy suggested. Follow-up needed.
+
+**Plan**
+- Neck MRI
+- Physical therapy
+- Regular monitoring of vitals
+
+-----------------------------------------------------------------------------
+Note: Emphasize on patient's comfort and proper explanation of the disease. Inform the patient about the importance of physiotherapy. Follow up with Jennifer Chapman.
+-----------------------------------------------------------------------------
+
+_Note created by vCIHK4Ec in Vashem Holocaust Memorial._"
+

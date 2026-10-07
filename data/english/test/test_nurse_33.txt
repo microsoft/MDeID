@@ -1,0 +1,37 @@
+"Nurse Narrative Note
+
+Subjective: Cooper Lavoie reveals a history of chronic back pain, partially managed with medication, and worsening dyspnea leading to an increased need for oxygen supplementation. The patient's medical background includes morbid obesity, obstructive sleep apnea, acute lymphocytic leukemia with bone marrow transplant, and graft-versus-host disease, resulting in severe restrictive lung disease.
+
+Objective: Cooper Lavoie's vital signs were not provided. EKG results indicated new-onset atrial bigeminy, which later resolved. A CT-angiogram showed partial anomalous pulmonary venous connection (PAPVC) involving the pulmonary vein in the left upper lobe and lingula. The patient's echocardiogram displayed mildly dilated right ventricle, mild tricuspid valve regurgitation, and normal left ventricular function. Pulmonary function tests showed total lung capacity at 42%, FEV1 at 39%, FVC at 37%, and DLCO at 41% of predicted values. Right and left heart catheterization showed pulmonary hypertension with elevated pressures and a pulmonary to systemic flow ratio (Qp/Qs) of 1.22:1.
+
+Assessment: The main diagnosis is partial anomalous pulmonary venous connection (PAPVC) with secondary complications of pulmonary hypertension and chronic respiratory failure due to severe restrictive lung disease. Initial differential diagnosis included pulmonary embolism, which was ruled out by CT-angiogram.
+
+Plan: Continue oxygen supplementation and medication for chronic back pain management. Cooper Lavoie needs close monitoring of respiratory and cardiac status, with follow-up appointments to discuss further treatment options. Education for the patient on symptom monitoring and recognizing when to seek immediate medical help is crucial. Referral to a pulmonologist and a cardiologist for specialized care and management of PAPVC and pulmonary hypertension is recommended.
+
+[HEADER]
+Patient ID: nt-ODqbXPy
+Date of Visit: Dec 9, 1999
+Nurse Name: Anna Bish
+Hospital: Bethlehem Steel
+Address: Cooper Lavoie, 162 Effuso, Castellano, Unadulterously 1425, New Zealand
+Contact Information: Phone - 001-528-597-5812x8264, Email - ha@un.org
+[FOOTER]
+Patient's IP Address: 84.43.114.88
+Device ID: 35 53IzqcV
+Username: perLav
+Social Security Number: 672 813 563
+License Number: 5182 GyNsT
+Biometric ID: zJ-0111JgS
+Vehicle Details: SYP B98
+Patient's Account Number: TCsZz-KRUb
+Patient's Organization: Brooks Inc
+Health Plan Details: efeZTnOu72s
+Profession: Systems analyst
+City: Unadulterously
+Country: United States
+State: 75
+Street: 303 Wilkinson Divide Suite 413
+Zip Code: 1425
+URL: reeves.davis.bailey.com
+Fax: 599-635-4880"
+

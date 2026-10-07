@@ -1,0 +1,49 @@
+"**Nursing Scratch Notes** - Unique ID: pL KfecICn
+***Patient Concerns*** 
+Breathing Issues - Severity noted, Additional details captured in patient's record no. 34-58GTdQW
+
+***Vital Signs*** 
+BP: 120/80 mmHg
+Heart Rate: 75 bpm
+Respiration: 21 bpm 
+Temperature: 37.2 C 
+Oxygen Saturation: 92% 
+
+***Observations*** 
+Visible Troubles - Breathing, Asthmatic Symptoms - Noted
+Referring to Dr. Joshua Walker for further examination. 
+
+--- 
+**Emergency Contact Info** 
+Name: Benjamin Robinson 
+Contact No: 883.839.0234 
+Email Id: lkersh@msf.org 
+Address: Benjamin Robinson, 200 Volumetrical, Depreciatively 7 1245, Australia
+
+**Device Info**
+Device Name: Asthma Inhaler, 
+Device No: 873529 pDz
+
+**Billing Info**
+Account No: pL KfecICn
+Health Plan: axFWZfA
+---
+**Other Info** 
+Patient's Profession: Contracting civil engineer
+Age: 42
+Consultation Date: 2021
+Location of Consultation: gym
+Hospital Name: Amberley Queensland
+Patient's Social Security No: 851-624-051
+
+***Plan***
+Increase frequency of inhaler usage. 
+Monitor breathing pattern. Refer to pulmonologist Dr.Joshua Walker.
+Patient's BioID: 29 SXolZYY
+---
+**Comments**
+Patient's IP Address: 56.170.43.61
+Patient's License Info: 2553-0223U
+
+This is a synthetic document."
+

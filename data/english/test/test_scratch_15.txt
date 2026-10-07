@@ -1,0 +1,84 @@
+"**NURSE SCRATCH NOTE**
+
+---
+
+**Patient Condition**
+* Max Smith manifesting symptoms - lethargic state;
+
+**Observations**
+* Blisters: Presence detected, consistent with viral skin rashes; 
+
+**Vitals**
+* Temp: 101.5\u00b0F
+* BP: 110/70 mmHg
+* Respiration: 16 breaths/min
+* Pulse: 95 bpm
+
+**Potential Diagnosis**
+* Chicken Pox suspicion;
+
+**Treatment**
+* Begin: Antiviral medication;
+* Hydration: Monitor Max Smith fluid intake;
+
+**Medical References**
+* Record: 1946-3877S
+* Account: 38610 1176
+* Device: UTpp MAcTh
+
+---
+
+**ADDITIONAL INFO**
+
+**Emergency contact**
+* Phone: (597)411-2524x909
+* Email: clle@microsoft.org
+
+**Location details**
+* Address: Max Smith, 33 Faverel, Enterotoxemia, 16 0393, United States
+* Hospital: Alumbagh
+
+**Other**
+* IP Address: 190.85.206.34
+* BioID: FripGX 528
+* Vehicle: OE-9382
+
+**Care Providers**
+* Attending Doctor: Danielle Beck
+* Physiotherapist: Danielle Beck
+
+---
+
+**Identification**
+* Social Security: 042-172-018
+* License: 03 278hsnm
+* General identification: 38610 1176
+
+**Age**
+* Patient Age: 8-month-old
+
+**7oYMI9 Insurance**
+* Healthplan: 7oYMI9
+
+**Employment Info**
+* Profession: Therapeutic radiographer
+* Organization: Petersen-Jimenez
+
+**Dates**
+* Last Visit: Sat-3
+* Next Scheduled Visit: Sat-3
+
+**Communication**
+* Username: 4q0kqkZs
+* Fax: 2463776500
+
+---
+
+**Note**: As this a scratch note, it should not be considered as a complete patient record. For a complete record, please refer to patient's medical record number 1946-3877S. 
+
+**URL for more info**:  beck-estrada.com/blog/wp-contentfaq.asp 
+
+---
+
+**End of Note**"
+

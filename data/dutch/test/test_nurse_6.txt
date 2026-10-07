@@ -1,0 +1,60 @@
+"Verpleegkundige Narratieve Notitie
+
+Subjectief: Roos de Graaf onthult een geschiedenis van chronische rugpijn, gedeeltelijk beheerd met medicatie, en verergerende dyspneu leidend tot een verhoogde behoefte aan zuurstofsupplementatie. De medische achtergrond van de patiënt omvat morbide obesitas, obstructieve slaapapneu, acute lymfocytische leukemie met beenmergtransplantatie en graft-versus-host-ziekte, resulterend in ernstige restrictieve longziekte.
+
+Objectief: De vitale functies van Roos de Graaf werden niet verstrekt. EKG-resultaten toonden nieuw beginnende atriale bigeminie aan, die later oploste. Een CT-angiogram toonde een gedeeltelijke afwijkende pulmonale veneuze verbinding (PAPVC) aan, waarbij de pulmonale ader in de linker bovenkwab en lingula betrokken was. Het echocardiogram van de patiënt toonde een licht verwijde rechterventrikel, lichte tricuspidalisklep regurgitatie en normale linkerventrikelfunctie. Pulmonale functietests toonden een totale longcapaciteit van 42%, FEV1 op 39%, FVC op 37% en DLCO op 41% van de voorspelde waarden. Rechter- en linkerhartkatheterisatie toonden pulmonale hypertensie aan met verhoogde drukken en een pulmonale tot systemische flowratio (Qp/Qs) van 1,22:1.
+
+Beoordeling: De hoofddiagnose is gedeeltelijke afwijkende pulmonale veneuze verbinding (PAPVC) met secundaire complicaties van pulmonale hypertensie en chronisch ademhalingsfalen door ernstige restrictieve longziekte. De initiële differentiële diagnose omvatte longembolie, die werd uitgesloten door CT-angiogram.
+
+Plan: Doorgaan met zuurstofsupplementatie en medicatie voor het beheer van chronische rugpijn. Roos de Graaf heeft nauwgezette monitoring van de ademhalings- en hartstatus nodig, met vervolgafspraken om verdere behandelopties te bespreken. Educatie voor de patiënt over symptoommonitoring en herkenning van wanneer onmiddellijke medische hulp nodig is, is cruciaal. Verwijzing naar een longarts en een cardioloog voor gespecialiseerde zorg en beheer van PAPVC en pulmonale hypertensie wordt aanbevolen.
+
+[HEADER]
+
+Patiënt ID: IEje psOsq
+
+Datum van bezoek: 14 juli 2017
+
+Naam verpleegkundige: Kees de Jong
+
+Ziekenhuis: Universiteit van Kopenhagen Denemarken
+
+Adres: Roos de Graaf, Spongioplasm 146, 3729 Duets, België
+
+Contactinformatie: Telefoon - 826.953.6176x86662, Email - eeesJon@microsoft.org
+
+[FOOTER]
+
+IP-adres van de patiënt: 83.33.46.109
+
+Apparaat ID: 803 89rwgG
+
+Gebruikersnaam: foosde
+
+Socialezekerheidsnummer: 184618052
+
+Licentienummer: ZPtmu-6313
+
+Biometrische ID: ogNUN ourI
+
+Voertuigdetails: OIA-6274
+
+Rekeningnummer van de patiënt: sTjxe 2869
+
+Organisatie van de patiënt: Cruz-Anderson
+
+Gezondheidsplan Details: TzYyRCI8
+
+Beroep: Therapeut, drama
+
+Stad: Multiexhaust
+
+Land: België
+
+Straat: 890 Heather Pines
+
+Postcode: 3729
+
+URL: http://www.taylor.biz/explore/wp-content/categorymain.htm
+
+Fax: 278-630-5505"
+

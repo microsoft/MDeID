@@ -1,0 +1,46 @@
+"Verpleegkundige Narratieve Notitie voor een Pediatrische Patiënt met een Bochdalek Hernia
+
+Subjectief:
+
+De patiënt, een 35 presenteerde zich met een geschiedenis van ademnood en kokhalzen die al een onbekend aantal dagen aanhield. De primaire verzorger, Robin Wuyts, meldde dat het kind moeite had met ademen en zichtbaar in nood was. 
+
+Objectief: 
+
+Initiële beeldvorming met een 209109 620, onthulde een linkszijdige spanningspneumothorax met mediastinale verschuiving. Er ontstond een vermoeden van darmlussen in de linker onderste hemithorax. Bij opname vertoonde de patiënt ernstige dyspneu, verhoogde temperatuur en tachycardie. Onmiddellijke endotracheale intubatie werd uitgevoerd. Verdere beeldvorming met een thoracale CT-scan bevestigde linkszijdige enterothorax met mediastinale verschuiving. Er werd een linkszijdige borstbuis ingebracht, die aanvankelijk als oud bloed beschouwd vocht afvoerde. Diagnostische laparoscopie identificeerde een linkszijdige Bochdalek hernia met herniatie van de dunne darm, milt en maag in de borst en gal gekleurd vocht in de thorax en buik. Een maagperforatie aan de kleine kromming werd ontdekt en aangepakt via conversie naar laparotomie, waar de perforatie werd gesloten en de diafragmatische hernia gerepareerd. Postoperatief werd een retrovesicale abces gedraineerd 30 dagen na de operatie.
+
+Beoordeling: 
+
+Primaire diagnose is een linkszijdige Bochdalek hernia met complicaties waaronder maagperforatie en daaropvolgend retrovesicaal abces. Differentiële diagnose omvatte aanvankelijk diafragmatische ruptuur. De prognose is gunstig met de patiënt momenteel asymptomatisch na een 20 sep. 1972 follow-up.
+
+Plan: 
+
+De patiënt onderging chirurgische reparatie van de maagperforatie en diafragmatische hernia, gevolgd door postoperatieve monitoring en behandeling van een retrovesicaal abces. Herstel omvatte het beheer van gastroparese en een verlengd ziekenhuisverblijf van 4 tot 5 weken. De patiënt zal regelmatig blijven worden gecontroleerd om eventuele langetermijncomplicaties of recidieven te beoordelen. Er werd voorlichting gegeven aan de ouders over tekenen van mogelijke complicaties en het belang van regelmatige vervolgbezoeken.
+
+Patiëntinformatie:
+- Naam: Robin Wuyts
+- Leeftijd: 35
+- Medisch Dossier Nummer: EfvFn-9105
+- ID Nummer: 31544-RWUh
+- Adres: Robin Wuyts, Preser 5, 6808 Tetrodont, België
+- Contact Nummer: 288-673-8372
+- Email: oganven@outlook.com
+- Zorgplan: vnSHIxK
+
+Verpleegkundige Contactinformatie:
+- Naam: Logan Stevens
+- Licentienummer: gp wCmAKSq
+- Organisatie: Weaver-Andrews
+- Contact Nummer: 288-673-8372
+- Email: oganven@outlook.com
+
+Noodcontact:
+- Naam: Robin Wuyts
+- Relatie: Robin Wuyts
+- Contact Nummer: 288-673-8372
+- Email: oganven@outlook.com
+
+Voettekst: 
+- Document ID: 31544-RWUh
+- Datum: 20 sep. 1972
+- IP Adres: 91.14.192.44"
+

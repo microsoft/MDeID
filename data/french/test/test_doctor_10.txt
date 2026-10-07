@@ -1,0 +1,48 @@
+"Note de grattage du docteur
+
+Patient : Charlie Cote
+ID : 01 yPvIJRB
+Âge : 94
+
+Symptômes présentés :
+- Fatigue (1 sem)
+- Arthralgies (1 sem)
+- Myalgies (1 sem)
+
+Aucun rapport :
+- Perte de poids
+- Fièvre
+- Saignement
+- Ecchymoses
+- Dyspnée
+- Symptômes urinaires
+
+Tabagisme, consommation de drogues, antécédents de voyage, facteurs de risque du VIH : Nég
+Antécédents familiaux : Non contributifs au-delà du trait drépanocytaire
+Antécédents médicaux : Porteur du trait drépanocytaire
+
+Évaluation initiale à Department Canada :
+- Anémie (Hgb : 11 g/dL)
+- Thrombopénie (Plt : 46 000/uL)
+- Insuffisance rénale aiguë (Cr : 1,33 mg/dL)
+- LDH élevée (968 IU/L)
+- Haptoglobine diminuée (15 mg/dL)
+- Schistocytes sur frottis sanguin périphérique
+- GB : 4,1/uL
+- K : 4,1 mmol/L
+- P : 6,6 mg/dL
+- Ca : 9,8 mg/dL
+- Bilirubine élevée (2 mg/dL)
+
+Traitement : Commencé sur Prednisone (1 mg/kg) et échange plasmatique quotidien à Department Canada
+Résultat : Aucune amélioration observée
+
+Diagnostic présumé : Purpura thrombotique thrombocytopénique (TTP)
+Diagnostic différentiel : Anémie hémolytique microangiopathique, complications liées au trait drépanocytaire
+
+Plan : 
+Continuer le traitement actuel à Department Canada, surveiller la réponse au traitement et ajuster si nécessaire en fonction des résultats de l'ADAMTS13 et de l'évolution clinique. Éduquer Charlie Cote et la famille de Charlie Cote sur le TTP, ses implications et l'importance de la conformité avec le régime de traitement. Planifier des rendez-vous de suivi réguliers et une surveillance en laboratoire pour évaluer l'efficacité du traitement et gérer toute complication émergente.
+
+Docteur : Élouan Francois
+Licence : Prb DrngIg"
+

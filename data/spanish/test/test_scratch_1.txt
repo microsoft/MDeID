@@ -1,0 +1,86 @@
+"**Nota de Rascunho: Actualización de la Condición del Paciente**
+
+---
+
+Paciente: Mariana de la Cruz
+
+Edad: 31
+
+---
+
+1. Queja: Dolor severo, región del estómago
+2. Observaciones: Sudoración, síntomas de fiebre 
+3. Signos vitales: Temp (F): 100.4, BP: 120/80, HR: 88, RR: 20
+4. Posible: Diagnóstico de tifoidea
+
+---
+
+Próximos Pasos:
+
+1. Análisis de sangre - para confirmar tifoidea
+2. Fluidos IV - rehidratación
+3. Medicación - antibióticos para tifoidea
+
+---
+
+Información del Paciente:
+
+- Historial Médico: wasIN-xxdV
+- Número de Cuenta: JSrDzk UWu
+- Número de ID: JSrDzk UWu
+
+---
+
+Información del Doctor:
+
+- Nombre del Doctor: Silvia Aguilar
+- Correo Electrónico: guilaa@zoho.com
+
+---
+
+Información del Hospital:
+
+- Nombre del Hospital: Abbey Art Centre
+- Ubicación: escuela
+
+---
+
+Contacto de Emergencia:
+
+- Nombre del Contacto: Mariana de la Cruz
+- Número de Teléfono: 987-563-4063
+
+---
+
+Información del Dispositivo:
+
+- ID del Dispositivo: hMbc 57rVX
+- Dirección IP: 60.85.54.246
+
+---
+
+Información del Seguro:
+
+- Plan de Salud: bTcR
+- Proveedor del Plan: Hoover PLC
+
+---
+
+Información de la Licencia:
+
+- Número de Licencia: Dbjl 99966
+
+---
+
+Otra Información:
+
+- Número de Seguridad Social: 062-59-5610
+- Placa del Vehículo: 636-GYG
+- Nombre de Usuario: ruzelr
+- ID Biométrica: 68417-hFRt
+- Fax: 001-589-835-1082x4759
+
+---
+
+Por favor, tenga en cuenta que estas son observaciones y acciones preliminares. El diagnóstico y tratamiento adicionales se determinarán después de los resultados de laboratorio."
+

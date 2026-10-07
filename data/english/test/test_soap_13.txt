@@ -1,0 +1,35 @@
+"S: Patient Jessica Martin, a liver transplant recipient from Nov-05 due to alcoholic cirrhosis and hepatocellular carcinoma, reports a history of diffuse large B-cell lymphoma treated with chemotherapy in Nov-05, psychiatric illness, and post-traumatic epilepsy. They deny symptoms of encephalopathy. They have experienced intermittent transaminase elevations since Nov-05, suspected to be related to alcohol use, and presented with ascites and graft dysfunction in Nov-05.
+
+O: Current medications include tacrolimus with levels adjusted to around wUZby 2998 and prednisone cLDz-3050A daily. Liver function tests revealed moderately elevated transaminases and some cholestasis. Serology was negative for hepatitis B, C, and cytomegalovirus but positive for Epstein-Barr virus within normal limits for the patient. Notably, anti-HEV IgM and IgG were positive, and PCR confirmed HEV RNA in plasma and a stored serum sample from Nov-05, indicating chronic hepatitis E infection. Since the introduction of ribavirin in Nov-05, liver function tests have improved.
+
+A: The primary diagnosis is decompensated graft cirrhosis secondary to chronic hepatitis E infection. The patient's history of alcohol use may contribute to liver dysfunction. Differential diagnoses previously considered and ruled out include reactivation of hepatitis B, C, and cytomegalovirus infections.
+
+P: Continue monitoring liver function tests and tacrolimus levels regularly. Maintain current dosages of tacrolimus and prednisone. Ribavirin therapy will be continued, with adjustments based on response and tolerance. The patient is advised to abstain from alcohol to prevent further liver damage. Regular follow-ups are necessary to monitor the progression of liver disease and adjust treatment as needed. The patient's next appointment is scheduled for Nov-05 at Chamberlain of.
+
+Additional information: 
+Patient's contact details: 8308713598, neLi@aol.com
+Hospital's contact details: 8308713598, 567.370.6745x571
+Patient's Address: Jessica Martin, 175 Sumos, Seemlily, 53 3487, Canada
+Patient's Medical Record Number: Rz 999hrcO
+Healthcare Provider: Martinez-Jacobs
+Patient's Health Plan: 7Ljl
+Patient's Age: 7
+Physician's Name: Lily Jones
+Patient's IP address: 128.223.24.188
+Patient's Social Security Number: 986-02-3241
+Patient's Account Number: cLDz-3050A
+Patient's Device Identifier: 923 64937S
+Patient's Username: nssica
+Patient's Vehicle Identifier: 9XY 219
+Patient's License Identifier: 3724 cOxtZ
+Patient's Other Personal Identifier: cLDz-3050A
+Patient's Professional Details: IT consultant
+Patient's Zip Code: 3487
+Hospital's Location: superstore
+Hospital's URL: http://cox.com/tagsprivacy.htm
+Physician's Email: neLi@aol.com
+Patient's City: Seemlily
+Patient's Country: United States
+Patient's State: 997
+Patient's Street: 7735 Andrea Flats Apt. 676"
+

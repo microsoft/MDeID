@@ -1,0 +1,48 @@
+"S: La patiente Alina Fischer s'est présentée avec une douleur thoracique datant d'un mois 12 juil. 2003. Aucune chirurgie ou traumatisme récent n'a été signalé. La patiente a connu des épisodes d'hypotension et un épisode grave de choc hémorragique et d'arrêt cardiaque en postopératoire.
+
+O: Un scanner thoracique wQaM 7285b a révélé une masse de tissu mou ovoïde dans l'angle costophrénique postérieur gauche, mesurant environ 4,3 cm x 2,6 cm x 5,8 cm. La masse a été réséquée par VATS et diagnostiquée comme un kyste bronchogénique en postopératoire à l'hôpital Marathon. Après l'opération, la patiente a connu une hypotension traitée par expansion de fluide et a ensuite développé un choc hémorragique dû à un trou de 3 mm dans le péricarde, entraînant un tamponnade cardiaque. Ceci a été géré par thoracotomie d'urgence et fermeture directe de l'artère marginale obtuse blessée avec du prolène 4-0.
+
+A: Le diagnostic principal était un kyste bronchogénique avec des complications incluant un choc hémorragique et un tamponnade cardiaque après la résection. Le diagnostic différentiel comprenait initialement une tumeur neurogène du médiastin.
+
+P: La patiente a subi une thoracotomie d'urgence réussie et une stabilisation. La récupération postopératoire comprenait le sevrage du ventilateur et la sortie avec des instructions pour des rendez-vous de suivi pour surveiller la récupération à domicile du patient Alina Fischer, 1 46253 rang Bernard Suite 144, 6816 Green Point, NSW, France. La gestion ultérieure se concentrera sur la surveillance de tout signe de récidive ou de complications de la chirurgie et sur le respect des rendez-vous de suivi.
+
+Informations supplémentaires :
+
+- Numéro de dossier médical du patient : VRpFv 045X
+
+- Numéro de compte du patient : Wru 747CJu
+
+- Nom d'utilisateur du patient : 4669yr3E
+
+- Numéro d'identification du véhicule du patient : 2V 4410G
+
+- Numéro de sécurité sociale du patient : 4 13 28 47 125 617
+
+- Numéro de licence professionnelle du patient : 0874-05HKk
+
+- Identifiant biométrique du patient : SGsuhY-718
+
+- Adresse IP du patient : 38.166.76.124
+
+- Identifiant personnel du patient : Wru 747CJu
+
+- Âge du patient : 92
+
+- Localisation du patient : pharmacie
+
+- Plan de santé du patient : SuEIfqSHq
+
+- Profession du patient : Hydrologiste
+
+- Organisation du patient : Lambert, Rich and Williams
+
+- Nom du médecin : Sophia Frei
+
+- Email du patient : Frep@yandex.com
+
+- Téléphone du patient : +1-458-751-8132x0406
+
+- URL du patient :  www.miranda-hess.com/listmain.jsp
+
+- Fax du patient : (782)887-4562x1645"
+

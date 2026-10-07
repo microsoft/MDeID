@@ -1,0 +1,41 @@
+"**Nota de Rascunho de Enfermagem**
+
+**ID do Paciente:** 313 700583
+
+**Observações para 2 de jan. de 1997:**
+
+1. Sinais vitais: PA: 110/70, FC: 65, FR: 16, Temp: 37.5C
+2. Sintomas: Vômito, dor de estômago
+3. Notou-se que a pele/olhos da Matilde Teixeira apresentam leve amarelamento - suspeita de icterícia
+4. Plano de monitorar os sinais vitais a cada 4 horas
+5. O estado de hidratação da Matilde Teixeira deve ser mantido com fluidos IV
+
+*Nota Informal*:
+Melissa Rocha deve ser informada. Matilde Teixeira parece cansada. Nível de dor elevado. Sinais vitais estáveis, sem aumento de temperatura. Sintomas semelhantes à icterícia precisam de atenção.
+
+**Informações Pessoais do Paciente:**
+- Endereço residencial: Matilde Teixeira, Alameda de Nascimento, 96 59, 0877 Marabá, Portugal
+- Número de contato: 445.980.0886
+- Contato de emergência: Matilde Teixeira
+- Plano de Saúde: GVM
+
+**Contatos Profissionais:**
+- Médico responsável: Melissa Rocha
+- Enfermeira de plantão: TeixeirMa
+
+**Outras Informações Essenciais:**
+- Admitida no Hospital Infantil Gratuito
+- Mencionou trabalhar na Harris and Sons
+- Último IP conhecido do LOG DE ACESSO: 24.167.94.173
+- ID do dispositivo do monitor: 87343 vpwd
+- Conta do Paciente: 25998-CfNb
+- Detalhes do SSN: 42612671-2
+- Número da Licença (se houver): 136-586GEd
+- ID Biométrico: GrT PpFQcH
+- Outros Identificadores: 25998-CfNb
+- Idade do Paciente: 54
+
+**Possível acompanhamento necessário no local:** parque
+
+*Fim da Nota de Rascunho*"
+

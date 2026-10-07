@@ -1,0 +1,63 @@
+"Nota de Enfermagem
+
+=======================
+|  Paciente: Inês Tavares  |
+|  Número de ID: Cju 5140Xw  |
+|  Prontuário Médico: ZGBFN 0664  |
+|  Idade: 64  |
+|  Admitido: sexta-feira, 9 de junho de 2006  |
+|  Médico Responsável: Joari Cavalcante  |
+|  Hospital: Sieff  |
+|  Endereço: Inês Tavares, Passarela Cardoso, 3 10, 3803 Conceição do Jacuípe, Portugal  |
+=======================
+
+- Sintomas:
+    - Fraqueza muscular: Relatado pelo paciente
+    - Rigidez cervical: Observado
+
+- Sinais Vitais:
+    - PA: 120/80 mmHG 
+    - FC: 80 bpm
+    - Temp: 98.6 F 
+    - FR: 18 respirações por min
+    - SpO2: 98% em ar ambiente
+
+- Observações Médicas: Sieff 
+    - Possível artrite: CRP, VHS elevados
+    - Raios-X solicitados: Pendente 
+
+=============================
+|  Contatos de Emergência  |                   
+|  Telefone: 465-700-6667x9458  |
+|  Email: nti@microsoft.org  |
+=============================
+
+- Progresso do Tratamento: 
+    - Gerenciamento da dor: AINEs administrados, retorno sexta-feira, 9 de junho de 2006
+    - Fisioterapia: Aconselhado, inicia sexta-feira, 9 de junho de 2006
+
+Informações Diversas:
+    - Número da Conta: Cju 5140Xw
+    - Organização: Bell, Schaefer and Fischer
+    - ID do Dispositivo: 7785 iEkaE
+    - Veículo do Paciente: 7SG P81
+    - Plano de Saúde: DDva7weE
+    - Localização (Outra): escola
+    - Profissão: Assistente de produção de televisão
+    - Segurança Social: 11289523-2
+    - Número da Licença: 8488-94iOn
+    - ID Biométrico: 03-18010Ho
+    - Endereço IP: 208.163.196.37
+    - URL para registros: stanley-merritt.grimes.info
+    - Nome de usuário: rarrFXeD
+    - Fax: 001-381-317-6943x9524
+
+NB: Contate a administração do hospital para mais informações sobre a conta do paciente, ID do dispositivo, ou veículo. 
+
+=======================
+Esta nota é confidencial e destinada apenas a profissionais de saúde. O acesso não autorizado é punível por lei. 
+
+Preparado por: Enfermeira rarrFXeD
+Data: sexta-feira, 9 de junho de 2006
+======================="
+

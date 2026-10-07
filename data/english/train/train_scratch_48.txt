@@ -1,0 +1,63 @@
+"Nursing Scratch Note
+
+--------------------------
+**Patient Profile** 
+--------------------------
+Patient: Justin Jones
+Address: Justin Jones, 17 Oilberry, Oversocialize, 51 9698, United States
+Age: 3 months old
+Medical Record Number: qBK uCvhbU
+Username: CmeMx1uk
+
+--------------------------
+**Medical Observations**
+--------------------------
+Complaints: Varicose veins
+Location: Legs
+Swelling: Yes
+Extent: Advanced
+Vital Stats: BP: 124/78, HR: 78 BPM, SPO2: 98%
+
+--------------------------
+**Treatment Details**
+--------------------------
+Administered: Compression Socks
+Device ID: vagQ-526sE
+
+--------------------------
+**Additional Information**
+--------------------------
+Heath Plan: QUg45Y24T vgTB
+Hospital: El Cabanyal
+Account: 775 6699qk
+Doctor: Kevin Pierce
+
+--------------------------
+**Emergency Contact**
+--------------------------
+Phone: 923.723.4971
+Backup Phone: 923.723.4971
+Email: ierKevin@unwomen.org
+Fax: 590-319-7684
+
+--------------------------
+**Technical Details**
+--------------------------
+IP Address: 206.187.3.85
+BIO ID: ZuewTq 630
+Societal Security: 594-20-6499
+
+--------------------------
+**Non-Medical Associations**
+--------------------------
+Connected Organization: Harrison-Navarro
+Profession: Exhibitions officer, museum/gallery
+Licence Details: yVtY-KVRwx
+Vehicle Details: 610-GBC
+Location-Other: school
+ID Number: 775 6699qk
+URL:  www.york-dunn.com/tags/posts/wp-contentmain.html
+Zip: 9698
+
+NOTE: Re-evaluation in Thu:2:29:24 required."
+

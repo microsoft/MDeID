@@ -1,0 +1,61 @@
+"NOTA DE ENFERMERÍA
+
+**_Encabezado_**
+
+Registro de Enfermería del Jubayer Mahmud
+Nombre del Hospital: Cathedral Church of Christ
+Registro Médico del Paciente: 6800-31365
+
+**_Información del Paciente_**
+
+Nombre: Xavier Marín
+Edad: 109
+Dirección de Casa: Xavier Marín, Boulevard República Dominicana 019 Edif. 228, Depto. 933 187, Glyphs, San Jose De Otamendi 95083, Peru
+Número de Contacto: (587)251-6988
+Seguro Médico: 4ZvK7t3g
+Contacto de Emergencia: Y4NwgAXu, (587)251-6988
+Doctor Asignado: Jubayer Mahmud
+
+**_Signos Vitales_**
+
+Temperatura: 101.2\u00b0F
+Frecuencia Cardíaca: 98 lpm
+Presión Arterial: 130/85 mmHg
+Frecuencia Respiratoria: 20 respiraciones/min
+Saturación de O2: 98%
+
+**_Observaciones Médicas_**
+
+El paciente está experimentando fiebre y debilidad general.
+Se observan llagas visibles en el restaurante. Posible Impétigo.
+La piel alrededor de las llagas parece hinchada y roja.
+El paciente informa picazón alrededor del área.
+
+**_Intervenciones Iniciadas_**
+
+- Iniciado baño de esponja fría para bajar la fiebre.
+- Administrado Acetaminofén 500mg para la fiebre y el malestar.
+- Limpiadas las llagas con una solución antiséptica suave.
+- Aplicado antibiótico tópico en el área afectada.
+- Instruido al paciente para continuar con la medicación prescrita y evitar rascarse.
+
+**_Acciones Futuras_**
+
+- Informar al Jubayer Mahmud sobre la condición del paciente.
+- Monitorear signos vitales cada 4 horas.
+- Reevaluar las llagas en 24 horas.
+- Informar al paciente sobre el cuidado del Impétigo en casa.
+- Planificar la próxima revisión el 12/10/05 con el Jubayer Mahmud.
+
+**_Pie de página_**
+
+Último acceso desde la dirección IP: 54.150.239.62
+ID del dispositivo utilizado para el registro: dvMDm-vGrT
+Organización: Arnold-Smith
+Correo electrónico para comunicaciones: dbaye@un.org
+URL para acceder al registro en línea del paciente: jordan.green.com
+Número de fax para el intercambio de documentos: +1-282-217-3458
+
+Fin de la Nota-------
+"
+

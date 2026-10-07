@@ -1,0 +1,45 @@
+# Resumo de Alta
+
+## Disposição do Paciente
+Casa
+
+## Seção de Alergias e Intolerâncias
+Gabrielle Ribeiro não tem alergias conhecidas.
+
+## Seção do Curso Hospitalar
+A Gabrielle Ribeiro foi admitida devido a sinais associados à cardiomiopatia. Os sintomas apresentados incluíam falta de ar, ortopneia, hipocinesia e dor nas articulações. A paciente foi monitorada e respondeu bem ao tratamento inicial.
+
+## Seção de Diagnóstico de Alta
+Diagnóstico primário: Cardiomiopatia
+
+## Seção de Plano de Tratamento
+A paciente é aconselhada a continuar com a medicação prescrita e deve fazer o acompanhamento com o Lucas Mello no departamento ambulatorial.
+
+## Seção de Consultas Hospitalares
+Várias consultas foram feitas com a equipe de cardiologia liderada pelo Lucas Mello.
+
+## Seção de Procedimentos
+Um ecocardiograma e um ECG foram realizados.
+
+## Seção de Resultados
+O ecocardiograma mostrou disfunção sistólica do ventrículo esquerdo. O EKG mostrou ritmo sinusal normal.
+
+## Seção de Medicamentos de Alta
+A Gabrielle Ribeiro deve continuar com beta-bloqueadores, inibidores da ECA e diuréticos conforme prescrito.
+
+## Seção de Status Funcional
+Gabrielle Ribeiro mostrou melhora no status funcional, com redução da falta de ar e melhora da mobilidade no final da internação.
+
+## Seção de Instruções de Alta Hospitalar
+Gabrielle Ribeiro deve continuar a tomar os medicamentos prescritos sem falhar, seguir uma dieta baixa em sódio e se envolver em atividades físicas leves.
+
+## Seção de Exame Físico de Alta Hospitalar
+No momento da alta, Gabrielle Ribeiro estava estável, sem falta de ar ou dor no peito.
+
+## Seção de Sinais Vitais
+Os sinais vitais na alta estavam estáveis: Pressão arterial: 120/80mmHg, Frequência cardíaca: 75 bpm, Frequência respiratória: 16 respirações por minuto, Temperatura: 37°C, Saturação de oxigênio: 98% em ar ambiente.
+
+## Seção de Diretrizes Antecipadas
+Diretrizes antecipadas discutidas.
+
+Lembre-se, a Gabrielle Ribeiro precisará continuar a monitorar os sintomas, tomar a medicação conforme prescrito e fazer o acompanhamento com o Lucas Mello após a alta. Qualquer piora dos sintomas deve ser imediatamente comunicada à equipe de saúde.

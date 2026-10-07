@@ -1,0 +1,37 @@
+"**Nursing Scratch Note**
+
+**Header:**
+
+ 
+ on duty 
+ of 
+ name: United States District
+
+**Body:**
+
+Vitals: Temp 98.6 F, BP 125/80, HR 75 bpm, RR 16/min
+ mentioned feeling very itchy, observed yellowish discoloration, probable jaundice.
+
+**Emergency Contact Information:**
+
+Contact Name: Patricia Ellis 
+Phone: 4635182116 
+Address: Patricia Ellis, 35 Lutarious, Anticommercialistic 99 2155, Australia
+Email: or@unwomen.org
+
+**Status:**
+
+General Condition: Uncomfortable due to intense itching.
+Physical: Icterus noticeable, no other signs as of now.
+Plan: Blood tests ordered, liver function to be checked.
+
+**Footer:**
+
+Device Identification: 157299 288
+Vehicle Details: BMN 216
+License Information: 088 5711Ui
+IP Address: 80.125.81.87
+BioID: 990 rQVfBS
+
+**End of Note**"
+

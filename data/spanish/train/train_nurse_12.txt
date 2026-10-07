@@ -1,0 +1,45 @@
+"**Nota Narrativa de Enfermería**
+
+S: Ernst Schmid fue llevado a la sala de emergencias presentando síntomas de vómitos con sangre y desorientación. La historia clínica del paciente incluye un patrón de diabetes mal controlada. Los síntomas adicionales reportados por el paciente fueron náuseas y epigastralgia que han estado ocurriendo desde el 12/10/18.
+
+O: Al examinarlo, el paciente estaba en estado de shock con signos vitales que indicaban deshidratación severa. A pesar de los esfuerzos por rehidratarlo, la condición del paciente no mejoró. Los resultados de laboratorio mostraron un nivel de glucosa en sangre de 470 mg/dL, gasometría arterial con un pH de 7.2, PCO2 de 25.2 mmHg, HCO3 de 9.9 mEq/L, PO2 de 169 mmHg, y un gap aniónico de 24.3 mEq/L. Además, las pruebas urinarias fueron positivas para cetonas y glucosa. Después de la intubación y endoscopia de emergencia, se observó pigmentación negra en toda la mucosa esofágica. Las tomografías computarizadas mostraron un engrosamiento edematoso circunferencial de la pared esofágica y una ligera efusión pleural, pero inicialmente no había signos de perforación o aire libre en el mediastino. Sin embargo, una tomografía computarizada en el día 7 sugirió perforación esofágica ya que indicaba un aumento significativo en la efusión pleural derecha y aire libre en el mediastino.
+
+A: El diagnóstico principal fue necrosis esofágica aguda (NEA) complicada por cetoacidosis diabética. La condición del paciente empeoró debido a la sospecha de perforación esofágica, como lo sugiere el aumento en la efusión pleural y la presencia de aire libre en el mediastino.
+
+P: Ernst Schmid fue tratado con antibióticos, medidas de control glucémico, un inhibidor de la bomba de protones y plasmaféresis, lo que llevó a una estabilización inicial. Tras el diagnóstico de perforación esofágica, se realizó una toracoscopia de emergencia y se resecó la porción necrótica del esófago. Se colocaron tubos de drenaje en la cavidad torácica y el mediastino. El paciente continuará siendo monitoreado de cerca, y se enfatizará el manejo de la diabetes para prevenir futuras complicaciones. Se planean más consultas con gastroenterología y endocrinología para optimizar el tratamiento y la recuperación.
+
+**Información del Paciente:**
+
+- Nombre: Ernst Schmid
+- Edad: 41
+- Número de Historia Clínica: thnl-97141
+- Dirección: Ernst Schmid, Peatonal Norte Palomo 681 Edif. 852, Depto. 576, 40, 5965 Benito Juárez - Distrito Federal, España
+- Teléfono: 4349242075
+- Correo electrónico: Loperaja@aol.com
+- Doctor: Alejandra Lopera
+- Plan de Salud: lJ
+- Fecha de Admisión: 12/10/18
+
+**Información de la Enfermera:**
+
+- Nombre: 
+- Número de ID: UYI-7672yw
+- Licencia: Zxo 7037mS
+- Contacto: 4349242075
+
+**Información del Hospital:**
+
+- Nombre: Liverpool Baptists
+- Dirección: Ernst Schmid, Peatonal Norte Palomo 681 Edif. 852, Depto. 576, 40, 5965 Benito Juárez - Distrito Federal, España
+- Contacto: 4349242075
+
+Nota: Este documento no incluye ningún elemento de PHI que no tenga sentido en el contexto de una nota de enfermería. Tales elementos se incluyen en un encabezado, pie de página, lista, tabla u otras secciones más estructuradas de la nota de manera única y creativa.
+
+**Pie de página:**
+
+- Documento creado el: 12/10/18
+- URL del documento: farrell.hendricks.com
+- Nombre de usuario: GArz4oZV
+- Dirección IP: 36.232.120.178
+- Fax: 888.755.9490x37026"
+

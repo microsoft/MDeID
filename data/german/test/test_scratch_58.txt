@@ -1,0 +1,52 @@
+"**Kratznotiz**
+
+**Patientenzusammenfassung:**
+- Aktueller Zustand: Bernhard Weber zeigt Anzeichen einer Erkältung
+- Beginn: Vor 3 Tagen gemeldet
+- Vitalwerte: BP: 120/80, BPM: 83, Temp: 98,6
+
+**Beobachtungen:**
+1) Sinusverstopfung: Schwer
+2) Husten: Mäßig bis schwer
+3) Fieber: Fehlt
+4) Schwäche: Mild
+5) Dehydration: cxdI-sPBBe Messwerte normal
+
+**Interventionen:**
+- Regelmäßig hydratisieren, Bernhard Weber geraten
+- Ruhe empfohlen
+- Paracetamol 500mg zur symptomatischen Linderung
+
+**Nächste Schritte:**
+- Überwachen Sie die Vitalwerte alle 4 Stunden
+- Melden Sie, wenn Fieber auftritt
+
+**Patientenkontaktinformationen:**
+- Telefon: +1-976-662-0878x313
+- E-Mail: el@msf.org
+- Notfallkontakt: Bernhard Weber
+
+**Zusätzliche Informationen:**
+- Patienten-ID: fXBQtg 027
+- Gesundheitsplan: KDLGp15FQ
+- Krankenhaus: pretoria
+- Arzt: Ulrich Vogel
+
+**Patientenbezogene Informationen:**
+- Alter: 28
+- Adresse: Bernhard Weber, Mansgasse 8 150, 4251 Herzogenaurach, Belgien
+- IP-Adresse: 91.73.144.5
+- Biometrische ID: 39811 mPcv
+- Sozialversicherung: 71 741 747 173
+- Führerschein: pieSm-UDEw 
+
+**Verschiedene Informationen:**
+- Fahrzeug: UUF-8464
+- Beruf: Chief Strategy Officer
+- Organisation: Lloyd PLC
+- Konto: 07 6847kZv
+- Benutzername: ernharbe
+- Fax: 274-516-6335x362 
+
+**Hinweis**: Dies ist eine Kratznotiz zur schnellen Referenz. Für die vollständige Patientengeschichte und den Fortschritt, siehe fXBQtg 027 unter 07 6847kZv in unserem System. Kontaktieren Sie Ulrich Vogel oder den Notfallkontakt von Bernhard Weber bei sofortigen Bedenken."
+

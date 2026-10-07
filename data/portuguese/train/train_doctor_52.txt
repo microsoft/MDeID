@@ -1,0 +1,46 @@
+"Nota de Rascunho do Doutor
+
+Paciente: Martim Cunha
+Idade: 109
+Doutor: Luís Cardoso
+Hospital: Pittodrie
+Cidade: Luís Correia
+Estado: 3
+Telefone: 623.622.4703
+Email: os@microsoft.org
+Prontuário Médico: JPEp-EItIE
+Conta: jlQDcJ-HlV
+Licença: DRo 95210W
+
+Sinais Vitais & Observações:
+- Retenção urinária, fraqueza bilateral dos membros inferiores, parestesia
+- Início: ~2 semanas atrás
+- Erupção de Zoster, parte inferior direita das costas, apareceu ~10 dias atrás
+- Neurológico: Fraqueza severa dos membros inferiores (grau MRC 0/5), reflexos abolidos (tornozelo, joelho), sinal de Babinski positivo (ambos os lados), diminuição da sensação de toque (nível T2)
+- Imagem: Ressonância magnética da coluna -> Lesão hiperintensa T2, T2-T11, realce por gadolínio em T7-T8
+- Laboratório: WBC elevado (14100, 72% PMN), IgG VZV positivo, IgM VZV negativo
+- CSF: Pleocitose linfocítica (94 células/uL), IgG VZV elevado (0.88), índice de IgG VZV alto (14)
+
+Avaliação:
+Diagnóstico primário suspeito: Mielite relacionada ao VZV (baseado em lesões espinhais, achados de CSF)
+Diagnósticos diferenciais: Outras mielites virais (descartadas - sorologias/culturas negativas)
+
+Plano:
+- Iniciar aciclovir IV
+- Monitorar eficácia/efeitos colaterais
+- Gerenciar dor, retenção urinária (medicamentos, cateterização se necessário)
+- Recomendar fisioterapia (prevenir atrofia, melhorar mobilidade)
+- Educar paciente (doença, aderência à medicação)
+- Agendar consultas de acompanhamento
+- Encaminhamento: Neurologista (gerenciamento contínuo), Urologista (sintomas urinários)
+
+Notas Adicionais:
+- O paciente foi informado sobre encaminhamentos para Pratt-Davidson
+- Sem alergias conhecidas
+- Sem cirurgias prévias
+- Sem 1aFQBX z6 cZYIupk1Xm1NG conhecido
+- Verifique  www.hampton.net/tagssearch.htm para mais informações
+- Profissão do paciente: Visitante de Saúde
+
+Luís Cardoso"
+

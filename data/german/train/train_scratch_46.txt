@@ -1,0 +1,103 @@
+"**KRANKENSCHWESTER-KRATZNOTIZ**
+
+---
+Patientenprofil:
+
+Patient: Simon De Cock
+
+Alter: 47
+
+Adresse: Simon De Cock, Heidrun-Zirme-Allee 205 134, 3586 Höhenkirchen, Österreich
+
+Email: MaximiHaas@yahoo.com
+
+Telefon: (480)861-4788x92487
+
+Beruf: Recyclingbeauftragter
+
+Gesundheitsplan: WBB
+
+---
+
+Patientenstatus:
+
+Vitalwerte: BP 120/80, HR 75, Temp 98.6F, RR 16, SpO2 98%
+
+Beschwerde: Chronische Müdigkeit, abnormaler Geschmackssinn...
+
+---
+
+Beobachtungen:
+
+- Simon De Cock zeigt Anzeichen von Müdigkeit. Erscheint nicht lebhaft, Energielevel unter Normal
+- Ständige Beschwerden über eigenartigen Geschmack im Mund
+- Keine sichtbaren Anzeichen von Verletzungen oder Not
+- Hautfarbe normal, keine Anzeichen von Gelbsucht oder Blässe
+
+---
+
+Plan:
+
+- Beratung Simon De Cock zur Durchführung vollständiger Labortests (Blut und Urin)
+- Konsultation mit Maximilian Haas für weitere Bewertung
+- Überwachung der Vitalwerte, alle 6 Stunden einchecken
+- Abhängig von den diagnostischen Ergebnissen, Überweisung an einen Spezialisten in Betracht ziehen
+
+---
+
+Zusätzliche Info:
+
+Medizinische Akte: Goku BvHnL
+
+Organisation: Turner, Gomez und Nelson
+
+Benutzername (Patientenportal): onocDe
+
+IP-Adresse (Patientenportal): 209.166.223.2
+
+Kontonummer: 66058 Ztpz
+
+---
+
+Notfallkontakt:
+
+Name: Simon De Cock
+
+Kontaktnummer: (480)861-4788x92487
+
+Email: MaximiHaas@yahoo.com
+
+Beziehung: Simon De Cock
+
+---
+
+Fußzeile:
+
+Dokument erstellt von: 
+
+Erzeugt an Standort: Bushaltestelle
+
+Lizenz-Nr: IxYo-sjHrk
+
+Fahrzeug: BUW 096
+
+SOZIALVERSICHERUNG: 114-3932793-91
+
+BIOID: 42669 167J
+
+Land: Schweiz
+
+Stadt: Gelsenkirchen
+
+Krankenhaus: Culpeper Regional
+
+Postleitzahl: 3586
+
+Fax: (389)329-5057x50824
+
+URL: reed.vasquez.com
+
+---
+
+*Diese Notiz wurde verfasst am Dienstag, 16. Mai 2017*"
+

@@ -1,0 +1,94 @@
+"Nota Narrativa dell'Infermiera:
+
+Soggettivo: 
+
+Il paziente Alessandro Amato riferisce episodi intermittenti di disturbi visivi all'occhio sinistro, descritti come offuscamento e una sensazione di movimento verticale. Questi episodi si verificano alcune volte al mese, ognuno della durata di circa 20-30 minuti. Accompagnano questi sintomi visivi forti mal di testa a sinistra e sensibilità alla luce, che compaiono quasi immediatamente dopo l'insorgenza dei disturbi visivi. Il paziente nota anche un simile offuscamento visivo quando è esposto alla luce del sole, che si risolve prontamente chiudendo gli occhi. L'anamnesi medica del paziente include ipertensione non trattata, fumo e significativo consumo di alcol. Inoltre, vi è una storia familiare di malattia di Parkinson, sospetto cancro orofaringeo e mutazione AGS associata a varie manifestazioni cardiovascolari e neurologiche.
+
+Oggettivo: 
+
+All'esame, il paziente è risultato avere pressione alta, con una lettura di 168/98 mmHg. Altri risultati includono una discromia cutanea a forma di rete (livedo reticularis), un mento leggermente appuntito, rigurgito aortico e dolore addominale diffuso. L'addome del paziente non mostrava segni di difesa, rigidità o soffi udibili. I precedenti sintomi di disorientamento, alterata consapevolezza e tremori erano collegati a crisi epilettiche focali con alterata consapevolezza.
+
+Valutazione: 
+
+La valutazione primaria indica che gli attacchi ischemici transitori monoculari sinistri (TIA) del paziente potrebbero essere correlati alla retinopatia a basso flusso, data la sintomatologia visiva e la rapida risoluzione alla chiusura dell'occhio. Le diagnosi differenziali includono crisi epilettiche focali con alterata consapevolezza e episodi simil-emigranosi senza caratteristiche tipiche dell'emigrana. La storia familiare del paziente e la sua anamnesi medica personale suggeriscono una predisposizione genetica a condizioni vascolari e neurologiche, potenzialmente legate alla mutazione AGS.
+
+Piano: 
+
+Il piano di gestione si concentrerà sul controllo dell'ipertensione attraverso adeguati aggiustamenti del farmaco e modifiche dello stile di vita, tra cui la cessazione del fumo e la riduzione del consumo di alcol. Si raccomandano consulenze con un neurologo per ulteriori valutazioni dell'attività epilettica e con un genetista per la valutazione delle implicazioni relative alla mutazione AGS. Saranno necessari controlli regolari per monitorare la pressione sanguigna del paziente e l'efficacia del piano di trattamento. Sarà fornita un'educazione al paziente riguardo i segni e i sintomi dei TIA e l'importanza dei cambiamenti nello stile di vita.
+
+[Intestazione]
+
+ID Paziente: 96194 5548
+
+Dottore: Sofia Gerber
+
+Infermiera: Amatolessandr
+
+Data: lunedì 13 marzo 2017
+
+Posizione: palestra
+
+[Piede di pagina]
+
+Informazioni di Contatto:
+
+Numero di Telefono: 001-920-578-5867x42479
+
+Email: ro@protonmail.com
+
+Informazioni di Contatto di Emergenza:
+
+Nome: Alessandro Amato
+
+Relazione: Esperto di brevetti
+
+Numero di Telefono: 001-920-578-5867x42479
+
+Informazioni Account:
+
+Numero Account: IfG-830334
+
+Piano Sanitario: JXgKV4
+
+Informazioni Dispositivo del Paziente:
+
+ID Dispositivo: nALeQf aOr
+
+Informazioni di Rete:
+
+Indirizzo IP: 86.98.114.59
+
+Informazioni Veicolo:
+
+ID Veicolo: BFI 463
+
+Numero di Previdenza Sociale: CJZZPJ02M71M799W
+
+Numero di Licenza: jx-450RsEu
+
+Identificatore Biometrico: dcFYN Btxc
+
+Numero ID Personale: IfG-830334
+
+Numero di Fax: +1-586-210-3233x05354
+
+Indirizzo del Paziente:
+
+Indirizzo: Alessandro Amato, 258 Danielle Meadow Apt. 682, 178, 2549 Badesi Conjurison, Italia
+
+Città: Badesi
+
+Stato: Lazio
+
+Paese: Svizzera
+
+Codice Postale: 2549
+
+Informazioni Ospedale:
+
+Nome Ospedale: Corcoran
+
+Organizzazione: Norton and Sons
+
+URL: anderson.org"
+

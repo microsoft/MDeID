@@ -1,0 +1,88 @@
+"#Nota de Enfermería 
+
+--- Detalles del Paciente ---
+
+Nombre: Martín Moyano
+
+Edad: 68
+
+SSN: 376-56-8672
+
+Historial Médico: XeEUsY-413
+
+Número de Cuenta: vfXr 443AT
+
+Profesión: Banquero minorista
+
+Organización: West, Khan and Brewer
+
+Plan de Salud: perUWZu u3hyTr 5vj hzSB0Xc4
+
+--- Información de Contacto ---
+
+Dirección: Martín Moyano, Diagonal Menchaca 261 Interior 017 154, Obligately, TOLEDO 44513, Perú
+
+Teléfono: (437)392-3511
+
+Correo Electrónico: amd@zoho.com
+
+--- Dispositivos de Diagnóstico ---
+
+Número de Dispositivo: yH 46746Aa
+
+--- Información del Médico ---
+
+Médico Tratante: Eduardo Ramos
+
+Licencia: pklTY 1084
+
+--- Información de IP ---
+
+Dirección IP: 22.134.4.26
+
+--- Información de la Red ---
+
+Nombre de Usuario: XYME9q1j
+
+--- Información del Vehículo ---
+
+Placa#: 876 1CI
+
+--- ID Biométrica ---
+
+BioID: 326006 557
+
+--- Estado Actual ---
+
+Dificultad para tragar alimentos, acidez estomacal e indigestión periódicas, Potencial para la Enfermedad de Úlcera Péptica de TOLEDO-aguascalientes.
+
+--- Signos Vitales ---
+
+Presión Arterial: 120/80 mmHg 
+
+Pulso: 72 bpm 
+
+Temperatura Corporal: 98.7°F
+
+Tasa Respiratoria: 16 respiraciones por minuto
+
+--- Otra Información Relevante ---
+
+El paciente trabaja para West, Khan and Brewer, se necesitan investigar más factores relacionados con el estrés. Posible historial de tabaquismo y alcohol.
+
+--- Contacto de Emergencia ---
+
+Nombre: Martín Moyano 
+
+Relación: Miembro de la Familia
+
+Teléfono: (437)392-3511
+
+--- Seguimiento ---
+
+Próxima cita con el Dr. Eduardo Ramos el miércoles, 2 de abril de 2008 en Eagles F.C gimnasio
+
+--- Notas Adicionales ---
+
+XYME9q1j necesita monitorear los síntomas e informar cualquier cambio. Evitar alimentos picantes y difíciles de digerir, tomar medicación según lo prescrito por el Dr. Eduardo Ramos\n"
+

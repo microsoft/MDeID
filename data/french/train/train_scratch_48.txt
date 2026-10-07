@@ -1,0 +1,108 @@
+"Note d'Infirmière
+
+--------------------------
+
+**Profil du Patient** 
+
+--------------------------
+
+Patient : Daniel Steiner
+
+Adresse : Daniel Steiner, 124 65324 rang Lussier, 5403 Épinal, France
+
+Âge : 92
+
+Numéro de Dossier Médical : 3164 95xxE
+
+Nom d'utilisateur : 7wurSc54
+
+--------------------------
+
+**Observations Médicales**
+
+--------------------------
+
+Plaintes : Varices
+
+Localisation : Jambes
+
+Gonflement : Oui
+
+Étendue : Avancée
+
+Statistiques Vitales : TA : 124/78, FC : 78 BPM, SPO2 : 98%
+
+--------------------------
+
+**Détails du Traitement**
+
+--------------------------
+
+Administré : Chaussettes de compression
+
+ID de l'appareil : 80-470073b
+
+--------------------------
+
+**Informations Supplémentaires**
+
+--------------------------
+
+Plan de Santé : GX7LYqWOy ane ZPmejMWGKmhm
+
+Hôpital : Colchester Allpress
+
+Compte : 22-63051wT
+
+Docteur : Zacharis Barbier
+
+--------------------------
+
+**Contact d'Urgence**
+
+--------------------------
+
+Téléphone : 501.261.0322
+
+Téléphone de secours : 501.261.0322
+
+Email : achariser@gmail.com
+
+Fax : 516.685.3232
+
+--------------------------
+
+**Détails Techniques**
+
+--------------------------
+
+Adresse IP : 122.150.182.90
+
+ID BIO : YnB-wCJFfu
+
+Sécurité Sociale : 668258-1188
+
+--------------------------
+
+**Associations Non-Médicales**
+
+--------------------------
+
+Organisation Connectée : Burns, Fernandez and Nelson
+
+Profession : Psychothérapeute, enfant
+
+Détails de la Licence : whM-9717cg
+
+Détails du Véhicule : KMK 014
+
+Autre Localisation : pharmacie
+
+Numéro d'ID : 22-63051wT
+
+URL : https://noble.com/posts/tagcategory.htm
+
+Code Postal : 5403
+
+NOTE : Réévaluation nécessaire le 28/12/2019."
+

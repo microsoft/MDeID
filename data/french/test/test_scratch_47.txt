@@ -1,0 +1,70 @@
+"Note d'Infirmière:
+
+PATIENT: Noémie Rousseau
+-----
+Signes vitaux: 
+TA - 120/80 
+FC - 110 bpm 
+Temp - 38.1\u00b0C 
+
+Observations:
+- Respiration: Difficile 49 
+- Toux: Persistante 
+- Expectoration: Jaune
+- Radiographie thoracique: sjHr-11853
+
+Évaluation: 
+- État: Sous surveillance
+- Gravité de la maladie: Modérée 
+- Son respiratoire: Crépitant
+- Diagnostic: Pneumonie
+
+Plan: 
+- Antibiotiques: Initiés 
+- Oxygène: Administré 
+- Évaluation de suivi: 27 juillet 2021
+
+Coordonnées:
+- Téléphone: (679)957-2406x8061
+- Email: ih@outlook.com
+- Contact d'urgence: Noémie Rousseau
+
+Adresse: Noémie Rousseau, 9759 Lefèvre Place Suite 613 165, 6823 Coutures, Belgium
+Ville: Cernay 
+État: Belfort
+Code postal: 6823 
+Pays: Belgium
+
+Informations sur le fournisseur:
+- Docteur: Kingston Smith
+- Hôpital: Mt. Zion Memorial Fund
+
+Informations supplémentaires:
+- Numéro de compte: 916-DJXjZH 
+- Plan de santé: ipE7BmgfKWdsP
+- ID: 916-DJXjZH
+
+Informations sur l'appareil: 
+- ID de l'appareil: tmijql Vyy
+- Type d'appareil: Nébuliseur 
+
+Informations Internet:
+- Adresse IP: 218.210.107.228
+- Nom d'utilisateur: 0qGOdKYz
+
+Informations de vérification:
+- BioID: nEHiU JhrW
+- Licence: 95-buDwVaI
+- Sécurité sociale: 581-905-800
+
+Autres lieux: café
+Profession: Acheteur de détail
+Organisation: Yates PLC 
+
+URL:  www.welch.org/list/blogindex.htm 
+Véhicule: WMX-6605
+Fax: +1-889-424-8726
+
+----
+Note: Ceci est une note temporaire, en attente de l'évaluation médicale complète à être terminée."
+

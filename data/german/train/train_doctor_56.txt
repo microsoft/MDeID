@@ -1,0 +1,37 @@
+"Arzt Kratz Notiz:
+
+-----------------------------------
+Dr. Josef Wolf
+Harris-Carpenter
+
+Fritz Graf - qOnym-6127 - 9
+
+BEOBACHTUNGEN:
+Vitalzeichen:
+Temp: 36.5\u00b0C
+HR: 90 bpm
+RR: 22/min
+BP: 108/61 mm Hg
+O2 Sat: 100% auf 40% FiO2
+
+Symptome: AMS(1Woche), Fieber, Nackenschmerzen, Übelkeit, Erbrechen. Keine Bauchschmerzen, Kopfschmerzen, Sehstörungen, fokale Schwäche, Brustschmerzen, Atemnot. Kein Rauchen, Alkohol, illegale Drogen. Nächtliche Aktivitäten berichtet, intermittierende Schläfrigkeit. 
+
+Körperliche Untersuchung: Intubiert, Aufnahme in die Intensivstation. Positives Brudzinski-Zeichen, Nackensteifheit, Pupillen gleich und reagieren auf Licht, Reaktion auf schmerzhafte Reize. Lungen klar, Herz- und Bauchuntersuchungen unauffällig. 
+
+Lab-Ergebnisse: WBC 19.900/mm3 (81% Neutrophile), HGB 11.8 g/dL, Thrombozyten 170.000/\u00b5L, Kreatinin 0.5 mg/dL, Bilirubin 0.6 mg/dL, AST 49 IU/L, ALT 81 IU/L, Alkalische Phosphatase.
+
+BEURTEILUNG:
+1. Akute bakterielle Meningitis - Fieber, Nackensteifheit, AMS, unterstützende Laborbefunde einschließlich Leukozytose mit Neutrophilie.
+2. Differenzialdiagnosen - Virale Enzephalitis, andere ZNS-Infektionen.
+
+PLAN:
+1. Fortgesetzte Überwachung auf der Intensivstation, unterstützende Pflege.
+2. Einleitung einer empirischen Antibiotikatherapie - Ziel sind häufige Erreger, die Meningitis verursachen.
+3. Neurologischen Status und Vitalzeichen engmaschig überwachen.
+4. Aufklärung - Fritz Graf, Familie über Zustand, Behandlungsplan, erwartete Ergebnisse.
+5. Konsultationen - Neurologisch, bei Bedarf Infektionskrankheiten in Betracht ziehen.
+6. Nachsorge - Diskussion über Bedeutung, langfristiges Management.
+
+Josef Wolf
+-----------------------------------"
+

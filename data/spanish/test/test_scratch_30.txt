@@ -1,0 +1,104 @@
+"Nota de Enfermería
+
+=======================
+
+|  Paciente: Gloria Sandoval  |
+
+|  Número de ID: 68-YrEdKcK  |
+
+|  Historial Médico: 31-swOcKmL  |
+
+|  Edad: 54  |
+
+|  Admitido: martes, 25 de mayo de 1971  |
+
+|  Doctor Asignado: Eva María Nieto  |
+
+|  Hospital: Care Center of  |
+
+|  Dirección: Gloria Sandoval, Privada Norte Palomo 519 Edif. 637, Depto. 240, 39, 4291 Jiutepec, Spain  |
+
+=======================
+
+- Síntomas:
+
+    - Debilidad muscular: Reportado por el paciente
+
+    - Rigidez cervical: Observado
+
+- Signos Vitales:
+
+    - PA: 120/80 mmHG 
+
+    - FC: 80 lpm
+
+    - Temp: 98.6 F 
+
+    - FR: 18 respiraciones por minuto
+
+    - SpO2: 98% en aire ambiente
+
+- Observaciones Médicas: Care Center of 
+
+    - Posible artritis: CRP, ESR elevados
+
+    - Rayos X ordenados: Pendiente 
+
+=============================
+
+|  Contactos de Emergencia  |                   
+
+|  Teléfono: +1-887-210-2001x48886  |
+
+|  Correo electrónico: aríiE@msf.org  |
+
+=============================
+
+- Progreso del Tratamiento: 
+
+    - Manejo del dolor: zNqd4 administrados, seguimiento martes, 25 de mayo de 1971
+
+    - Fisioterapia: Aconsejado, comienza martes, 25 de mayo de 1971
+
+Información Miscelánea:
+
+    - Número de Cuenta: 68-YrEdKcK
+
+    - Organización: Mathis, Perry and Williams
+
+    - ID del Dispositivo: RV-86744Ru
+
+    - Vehículo del Paciente: IYO 045
+
+    - Plan de Salud: BAkKvXWY
+
+    - Ubicación (Otra): restaurante
+
+    - Profesión: Ingeniero, minería
+
+    - Seguridad Social: 10647167X
+
+    - Número de Licencia: BWVa-qQqKg
+
+    - ID Biométrico: BVWNJy-vix
+
+    - Dirección IP: 43.4.167.35
+
+    - URL para registros:  www.werner-richard.net/list/appterms.php
+
+    - Nombre de usuario: s1PYHlYl
+
+    - Fax: 9373048139
+
+NB: Contacte al administrador del hospital para obtener más información sobre la cuenta del paciente, la ID del dispositivo o el vehículo. 
+
+=======================
+
+Esta nota es confidencial y está destinada solo para profesionales de la salud. El acceso no autorizado es punible por ley. 
+
+Preparado por: Enfermera s1PYHlYl
+
+Fecha: martes, 25 de mayo de 1971
+
+======================="
+

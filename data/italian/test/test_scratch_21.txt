@@ -1,0 +1,62 @@
+"\ud83c\udfe5Nota di Osservazione Infermieristica \ud83c\udfe5
+
+----------------------------------
+**Contesto del Paziente**:
+Alessio Martino segnala difficoltà respiratorie, tosse continua. 
+
+**Possibile Diagnosi**: Asma Bronchiale
+----------------------------------
+
+**Segni Vitali & Osservazioni**
+
+BPM: 120
+Frequenza respiratoria: 22
+Temp: 98.6f
+BP: 130/80
+O2 Sat: 94%
+Sibili all'espirazione notati
+
+----------------------------------
+**Trattamenti Somministrati**:
+Fornito inalatore (81071 XpVS), 
+Nebulizzazione broncodilatatrice effettuata (67854 tmdL)
+
+----------------------------------
+**Prossimi Passaggi**:
+Somministrare corticosteroidi se necessario. 
+Monitorare attentamente i segni vitali. 
+Informare Caterina Lombardo della risposta del paziente al trattamento. 
+
+----------------------------------
+**Identificatori Importanti**
+Wqltgs9e
+Numero di Conto: LdOwxv-GeD
+Numero di Cartella Clinica: 67854 tmdL
+
+----------------------------------
+**Informazioni di Contatto d'Emergenza**
+Telefono: 8655803216
+Indirizzo: Alessio Martino, 79653 Marsh Groves Suite 910, 22, 1674 San Giorgio A Cremano Odium, Italia
+
+----------------------------------
+**Altre Info**
+Registrato da: aeroporto
+Ammesso a: Minnesotans
+Piano Sanitario: rvJOxg
+Organizzazione: Lopez-Williams
+Professione: Impiegato di avvocato
+Veicolo: 652 ZH1
+Licenza: 475-Olaoye
+Sicurezza Sociale: YGIWOC62G19V257P
+Bioid: HZt-IyIhAf
+Indirizzo IP: 133.179.129.81
+Numero ID: LdOwxv-GeD
+Ammesso da: Caterina Lombardo
+
+----------------------------------
+**Data della Nota**: 31 dic 1976
+**Nota Preparata Da**: Wqltgs9e
+----------------------------------
+
+*La nota sopra è destinata per un rapido riferimento e non costituisce una storia del paziente completa o un protocollo di trattamento. Si prega di fare riferimento alla cartella clinica elettronica dettagliata per informazioni complete.*"
+

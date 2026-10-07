@@ -1,0 +1,62 @@
+"Arztbericht
+-------------
+Verena Berger - 47 - weiblich
+
+Jüngste Vorgeschichte:
+- Intermittierendes Fieber, Schüttelfrost
+- Müdigkeit, Appetitverlust
+- Rücken- & Bauchschmerzen
+- Gewichtsverlust: 35 lbs (3 Monate)
+- Malariabehandlung: 6 Monate zuvor
+- Kürzliche Reise: Schweiz
+
+Vitalwerte:
+- Temp: 102.3 F
+- BP: 103-110/59-64 mmHg
+- HR: 92-113 bpm
+- O2 Sat: 99% (Raumluft)
+
+Labor:
+- Hb: 4.4
+- MCV: 87.5
+- Thrombozyten: 13
+- WBC: 6.4
+- INR: 1.73
+- Na: 132
+- Laktat: 4.6
+- ALP: 133
+- Tbili: 1.9
+- Dbili: 1.6
+- Albumin: 2.8
+
+Bildgebung:
+- CXR, CT: Bilaterale Infiltrate im unteren Lappen, fokale Infiltrate & Konsolidierungsbereiche (Benjamin Franklin Life Sciences)
+- Kleine rechte Skrotalhydrozele 
+
+Blutausstrich:
+- Wenige Monoblasten
+- Dysplastische Merkmale
+- Erythrozyten mit intrazellulären Einschlüssen
+
+Knochenmarkaspirat:
+- Hyperzelluläres Mark, Monoblasten
+- Erythroblasten, Reifungsdefekt
+- Wenige Megakaryozyten
+- Blätter von unreifen mononukleären Zellen, die diffus Markhöhlen besetzen
+
+Beurteilung:
+- Schwere Anämie
+- Thrombozytopenie
+- Gemeinschaftlich erworbene Lungenentzündung
+- Mögliche hämatologische Malignität (AML?)
+
+Plan:
+- Unterstützende Pflege (Blut-, Thrombozytentransfusionen)
+- IV Antibiotika (Ceftriaxon, Azithromycin)
+- Atovaquon zur Malariaprophylaxe
+- Hämatologische Bewertung (Beratung mit Mattis Möller)
+- Überwachung der Vitalwerte, Blutwerte, Organfunktionen
+- Patientenaufklärung bzgl. Diagnose, Behandlungsplan, mögliche Komplikationen
+
+Mattis Möller"
+

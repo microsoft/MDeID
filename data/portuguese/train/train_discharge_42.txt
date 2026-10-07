@@ -1,0 +1,36 @@
+# Resumo de Alta
+
+## Detalhes do Paciente
+Thaís Barboza com número de registro médico uVn-EiqJJX
+
+## Motivo da Admissão
+O paciente foi admitido devido a uma necessidade urgente de urinar e falta de ar. Esses sintomas sugeriram uma possível condição de edema pulmonar.
+
+## Procedimentos Realizados
+Após a admissão, o paciente foi imediatamente atendido pela equipe médica. A avaliação inicial envolveu um exame dos sinais vitais e um exame físico detalhado. Um ecocardiograma foi realizado para confirmar o diagnóstico.
+
+## Cuidados, Tratamento e Serviços Prestados
+Após a confirmação do edema pulmonar, Thaís Barboza recebeu terapia com oxigênio e medicamentos para auxiliar na remoção do excesso de líquido dos pulmões. Os medicamentos incluíam diuréticos e vasodilatadores. A resposta do paciente ao tratamento foi monitorada de perto durante toda a estadia no hospital.
+
+## Condição e Disposição na Alta
+Na alta, a respiração de Thaís Barboza havia melhorado significativamente e a necessidade de urinar não era mais urgente devido ao efeito dos medicamentos. O paciente demonstrou uma resposta positiva ao tratamento fornecido.
+
+## Informações Fornecidas ao Paciente e à Família
+O paciente e os membros da família foram informados sobre a natureza do edema pulmonar e como gerenciá-lo em casa. A importância do acompanhamento regular e da adesão à medicação foi enfatizada.
+
+## Provisões para Cuidados de Acompanhamento
+Uma consulta de acompanhamento foi agendada com o Dr. Eduardo Gonzáles em duas semanas no Ladywell para monitorar o progresso do paciente e ajustar os medicamentos, se necessário.
+
+### Alergias e Intolerâncias
+O paciente não relatou alergias ou intolerâncias conhecidas.
+
+### Medicamentos de Alta
+Continue com os medicamentos prescritos: Diuréticos e Vasodilatadores. Instruções detalhadas foram fornecidas sobre dosagem, horários e efeitos colaterais.
+
+### Instruções de Alta Hospitalar
+Thaís Barboza é aconselhada a descansar, evitar a ingestão excessiva de líquidos e monitorar o peso diariamente. Qualquer ganho de peso súbito ou falta de ar deve ser relatado ao médico imediatamente.
+
+### Resumo dos Estudos de Alta Hospitalar
+O ecocardiograma revelou excesso de líquido nos pulmões indicativo de edema pulmonar.
+
+Fim do documento.

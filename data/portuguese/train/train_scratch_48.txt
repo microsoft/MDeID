@@ -1,0 +1,108 @@
+"Nota de Enfermagem
+
+--------------------------
+
+**Perfil do Paciente**
+
+--------------------------
+
+Paciente: Sofia Neves
+
+Endereço: Sofia Neves, Viaduto Lorenzo Vieira, 65 75, Ozonate, MARTIM - 35, 45X7V83Y, Brasil
+
+Idade: 13
+
+Número do Prontuário Médico: 97 UXnWJmi
+
+Nome de usuário: evesSofia
+
+--------------------------
+
+**Observações Médicas**
+
+--------------------------
+
+Queixas: Varizes
+
+Localização: Pernas
+
+Inchaço: Sim
+
+Extensão: Avançado
+
+Estatísticas Vitais: PA: 124/78, FC: 78 BPM, SPO2: 98%
+
+--------------------------
+
+**Detalhes do Tratamento**
+
+--------------------------
+
+Administrado: Meias de Compressão
+
+ID do Dispositivo: 00220-MelD
+
+--------------------------
+
+**Informações Adicionais**
+
+--------------------------
+
+Plano de Saúde: 7oF7i4
+
+Hospital: Santa Anna
+
+Conta: PwJfx-3698
+
+Médico: Beatriz Gonçalves
+
+--------------------------
+
+**Contato de Emergência**
+
+--------------------------
+
+Telefone: +1-231-413-6668
+
+Telefone de Backup: +1-231-413-6668
+
+Email: atrilves@gmail.com
+
+Fax: 492-292-4112x0586
+
+--------------------------
+
+**Detalhes Técnicos**
+
+--------------------------
+
+Endereço IP: 133.252.8.80
+
+ID BIO: 00505-6879
+
+Segurança Social: 53144265-3
+
+--------------------------
+
+**Associações Não-Médicas**
+
+--------------------------
+
+Organização Conectada: Diaz Group
+
+Profissão: Geneticista/Botânico
+
+Detalhes da Licença: 8757 57Bow
+
+Detalhes do Veículo: 055 0772
+
+Localização-Outros: mercado
+
+Número de Identificação: PwJfx-3698
+
+URL: hull-glenn.coffey.com
+
+CEP: 45X7V83Y
+
+NOTA: Reavaliação necessária em quinta-feira, 30 de março de 1995."
+

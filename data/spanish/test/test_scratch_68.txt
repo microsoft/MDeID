@@ -1,0 +1,54 @@
+"**Nota de Enfermería**
+
+_Detalles del Paciente:_
+- **ID del Paciente**: Natalia Moya
+- **MRN**: cM-16KBalq
+- **Edad**: 13
+- **Admitido por**: Anton Skog
+
+_Información de Contacto:_
+- **Dirección de Casa**: Natalia Moya, Ronda de Melisa Mayoral 7 Puerta 3, 55, 6128 Miahuatlán de Porfirio Díaz, Spain
+- **Contacto Telefónico**: 274.887.3888
+- **Correo Electrónico**: ntoSko@msf.org
+
+_Signos Vitales y Observaciones:_
+- **Presión Arterial**: 120/80 
+- **Frecuencia Respiratoria**: 14
+- **Pulso**: 65
+
+_Estado Actual:_
+
+Síntomas de impétigo notados. Desarrollo de llagas en la cara. Se sospecha infección de la piel. Se prescriben antibióticos.
+
+_Pruebas de Laboratorio:_
+
+Ordenado para recuento completo de sangre, cultivo de hisopo de piel.
+
+_Procedimiento y Dispositivo:_
+- **Procedimiento**: 68114-7443
+- **ID del Dispositivo**: km 58271Tk
+
+_Otros detalles:_
+- **Dirección IP** : 99.17.18.207
+- **ID del Hospital** : hurling
+- **Plan de Salud**: UCP6WfUjd6
+
+_Comentarios:_
+
+La condición del paciente mejora. Se programó un seguimiento con el médico de atención primaria. 
+
+-----------------------------------------------------------------------------------------------
+
+**Sección de Privacidad:**
+- **Proveedor de Salud**: Sandoval, Sharp and Jackson
+- **Nombre de Usuario para Iniciar Sesión**: ataliMoya
+- **Información de Licencia**: 83946-XzGB
+- **Identificador Biométrico (hash de huella digital)**: 5442 5837z
+- **Número de ID Genérico**: 68114-7443
+- **Seguridad Social**: 451-80-0121
+- **ID del Vehículo (para evacuación de emergencia)**: 8-8823S
+
+-----------------------------------------------------------------------------------------------
+
+Esta Nota de Enfermería está sujeta a las reglas y directrices de privacidad de la organización de atención médica. Cualquier acceso o divulgación no autorizada de información puede resultar en acciones legales."
+

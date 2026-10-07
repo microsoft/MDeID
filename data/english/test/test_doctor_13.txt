@@ -1,0 +1,36 @@
+"Doctor Notes
+==========
+Patient: Alyssa Anderson
+ID: IIvp-GKYzT
+
+S:
+- Recurrent nosebleeds for 6-8 months
+- No headaches or systemic symptoms
+- Nasal block
+
+O:
+- Hard mass, right nostril
+- Normal alkaline phosphatase
+- CT scan: Mass behind basal lamella, calcification, displacing inferior turbinate, extends into nasal vestibule
+- Endoscopic surgery: General anesthesia, mass excised, adherent to posterior septum and medial surface of inferior turbinate
+- Mass size: 3 x 2 x 1 cm
+- Microscopy: Benign fibro-osseous lesion, indicates fibrous dysplasia
+
+A:
+- Primary diagnosis: Fibrous dysplasia of nasal cavity
+- Mass excised, no immediate complications
+- Prognosis: Favorable, low malignancy risk, benign lesion
+
+P:
+- Recovery: Monitor, regular follow-ups with Ty White
+- Advise: Report unusual symptoms or recurrent nosebleeds
+- No additional treatment required
+- Surveillance: Continued for mass recurrence
+
+Ty White
+Financial trader
+Hamilton Group
+yt@unicef.org
+2955528378
+hfcD"
+

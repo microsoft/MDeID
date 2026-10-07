@@ -1,0 +1,26 @@
+"Informe de Atención al Paciente: Dificultad Respiratoria 
+
+Despacho y llegada a la escena:
+El 13 de septiembre de 1980, recibimos una llamada al 911 de una persona que tenía dificultades para respirar. El paciente Məhru Kazımlı fue encontrado por nuestro equipo estacionado en estadio en Canals, 47. A la llegada, Məhru Kazımlı estaba sentado en una silla, aparentemente con dificultades respiratorias.
+
+Historia y síntomas:
+Məhru Kazımlı tiene aproximadamente 101 años, con una historia reciente de lo que él mismo identificó como un resfriado común. Durante la llamada, Məhru Kazımlı transmitió un alto nivel de incomodidad, indicando que tenía una tos persistente y congestión nasal. El paciente estaba alerta y orientado en persona, lugar y tiempo, y tenía antecedentes de eventos similares en el 5753 AwdRM.
+
+Examen:
+Se realizó una evaluación física rápida por Julia Brunner. La vía aérea del paciente estaba patentada, sin embargo, se notó una respiración trabajosa. La auscultación del pecho reveló sibilancias bilaterales. La piel estaba pálida y fría al tacto, lo que podría indicar una oxigenación insuficiente. La saturación de oxígeno se notó en un 92% en aire ambiente desde el dispositivo con identificador Kg-IoATkfB.
+
+Tratamiento y transporte:
+El tratamiento inicial consistió en la administración de oxígeno suplementario a través de una mascarilla no reutilizable a un flujo de 15 litros por minuto. La saturación de oxígeno del paciente mejoró al 98% después de la terapia con oxígeno. Məhru Kazımlı fue luego trasladado de manera segura a la camilla con la ayuda del equipo de EMS y fue transportado en URG-170 al Tombense.
+
+Durante el transporte, se monitoreó continuamente a Məhru Kazımlı. El personal de EMS que asistía realizó una reevaluación cada 5 minutos. La condición del paciente permaneció estable durante todo el transporte, y fue entregado al equipo de la sala de emergencias en Tombense con toda la información pertinente compartida.
+
+Los detalles de este informe, incluyendo los síntomas del paciente, el tratamiento administrado, los hallazgos médicos y la información de transporte, fueron documentados en el registro de salud electrónico del paciente, número 5753 AwdRM, accesible a través del portal del hospital con URL  www.ross-harris.com/categories/blog/tagauthor.php usando Kazımlu y 424 hnqFNh.
+
+La facturación por el servicio de ambulancia fue enviada al proveedor de seguro de salud del paciente, T2GL, bajo el número de cuenta 424 hnqFNh. El servicio de ambulancia fue llamado por Məhru Kazımlı a través del número de teléfono (751)441-8989 y el correo electrónico liBrunner@msf.org se utilizó para enviar el recibo electrónico del pago. La ambulancia fue conducida por un técnico de emergencias médicas con licencia OyqJcZ 668 de la organización Reeves, Clark and Atkins. La llamada fue enviada a nuestro equipo de EMS a través de la dirección IP 160.239.174.154 y el número de fax 001-725-850-5627x95292 se utilizó para enviar los documentos médicos del paciente al hospital.
+
+Informe preparado por:
+Julia Brunner (firma)
+13 de septiembre de 1980
+
+NOTA: Los demás detalles personales del paciente, incluyendo su dirección Məhru Kazımlı, Pasaje Norte Escobar 813 Interior 609 176, Travoy, Canals 35276, Peru, ciudad Canals, estado 47, código postal 35276, país Argentina y su número de seguridad social 716-15-4175 también fueron documentados y son confidenciales según las reglas de HIPAA."
+

@@ -1,0 +1,74 @@
+"Verpleegkundige Kras Notitie:
+
+--------------
+05-10-1991 
+--------------
+Pt: Sander Wolters
+--------------
+- CC: \"buikpijn, voelt zich koortsig\"
+- Temp: 38.8\u00b0C
+- BP: 130/85 mmHg
+- Pulse: 92 pm
+
+Observaties:
+- Lijkt ongemakkelijk, blijft buik vasthouden
+- Huid voelt warm aan
+- Geen bekende allergieën
+
+-------------
+Huidige Meds:
+-------------
+- 
+- 
+
+-----------------
+Testresultaten:
+-----------------
+- 
+- 
+
+Mogelijke Dx: Tyfus
+
+----------------------
+Behandelplan:
+----------------------
+- 
+- 
+
+-----------------
+Contact:
+-----------------
+- Thea Meijer: Dr. Thea Meijer
+- 724-877-4464: 724-877-4464
+- Email: Theaer@protonmail.com
+- Fax: +1-331-860-8014x718
+
+----------------
+Andere PHI:
+----------------
+- Opnamedatum: 05-10-1991
+- Ontslagdatum: 05-10-1991
+- MRN: FoXh-30JAn
+- Zorgplan: l5PsuR8iEfc OQwI04cN7xe6lm
+- Org.: Nixon-Owens
+- Prof.: Editor, film/video
+- Locatie: bushalte
+- IP-adres: 176.200.200.124
+- SSN: 741-2270580-74
+- Acc no.: QLa-0701tM
+- Apparaat nr.: 494 0529UE
+- Gebruikersnaam: ltersn
+- Voertuig: 889-NYU
+- Licentie: nLshNI-80w
+- Biometrische ID: 0791-WSoBI
+- ID nr.: QLa-0701tM
+- Adres: Sander Wolters, Conormal 187, 6380 Matchably, Nederland
+- Stad: Hirsutism
+- Land: Nederland
+- Postcode: 6380
+- URL: lopez-jensen.martin.com
+
+---------------
+Einde van de notitie
+---------------"
+

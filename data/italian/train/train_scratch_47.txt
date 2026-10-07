@@ -1,0 +1,67 @@
+"**Nota dell'Infermiera Scratch**
+
+---------------------------------------------------------------
+**Rapporto del Paziente**
+- Andrea Bianco
+- Cartella Clinica: 9993-jDVWi
+- Età: 44
+
+**Statistiche Vitali**
+- Pressione sanguigna: 130/85 mmHg
+- Pulsazioni: 75 bpm
+- Respirazione: 20 bpm
+- Temperatura: 37.0 C
+
+**Progresso del Trattamento**
+- Si lamenta di difficoltà respiratorie, sospetto di asma bronchiale.
+---------------------------------------------------------------
+
+**Osservazione**
+- Esaminata la pelle: Normale
+- Palpato il torace: Normale
+- Auscultati i polmoni: Sibili uditi
+
+**Indagini & Risultati**
+- Test Spirometrico: Da fare
+- Misuratore di Picco di Flusso: Da fare
+---------------------------------------------------------------
+
+**Medicinali Prescritti**
+- Broncodilatatore: Da somministrare secondo l'ordine del medico
+- Steroidi: Da somministrare secondo l'ordine del medico
+
+**Varie**
+- Piano Sanitario: 0SF UHqzyIaR rMPuoN
+- Ospedale: Bareli
+- Medico: Peter Zimmermann
+
+**Prossimi Passi**
+- Riferire al medico per il test spirometrico
+- Somministrare broncodilatatori e monitorare la risposta
+- Tenere il misuratore di picco di flusso a portata di mano
+
+**Contatto di Emergenza**
+- Telefono: 732.756.5839x46863
+- Email: tern@hotmail.com
+
+---------------------------------------------------------------
+**Promemoria & Richiamo**
+- Nome utente del paziente: 6MdcZ8HZ
+- Numero di serie del dispositivo: 4872 6689j
+- Account: 95-0575VaI
+- Previdenza Sociale: ETOWNS71F53V058U
+
+---------------------------------------------------------------
+**Footer**
+- Licenza: 159147-pOg
+- ID Biologico: 1478 HMXTk
+- Indirizzo IP: 81.176.202.68
+- Posizione: mercato
+- Veicolo: 53C DR4
+- Numero ID: 95-0575VaI
+- Indirizzo: Andrea Bianco, 7288 Mark Terrace Suite 162, 162, 1744 Monte San Vito Nonquality, Italia
+- Professione: Curatore
+- Organizzazione: Hoover-Cook
+- Fax: (278)265-9041x296
+---------------------------------------------------------------"
+

@@ -1,0 +1,61 @@
+"**VERPLEEGKUNDIGE KRABBEL NOTITIE**
+
+-----------------------------
+[Patiënt Info]
+    Patiënt: Victoria Aerts
+    Leeftijd: 84
+
+[Locatie Info]
+    Adres: Victoria Aerts, Ethyldichloroarsine 6, 6307 Duckies, België
+    Ziekenhuis: Sosva
+
+[Vitalen]
+    BP: 120/80 mmHg
+    HR: 80 bpm
+    Temp: 98.6 \u00b0F
+    RR: 16 ademhalingen per min
+    SpO2: 98%
+
+[Observaties]
+    Huid: Ernstige uitslag opgemerkt 
+
+[Beoordeling]
+    Mogelijke infectie: Waterpokken
+
+[Plan]
+    Medicatie: Antiviraal medicijn (indien nodig)
+    Vervolgafspraak: 1 week 
+
+[Notities]
+    Patiënt meldde intense jeuk op verschillende plaatsen op het lichaam.
+
+[Verwijzingen]
+    Dermatoloog: Ruben Smets
+
+-----------------------------
+[ADMIN PANEEL]
+    Medisch Dossier Nr: Zg-30YzCKl
+    Account ID: Lwnw-00667
+    Apparaat ID: 6990-31kQC
+    Login Alias: riarts
+    Sociale Zekerheid: 906106235
+    Licentie: NIWlL-LkWG
+    Biometrische Identificatie: iiSqO-1964
+    IP Adres: 68.128.65.143
+    ID Nr.: Lwnw-00667
+    Stad: Cockapoos
+    Land: Nederland
+    Postcode: 6307
+    Zorgplan: 9vDM31
+    Beroep: Computerspelontwikkelaar
+    Organisatie: Maxwell-Khan
+    Contact Nr.: 813.870.7442
+    Fax Nr.: 983.989.6541x641
+    Email: nSmets@yahoo.com
+    Voertuig: 041 KBL
+    URL: https://harris.org/listfaq.html
+    Locatie Details: park
+-----------------------------
+
+***Gezondheid & Waarden Behouden***"
+

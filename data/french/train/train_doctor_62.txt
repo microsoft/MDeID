@@ -1,0 +1,60 @@
+"[Note de Scratch du Docteur]
+
+Daniel Leblanc, Homme, 79 (37)
+__Symptômes:__
+* Problèmes de démarche progressifs
+* Rigidité
+* Faiblesse des membres inférieurs
+* Urgence urinaire (avec incontinence)
+* Dysfonction érectile
+
+__Examen Neuro:__
+* Dysarthrie légère
+* Paraparésie spastique
+* Démarche spastique à base large
+* Réflexes tendineux profonds vifs
+* Clonus d'Achille bilatéral
+* Signe de Babinski
+
+__IRM (Cerveau):__ 
+* Agénésie de la commissure postérieure
+* Hypoplasie du fornix droit et du corps mamillaire ipsilatéral
+* Colpocephalie
+* Épaississement cortical parasagittal frontal droit
+* Foyers hétérotopiques nodulaires périventriculaires
+* Anomalies du drainage veineux
+
+__IRM (Spinal):__
+* Atrophie de la moelle épinière
+
+__Évaluation Neuropsychologique:__ Normal
+__EEG:__ Normal
+__EMG:__ Normal
+__SEPs:__ 
+* Temps de conduction central augmenté
+* Pas de réponse de la jambe droite
+
+__MEPs:__ Absent dans les deux jambes
+__VEPs:__ Sans particularité
+__OCT:__ Sans particularité
+
+__Test Génétique:__
+* Mutation hémizygote c.1394-2A > G dans le gène ABCD1
+
+__Examen Hématochimique:__
+* Cortisol: Normal
+* ACTH: Élevé (352 pg/mL)
+
+__Diagnostic:__
+* Adrénoleucodystrophie liée à l'X (x-ALD)
+* Insuffisance surrénale subclinique
+
+__Plan:__
+* Surveillance régulière
+* Gestion des symptômes
+* Suivis avec Stijn Simons (Neurologue) et Stijn Simons (Endocrinologue)
+* Éducation du patient sur x-ALD
+
+Stijn Simons
+"
+

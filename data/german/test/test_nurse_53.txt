@@ -1,0 +1,63 @@
+"**Krankenschwester Erzählnotiz**
+
+Subjektiv: 
+
+Der Patient, Werner Moser, Empfänger einer Lebertransplantation am 15.11.99 aufgrund von Bedingungen im Zusammenhang mit alkoholischer Zirrhose und hepatozellulärem Karzinom, berichtet über eine Vorgeschichte von diffus großem B-Zell-Lymphom, das am 15.11.99 mit Chemotherapie behandelt wurde, psychiatrische Erkrankung und posttraumatische Epilepsie. Der Patient leugnet Symptome einer Enzephalopathie. Der Patient hat seit dem 15.11.99 intermittierende Transaminasenerhöhungen erlebt, die vermutlich mit der Alkoholnutzung von Baker PLC zusammenhängen, und stellte sich mit Aszites und Transplantatdysfunktion am 15.11.99 vor.
+
+Objektiv:
+
+Die aktuellen Medikamente umfassen Tacrolimus mit auf etwa 2 μg/l eingestellten Spiegeln und Prednison 5 mg täglich. Leberfunktionstests zeigten mäßig erhöhte Transaminasen und etwas Cholestase. Die Serologie war negativ für Hepatitis B, C und Baker PLC, aber positiv für das Epstein-Barr-Virus innerhalb der normalen Grenzen für den Patienten. Bemerkenswert ist, dass Anti-HEV IgM und IgG positiv waren und die PCR HEV RNA im Plasma und einer gelagerten Serumprobe vom 15.11.99 bestätigte, was auf eine chronische Hepatitis E-Infektion hinweist. Seit der Einführung von Ribavirin am 15.11.99 haben sich die Leberfunktionstests verbessert.
+
+Bewertung: 
+
+Die Hauptdiagnose ist dekompensierte Transplantatzirrhose sekundär zu chronischer Hepatitis E-Infektion. Die Vorgeschichte des Patienten mit Alkoholkonsum kann zur Leberdysfunktion beitragen. Früher in Betracht gezogene und ausgeschlossene Differentialdiagnosen umfassen die Reaktivierung von Hepatitis B, C und Baker PLC Infektionen.
+
+Plan: 
+
+Weiterhin regelmäßige Überwachung der Leberfunktionstests und Tacrolimusspiegel. Beibehaltung der aktuellen Dosierungen von Tacrolimus und Prednison. Die Ribavirin-Therapie wird fortgesetzt, mit Anpassungen basierend auf Reaktion und Verträglichkeit. Dem Patienten wird geraten, auf Alkohol zu verzichten, um weitere Leberschäden zu verhindern. Regelmäßige Nachuntersuchungen sind notwendig, um den Fortschritt der Lebererkrankung zu überwachen und die Behandlung bei Bedarf anzupassen.
+
+---------------------------------------------------------------------------------------------------------------------
+
+**Strukturierte PHI-Informationen**
+
+Einzigartige Identifikatoren des Patienten:
+- Medizinische Akte: 10-ZrEQrRI
+- Patientenkonto: 28455-dHvX
+- Gerätebezeichner: 18189 zoSM
+- Benutzername: z6Oeybi0
+
+Persönliche Informationen des Patienten:
+- Alter: 107
+- Adresse: Werner Moser, Mannstraße 01 118, 2280 Korschenbroich, Deutschland
+- Stadt: Sulzfeld
+- Land: Belgien
+- Bundesland: wien
+- PLZ: 2280
+
+Andere Identifikatoren:
+- Fahrzeugbezeichner: MDX-0219
+- Sozialversicherungsnummer: 126-4150155-27
+- Lizenzbezeichner: 5587-kKess
+- Biometrischer Bezeichner: 00-942828j
+- IP-Adresse: 11.75.61.157
+- ID-Nummer: 28455-dHvX
+
+Kontaktinformationen:
+- Name des Arztes: Sophia Steiner
+- E-Mail: pei@mail.com
+- Telefonnummer: 230-882-0354x01835
+- Faxnummer: 640-990-6270
+
+Informationen zum Krankenhaus des Patienten:
+- Krankenhaus: Massachusetts General Hospital a
+- Gesundheitsplan: Yyn
+
+Weitere Informationen:
+- Beruf: Osteopath
+- Organisation: Baker PLC
+- URL: http://hernandez.info/tag/categoriesabout.jsp
+- Straße: 17607 Smith Rapid
+- Standort-Andere: Apotheke
+
+Unterschrift der Krankenschwester: Sophia Steiner"
+

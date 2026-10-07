@@ -1,0 +1,61 @@
+"**PFLEGEKRATZNOTIZ**
+
+-----------------------------
+[Patienteninformation]
+    Patient: Luna Bogaerts
+    Alter: 33
+
+[Ortsinformation]
+    Adresse: Luna Bogaerts, Lara-Sophie-Barth-Weg 1/6 129, 0336 Türnitz, Österreich
+    Krankenhaus: Wiener Carltheater
+
+[Vitalwerte]
+    BP: 120/80 mmHg
+    HR: 80 bpm
+    Temp: 98.6 \u00b0F
+    RR: 16 Atemzüge pro Minute
+    SpO2: 98%
+
+[Beobachtungen]
+    Haut: Schwerer Ausschlag festgestellt 
+
+[Bewertung]
+    Mögliche Infektion: Windpocken
+
+[Plan]
+    Medikation: Antivirales Medikament (falls notwendig)
+    Nachsorge: 1 Woche 
+
+[Notizen]
+    Patient berichtete von starkem Juckreiz an verschiedenen Stellen am Körper.
+
+[Überweisungen]
+    Dermatologe: Fritz Meier
+
+-----------------------------
+[ADMIN PANEL]
+    Medizinische Aktennummer: 900287 ZyI
+    Kontonummer: 32502 77xF
+    Geräte-ID: 5546-pBwnA
+    Login-Alias: iEf7K1aO
+    Sozialversicherungsnummer: 135765-6093
+    Lizenz: brtfaE-474
+    Biometrischer Identifikator: 596671-294
+    IP-Adresse: 223.69.73.204
+    ID-Nr.: 32502 77xF
+    Stadt: Steinfurt
+    Land: Österreich
+    PLZ: 0336
+    Gesundheitsplan: RtOYF
+    Beruf: Medizinischer Illustrator
+    Organisation: Walker-Lucas
+    Kontaktnummer: +1-837-899-5780x409
+    Faxnummer: (731)563-2151
+    E-Mail: ert@icloud.com
+    Fahrzeug: 135A
+    URL:  www.kramer-frey.biz/categories/categories/tagsterms.php
+    Standortdetails: Restaurant
+-----------------------------
+
+***Gesundheit & Werte bewahren***"
+

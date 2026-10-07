@@ -1,0 +1,37 @@
+"Verpleegkundige Narratieve Notitie voor Patiënt met Verdachte Trombotische Trombocytopenische Purpura (TTP)
+
+Paul van der Ven, bekend als drager van de sikkelcel-eigenschap, heeft symptomen gemeld die consistent zijn met vermoeidheid, artralgieën en myalgieën die gedurende een week aanhouden. Er werd geen bewijs van gewichtsverlies, koorts, bloedingen, blauwe plekken, dyspneu of urinaire symptomen opgemerkt. De patiënt ontkent roken, drugsgebruik en blootstelling aan aanzienlijke reizen of risicofactoren voor HIV. De familie- en medische geschiedenis van Paul van der Ven biedt geen extra relevante bevindingen buiten de sikkelcel-eigenschap.
+
+Eerste evaluatie uitgevoerd op een niet nader genoemde bushalte wees op de aanwezigheid van anemie (hemoglobine: 11 g/dL), trombocytopenie (aantal bloedplaatjes: 46.000 per microliter) en acuut nierfalen (creatinine: 1,33 mg/dL). Aanvullende laboratoriumbevindingen omvatten verhoogde lactaatdehydrogenase (968 IU/L), verlaagde haptoglobine (15 mg/dL) en de aanwezigheid van schistocyten op perifeer bloeduitstrijkje. Het aantal witte bloedcellen was 4,1 per microliter, kalium 4,1 mmol/L, fosfaat 6,6 mg/dL, calcium 9,8 mg/dL en verhoogd bilirubine op 2 mg/dL. De patiënt is toen gestart met 1 mg/kg prednison en dagelijkse plasma-uitwisseling. Deze interventies leidden echter niet tot verbetering, wat leidde tot verwijzing naar een tertiair zorgziekenhuis.
+
+De vermoedelijke diagnose is trombotische trombocytopenische purpura (TTP) op basis van de klinische presentatie en laboratoriumbevindingen van de patiënt. We wachten momenteel op de resultaten van de ADAMTS13-test. De differentiële diagnose omvat andere oorzaken van microangiopathische hemolytische anemie en complicaties gerelateerd aan de sikkelcel-eigenschap.
+
+De patiënt zal de huidige behandelingsregime van prednison en plasma-uitwisseling voortzetten in de tertiaire zorginstelling. We zullen de reactie van de patiënt op de behandeling volgen en indien nodig aanpassen op basis van de ADAMTS13-resultaten en klinische progressie. Er is voorlichting gegeven aan de patiënt en hun familie over TTP, de implicaties ervan en het belang van naleving van het behandelingsregime.
+
+Er zijn regelmatige vervolgafspraken gepland, die laboratoriummonitoring zullen omvatten, om de effectiviteit van de behandeling te beoordelen en eventuele opkomende complicaties te beheren.
+
+Voettekst:
+Contactinformatie: 2427533832, ic@unicef.org
+Noodcontact: 2427533832
+Medisch Dossier Nummer: zoYJy-IycP
+Accountnummer: IDHNH 397U
+Apparaat Serienummer: 45 YhrlinF
+Gebruikersnaam: renanl
+Voertuig Registratienummer: 06BY432
+Sociale Zekerheidsnummer: 426717639
+Professioneel Licentienummer: Lw 461RGBO
+Biometrische Identifier Hash: eq LjkwuPo
+IP Adres: 4.50.198.163
+Persoonlijke Identifier: IDHNH 397U
+Adres: Paul van der Ven, Exiguity 134, 0904 Legitimatization, Nederland
+Ziekenhuis: Dieu ziekenhuis
+Locatie: bushalte
+Zorgplan: jiNb1xRI
+Beroep: Arboriculturist
+Organisatie: Conrad PLC
+Datum: 7 mei 1991
+Dokter: Lucie Pieters
+Email: ic@unicef.org
+URL: http://www.collins.com/app/tagsearch.htm
+Fax: +1-319-518-0176x992"
+

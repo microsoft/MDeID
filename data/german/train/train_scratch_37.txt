@@ -1,0 +1,44 @@
+"--:: KRANKENSCHWESTER KRATZER NOTIZ, CODE: 89654 YXez ::--
+
+- Pt. Aylin Groß - Verdacht auf Krampfadern
+- Relevante Daten:
+    - Vitalwerte: BP 130/80 mmHg, HR 72 bpm, TEMP 98.6F, SpO2 98%
+    - Ambulant, keine Beschwerden
+    - Beininspektion - abnormale Venen vorhanden
+
+-- \u221a Beurteilung & Plan --
+
+Unternehmensschatzmeister berichtet über ungewöhnliche Venen - Beine
+- Fortschritt überwachen
+- Überweisung an Bastian Weiß in Betracht ziehen
+- VI Therapie?
+
+--:: Nächster Verwandter ::--
+Name: Aylin Groß
+Beziehung: Schwester
+Kontakt: 295.635.0615x505
+Adresse: Aylin Groß, Ava-Steininger-Straße 6/8 20, 8144 Rhens, Deutschland
+
+--:: Digitale Info ::--
+IP-Adresse: 97.69.232.108
+Benutzername: KHO35Dob
+
+--:: Notfall Info ::--
+Gesundheitsplan: FXFgF
+Lizenz: 370 74429z
+BioID: JnCgkz-WcL
+
+--:: Vitalzeichen - Geräteinfo ::--
+Gerät: 345 327218
+ID: 91 zWLwILg
+
+Fußzeile:
+Überweisung an Yuri Gagarin Kosmonauten
+Betreut von- Bastian Weiß
+Am- Freitag, 9. Januar 1976
+
+NOTIZEN:
+Vitalzeichen stabil. Keine unmittelbare Sorge. Nachsorge am Freitag, 9. Januar 1976.
+Mögliche berufliche Gefährdung. Arbeitsplatz: Ellis-Robinson
+"
+

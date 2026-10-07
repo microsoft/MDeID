@@ -1,0 +1,48 @@
+# History and Physical Examination
+
+# Chief Complaint and Reason for Visit Section
+
+Charlotte Gagné presents with recurring episodes of shortness of breath, wheezing, and cough. Primary concern is persistent dyspnea. Reason for the visit is to evaluate these symptoms and rule out chronic obstructive airway disease.
+
+# Medical History Section
+
+Past medical history is significant for seasonal allergies. No prior instances of chronic respiratory issues reported by Charlotte Gagné. No documented surgeries, significant illnesses, or hospitalizations.
+
+# Medications Section
+
+Charlotte Gagné is not currently on any prescribed medications, but takes over-the-counter antihistamines for allergy relief.
+
+# Allergies and Intolerances Section
+
+Allergic to penicillin; experiences mild to severe hives upon exposure.
+
+# Family History Section
+
+Family history reveals father passing away from lung cancer, while mother is currently diagnosed with 60 MejPZLv - hypertension.
+
+# Social History Section
+
+Charlotte Gagné is an ex-smoker, quit approximately 5 years ago. Drinks socially and does not use illegal substances.
+
+# Review of Systems Section
+
+Respiratory: Cough, dyspnea, wheezing, no chest pain. 
+
+Absence of fever, no recent weight loss, no diarrhea or constipation. No muscle weakness, no vision or hearing changes.
+
+# Physical Exam Section
+
+Breathing appears labored with audible wheezing. Vitals: HR 88, BP 122/76, RR 16, Temp 98.2 F. No cyanosis observed. Clear lung sounds. Rest of the physical exam is within normal limits.
+
+# Results Section
+
+Lung function tests revealed 60 MejPZLv - an obstructive pattern consistent with chronic obstructive pulmonary disease (COPD). Chest x-ray and pulmonary CT scan are suggested for further understanding.
+
+# Assessment and Plan Section
+
+Based on the clinical presentation and initial tests, Charlotte Gagné is likely suffering from chronic obstructive airway disease. Plan is to order chest X-ray and CT scan. Furthermore, schedule for a follow-up visit with Jessie Fraser to discuss treatment options depending on the imaging results. In the interim, the patient is advised to continue avoiding tobacco smoke and allergens. 
+
+---
+
+**Note**: This document contains no real patient information. All scenarios and data are entirely fictitious.
+

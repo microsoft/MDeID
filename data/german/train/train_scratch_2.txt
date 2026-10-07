@@ -1,0 +1,59 @@
+"Krankenschwester Scratch Note
+
+**********Vitalzeichen & Medizinische Beobachtungen**********
+
+BP: 155/98 mmHg
+HR: 101 bpm
+Temp: 38.1 C\u00b0
+Resp: 18 rpm
+O2 Sat: 95%
+GCS: 15
+
+**********Subjektive & Objektive Daten**********
+
+- Pt Sam Neumann wirkt müde, berichtet über Kopfschmerzen und Brustbeschwerden
+- 89 Jahre alt, positive Familienanamnese von Zzvuy gedeckten Herzkrankheiten
+- Kein Ausschlag, Prellungen oder sichtbare Verletzungen
+- Schwierigkeiten beim Umgang mit persönlichen Gegenständen dEo3MrUc
+
+**********Behandlungen & Interventionen**********
+
+- Verabreichtes Aspirin 81mg PO
+- Verabreichtes Nitroglycerin 0.4mg SL
+- Verabreichtes Heparin 5000 Einheiten SC
+- Komfortmaßnahmen bereitgestellt, umpositioniert, tiefes Atmen ermutigt
+
+**********Plan & Nachverfolgung**********
+
+- Überwachung der Vitalzeichen alle 4 Stunden
+- Pt zur Durchführung von EKG, Röntgen, Überwachungsgerät tnyrlz wgz
+- Konsultation mit Dr. Lore Evrard zur Medikamentenüberprüfung
+- Plan für Belastungstest, wenn Symptome anhalten
+
+************Patienteninformation************
+
+- Sam Neumann ID: 702-GHDiHg
+- Medizinische Akte: 341-4910wl
+- Patient befindet sich (Zimmer): Bank
+- Aufgenommen: Wiener Neudorf, 96 Krankenhaus Parkview Regional Hospital
+- Abrechnungskonto: 702-GHDiHg, Versicherer: Zzvuy
+
+************Kontaktinformationen************
+
+- Patientenwohnung: Sam Neumann, Lily-Steinacher-Weg 9/0 33, 3669 Ugento, Deutschland
+- E-Mail: aLor@yahoo.com
+- Haupttelefon: 001-442-854-4586x33585
+- Fax: +1-500-266-3423x9625
+- Notfallkontakt: Sam Neumann Beziehung, Telefon: 001-442-854-4586x33585
+
+************Weitere Informationen************
+
+- Konsultierte Dr. Lore Evrard von James-Shelton über den besten Handlungsverlauf
+- Referenzierte Fallstudie URL: http://parker.net/app/wp-contentabout.htm
+- Beruf des Patienten: Therapeut, Ernährungsberater
+- Führerschein: tqsNsT-065
+- Sozialversicherung: 57 059 564 573
+- Fahrzeuginformationen: Farbe, Marke, Nummer TFO-7221
+- Biometrische Daten Hash: 462 2354LS
+- IP-Adresse: 191.231.85.26"
+

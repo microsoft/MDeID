@@ -1,0 +1,92 @@
+"Appunto di Infermieristica
+
+--- Caso Paziente 762253-61A---
+
+Paziente: Riccardo Conti
+
+Età: 27
+
+ID Biometrico: 482845-rvq
+
+Account: 38536 4301
+
+Dispositivo Medico: 534901-zVn
+
+Altra Località: università
+
+Indirizzo: Riccardo Conti, 2761 Johnston Garden, 34, 5886 Verdello Preelecting, Italia
+
+Ospedale: Euro 2012
+
+--- Vitali ---
+
+BP: 128/80
+
+Pulsazioni: 72
+
+Temp: 98.6F
+
+Resp: 16
+
+O2Sat: 98%
+
+--- Osservazioni Infermiere ---
+
+Aumento di peso elevato in breve tempo notato. Preoccupazioni per affaticabilità, intolleranza allo sforzo. Nessun segno visibile di trauma.
+
+---Informazioni Mediche---
+
+Possibile reazione al farmaco...? Da confermare da Nicole Mazza.
+
+Attualmente su dNR.
+
+--- Info Varie ---
+
+Nome utente: anxR1qnH
+
+Indirizzo IP: 113.64.68.222
+
+Licenza: 066 16wCrV
+
+Veicolo: 794-BVMG
+
+--- Informazioni di Contatto ---
+
+Telefono: 267.730.1972
+
+Email: ale@outlook.com
+
+URL:  www.berry.com/categories/blogcategory.html
+
+Fax: (920)832-0943x18703
+
+--- Contatto di Emergenza ---
+
+Nome: Riccardo Conti
+
+Relazione: 
+
+Telefono: 267.730.1972
+
+--- Altro ---
+
+IDNUM: 38536 4301
+
+SOCIALSECURITY: 243313-0265
+
+PROFESSIONE: Pilota di linea
+
+ORGANIZZAZIONE: Miller, Dixon and Armstrong
+
+CITTÀ: Verdello
+
+PAESE: Svizzera
+
+STATO: 90
+
+VIA: 38504 Farmer Landing Apt. 059
+
+CAP: 5886
+
+--- Fine dell'Appunto ---"
+

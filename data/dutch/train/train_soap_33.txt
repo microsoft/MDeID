@@ -1,0 +1,24 @@
+"S: Patiënt Thomas Segers is een 84-jarige met een geschiedenis van hypoxie bij de geboorte, die zich presenteert met ontwikkelingsachterstanden en slaapstoornissen. De ouder meldt recente bevindingen van verhoogde GHB-niveaus uit een urinaire organische zuuranalyse uitgevoerd bij Clayton Fellowship.
+O: Genetische tests uitgevoerd bij Chapman-Reed onthulden een nieuwe homozygote mutatie c.800 T > G (p.V267G) in exon 5, geërfd van beide ouders. Bio-informatica-analyse, uitgevoerd bij café, geeft aan dat deze mutatie \"waarschijnlijk schadelijk\" en \"ziekteveroorzakend\" is met een hoge pathogeniciteitsscore. Eerdere EEG- en cerebrale MRI-resultaten, opgeslagen in het medisch dossier 9135 ZsEPB, en uitgevoerd bij Clayton Fellowship, waren onduidelijk.
+A: De primaire diagnose is een genetische aandoening gekoppeld aan de nieuwe mutatie c.800 T > G, die bijdraagt aan ontwikkelingsachterstanden en slaapproblemen. Differentiële diagnoses, opgenomen onder rekeningnummer 350537 069, kunnen andere genetische of metabole aandoeningen omvatten die de neurologische ontwikkeling beïnvloeden.
+P: Plan om de ontwikkeling van Thomas Segers nauwlettend te volgen via regelmatige vervolgafspraken gepland op 16-03-1998. Interventies zullen bestaan uit ergotherapie, logopedie en gedragstherapie om ontwikkelingsachterstanden aan te pakken. Verbeteringen in de slaaphygiëne zullen worden geïmplementeerd, met mogelijke farmacologische interventie indien nodig. Ouders wordt geadviseerd om open communicatie te onderhouden met het zorgteam, inclusief Dr. Hugo Verhoeven en verpleegkundige Hugo Verhoeven, en kunnen hen bereiken op (937)884-3159x25133 of oen@protonmail.com, om de zorg indien nodig aan te passen. Ouders moeten ook hun gezondheidsplan QKDEqV op de hoogte houden van de voortgang.
+
+Aanvullende notities:
+- De gebruikersnaam van de patiënt voor het ziekenhuisportaal is omasrs.
+- Het thuisadres van de patiënt is Thomas Segers, Trihydrol 77, 6034 Ultramicroscope, Nederland waar hij bij zijn ouders woont.
+- Het ID-nummer van de patiënt is 350537 069.
+- Het apparaatnummer van de patiënt is 102 lTwuAt.
+- Het kenteken van de patiënt is 5DG8897.
+- Het sofinummer van de patiënt is 030-7456850-18.
+- Het rijbewijs van de patiënt is BMFQ-KfwCJ.
+- De vingerafdrukidentificatie van de patiënt is rGIq 143Em.
+- Het IP-adres van de patiënt thuis is 197.180.119.120.
+- Het beroep van de patiënt is Copy.
+- De woonstaat van de patiënt is 16.
+- De woonstad van de patiënt is Relubricate.
+- De postcode van de patiënt is 6034.
+- Het woonland van de patiënt is Nederland.
+- De straat van de patiënt is 68651 Richard Plaza Apt. 475.
+- De URL van de persoonlijke blog van de patiënt is leach.wood.hall.info.
+- Het faxnummer van de patiënt is 001-677-952-5598x51742."
+

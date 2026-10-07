@@ -1,0 +1,61 @@
+"Nursing Scratch Note
+
+--------------------------------------------------
+|             PATIENT DETAILS:                   |
+| Patient Charlotte Thompson                              |
+| Age: 68-years-old                                     |
+| Address: Charlotte Thompson, 21 Napiform, Unforthright 6 5527, Australia                             |
+| Account: 777-TSLDrm                             |
+| Hospital: Foundation Laboratories                           |
+| Medical Record: WIO-881008                |
+--------------------------------------------------
+
+-----------------------------------------------------
+|             NURSING OBSERVATION:                  |
+-----------------------------------------------------
+BP: 128/84      
+Heart Rate: 72 bpm    
+Respiratory Rate: 18 rpm
+O2 Saturation: 98%
+
+-----------------------------------------------------
+|             NURSING ASSESSMENT:                   |
+-----------------------------------------------------
+Patient Charlotte Thompson reports cold symptoms - 
+Present: 
+- Experiencing cough (severity 7/10)
+- Nasal congestion
+
+------------------------------------------------
+|             POSSIBLE INTERVENTIONS:           |
+------------------------------------------------
+- Hydration 
+- Rest
+- Over-the-counter cold medications
+
+-----------------------------------------------------
+|             CONTACT INFORMATION:                  |
+-----------------------------------------------------
+Doctor: Parker Li      
+Phone: +1-411-978-0025x69142      
+Email: Lir@unicef.org
+
+--------------------------------------------------
+|             ADDITIONAL INFORMATION:              |
+--------------------------------------------------
+User Handle: eAdd25yJ                               
+Device ID: JAnu-0731i        
+Emergency Contact: Charlotte Thompson        
+SSN: 445 819 338                          
+License: 50556-AcRR                            
+Profession: Transport planner  
+
+-----------------------------------------------------
+|             NEXT APPOINTMENT:                     |
+-----------------------------------------------------
+Location: hospital
+Date: Aug 98
+Health Plan: EgiU cjYqtq 
+
+Note: Monitor for improvement or worsening of symptoms. Contact Parker Li if symptoms persist or worsen."
+

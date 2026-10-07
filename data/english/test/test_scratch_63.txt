@@ -1,0 +1,55 @@
+"NURSE SCRATCH NOTE 
+
+Patient Information 
+--------------------
+Patient: Chloe Thompson
+Age: 54
+Residence: Chloe Thompson, 147 Tawers, Fract 65 6669, Australia
+Email: ieTh@mail.com
+Phone: 705.741.4414
+Contact in case of an emergency: d0vDZrCE
+
+Hospital Details
+----------------
+Hospital: Hacienda Motel
+Doctor: Sienna Thomas
+
+Health Information 
+-------------------
+Health Plan: YESpEWyF
+Medical Record: jJh 24727h
+Account ID: 93-26IGACr
+
+Observations: 
+--------------
+1. Pain in lymph nodes - Severe 
+2. Skin rash - Present
+3. Possible Diagnosis - Chicken Pox 
+
+Vitals: 
+--------
+- Temp: 38.5C
+- BP: 120/80 mmHg
+- RR: 22/min
+
+Device Information 
+------------------
+Device: 769-MjCkTS
+
+Miscellaneous Information 
+--------------------------
+IP: 182.129.51.161
+Date of Admission: Jan 8, 2009
+Vehicle used for transport: 0P 7544M
+License (If any): 47639-205m
+Profession: Chief Marketing Officer
+Organisation: Mccoy Inc
+Location Other: train station
+Social Security: 166 163 704
+Biometric Identifier: 828403-015
+Fax: +1-518-262-3553
+URL: strickland.johnson.com
+ID Number: 93-26IGACr
+
+Note: This document contains sensitive information and should be handled accordingly."
+

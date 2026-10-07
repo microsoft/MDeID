@@ -1,0 +1,36 @@
+"NURSE NOTE
+
+Header: 
+Patient Identification Georgia Hambleton, Medical Record Number 449-KHYdLu, Account Number 227-3371Sw
+
+S (Subjective): 
+Georgia Hambleton, a patient with Environmental health practitioner background, reported the presence of a sacral mass since 7/30/03. The mass has been progressively growing and is painless. The patient mentioned they have been restricted to the bed for the past 78-years due to discomfort caused by the mass, which has also affected their ability to move around and necessitated sleeping in a variety of positions. Until 7/30/03, no medical treatment was sought for the mass, instead, they sought help from a traditional healer associated with Adams and Sons.
+
+O (Objective): 
+On physical examination, Georgia Hambleton appears cachexic with slightly pale conjunctiva suggestive of 78-years. The vital signs are noted as follows: Blood Pressure of 142/90, Pulse Rate of 98 beats per minute, and Temperature of 37 degrees Celsius. The mass measures 40 cm \u00d7 30 cm. No family history of cancer is noted; however, the patient's father Georgia Hambleton had a history of a heart condition.
+
+A (Assessment): 
+The primary assessment indicates a large, progressively enlarging sacral mass. The associated symptoms including cachexia and mobility impairment are observed. The differential diagnoses may include benign or malignant neoplasms of the sacrum. The systemic effects possibly related to the mass are suggested by the patient's cachexia and anemia.
+
+P (Plan): 
+The plan includes further investigation of the mass with imaging studies and possible biopsy to determine the exact nature of the mass. Referral to the Southern Region referral centre Royal Society FREng for Orthopaedic Oncology in Canada is planned for specialized care. The management will include nutritional support to address cachexia, pain management as needed, and physical therapy to assist with mobility. Patient and family education regarding the condition and treatment options will be provided to ensure understanding and compliance with the treatment plan. Regular follow-up appointments will be scheduled with Sophie Williams to monitor the patient's progress and adjust the treatment plan as necessary.
+
+Footer: 
+Contact details for emergency: 
+Phone: +1-338-204-3023x767,
+Email: ophiilliam@unwomen.org, 
+Fax: 411-437-1567x61728,
+
+Other Information:
+Username: mbletoeo,
+IP Address: 74.252.82.47,
+Vehicle Details: 848 0632,
+Social Security: 667 306 139,
+License: gXWP-sDCRs,
+Biometric ID: hYE-NNxwGW,
+ID Number: 227-3371Sw,
+Address: Georgia Hambleton, 198 Scourges, Neronic, 10 1571, Canada,
+URL: adams.johnson.com.
+
+Nurse: Sophie Williams"
+

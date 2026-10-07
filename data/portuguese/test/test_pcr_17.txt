@@ -1,0 +1,24 @@
+"Relatório de Atendimento ao Paciente:
+
+Aproximadamente em 19 de ago. de 2013, o EMS usaAndré recebeu um chamado de emergência 911 sobre um paciente, André Sousa, queixando-se de inquietação constante devido a desconforto significativo de saúde. A chamada originou-se de um 8425-06158, com um endereço IP de 197.65.45.39, localizado em André Sousa, Praça Nádia Branco, 97 6, Prepacked, Cosmos Loja 2 Rio de Janeiro - 50, 3K4Q04E9, Brasil. Ao receber a chamada, imediatamente despachamos nossa ambulância 23-77777, com placa 626830-402 para o local.
+
+Ao chegar, encontramos o paciente apresentando sinais de extrema fadiga e saúde precária. A principal queixa do paciente girava em torno de problemas com o sono devido ao desconforto constante decorrente de uma condição médica suspeita. A idade do paciente, 1, e os sintomas levantaram suspeitas de um diagnóstico de febre tifoide. Um número de registro médico imediato 90-8769rME foi atribuído ao paciente para acompanhamento posterior.
+
+A avaliação no local revelou que o paciente estava moderadamente angustiado. A temperatura corporal do paciente foi encontrada elevada e sinais de desidratação foram notados. Mais perguntas sobre a saúde do paciente levaram à divulgação de uma história de uma semana de temperatura flutuante e desconforto.
+
+O paciente foi imediatamente colocado em uma maca de ambulância e foi transportado para o Schayes. A viagem de transporte foi monitorada e controlada por nosso operativo EMT Pedro Alves. A equipe garantiu sinais vitais estáveis durante o transporte e gerenciou o desconforto do paciente administrando primeiros socorros adequados.
+
+Ao chegar ao hospital, um histórico médico detalhado, sintomas atuais e detalhes do tratamento de primeiros socorros foram compartilhados com a equipe do departamento de emergência. Essas informações foram compartilhadas via um seguro led@msf.org do EMS usaAndré e o Ponce-Wheeler também foi informado sobre a chegada e condição do paciente.
+
+A ambulância foi conduzida por nosso EMT certificado Pedro Alves, portando licença 626830-402. Devido à emergência, um segundo membro da equipe Pedro Alves do Ponce-Wheeler se juntou para auxiliar no processo de atendimento.
+
+No hospital, o processo de registro e admissão foi realizado com o número de conta Rp ToEPMWp, e o plano de saúde do paciente Kc3 foi informado sobre a situação. Um procurador André Sousa foi estabelecido com o consentimento do paciente. O histórico médico do paciente foi atualizado no banco de dados do hospital com um URL http://www.acosta.info/categories/searchindex.htm, para os médicos acessarem.
+
+O diagnóstico e tratamento adicionais foram realizados pelo hospital sob a supervisão do Dr. Pedro Alves. A condição do paciente foi compartilhada com a família pelo número de telefone 001-826-437-3950x62073 conforme as regulamentações. O número de fax do hospital 001-359-649-0408 foi útil para compartilhar os relatórios médicos com o provedor de saúde primário.
+
+Todas as informações de saúde pessoal (PHI) relacionadas ao paciente foram tratadas de acordo com as normas de privacidade de dados. O registro contém uma lista completa do PHI, incluindo, mas não se limitando a, André Sousa, Rp ToEPMWp, usaAndré, Oficial da marinha mercante, Ponce-Wheeler, André Sousa, Praça Nádia Branco, 97 6, Prepacked, Cosmos Loja 2 Rio de Janeiro - 50, 3K4Q04E9, Brasil, 001-826-437-3950x62073, 1, led@msf.org, Cosmos Loja 2 Rio de Janeiro, Portugal, 50, 3K4Q04E9, Schayes, Rp ToEPMWp, 49826091-8, Pedro Alves, Parque Raul Martins, 862 121, 6206 Cabreúva - Sp, Portugal, 8425-06158, 626830-402, 90-8769rME, e 23-77777.
+
+Em suma, a equipe do EMS prestou atendimento imediato ao paciente desde o ponto de emergência até a transferência para o cuidado do hospital. A situação foi tratada com a máxima urgência e cuidado, garantindo que a saúde e a segurança do paciente fossem as principais preocupações.
+
+Preparado por: Pedro Alves, Técnico de Emergência Médica."
+

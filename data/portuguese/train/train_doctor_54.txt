@@ -1,0 +1,17 @@
+"Notas do Médico:
+
+S: 
+O paciente Lucas Matos é um paciente de acromegalia de longa data. Sintomas notáveis incluem dispneia ao esforço e falta de ar (2 anos), episódio recente de pré-síncope (2 semanas atrás). Lucas Matos tratado com octreotida por cerca de 2 décadas, 2 procedimentos de radiocirurgia estereotáxica nos últimos 10 anos. Sem histórico familiar a notar. Nega hipertensão, diabetes mellitus, apneia do sono, morte cardíaca súbita. Não fuma, consumo de álcool.
+
+O: 
+IMC indicando sobrepeso, 39 kg/m2. Características acromegálicas distintas presentes: língua aumentada, lábios, mãos, pés. Sinais vitais: Pressão arterial - 110/60 mmHg, Pulso - 92 batimentos/min, ritmo sinusal, batimentos prematuros irregulares, terceiro som cardíaco patológico, sopro sistólico. ECG mostra BCRD, função cardíaca NYHA estágio III-IV. RM confirmou macroadenoma pituitário. Resultados laboratoriais: BNP elevado (740 pg/ml), excesso de hormônio do crescimento e IGF-1.
+
+A:
+Diagnóstico primário: Acromegalia. Complicações: Insuficiência cardíaca (evidente pelo BNP elevado, NYHA estágio III-IV), macroadenoma pituitário. Diagnósticos diferenciais: Outras causas de cardiomiopatia, efeitos secundários do excesso de hormônio do crescimento a longo prazo.
+
+P: 
+Continuar octreotida, monitorar eficácia e efeitos colaterais. Planejar encaminhamento para o Rafael Pereira (cardiologia) para gerenciamento de problemas cardíacos. Considerar ajuste de medicamentos para insuficiência cardíaca com base nas recomendações do Rafael Pereira. Seguimentos regulares para monitoramento do nível hormonal e função cardíaca são necessários. Educar Lucas Matos sobre monitoramento regular e adesão ao plano de tratamento. Discutir opções cirúrgicas para macroadenoma pituitário com Rafael Pereira (neurocirurgião).
+
+Rafael Pereira
+Reyes PLC"
+

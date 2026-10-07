@@ -1,0 +1,63 @@
+"Krankenschwester Erzählnotiz:
+
+Subjektiv: 
+Patientin Frieda Schäfer berichtet über intermittierende Episoden von Sehstörungen im linken Auge, beschrieben als Verschwommensehen und ein Gefühl von vertikaler Bewegung. Diese Episoden treten angeblich einige Male im Monat auf, jede dauert etwa 20-30 Minuten. Begleitend zu diesen Sehsymptomen treten starke Kopfschmerzen auf der linken Seite und Lichtempfindlichkeit auf, die fast unmittelbar nach dem Auftreten der Sehstörungen auftreten. Die Patientin bemerkt auch ähnliches Verschwommensehen bei Sonneneinstrahlung, das sich sofort nach dem Schließen der Augen auflöst. Die Krankengeschichte der Patientin umfasst unbehandelten Bluthochdruck, Rauchen und erheblichen Alkoholkonsum. Darüber hinaus gibt es eine Familiengeschichte von Parkinson-Krankheit, vermutetem Oropharynxkarzinom und AGS-Mutation, die mit verschiedenen kardiovaskulären und neurologischen Manifestationen verbunden ist.
+
+Objektiv: 
+Bei der Untersuchung wurde festgestellt, dass die Patientin einen hohen Blutdruck hat, mit einem Wert von 168/98 mmHg. Weitere Befunde waren Hautverfärbungen in einem netzartigen Muster (Livedo reticularis), ein leicht spitzes Kinn, Aortenregurgitation und diffuse Bauchempfindlichkeit. Der Bauch der Patientin zeigte keine Anzeichen von Abwehrspannung, Steifheit oder hörbaren Geräuschen. Frühere Symptome von Desorientierung, verändertem Bewusstsein und Zittern wurden mit fokalen Anfällen mit eingeschränktem Bewusstsein in Verbindung gebracht.
+
+Bewertung: 
+Die primäre Bewertung deutet darauf hin, dass die linken monokularen transitorischen ischämischen Attacken (TIAs) der Patientin möglicherweise mit einer Niedrigfluss-Retinopathie in Zusammenhang stehen, angesichts der Sehsymptome und der schnellen Auflösung bei Augenschluss. Differenzialdiagnosen umfassen fokale Anfälle mit eingeschränktem Bewusstsein und migräneähnliche Episoden ohne typische Migränemerkmale. Die Familiengeschichte und die persönliche Krankengeschichte der Patientin deuten auf eine genetische Prädisposition für vaskuläre und neurologische Erkrankungen hin, die möglicherweise mit der AGS-Mutation in Verbindung stehen.
+
+Plan: 
+Der Behandlungsplan wird sich auf die Kontrolle des Bluthochdrucks durch geeignete Medikamentenanpassungen und Lebensstiländerungen konzentrieren, einschließlich Raucherentwöhnung und Reduzierung des Alkoholkonsums. Überweisungen an einen Neurologen zur weiteren Bewertung der Anfallsaktivität und an einen Genetiker zur Bewertung der Auswirkungen im Zusammenhang mit der AGS-Mutation werden empfohlen. Regelmäßige Nachuntersuchungen werden notwendig sein, um den Blutdruck der Patientin und die Wirksamkeit des Behandlungsplans zu überwachen. Der Patientin werden Informationen über die Anzeichen und Symptome von TIAs und die Bedeutung von Lebensstiländerungen gegeben.
+
+[Kopfzeile]
+Patienten-ID: DTxcL-sMet
+Arzt: Michael Huber
+Krankenschwester: Au7RaZcV
+Datum: 14.01.70
+Ort: Park
+
+[Fußzeile]
+Kontaktinformationen:
+Telefonnummer: (302)654-7517x296
+E-Mail: chaeube@microsoft.org
+
+Notfall-Kontaktinformationen:
+Name: Frieda Schäfer
+Beziehung: Journalistin, Rundfunk
+Telefonnummer: (302)654-7517x296
+
+Kontoinformationen:
+Kontonummer: 42479 YCmR
+Gesundheitsplan: vczz
+
+Informationen zum Gerät des Patienten:
+Geräte-ID: 920 785867
+
+Netzwerkinformationen:
+IP-Adresse: 7.26.9.100
+
+Fahrzeuginformationen:
+Fahrzeug-ID: AGE-330
+
+Sozialversicherungsnummer: 377-1595085-60
+Lizenznummer: Dm 195EHUE
+Biometrischer Identifikator: OzoAd intU
+Persönliche ID-Nummer: 42479 YCmR
+Faxnummer: 754-681-5015x69682
+
+Adresse des Patienten:
+Adresse: Frieda Schäfer, Pechelplatz 52 46, 2539 Thalwil, Schweiz
+Stadt: 9020 Klagenfurt
+Bundesland: 9
+Land: Belgien
+Postleitzahl: 2539
+
+Krankenhausinformationen:
+Krankenhausname: Photo ca
+Organisation: Sanchez-Kelley
+
+URL: ramsey.com"
+

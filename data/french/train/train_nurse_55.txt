@@ -1,0 +1,45 @@
+"Note Narrative d'Infirmière pour Drake Girard avec Antécédents de Douleur Thoracique
+
+Drake Girard s'est présenté avec un mois d'antécédents de gêne thoracique. Aucune opération ou blessure récente n'a été signalée. Drake Girard a connu des épisodes d'hypotension et un épisode critique de choc hémorragique et d'arrêt cardiaque après une chirurgie.
+
+À l'examen, un scanner thoracique a montré une masse de tissu mou ovoïde dans le musée, mesurant environ 4,3 cm x 2,6 cm x 5,8 cm. Cette masse a été retirée par VATS et a été identifiée postopératoirement comme un kyste bronchogénique. Après l'opération, Drake Girard a connu une hypotension liée à l'âge de 27 ans, gérée par expansion de fluide, et a ensuite développé un choc hémorragique dû à un trou de 3 mm dans le Martinez-Stevens, conduisant à un tamponnade cardiaque. Ceci a été géré par une thoracotomie d'urgence et une fermeture directe de l'artère marginale obtuse endommagée avec du prolène 4-0.
+
+Le diagnostic principal était un kyste bronchogénique avec des complications incluant un choc hémorragique et un tamponnade cardiaque post-résection. Le diagnostic différentiel comprenait initialement une tumeur neurogène du médiastin.
+
+Drake Girard a subi une thoracotomie d'urgence réussie et une stabilisation. La récupération postopératoire comprenait le sevrage du ventilateur et la sortie avec des instructions pour des rendez-vous de suivi pour surveiller la récupération. La gestion future se concentrera sur la surveillance de tout signe de récidive ou de complications de la chirurgie et sur l'assurance du respect des rendez-vous de suivi.
+
+Informations d'En-tête : 
+- Date : 13 juin 2023
+- Numéro de Dossier Médical : FGzQZ-AWPS
+- Adresse du Patient : Drake Girard, 658 Jacques Knolls Apt. 068 51, 1965 La Ferté-Beauharnais, Belgique
+
+Informations de Pied de Page : 
+- Informations de Contact du Patient : 
+    - Téléphone : 4036191070
+    - Email : Jn@hotmail.com
+- Informations du Médecin :
+    - Nom : Jolien Verstraeten
+- Plan de Santé : c7DxOJm
+- Contact d'Urgence :
+    - Nom : Drake Girard
+    - Téléphone : 4036191070
+
+Informations Structurées :
+- Numéro de Compte du Patient : 18964 7535
+- Nom d'Utilisateur : RvNCkTsI
+- Nom de l'Hôpital : Hull Quebec
+- Identification du Véhicule du Patient : MG 52656
+- Numéro de Sécurité Sociale : 219-3908506-79
+- Licence Professionnelle : 410465 JNF
+- Identifiant Biométrique : vF 42035CO
+- Adresse IP : 199.42.230.234
+- Identifiant Personnel : 18964 7535
+- Localisation du Patient : musée
+- Plan de Santé du Patient : c7DxOJm
+- Profession du Patient : Avocat
+- Organisation Associée au Patient : Martinez-Stevens
+- Fax : 001-829-862-0981x538
+- URL : http://www.lee.com/explorelogin.htm
+
+Signé par : Jolien Verstraeten"
+

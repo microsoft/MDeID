@@ -1,0 +1,47 @@
+"Dr. Lars Hendriks Notities
+--------------------------
+PATIËNT: Marie Christiaens
+ID: 4836 98276
+
+LEEFTIJD: 16
+
+KLACHTEN BIJ PRESENTATIE:
+- Loopstoornis
+- Microcefalie
+- Afsluitingsepisodes
+- Koortsstuipen
+- Slaapstoornissen
+- Ontwikkelingsachterstanden (motorische vaardigheden)
+- ADHD-achtig gedrag
+
+EERDERE INTERVENTIES:
+- Psycho-pedagogische interventie
+- Behandeling met methylfenidaat
+
+OBSERVATIES:
+Microcefalie bevestigd
+
+ONDERZOEKEN:
+- EEG: Normaal
+- MRI: Normale encefalonstructuur
+- Genetisch: 182 base deletie in C7 marker (bases 2475-2657). Geen veranderingen in genen LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8, PAX2
+
+BEOORDELING:
+- Microcefalie met bijbehorende ontwikkelings- en gedragsproblemen
+- Mogelijke genetische of metabole stoornissen
+- Prognose: Voorzichtig
+
+GEPLANDE ACTIES:
+- Doorgaan met psycho-pedagogische interventies
+- Behandeling met methylfenidaat voortzetten
+- Vervolg EEG (slaapproblemen)
+- Regelmatige ontwikkelingsbeoordelingen
+- Ouderlijke educatie over monitoring en behandelingstrouw
+- Volgende afspraak: 30 november 1991
+
+Ondertekend,
+Dr. Lars Hendriks
+Bryant-Ortiz
+4695232033
+rdriks@msf.org"
+

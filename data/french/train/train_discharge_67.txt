@@ -1,0 +1,71 @@
+# Résumé de sortie
+
+**Informations clés de sortie :**
+
+Patient : Amine Millet
+
+Numéro de dossier médical : CdSiR lOmf
+
+Médecin traitant : Lina Brunner
+
+**Disposition de sortie :** Domicile
+
+**Date d'admission :** 30 mars 1990
+
+**Date de sortie :** 30 mars 1990
+
+---
+
+**Raison de l'hospitalisation :**
+Amine Millet a été admis avec des symptômes de malaise thoracique et de transpiration excessive. Une évaluation précoce a pointé vers une hypercholestérolémie contribuant aux épisodes.
+
+---
+
+**Section Allergies et Intolérances**
+Un examen approfondi du profil de santé du patient ne montre aucune allergie ou intolérance connue aux médicaments ou aux aliments.
+
+---
+
+**Section Cours de l'hôpital**
+Au cours du séjour à l'hôpital, Amine Millet a reçu une supervision médicale et des interventions thérapeutiques pour gérer les problèmes liés à l'hypercholestérolémie. L'état de santé général du patient et les niveaux de cholestérol ont montré une amélioration significative.
+
+---
+
+**Section Diagnostic de sortie**
+Diagnostic final après le séjour à l'hôpital : Hypercholestérolémie contrôlée
+
+---
+
+**Section Consultations à l'hôpital**
+Pendant la période d'hospitalisation, Amine Millet a été examiné par un panel de spécialistes. Les recommandations du panel ont été incluses dans le plan de traitement.
+
+---
+
+**Section Procédures**
+Aucune intervention chirurgicale n'a été requise ou effectuée pendant le séjour à l'hôpital.
+
+---
+
+**Section Résultats**
+Les niveaux de cholestérol après traitement sont contrôlés et dans la plage normale.
+
+---
+
+**Section Plan de traitement**
+Après la sortie, il est recommandé au patient de suivre un régime faible en cholestérol et de faire de l'exercice régulièrement. Des contrôles réguliers du cholestérol et de l'état de santé général de Amine Millet sont conseillés.
+
+---
+
+**Section Médicaments de sortie**
+À la sortie, Amine Millet se voit prescrire un médicament visant à maintenir les niveaux de cholestérol dans les limites normales.
+
+---
+
+**Section Instructions de sortie de l'hôpital**
+Il est fortement conseillé à Amine Millet de respecter un régime faible en cholestérol, de faire de l'exercice régulièrement et de prendre le médicament prescrit.
+
+---
+
+Note : Ce résumé a été préparé par Lina Brunner, et il est basé sur le séjour à l'hôpital et le traitement de Amine Millet. Des suivis réguliers et des contrôles de santé sont essentiels pour assurer la santé et le bien-être continus du patient. En cas d'anomalies de santé, veuillez contacter immédiatement votre prestataire de soins de santé.
+
+[FIN DU RÉSUMÉ DE SORTIE]

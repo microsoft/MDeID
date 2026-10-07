@@ -1,0 +1,79 @@
+"Appunto di Infermieristica:
+
+---------------------------------------------
+| DETTAGLI DEL PAZIENTE:                          |
+|                                          |
+| Lisa Fischer                                |
+| Indirizzo: Lisa Fischer, 224 Logan Track 36, 5682 Castelvetro Di Modena, Svizzera                       |
+| Età: 55                               |
+| Contatto: 6332808645                         |
+| Email: ebri@hotmail.com                           |
+| Medico di base: Stefania Fabbri                 | 
+| Ospedale: Burghölzli                     |
+| Piano Sanitario: QH6                |
+| Contatto di Emergenza: 6332808645               |
+---------------------------------------------
+
+\ud83d\udca2 Reclamo: 
+[dolore_stomaco_post-pasto]
+
+\ud83d\udcdd Osservazioni: 
+- Segni di disagio visibili 
+- Tenderness in regione epigastrica 
+- Livello di dolore: 7/10 
+
+\ud83c\udf21\ufe0f Vitali: 
+- Pressione sanguigna: 140/85 
+- Pulsazioni: 95 bpm
+- Temperatura: 98.6F 
+
+\ud83d\udc8a Trattamento Fornito:
+Somministrati Antiacidi (nyrlzw-494)
+
+\ud83d\udccc Nota di Progresso: 
+13 agosto 1976 - Notato miglioramento post-somministrazione di antiacidi
+
+\ud83d\udcbc Professione: Responsabile magazzino
+
+---------------------------------------------
+| DETTAGLI ATTREZZATURA MEDICA:               |
+|                                         |
+| Dispositivo: mf-PEhfspO                         |
+| Account: qdL DLIzqZ                       |
+| Licenza: 408-YtVyii                       |
+---------------------------------------------
+
+\ud83d\udcde Informazioni di Contatto: 
+- Casa: 6332808645 
+- Lavoro: 6332808645 
+- Cellulare: 6332808645 
+
+\ud83d\udcec Indirizzo di Spedizione: Lisa Fischer, 224 Logan Track 36, 5682 Castelvetro Di Modena, Svizzera
+- Codice Postale: 5682
+
+\ud83d\udcbb Credenziali Online: 
+- Nome utente: ZE1If5WT 
+- Indirizzo IP: 113.81.56.212
+
+\ud83c\udfe2 Organizzazione: Decker Ltd
+\ud835\ude82\ud835\ude82\ud835\ude7d: UMFMEH77K51T257U
+\ud83c\udd94 ID: qdL DLIzqZ
+
+\ud83d\ude98 Veicolo: 
+- ID Veicolo: M44 9ZL
+
+\ud83d\udd10 Identificatore Biometrico: 
+- Hash dell'impronta digitale: CvP-OwkTWK
+
+---------------------------------------------
+| INFORMAZIONI EXTRA                        |
+|                                         |
+| Città: Cervignano Del Friuli                             |
+| Stato: VA                           |
+| Paese: Italia                       |
+| Fax: 257-310-9035x6930                               |
+| URL: johnson-brown.morales.com                               |
+---------------------------------------------
+
+**Soggetto a Riservatezza - NON CONDIVIDERE **"
+

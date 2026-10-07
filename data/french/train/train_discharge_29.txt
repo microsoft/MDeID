@@ -1,0 +1,47 @@
+RÉSUMÉ DE SORTIE
+
+# EN-TÊTE 
+Disposition de sortie : Soins à domicile
+
+# RAISON DE L'HOSPITALISATION
+Riley Smith a été admis en raison de la présence d'un ulcère de décubitus.
+
+# PROCÉDURES EFFECTUÉES
+Le débridement de l'ulcère de décubitus a été effectué sur Riley Smith.
+
+# SOINS, TRAITEMENTS ET SERVICES FOURNIS
+Riley Smith a subi des pansements quotidiens, une thérapie antibiotique et une gestion de la douleur.
+
+# ÉTAT ET DISPOSITION À LA SORTIE
+Au moment de la sortie, l'ulcère de Riley Smith montrait des signes d'amélioration, mais nécessite toujours des soins de plaie à domicile. Le patient a également présenté des symptômes tels qu'un souffle systolique et une fragilité, qui ont été gérés pendant le séjour à l'hôpital. Avant la sortie, Riley Smith a montré une augmentation temporaire de la température qui a été gérée avec succès avec des antipyrétiques.
+
+# INFORMATIONS FOURNIES AU PATIENT ET À LA FAMILLE
+Une éducation a été fournie à Riley Smith et à sa famille sur la façon de prendre correctement soin de l'ulcère à domicile, les signes d'infection à surveiller et l'importance de tourner et de repositionner régulièrement pour prévenir d'autres ulcères.
+
+# DISPOSITIONS POUR LES SOINS DE SUIVI
+Il est conseillé à Riley Smith de faire un suivi avec Daniel Meyer après la sortie pour un contrôle de la plaie et la gestion des causes sous-jacentes du développement de l'ulcère de décubitus. Un service de soins à domicile pourrait être nécessaire, en fonction de la progression de la guérison de l'ulcère.
+
+# SECTIONS SUPPLÉMENTAIRES
+**Section Allergies et Intolérances :**
+Aucune allergie médicamenteuse connue.
+
+**Section Diagnostic de Sortie :**
+Le diagnostic de sortie comprend un ulcère de décubitus, un souffle systolique et une fragilité.
+
+**Section Plan de Traitement :**
+Le plan après la sortie implique la continuation de la thérapie antibiotique, un régime régulier de soins de plaie, des visites de suivi au service ambulatoire et des modifications du mode de vie pour prévenir la récurrence des ulcères de décubitus.
+
+**Section Consultations à l'Hôpital :**
+Consulté avec le spécialiste des soins des plaies et le cardiologue pendant le cours du traitement.
+
+**Section Procédures :**
+A subi un débridement de l'ulcère.
+
+**Section Résultats :**
+La plaie a montré une amélioration significative après le débridement.
+
+Veuillez noter que ce résumé de sortie doit accompagner le patient lors des premières visites de suivi pour guider les soins ultérieurs.
+
+[Fin du Résumé]
+
+(CODE DU DOCUMENT : 57276-twTy)

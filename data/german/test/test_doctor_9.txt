@@ -1,0 +1,48 @@
+"Arzt Kratz Notiz
+
+Patient: Kobe De Clercq
+ID: wYXBkz-tiL
+Alter: 4
+
+Vorgestellte Symptome:
+- Müdigkeit (1 Woche)
+- Arthralgien (1 Woche)
+- Myalgien (1 Woche)
+
+Nicht berichtet:
+- Gewichtsverlust
+- Fieber
+- Blutung
+- Prellungen
+- Atemnot
+- Harnsymptome
+
+Rauchen, Drogenkonsum, Reiseanamnese, HIV-Risikofaktoren: Neg
+Familienanamnese: Nicht beitragend außer Sichelzellmerkmal
+Medizinische Vorgeschichte: Träger des Sichelzellmerkmals
+
+Erstbewertung im Wellcome Trust Centre:
+- Anämie (Hgb: 11 g/dL)
+- Thrombozytopenie (Plt: 46.000/uL)
+- Akutes Nierenversagen (Cr: 1,33 mg/dL)
+- Erhöhtes LDH (968 IU/L)
+- Vermindertes Haptoglobin (15 mg/dL)
+- Schistocyten auf peripherem Blutausstrich
+- WBC: 4,1/uL
+- K: 4,1 mmol/L
+- P: 6,6 mg/dL
+- Ca: 9,8 mg/dL
+- Erhöhtes Bilirubin (2 mg/dL)
+
+Behandlung: Begonnen mit Prednison (1 mg/kg) und täglichem Plasmaaustausch im Wellcome Trust Centre
+Ergebnis: Keine Verbesserung beobachtet
+
+Vermutliche Diagnose: Thrombotisch-thrombozytopenische Purpura (TTP)
+Differentialdiagnose: Mikroangiopathische hämolytische Anämie, Komplikationen im Zusammenhang mit dem Sichelzellmerkmal
+
+Plan: 
+Fortsetzung der aktuellen Behandlung im Wellcome Trust Centre, Überwachung der Reaktion auf die Behandlung und Anpassung nach Bedarf auf der Grundlage der ADAMTS13-Ergebnisse und des klinischen Verlaufs. Aufklärung von Kobe De Clercq und der Familie von Kobe De Clercq über TTP, seine Auswirkungen und die Wichtigkeit der Einhaltung des Behandlungsplans. Regelmäßige Nachsorgetermine und Laborkontrollen zur Beurteilung der Behandlungseffizienz und zum Management von auftretenden Komplikationen planen.
+
+Arzt: Tom Verstraete
+Lizenz: vL-972393Z"
+

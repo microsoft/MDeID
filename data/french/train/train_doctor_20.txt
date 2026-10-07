@@ -1,0 +1,30 @@
+"Note de grattage du médecin
+
+Claire Johnson
+
+Nick De Smedt 090673 959
+63, a subi une gastrectomie, une lymphadénectomie, la pose d'une endoprothèse œsophagienne le 5 juillet 2022, un carcinome gastrique. Précédemment traité à l'amoxicilline, passage à la pipéracilline/tazobactam en raison de symptômes persistants, de marqueurs d'inflammation élevés.
+
+Signes vitaux à l'admission :
+Temp : 38.3\u00b0C
+HR : 85 bpm
+BP : 110/75 mmHg
+Observations : Souffle systolique de grade 2/6 à l'apex, pas de lésions de Janeway. 
+
+Rapports de laboratoire :
+Hb : 9.0 g/dl, 
+MCV : 85.0 fl, 
+WBC : 8,960/\u00b5l, 
+Compte des plaquettes : 123,000/\u00b5l, 
+CRP : 12.6 mg/dl, 
+LDH : 310 U/l. 
+Cultures de sang : Espèces de Lactobacillus. 
+
+Rapport 18208 NCRM : Changements dégénératifs de la valve mitrale, régurgitation modérée, petite végétation d'endocardite.
+
+Diagnostic : Endocardite infectieuse, bactériémie à espèces de Lactobacillus. Différentiels : Complications post-chirurgicales, infection systémique persistante. Le pronostic dépend de la réponse au traitement antibiotique en cours, de la gestion des problèmes cardiaques.
+
+Actions : Surveiller l'état clinique, les paramètres de laboratoire. Maintenir le régime antibiotique, ajuster selon les résultats microbiologiques, la réponse clinique. Planifier des rendez-vous de suivi, une réévaluation clinique, surveiller l'efficacité du traitement. L'éducation du patient sur l'adhésion au traitement, l'importance du suivi est critique. Consultation avec Claire Johnson pour la gestion de la maladie de la valve mitrale, les implications potentielles à long terme sont prises en compte. 
+
+Claire Johnson 58008 sdnr"
+

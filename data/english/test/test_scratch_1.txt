@@ -1,0 +1,86 @@
+"**Scratch Note: Patient Condition Update**
+
+---
+
+Patient: Roy Williamson
+
+Age: 13
+
+---
+
+1. Complaint: Severe pain, stomach region
+2. Observations: Sweating, fever symptoms 
+3. Vital signs: Temp (F): 100.4, BP: 120/80, HR: 88, RR: 20
+4. Possible: Typhoid diagnosis
+
+---
+
+Next Steps:
+
+1. Blood test - to confirm typhoid
+2. IV fluids - rehydration
+3. Medication - antibiotics for typhoid
+
+---
+
+Patient Info:
+
+- Medical Record: KmfPE hfsp
+- Account Number: 88 lZXWksb
+- ID Number: 88 lZXWksb
+
+---
+
+Doctor Info:
+
+- Doctor Name: Troy Stanton
+- Email: Stay@yandex.com
+
+---
+
+Hospital Info:
+
+- Hospital Name: Paris embassy
+- Location: airport
+
+---
+
+Emergency Contact:
+
+- Contact Name: Roy Williamson
+- Phone Number: 001-648-887-2144
+
+---
+
+Device Info:
+
+- Device ID: 508576 808
+- IP Address: 168.135.234.8
+
+---
+
+Insurance Info:
+
+- Health Plan: 77I
+- Plan Provider: Nash, Jackson and Webster
+
+---
+
+License Info:
+
+- License Number: 16314 fCvP
+
+---
+
+Other Info:
+
+- Social Security Number: 317-28-9063
+- Vehicle Plate: 7O WB063
+- Username: Ivmd3bZN
+- Biometric ID: 18850 489x
+- Fax: +1-208-284-2844x2246
+
+---
+
+Please note, these are preliminary observations and actions. Further diagnosis and treatment to be determined post lab results."
+

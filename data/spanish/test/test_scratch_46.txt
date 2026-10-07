@@ -1,0 +1,78 @@
+"```
+-------------------------------------------------
+INFORMACIÓN DEL PACIENTE
+-------------------------------------------------
+Paciente: Albert Calvo
+Edad: 64
+Historial Médico: SvjZ 8389w
+-------------------------------------------------
+
+SIGNOS VITALES
+
+Presión arterial: 125/80
+Pulso: 85
+Temperatura: 37.2C
+Frecuencia respiratoria: 18/min
+Saturación de O2: 98%
+
+-------------------------------------------------
+NOTAS
+-------------------------------------------------
+
+- Sed aumentada Albert Calvo
+- Micción frecuente
+- Historial de diabetes en la familia 620 05YgOG
+- eGFR >60
+- Monitor de nivel de glucosa zBNgj zqYu
+- IMC 25.0 
+
+-------------------------------------------------
+DATOS CLÍNICOS 
+-------------------------------------------------
+
+Glucosa en sangre hoy: 7.9 mmol/L
+
+-------------------------------------------------
+PLANES Y TAREAS
+-------------------------------------------------
+
+- Contactar a Jazmín Núñez para consulta
+- Marcar 889-790-8966 para referencia de dietista
+- Enviar correo electrónico a Nzmín@yandex.com sobre seguimiento
+- Seguir el enlace mccann.steele-moore.com para recursos de autocontrol de la diabetes
+
+-------------------------------------------------
+-------------------------------------------------
+CONTACTO DE EMERGENCIA 
+-------------------------------------------------
+
+- Nombre de contacto: Albert Calvo
+- Dirección: Albert Calvo, Circuito Sanches 892 703, 117, 3783 Tangancicuaro, Spain
+- Teléfono: 889-790-8966
+- Correo electrónico: Nzmín@yandex.com
+
+-------------------------------------------------
+SEGURO MÉDICO
+-------------------------------------------------
+
+- Proveedor: r3cF
+- Número de cuenta: Vbfvt 01PI
+- Detalles del plan en: mccann.steele-moore.com
+
+-------------------------------------------------
+INFORMACIÓN ADICIONAL
+-------------------------------------------------
+
+- Dirección IP: 163.222.187.198
+- Número de seguridad social: 301-69-1953
+- Ciudad de residencia: Tangancicuaro
+- Código postal: 3783
+- Estado: 29
+- Organización: Donovan, Gilbert and Grant
+- Profesión: Immunólogo
+- Número de licencia: 8713-31Tay
+- Identificador de vehículo: 250 OEI
+
+-------------------------------------------------
+```"
+

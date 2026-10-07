@@ -1,0 +1,32 @@
+"SOAP Note
+
+S: The patient Claire Johnson, with a history of acquired FX deficiency from AL amyloidosis, PAF, metastatic lung adenocarcinoma on erlotinib, hypertrophic cardiomyopathy, hypertension, and type 2 diabetes mellitus, reports feeling okay but has experienced issues including self-limiting epistaxis and easy bruising in Feb. The patient recalls previous lab results and medical procedures.
+
+O: Previous lab results indicated a PT of 12.4 seconds, INR of 1.2, aPTT of 38 seconds, alkaline phosphatase at 160 U/L, creatinine at 1.16 mg/dL, and proteinuria with 882 mg/24 h. Abdominal ultrasound showed hepatomegaly with the right lobe measuring 21 cm. Serum and urine electrophoreses indicated the presence of immunoglobulin G-lambda. Liver biopsy revealed extensive amyloid deposition with lambda light chain presence. Bone marrow core biopsy showed extensive amyloid deposition, positive Congo red staining, and positive fluorescence in situ hybridization for lambda light chains. Decreased FX coagulation activity was noted at 45% with a reference range of 70%-150%. In Feb, coagulation profile showed PT of 16.3 seconds, aPTT of 33 seconds, and FX activity of 34%.
+
+A: The primary diagnosis is acquired FX deficiency secondary to AL amyloidosis. The patient's history of recurrent lung adenocarcinoma and other comorbidities complicate the management. Differential diagnoses include other causes of abnormal coagulation unrelated to amyloidosis. The prognosis is guarded due to the complexity of the underlying conditions and the recurrent nature of the lung cancer.
+
+P: Continue with the current regimen of melphalan and dexamethasone chemotherapy. Regular monitoring of coagulation profiles and FX activity is essential. Educate the patient on the importance of reporting new symptoms or concerns promptly. Schedule routine follow-up appointments at Magyar to assess treatment efficacy and manage any complications. Referral to a hematologist Phoenix Hedges for further management of FX deficiency and an oncologist Phoenix Hedges for ongoing cancer treatment is recommended. Ensure compliance with all prescribed medications and follow-up schedules. 
+
+Additional Notes:
+- Medical Record Number: CAttHi kqD
+- Patient Account Number: TqTF-EPdvq
+- Device Serial Number: Seba TEOXH
+- Username on Patient Portal: irJohns
+- Vehicle Identifier: AN0 B5L
+- Social Security Number: 631-92-6948
+- Professional License Identifier: 01-nhhFxnR
+- Biometric Identifier: LPims 83ft
+- IP Address: 104.139.79.70
+- Personal Identifier: TqTF-EPdvq
+- Age of Patient: 8-weeks
+- Patient Address: Claire Johnson, 134 Endothoracic, Leuch, 72 0947, United States
+- Other Locations: school
+- Health Plan: uSBer3Eu
+- Patient's Occupation: Radio broadcast assistant
+- Affiliated Organization: Vincent Inc
+- Email Address: dx@unhcr.org
+- Contact Number: 739-956-3086x46388
+- Website: http://www.ellis-burton.info/categories/tagabout.htm
+- Fax Number: 890-897-7486x39649"
+

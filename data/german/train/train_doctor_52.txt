@@ -1,0 +1,46 @@
+"Arzt Kratz Notiz
+
+Patient: Luise Haas
+Alter: 55
+Arzt: Sascha Koller
+Krankenhaus: Hughes New South Wales
+Stadt: Calw
+Bundesland: 4
+Telefon: +1-343-241-3952
+Email: Sar@yandex.com
+Medizinische Akte: VpEHdC frJ
+Konto: rh-79plDko
+Lizenz: 40726 uzZt
+
+Vitalwerte & Beobachtungen:
+- Harnverhalt, beidseitige Schwäche der unteren Gliedmaßen, Parästhesie
+- Beginn: ~2 Wochen zuvor
+- Zoster-Ausschlag, rechter unterer Rücken, erschien ~10 Tage zuvor
+- Neurologisch: Schwere Schwäche der unteren Gliedmaßen (MRC-Grad 0/5), abgeschaffte Reflexe (Knöchel, Knie), positives Babinski-Zeichen (beide Seiten), vermindertes Tastgefühl (T2-Niveau)
+- Bildgebung: Spinale MRT -> Hyperintense T2-Läsion, T2-T11, Gadolinium-Verstärkung bei T7-T8
+- Labor: WBC erhöht (14100, 72% PMN), IgG VZV positiv, IgM VZV negativ
+- CSF: Lymphozytäre Pleozytose (94 Zellen/uL), VZV IgG erhöht (0,88), VZV IgG Index hoch (14)
+
+Bewertung:
+Verdacht auf primäre Diagnose: VZV-bezogene Myelitis (basierend auf spinalen Läsionen, CSF-Befunden)
+Differentialdiagnosen: Andere virale Myelitiden (ausgeschlossen - negative Serologien/Kulturen)
+
+Plan:
+- Start IV Aciclovir
+- Überwachung auf Wirksamkeit/Nebenwirkungen
+- Schmerzmanagement, Harnverhalt (Medikamente, Katheterisierung bei Bedarf) adressieren
+- Physiotherapie empfehlen (Atrophie verhindern, Mobilität verbessern)
+- Patientenaufklärung (Krankheit, Medikamentenadhärenz)
+- Nachsorgetermine vereinbaren
+- Überweisung: Neurologe (laufende Betreuung), Urologe (Harnsymptome)
+
+Zusätzliche Anmerkungen:
+- Patient wurde über Überweisungen an Davis, Scott und Martinez informiert
+- Keine bekannten Allergien
+- Keine vorherigen Operationen
+- Kein bekannter sqlxn
+- Weitere Informationen finden Sie unter https://www.garza.org/postspost.htm
+- Beruf des Patienten: Homöopath
+
+Sascha Koller"
+

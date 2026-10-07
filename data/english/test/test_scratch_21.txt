@@ -1,0 +1,62 @@
+"\ud83c\udfe5Nursing Scratch Note \ud83c\udfe5
+
+----------------------------------
+**Patient Context**:
+Amanda Crawford reports difficulty breathing, continuous coughing. 
+
+**Possible Diagnosis**: Bronchial Asthma
+----------------------------------
+
+**Vital Signs & Observations**
+
+BPM: 120
+Resp Rate: 22
+Temp: 98.6f
+BP: 130/80
+O2 Sat: 94%
+Wheezing on exhalation noted
+
+----------------------------------
+**Treatments Administered**:
+Inhaler provided (107 hXpVSL), 
+Bronchodilator Nebulization done (dLgAp 5443)
+
+----------------------------------
+**Next Steps**:
+Administer Corticosteroids if necessary. 
+Monitor vitals closely. 
+Inform Richard Sandoval of patient response to treatment. 
+
+----------------------------------
+**Important Identifiers**
+Crawfan
+Account Number: 0555-GeDOv
+Medical Record Number: dLgAp 5443
+
+----------------------------------
+**Emergency Contact Info**
+Phone: 421.866.3401
+Address: Amanda Crawford, 192 Proliferously, Hallowedness 10 0331, Australia
+
+----------------------------------
+**Other Info**
+Checked in from: gym
+Admitted to: Holland 's
+Health Plan: 4LX
+Organization: Cole-Ryan
+Profession: Barrister's clerk
+Vehicle: 652 ZH1
+License: aoye AmKdh
+Social Security: 928-16-3102
+Bioid: IhAfH 8486
+IP Address: 210.217.192.168
+ID Number: 0555-GeDOv
+Admitted by: Richard Sandoval
+
+----------------------------------
+**Date of Note**: Jul,15,2003
+**Note Prepared By**: Crawfan
+----------------------------------
+
+*The above note is intended for quick reference and does not constitute a complete patient history or treatment protocol. Please refer to the detailed electronic health record for comprehensive information.*"
+

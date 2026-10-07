@@ -1,0 +1,14 @@
+T1	PATIENT 62 76	Gabriel Suárez
+T2	PATIENT 887 901	Gabriel Suárez
+T3	PATIENT 1281 1295	Gabriel Suárez
+T4	PATIENT 1630 1644	Gabriel Suárez
+T5	PATIENT 1742 1756	Gabriel Suárez
+T6	PATIENT 2210 2224	Gabriel Suárez
+T7	PROFESSION 2231 2252	ingeniero de software
+T8	PROFESSION 2257 2286	Gerente de centro de llamadas
+T9	PATIENT 2649 2663	Gabriel Suárez
+T10	PATIENT 2808 2822	Gabriel Suárez
+T11	DOCTOR 3177 3192	Virginia Bernal
+T12	PATIENT 3339 3353	Gabriel Suárez
+T13	MEDICALRECORD 3369 3379	66942-HutL
+T14	DOCTOR 3427 3442	Virginia Bernal

@@ -1,0 +1,37 @@
+"Nota de Rascunho del Doctor:
+
+-----------------------------------
+Dr. Badruddoza Mia
+Haley PLC
+
+Juan Pablo Castillo - 977528 mcb - 51
+
+OBSERVACIONES:
+Signos vitales:
+Temp: 36.5\u00b0C
+HR: 90 bpm
+RR: 22/min
+BP: 108/61 mm Hg
+O2 Sat: 100% en 40% FiO2
+
+Síntomas: AMS(1 semana), fiebre, dolor de cuello, náuseas, vómitos. Sin dolor abdominal, dolor de cabeza, cambios visuales, debilidad focal, dolor en el pecho, disnea. No fuma, alcohol, uso de drogas ilícitas. Se reportan actividades nocturnas, somnolencia intermitente. 
+
+Examen físico: Intubado, ingresado en la UCI. Signo de Brudzinski positivo, rigidez en el cuello, pupilas iguales y reactivas a la luz, respuesta a estímulos dolorosos. Pulmones claros, exámenes cardíacos y abdominales sin particularidades. 
+
+Resultados de laboratorio: WBC 19,900/mm3 (81% neutrófilos), HGB 11.8 g/dL, Plaquetas 170,000/\u00b5L, Creatinina 0.5 mg/dL, Bilirrubina 0.6 mg/dL, AST 49 IU/L, ALT 81 IU/L, Fosfatasa alcalina.
+
+EVALUACIÓN:
+1. Meningitis bacteriana aguda - Fiebre, rigidez en el cuello, AMS, hallazgos de laboratorio de apoyo incluyendo leucocitosis con neutrofilia.
+2. Diferenciales - Encefalitis viral, otras infecciones del SNC.
+
+PLAN:
+1. Continuar monitoreo en UCI, cuidado de apoyo.
+2. Iniciar terapia antibiótica empírica - Dirigida a patógenos comunes que causan meningitis.
+3. Monitorear de cerca el estado neurológico y los signos vitales.
+4. Educación - Juan Pablo Castillo, familia sobre la condición, plan de tratamiento, resultados esperados.
+5. Consultas - Neurológicas, Considerar enfermedad infecciosa si es necesario.
+6. Cuidado de seguimiento - Discutir la importancia, manejo a largo plazo.
+
+Badruddoza Mia
+-----------------------------------"
+

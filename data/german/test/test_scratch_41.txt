@@ -1,0 +1,66 @@
+"**Krankenpflege-Kratznotiz**
+
+---
+
+**Patienteninformation**:
+- Patient: Manuela Schmidt
+- Alter: 60
+- Krankenakte: lbYUu-6247
+- Registriert bei: Marquez Inc
+- Adresse: Manuela Schmidt, Hellwigallee 880 109, 0658 Rheinmünster, Belgien
+
+**Vitalwerte**:
+- BP: 120/80
+- Temp: 98.6F
+- Puls: 80 BPM
+- Atemzüge: 16/Minute
+
+---
+
+**Notfallkontakt**:
+- Name: Manuela Schmidt
+- Telefon: 359-818-5173x42116
+- Beziehung: ...
+
+**Versicherungsinformationen**:
+- Gesundheitsplan: 2Efl27Hr
+- Konto: 815939 951
+
+---
+
+**Beobachtungen**:
+- Nackenbeschwerden, Bewegungseinschränkung
+- Halswirbelsäule - degenerative Veränderungen festgestellt
+- Mögliche zervikale Spondylose
+
+**Behandlung**:
+- Physiotherapie-Sitzungen - empfohlen
+- Schmerzmittel - verabreicht
+
+---
+
+**Arztinformationen**:
+- Behandelnder Arzt: Sina Schumacher
+
+**Interaktionen**:
+- E-Mail: amac@yahoo.com
+- Kontakt unter: http://richmond-carroll.net/postsauthor.php
+
+**Geräteinformationen**:
+- Gerät: 224421 ePN
+
+---
+
+**Zusätzliche Informationen**:
+- Sozialversicherung: 044-3754332-82
+- Lizenz: ZsjA sfRtB
+- Biometrische ID: 284254 NqZ
+- IP-Adresse: 147.233.229.93
+- Fahrzeug: CB9 B1C
+
+--- 
+
+**Unterschrift**
+- Krankenschwester: ...
+- Datum: 23.03.1972"
+

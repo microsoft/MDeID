@@ -1,0 +1,26 @@
+"Note du Docteur Scratch :
+
+P: Laura Wyss, 11 Male, inconfort lombaire, faiblesse des membres inférieurs après une légère infection des voies respiratoires supérieures. Le traitement initial pour une suspicion d'arthrite transitoire des hanches n'a montré aucune amélioration. 
+Jonah Brown: \"Thérapie anti-inflammatoire inefficace, la douleur s'est intensifiée, le patient ne peut pas marcher\"
+
+O: Pas d'effusion articulaire, échographie de la hanche
+Radiographie de la colonne vertébrale : légère réduction de l'épaisseur du soma L5
+IRM : Signaux post-amélioration T1 en hausse dans l'anulus L4-L5, les plateaux vertébraux de L4 & L5, les tissus mous adjacents, zone ostéolytique du pédoncule L5. 
+Sang : Taux de sédimentation des érythrocytes élevé (77 mm/h), protéine C-réactive élevée (2.17 mg/dL), numération leucocytaire normale, concentration sérique de procalcitonine normale, test Quantiferon TB-gold normal. 
+Leucopénie avec neutropénie sévère après 3 semaines de traitement (numération leucocytaire à 5410/mm3).
+Jonah Brown: \"Les résultats de l'IRM et des tests sanguins indiquent une spondylodiscite avec ostéomyélite\"
+
+A: Diagnostic principal : Spondylodiscite et ostéomyélite. 
+Diagnostic différentiel initial : Arthrite transitoire des hanches.
+Complication : Leucopénie avec neutropénie sévère.
+Jonah Brown: \"Complication observée - leucopénie avec neutropénie sévère\"
+
+P: Thérapie initiée avec du méropénème intraveineux (NXcV 24305) (100 mg/kg/jour en trois doses) et de la vancomycine (NXcV 24305) (40 mg/kg/jour en trois doses). 
+Traitement anti-inflammatoire continué pendant la première semaine. 
+Plan : Surveiller de près l'évolution du patient, ajuster le traitement si nécessaire, spécifiquement pour la leucopénie avec neutropénie sévère. 
+Des suivis réguliers et des tests sanguins sont prévus à Woodfield 
+Jonah Brown: \"Surveillance rapprochée prévue, suivis réguliers à Woodfield, attention à la leucopénie avec neutropénie sévère\"
+
+Jonah Brown - Arboriculteur 
+"
+

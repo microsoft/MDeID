@@ -1,0 +1,39 @@
+"Nota Narrativa de Enfermagem para Paciente com Meningite e Sepse
+
+Subjetivo:
+Paciente Afonso Antunes relatou sentir dores de cabeça, fadiga, febre, náusea, sonolência, confusão, rigidez no pescoço e sinal de Kernig positivo desde um tempo não revelado. Os sintomas escalaram para incluir sinais de meningite e, posteriormente, sepse sanguínea. O paciente Afonso Antunes foi inicialmente tratado com Amoxicilina, Paracetamol e solução de lactato de Ringer, seguido de transferência para uma unidade especializada para tratamento adicional.
+
+Objetivo:
+Na admissão ao Vrouwekerk, o paciente foi diagnosticado com meningite e sepse e tratado com 1 g de ceftriaxona quatro vezes ao dia. A análise do líquido cefalorraquidiano confirmou N. meningitidis, especificamente um novo tipo de sequência ST 13074, serogrupo B. Sinais vitais e outros dados objetivos específicos da apresentação inicial não são fornecidos.
+
+Avaliação:
+O diagnóstico principal é meningite e sepse devido a N. meningitidis serogrupo B, ST 13074. A condição do paciente Afonso Antunes era grave, exigindo tratamento imediato e intensivo, incluindo antibióticos e cuidados de suporte. A identificação de um novo tipo de sequência indica uma cepa única, potencialmente afetando a eficácia do tratamento e o monitoramento da saúde pública.
+
+Plano:
+O plano é continuar monitorando a saúde do paciente para qualquer recorrência de sintomas ou novos problemas de saúde. É recomendado garantir que as consultas de acompanhamento estejam agendadas, particularmente com especialistas em doenças infecciosas para avaliação e gerenciamento adicional. A educação do paciente sobre sinais de possíveis complicações e a importância da adesão aos tratamentos prescritos é vital. Encorajar o paciente a manter a hidratação, descanso e uma dieta equilibrada para apoiar a recuperação.
+
+-------------------------------------------------------------------------------------------------
+
+Assinatura da Enfermeira: tuneso
+Número do Prontuário Médico: 990-7410fQ
+Número da Conta do Paciente: Ns-93TxUvX
+Identificador do Dispositivo do Paciente: 54 23703YA
+Identificador do Veículo do Paciente: 280 2OK
+Número do Seguro Social do Paciente: 435.541.021-08
+Número da Licença do Paciente: ontQHD HnG
+Identificador Biométrico do Paciente: MkU ElRqUf
+Endereço IP do Paciente: 110.47.178.203
+Identificador Pessoal do Paciente: Ns-93TxUvX
+Idade do Paciente: 50
+Endereço do Paciente: Afonso Antunes, Praça do Dr. António Macedo, 2 102, Ethmoiditis, São Borja - 42, QVDUIOUU, Brasil
+Localização Atual do Paciente: cafeteria
+Plano de Saúde do Paciente: eUvKhTn R9JhsDN KTeOnG wUuw
+Profissão do Paciente: Cientista de dados
+Organização do Paciente: Haas, English and Stanley
+Data do Documento: 2 de setembro de 2003
+Nome do Médico: Melissa Martins
+Email do Paciente: ara@unhcr.org
+Número de Telefone do Paciente: (513)672-7247
+URL do Perfil do Paciente: http://watkins-aguirre.com/tags/wp-contentcategory.php
+Número de Fax do Paciente: 970-947-7008"
+

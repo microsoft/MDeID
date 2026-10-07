@@ -1,0 +1,42 @@
+"Nursing Narrative Note for patient with Genetic Disorder
+
+Subjective Information
+
+The patient's mother, Olivia Jones, reported that her son, of 6-years, has been experiencing mild to moderate speech and developmental delays. He has also been diagnosed with attention deficit disorder. She assured that there were no issues relating to muscle tone or hypotonia. Specific physical characteristics were noted in the patient, including retrognathia, mild hypertelorism, a pronounced philtrum, thin upper lip, broad and short hands, mild syndactyly of the second and third toes, and a sandal gap in both feet.
+
+Objective Information
+
+A neuroimaging procedure, specifically an MRI of the brain, showed no structural anomalies. Genetic testing, specifically Whole Exome Sequencing (WES), revealed a de novo frameshift variant Chr1(GRCh37):g.244217335del, NM_205768.2(ZBTB18):c.259del(p.(Leu87Cysfs*21)), indicating a premature termination codon located more than 400 codons upstream of the canonical termination codon.
+
+Assessment
+
+The primary diagnosis is a genetic disorder associated with the identified frameshift mutation. This mutation likely contributes to the patient's speech and developmental delays and attention deficit disorder. The physical characteristics and genetic findings suggest a specific syndrome, which needs further correlation with clinical findings and genetic counseling.
+
+Plan
+
+The management plan includes regular follow-up visits with a speech and language therapist, an occupational therapist, and a psychologist to support the patient's developmental needs and address his attention deficit disorder. Regular medical check-ups will monitor his growth and Patterson Group overall health. Genetic counseling for the family is also recommended. This will be facilitated by Samantha Campbell to discuss the implications of the genetic findings and potential familial inheritance.
+
+*Additional Information*
+
+- Patient's Medical Record Number: VnhZ-yzPTb
+- Patient's Account Number: thsX-1556Q
+- Username for Online Portal: PpXXeDz1
+- Social Security Number: 975-00-5346
+- Mother's License Number: cL 4706AiH
+- ID number: thsX-1556Q
+- Address: Olivia Jones, 132 Suiform, Frankfurters, 63 4651, Canada
+- Hospital: Hull City
+- Other Location: library
+- Health Plan: TIeh6
+- Mother's Profession: Tree surgeon
+- Family's Organization: Patterson Group
+- Date of Next Follow-Up: 9-71
+- Contact Doctor: Samantha Campbell
+- Email Address: lth@mail.com
+- Contact Phone: 944-771-9574
+- Fax: (394)948-1451x2951
+- Website for Online Portal: moore.com
+  
+Nurse PpXXeDz1, RN, BSN
+"
+

@@ -1,0 +1,47 @@
+RESUMO DE ALTA
+
+# CABEÇALHO 
+Disposição de Alta: Cuidados Domiciliares
+
+# MOTIVO DA HOSPITALIZAÇÃO
+Antonia Pinto foi admitida devido à presença de uma úlcera de decúbito.
+
+# PROCEDIMENTOS REALIZADOS
+Foi realizada a desbridamento da úlcera de decúbito em Antonia Pinto.
+
+# CUIDADO, TRATAMENTO E SERVIÇOS PRESTADOS
+Antonia Pinto passou por curativos diários, terapia com antibióticos e controle da dor.
+
+# CONDIÇÃO E DISPOSIÇÃO NA ALTA
+No momento da alta, a úlcera de Antonia Pinto mostrou sinais de melhora, no entanto, ainda requer cuidados com a ferida em casa. A paciente também apresentou sintomas como sopro sistólico e fragilidade, que foram controlados durante a estadia no hospital. Antes da alta, Antonia Pinto apresentou um pico temporário de temperatura que foi controlado com sucesso com antipiréticos.
+
+# INFORMAÇÕES FORNECIDAS AO PACIENTE E FAMÍLIA
+Foi fornecida educação a Antonia Pinto e à família sobre como cuidar adequadamente da úlcera em casa, sinais de infecção a serem observados e a importância de virar e reposicionar regularmente para prevenir mais úlceras.
+
+# DISPOSIÇÕES PARA CUIDADOS DE SEGUIMENTO
+É aconselhado que Antonia Pinto faça um acompanhamento com o Gonçalo Gomes após a alta para verificar a ferida e gerenciar as causas subjacentes do desenvolvimento da úlcera de decúbito. O serviço de cuidados domiciliares pode ser necessário, dependendo do progresso da cicatrização da úlcera.
+
+# SEÇÕES ADICIONAIS
+**Seção de Alergias e Intolerâncias:**
+Nenhuma alergia a medicamentos conhecida.
+
+**Seção de Diagnóstico de Alta:**
+O diagnóstico de alta inclui uma úlcera de decúbito, sopro sistólico e fragilidade.
+
+**Seção de Plano de Tratamento:**
+O plano após a alta envolve a continuação da terapia com antibióticos, um regime regular de cuidados com a ferida, visitas de acompanhamento ao ambulatório e modificações no estilo de vida para prevenir a recorrência de úlceras de decúbito.
+
+**Seção de Consultas Hospitalares:**
+Consultou com o especialista em cuidados com feridas e o cardiologista durante o curso do tratamento.
+
+**Seção de Procedimentos:**
+Passou por desbridamento da úlcera.
+
+**Seção de Resultados:**
+A ferida mostrou melhora significativa após o desbridamento.
+
+Por favor, note que este resumo de alta deve acompanhar o paciente nas primeiras visitas de acompanhamento para orientar o cuidado adicional.
+
+[Fim do Resumo]
+
+(CÓDIGO DO DOCUMENTO: 459572-EAt)

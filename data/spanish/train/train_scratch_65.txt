@@ -1,0 +1,65 @@
+"**-=Notas Rápidas de la Enfermera=-**
+
+```txt
+--------------------------------------
+PACIENTE       : Anabelle Gagné
+EDAD           : 65
+HOSPITAL       : Universidad de El Cairo
+HISTORIALMEDICO: 9594 05bge
+--------------------------------------
+
+Signos vitales:
+- PA: 120/80
+- FC: 88 lpm
+- Temp: 37\u00b0C
+
+Observaciones:
+- Temblores, temblor en todo el cuerpo
+- Pérdida de peso
+
+Posible diagnóstico:
+- Se sospecha diabetes
+
+Pruebas ordenadas:
+- Nivel de azúcar en sangre
+- HbA1c
+
+--------------------------------------
+**Información de contacto**
+- Dirección: Anabelle Gagné, Continuación Tlaxcala 773 Interior 125 113, Nonuniformly, 83KFHW9J Toluca de Lerdo, Argentina
+- Teléfono: +1-976-695-6041
+- Correo electrónico: óD@un.org
+--------------------------------------
+
+**Cuenta e ID**
+- Número de cuenta: PLbJuz DAP
+- Número de ID: PLbJuz DAP
+- Plan de salud: kvYvI4dQYH
+
+**Otros**
+- Nombre de usuario: Anabelé
+- Dirección IP: 44.27.67.108
+- BioID: kSz-qIPksy
+
+**Dispositivos médicos**
+- Dispositivo utilizado: 067505-038
+
+**Contacto de emergencia**
+- Nombre: Anabelle Gagné
+- Contacto: +1-976-695-6041
+
+**Detalles del hospital**
+- Ubicación: estadio
+- Ciudad: Toluca de Lerdo
+- Estado: Tarragona
+- Código postal: 83KFHW9J
+
+**Profesión y organización**
+- Profesión: Bibliotecaria, académica
+- Organización: Johnson, Mathews y Bailey
+
+--------------------------------------
+*Notado por: Diego Castrillón*
+```
+"
+

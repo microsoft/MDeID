@@ -1,0 +1,61 @@
+Resumo de Alta:
+
+# Disposição de Alta: Casa
+
+## Motivo da Hospitalização:
+Nicole Rodrigues foi admitida devido a um diagnóstico de insuficiência cardíaca congestiva. A condição se manifestou através de sintomas como falta de ar, ortopneia e distensão venosa jugular notável.
+
+## Procedimentos Realizados:
+Nenhum procedimento invasivo foi realizado durante a estadia de Nicole Rodrigues no hospital. A abordagem de tratamento envolveu principalmente farmacoterapia e modificações dietéticas.
+
+## Cuidados, Tratamento e Serviços Prestados:
+Nicole Rodrigues recebeu cuidados médicos abrangentes durante a internação hospitalar. Isso incluiu monitoramento diário dos sinais vitais, restrição de líquidos e terapia diurética para controlar os sintomas da insuficiência cardíaca. Consultas regulares com a Patricia Sousa, consulta dietética e farmacoterapia faziam parte do plano de gerenciamento padrão.
+
+## Condição na Alta:
+No momento da alta, o estado de saúde de Nicole Rodrigues mostrou melhora significativa. A falta de ar foi aliviada e a distensão venosa jugular foi notavelmente reduzida. A resposta de Nicole Rodrigues à terapia diurética foi altamente positiva.
+
+## Informações Fornecidas ao Paciente e à Família:
+A equipe de alta teve uma conversa abrangente com Nicole Rodrigues e a família, explicando a importância da adesão à medicação, dieta baixa em sal e monitoramento regular do peso e dos sintomas.
+
+## Provisões para Cuidados de Acompanhamento:
+Foi aconselhado a Nicole Rodrigues marcar uma consulta de acompanhamento com a Patricia Sousa em duas semanas. A importância de buscar atendimento médico imediato em caso de exacerbação dos sintomas foi enfatizada.
+
+# Seções Obrigatórias 
+
+## Seção de Alergias e Intolerâncias:
+Sem alergias conhecidas.
+
+## Seção do Curso Hospitalar:
+O curso hospitalar de Nicole Rodrigues foi tranquilo, com melhorias notáveis nos sintomas apresentados de insuficiência cardíaca.
+
+## Seção de Diagnóstico de Alta:
+Diagnóstico Principal - Insuficiência Cardíaca Congestiva
+
+## Seção de Plano de Tratamento:
+O gerenciamento ambulatorial consistirá na continuação da medicação prescrita, um plano dietético enfatizando a restrição de fluidos e sódio, e monitoramento regular do peso.
+
+## Seção de Consultas Hospitalares:
+Uma consulta com um nutricionista foi organizada durante a estadia no hospital para fornecer orientação dietética para o manejo da insuficiência cardíaca.
+
+## Seção de Procedimentos:
+Nenhum procedimento médico adicional foi realizado durante a internação.
+
+## Seção de Resultados:
+Melhorias clínicas e sintomáticas foram observadas durante a estadia no hospital.
+
+# Seções Adicionais 
+
+## Seção de Nutrição:
+A consulta com o nutricionista forneceu a Nicole Rodrigues um plano dietético personalizado enfatizando baixo sódio e ingestão restrita de líquidos.
+
+## Seção de Status Funcional:
+No momento da alta, Nicole Rodrigues era capaz de realizar atividades diárias independentemente de assistência.
+
+## Seção de Instruções de Alta Hospitalar:
+Nicole Rodrigues recebeu instruções detalhadas de alta, notavelmente, para aderir ao regime de medicação fornecido, seguir o plano dietético e manter um registro do peso diário e quaisquer alterações nos sintomas.
+
+## Seção de Sinais Vitais:
+No momento da alta, os sinais vitais estavam estáveis, com pressão arterial de 120/80 mmHg, frequência cardíaca de 75 batimentos por minuto, frequência respiratória de 16 respirações por minuto e saturação de oxigênio de 96% em ar ambiente.
+
+# Nota Importante:
+O documento acima é uma descrição sintética do curso hospitalar do paciente e não contém nenhum dado real de PHI. O documento foi criado para servir como um documento de orientação e não deve ser usado para o cuidado real do paciente. Por favor, use dados reais do paciente para decisões de tratamento.

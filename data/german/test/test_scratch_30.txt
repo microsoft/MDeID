@@ -1,0 +1,63 @@
+"Pflegekratznotiz
+
+=======================
+|  Patient: Daniel Schneider  |
+|  ID-Nummer: 783 MZWZzX  |
+|  Krankenakte: ucW 9835hk  |
+|  Alter: 89  |
+|  Aufgenommen: 23. Oktober 1975  |
+|  Zuständiger Arzt: Karin Pichler  |
+|  Krankenhaus: Gladiators  |
+|  Adresse: Daniel Schneider, Felberstrasse 6 35, 9350 Großröhrsdorf, Deutschland  |
+=======================
+
+- Symptome:
+    - Muskelschwäche: Vom Patienten gemeldet
+    - Zervikale Steifheit: Beobachtet
+
+- Vitalzeichen:
+    - BP: 120/80 mmHG 
+    - HR: 80 bpm
+    - Temp: 98.6 F 
+    - RR: 18 Atemzüge pro Minute
+    - SpO2: 98% bei Raumluft
+
+- Medizinische Beobachtungen: Gladiators 
+    - Mögliche Arthritis: Erhöhtes CRP, ESR
+    - Röntgenaufnahmen bestellt: Ausstehend 
+
+=============================
+|  Notfallkontakte  |                   
+|  Telefon: 491.381.9391  |
+|  Email: Karir@unicef.org  |
+=============================
+
+- Behandlungsfortschritt: 
+    - Schmerzmanagement: NSAIDs verabreicht, Nachsorge 23. Oktober 1975
+    - Physiotherapie: Empfohlen, beginnt 23. Oktober 1975
+
+Verschiedene Informationen:
+    - Kontonummer: 783 MZWZzX
+    - Organisation: Mason, Collins und Bush
+    - Geräte-ID: dBnhFz 678
+    - Fahrzeug des Patienten: OOD-868
+    - Gesundheitsplan: 3xP
+    - Standort (Andere): Bank
+    - Beruf: Schadensregulierer, gechartert
+    - Sozialversicherung: 08 837 670 279
+    - Lizenznummer: uIGTxL RBj
+    - Biometrische ID: kFMpYw Tdr
+    - IP-Adresse: 59.71.208.154
+    - URL für Aufzeichnungen: payne.info
+    - Benutzername: 6PFOtB0w
+    - Fax: 310-229-7268x5167
+
+NB: Kontaktieren Sie die Krankenhausverwaltung für weitere Informationen zum Konto, Geräte-ID oder Fahrzeug des Patienten. 
+
+=======================
+Diese Kratznotiz ist vertraulich und nur für medizinisches Fachpersonal bestimmt. Unbefugter Zugriff wird gesetzlich bestraft. 
+
+Erstellt von: Krankenschwester 6PFOtB0w
+Datum: 23. Oktober 1975
+======================="
+

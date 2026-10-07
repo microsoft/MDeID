@@ -1,0 +1,44 @@
+"Verpleegkundig Consultatieverslag
+
+Kop: Consultatie Informatie
+-------------------------------------
+Patiënt: Robin De Meyer
+Adres: Robin De Meyer, Octopede 140, 8106 Tegumenta, Nederland
+Stad: Chloasmata
+Land: België
+Postcode: 8106
+Leeftijd: 37
+Telefoon: (701)670-3678x35907
+Email: lih@microsoft.org
+Gebruikersnaam: 6zdN778I
+Sociale Zekerheid: 777095515
+Zorgplan: qS2Ft8qB hlKpAzyO
+Dokter: Aurélie Vermeersch
+Ziekenhuis: St. Elsewhere
+-------------------------------------
+
+Subjectief: De patiënt, geïdentificeerd als Robin De Meyer, een 37 jarige Afro-Amerikaanse man, heeft geen huidige symptomen of ongemakken gemeld. Zijn bezoek is voor een routinecontrole. Hij onthulde een significante familiegeschiedenis van prostaatkanker, met zijn 37 jarige broer die gediagnosticeerd en behandeld is met bestraling.
+
+Objectief: Momenteel is Robin De Meyer asymptomatisch. Er zijn geen fysieke onderzoeksverslagen of laboratoriumresultaten geassocieerd met deze consultatie.
+
+Beoordeling: Op basis van de verstrekte informatie loopt Robin De Meyer een verhoogd risico op prostaatkanker vanwege zijn etniciteit en familiegeschiedenis (eerstegraads familielid gediagnosticeerd op 37). De discussie was gericht op de potentiële voordelen en risico's van PSA-testen, gezien de uiteenlopende aanbevelingen van verschillende gezondheidsorganisaties.
+
+Plan: Het plan is om een diepgaand gesprek te hebben over PSA-testen om Robin De Meyer een geïnformeerde beslissing te laten nemen. De patiënt wordt aangemoedigd om verder onderzoek te doen en eventuele vragen die hij zou kunnen hebben voor te bereiden voor een vervolggesprek. Hij werd ook geadviseerd om eventuele nieuwe symptomen of zorgen in de tussentijd te melden.
+
+Voettekst: Aanvullende Informatie
+-------------------------------------
+Account: BLu 774794
+Medisch Dossier: 780 czSapy
+Apparaat: lKP 20938I
+Licentie: 891828 plC
+BioID: 54586-Ebzl
+IP Adres: 111.23.132.39
+ID Nummer: BLu 774794
+Locatie: bank
+Beroep: Ontwerper, televisie/film set
+Organisatie: Howard-Tran
+Voertuig: 544 5YL
+URL: jordan.hayes-hartman.barrett-lewis.net
+Fax: 257-643-5494x949
+-------------------------------------"
+

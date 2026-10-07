@@ -1,0 +1,12 @@
+"Doctor Scratch Note
+
+\"Jane Dixon\", heavy smoker, heavy alcohol consumer, 2 months old. Symptoms: neck swelling, low-grade fever, swallowing difficulty, hoarseness. Hypertension history, treated amlodipine 10 mg, enalapril 10 mg daily.
+
+Vitals: Fever Thu 1984 38.7 \u00b0C, Hypertension 170/100 mmHg, Tachycardia 100 beats/min, Tachypnea 24 breaths/min. Physical findings: pulsatile 5 x 5 cm left neck mass, tender, bulging of left posterior pharyngeal wall, tonsil enlargement, no inflammation signs, no thyroid enlargement, mild pale conjunctivae, anicteric sclerae, scaly erythematous patches and dystrophic nails on legs. Lab results: Anemia (hemoglobin 9.6 g/L, hematocrit 28%, MCV 75 fl), Leukocytosis (WBC 6800 cells/mm3, 80% neutrophils), Thrombocytosis (platelet count 574,000 cells/mm3).
+
+Diagnosis: Deep neck infection. Possible complications: poor vascular health, immune function due to Jane Dixon's alcohol, tobacco use. Differential diagnoses: thyroid disorders, malignancies. Possible chronic disease, nutritional deficiency indicated by anemia, skin changes.
+
+Plan: Continue antibiotics (ceftriaxone, clindamycin). Hypertension management, monitor blood pressure. Advise Jane Dixon on smoking cessation, reducing alcohol intake. Schedule Thu 1984 follow-up for neck mass evaluation, treatment response. Refer to hematologist for anemia evaluation, dermatologist for skin lesions assessment. Educate Jane Dixon on infection complication signs, instruct to return to Waseda University if symptoms worsen.
+
+Lucy Blackstock"
+

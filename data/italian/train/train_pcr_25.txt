@@ -1,0 +1,20 @@
+"Rapporto di Assistenza al Paziente - Situazione Medica di Emergenza
+
+[DISPATCH] Questo equipaggio ha risposto a una chiamata +1-278-210-0988x133 per un Edoardo Giuliani che stava sperimentando un acuto distress respiratorio. Il chiamante, un vicino, ha riferito di aver sentito forti suoni di ansimare e una tosse persistente dalla residenza del paziente. Siamo stati inviati con un codice di emergenza, utilizzando luci e sirene per una risposta rapida.
+
+[VALUTAZIONE SUL POSTO] Al nostro arrivo, abbiamo trovato il paziente in uno stato moderato di distress, che mostrava segni di febbre, tosse persistente e mancanza di respiro. Il paziente era cosciente ma visibilmente in lotta per respirare. La scena indicava che il paziente vive da solo in una casa situata a Edoardo Giuliani, 251 Luna Corners, 101, 2221 Solofra Rushlit, Italia e c'erano segni di una condizione medica cronica, suggerendo che si trattava di un'esacerbazione di una malattia esistente.
+
+[STORIA DELLA MALATTIA ATTUALE] Dopo aver stabilizzato il paziente con ossigeno supplementare da un serbatoio contrassegnato con il numero di serie 91-SZTuyYU, abbiamo effettuato un'accurata anamnesi. Il paziente si è identificato come Edoardo Giuliani e ha fornito un numero di conto pj-tAPzWZC per il numero di cartella clinica JQaaqX-BUQ. Ci ha informato che i sintomi sono iniziati il 28/12/15 con una tosse e una febbre di basso grado che da allora si è trasformata nello stato attuale. Il paziente ha anche menzionato di essere stato diagnosticato con asma bronchiale al King Emanuel sotto la cura del Thomas Zimmermann.
+
+[VALUTAZIONE INIZIALE] La nostra valutazione primaria ha rilevato che il paziente era cosciente, con un orientamento alla persona, al luogo e al tempo. L'24 del paziente sembrava coerente con l'aspetto. Abbiamo eseguito un completo esame da capo a piedi e abbiamo riscontrato segni di respiro affannoso, sibili durante la respirazione e un ritmo cardiaco leggermente elevato. La temperatura del paziente registrata dal dispositivo ID 91-SZTuyYU indicava la presenza di febbre.
+
+[TRATTAMENTO] Abbiamo iniziato il trattamento sul posto somministrando un farmaco broncodilatatore tramite un nebulizzatore, come da prescrizione esistente del Dr. Thomas Zimmermann. Il paziente è stato poi preparato per il trasporto all'ospedale più vicino, King Emanuel, con monitoraggio continuo dei segni vitali. Un Thomm@outlook.com è stato inviato all'ospedale con la valutazione iniziale e il trattamento del paziente.
+
+[TRASPORTO] Il paziente è stato messo in sicurezza nella nostra ambulanza con targa 612CXL per il trasporto. È stata messa in atto la linea IV, senza gonfiore o decolorazione nel sito di inserimento. Gli effetti personali del paziente, compreso un dispositivo mobile con un 119.26.80.16 identificato, sono stati tenuti al sicuro con noi durante il viaggio.
+
+[CONSEGNA ALL'OSPEDALE] All'arrivo in ospedale, l'assistenza al paziente è stata consegnata all'infermiere del pronto soccorso, con tutti i dettagli sullo stato del paziente, il trattamento e la storia comunicati. Tutti gli effetti personali del paziente sono stati consegnati al personale dell'ospedale. Un modulo di consegna del paziente completato è stato firmato e ricevuto dall'infermiere, l'URL del documento è https://garza.com/tags/explore/mainhome.html.
+
+[DOCUMENTAZIONE] Il rapporto è stato completato dall'EMT presente, e una copia del Rapporto di Assistenza al Paziente è stata generata e inviata all'account collegato all'username del paziente GiEdoar. Il documento è stato anche salvato nel sistema contro il numero di previdenza sociale del paziente 462199-2361 per riferimento e scopi di fatturazione.
+
+[EMT PRESENTE] Questo rapporto è stato preparato e verificato dal Thomas Zimmermann, un EMT con licenza con numero di certificazione gkDHXJ 515. Questo documento mira a fornire un resoconto dettagliato dello stato e del trattamento del paziente durante la situazione medica di emergenza alla data dell'incidente 28/12/15."
+

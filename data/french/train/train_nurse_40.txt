@@ -1,0 +1,49 @@
+"Note Narrative Infirmière
+
+Subjectif : Notre patiente, Aline Simon, a ressenti un gonflement de la cheville droite depuis l'âge de 13. Aline Simon ne signale aucune douleur ou limitation de mouvement mais trouve le gonflement gênant. Aline Simon a des antécédents de fièvre élevée intermittente et de gonflement bilatéral des genoux et de la cheville droite un mois avant son admission. La patiente a géré le gonflement par ponction et drainage et a commencé à prendre de l'aspirine pour les symptômes, ce qui n'a pas atténué la fièvre intermittente.
+
+Objectif : Lors de l'examen physique, aucune éruption cutanée ou atteinte oculaire n'a été observée. Une IRM, numéro de l'appareil 9321 2581H, a montré une petite quantité de liquide dans l'espace articulaire sans synovite. Les tests de laboratoire ont révélé un nombre normal de globules blancs (9 000/μL), une protéine C-réactive élevée (15,65 mg/dL) et une immunoglobuline G sérique élevée (2 569 mg/dL). L'anticorps antinucléaire était limite ; les autoanticorps, y compris l'anti-dsDNA et l'anti-peptide citrulliné cyclique, étaient négatifs, tout comme le facteur rhumatoïde. La biochimie sanguine et les tests d'urine étaient sans particularité.
+
+Évaluation : Aline Simon a été diagnostiquée avec une arthrite idiopathique juvénile systémique (sJIA) sur la base de la présentation clinique, de l'imagerie et des résultats de laboratoire, écartant d'autres conditions auto-immunes et inflammatoires en raison de l'absence d'autoanticorps spécifiques et d'antécédents familiaux.
+
+Plan : Le traitement a été initié avec du méthylprednisolone en bolus (1 g/jour pendant 3 jours), suivi de prednisolone (1 mg/kg/jour), d'ibuprofène (30 mg/kg/jour) et de méthotrexate (15 mg/m2/semaine). La fièvre de la patiente a répondu à ce régime. Le plan comprend une surveillance continue et un ajustement de la dose de prednisolone au besoin pour gérer les symptômes, car les tentatives précédentes de réduction de la prednisolone ont conduit à un gonflement articulaire récurrent. Des suivis réguliers seront programmés pour surveiller l'état de Aline Simon et l'efficacité du traitement.
+
+**[Informations de Contact]** 
+Téléphone : (891)228-0086 
+Email : mlercqD@who.int
+Fax : 760-705-2529x623
+
+**[Informations d'Identification du Patient]**
+Numéro de Dossier Médical : MC 9077Sje
+Numéro de Compte : 824662-JLc
+Nom d'Utilisateur : 7jW5116F
+Numéro de Sécurité Sociale : 509610-9485
+Numéro de Licence : ANGEXK-756
+ID Biométrique : 065 OWvtMs
+Adresse IP : 56.179.222.212
+Numéro d'ID Personnel : 824662-JLc
+
+**[Informations d'Adresse]**
+Adresse : Aline Simon, 2113 Mathieu Stream Apt. 497 110, 1761 Andainville, Belgique
+Ville : Montverdun
+État : 78
+Pays : Belgique
+Code Postal : 1761
+Rue : 50277 Zavala Lodge
+
+**[Informations sur l'Hôpital]**
+Hôpital : Preston, Lancashire
+
+**[Informations sur les Soins de Santé]**
+Plan de Santé : RIRW9
+Docteur : Liam De Clercq
+Organisation : Torres Inc
+
+**[Informations sur le Véhicule]**
+Véhicule : 7Q873
+
+**[Informations Web]**
+URL :  www.monroe.com/blog/tags/wp-contentlogin.html
+
+Infirmier, Liam De Clercq"
+

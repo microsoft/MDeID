@@ -1,0 +1,17 @@
+T1	PATIENT 39 53	Gerardo Bernal
+T2	DOCTOR 79 91	Víctor Pérez
+T3	HOSPITAL 107 129	Gobernador de Michigan
+T4	PATIENT 169 183	Gerardo Bernal
+T5	PATIENT 407 421	Gerardo Bernal
+T6	HOSPITAL 471 493	Gobernador de Michigan
+T7	PATIENT 835 849	Gerardo Bernal
+T8	PATIENT 1141 1155	Gerardo Bernal
+T9	PATIENT 1416 1430	Gerardo Bernal
+T10	DOCTOR 1474 1486	Víctor Pérez
+T11	HOSPITAL 1490 1512	Gobernador de Michigan
+T12	PATIENT 1849 1863	Gerardo Bernal
+T13	PATIENT 2125 2139	Gerardo Bernal
+T14	HOSPITAL 2143 2165	Gobernador de Michigan
+T15	PATIENT 2400 2414	Gerardo Bernal
+T16	MEDICALRECORD 2715 2725	25562 8964
+T17	DATE 2829 2856	domingo, 9 de enero de 2011

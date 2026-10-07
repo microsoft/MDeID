@@ -1,0 +1,29 @@
+"(**Ärztliche Notiz**)
+
+Ryan Lenaerts Notizen:
+
+Peter Schneider (Weiblich, 78, Hispanic) - Keine akute Notlage.
+Beschwerden: Schwindel, Schwäche, Schwitzen, Durchfall, Erbrechen. 
+Vorherige medizinische Geschichte: Akne, Asthma, psychosoziale Belastung. 
+Allergien: Peter Schneider leugnet Allergien, insbesondere gegen Ananas. 
+
+Vitalwerte (bei Ankunft): 
+BP  mmHg, RR  Atemzüge/min, SpO2  bei Raumluft, Temp  \u00b0C. 
+Blutzucker: 60 mg/dL (vom Labor bestätigt)
+
+Differentialdiagnose: 
+1. Hypoglykämie (Primärdiagnose - reaktiv)
+2. Stoffwechselstörungen
+3. Andere Ursachen für Magen-Darm-Symptome
+
+Behandlungsplan: 
+1. Entlassung mit IV 0,9% NaCl zur Volumenwiederherstellung
+2. Ondansetron gegen Übelkeit und Erbrechen
+3. Ernährungsempfehlungen - Protein in jeder Mahlzeit, kleine häufige Mahlzeiten
+
+Empfehlungen: 
+Nachsorge bei Ryan Lenaerts zur weiteren Behandlung der Hypoglykämie und Ausschluss anderer möglicher Ursachen.
+
+**Ende der Notiz**
+(Hinweis: Die Vitalzeichen und Blutzuckerwerte sind Platzhalter. Die tatsächlichen Werte werden von Ryan Lenaerts basierend auf dem Zustand des Patienten während des Besuchs ausgefüllt.)"
+

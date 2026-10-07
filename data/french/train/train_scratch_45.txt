@@ -1,0 +1,69 @@
+"===================
+INFORMATIONS DU PATIENT
+===================
+-Nom du patient : Elliot Brown
+-Nom d'utilisateur : Elliotn
+-Adresse : Elliot Brown, 08057 Denise Spring 194, 4847 Besenfeld, Suisse
+-Téléphone : 375-271-6442x2953
+-Email : lMarkus@unwomen.org
+-Date de naissance : 3 juin 2024
+-Sécurité sociale : 326-5618887-90
+-Compte : KJbk-UYYme
+
+===================
+DONNÉES MÉDICALES
+===================
+-Hôpital : Saint Mary 's University Halifax
+-Médecin : Markus Keller
+-Dossier médical : lV-yyLfzDJ
+-Plan de santé : wIT8Z
+-IDNUM : KJbk-UYYme
+-Appareil : 58791 6583
+-LICENCE : HiUJh rWtm
+-ADRESSE IP : 159.226.182.100
+-BIOID : MNcfnV oLA
+
+===================
+SIGNES VITAUX
+===================
+-Temp : 98.4 F
+-Pouls : 78 bpm
+-Respiration : 22 rpm
+-PA : 120/80 mmHg
+
+===================
+OBSERVATIONS
+===================
+- Apparence générale : Le patient continue de signaler une sensation de démangeaison sur tout le corps. 
+- Peau : Pâle, diverses taches rouges sur le torse
+- Yeux : Jaunisse notable 
+
+===================
+ÉVALUATION
+===================
+-Probable Malaria, frottis sanguin demandé à Moore LLC. 
+-En attente de réponse du laboratoire à supermarché pour confirmer le diagnostic.
+
+===================
+PLAN
+===================
+-Thérapie avancée contre la malaria comme suggéré par Markus Keller 
+-Transfusion sanguine si nécessaire
+-Consultation de suivi après le résultat de Moore LLC
+
+===================
+INFORMATIONS SUPPLÉMENTAIRES
+===================
+-Véhicule du patient : SMZ-0054
+-Profession : Scientifique légiste
+-Contact d'urgence du patient : Elliot Brown
+-Téléphone du contact d'urgence : 375-271-6442x2953
+
+===================
+Pied de page
+===================
+Signature électronique du médecin : Markus Keller
+Heure d'achèvement : 3 juin 2024
+URL de l'hôpital : https://day-galvan.com/posts/blog/bloghome.htm
+Fax de l'hôpital : 5299187323"
+

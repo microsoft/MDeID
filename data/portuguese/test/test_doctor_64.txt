@@ -1,0 +1,43 @@
+"Dr. Lucas Moreira Nota Rápida:
+
+Paciente: José Azevedo
+SSN: 96398554-9
+Data de Nascimento: 16/12/2008
+ID: 287 cxOeDi
+Endereço: José Azevedo, Estação da Mota, 68 55, 7479 São Tome das Letras, Portugal
+
+Sinais vitais: 
+PA: 130/85 
+Pulso: 75 
+Temp: 98.6F 
+Resp: 16/min 
+Peso: 170 lbs
+Altura: 5'10\"
+
+Observações:
+- Histórico: OSCC múltiplo, Ca de próstata, fumante pesado (passado), consumidor de álcool pesado (passado)
+- Complicações: Hematoma cervical pós-OP, mucosite, epitelite, radioterapia, trombose venosa (resolvida)
+- Tratamento atual: Ca de próstata, hipotireoidismo (medicação)
+
+Avaliação:
+- OSCC: vários tratamentos (excisões cirúrgicas, linfadenectomias, reconstruções de retalho radial livre microvascular, radioterapias internas/externas)
+- OSCC recente: mucosa bucal esquerda (T2 N0 M0), sem radioterapia
+- Ca de próstata: Radioterapia externa
+- Hipotireoidismo: medicação, níveis monitorados
+
+Plano:
+- Continuar: regime de tratamento para Ca de próstata, terapia de reposição hormonal da tireoide
+- Agendar: acompanhamentos regulares (recorrência de OSCC, complicações)
+- Cuidados de suporte: efeitos colaterais da radioterapia
+- Apoio psicológico: se necessário
+- Hábitos de fumar, consumo de álcool: cessação
+
+Email: irucas@outlook.com
+Telefone: 464-382-2429
+Org: Harrington-Mcneil
+Profissão: Topógrafo, planejamento e desenvolvimento
+
+Assinado,
+Lucas Moreira
+Licença: pVWBH QLLU"
+

@@ -1,0 +1,42 @@
+"**Informations d'en-tête :**
+
+- Patient : Marcel Gerber
+- Dossier médical : lrcZI MtyK
+- Compte : zCq-877obO
+- Médecin admis : Ine Deprez
+- Email de contact : eep@who.int
+- Numéro de téléphone d'urgence : (425)245-3592
+- Adresse du patient : Marcel Gerber, 39 2437 Adam Street Apt. 259, Souppes sur Loing, 93 6215, Canada
+- Hôpital d'admission : Laboratoire de Montréal
+- Plan de santé : WIE4D
+- Date d'admission : mardi 1 avril 2008
+
+**Note de l'infirmière :**
+
+Subjectif : Le patient Marcel Gerber s'est présenté avec une histoire de 79 ans d'œdème des membres inférieurs et de dyspnée, et une histoire de 79 ans de saignements vaginaux intermittents anormaux. Le patient a signalé une amélioration symptomatique après la péricardiocentèse.
+
+Objectif : L'évaluation initiale a montré une hypoxémie avec une saturation en oxygène de 80% à l'air ambiant, une tachycardie, une hypotension et une diminution des bruits cardiaques. Une adénopathie supraclaviculaire gauche a été notée. La radiographie thoracique a révélé une silhouette cardiaque élargie et un épanchement pleural bilatéral. La péricardiocentèse a drainé 500 mL de sécrétion sanglante. La cytologie du liquide pleural était positive pour un carcinome peu différencié. La biopsie excisionnelle du ganglion lymphatique supraclaviculaire gauche a confirmé un carcinome épidermoïde métastatique. La biopsie cervicale a indiqué un carcinome épidermoïde avec une lésion intraépithéliale de haut grade. Le taux de CA-125 était élevé à 335,5 IU/mL. L'IRM pelvienne n'a montré aucune masse tumorale utérine ou cervicale mais a confirmé une carcinomatose péritonéale.
+
+Évaluation : Le diagnostic principal est un carcinome épidermoïde métastatique avec des complications incluant des épanchements péricardiques et pleuraux conduisant à une instabilité hémodynamique et une insuffisance respiratoire. Le diagnostic différentiel initialement envisagé comprenait d'autres formes de cancers métastatiques.
+
+Plan : Le traitement a été initié par chimiothérapie à base de carboplatine et de paclitaxel. Une péricardiocentèse répétée a été proposée en raison des épanchements péricardiques et pleuraux récurrents, mais le patient a refusé une autre péricardiocentèse. Une sclérothérapie intrapéricardique a été envisagée mais n'a pas été réalisée en raison du manque d'expérience de l'établissement. L'état du patient s'est détérioré, conduisant à la mort 79 après la présentation initiale.
+
+**Informations de pied de page :**
+
+- Emplacement du patient : salle de sport
+- Ville du patient : Souppes sur Loing
+- État du patient : AMAND
+- Pays du patient : Belgique
+- Code postal du patient : 6215
+- Sécurité sociale du patient : 985125-0897
+- Permis du patient : 83-08FjIzu
+- BioID du patient : 14 940KYts
+- Adresse IP du patient : 121.156.188.208
+- Numéro d'identification du patient : zCq-877obO
+- Véhicule du patient : 922-YZS
+- Profession du patient : Ingénieur en systèmes de fabrication
+- Organisation du patient : Colon Ltd
+- Nom d'utilisateur du patient : Marcerb
+- URL du patient :  burton.com/posts/main/categoryterms.jsp
+- Fax du patient : 001-221-442-0318x82068"
+

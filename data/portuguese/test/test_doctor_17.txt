@@ -1,0 +1,67 @@
+"Nota de Rascunho do Médico
+
+---
+
+Local: amfAR
+
+Paciente: Pedro Freitas
+
+Identificação: 60879-0555
+
+Idade: 54
+
+---
+
+Subjetivo:
+
+Desconforto - área da virilha
+Procedimento TEP - hérnia inguinal direta bilateral
+TURP - hiperplasia prostática benigna
+Dor/inchaço - área inguinal direita, pós-operatório
+Contato: 370-955-2994
+
+---
+
+Objetivo:
+
+TEP, TURP - Tempo total de operação: 3 hrs
+Perda de Sangue: 100 cc
+Pré/Pós op: Levofloxacina
+Exame de patologia - Hiperplasia adenomatosa atípica, Infiltração de células inflamatórias crônicas
+Nível de PSA: 29 ng/ml
+Complicações pós-operatórias - Hematoma (inguinal direito), Abscesso inguinal bilateral, Sepse
+Tratamento - Evacuação, Laparotomia de desbridamento
+Sem recorrência de hérnia após evacuação de malha
+Imagem: 9849-85685
+
+---
+
+Avaliação:
+
+Primário - Hérnia inguinal direta bilateral, Hiperplasia prostática benigna
+Complicações pós-operatórias - Hematoma, Abscesso inguinal bilateral, Sepse
+Excluído: Hérnia recorrente
+Referência: Emily Fernandez
+
+---
+
+Plano:
+
+Cuidados pós-operatórios - Higiene, Monitoramento de sinais de infecção
+Consultas de acompanhamento - Avaliação contínua, Gerenciamento de recuperação
+Contate Emily Fernandez se aparecerem sinais de infecção/complicações
+Conformidade - Crucial para a recuperação, Prevenir complicações
+Email: Fernanm@yahoo.com
+
+---
+
+Nota por: Emily Fernandez
+
+Licença: fQKdy-60FS
+
+Hora: 
+
+---
+
+Fim da Nota"
+

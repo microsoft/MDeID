@@ -1,0 +1,36 @@
+"Arzt Notizen
+==========
+Patient: Vanessa Maier
+ID: GKYzT 8853
+
+S:
+- Wiederkehrende Nasenbluten seit 6-8 Monaten
+- Keine Kopfschmerzen oder systemische Symptome
+- Nasenblockade
+
+O:
+- Harter Knoten, rechtes Nasenloch
+- Normale alkalische Phosphatase
+- CT-Scan: Masse hinter der Basallamelle, Verkalkung, verdrängt untere Nasenmuschel, erstreckt sich in den Nasenvorhof
+- Endoskopische Operation: Allgemeinanästhesie, Masse entfernt, haftet an hinterem Septum und medialer Oberfläche der unteren Nasenmuschel
+- Massengröße: 3 x 2 x 1 cm
+- Mikroskopie: Gutartige fibro-ossäre Läsion, weist auf fibröse Dysplasie hin
+
+A:
+- Primärdiagnose: Fibröse Dysplasie der Nasenhöhle
+- Masse entfernt, keine unmittelbaren Komplikationen
+- Prognose: Günstig, geringes Malignitätsrisiko, gutartige Läsion
+
+P:
+- Genesung: Überwachung, regelmäßige Nachuntersuchungen mit Pauline Beckers
+- Rat: Ungewöhnliche Symptome oder wiederkehrende Nasenbluten melden
+- Keine zusätzliche Behandlung erforderlich
+- Überwachung: Fortgesetzt bei Massenrezidiv
+
+Pauline Beckers
+Finanzhändlerin
+Hamilton Group
+ckeuli@aol.com
+2955528378
+yn2S"
+

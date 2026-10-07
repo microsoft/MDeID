@@ -1,0 +1,49 @@
+"KRITZELNOTIZEN: Patientenprofil
+
+------------------------------------------------------------
+Oskar König | 43 | männlich | Informationsbeauftragter | Jones LLC
+------------------------------------------------------------
+**KONTAKTINFORMATIONEN**:
+* Zuhause: Oskar König, Ismet-Hesse-Gasse 6/0 142, 2042 Dachsen, Schweiz
+* Telefon: +1-452-505-1156x495
+* EMAIL: ubera@yahoo.com
+------------------------------------------------------------
+**Vitalzeichen des Patienten**:
+* BP - 121/81 (Normal)
+* Puls - 75 (Normal)
+* Temp - 98.6 F (Normal)
+* Atmung - 16 Atemzüge/min (Normal)
+------------------------------------------------------------
+**Medizinische Informationen des Patienten**:
+* MRN: upzY Uyuzr
+* Gesundheitsplan: GSlcJ5q8ekBZ
+* Krankenhaus: NAS Los Alamitos
+* Behandelnder Arzt: Nina Huber
+------------------------------------------------------------
+**Beobachtungen**:
+- Beschwert sich über Konzentrationsschwierigkeiten.
+- Emotionale Instabilität festgestellt.
+- Verdacht: Diabetes.
+- Empfohlen: Blutzuckertest.
+------------------------------------------------------------
+**Geräteinformationen**:
+- Geräte-ID: hMrCA HiBs
+------------------------------------------------------------
+**Weitere Informationen**:
+* Kontonummer: Ola-75oyeA
+* Nummernschild: 854 NOU
+* BioID: 3401 kBOJF
+* Benutzername: vWPEJrM2
+* IP-Adresse: 96.101.208.118
+* ID-Nummer: Ola-75oyeA
+* Standort: Markt
+* Notfallkontakt: Oskar König
+* Sozialversicherung: 475-6131948-76
+* Bundesland: Niedersachsen
+* Straße: 5817 Dyer Road Apt. 536
+* URL:  www.hampton-mcpherson.net/main/posts/categoriesabout.php
+* PLZ: 2042
+* Fax: 336.429.9469x285
+------------------------------------------------------------
+HINWEIS: Nachuntersuchung für vollständige Diagnostik geplant. Ergebnisse werden nächsten Schritte im Behandlungsplan bestimmen. Patienten kontaktieren, nachdem Testergebnisse eingegangen sind."
+

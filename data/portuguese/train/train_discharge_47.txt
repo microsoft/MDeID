@@ -1,0 +1,42 @@
+# Resumo de Alta
+
+Paciente: Guilherme Ramos  
+Médico: Joari Schmidt  
+Prontuário Médico: lo-51428ux  
+Data de Admissão: 19/09/1989  
+Data de Alta: 19/09/1989  
+Disposição de Alta: Casa
+
+## Motivo da Hospitalização:
+O paciente Guilherme Ramos foi admitido devido a sintomas sugestivos de endocardite. Estes incluíam dor pleurítica, espessamento, mialgia e condição apirética.
+
+## Curso Hospitalar:
+O paciente passou por procedimentos diagnósticos abrangentes e cuidados de suporte. O tratamento com antibióticos foi iniciado com base no diagnóstico suspeito de endocardite.
+
+## Procedimentos Realizados:
+1. Culturas de Sangue
+2. Ecocardiograma Transtorácico
+
+## Cuidados, Tratamento e Serviços Prestados:
+Durante a estadia no hospital, o paciente foi tratado com antibióticos intravenosos, manejo da dor e cuidados de suporte. A condição do paciente melhorou progressivamente.
+
+## Diagnóstico de Alta:
+A melhora clínica apoiou o diagnóstico de endocardite.
+
+## Informações Fornecidas ao Paciente e à Família:
+O paciente e a família foram informados sobre as possíveis complicações que podem ocorrer após a alta e os sinais que necessitariam de atenção médica imediata.
+
+## Provisões para Cuidados de Acompanhamento:
+O paciente está agendado para acompanhamento com Joari Schmidt em Essex Farm Cemetery em 19/09/1989. O acompanhamento buscará monitorar o progresso do paciente e avaliar a eficácia do tratamento.
+
+## Medicamentos na Alta:
+1. Antibióticos - Continuar conforme prescrição
+2. Medicamento para Dor - Conforme necessário
+
+## Histórico Familiar:
+Não há histórico conhecido de endocardite na família.
+
+## Instruções de Alta Hospitalar:
+Na alta, o paciente é instruído a continuar tomando os medicamentos prescritos, manter boas práticas de higiene e relatar imediatamente qualquer sintoma novo ou piora dos sintomas.
+
+**Por favor, note que este é um documento sintético e todos os detalhes são placeholders. Para quaisquer discrepâncias, consulte o prontuário médico original.**

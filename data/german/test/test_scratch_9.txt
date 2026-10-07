@@ -1,0 +1,41 @@
+"Pflegekratznotiz:
+
+-Patientenstatus [Eindeutige ID: 32910 5580]-
+Julien Jacobs präsentiert sich mit hohem 6, erheblichem Unbehagen und Anzeichen von schwerer Malaria. 
+
+-Vitalwerte-
+Temp: 102.6F  |  Puls: 112 bpm  |  Atem: 21/min  |  BP: 145/92 mmHg 
+
+-Kontaktinformationen-
++1-526-793-5313x820, han@msf.org 
+
+-Notfallkontakt-
+acobsli () - +1-526-793-5313x820
+
+-Anbieterdetails-
+Sarah Baumann bei Byculla, Ballenstedt, 67, Österreich 
+
+-Standortinformationen-
+Letzter bekannter Café, vermutete Exposition
+
+-Beobachtungen-
+Malaria-Parasiten nachgewiesen, weitere Tests erforderlich
+
+-Geräteinformationen-
+Geräteseriennummer: 27 79447rk
+
+-Gesundheitsplan-
+psDVd 
+
+-Fortschrittsnotizen-
+Schnelltest: Positiv. Überwachung auf weitere Komplikationen. 
+
+-Dokumentdetails-
+Dokument erstellt von: acobsli
+Datum: 31. Mai 2022
+
+-Vertraulichkeitshinweis-
+Diese Kratznotiz enthält sensible Patienteninformationen, die unter PHI geschützt sind. Unerlaubte Verwendung, Offenlegung oder Duplizierung ist strengstens verboten. Nur zur offiziellen Verwendung durch das Gesundheitsteam.
+
+-Ende der Notiz-"
+

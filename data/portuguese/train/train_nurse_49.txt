@@ -1,0 +1,41 @@
+"Nota Narrativa de Enfermagem para Pedro Moreira
+
+26 de out. de 1972 às . Pedro Moreira com um histórico conhecido de cardiomiopatia dilatada, que levou à insuficiência cardíaca, relatou sentir-se fraco e com dificuldade para respirar. Este paciente tem um caso documentado anteriormente de fibrilação ventricular, e um dispositivo CRT-D (RZoTzM 887) foi implantado aproximadamente 7 anos atrás. Além disso, um HeartMate II® LVAD (RZoTzM 887) foi implantado cerca de 4 anos atrás em antecipação a um possível transplante de coração. Recentemente, o paciente experimentou palpitações e fibrilação ventricular sustentada (VF) pós-implantação do LVAD, levando a sintomas de insuficiência cardíaca direita e congestão hepática.
+
+O estudo ecocardiográfico que foi realizado durante a implantação do LVAD mostrou uma fração de ejeção de 13%, dilatação do ventrículo esquerdo (51 mm em diástole), regurgitação aórtica trivial e contração ventricular direita relativamente preservada (mudança de área fracional; 33%). Os achados recentes incluem VF sustentada, fibrilação atrial paroxística (AF) detectada com frequência crescente e níveis elevados de bilirrubina total indicando piora da função hepática. O tratamento do paciente incluiu amiodarona, nifekalant, mexiletina, lidocaína, um inibidor da fosfodiesterase tipo 5, diuréticos e a otimização da velocidade de rotação do LVAD.
+
+O diagnóstico principal continua sendo insuficiência cardíaca avançada secundária à cardiomiopatia dilatada. As complicações incluem VF sustentada e insuficiência cardíaca direita. Os diagnósticos diferenciais podem incluir progressão da insuficiência cardíaca, cardiomiopatia induzida por arritmia ou complicações relacionadas ao dispositivo. O prognóstico é reservado dada a complexidade e progressão da doença.
+
+O plano para o paciente continua a ser o monitoramento próximo da função cardíaca e das enzimas hepáticas. Ajustes nos medicamentos podem ser necessários para controlar as arritmias e os sintomas de insuficiência cardíaca. As configurações do LVAD devem ser otimizadas para garantir perfusão adequada. Consultas de acompanhamento regulares serão agendadas para monitorar a condição do paciente e a função do dispositivo. O paciente será educado sobre o reconhecimento dos sintomas de piora da insuficiência cardíaca e a importância da adesão ao plano de tratamento. Uma consulta com a equipe de transplante de coração pode ser considerada se a condição do paciente piorar ainda mais.
+
+Enfermeiro Enzo Fernandez, RN, Moore Inc 
+Informações de Contato: 
+Telefone: (701)841-4379
+Email: zz@unhcr.org
+Endereço: Pedro Moreira, Viaduto de Monteiro, 7 136, 0686 Acaraú, Portugal
+
+Contato de Emergência: 
+Nome: Pedro Moreira
+Relação: Amigo
+Telefone: (701)841-4379
+Email: zz@unhcr.org
+Endereço: Pedro Moreira, Viaduto de Monteiro, 7 136, 0686 Acaraú, Portugal
+
+Informações do Dispositivo:
+CRT-D: RZoTzM 887
+HeartMate II® LVAD: RZoTzM 887
+
+Identificadores do Paciente:
+Número do Prontuário Médico: 74755-43Wb
+Número da Conta: 50-ckGqhhx
+Nome de Usuário: pwEjysoQ
+Endereço IP: 181.83.103.43
+Número do Seguro Social: 29265147-8
+Número da Licença: xQj 292882
+ID Biométrico: 97-hIzJdsd
+ID do Veículo: 552 8IK
+ID Pessoal: 50-ckGqhhx
+Seguro: zOi 3Cs
+
+Aviso Legal: Esta nota é destinada a profissionais médicos para acompanhar o estado de saúde e o histórico médico de Pedro Moreira. Contém informações sensíveis protegidas pela Lei de Portabilidade e Responsabilidade do Seguro Saúde (HIPAA) e outras leis aplicáveis. A cópia, uso ou distribuição não autorizada dessas informações é estritamente proibida."
+

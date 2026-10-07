@@ -1,0 +1,80 @@
+Résumé de Sortie
+===================
+
+Provision de Sortie : Retour à domicile avec services
+
+**Admission :** Le patient a été admis en raison de complications découlant de la cirrhose.
+
+**Procédures :** Une paracentèse a été réalisée pour soulager les symptômes de l'ascite. Un examen approfondi a montré des signes de splénomégalie, qui ont été davantage investigués par échographie.
+
+**Soins/Traitement :** Le patient a reçu des médicaments pour gérer le prurit et la douleur abdominale. L'établissement a également assuré des soins infirmiers renforcés pour prévenir les chutes dues à un mauvais équilibre.
+
+**État à la Sortie :** Au moment de la sortie, le patient a montré une réduction significative de l'ascite et a signalé moins d'inconfort. Une surveillance régulière des enzymes hépatiques a été suggérée en raison de la persistance de la cirrhose.
+
+**Informations Fournies au Patient/Famille :** Le patient et la famille ont été informés de la nature de la maladie et de l'importance des suivis réguliers. La possibilité d'une transplantation hépatique a également été discutée.
+
+**Suivi des Soins :** Le patient est prévu pour visiter le Valentin Jacobs à Shah trois semaines après la sortie. Les médicaments seront ajustés en fonction des niveaux d'enzymes hépatiques et de l'état de santé général.
+
+---
+
+# Sections Requises
+
+**Allergies et Intolérances :** Le patient n'a signalé aucune allergie connue.
+
+**Parcours Hospitalier :** Le parcours hospitalier du patient a impliqué la gestion de l'ascite, de la splénomégalie et de l'inconfort associé.
+
+**Diagnostic de Sortie :** Cirrhose avec ascite et splénomégalie
+
+**Plan de Traitement :** Surveillance régulière de la fonction hépatique, gestion des symptômes pour le prurit et la douleur abdominale, et visites de suivi programmées.
+
+**Consultations Hospitalières :** Le patient a été vu par un hépatologue et un gastroentérologue au cours du traitement.
+
+**Procédures :** Paracentèse et échographie pour la splénomégalie
+
+**Résultats :** Réduction de l'ascite et amélioration des niveaux d'enzymes hépatiques.
+
+---
+
+# Section Recommandée
+
+**Médicaments de Sortie :** Le patient a été libéré avec des prescriptions pour des diurétiques et des médicaments contre le prurit.
+
+---
+
+# Sections Supplémentaires
+
+**Plainte Principale :** Le patient s'est présenté avec une ascite, une démarche instable entraînant des chutes, une splénomégalie, un prurit et une douleur abdominale.
+
+**Nutrition :** Il a été conseillé au patient de suivre un régime pauvre en sodium pour aider à gérer l'ascite.
+
+**Antécédents Familiaux :** Les antécédents familiaux ne montrent aucune prédisposition génétique aux maladies du foie.
+
+**État Fonctionnel :** Le patient a montré une amélioration de ses mouvements et a signalé moins de chutes après le traitement.
+
+**Antécédents Médicaux :** Le patient a une histoire chronique de cirrhose.
+
+**Diagnostic d'Admission :** Le patient a été admis pour une cirrhose avec une ascite sévère et une splénomégalie.
+
+**Médicaments d'Admission :** À l'admission, le patient était déjà sous médicaments pour la gestion de la cirrhose.
+
+**Instructions de Sortie de l'Hôpital :** Il a été demandé au patient de limiter son apport en sodium, de prendre ses médicaments comme prescrit et de surveiller les signes d'infection autour du site de la paracentèse.
+
+**Examen Physique à la Sortie de l'Hôpital :** À l'examen physique à la sortie, le patient ne présentait aucun signe d'infection et signalait moins d'inconfort.
+
+**Résumé des Études de Sortie de l'Hôpital :** Les résultats de la paracentèse et de l'échographie ont été discutés avec le patient avant la sortie.
+
+**Immunisations :** À jour
+
+**Problème :** Cirrhose conduisant à l'ascite et à la splénomégalie.
+
+**Raison de la Visite :** Le patient s'est présenté avec une ascite sévère entraînant des chutes, ainsi qu'une splénomégalie, un prurit et une douleur abdominale.
+
+**Examen des Systèmes :** Le patient a plusieurs symptômes liés à la cirrhose.
+
+**Antécédents Sociaux :** Le patient est non-fumeur et signale une consommation modérée d'alcool.
+
+**Signes Vitaux :** Stables au moment de la sortie
+
+**Directives Anticipées :** Non spécifié
+
+Numéro de Dossier Médical : 520597-WhO

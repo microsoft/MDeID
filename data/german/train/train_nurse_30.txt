@@ -1,0 +1,48 @@
+"Krankenschwester Erzählnotiz für Patientin Lina Zimmermann mit neurologischen Bedenken
+
+Subjektiv: Lina Zimmermann, ein Kleinkind von 73 Monaten, wurde von den Eltern wegen anhaltender Symptome von häufigem Erbrechen im Laufe des 12.07.92 gebracht. Bei Nachfrage berichteten die Eltern auch von auffälligen Veränderungen im körperlichen Erscheinungsbild von Lina Zimmermann, dazu gehörten ein rundes Gesicht, eine prominente Stirn, Hypertelorismus, periorbitale Fülle, eine kurze Nase und eine umgestülpte Unterlippe.
+
+Objektiv: Bei der Durchführung der körperlichen Untersuchung waren die beschriebenen Gesichtsmerkmale tatsächlich vorhanden. Ein zusätzlicher MRT-Test ergab das Vorhandensein von Hydrozephalus, was die Notwendigkeit einer Shunt-Operation nahelegte. Postoperative MRT-Bewertungen zeigten eine supratentorielle Ventrikelerweiterung, ein reduziertes Hirnstammvolumen und eine leptomeningeale Verbesserung. Später wurde eine Masse von 3 cm im rechten Frontallappen entdeckt.
+
+Die Masse wurde nach Resektion als dunkelrot bis braun gefärbt gefunden, maß 4x4x2 cm und war an den Meningen befestigt. Bemerkenswerte Merkmale waren atypische Kerne und Melaninablagerungen. Immunhistopathologische Tests zeigten positive Ergebnisse für HMB45, Melan-A, S100 und 30% Ki-67; P53 war negativ. Weitere zytogenetische Untersuchungen zeigten keine allelische Deletion von P53 und eine NRAS-Mutation in Exon 3 (Codon 61).
+
+Bewertung: Die Hauptdiagnose war ein maligner melanocytischer Tumor des ZNS, weiter kompliziert durch Hydrozephalus und intrakranielle Hypertonie. Angesichts des aggressiven Wachstums und des drohenden tödlichen Ausgangs trotz chirurgischer Intervention wurde die Prognose als schlecht eingestuft.
+
+Plan: Der Behandlungsplan umfasste eine chirurgische Intervention zur Behandlung des Hydrozephalus durch eine Shunt-Operation, gefolgt von einer Tumorresektion. Postoperative Nachsorgetermine wurden mit regelmäßigen MRT/CT-Scans alle 3 Monate zur Überwachung des Fortschritts geplant. Der Patient erlag leider seinem Zustand am 12.07.92 nach der Tumorresektionsoperation. Der Familie wurde fortlaufende Unterstützung und Beratung angeboten, um ihnen bei der Bewältigung ihres Verlusts zu helfen.
+
+Kontaktinformationen:
+Telefonnummer: 900-868-3907
+E-Mail: FischSa@zoho.com
+
+Notfallkontakt:
+Telefonnummer: 900-868-3907
+Beziehung zum Patienten: Lina Zimmermann
+
+Zusätzliche Informationen:
+Kontonummer: Snjuf aKlq
+Medizinische Aktennummer: 66345-2247
+IP-Adresse: 121.42.199.75
+Benutzername: u7mjIOu5
+Fahrzeug: D29 8VB
+Sozialversicherung: 652-4250511-81
+Lizenz: PLr-5168df
+Biometrischer Identifikator: 16-GYrrwoP
+ID-Nummer: Snjuf aKlq
+
+Adressinformationen:
+Hausanschrift: Lina Zimmermann, Schalkstraße 9 48, 2260 Rain, Deutschland
+Stadt: Crans-Montana
+Bundesland: MI
+PLZ: 2260
+Land: Belgien
+
+Krankenhausinformationen:
+Krankenhaus: Bryant
+Standort: Sara Fischer, Liebeltstr. 871 103, 5602 Korschenbroich, Österreich
+Gesundheitsplan: 7RVjXTodeJFtTXJ
+Beruf: Strahlenschutzpraktiker
+Organisation: Lee Group
+Zuständiger Arzt: Sara Fischer
+
+Unterschrift der Krankenschwester: u7mjIOu5, RN, BSN."
+

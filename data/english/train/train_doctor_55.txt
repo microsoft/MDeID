@@ -1,0 +1,17 @@
+"Doctor Scratch Note
+
+S:
+Harold Matthews, 2-year, recurrent throat infections. Fever, sore throat, nasal congestion, and cough - 5 days. Influenza Dx - day 1, prescribed oseltamivir. D/C medication - day 3 due to nausea and vomiting. Abdominal pain, joint pain (left knee, right ankle, right elbow), lethargy, poor appetite, dark urine. Family setting - lives with mother and three siblings, no similar symptoms.
+
+O:
+Emergency center examination - fever (39.4\u00b0C), hypotensive (78/47 mm Hg), tachypneic (respiratory rate 33/min), tachycardic (heart rate 160/min). Physical exam - crusted lip lesions, cervical lymphadenopathy, nasal congestion, nonpurulent pharyngeal erythema, systolic murmur, hepatosplenomegaly, no signs of arthritis. Lab findings - normal white blood cell count (11,600/mm3), thrombocytopenia (platelet count 36,000/mm3), anemia (hemoglobin 8.9 g/dL), hypoalbuminemia (albumin 1.9 g/dL), proteinuria, sterile pyuria, elevated inflammatory markers (C-reactive protein 182 mg/L, erythrocyte sedimentation rate elevated). Admitted to Vanderbilt shocked society, pediatric intensive care unit, started on intravenous cefepime and vancomycin.
+
+A:
+Severe symptoms - systemic infection or inflammatory process. Complications - recent influenza diagnosis, adverse reaction to antiviral medication. Differential Dx - sepsis, post-infectious complications from influenza, other underlying infectious or autoimmune condition. Multi-system involvement - hematologic abnormalities, hepatosplenomegaly, elevated inflammatory markers. 
+
+P:
+Monitor vital signs, lab values in Vanderbilt shocked society, pediatric intensive care unit. Maintain intravenous cefepime, vancomycin, adjustments based on culture results, clinical response. Supportive care - hydration, nutrition. Further diagnostic workup - blood cultures, echocardiogram, possible bone marrow biopsy (cause of thrombocytopenia, anemia). Regular updates to Harold Matthews family, education about treatment adherence, monitoring symptoms at home post-discharge. Consult Kayla Lodge, hematology, infectious disease specialists for comprehensive management.
+
+Kayla Lodge, Buyer, industrial
+Turner, Ashley and Davis"
+

@@ -1,0 +1,45 @@
+"Nota di Consultazione Infermieristica
+
+Intestazione: Informazioni sulla Consultazione
+-------------------------------------
+Paziente: Matteo Marini
+Indirizzo: Matteo Marini, 3098 Michael Loop Suite 651, 74, 5354 Bonarcado Supranormal, Italia
+Città: Bonarcado
+Stato: TRENTO
+Paese: Italia
+CAP: 5354
+Età: 78
+Telefono: 381-421-2741
+Email: ai@un.org
+Nome utente: Va6gY3Mm
+Sicurezza Sociale: LADGPR50X00D319L
+Piano Sanitario: dZH
+Dottore: Anna Montanari
+Ospedale: campbell
+-------------------------------------
+
+Soggettivo: Il paziente, identificato come Matteo Marini, un maschio afroamericano di 78 anni, non ha segnalato attuali sintomi o disagi. La sua visita è per un controllo di routine. Ha rivelato una significativa storia familiare di cancro alla prostata, con suo fratello di 78 anni che è stato diagnosticato e trattato con radiazioni.
+
+Obiettivo: Attualmente, Matteo Marini è asintomatico. Non ci sono registrazioni di esami fisici o risultati di laboratorio associati a questa consultazione.
+
+Valutazione: Sulla base delle informazioni fornite, Matteo Marini è a un rischio aumentato di cancro alla prostata a causa della sua etnia e della storia familiare (parente di primo grado diagnosticato a 78). La discussione si è concentrata sui potenziali benefici e rischi del test PSA, considerando le diverse raccomandazioni delle varie organizzazioni sanitarie.
+
+Piano: Il piano è di avere una conversazione approfondita sul test PSA per permettere a Matteo Marini di prendere una decisione informata. Al paziente è stato consigliato di fare ulteriori ricerche e preparare eventuali domande che potrebbe avere per una discussione di follow-up. Gli è stato anche consigliato di segnalare eventuali nuovi sintomi o preoccupazioni nel frattempo.
+
+Piede di pagina: Informazioni Aggiuntive
+-------------------------------------
+Account: 728-69kXGF
+Cartella Clinica: 946 LujrMC
+Dispositivo: rF-BwhudYs
+Licenza: NnJlKP 220
+BioID: 664532 859
+Indirizzo IP: 47.175.77.129
+Numero ID: 728-69kXGF
+Posizione: scuola
+Professione: Responsabile del call center
+Organizzazione: Dawson, Cole and Nelson
+Veicolo: TVN I97
+URL: gonzalez.net
+Fax: 001-204-854-5867
+-------------------------------------"
+

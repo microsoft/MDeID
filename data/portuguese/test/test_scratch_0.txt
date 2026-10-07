@@ -1,0 +1,54 @@
+"Notas de Enfermagem:
+
+==========================
+(Paciente) Diogo Araújo  
+(Prontuário Médico) 850489 550  
+(Médico Assistente) Sara Jesus  
+(Plano de Saúde) V2WMpnLD6hw6 
+(Data de Admissão) 04/10/2020 
+==========================
+
+
+Sinais Vitais & Observações
+-------------------
+PA: 130/80
+FC: 88 bpm
+Temp: 101.3 F
+FR: 20 respirações/min
+
+-Notou-se febril, possível condição subjacente  
+-Queixas do paciente: sente-se realmente doente  
+-Suspeita: http://sullivan.biz/blog/poststerms.htm (link de recurso para malária)  
+-Aconselhou Diogo Araújo a descansar e manter-se hidratado    
+
+===========================
+(Endereço) Diogo Araújo, R. do Barredo, 86 69, 0116 ESPINHO, Portugal  
+(Contato) 907.538.1876x34063  
+(Conta) FRtS 71uFh 
+(Email) aJe@red-cross.org
+(Número de Licença Profissional) SO 99MyyDb
+(Informações do Dispositivo) 333966 Gte
+===========================
+
+Tratamento
+-------------------
+-Prescrito medicamentos antimaláricos
+-Acompanhará o Progresso
+
+===========================
+(Idade do Paciente) 92 
+(Nome de Usuário do Paciente) Dioújo 
+(Número do Seguro Social do Paciente) 91809641-5 
+(Endereço IP) 130.222.19.138
+(ID Biológico do Paciente) 898242 738
+(Número de Identificação) FRtS 71uFh
+===========================
+
+Notas Adicionais
+-------------------
+-O paciente precisará de acompanhamento após 04/10/2020
+-Paciente conectado com a organização White PLC
+-Contato de Emergência: Diogo Araújo
+
+[Fim da Nota]"
+

@@ -1,0 +1,45 @@
+# Sintesi di Dimissione
+
+## Disposizione del Paziente
+Casa
+
+## Sezione Allergie e Intolleranze
+La Alina Schmid non ha allergie note.
+
+## Sezione Corso Ospedaliero
+La Alina Schmid è stata ricoverata a causa di sintomi associati alla cardiomiopatia. I sintomi presentati includevano dispnea, ortopnea, ipocinesia e dolore articolare. La paziente è stata monitorata e ha risposto bene al trattamento iniziale.
+
+## Sezione Diagnosi di Dimissione
+Diagnosi primaria: Cardiomiopatia
+
+## Sezione Piano di Trattamento
+Si consiglia al paziente di continuare con la terapia prescritta e di fare un controllo con il Filippo Neri presso l'ambulatorio.
+
+## Sezione Consulti Ospedalieri
+Sono state effettuate diverse consultazioni con il team di cardiologia guidato dal Filippo Neri.
+
+## Sezione Procedure
+Sono stati eseguiti un ecocardiogramma e un ECG.
+
+## Sezione Risultati
+L'ecocardiogramma ha mostrato una disfunzione sistolica del ventricolo sinistro. L'ECG ha mostrato un ritmo sinusale normale.
+
+## Sezione Farmaci di Dimissione
+La Alina Schmid deve continuare con beta-bloccanti, ACE inibitori e diuretici come prescritto.
+
+## Sezione Stato Funzionale
+La Alina Schmid ha mostrato un miglioramento dello stato funzionale, con una riduzione della dispnea e un miglioramento della mobilità verso la fine del ricovero.
+
+## Sezione Istruzioni di Dimissione Ospedaliera
+La Alina Schmid dovrebbe continuare a prendere i farmaci prescritti senza mancare, seguire una dieta a basso contenuto di sodio e svolgere attività fisiche leggere.
+
+## Sezione Fisica di Dimissione Ospedaliera
+Al momento della dimissione, la Alina Schmid era stabile, senza dispnea o dolore toracico.
+
+## Sezione Segni Vitali
+I segni vitali alla dimissione erano stabili: Pressione sanguigna: 120/80mmHg, Frequenza cardiaca: 75 bpm, Frequenza respiratoria: 16 respiri al minuto, Temperatura: 37°C, Saturazione di ossigeno: 98% in aria ambiente.
+
+## Sezione Direttive Anticipate
+Le direttive anticipate sono state discusse.
+
+Ricorda, la Alina Schmid dovrà continuare a monitorare i sintomi, prendere i farmaci come prescritto e fare un controllo con il Filippo Neri dopo la dimissione. Qualsiasi peggioramento dei sintomi dovrebbe essere affrontato immediatamente con il team sanitario.

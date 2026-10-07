@@ -1,0 +1,51 @@
+"## Pflegekratznotizen
+
+
+Patient: Doreen Richter
+Medizinische Akte: 9251-53919
+Gesundheitsplan: 9HPG G3y MH9tFA
+Organisation: Collins-Hensley
+Kontakt: +1-595-846-2549x9245
+Notfallkontakt: +1-595-846-2549x9245
+Überweisender Arzt: Julia Wyss
+Krankenhaus: F.C. und
+Pflegepersonal: Julia Wyss
+
+Behandlungsinformationen:
+-----------------
+Krampfadern
+ - kkJSO-VHoI zur Überwachung verwendet
+ - 9251-53919 Referenz für frühere Behandlungen
+
+Beobachtungen:
+-------------
+Vitalwerte: 
+ - BP: 120/80
+ - Puls: 80 bpm
+ - Temp: 98,6 F
+
+Notierte Symptome:
+ - Beinschmerzen Level: 7/10
+
+Behandlungsfortschritt:
+-------------------
+ - Kompressionstherapie: Effektiv 
+ - Entfernung von Krampfadern: Noch nicht gemacht
+ - Patientenberechtigung für Operation: Überprüfung der 186 nmfqje Details
+
+Zusätzliche Informationen:
+----------------
+ - Alter: 35
+ - Beruf: Psychologe, Gefängnis- und Bewährungsdienste
+ - Sozialversicherung: 869-7632533-38
+ - E-Mail: su@red-cross.org
+ - URL für Gesundheitsakten: gutierrez.info
+ - Benutzername für das Online-Gesundheitsportal: MdNQGXKp
+
+------------------------
+Dokumenten-ID: 186 nmfqje
+Aufgezeichnete IP-Adresse: 213.88.237.224
+Verwendetes Gerät: kkJSO-VHoI
+Datum der Notizen: 13.01.97
+"
+

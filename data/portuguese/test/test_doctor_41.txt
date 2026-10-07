@@ -1,0 +1,41 @@
+"Notas do Médico
+
+Nota: José Tavares, Masculino, 41
+Hx: HIV, Câncer de células transicionais metastático - pelve renal. 
+
+- Nefrectomia esquerda prévia
+- Disseminação metastática: Ossos espinhais, LNs mediastinais, pulmões
+- Tx: Gemcitabina, Cisplatina, Atezolizumabe, Terapia antirretroviral (elvitegravir, cobicistat, emtricitabina, tenofovir/alafenamida)
+- Lab: Carga viral indetectável, contagem de CD4 444 células/mm3
+
+Apresentou com:
+- SOB progressiva
+- Inchaço nas pernas
+
+O/E:
+- Taquicardia
+- Angústia respiratória
+- Sons respiratórios diminuídos no hemitórax direito
+- Inchaço dos membros inferiores
+
+Investigações:
+- RX de tórax: Derrame pleural direito, Densidade nodular aumentada no lobo superior esquerdo
+- Labs: Anemia, Níveis elevados de troponina I
+- Ecocardiografia transtorácica e transesofágica: Massa cística grande, móvel, átrio direito e esquerdo, Invasão no septo interatrial
+- Ressonância magnética dos membros inferiores: Múltiplas massas neoplásicas realçadas em ambos os bezerros
+
+Impressão: 
+- Câncer metastático avançado
+- Envolvimento cardíaco e pulmonar significativo
+- Anemia
+- Angústia cardíaca potencial (troponina I elevada)
+- Doença metastática disseminada
+
+Plano:
+- Transfusão de sangue, toracocentese para manejo de sintomas
+- Cuidados paliativos para manutenção do conforto
+- Sem intervenções cirúrgicas devido à doença extensa
+- Paciente faleceu, família informada e apoiada durante o processo de luto
+
+Iuri Pinto"
+

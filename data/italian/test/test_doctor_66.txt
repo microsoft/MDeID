@@ -1,0 +1,60 @@
+"Appunti del Dottore
+
+----------------------------------------
+
+88 donna, non fumatrice, senza comorbilità.
+Sintomi presentati: Tosse, febbre di basso grado, leggera perdita di peso.
+Nessuna storia di infezioni ricorrenti.
+Nessun contatto con pazienti affetti da tubercolosi.
+La storia dei viaggi include Italia e Italia.
+Diagnosi precedente: Polmonite, molteplici trattamenti antibiotici, nessuna risoluzione dei sintomi.
+
+----------------------------------------
+
+Esame fisico:
+Suoni respiratori diminuiti nel lobo superiore sinistro.
+Osservazioni da radiografia del torace e TAC:
+- Consolidamento nell'ilo superiore sinistro, lobo superiore sinistro.
+- Lesione nodulare intraluminale centrale.
+- Ispessimento bronchiale.
+- Polmonite post-ostruttiva.
+Non si notano linfadenopatie o effusioni pleuriche.
+
+Risultati della broncoscopia:
+Tumore endobronchiale ben definito nel lobo superiore sinistro.
+
+Esame istologico del lobo superiore sinistro resecato:
+- Tumore carcinomatoso atipico.
+- Infiammazione granulomatosa.
+Test per Mycobacterium tuberculosis: Negativo.
+
+----------------------------------------
+
+Diagnosi:
+Primaria: Tumore carcinomatoso atipico del lobo superiore sinistro.
+Differenziale: Tubercolosi (a causa dell'infiammazione granulomatosa e della storia dei viaggi), attuali test per la tubercolosi negativi.
+
+Prognosi:
+Dipende dal monitoraggio continuo e dalla gestione del tumore carcinomatoso e della possibile tubercolosi.
+
+----------------------------------------
+
+Piano di trattamento:
+Il paziente ha subito con successo una lobectomia del lobo superiore sinistro.
+Si raccomanda un monitoraggio continuo per la tubercolosi nonostante i test attuali negativi.
+Sono necessari controlli regolari per la gestione e la rivalutazione.
+Ulteriori opzioni di trattamento possono essere considerate in base alla progressione del tumore carcinomatoso e a qualsiasi nuova scoperta relativa alla tubercolosi.
+
+----------------------------------------
+
+Dottore: Nicola Guerra
+Paziente: Cristina Lombardi
+Cartella clinica: mE 198035l
+Ospedale: Woudestein
+Data: lunedì 12 aprile 1971
+Città: Guardea
+Stato: Roma
+CAP: 0119
+
+----------------------------------------"
+

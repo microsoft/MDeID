@@ -1,0 +1,57 @@
+"\"Nursing Scratch Notes: Skin Condition Examination\"
+
+Header Information:
+Doctor in charge: Sienna Williams
+
+Patient Information:
+Patient Name: Mia Smith
+AGE: 10-month
+Address: Mia Smith, 155 Laemodipodiform, Nonvocalization, 71 7727, United States
+Account Number: YIGCrM-352
+Email: liamien@hotmail.com
+Phone: +1-683-731-6461x3387
+
+Vital Signs:
+- Temperature: 98.6\u00b0F 
+- Pulse: 80 bpm
+- Breathing: 16 breaths per min
+- Blood Pressure: 120/80 mm Hg
+
+Skin Rash Examination:
+Redness: Yes
+Itching: Yes
+Swelling: No
+Bumps: Yes
+Duration: Tue,Jan,16
+
+Observations:
+-Patient complains of persistent skin rash, suspected to be a fungal infection.
+-Examination confirmed itchy, red rash with small elevated bumps. 
+-Patient affected area: pharmacy
+
+Medical History:
+Previous Hospitalization: King Henry VII of
+Medical Record: 090030-892
+
+Treatment:
+Topical anti-fungal cream and oral anti-fungal medication prescribed. Follow-up recommended for Tue,Jan,16.
+
+Additional Info:
+Health Plan: 6YQ
+Device: 06 2243qvS
+Profession: Proofreader
+Username (for online consultation) : OTuA6I4i
+Emergency Contact: +1-683-731-6461x3387
+
+Footer Information:
+Sending IP: 51.106.29.250
+Software license by: 79-43092vL
+Bio-ident for login: 4685-XxRTl
+Document ID: YIGCrM-352
+
+Contact Info:
+Fax: 001-293-332-4617x228
+URL: luna-dennis.robinson-stokes.biz 
+
+END OF NOTE."
+

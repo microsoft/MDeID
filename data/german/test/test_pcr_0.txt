@@ -1,0 +1,28 @@
+"Patientenpflegebericht
+
+Einsatzübersicht: Unsere EMS-Einheit wurde zur Wohnadresse von Urs Brunner unter der Adresse Urs Brunner, Ingelore-Mitschke-Weg 4/0 92, 6093 Hoffeld, Belgien entsandt, aufgrund eines 911-Anrufs von 979.285.7333, der berichtete, dass der Patient starke Beschwerden hatte und Anzeichen von Krankheit zeigte.
+
+Ankunft: Bei unserer Ankunft fanden wir den Patienten in mäßiger Notlage, bei Bewusstsein, aber schwach. Der Patient wurde in seinem Zuhause an Bibliothek gefunden. Der Patient schien wach und sich seines Zustands bewusst zu sein, wirkte aber blass und lethargisch.
+
+Symptome: Der Patient, eine Person im Alter von 61, berichtete, dass er sich in den letzten Tagen unwohl gefühlt hat. Er zeigte Symptome wie Fieber, Schüttelfrost und Müdigkeit - alles Anzeichen einer möglichen Malaria-Infektion. Dies ist jedoch eine vorläufige Beurteilung auf der Grundlage von symptomatischen Mustern und der Krankengeschichte des Patienten. 
+
+Medizinische Vorgeschichte: Wir kontaktierten Paul Frei und erhielten die Krankengeschichte. Die Krankengeschichte des Patienten wurde aus der Datenbank seines Gesundheitsdienstleisters mit uyGu9gQF und  abgerufen. Seine medizinische Aktennummer war fRLYBC YsM, und seine ID-Nummer war 7921 DuUsX. Er gab an, dass er kürzlich in ein Malaria-gefährdetes Gebiet gereist war, eine Information, die im Gesundheitstracker von Gray, Stone und Smith, zugänglich über rodriguez-shepherd.org, vermerkt war.
+
+Beobachtungen und Behandlung: Die Vitalwerte des Patienten wurden erfasst und Antipyretika zur Behandlung seines Fiebers verabreicht. Aufgrund der potenziellen Schwere und Ansteckungsgefahr von Malaria wurden Proben zur Untersuchung entnommen und der Patient wurde sofort zur weiteren Untersuchung und Behandlung ins Bayreuth Gericht gebracht.
+
+Transport: Unsere Einheit, mit der Nummer 2ZD23, transportierte den Patienten ins Krankenhaus, wo er unter der Obhut von Paul Frei aufgenommen wurde. Der Patient wurde ohne Zwischenfälle ins Krankenhaus gebracht und die Pflege wurde an das ER-Personal übergeben. Der Weg zum Krankenhaus führte über Paul Frei, Lennard-Lampl-Straße 948 16, 1149 Zinnowitz, Belgien, und der Transport wurde aufgrund der möglichen Diagnose Malaria mit einem kuZ3yW Dringlichkeitscode gekennzeichnet. 
+
+Kommunikation: Auf dem Weg ins Krankenhaus kommunizierten wir den Zustand des Patienten mit der Notaufnahme über das 72 qZgaIyl Gerät. Alle relevanten Details, einschließlich der Sozialversicherungsnummer des Patienten 10 100 466 557, wurden über li@outlook.com geteilt und sicher gespeichert, nach dem Datum Mittwoch, 22. August 2007 und der Uhrzeit des Vorfalls gemäß dem Standardprotokoll.
+
+Bericht von: Dieser Bericht wurde von einem Klinischen Embryologen dokumentiert und das Dokument wurde sicher in unserem System gespeichert und verschlüsselt, zugänglich durch eine eindeutig zugewiesene 0584-5390Y. Eine Nachsorge des Teams wurde für den Mittwoch, 22. August 2007 im Bayreuth Gericht geplant.
+
+Kontakte des Patienten: Wir haben den Notfallkontakt des Patienten, der Inhaber seiner Vorsorgevollmacht ist, kontaktiert und ihn über die Situation informiert. Die Notfallkontaktdaten des Patienten wurden mit seinem Konto 7921 DuUsX aus unserer Datenbank abgerufen.
+
+Zusätzliche Informationen: Die IP-Adresse des Patienten 80.226.245.156, die für die erste Telemedizin-Konsultation verwendet wurde, wurde in seiner Akte dokumentiert. Die Lizenznummer des Patienten 8818-bDATz und andere verwandte Informationen wurden ebenfalls notiert. 
+
+Elektronische Dokumentation: Die digitale Kopie dieses Berichts wurde auf das sichere Webportal von Gray, Stone und Smith hochgeladen, und ein Link dazu wurde an die registrierte E-Mail-Adresse des Patienten gesendet. Der Patient und seine unmittelbare Familie können darauf zugreifen, indem sie ihren jeweiligen Benutzernamen und ihr Passwort verwenden.
+
+Hinweis: Alle persönlichen Gegenstände des Patienten wurden ihm übergeben, und sein Zustand wurde kontinuierlich überwacht, bis seine Pflege an das ER-Team übergeben wurde.
+
+Wir haben die notwendigen Richtlinien befolgt und alle Sicherheitsprotokolle eingehalten, einschließlich der Gewährleistung der Privatsphäre des Patienten. Die persönlichen Gesundheitsinformationen (PHI) des Patienten wurden gemäß dem Health Insurance Portability and Accountability Act (HIPAA) behandelt."
+

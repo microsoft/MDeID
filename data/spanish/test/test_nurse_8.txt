@@ -1,0 +1,56 @@
+"Nota Narrativa de Enfermería para Paciente Pediátrico con Dificultad Respiratoria
+
+Subjetivo: El paciente Nerea Márquez, un niño de 35 años, fue llevado a nuestro departamento de emergencias mostrando signos de dificultad respiratoria. No presentaba fiebre. Según el relato del cuidador, Nerea Márquez ha estado experimentando episodios repetidos de tos y sibilancias durante un mes, con síntomas que no muestran mejoría a pesar de los medicamentos, incluyendo antibióticos y esteroides para un diagnóstico sospechado de asma. No se informó de antecedentes de asfixia, disfagia, babeo, atopia o problemas perinatales de naturaleza patológica.
+
+Objetivo: Al examinarlo, Nerea Márquez estaba alerta, sin fiebre con una temperatura de 37.5°C, mostrando taquicardia con una frecuencia cardíaca de 130 latidos por minuto y taquipnea con una frecuencia respiratoria de 40 respiraciones por minuto. Su saturación de oxígeno se marcó en el 93%. El examen físico reveló recesión supraesternal, ronquidos dispersos y sibilancias difusas. Sin embargo, no se observaron signos de deshidratación, desnutrición o cianosis. El examen cardiovascular no indicó ninguna anomalía. Las pruebas de laboratorio mostraron un recuento sanguíneo completo normal y una proteína C reactiva de 14 mg/l. Una radiografía de tórax identificó un cuerpo extraño en el mediastino superior.
+
+Análisis: Nuestro diagnóstico principal para Nerea Márquez es la dificultad respiratoria debido a un objeto extraño - un botón de ropa alojado en el esófago torácico superior. Esto fue inicialmente mal diagnosticado como asma. El diagnóstico diferencial incluyó asma y otras causas de dificultad respiratoria pediátrica. El pronóstico, tras la extracción del cuerpo extraño, es bueno sin signos de estenosis o perforación y una recuperación satisfactoria durante el último año.
+
+Plan: El cuerpo extraño fue exitosamente removido vía hipofaringoscopia realizada bajo sedación. Post-operatoriamente, Nerea Márquez fue manejado con líquidos intravenosos y corticosteroides para reducir la inflamación periesofágica. Fue dado de alta 24 horas después del procedimiento con una dieta líquida clara y no ha demostrado signos de complicaciones o recurrencia de síntomas. El cuidado de seguimiento debe incluir la vigilancia de cualquier signo de daño esofágico o problemas respiratorios. Se recomienda una mayor educación sobre la prevención de la aspiración de cuerpos extraños para los cuidadores.
+
+---
+
+**Datos del Paciente**
+- Número de Historia Clínica: jOhwz-85Mb
+- Número de Cuenta: 4357-yZijI
+- ID del Paciente: 4357-yZijI
+- Número de Seguridad Social: 21051979O
+
+**Información de Contacto**
+- Dirección: Nerea Márquez, Viaducto Nayarit 748 Edif. 901, Depto. 423 118, Malope, M7ET4W58 Colonia Caroya, Argentina
+- Teléfono: (213)955-1279x0916
+- Correo Electrónico: agustina@who.int
+
+**Información Adicional**
+- Doctor: Agustina Ramos
+- Hospital: Saint Francis Xavier
+- Plan de Salud: Wz7l4Fo
+
+**Contacto de Emergencia**
+- Nombre: Nerea Márquez
+- Teléfono: (213)955-1279x0916
+- Relación: 
+
+**Información Digital**
+- Dispositivo: qUWB 88meo
+- Dirección IP: 18.47.50.43
+- Nombre de Usuario: ereMárqu
+- URL: day.lopez-wheeler.ferrell-ray.com
+- Fax: 882-276-5172x42036
+
+**Información Personal**
+- Edad: 35
+- Profesión: Diseñador industrial/producto
+- Organización: Ali, Green and Beltran
+- Licencia: VivK-51ZdR
+- BioID: 305505 88c
+- Vehículo: 44J 0073
+
+**Información de Ubicación**
+- Ciudad: Colonia Caroya
+- Estado: Tarragona
+- País: España
+- Calle: 232 Robert Flat
+- Código Postal: M7ET4W58
+- Otra Ubicación: playa"
+

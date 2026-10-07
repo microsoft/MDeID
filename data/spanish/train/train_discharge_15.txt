@@ -1,0 +1,34 @@
+RESUMEN DE ALTA
+
+Paciente: Ángel Díaz
+
+Diagnóstico de Admisión: Bronquitis aguda
+
+Motivo de Hospitalización:
+Ángel Díaz fue admitido debido a tos persistente, sibilancias, falta de aliento y opresión en el pecho. Estos síntomas se volvieron cada vez más graves a pesar del tratamiento previo, lo que llevó a la admisión del paciente.
+
+Curso Hospitalario:
+A Ángel Díaz inicialmente se le administraron tratamientos con nebulizador y corticosteroides intravenosos para ayudar a aliviar la inflamación en los tubos bronquiales. A lo largo de la estancia hospitalaria, los síntomas mejoraron gradualmente y el paciente respondió positivamente al tratamiento. Los signos vitales y los niveles de oxígeno en sangre se monitorearon de cerca diariamente.
+
+Alergias e Intolerancias:
+El paciente no informó de ninguna alergia o intolerancia a medicamentos conocida durante la estancia hospitalaria.
+
+Procedimientos Realizados:
+No se necesitaron procedimientos quirúrgicos durante la hospitalización de Ángel Díaz. El cuidado principal involucró la administración de medicamentos y el monitoreo de la función pulmonar.
+
+Diagnóstico de Alta:
+Al momento del alta, la condición de Ángel Díaz había mejorado significativamente. El diagnóstico al alta sigue siendo bronquitis aguda.
+
+Tratamiento y Servicios Proporcionados:
+Durante el curso hospitalario, se proporcionó atención integral, incluyendo la administración de medicamentos, tratamientos con nebulizador y fisioterapia para la movilización del pecho. Se realizó un monitoreo regular de los signos vitales y la saturación de oxígeno, con valores dentro del rango normal durante la última parte de la estancia hospitalaria.
+
+Instrucciones de Alta:
+Se ha aconsejado a Ángel Díaz que continúe con los medicamentos prescritos, mantenga la hidratación y evite la exposición a contaminantes. En caso de un aumento en la tos, fiebre o cualquier forma de dificultad respiratoria, el paciente debe buscar atención médica inmediata.
+
+Cuidado de Seguimiento:
+Ángel Díaz tiene programada una visita de seguimiento con el médico de atención primaria, Edgar Puerta, dos semanas después del alta. Durante esta visita, se evaluará la efectividad del tratamiento y se realizarán los ajustes necesarios al régimen de medicación.
+
+Este informe fue preparado por: Edgar Puerta
+
+[MEDICALRECORD:XXXX]
+[DATE: XX/XX/XXXX]

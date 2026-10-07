@@ -1,0 +1,69 @@
+"NOTA DE ENFERMERÍA:
+
+------------------------
+|  INFORMACIÓN DE Ana Aguilar   |
+------------------------
+AnAguilar: 
+37: 
+Ana Aguilar, Boulevard Chile 105 Interior 204, 5, 3603 Valle de Santiago, España: 
+YXqRfh 183: 
+KWRO969424ZHYSGN39: 
+1.160.100.209: 
+043 OMN: 
+KoPD: 
+
+------------------------
+| RESUMEN MÉDICO  |
+------------------------
+Estado del dispositivo uB 78002Lh: FUNCIONAL
+Historial médico 841458 cXI
+Observaciones: Hipertensión
+
+-------------------------
+| Signos Clínicos      |
+-------------------------
+PA: 145/95 mmHg
+FC: 90 lpm
+Temp: 99.1 F
+Respiración: 18 respiraciones/min
+O2: 97%
+
+--------------------------
+|  IMPRESIONES Y PLAN  |
+--------------------------
+- Paciente presenta dolor de cabeza; SsU-lLUHjC días
+- Controlar la PA y monitorizar
+- Se instruyó al paciente para mantener una dieta baja en sodio
+- Seguimiento con el Dr. José Alberto Cázares en museo el 29 de diciembre de 1987
+
+-------------------------------
+|  INFORMACIÓN DE CONTACTO Y EMERGENCIA   |
+-------------------------------
+Número de teléfono: +1-324-506-8810x08867
+Contacto de emergencia: Ana Aguilar
+Correo electrónico: osé@microsoft.org
+Licencia: 21 250mrma
+
+-------------------------------
+|  HOSPITAL Y ORGANIZACIÓN    |
+-------------------------------
+Hospital: 1902
+Organización: Clark-Murray
+
+-------------------------------
+|  INFORMACIÓN DE CONTACTO DIGITAL       |
+-------------------------------
+URL: yates.alvarado.com
+Fax: 001-351-496-6869x44876
+
+-------------------------------
+|  PERSONAL                   |
+-------------------------------
+Profesión: Gerente de galería de arte
+Cuenta: SsU-lLUHjC
+Ciudad: Valle de Santiago
+País: Argentina
+Estado: 51
+Calle: 98547 Katherine Oval Apt. 186
+Código postal: 3603"
+

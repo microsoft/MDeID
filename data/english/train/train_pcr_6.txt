@@ -1,0 +1,53 @@
+"Patient Care Report
+
+Dispatch:
+Emergency Medical Services (EMS) was dispatched to university following a 911 call. The call, made by Jessica Such, was for a complaint of eyesight problems and increased frequency of migraines. The dispatch team responded swiftly and accordingly.
+
+On Arrival:
+Upon arrival, the EMS crew found the patient in a state of discomfort. Patient Jessica Such was conscious and responsive, albeit clearly distressed. The crew proceeded to collect primary information and noted that the problem had started a few hours prior. 
+
+Symptoms:
+Patient Jessica Such reported having severe headaches with increased frequency and blurry vision. This was an escalation of a chronic problem, which had become severe at present. Before our arrival, the patient had taken their usual migraine medication from Young, Weber and Rodriguez, but it had provided no relief. 
+
+Assessment:
+The Paramedic performed a comprehensive assessment on patient Jessica Such. Neurological assessments indicated some irregularities, with the patient describing their headaches as debilitating and causing severe discomfort. The patient's vision was blurred but they could identify light and movement. The patient's medical history, pulled from their vWJ-779149, showed a chronic problem of migraines. 
+
+Treatment:
+The EMS crew began by administering oxygen via a non-rebreather mask. The patient was also reassessed every 5 minutes by the accompanying Carolyn Morris during transport. A continuous evaluation of the patient's condition was carried out throughout the transport with no significant changes in the patient's condition noted.
+
+Transport:
+The patient was transported to Nelson Riddle under the care of EMS Attendant Carolyn Morris. During transport, patient Jessica Such was reassured and their condition was stabilized. Upon arrival, the patient was transferred to the ED staff under the supervision of ED Physician Carolyn Morris. All necessary information, including the patient's lFs3zmMn, was shared with the attending ED physician. 
+
+Documentation:
+The patient's BWvFiP-95j and all other relevant details were carefully compiled and presented to the receiving hospital staff. Patient Jessica Such signed consent on the digital form for transfer of care and HIPAA compliance. The patient was also given a Notice of Privacy Practices pamphlet for their reference.
+
+Driver:
+The ambulance was driven by EMT EuZxQNYL from Young, Weber and Rodriguez. Due to the severity of patient Jessica Such's condition, an extra person was required to drive.
+
+Report by:
+Attendant Carolyn Morris
+
+This document is a placeholder for:
+
+ACCOUNT: BWvFiP-95j
+AGE: 109
+ADDRESS: Jessica Such, 41 Antiquates, Perispondylitis, 22 9956, Canada
+BIOID: 3931-latVj
+CITY: Perispondylitis
+COUNTRY: New Zealand
+DEVICE: 85018-YMCs
+DATE: Fri-03
+EMAIL: ari@icloud.com
+FAX: 001-763-314-3863x0641
+IPADDRESS: 63.234.10.104
+LICENSE: 67433-Jygk
+LOCATION-OTHER: university
+PHONE: 347-500-3217
+PROFESSION: Radio broadcast assistant
+SOCIALSECURITY: 785-015-496
+STATE: 207
+STREET: 8525 Jennifer Heights
+URL: white.herrera-ramirez.cantu.net
+VEHICLE: 4O RY701
+ZIP: 9956"
+

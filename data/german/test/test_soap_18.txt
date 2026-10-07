@@ -1,0 +1,30 @@
+"S: Der Patient Andreas Fischer, ein 29 Jahre alter Mann, berichtet über Unbehagen im Restaurant nach einem TEP-Verfahren wegen beidseitiger direkter Leistenhernie und einem TURP wegen benigner Prostatahyperplasie. Er bemerkte auch Schmerzen und Schwellungen im rechten Leistenbereich nach der Operation.
+
+O: Andreas Fischer unterzog sich einem TEP und TURP mit einer Gesamtoperationszeit von 23.03.1979 und einem geschätzten Blutverlust von krADzj 250. Vor und nach der Operation wurde Levofloxacin verabreicht. Die pathologische Untersuchung ergab eine atypische adenomatöse Hyperplasie und eine chronische Entzündungszellinfiltration, mit einem hohen PSA-Wert von 609 86734G. Postoperative Komplikationen beinhalteten ein Hämatom im rechten Leistenbereich, bestätigt durch Ultraschall, und beidseitige Leistenabszesse mit Sepsis, bestätigt durch CT-Scan. Die anschließende Behandlung beinhaltete eine Evakuierung und Debridement-Laparotomie, ohne Hinweise auf ein Wiederauftreten der Hernie nach der Netz-Evakuierung.
+
+A: Primärdiagnose von beidseitiger direkter Leistenhernie und benigner Prostatahyperplasie, mit postoperativen Komplikationen einschließlich Hämatom, beidseitiger Leistenabszess und Sepsis. Die Differentialdiagnose beinhaltete eine mögliche rezidivierende Hernie, die nach der Nachsorge ausgeschlossen wurde.
+
+P: Fortsetzung der postoperativen Versorgung mit Schwerpunkt auf Hygiene und Überwachung auf Anzeichen einer Infektion. Dem Patienten wird geraten, alle Nachsorgetermine für eine fortlaufende Beurteilung und Behandlung der Genesung wahrzunehmen. Bei Anzeichen einer Infektion oder anderen Komplikationen wird ein sofortiger Kontakt mit dem Gesundheitsdienstleister Robert Gruber empfohlen. Die Einhaltung der postoperativen Anweisungen ist entscheidend für die Genesung und Verhinderung weiterer Komplikationen. 
+
+Zusätzliche PHI-Platzhalter:
+- Der Patient wohnt derzeit in Andreas Fischer, Pirkerring 4/0 171, 0527 Maria Alm am Steinernen Meer, Österreich.
+- Er wurde in das Peter Munk Cardiac Centre eingeliefert.
+- Der Benutzername des Patienten für den Zugriff auf die Krankenakte ist ischerndrea.
+- Seine Kontonummer ist krADzj 250.
+- Die Sozialversicherungsnummer des Patienten ist 68 449 931 044.
+- Er wurde von Dr. Robert Gruber diagnostiziert, der unter 5787146679 oder Gruberb@hotmail.com erreicht werden kann.
+- Der Gesundheitsplan des Patienten ist Q85Dde lJX5.
+- Sein Beruf ist Public Relations Officer, er arbeitet bei Gibson, Klein und Hamilton.
+- Seine Fahrzeugnummer ist NJM-9554.
+- Die Lizenznummer des Patienten ist Wc 282jxqI.
+- Sein biometrischer Identifikator ist QklM-71083.
+- Die IP-Adresse des Patienten ist 111.112.238.53.
+- Sein persönlicher Identifikator ist krADzj 250.
+- Die Stadt, in der er lebt, ist Männedorf.
+- Sein Wohnsitzland ist Belgien.
+- Der Staat, in dem er lebt, ist 24.
+- Die Straße, auf der er lebt, ist 756 Victoria Isle.
+- Seine Postleitzahl ist 0527.
+- Seine medizinischen Unterlagen können über https://www.alvarez.info/explore/search/tagscategory.html eingesehen werden.
+- Seine Faxnummer ist 001-425-600-7550x39534."
+

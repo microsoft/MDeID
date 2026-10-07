@@ -1,0 +1,61 @@
+Résumé de sortie :
+
+# Disposition de sortie : Domicile
+
+## Raison de l'hospitalisation :
+Hannah Van Dyck a été admise en raison d'un diagnostic d'insuffisance cardiaque congestive. L'état se manifestait par des symptômes tels que l'essoufflement, l'orthopnée et une distension jugulaire veineuse notable.
+
+## Procédures effectuées :
+Aucune procédure invasive n'a été entreprise pendant le séjour de Hannah Van Dyck à l'hôpital. L'approche thérapeutique a principalement impliqué une pharmacothérapie et des modifications alimentaires.
+
+## Soins, traitements et services fournis :
+Hannah Van Dyck a reçu des soins médicaux complets pendant son admission à l'hôpital. Cela comprenait une surveillance quotidienne des signes vitaux, une restriction de liquides et une thérapie diurétique pour gérer les symptômes de l'insuffisance cardiaque. Des consultations régulières avec Lies Jacobs, une consultation diététique et une pharmacothérapie faisaient partie du plan de gestion standard.
+
+## État à la sortie :
+Au moment de la sortie, l'état de santé de Hannah Van Dyck s'était nettement amélioré. L'essoufflement a été atténué et la distension jugulaire veineuse a été notablement réduite. La réponse de Hannah Van Dyck à la thérapie diurétique a été très positive.
+
+## Informations fournies au patient et à la famille :
+L'équipe de sortie a eu une conversation complète avec Hannah Van Dyck et sa famille, expliquant l'importance de l'adhésion au traitement, d'un régime pauvre en sel et d'une surveillance régulière du poids et des symptômes.
+
+## Dispositions pour les soins de suivi :
+Il a été conseillé à Hannah Van Dyck de prendre un rendez-vous de suivi avec Lies Jacobs dans deux semaines. L'importance de chercher une attention médicale immédiate en cas d'exacerbation des symptômes a été soulignée.
+
+# Sections requises 
+
+## Section Allergies et Intolérances :
+Aucune allergie connue.
+
+## Section Cours de l'hôpital :
+Le séjour à l'hôpital de Hannah Van Dyck s'est déroulé sans incident avec des améliorations notables des symptômes présentés de l'insuffisance cardiaque.
+
+## Section Diagnostic de sortie :
+Diagnostic principal - Insuffisance cardiaque congestive
+
+## Section Plan de traitement :
+La gestion en ambulatoire consistera en la continuation du médicament prescrit, un plan alimentaire mettant l'accent sur la restriction de liquides et de sodium, et une surveillance régulière du poids.
+
+## Section Consultations à l'hôpital :
+Une consultation avec un diététicien a été organisée pendant le séjour à l'hôpital pour fournir des conseils alimentaires pour la gestion de l'insuffisance cardiaque.
+
+## Section Procédures :
+Aucune procédure médicale supplémentaire n'a été effectuée pendant l'admission.
+
+## Section Résultats :
+Des améliorations cliniques et symptomatiques ont été observées pendant le séjour à l'hôpital.
+
+# Sections supplémentaires 
+
+## Section Nutrition :
+La consultation avec le diététicien a fourni à Hannah Van Dyck un plan alimentaire personnalisé mettant l'accent sur une faible teneur en sodium et une restriction de l'apport en liquides.
+
+## Section État fonctionnel :
+Au moment de la sortie, Hannah Van Dyck était capable d'effectuer des activités quotidiennes sans assistance.
+
+## Section Instructions de sortie de l'hôpital :
+Des instructions de sortie détaillées ont été fournies à Hannah Van Dyck, notamment l'adhésion au régime médicamenteux fourni, le suivi du plan alimentaire, et la tenue d'un registre du poids quotidien et de toute modification des symptômes.
+
+## Section Signes vitaux :
+Au moment de la sortie, les signes vitaux étaient stables, avec une pression artérielle de 120/80 mmHg, un rythme cardiaque de 75 battements par minute, une fréquence respiratoire de 16 respirations par minute, et une saturation en oxygène de 96% à l'air ambiant.
+
+# Note importante :
+Le document ci-dessus est une description synthétique du parcours hospitalier du patient et ne contient aucune donnée PHI réelle. Le document a été créé pour servir de document d'orientation et ne doit pas être utilisé pour les soins réels des patients. Veuillez utiliser les données réelles du patient pour les décisions de traitement.

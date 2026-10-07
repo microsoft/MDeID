@@ -1,0 +1,57 @@
+"NOTIZ DER KRANKENSCHWESTER
+
+### Patientendetails
+
+- Patient: Leo Vogel
+- Alter: 54
+- Stadt: Helmstedt
+- Bundesland: 6
+- Land: Schweiz
+- Adresse: Leo Vogel, Albersplatz 14 63, 9189 Nittenau, Deutschland
+- Telefon: (949)213-3138x29403
+- E-Mail: tenr@zoho.com
+- Krankenversicherung: 6ETRDW
+
+----
+
+---- VITALWERTE ----
+BP: 125/85 mmHg
+HR: 85 bpm
+Atemfrequenz: 16 Atemzüge/min
+
+---- BEOBACHTUNGEN ----
+- Haut: Ausschlag/Reizung (insbesondere an den unteren Gliedmaßen)
+- Glukose: 170 mg/dL (Hoch)
+
+---- KRANKENSCHWESTERNOTIZ ----
+Hautzustand vorherrschend. Korreliert mit hohem Glukose - möglicher Diabetes. 
+
+Kontakt:
+Dr. Henry Vogt
+Ort: Beat
+
+---- WEITERE INFORMATIONEN ---- 
+- BioID: oingo-754e
+- Gerät: 641 256553
+- Krankenakte: DTVCa-PEId
+- Konto: 7225 XDRIZ
+- SSN: 484814-6005
+- Lizenz: VM ZPJaJeq
+- Fahrzeug: SDS 896
+- IP-Adresse: 162.88.235.236
+- ID-Nummer: 7225 XDRIZ
+- Benutzername: Leoogel
+- PLZ: 9189
+- Fax: +1-848-344-8608x57170
+
+### Nächste Schritte
+Überweisung an Henry Vogt zur weiteren Bewertung. Ort der Sorge: Supermarkt.
+
+### Beruf und Organisation 
+Beruf: Wissenschaftler, biomedizinisch
+Organisation: Trujillo, Fleming und Carrillo
+
+--------
+
+Ende der Notiz."
+

@@ -1,0 +1,102 @@
+"Nota de Enfermagem
+
+-----------------------------------
+
+Informações do Paciente & Obs (KA: )
+
+-----------------------------------
+
+Paciente: Lucas Almeida 
+
+Idade: 9 
+
+Sinais vitais: 
+
+PA: 120/80
+
+FC: 90
+
+FR: 16
+
+Temp: 98.6°F
+
+-----------------------------------
+
+Resumo Clínico
+
+-----------------------------------
+
+Queixa: Problemas de visão, embaçada. 
+
+Leitura do glicosímetro: 215 mg/dl 
+
+Dx: Diabetes 
+
+-----------------------------------
+
+Tratamento & Progresso
+
+-----------------------------------
+
+Insulina administrada - detalhes no prontuário médico: 08144-54WY
+
+Tendência de glicemia monitorada - ver id do dispositivo: Dg wVsFagn
+
+-----------------------------------
+
+Outras Informações
+
+-----------------------------------
+
+Endereço: Lucas Almeida, Morro Pedro Henrique da Conceição, 57 178, Asperation, Esplanada - 85, H9X2H5A5, Brasil
+
+Email: oz@protonmail.com
+
+Nome de usuário: cameid
+
+Médico: Pedro Cruz 
+
+Plano de Saúde: aFe
+
+Hospital: viceroy of
+
+-----------------------------------
+
+Contatos
+
+-----------------------------------
+
+Telefone: (861)961-7640
+
+Telefone alternativo: (861)961-7640
+
+Contato de emergência: Lucas Almeida
+
+-----------------------------------
+
+Detalhes Diversos
+
+-----------------------------------
+
+Licença: 010125-bae
+
+SSN: 450.258.800-89
+
+Número da conta: qZIt LfZJw
+
+ID biométrico: 35327 MaUj
+
+Endereço IP: 140.91.63.182
+
+Informações do veículo: ZFR 838
+
+Outra localização: parque
+
+Organização: Munoz Ltd
+
+Profissão: Apresentador de transmissão
+
+URL:  www.villarreal.com/mainpost.html
+
+Fax: +1-595-846-2549x9245"
+

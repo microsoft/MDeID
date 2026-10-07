@@ -1,0 +1,63 @@
+"Verpleegkundige Kras Notitie
+
+--------------------------
+**Patiëntprofiel** 
+--------------------------
+Patiënt: Milan Simons
+Adres: Milan Simons, Whir 154, 9343 Antenarial, Nederland
+Leeftijd: 107
+Medisch Dossier Nummer: oj 521MMXo
+Gebruikersnaam: cD0Zjvpj
+
+--------------------------
+**Medische Observaties**
+--------------------------
+Klachten: Spataderen
+Locatie: Benen
+Zwelling: Ja
+Omvang: Gevorderd
+Vitale Statistieken: BP: 124/78, HR: 78 BPM, SPO2: 98%
+
+--------------------------
+**Behandelingsdetails**
+--------------------------
+Toegediend: Compressiekousen
+Apparaat ID: 55794-6957
+
+--------------------------
+**Aanvullende Informatie**
+--------------------------
+Gezondheidsplan: AwhM8cknU i1HsDM
+Ziekenhuis: AJPW
+Account: 510453-onG
+Dokter: Corien Smits
+
+--------------------------
+**Noodcontact**
+--------------------------
+Telefoon: 4577236379
+Backup Telefoon: 4577236379
+Email: CorieS@outlook.com
+Fax: 469.550.1377x8778
+
+--------------------------
+**Technische Details**
+--------------------------
+IP Adres: 157.130.103.107
+BIO ID: YKVRw 3164
+Sociale Zekerheid: 881674354
+
+--------------------------
+**Niet-Medische Associaties**
+--------------------------
+Verbonden Organisatie: Wilson-Welch
+Beroep: Ingenieur, productie
+Licentie Details: 56317-KlLt
+Voertuig Details: 568-BIM
+Locatie-Overig: strand
+ID Nummer: 510453-onG
+URL:  harper.com/explorecategory.html
+Postcode: 9343
+
+NOTITIE: Herbeoordeling vereist op 13-10-1994."
+

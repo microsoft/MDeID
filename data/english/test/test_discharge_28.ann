@@ -1,0 +1,13 @@
+T1	PATIENT 41 55	Stephanie Hunt
+T2	MEDICALRECORD 84 94	4903 38490
+T3	PATIENT 170 184	Stephanie Hunt
+T4	PATIENT 559 573	Stephanie Hunt
+T5	DOCTOR 625 637	Samuel Gagné
+T6	PATIENT 1122 1136	Stephanie Hunt
+T7	DOCTOR 1457 1469	Samuel Gagné
+T8	URL 1524 1550	mercado.lyons-le.duffy.com
+T9	PATIENT 1629 1643	Stephanie Hunt
+T10	HOSPITAL 2242 2261	Whitecroft Hospital
+T11	PATIENT 2494 2508	Stephanie Hunt
+T12	DOCTOR 2666 2678	Samuel Gagné
+T13	DOCTOR 2706 2718	Samuel Gagné

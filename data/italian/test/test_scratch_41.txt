@@ -1,0 +1,66 @@
+"**Nota di Osservazione Infermieristica**
+
+---
+
+**Informazioni Paziente**:
+- Paziente: Jessica Sanna
+- Età: 96
+- Cartella Clinica: 98-6092goC
+- Registrato con: Bartlett, Kennedy and Beard
+- Indirizzo: Jessica Sanna, 83303 Williams Flats, 178, 1539 Misano Adriatico Sleepered, Italia
+
+**Segni Vitali**:
+- BP: 120/80
+- Temp: 98.6F
+- Pulsazioni: 80 BPM
+- Respirazioni: 16/minute
+
+---
+
+**Contatto di Emergenza**:
+- Nome: Jessica Sanna
+- Telefono: 6414131610
+- Relazione: ...
+
+**Informazioni Assicurazione**:
+- Piano Sanitario: dD7Tn8cb
+- Conto: cYq-PYaFWM
+
+---
+
+**Osservazioni**:
+- Disagio al collo, restrizione del movimento
+- Colonna Cervicale - notate modifiche degenerative
+- Possibile Spondilosi Cervicale
+
+**Trattamento**:
+- Sedute di fisioterapia - consigliate
+- Farmaci per il dolore - somministrati
+
+---
+
+**Informazioni Medico**:
+- Medico Curante: Lisa Montanari
+
+**Interazioni**:
+- Email: aan@icloud.com
+- Contatto su: harris-thompson.glenn.james.com
+
+**Informazioni Dispositivo**:
+- Dispositivo: 762475-510
+
+---
+
+**Informazioni Aggiuntive**:
+- Sicurezza Sociale: 147803-4487
+- Licenza: vzr-52112b
+- ID Biometrico: 63720-028z
+- Indirizzo IP: 209.174.254.181
+- Veicolo: ZA-4073
+
+--- 
+
+**Firma**
+- Infermiere: ...
+- Data: 28/05/85"
+

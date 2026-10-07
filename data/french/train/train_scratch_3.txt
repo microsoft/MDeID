@@ -1,0 +1,57 @@
+"NOTE DE L'INFIRMIÈRE
+
+### Détails du patient
+
+- Patient : Anaïs Renard
+- Âge : 16
+- Ville : Talsi
+- État : 8
+- Pays : Canada
+- Adresse : Anaïs Renard, 45 92287 rang Patrick Suite 537, Talsi, 8 9182, Canada
+- Téléphone : +1-756-803-6937x56112
+- Email : aFranco@yahoo.com
+- Plan de santé : gF7zVSe
+
+----
+
+---- SIGNES VITAUX ----
+TA : 125/85 mmHg
+FC : 85 bpm
+Fréquence respiratoire : 16 respirations/min
+
+---- OBSERVATIONS ----
+- Peau : Éruption/irritation (surtout sur les membres inférieurs)
+- Glucose : 170 mg/dL (Élevé)
+
+---- NOTE DE L'INFIRMIÈRE ----
+Condition de la peau prévalente. Corrèle avec un taux de glucose élevé - possible diabète. 
+
+Contact :
+Dr. Léa Francois
+Lieu : Sturm Graz
+
+---- AUTRES INFORMATIONS ---- 
+- BioID : CxyX-ioJeY
+- Appareil : MUmz 77333
+- Dossier médical : 376-pLKfec
+- Compte : RFBeFT-914
+- SSN : 334-6518702-11
+- Licence : lZYYS-GEPp
+- Véhicule : UQ 58822
+- Adresse IP : 144.66.166.157
+- Numéro d'identification : RFBeFT-914
+- Nom d'utilisateur : AA8oU7Dn
+- Code postal : 9182
+- Fax : 001-428-564-4082x262
+
+### Prochaines étapes
+Référence à Léa Francois pour une évaluation plus approfondie. Lieu de préoccupation : marché.
+
+### Profession et Organisation 
+Profession : Administrateur de l'éducation
+Organisation : Erickson-Taylor
+
+--------
+
+Fin de la note."
+

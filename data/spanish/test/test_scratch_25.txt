@@ -1,0 +1,66 @@
+"**Nota de Enfermería**
+
+--------------
+**Información del Paciente**
+-------------
+- Designación: Jorge Alberto Montes
+- Edad: 95
+- Cuenta: 326734 273
+
+--------------
+**Observación**
+-------------
+* Hipertensión detectada
+* Reportes de mareos
+* Sensación de desvanecimiento
+* Chequeo Vital:
+  * Presión arterial: 170/90
+  * Frecuencia cardíaca: 108 
+
+--------------
+**Actualizaciones del Tratamiento**
+------------
+* Medicación: Lisinopril
+* Dispositivo: 606276-oSy 
+
+--------------
+**Progreso**
+-------------
+* Reducción de la presión arterial: Incompleta
+* Estado de los mareos: Sin cambios
+
+--------------
+**Detalles del Cuidado**
+------------
+* Plan de Salud: DEdFG6
+* Enfermera: Encuestadora, hidrográfica
+
+--------------
+**Contactos**
+------------
+* Doctor: Tyler Calder
+* Teléfono: (384)958-6805x60228
+
+--------------
+**Misceláneos**
+------------
+* Nombre de usuario: berttese
+* BioID: 4570 04545
+* Hospital: Saint Helena Island Spirituals
+* Ubicación: universidad
+* Correo electrónico: Tyle@protonmail.com
+* Dirección IP: 222.109.155.60
+
+-------------
+**Resumen**
+-------------
+* El paciente Jorge Alberto Montes continúa reportando mareos y sensación de desvanecimiento. 
+* Los signos vitales muestran una presión arterial elevada indicativa de hipertensión. 
+* Medicación (Lisinopril) y 606276-oSy utilizados en el tratamiento.
+* No se observa un progreso significativo en la reducción de la presión arterial, se continuará con la monitorización.
+* Contactar al Tyler Calder al (384)958-6805x60228 para más detalles. 
+
+-------------
+**Fin de la Nota**
+-------------"
+

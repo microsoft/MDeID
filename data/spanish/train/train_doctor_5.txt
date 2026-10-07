@@ -1,0 +1,36 @@
+"Nota del Doctor Scratch:
+
+- Paciente: Lucrecia Montenegro
+- ID: 94301 2501
+- Edad: 103
+- Condición: Insuficiencia cardíaca avanzada
+- Historial de DCM: Sí
+- Dispositivo: CRT-D (hace 7 años), HeartMate II® LVAD (hace 4 años, puente para trasplante)
+- Síntomas recientes: VF, insuficiencia cardíaca derecha, congestión hepática
+- Tratamiento: Amiodarona, nifekalant, mexiletina, lidocaína, inhibidor de PDE5, diuréticos, optimización de la velocidad del LVAD
+
+Observaciones (Inicial - Post implante LVAD):
+- EF: 13%
+- Dilatación del LV (diástole): 51 mm
+- Regurgitación aórtica: Trivial
+- Contracción del RV (FAC): 33%
+- VF: Sostenido
+- AF: Aumento de la frecuencia (paroxística)
+- Bilirrubina total: Elevada (empeoramiento de la función hepática)
+
+Evaluación:
+- Diagnóstico principal: Insuficiencia cardíaca avanzada (DCM)
+- Complicaciones: VF, insuficiencia cardíaca derecha
+- Diagnósticos diferenciales: Progresión de la insuficiencia cardíaca, cardiomiopatía inducida por arritmia, complicaciones relacionadas con el dispositivo
+- Pronóstico: Reservado
+
+Plan:
+- Continuar monitoreo: Función cardíaca, enzimas hepáticas
+- Ajuste de medicación: Según sea necesario (arritmias, síntomas de insuficiencia cardíaca)
+- Configuraciones del LVAD: Asegurar una perfusión adecuada
+- Seguimiento: Citas regulares, monitorear la condición y la función del dispositivo
+- Educación: Reconocer los síntomas de la insuficiencia cardíaca, adherencia al plan de tratamiento
+- Consulta: Patricia Sánchez (equipo de trasplante de corazón)
+
+Nota por: Patricia Sánchez (Diseñadora, gráfica) en Jamaica National Heritage/Stephenson, Brown and Reed"
+

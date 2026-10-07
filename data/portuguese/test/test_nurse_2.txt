@@ -1,0 +1,41 @@
+"Cabeçalho: Documento de Admissão do Paciente
+---------------------------------------
+Informações do Paciente: Luan Gonzáles
+Data de Admissão: 09/10/2018
+
+Assunto: Narração Subjetiva
+---------------------------------------
+Luan Gonzáles, um homem de 99 anos de descendência mista Brasil, apresentou sensação anormal, especificamente, diminuição da sensibilidade do lábio inferior direito se estendendo à região mental. Sua condição física geral foi relatada como moderada, e seu estado nutricional foi avaliado como favorável. Nenhum outro fator significativo foi observado na avaliação do Psicólogo, clínico.
+
+Objetivo: Achados Objetivos
+---------------------------------------
+Imagens diagnósticas, incluindo uma tomografia computadorizada (TC) da região facial de Luan Gonzáles, revelaram uma área radiolúcida redonda no corpo mandibular direito. Uma subsequente ressonância magnética (RM) destacou intensidade de sinal alta irregular nas seções horizontais STIR, bem como dilatação do canal mandibular direito nas seções sagitais. Os resultados da biópsia indicaram um schwannoma envolvendo a região de Antoni A, sugerindo uma lesão imatura com potencial para crescimento ativo. Durante a cirurgia, foi encontrado um tumor cístico (medindo 3,2 x 1,0 cm) associado ao nervo alveolar inferior, que foi ligado e extirpado. O acompanhamento pós-operatório mostrou radiopacidade aprimorada no local da ferida, significando crescimento ósseo saudável.
+
+Avaliação: Diagnóstico e Prognóstico
+---------------------------------------
+O diagnóstico primário para Luan Gonzáles é um schwannoma da região mandibular direita. A extirpação cirúrgica bem-sucedida foi realizada, e nenhuma célula tumoral foi encontrada nas margens do espécime de nervo ressecado. O prognóstico parece promissor, desde que o monitoramento regular seja mantido.
+
+Plano: Plano de Tratamento
+---------------------------------------
+Luan Gonzáles passou por extirpação do tumor sob anestesia geral, mostrando resultados positivos pós-cirurgia. Acompanhamentos regulares estão planejados para avaliar o crescimento ósseo e garantir que não haja recorrência do tumor. Luan Gonzáles é aconselhado a manter seu estado nutricional e relatar quaisquer novos sintomas ou preocupações sem demora.
+
+Rodapé: Informações de Contato e Detalhes Adicionais
+---------------------------------------
+Contato de Emergência: (267)615-0365x35518
+Informações do Veículo: 49D•249
+Endereço Residencial: Luan Gonzáles, Passarela Almeida 94, Pauseless, Uruaçu - 51, 9945WYI7, Brasil
+Email: osz@yahoo.com
+Provedor de Saúde: Enzo Santos
+Plano de Saúde: BBE9guJn4
+Hospital: AB Mass
+Número do Prontuário Médico: nUcE 71457
+Número da Conta: 94292-PSbv
+Identificador do Dispositivo: 2035 57TRl
+Número de Identificação: 94292-PSbv
+Número do Seguro Social: 319.988.157-64
+Número da Licença: 95 413808F
+Identificadores Biométricos: kYZ-NkdoEN
+Endereço IP: 109.157.77.202
+URL: wheeler.biz
+Fax: 312-878-3241x1646"
+

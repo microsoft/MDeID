@@ -1,0 +1,55 @@
+"NOTA DE ENFERMAGEM 
+
+Informações do Paciente 
+--------------------
+Paciente: Joaquim Gomez
+Idade: 6
+Residência: Joaquim Gomez, Estação de Monteiro, 94 79, 2839 Maximiliano de Almeida, Portugal
+Email: TeixeMarian@aol.com
+Telefone: 740.632.0086x424
+Contato em caso de emergência: 7sAo29sp
+
+Detalhes do Hospital
+----------------
+Hospital: Artillery
+Médico: Mariana Teixeira
+
+Informações de Saúde 
+-------------------
+Plano de Saúde: Or8BwGzE
+Prontuário Médico: 74-9440OhB
+ID da Conta: NZuHR 8119
+
+Observações: 
+--------------
+1. Dor nos gânglios linfáticos - Grave 
+2. Erupção cutânea - Presente
+3. Possível Diagnóstico - Catapora 
+
+Sinais Vitais: 
+--------
+- Temp: 38.5C
+- PA: 120/80 mmHg
+- FR: 22/min
+
+Informações do Dispositivo 
+------------------
+Dispositivo: 180 2472Ej
+
+Informações Diversas 
+--------------------------
+IP: 47.118.58.3
+Data de Admissão: 28 de outubro de 2012
+Veículo usado para transporte: 786-IGP
+Licença (Se houver): 62243-4535
+Profissão: Chief Technology Officer
+Organização: Moody PLC
+Outra Localização: aeroporto
+Segurança Social: 081.686.102-15
+Identificador Biométrico: Slbwm-7639
+Fax: 454-214-6855
+URL: olson-yates.com
+Número de ID: NZuHR 8119
+
+Nota: Este documento contém informações sensíveis e deve ser manuseado de acordo."
+

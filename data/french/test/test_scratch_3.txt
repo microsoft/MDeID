@@ -1,0 +1,93 @@
+"NOTES DE L'INFIRMIÈRE
+
+---------------------------------------------
+IDENTIFIANT RAPIDE DU PATIENT : UFaW-ivbzE
+NOM : Daniel Schmid
+
+---------------------------------------------
+SIGNES VITAUX :
+- Température : 100.4 F 
+- Pouls : 88 BPM 
+- Pression artérielle : 120/80 mmHg
+- Respiration : 16 respirations par minute 
+- Saturation en oxygène : 96% 
+
+---------------------------------------------
+SYMPTÔMES :
+- Fièvre 103 : Oui, élevée
+- Frissons : Oui
+- Transpiration : Modérée
+- Fatigue : Oui
+- Malaise : Oui
+
+---------------------------------------------
+DIAGNOSTIC POSSIBLE :
+- Suspicion de paludisme, en attente de confirmation du laboratoire
+
+---------------------------------------------
+DEMANDE DE LABORATOIRE : chmiel
+- Test de frottis sanguin pour parasites du paludisme
+
+---------------------------------------------
+PLAN DE TRAITEMENT :
+- Traitement initial commencé : médicaments antipaludiques 
+- Fluides IV administrés pour déshydratation
+
+---------------------------------------------
+NOTES SUPPLÉMENTAIRES :
+- Voyage dans une zone endémique de paludisme banc deux semaines avant l'apparition des symptômes
+
+---------------------------------------------
+INFORMATIONS DE CONTACT :
+- Contact téléphonique : 001-844-386-0857x1709
+- Contact par e-mail : laie@red-cross.org
+
+---------------------------------------------
+CONTACT D'URGENCE :
+- Nom : Daniel Schmid
+- Contact : 001-844-386-0857x1709
+
+---------------------------------------------
+MÉDECIN DE GARDE : Layla Lavoie
+
+---------------------------------------------
+ÉTABLISSEMENT DE TRAITEMENT : Frankfurt lunatic
+Adresse : Daniel Schmid, 7215 rang Karine 106, 2560 Plouhinec, Suisse
+Adresse IP pour contrôle à distance : 6.47.88.28
+
+---------------------------------------------
+ASSURANCE SANTÉ : jOHO4nFsS
+Numéro de compte : 29136-rSYR
+
+---------------------------------------------
+ORGANISATION : Young Ltd
+Profession : Entrepreneur
+
+---------------------------------------------
+Appareil utilisé pour vérifier les signes vitaux : 96838 Phlu
+Numéro de licence de l'appareil : 925348-97j
+
+---------------------------------------------
+Identifiant unique : 29136-rSYR
+Numéro de sécurité sociale : 262-545-711
+
+---------------------------------------------
+DONNÉES BIOMÉTRIQUES : 786-29hKJO
+VÉHICULE : 91-33138 utilisé pour transporter le patient.
+
+---------------------------------------------
+[Signature numérique de l'infirmière chmiel]
+
+---------------------------------------------
+NOTES GÉNÉRÉES LE : samedi 18 mars 1972
+
+---------------------------------------------
+URL pour accéder aux dossiers médicaux du patient : king.bass.net
+
+---------------------------------------------
+FAX : 001-998-208-1488x3770
+CODE POSTAL : 2560
+VILLE : Chouzé sur Loire
+ÉTAT : 47
+PAYS : Canada"
+

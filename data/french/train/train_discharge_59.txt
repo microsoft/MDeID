@@ -1,0 +1,57 @@
+Résumé de Sortie
+
+Disposition de Sortie : Retour à domicile avec services
+
+Raison d'Admission : Hémiplégie
+
+# Section Allergies et Intolérances
+Aucune allergie connue.
+
+# Section Cours de l'Hôpital
+Stanislas Bouvier a été admis avec une présentation initiale d'hémiplégie. Le séjour à l'hôpital s'est déroulé sans incident avec une amélioration notable de l'état du patient.
+
+# Section Diagnostic de Sortie
+Diagnostic à la sortie : Hémiplégie
+
+# Section Plan de Traitement
+Le patient a reçu des traitements de rééducation, y compris la physiothérapie. Des revues régulières avec le Quentin De Backer sont recommandées pour surveiller les progrès.
+
+# Section Consultations à l'Hôpital
+Diverses consultations ont été tenues par l'équipe multidisciplinaire composée de médecins, de physiothérapeutes et de nutritionnistes.
+
+# Section Procédures
+Aucune procédure médicale significative n'a été effectuée au cours de l'hospitalisation.
+
+# Section Résultats
+Le patient a montré des améliorations significatives en termes de force et de coordination. Cependant, une dysarthrie persistante et une parésie nécessitent une gestion continue.
+
+# Section Médicaments de Sortie
+Le patient a été libéré avec une prescription pour des médicaments pour gérer les symptômes.
+
+# Section Plainte Principale et Raison de la Visite
+Le patient s'est présenté avec une hémiplégie et des symptômes associés, y compris la dysarthrie, la parésie, l'asthénie, l'aphagie et les crises.
+
+# Section Nutrition
+Recommandation d'un régime équilibré pour maintenir la santé globale et soutenir la récupération.
+
+# Section Antécédents Familiaux
+Aucune maladie héréditaire connue signalée par le Stanislas Bouvier.
+
+# Section Statut Fonctionnel
+À la sortie, le patient a montré une bonne capacité fonctionnelle avec des limitations légères dues à la parésie.
+
+# Section Instructions de Sortie de l'Hôpital
+Il a été conseillé au patient de suivre le régime médicamenteux prescrit, de respecter le programme d'exercices de rééducation et de chercher une attention médicale immédiate si les symptômes persistent ou s'aggravent.
+
+# Section Examen Physique de Sortie de l'Hôpital
+Diminution de la force musculaire dans les membres supérieurs et inférieurs droits, cohérente avec l'hémiplégie. Aucun autre signe physique significatif au moment de la sortie.
+
+# Section Problème
+Il est recommandé de continuer à gérer la parésie et la dysarthrie. Le patient sera surveillé de près par le Quentin De Backer lors des rendez-vous suivants.
+
+# Section Signes Vitaux
+À la sortie, les signes vitaux étaient stables.
+
+Ce document a été compilé en respectant pleinement les directives PHI. Aucune information personnelle sur la santé n'a été divulguée. Toute question supplémentaire concernant la gestion de la condition ou le plan de traitement doit être adressée au Quentin De Backer.
+
+Dans l'ensemble, l'état du patient à la sortie était stable, et le pronostic est satisfaisant avec le respect du traitement prescrit et du plan de rééducation. Le patient a été libéré sous les soins du Quentin De Backer et de l'équipe multidisciplinaire. Des revues régulières et des suivis sont prévus pour assurer une récupération optimale et une gestion de l'hémiplégie.

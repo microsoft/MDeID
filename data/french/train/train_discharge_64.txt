@@ -1,0 +1,47 @@
+Résumé de Sortie
+
+# En-tête
+Disposition de Sortie : Retour à domicile avec services
+
+# Section Allergies et Intolérances
+Aucune allergie connue signalée par Bram Van Den Broeck.
+
+# Section Cours de l'Hôpital
+Bram Van Den Broeck a été admis avec des plaintes de douleurs abdominales persistantes et une hyperventilation notable. L'examen clinique et les tests diagnostiques ultérieurs ont confirmé une hernie.
+
+# Section Diagnostic de Sortie
+Diagnostic Final : Hernie
+
+# Section Plan de Traitement
+Il a été conseillé à Bram Van Den Broeck de faire un suivi avec leur médecin traitant Chloë Maes. Des séances de physiothérapie ont été planifiées pour aider à améliorer la force musculaire. Une surveillance continue des symptômes et des contrôles réguliers sont nécessaires.
+
+# Section Consultations à l'Hôpital
+Des consultations ont été faites avec l'équipe de chirurgie générale pour une possible intervention chirurgicale. La décision finale sera prise lors de la visite de suivi avec le Chloë Maes.
+
+# Section Procédures
+Aucune intervention chirurgicale n'a été réalisée pendant ce séjour à l'hôpital. La décision de procéder à une opération de réparation de la hernie sera basée sur la progression de la hernie et la symptomatologie du Bram Van Den Broeck.
+
+# Section Résultats
+Les résultats de laboratoire ont montré des résultats normaux pour la numération globulaire complète, les électrolytes et la fonction rénale. Cependant, la présence de la hernie a été confirmée par une échographie abdominale.
+
+# Section Médicaments de Sortie
+Gestion de la douleur : Médicament contre la douleur en vente libre au besoin.
+Note : Des informations détaillées sur les médicaments seront fournies par le département de pharmacie lors de la visite de suivi.
+
+# Sections Supplémentaires
+
+## Section Plainte Principale
+Bram Van Den Broeck a été admis avec des plaintes principales de douleurs abdominales sévères et d'hyperventilation.
+
+## Section Diagnostic à l'Admission
+Diagnostic Préliminaire : Hernie
+
+## Section Instructions de Sortie de l'Hôpital
+Il est conseillé à Bram Van Den Broeck de suivre un régime riche en fibres et de maintenir une hydratation. Éviter les efforts physiques et le port de charges lourdes. Suivre avec le médecin traitant Chloë Maes dans une semaine après la sortie.
+
+## Section Signes Vitaux
+À la sortie, les signes vitaux étaient stables. Fréquence Cardiaque : 72 battements par minute, Pression Artérielle : 120/80 mmHg, Température : 98.6 F, Fréquence Respiratoire : 16 respirations par minute.
+
+Ce Résumé de Sortie fournit un aperçu du séjour à l'hôpital de Bram Van Den Broeck. Le plan final pour une éventuelle intervention chirurgicale sera décidé lors de la consultation de suivi avec le Chloë Maes. Nous encourageons Bram Van Den Broeck à respecter tous les rendez-vous et à suivre tous les conseils médicaux donnés.
+
+NOTE : Ce document ne contient aucune Information de Santé Personnelle (PHI). Toutes les données présentes dans le document sont synthétiques et ne se rapportent à aucun patient réel. Toute ressemblance avec des personnes réelles, vivantes ou mortes, est purement fortuite.

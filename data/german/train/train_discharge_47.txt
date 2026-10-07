@@ -1,0 +1,40 @@
+# Entlassungsbericht
+
+Patient: Lisa HuberArzt: Peter SchmidMedizinische Akte: nsmw-534eE  
+Aufnahmedatum: 09.06.200022.12.198322.12.1983  
+Entlassungsdatum: 09.06.200022.12.198322.12.1983  
+Entlassungsverfügung: Zuhause
+
+## Grund für die Krankenhausaufnahme:
+Patientin Lisa Huberwurde aufgrund von Symptomen aufgenommen, die auf eine Endokarditis hindeuten. Dazu gehörten pleuritischer Schmerz, Verdickung, Myalgie und afebriler Zustand.
+
+## Krankenhausaufenthalt:
+Die Patientin unterzog sich umfassenden diagnostischen Verfahren und erhielt unterstützende Pflege. Aufgrund der vermuteten Diagnose einer Endokarditis wurde eine Antibiotikabehandlung eingeleitet.
+
+## Durchgeführte Verfahren:
+1. Blutkulturen
+2. Transthorakales Echokardiogramm
+
+## Pflege, Behandlung und erbrachte Dienstleistungen:
+Während des Krankenhausaufenthalts wurde die Patientin mit intravenösen Antibiotika, Schmerzmanagement und unterstützender Pflege versorgt. Der Zustand der Patientin verbesserte sich stetig.
+
+## Entlassungsdiagnose:
+Die klinische Verbesserung unterstützte die Diagnose einer Endokarditis.
+
+## An den Patienten und die Familie gegebene Informationen:
+Der Patient und die Familie wurden über mögliche Komplikationen informiert, die nach der Entlassung auftreten könnten, und über Anzeichen, die eine sofortige medizinische Aufmerksamkeit erfordern würden.
+
+## Vorkehrungen für die Nachsorge:
+Die Patientin hat einen Nachsorgetermin bei Peter Schmidan der National Technical University of Athens am 09.06.200022.12.198322.12.1983. Bei der Nachsorge wird der Fortschritt der Patientin überwacht und die Wirksamkeit der Behandlung bewertet.
+
+## Medikamente bei Entlassung:
+1. Antibiotika - Weiterführen gemäß Verschreibung
+2. Schmerzmittel - Bei Bedarf
+
+## Familienanamnese:
+Keine bekannte Vorgeschichte von Endokarditis in der Familie.
+
+## Krankenhausentlassungsanweisungen:
+Nach der Entlassung wird der Patientin angewiesen, die verschriebenen Medikamente weiter einzunehmen, gute Hygienepraktiken zu pflegen und neue oder sich verschlechternde Symptome sofort zu melden.
+
+**Bitte beachten Sie, dass es sich hierbei um ein synthetisches Dokument handelt und alle Details Platzhalter sind. Bei Unstimmigkeiten beziehen Sie sich bitte auf die ursprüngliche medizinische Akte.**

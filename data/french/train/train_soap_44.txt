@@ -1,0 +1,32 @@
+"Note SOAP
+
+S: Le patient Daan Thomas, ayant des antécédents de déficience acquise en FX due à l'amylose AL, la FAP, l'adénocarcinome pulmonaire métastatique sous érlotinib, la cardiomyopathie hypertrophique, l'hypertension et le diabète de type 2, se sent bien mais a connu des problèmes incluant des épistaxis auto-limitantes et une facilité à avoir des ecchymoses le 02/01/1976. Le patient se souvient des résultats de laboratoire précédents et des procédures médicales.
+
+O: Les résultats de laboratoire précédents indiquaient un TP de 12,4 secondes, un INR de 1,2, un TCA de 38 secondes, une phosphatase alcaline à 160 U/L, une créatinine à 1,16 mg/dL, et une protéinurie avec 882 mg/24 h. L'échographie abdominale a montré une hépatomégalie avec le lobe droit mesurant 21 cm. Les électrophorèses sériques et urinaires ont indiqué la présence d'immunoglobuline G-lambda. La biopsie hépatique a révélé une déposition extensive d'amyloïde avec présence de chaînes légères lambda. La biopsie de la moelle osseuse a montré une déposition extensive d'amyloïde, une coloration positive au rouge Congo, et une fluorescence positive in situ pour les chaînes légères lambda. Une activité de coagulation FX diminuée a été notée à 45% avec une plage de référence de 70%-150%. Le 02/01/1976, le profil de coagulation montrait un TP de 16,3 secondes, un TCA de 33 secondes, et une activité FX de 34%.
+
+A: Le diagnostic principal est une déficience acquise en FX secondaire à l'amylose AL. Les antécédents de récidive d'adénocarcinome pulmonaire du patient et d'autres comorbidités compliquent la prise en charge. Les diagnostics différentiels incluent d'autres causes de coagulation anormale non liées à l'amylose. Le pronostic est réservé en raison de la complexité des conditions sous-jacentes et de la nature récurrente du cancer du poumon.
+
+P: Continuer avec le régime actuel de chimiothérapie par mélphalan et dexaméthasone. Une surveillance régulière des profils de coagulation et de l'activité FX est essentielle. Éduquer le patient sur l'importance de signaler rapidement tout nouveau symptôme ou préoccupation. Planifier des rendez-vous de suivi réguliers à l'Saint-Maclou pour évaluer l'efficacité du traitement et gérer toute complication. Il est recommandé de consulter un hématologue Zoé Weber pour une prise en charge plus approfondie de la déficience en FX et un oncologue Zoé Weber pour le traitement continu du cancer. Assurer le respect de tous les médicaments prescrits et des calendriers de suivi.
+
+Notes supplémentaires:
+- Numéro de dossier médical : 05886 ldaO
+- Numéro de compte patient : syp-IGRZHw
+- Numéro de série de l'appareil : 563 XVbJRA
+- Nom d'utilisateur sur le portail patient : 8Mbjp0rd
+- Identifiant du véhicule : 7BS V74
+- Numéro de sécurité sociale : 166-2946928-49
+- Identifiant de licence professionnelle : 3236-hxVsl
+- Identifiant biométrique : IOa VWCumL
+- Adresse IP : 169.250.167.9
+- Identifiant personnel : syp-IGRZHw
+- Âge du patient : 13
+- Adresse du patient : Daan Thomas, 140 1085 Rosario Extensions, 9266 Gualchos, France
+- Autres lieux : stade
+- Plan de santé : NtcY cxeQxv
+- Profession du patient : Géomètre rural
+- Organisation affiliée : Boyd-Lee
+- Adresse e-mail : oéeber@protonmail.com
+- Numéro de contact : 953.731.7644x8224
+- Site web :  www.rodriguez.com/category/blog/searchcategory.php
+- Numéro de fax : 971-592-7086x5225"
+

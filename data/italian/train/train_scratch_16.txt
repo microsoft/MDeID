@@ -1,0 +1,60 @@
+"#Nota di Osservazione Infermieristica 
+
+--- Dettagli del Paziente ---
+Nome: Lara Moser
+Età: 99
+SSN: 871666-0005
+Cartella Clinica: 19346-760N
+Numero di Conto: 86470-4095
+Professione: Nutrizionista animale
+Organizzazione: Miller Ltd
+Piano Sanitario: 6QTNpQ
+
+--- Informazioni di Contatto ---
+Indirizzo: Lara Moser, 66932 David Dale, 102, 5204 Volano Overdistention, Italia
+Telefono: 660.944.3514x67391
+Email: etroBrun@microsoft.org
+
+--- Dispositivi di Diagnostica ---
+Dispositivo#: alG-SNdBzt
+
+--- Informazioni sul Medico ---
+Medico Curante: Pietro Bruno
+Licenza: 2379 23511
+
+--- Info IP ---
+Indirizzo IP: 213.72.59.110
+
+--- Gestione Rete ---
+Nome Utente: uAMJZU4i
+
+--- Info Veicolo ---
+Targa#: 326 VEG
+
+--- ID Biometrico ---
+BioID: lzdsRI 034
+
+--- Stato Attuale ---
+Difficoltà a deglutire il cibo, bruciore di stomaco e indigestione periodici, Potenziale per Volano-9 Malattia dell'ulcera peptica.
+
+--- Segni Vitali ---
+Pressione Sanguigna: 120/80 mmHg 
+Pulsazioni: 72 bpm 
+Temperatura Corporea: 98.7\u00b0F
+Frequenza Respiratoria: 16 respiri al minuto
+
+--- Altre Informazioni Rilevanti ---
+Il paziente lavora per Miller Ltd, ulteriori fattori di stress correlati devono essere indagati. Possibile storia di fumo e alcol.
+
+--- Contatto di Emergenza ---
+Nome: Lara Moser 
+Relazione: Membro della Famiglia
+Telefono: 660.944.3514x67391
+
+--- Follow Up ---
+Prossimo appuntamento con il Dott. Pietro Bruno il giovedì 19 settembre 1974 presso Lewis National Monument stadio
+
+--- Note Aggiuntive ---
+uAMJZU4i deve monitorare i sintomi e segnalare eventuali cambiamenti. Evitare cibi piccanti e difficili da digerire, prendere i farmaci come prescritto dal Dott. Pietro Bruno
+"
+

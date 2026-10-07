@@ -1,0 +1,49 @@
+"Krankenschwester Schicht Notizen
+-------------------------
+Patient: Lotte Noël
+
+Zustand: Zervikale Spondylose 
+
+Vitalwerte: 
+- BP: 130/80
+- Puls: 72 bpm 
+- Temp: 98.6\u00b0F 
+- Atem: 14 Atemzüge/min
+
+Symptome: 
+1. Rückenschmerzen 
+2. Husten 
+3. Schwäche 
+
+Behandlung: 
+- PT-Sitzungen (Donaldson-Craig Team)
+- Schmerzmanagement von Dr. Peter Eder
+
+Notizen: 
+- Leichter Husten festgestellt, möglicherweise aufgrund von kaltem Wetter 
+- Schwäche anhaltend, nicht bezogen auf Druckgrafiker Arbeit
+
+Kommunikation: 
+- Familienkontakt: Lotte Noëls Sohn, Lotte Noël, Telefon:938.524.2367
+- Email: Petde@unwomen.org
+
+Ortsdetails: 
+- Zuhause: Lotte Noël, Angelina-Baumgartner-Gasse 4 29, 0548 Saalfeld, Deutschland
+- Therapieort: Universität
+
+Zusätzliche Infos: 
+- Gesundheitsplan: 6B6ZdeT
+- Kontonummer: rwwWl-fkWy
+- Medizinische Aktennummer: wHVyvt-386
+- Verbundene Geräte-ID:011 rNJBax
+- Lizenz-ID: 59-137559m
+- Sozialversicherungsnummer: 729-3888642-85
+- IP-Adresse: 200.192.66.231
+- Fahrzeugdetails: 5858
+- Andere ID: rwwWl-fkWy
+- Fax-Nr:001-817-558-1174x717
+- URL: cobb.bowman.com
+
+Nächste Überprüfung durch Dr. Peter Eder geplant am 07.09.1979.
+"
+

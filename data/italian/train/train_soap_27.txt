@@ -1,0 +1,35 @@
+"S: La paziente Simona Ferrara, un individuo di 100 anni, è stata segnalata per problemi di deambulazione e microcefalia. I genitori riferiscono un recente episodio di disconnessione dall'ambiente, una storia di convulsioni febbrili isolate, disturbi del sonno e ritardi nello sviluppo principalmente nelle abilità motorie. La bambina mostra anche problemi comportamentali simili all'ADHD, che sono leggermente migliorati con l'intervento psicopedagogico e il trattamento con metilfenidato, sebbene i problemi del sonno siano peggiorati.
+
+O: L'esame fisico ha precedentemente confermato la microcefalia. Un EEG eseguito durante un episodio di disconnessione era normale. Una risonanza magnetica ha mostrato un encefalo normalmente strutturato. I test genetici hanno rivelato una delezione di base 721226-438 nel marcatore C7 (basi 2475-2657), senza alterazioni trovate nei geni LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8 e PAX2.
+
+A: La diagnosi primaria è microcefalia con problemi di sviluppo e comportamentali associati, tra cui sintomi che ricordano l'ADHD. La delezione genetica può contribuire alla sua presentazione clinica, sebbene i principali geni neurosviluppativi testati fossero normali. Le diagnosi differenziali potrebbero includere altri disturbi genetici o metabolici non ancora identificati. La prognosi è cauta, richiede un monitoraggio continuo e la gestione dei sintomi.
+
+P: Continuare gli interventi psicopedagogici e il metilfenidato per i sintomi simili all'ADHD. Pianificare un EEG di follow-up per indagare i problemi del sonno che peggiorano. Mantenere regolari valutazioni dello sviluppo e aggiustare i trattamenti come necessario. Educare i genitori sull'importanza di monitorare la condizione del paziente e aderire ai piani di trattamento. Programmare un appuntamento di follow-up in tre 07/08/91 o prima se i sintomi peggiorano.
+
+Note aggiuntive:
+- Casa del paziente Simona Ferrara, 433 Matthew Spur Suite 852 68, 1903 Varese, Svizzera.
+- Il medico di riferimento è Noemi Bellini.
+- Il numero di conto del paziente è 308261-nQq.
+- Il dispositivo del paziente utilizzato per il monitoraggio è 867-sbSVSg.
+- Il nome utente del paziente per accedere ai registri sanitari online è pGgun8al.
+- Il veicolo del paziente utilizzato per il trasporto è 806-LKL.
+- Il numero di previdenza sociale del paziente è VJFZWY46C16T261Q.
+- Il numero di patente del paziente è 856188-GRR.
+- L'identificatore biometrico del paziente è vFSXfY-rZk.
+- L'identificatore personale del paziente è 308261-nQq.
+- L'indirizzo IP del paziente utilizzato per accedere ai registri sanitari online è 192.255.48.169.
+- La posizione del paziente dove sono apparsi i sintomi è ristorante.
+- Il piano di assicurazione sanitaria del paziente è 7vPAwxl.
+- La professione del paziente è Funzionario del servizio civile.
+- Il luogo di lavoro del paziente è Williams Group.
+- L'email del paziente per la comunicazione è Belli@unwomen.org.
+- Il numero di telefono del paziente per la comunicazione è 875-949-3487x77430.
+- I registri medici del paziente possono essere consultati online su ramirez.moore.vaughn-johnson.com.
+- Il numero di fax del paziente per la comunicazione è 841.493.3037x214.
+- La città di residenza del paziente è Taranto.
+- Il paese di residenza del paziente è Italia.
+- Lo stato di residenza del paziente è 84.
+- La strada di residenza del paziente è 4509 Norman Rapid.
+- Il codice postale del paziente è 1903.
+- L'ospedale in cui il paziente viene curato è Oxford University press."
+

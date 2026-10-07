@@ -1,0 +1,41 @@
+"**Encabezado:**
+ID del paciente: Jennifer Fajardo
+Fecha de nacimiento: 27/5/97
+Fecha de admisión: 27/5/97
+Número de registro médico: 921783-wtb
+Número de cuenta: 438 BiOmUb
+Número de serie del dispositivo: 64 SMVxZOA
+Nombre de usuario para el portal del paciente: ajardr
+Identificador del vehículo: TOQ 174
+Número de seguridad social: 05452640U
+Número de licencia: 6369 4637F
+Identificador biométrico: WpyZsH-794
+Dirección IP: 78.29.39.79
+Identificador único: 438 BiOmUb
+
+**Nota narrativa de enfermería:**
+
+El paciente, de 21 años, con antecedentes de taquicardia ventricular idiopática sostenida sintomática (TV), fue implantado con un desfibrilador cardioversor implantable de doble cámara (ICD) el 27/5/97 para prevención secundaria. Desde el 27/5/97, el paciente ha experimentado varias descargas de ICD y recurrencias de TV a pesar de haberse sometido a tres procedimientos de ablación con catéter el 27/5/97, que se realizaron sin un sensor de fuerza de contacto (CF) y utilizando un enfoque transaórtico retrógrado. El paciente informa hasta 97 descargas de ICD apropiadas desde la implantación y ha tenido episodios de tormentas arrítmicas.
+
+El último ECG de 12 derivaciones registrado del paciente mostró ritmo sinusal con contracciones ventriculares prematuras originadas en el medio-inferosepto del ventrículo izquierdo. La ecocardiografía transtorácica indicó función sistólica biventricular normal y regurgitación de la válvula mitral de leve a moderada. Los parámetros de ablación incluyeron potencia de RF a 50 W, temperatura máxima de 45°C y flujo de irrigación a 15 mL/min.
+
+El diagnóstico principal es taquicardia ventricular idiopática recurrente, con el paciente experimentando múltiples descargas de ICD y tormentas arrítmicas a pesar de las terapias de ablación previas y los medicamentos antiarrítmicos. Los diagnósticos diferenciales podrían incluir otras formas de arritmias ventriculares o enfermedad cardíaca estructural, aunque la fracción de eyección preservada y el origen específico de la TV sugieren un proceso arrítmico focal.
+
+El plan de manejo incluye un seguimiento cercano de los episodios arrítmicos del paciente y la función del ICD. Se considerarán ajustes a los medicamentos antiarrítmicos y pueden ser necesarios más procedimientos de ablación si persiste la TV. Se educará al paciente sobre cómo reconocer los síntomas de los eventos arrítmicos y la importancia de las visitas de seguimiento regulares para evaluar la función del dispositivo y la eficacia del tratamiento.
+
+**Pie de página:**
+
+Dirección: Jennifer Fajardo, Diagonal Paraguay 176 Interior 023 3, Importability, 5XZ3B6UP Cedeira, 11, México
+Hospital: de Detroit
+Información adicional de ubicación: estadio
+Plan de salud: Ironworkers'
+Profesión: Ingeniero, químico
+Organización: Clark-Malone
+Próxima cita programada: 27/5/97
+Médico de atención primaria: Juan Acosta
+Correo electrónico: Juant@red-cross.org
+Contacto de emergencia: Jennifer Fajardo
+Número de teléfono: 832-461-5900x604
+Número de fax: 001-601-535-0277
+Sitio web: http://www.norris-williams.com/appabout.htm"
+

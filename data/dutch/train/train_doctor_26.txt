@@ -1,0 +1,53 @@
+"Dr. Célia Vermeulen's Krasnotitie
+
+- Wim de Haan 
+- 3 
+- ID 56-rlMnhNi 
+
+Vitaliteit:
+- BP: 125/65 mmHg
+- HR: 84 bpm
+- Temp: 100.4\u00b0F 
+
+Klachten:
+- 7-daagse koorts 
+- Rillingen 
+- Pijnlijke zwelling, rechterschouder
+- Faryngitis
+
+Geen significante cardiale geschiedenis. Ontkent recente tandheelkundige behandeling, operatie, drugsgebruik.
+
+Lichamelijk onderzoek:
+- 2/6 systolisch hartgeruis, mesocardium
+- Normale farynx
+- Minimale acne
+
+Laboratoriumresultaten:
+- WBC: 13x10^3/\u00b5L
+- Neutrofielen: 9.7x10^3/\u00b5L
+- LDH: 266 mU/mL
+- CRP: 18 mg/dL
+- Urine: Geen infectie
+- ECG: Sinustachycardie
+- Borst röntgenfoto: Normaal
+- Beenmerg aspiraat: Geen hematologische maligniteiten
+- Bloedkweken: Positief Streptococcus pyogenes
+
+Beeldvorming:
+- Transoesofageale echocardiogram: Matige mitralis regurgitatie, vegetaties op posterieure mitralisklep
+
+Diagnose: 
+- Infectieuze endocarditis - Streptococcus pyogenes
+- Betrokkenheid van de mitralisklep
+
+Plan:
+- Empirische antibiotica: Amoxicilline/clavulaanzuur + vancomycine
+- Aangepast aan ceftriaxon (2g, tweemaal daags) + ampicilline (12g/dag) na cultuurresultaten
+- Monitor hartfunctie en reactie op antibiotica
+- Opname in Powers, Smith en Harris voor voortdurend beheer
+- Patiënteneducatie over infectie en behandeling
+- Regelmatige follow-up voor het monitoren van de behandeling en hartfunctie
+
+Dr. Célia Vermeulen
+Financieel risicoanalist"
+

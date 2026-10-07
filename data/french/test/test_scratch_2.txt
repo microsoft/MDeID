@@ -1,0 +1,79 @@
+"Note d'Infirmière:
+
+---------------------------------------------
+| DÉTAILS DU PATIENT:                          |
+|                                          |
+| Alexis Leclerc                                |
+| Adresse: Alexis Leclerc, 169 556 Delhaye Walk Suite 565, 4585 Blandainville, France                       |
+| Âge: 58                               |
+| Contact: 6068544494                         |
+| Email: DeschaFélix@yahoo.com                           |
+| Médecin traitant: Félix Deschamps                 | 
+| Hôpital: factory                     |
+| Plan de santé: Ewi1flTj                |
+| Contact d'urgence: 6068544494               |
+---------------------------------------------
+
+\ud83d\udca2 Plainte: 
+[douleur_d'estomac_après_repas]
+
+\ud83d\udcdd Observations: 
+- Signes de malaise visibles 
+- Sensibilité dans la région épigastrique 
+- Niveau de douleur: 7/10 
+
+\ud83c\udf21\ufe0f Signes vitaux: 
+- Pression artérielle: 140/85 
+- Pouls: 95 bpm
+- Température: 98.6F 
+
+\ud83d\udc8a Traitement fourni:
+Antiacides administrés (OFUd meUYh)
+
+\ud83d\udccc Note de progression: 
+30/04/1994 - Amélioration notée après l'administration d'antiacides
+
+\ud83d\udcbc Entrée professionnelle: Officier d'égalité et de diversité
+
+---------------------------------------------
+| DÉTAILS DE L'ÉQUIPEMENT MÉDICAL:               |
+|                                         |
+| Appareil: 31-trsGXql                         |
+| Compte: 544 wGApSO                       |
+| Licence: 052 rUJtMI                       |
+---------------------------------------------
+
+\ud83d\udcde Informations de contact: 
+- Domicile: 6068544494 
+- Travail: 6068544494 
+- Mobile: 6068544494 
+
+\ud83d\udcec Adresse postale: Alexis Leclerc, 169 556 Delhaye Walk Suite 565, 4585 Blandainville, France
+- Code postal: 4585
+
+\ud83d\udcbb Identifiants en ligne: 
+- Nom d'utilisateur: lexcle 
+- Adresse IP: 117.45.251.159
+
+\ud83c\udfe2 Organisation: Anderson LLC
+\ud835\ude82\ud835\ude82\ud835\ude7d: 197-227-914
+\ud83c\udd94 ID: 544 wGApSO
+
+\ud83d\ude98 Véhicule: 
+- ID du véhicule: MUB 066
+
+\ud83d\udd10 Identifiant biométrique: 
+- Hash d'empreinte digitale: qAa tlEOOR
+
+---------------------------------------------
+| INFORMATIONS SUPPLÉMENTAIRES                        |
+|                                         |
+| Ville: Pouldreuzic                             |
+| État: 31                           |
+| Pays: Suisse                       |
+| Fax: 743-441-4910                               |
+| URL:  www.wood.org/postsauthor.php                               |
+---------------------------------------------
+
+**Sujet à confidentialité - NE PAS PARTAGER **"
+

@@ -1,0 +1,15 @@
+T1	PATIENT 29 42	Robbe Janssen
+T2	PATIENT 60 73	Robbe Janssen
+T3	HOSPITAL 306 329	Manhattan College Bronx
+T4	PATIENT 348 361	Robbe Janssen
+T5	DOCTOR 370 387	Franz Baumgartner
+T6	PATIENT 826 839	Robbe Janssen
+T7	PATIENT 1094 1107	Robbe Janssen
+T8	DOCTOR 1250 1267	Franz Baumgartner
+T9	PATIENT 1607 1620	Robbe Janssen
+T10	DOCTOR 1661 1678	Franz Baumgartner
+T11	HOSPITAL 1711 1734	Manhattan College Bronx
+T12	PATIENT 1774 1787	Robbe Janssen
+T13	PATIENT 2051 2064	Robbe Janssen
+T14	PATIENT 2257 2270	Robbe Janssen
+T15	DOCTOR 2822 2839	Franz Baumgartner

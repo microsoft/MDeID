@@ -1,0 +1,54 @@
+"S: Le patient Emma Gerber est un homme afro-américain de 18 ans avec des antécédents de trouble bipolaire, actuellement en état de désorientation mentale et de vomissements fréquents. Il signale des antécédents de réactions indésirables à divers médicaments, dont la diarrhée avec le lithium, ce qui a conduit à un essai de l'acide valproïque (VA) qui a été initié le 09/04/1990. Il a connu une hyperammoniémie induite par le VA, ce qui a conduit à l'arrêt et à des essais ultérieurs avec d'autres médicaments, dont le sirop de lactulose et la lamotrigine, qui ont également été arrêtés en raison des effets secondaires et de la récurrence des symptômes maniaques.
+
+O: À l'examen physique, le patient a un score de Glasgow Coma Scale de 35-56oFfcd et des résultats normaux en termes de force musculaire, de réflexes tendineux profonds et de fonction des nerfs crâniens. L'évaluation de la démarche neurologique n'a pas été possible en raison de la fatigue du patient et de son état d'urgence. Deux ZLonw 727a ont été placés, et une perfusion saline standard a été commencée pour gérer la baisse de la pression sanguine. Les tests de laboratoire ont constamment montré des niveaux d'ammoniaque élevés malgré les ajustements de traitement.
+
+A: Le diagnostic principal est le trouble bipolaire avec des complications, y compris l'hyperammoniémie induite par le VA et les effets secondaires liés aux médicaments. Les diagnostics différentiels pourraient inclure d'autres causes de vomissements et de désorientation mentale, mais ceux-ci sont moins probables compte tenu des antécédents médicamenteux spécifiques du patient et des résultats de laboratoire.
+
+P: Le plan de gestion comprend la surveillance continue des niveaux d'ammoniaque et l'ajustement du régime de traitement si nécessaire. Le patient est actuellement sous une combinaison de sirop de lactulose et de lévocarnitine. Il est crucial que le patient maintienne des visites de suivi hebdomadaires à l'Karupadanna avec le Dr. Noah Bosmans pour surveiller son état et l'efficacité du traitement. L'éducation sur l'importance de la conformité avec le plan de traitement et la déclaration rapide de tout nouveau symptôme ou préoccupation est essentielle.
+
+Informations supplémentaires :
+
+- Dossier médical du patient : 403 8262QK
+
+- Numéro de compte du patient : 35-56oFfcd
+
+- Adresse du domicile du patient : Emma Gerber, 141 228 Cédric Tunnel, Vitry Le François, 83 1985, Canada
+
+- Email du patient : smanNoa@gmail.com
+
+- Numéro de téléphone du patient : 811.511.9852x4434
+
+- Numéro de sécurité sociale du patient : 987-336-129
+
+- Numéro de licence du médecin : dxL 66816p
+
+- Adresse IP du patient : 61.219.186.223
+
+- Informations sur le véhicule du patient : 356JMW
+
+- Profession du patient : Examinateur de brevets
+
+- Plan de santé : 20zbhgSmnMS fM r4vo6 0W RYpqNb
+
+- Identifiant biométrique du patient : NDoX-3284Z
+
+- Ville du patient : Vitry Le François
+
+- État du patient : Grand Est
+
+- Pays du patient : Canada
+
+- Code postal du patient : 1985
+
+- Rue du patient : 9036 Robert Light
+
+- Nom d'utilisateur du patient : o3bpCidL
+
+- Numéro de fax du patient : 579-897-2238x87817
+
+- URL du patient : https://reyes.info/blog/category/mainterms.html
+
+- Autre lieu du patient : pharmacie
+
+- Organisation du patient : Johnson, Lowe and Hughes"
+

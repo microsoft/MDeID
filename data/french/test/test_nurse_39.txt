@@ -1,0 +1,33 @@
+"**Note Narrative de l'Infirmière**
+
+S: Élouan Perrot, un individu de 90 ans avec un historique de 3186 01EdV traité par radiation et temozolomide, présente des symptômes récents de toux et de palpitations.
+
+O: Les signes vitaux montrent une pression artérielle à 119/87 mm Hg, un rythme cardiaque à 112 battements/min, une température corporelle à 37\u00b0C, et une SpO2 à 94% sur eWdmyX-497. L'électrocardiogramme à 12 dérivations indique une tachycardie sinusale et un motif SIQIII TIII avec un T négatif en V1\u20133. L'échocardiogramme par ultrasons révèle un ventricule droit distendu, une forme en D (+), une régurgitation modérée de la valve tricuspide, et une hypertension pulmonaire modérée à sévère avec un gradient de pression maximal de 60 mm Hg. La radiographie du thorax montre des artères pulmonaires distendues et un infiltrat pulmonaire interstitiel. Le scanner thoracique amélioré ne montre pas de thrombus mais des opacités nodulaires avec un motif en arbre en bourgeon ; le scanner abdominal montre une paroi gastrique légèrement distendue avec des adénopathies. Les données de laboratoire indiquent une diminution des plaquettes (70 \u00d7 103/\u03bcL), un temps de thromboplastine partielle activée de 31,5 secondes, un rapport international normalisé du temps de prothrombine de 1,18, un niveau de fibrinogène de 101 mg/dL, et une augmentation du D-dimère (19,08 \u03bcg/mL). Le nombre de globules blancs est de 7400/\u03bcL, la protéine C-réactive est de 0,25 mg/dL, et le niveau de \u03b2d-glucan est inférieur à 2,5 pg/mL.
+
+A: Le diagnostic principal est une pneumonie interstitielle induite par le temozolomide compliquée par une coagulation intravasculaire disséminée et une insuffisance cardiaque droite. Les diagnostics différentiels incluent l'embolie pulmonaire, qui a été écartée par l'imagerie par scanner.
+
+P: Élouan Perrot sera admis pour des soins en hospitalisation à Shkodër northern et commencera une thérapie par impulsions de stéroïdes avec du méthylprednisolone 1 g/j pour la pneumonie interstitielle. Du thrombomoduline recombinante et une perfusion continue d'héparine seront administrées pour gérer l'état d'hypercoagulabilité. Le plan de traitement sera étroitement surveillé et ajusté si nécessaire, avec une évaluation continue de l'état cardiaque et pulmonaire.
+
+**Informations de Contact**
+- Téléphone: (909)638-2987
+- Email: eine@gmail.com
+- Adresse: Élouan Perrot, 3159 Dumortier Dam 11, 2225 Fontenay-Le-Fleury, Suisse
+
+**Autres Informations**
+- Nom d'utilisateur: A6xe9Db4
+- ID du patient: fkhPlC 818
+- Plan de santé: Gua
+- Hôpital: Shkodër northern
+- Docteur: Syrine Andre
+- BioID: 75-WSpgMQB
+- Adresse IP: 133.209.28.106
+- Véhicule: 454-FSA
+- Sécurité Sociale: 452-367-054
+- Licence: RxTXk bBRr
+- Profession: Ingénieur mécanique
+- Organisation: Wilson-Neal
+- URL: foster.com
+- Fax: 694.669.5249x7255 
+
+Infirmière: Syrine Andre"
+

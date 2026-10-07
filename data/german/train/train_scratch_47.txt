@@ -1,0 +1,67 @@
+"**Krankenschwester Notiz**
+
+---------------------------------------------------------------
+**Patientenbericht**
+- Paul Schmid
+- Krankenakte: YHPwJ fxPi
+- Alter: 70
+
+**Vitalwerte**
+- Blutdruck: 130/85 mmHg
+- Puls: 75 Schläge pro Minute
+- Atemfrequenz: 20 Atemzüge pro Minute
+- Temperatur: 37.0 C
+
+**Behandlungsfortschritt**
+- Beschwert sich über Atembeschwerden, Verdacht auf Bronchialasthma.
+---------------------------------------------------------------
+
+**Beobachtung**
+- Haut inspiziert: Normal
+- Brust abgetastet: Normal
+- Lungen abgehört: Pfeifen gehört
+
+**Untersuchungen & Ergebnisse**
+- Spirometrie-Test: Steht noch aus
+- Peak-Flow-Meter: Steht noch aus
+---------------------------------------------------------------
+
+**Verschriebene Medikamente**
+- Bronchodilatator: Nach Anweisung des Arztes zu verabreichen
+- Steroide: Nach Anweisung des Arztes zu verabreichen
+
+**Sonstiges**
+- Gesundheitsplan: Dm2HYm Dty1zE H6BgFM
+- Krankenhaus: Ria Stars
+- Arzt: Corentin Mathieu
+
+**Nächste Schritte**
+- Melden Sie sich beim Arzt für den Spirometrie-Test
+- Verabreichen Sie Bronchodilatatoren und überwachen Sie die Reaktion
+- Peak-Flow-Meter am Bett bereithalten
+
+**Notfallkontakt**
+- Telefon: (653)726-7939x85242
+- E-Mail: entinu@msf.org
+
+---------------------------------------------------------------
+**Erinnerung & Hinweis**
+- Patientenbenutzername: uyMT0whx
+- Geräteseriennummer: pCLk-iaawD
+- Konto: DO kDxDyTL
+- Sozialversicherungsnummer: 091-2381450-56
+
+---------------------------------------------------------------
+**Fußzeile**
+- Lizenz: ciOUi dMel
+- Bio ID: 81 ZDYhFTX
+- IP-Adresse: 30.74.126.169
+- Standort: Bushaltestelle
+- Fahrzeug: OG 30068
+- ID-Nummer: DO kDxDyTL
+- Adresse: Paul Schmid, Leyla-Margreiter-Weg 469 54, 0056 Mainz-Kastel, Belgien
+- Beruf: Kartograph
+- Organisation: Rosales-Foster
+- Fax: (910)288-2800x5056
+---------------------------------------------------------------"
+

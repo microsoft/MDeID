@@ -1,0 +1,47 @@
+"Nota de Enfermeira
+
+-----------------------OBSERVAÇÃO VISUAL-----------------------
+- Carolina Almeida parece estar em desconforto geral
+- Tosse persistente observada
+
+-------------------------SINAIS VITAIS---------------------------
+- Temperatura: 98.7\u00b0F
+- Pressão arterial: 130/80 mmHg
+- Frequência cardíaca: 90 bpm
+
+------------------------NOTAS DA ENFERMEIRA--------------------------
+1. Carolina Almeida apresenta tosse persistente há alguns dias. Diagnóstico provisório: asma brônquica
+2. Medicação prescrita pela Emilly Barbosa para gerenciar os sintomas
+
+-------------------HISTÓRICO MÉDICO DO PACIENTE-------------------
+- Número do prontuário médico: 8876 546Jt
+- Última visita ao hospital: Mercy Cult
+- Plano de saúde: RDLNDPOPh
+  
+------------------------BIOMETRIA---------------------
+1. ID de biometria de voz: 043 xiSCdj
+
+-------------------DETALHES PESSOAIS DO PACIENTE-------------------
+- Idade de Carolina Almeida: 14
+- Endereço: Carolina Almeida, Colônia Cardoso, 96 41, Allotriophagia, Anchieta - 17, ZLB3KTRA, Brasil
+- Profissão: Designer, multimídia
+- Nome de usuário no portal do hospital: 7C7V3UKZ
+
+----------------------INFORMAÇÕES DE CONTATO----------------------
+- Telefone: 515-854-7405x7659
+- Email: lBarbo@unicef.org
+  
+--------------------OUTRAS INFORMAÇÕES--------------------
+- ID pessoal do paciente: 04-keeRjPb
+- Dispositivo usado para monitoramento em casa: 45593-64IG, ID do dispositivo: 
+- Conta do Paciente: 04-keeRjPb
+- Carteira de motorista: 495481 366
+- Número de identificação do veículo: 81N M32
+- Endereço IP do dispositivo do paciente: 150.66.155.36
+- Número do Seguro Social: 50520410-2
+- Organização do Paciente: Haney, Marsh and Mueller
+- Última visita a universidade
+- Fax: 001-405-536-4244x93818
+
+\u29bf\u29bf----------Fim da Nota----------\u29bf\u29bf"
+

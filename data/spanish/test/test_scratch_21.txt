@@ -1,0 +1,62 @@
+"\ud83c\udfe5Nota de Enfermería \ud83c\udfe5
+
+----------------------------------
+**Contexto del Paciente**:
+Florencia Montenegro informa dificultad para respirar, tos continua. 
+
+**Posible Diagnóstico**: Asma Bronquial
+----------------------------------
+
+**Signos Vitales & Observaciones**
+
+BPM: 120
+Tasa de Resp: 22
+Temp: 98.6f
+BP: 130/80
+O2 Sat: 94%
+Se nota sibilancias en la exhalación
+
+----------------------------------
+**Tratamientos Administrados**:
+Se proporcionó inhalador (bP-tXomgIK), 
+Se realizó nebulización broncodilatadora (UNviTS-HZt)
+
+----------------------------------
+**Próximos Pasos**:
+Administrar corticosteroides si es necesario. 
+Monitorear signos vitales de cerca. 
+Informar a Sonia Ortega sobre la respuesta del paciente al tratamiento. 
+
+----------------------------------
+**Identificadores Importantes**
+ciaonte
+Número de Cuenta: DXy PRuqSS
+Número de Historia Clínica: UNviTS-HZt
+
+----------------------------------
+**Información de Contacto de Emergencia**
+Teléfono: 223.907.9192x20881
+Dirección: Florencia Montenegro, C. Calixto Escudero 584 Puerta 9 80, Cetylic, 0XC3ZQSS San Jose De Otamendi, 3, Mexico
+
+----------------------------------
+**Otra Información**
+Registrado desde: mercado
+Admitido en: Sampdoria West
+Plan de Salud: Mua5
+Organización: Robinson-Thompson
+Profesión: Tecnólogo en cerveza
+Vehículo: 819-GEDS
+Licencia: UHeNX 2610
+Seguridad Social: QNLA281366KLLEQP10
+Bioid: IKBfpi Snp
+Dirección IP: 171.32.95.246
+Número de ID: DXy PRuqSS
+Admitido por: Sonia Ortega
+
+----------------------------------
+**Fecha de la Nota**: miércoles, 3 de abril de 1996
+**Nota Preparada Por**: ciaonte
+----------------------------------
+
+*La nota anterior está destinada para referencia rápida y no constituye una historia del paciente completa o un protocolo de tratamiento. Por favor, consulte el registro de salud electrónico detallado para obtener información completa.*"
+

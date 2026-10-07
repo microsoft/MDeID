@@ -1,0 +1,41 @@
+"Kop: Document Patiëntopname
+---------------------------------------
+Patiëntinformatie: Henk van Veen
+Datum van opname: 8 dec. 1983
+
+Onderwerp: Subjectieve Vertelling
+---------------------------------------
+Henk van Veen, een 64 jarige man van gemengde Nederlandse afkomst, presenteerde met een abnormaal gevoel, specifiek, verminderde gevoeligheid van de rechter onderlip uitstrekkend tot de mentale regio. Zijn algehele fysieke conditie werd gemeld als matig, en zijn voedingstoestand werd beoordeeld als gunstig. Geen andere significante factoren werden opgemerkt in de beoordeling van de Belastinginspecteur.
+
+Objectief: Objectieve Bevindingen
+---------------------------------------
+Diagnostische beeldvorming, waaronder een computertomografie (CT) scan van Henk van Veen's gezichtsregio, onthulde een rond radiolucent gebied in het rechter mandibulaire lichaam. Een daaropvolgende magnetische resonantiebeeldvorming (MRI) scan benadrukte onregelmatige hoge signaalintensiteit op STIR horizontale secties, evenals dilatatie van het rechter mandibulaire kanaal op sagittale secties. De biopsieresultaten wezen op een schwannoom met betrekking tot de Antoni A regio, wat duidt op een onrijpe laesie met potentieel voor actieve groei. Tijdens de operatie werd een cystische tumor (met een afmeting van 3,2 x 1,0 cm) geassocieerd met de inferieure alveolaire zenuw gevonden, die werd geligeerd en geëxstirpeerd. Postoperatieve follow-ups toonden verhoogde radiopaciteit op de wondplaats, wat duidt op gezonde botuitgroei.
+
+Beoordeling: Diagnose en Prognose
+---------------------------------------
+De primaire diagnose voor Henk van Veen is een schwannoom van de rechter mandibulaire regio. Succesvolle chirurgische extirpatie werd uitgevoerd, en er werden geen tumorcellen gevonden aan de randen van het resectie zenuwmonster. De prognose ziet er veelbelovend uit, mits regelmatige monitoring wordt gehandhaafd.
+
+Plan: Behandelplan
+---------------------------------------
+Henk van Veen onderging tumor extirpatie onder algemene anesthesie, met positieve resultaten na de operatie. Regelmatige follow-ups zijn gepland om botuitgroei te beoordelen en te zorgen voor geen terugkeer van de tumor. Henk van Veen wordt geadviseerd om zijn voedingstoestand te handhaven en eventuele nieuwe symptomen of zorgen zonder vertraging te melden.
+
+Voettekst: Contactinformatie en Aanvullende Details
+---------------------------------------
+Noodcontact: 542.467.1457x30784
+Voertuiginformatie: XU-6461
+Woonadres: Henk van Veen, Upshut 3, 4285 Raided, België
+Email: rjaMo@unwomen.org
+Zorgverlener: Arjan Mol
+Zorgplan: cb8
+Ziekenhuis: Bergen city council
+Medisch Dossier Nummer: 971 yZRAon
+Rekeningnummer: 12-CGXPoPi
+Apparaat Identifier: 535518 044
+ID Nummer: 12-CGXPoPi
+Sociale Zekerheidsnummer: 408-9387450-52
+Licentienummer: MdQLo YWwl
+Biometrische Identificatoren: mBZ-67150Q
+IP Adres: 120.193.55.210
+URL: pace-murphy.harris.schmidt.com
+Fax: 315-293-6462"
+

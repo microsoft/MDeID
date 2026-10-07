@@ -1,0 +1,12 @@
+T1	PATIENT 65 82	Jasper Verstraete
+T2	PATIENT 453 470	Jasper Verstraete
+T3	PATIENT 785 802	Jasper Verstraete
+T4	PATIENT 987 1004	Jasper Verstraete
+T5	PATIENT 1105 1122	Jasper Verstraete
+T6	MEDICALRECORD 1125 1135	065-48243G
+T7	PATIENT 1472 1489	Jasper Verstraete
+T8	PATIENT 2184 2201	Jasper Verstraete
+T9	PATIENT 2279 2296	Jasper Verstraete
+T10	PATIENT 2353 2370	Jasper Verstraete
+T11	DOCTOR 2595 2608	Eva Vermeulen
+T12	PATIENT 3247 3264	Jasper Verstraete

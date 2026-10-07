@@ -1,0 +1,59 @@
+"Nursing Scratch Note
+
+-----------------------------------
+Patient Info & Obs (KA: )
+-----------------------------------
+Patient: Dennis Reynolds 
+Age: 88 year 
+
+Vitals: 
+BP: 120/80
+HR: 90
+RR: 16
+Temp: 98.6\u00b0F
+
+-----------------------------------
+Clinical Summary
+-----------------------------------
+Complaint: Vision trouble, blurry. 
+Glucometer Reading: 215 mg/dl 
+Dx: Diabetes 
+
+-----------------------------------
+Treatment & Progress
+-----------------------------------
+Insulin administered - details in medical record: 883818 63m
+BG trend monitored - see device id: dKCDV-0209
+
+-----------------------------------
+Other Info
+-----------------------------------
+Addr: Dennis Reynolds, 138 Rhinocerotine, Attrist 98 4323, Australia
+Email: yl@unwomen.org
+Username: 8DGQNUdI
+Doc: Harry Black 
+Healthcare Provider: oQB5
+Hospital: Mt. Zion Memorial Orchestra
+
+-----------------------------------
+Contacts
+-----------------------------------
+Phone: 001-725-725-3119
+Alt. Phone: 001-725-725-3119
+Emerg contact: Dennis Reynolds
+
+-----------------------------------
+Misc Details
+-----------------------------------
+License: 13484 9185
+SSN: 568-022-378
+Account#: 6052-758RM
+Biometric ID: 55630 lLLE
+IP address: 75.66.44.209
+Vehicle Info: 89H S32
+Location-Other: superstore
+Organization: Olson, Lee and Martin
+Profession: Engineer, structural
+URL: https://edwards.com/blog/posts/listfaq.jsp
+Fax: 001-903-253-2790x27154"
+

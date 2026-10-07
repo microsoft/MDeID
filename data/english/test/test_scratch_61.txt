@@ -1,0 +1,41 @@
+"**Nursing Scratch Note**
+
+**Patient ID:** 088734-nvp
+
+**Observations for January 7, 1994:**
+
+1. Vitals: BP: 110/70, HR: 65, RR: 16, Temp: 37.5C
+2. Symptoms: Vomiting, stomach pain
+3. Noticed Emma Patterson skin/ eyes show slight yellowing - suspecting jaundice
+4. Plan to monitor vital signs every 4 hours
+5. Emma Patterson hydration status to be maintained with IV fluids
+
+*Informal Note*:
+Nancy Tran to be informed. Emma Patterson seems tired. Pain level elevated. Vitals stable, no spike in temperature. Jaundice-like symptoms needs attention.
+
+**Patient Personal Information:**
+- Home Address: Emma Patterson, 192 Hyetal, Darting 79 1111, Australia
+- Contact Number: (853)923-9172
+- Emergency Contact: Emma Patterson
+- Health Plan: 59ZCk EDtSsaeK
+
+**Professional Contacts:**
+- Attending Doctor: Nancy Tran
+- Nurse On Duty: qjsVhFRP
+
+**Other Essential Information:**
+- Admitted to Atlantic America
+- Mentioned working at Hill, Valdez and Yoder
+- Last known ACCESS LOG IP: 220.110.162.230
+- Device ID of Monitor: 634072 eoJ
+- Patient's Account: 76175-RDgP
+- SSN Details: 041 801 831
+- License No. (if any): 88205 MDmv
+- Biometric ID: fL 5477nEJ
+- Other Identifiers: 76175-RDgP
+- Patient's Age: 9
+
+**Possible Follow-up required at location:** market
+
+*End of Scratch Note*"
+

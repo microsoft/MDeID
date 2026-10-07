@@ -1,0 +1,53 @@
+"Dr. Ben Cull's Scratch Note
+
+- Adam Gordon 
+- 23 
+- ID 2966 5453g 
+
+Vitals:
+- BP: 125/65 mmHg
+- HR: 84 bpm
+- Temp: 100.4\u00b0F 
+
+Complaints:
+- 7-day fever 
+- Chills 
+- Painful swelling, right shoulder
+- Pharyngitis
+
+No significant cardiac history. Denies recent dental treatment, surgery, drug abuse.
+
+Physical Exam:
+- 2/6 systolic heart murmur, mesocardium
+- Normal pharynx
+- Minimal acne
+
+Labs:
+- WBC: 13x10^3/\u00b5L
+- Neutrophils: 9.7x10^3/\u00b5L
+- LDH: 266 mU/mL
+- CRP: 18 mg/dL
+- Urine: Negative infection
+- ECG: Sinus tachycardia
+- Chest x-ray: Normal
+- Bone marrow aspirate: Negative hematological malignancies
+- Blood cultures: Positive Streptococcus pyogenes
+
+Imaging:
+- Transesophageal echocardiogram: Moderate mitral regurgitation, vegetations on posterior mitral leaflet
+
+Diagnosis: 
+- Infective endocarditis - Streptococcus pyogenes
+- Involvement of mitral valve
+
+Plan:
+- Empirical antibiotics: Amoxicillin/clavulanate + vancomycin
+- Adjusted to ceftriaxone (2g, twice daily) + ampicillin (12g/day) post culture results
+- Monitor cardiac function and response to antibiotics
+- Admission to Gregory Ltd for ongoing management
+- Patient education regarding infection and treatment
+- Regular follow-up for monitoring treatment response and cardiac function
+
+Dr. Ben Cull
+Telecommunications researcher"
+

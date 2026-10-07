@@ -1,0 +1,20 @@
+"Arzt Kratz Notiz:
+
+S:
+Hans Zimmermann zur routinemäßigen Vorsorgeuntersuchung. Schwellung in der linken Achselhöhle bemerkt. Screening-Mammographie und Brustultraschall - 5 mm Knoten in der linken Brust und linke axilläre Adenopathie bis zu 3,2 cm. Stanzbiopsie des linken axillären Knotens durchgeführt. Diagnose - klassisches Hodgkin-Lymphom. Keine 6327-20739 Symptome gemeldet. Vermindertes Hören im linken Ohr.
+
+O:
+Immunfärbung - große atypische Zellen positiv für CD30, CD15 (Teilmenge), CD20 (stark) und PAX5. Hämoglobin 11,9 g/dL, Leukozyten 7.600/\u03bcL, absolute Neutrophilenzahl 5.400/\u03bcL, absolute Lymphozytenzahl 1.500/\u03bcL, Thrombozyten 261.000/\u03bcL, Albumin 4,6 g/dL und LDH 198 U/L (Obergrenze des Normalbereichs 243 U/L). PET/CT-Scan und Knochenmarkbiopsie des rechten hinteren oberen Darmbeinkamms - hypermetabolische Adenopathie in mehreren Regionen, größte in der linken Achselhöhle. Knochenmarkmorphologie - normozellulär mit reifender trilinearer Hämatopoese. Keine Anzeichen von Hodgkin-Lymphom oder anderen lymphoproliferativen Erkrankungen.
+
+A:
+Primärdiagnose - klassisches Hodgkin-Lymphom. Differentialdiagnosen - Non-Hodgkin-Lymphom (NHL) des diffus großzelligen Lymphom (DLBCL) Subtyps. Prognose - vorsichtig optimistisch. Fehlen von Krebs im Knochenmark und lokalisierte hypermetabolische Adenopathie.
+
+P:
+Nachsorge mit Vanessa Rams - medizinische Onkologin zur Diskussion der Behandlungsmöglichkeiten. Chemo &/oder Strahlentherapie möglich. Hans Zimmermann soll Symptome überwachen und über neue Symptome oder Bedenken berichten. Regelmäßige Nachsorgeuntersuchungen bei Onkologen und Hausarzt zur Behandlungsreaktion und Nebenwirkungsmanagement empfohlen. Konsultation mit einem Audiologen wegen verminderter Hörfähigkeit im linken Ohr empfohlen.
+
+Vanessa Rams's ID: uED 609578 
+Sharp-Martin 
+Vanessa Rams, Walterstrasse 462 13, 2016 La Reina, Deutschland
+9356418699
+VanessRams@microsoft.org"
+

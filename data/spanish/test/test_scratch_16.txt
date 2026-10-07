@@ -1,0 +1,56 @@
+"**Nota de Enfermería**
+
+Información del Paciente: Inés Martín
+
+Signos Vitales:
+- PA: 120/80 mmHg
+- FC: 75 lpm
+- FR: 16/min 
+- Temp: 98.6 F
+- SpO2: 98%
+
+Observaciones:
+- Erupción: Todo el cuerpo
+- Piel: Seca, Escamosa
+- Condición: Picazón, Intensa
+- Sospecha: Infección por hongos
+
+Plan de Tratamiento:
+- Medicamento antifúngico
+- Crema hidratante para la piel
+- Seguimiento: Después de 2 semanas
+
+Información Estructurada:
+
+| Elemento        | Marcador de posición   |
+| -------------- | ------------- |
+| Nombre del Doctor  | Paola Villegas      |
+| Historia Clínica | okMPXR 406 |
+| Número de Cuenta | XRQOmX jDG     |
+| Número de Licencia | rF-50318dq     |
+| ID del Dispositivo      | 7650-08010      |
+| Nombre de Usuario       | InMart    |
+| ID del Vehículo     | K 877194     |
+| Seguridad Social| 39072890S |
+| ID Biológica         | ok YbszDPR       |
+| Dirección IP     | 77.127.11.227   |
+| Número de ID      | XRQOmX jDG       |
+| Edad            | 107         |
+| Dirección        | Inés Martín, Callejón Marisol España 7 99, Crizzle, Ciudad Adolfo López Mateos 80308, Peru     |
+| Hospital       | Citizen Action    |
+| Otra Ubicación | estadio |
+| Plan de Salud    | HLkk M7mrs1  |
+| Profesión     | Neurocirujano  |
+| Organización   | Warner PLC|
+| Correo Electrónico          | lale@zoho.com       |
+| Teléfono          | 508-803-0705x2887       |
+| URL            | http://payne.com/blog/postsmain.htm         |
+| Fax            | +1-641-334-2753x69350         |
+| Estado          | 44       |
+| Ciudad           | Ciudad Adolfo López Mateos        |
+| País        | España     |
+| Calle         | 983 Baker Orchard      |
+| Código Postal            | 80308         |
+
+Nota: La paciente se queja de picazón intensa e incomodidad debido a la erupción. Se recetó medicamento antifúngico y crema hidratante para la piel. Se recomienda seguimiento regular."
+

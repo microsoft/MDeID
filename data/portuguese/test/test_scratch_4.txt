@@ -1,0 +1,96 @@
+"**NOTA DE RASCUNHO DO PACIENTE**
+
+----------
+**Centro de Cuidados Cosmos Loja 2 Rio de Janeiro - Nichols Group**
+----------
+**Paciente**: Maria Marques
+
+**ID**: OPI-834kmi
+
+**SSN**: 911.193.772-37
+
+**Conta**: Vhmp-WOibR
+
+**Plano de Saúde**: zpAW
+
+----------
+**Sinais Vitais**
+----------
+Temp: 98.6\u2109
+
+BP: 120/80
+
+HR: 75 bpm
+
+RR: 20/min
+
+SpO2: 98%
+
+----------
+**Observações**
+----------
+- Queixa de dor de cabeça
+- 93 mostra sinais de desconforto
+- Sem alergias conhecidas
+- PERRLA normal
+
+----------
+**Tratamentos**
+----------
+- Analgésico prescrito
+- Hidratação incentivada
+
+----------
+**Notas de Progresso**
+----------
+- Dor de cabeça persistente
+- Maria Marques descansando
+- Monitoramento para mudança
+
+----------
+**Informações de Contato**
+----------
+Médico Principal: Dinis Marques
+
+Email: ss@msf.org
+
+Telefone: 001-428-564-4082x262
+
+----------
+**Informações do Dispositivo**
+----------
+ID do Dispositivo: QiY-ilKeZR
+
+----------
+**Informações Adicionais**
+----------
+Nome de usuário: xtJ7FHcF
+
+Endereço IP: 9.40.128.78
+
+Licença: ec 991ICnt
+
+Profissão: Gerente de agência de viagens
+
+----------
+**Contatos de Emergência**
+----------
+1. Maria Marques | 001-428-564-4082x262
+2. Maria Marques | 001-428-564-4082x262
+
+----------
+**Endereço**: Maria Marques, Praça do Rego Lameiro, 5 121, 0415 Bom Jesus do Itabapoana, Portugal
+
+----------
+**Hospital**: Gray's Inn London
+
+----------
+**Localização-Outros**: shopping
+
+----------
+**BIOID**: PG-9644xJG
+
+**VEÍCULO**: 6K036
+
+**FAX**: (887)535-2937"
+

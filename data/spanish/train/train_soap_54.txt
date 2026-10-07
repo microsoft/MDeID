@@ -1,0 +1,31 @@
+"S: La paciente Lucrecia Álvarez informó una historia del 4 de enero de 1992 de fiebre alta y úlceras dolorosas con hinchazón del cuero cabelludo al ingreso. La paciente también experimentó una mala alimentación debido a la condición.
+
+O: El examen físico realizado por Lucía Godoy reveló conciencia con una puntuación de 15 en la Escala de Coma de Glasgow, formación de pus, fístula con secreción purulenta, descamación del cuero cabelludo e hinchazón facial. Los análisis de laboratorio mostraron neutropenia severa con células blancas a 2.39 \u00d7 10^9/l, neutrófilos a 0.25 \u00d7 10^9/l, y linfocitos a 2.1 \u00d7 10^9/l. La tasa de sedimentación eritrocitaria estaba elevada a 101 mm/hora, y la proteína C reactiva estaba significativamente alta a 272 mg/dl. El cultivo de pus dio positivo para Enterococcus faecalis y Escherichia coli. Los cultivos de sangre y orina fueron negativos. La radiografía de tórax, el análisis de orina y el análisis del líquido cefalorraquídeo fueron normales. Los títulos séricos de inmunoglobulinas y los porcentajes de células T estaban dentro de los rangos normales. El análisis de la médula ósea mostró un arresto de maduración en la etapa de promielocito/mielocito sin participación maligna. La tomografía computarizada de la cabeza y el cráneo en Castlehaven indicó enfisema subcutáneo del cuero cabelludo pero sin lesiones cerebrales ni fracturas de cráneo.
+
+A: El diagnóstico principal es fascitis necrotizante del cuero cabelludo complicada por septicemia. Los diagnósticos diferenciales considerados incluyeron otras etiologías infecciosas, que se descartaron mediante diversos cultivos y pruebas serológicas.
+
+P: La paciente fue tratada con pentaglobina (0.5 g/kg) y una combinación de antibióticos: vancomicina, meropenem y metronidazol. Se inició la terapia con factor estimulante de colonias de granulocitos (G-CSF) a dosis que oscilan entre 5 y 15 \u00b5g/kg/día para manejar la neutropenia severa. La paciente fue dada de alta después de 4 de enero de 1992 de tratamiento y continúa con la terapia regular de G-CSF para prevenir más infecciones. El seguimiento incluye el monitoreo regular del recuento de neutrófilos y el estado general de salud en Castlehaven para asegurar que no haya recurrencia de la infección.
+
+Información adicional:
+- Número de registro médico del paciente: 53-97734Nc
+- Número de cuenta del paciente: 550968-sfm
+- Número de serie del dispositivo del paciente: 83512 qukq
+- Nombre de usuario del paciente: Eeh8aNRB
+- Información del vehículo del paciente: 102-OTA
+- Número de seguridad social del paciente: 922-66-1909
+- Información de la licencia del paciente: bFYvi-KGRt
+- Identificador biométrico del paciente: 68974-691g
+- Dirección IP del paciente: 172.50.240.252
+- Número de identificación adicional del paciente: 550968-sfm
+- Edad del paciente: 100
+- Dirección del paciente: Lucrecia Álvarez, Corredor Sinaloa 508 Interior 042, 52, 6518 Las Torres de Cotillas, Spain
+- Ubicación del paciente: cafetería
+- Plan de salud del paciente: RnUUDHl
+- Profesión del paciente: Bibliotecaria pública
+- Organización del paciente: Walker Group
+- Fecha de hoy: 4 de enero de 1992
+- Correo electrónico del paciente: du@yahoo.com
+- Número de teléfono del paciente: 602-801-1253
+- URL del paciente: monroe.russell-brady.com
+- Número de fax del paciente: +1-540-582-7965x9622"
+

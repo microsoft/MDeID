@@ -1,0 +1,41 @@
+"Dr. Anna Wagner Kratznotiz
+
+Anaïs De Ridder, 9, W, Bekannter Fall von anaplastischem Oligoastrozytom. Unter Therapie (Strahlung und Temozolomid)
+
+S:
+Kürzlich aufgetreten mit Husten, Herzrasen. 
+
+O:
+BP: 
+HR: 
+Temp: 
+SpO2: , 2 L/min O2 Kanüle
+
+EKG: Sinustachykardie, SIQIII TIII Muster, negatives T in V1\u20133
+
+Ultraschall-Kardiogramm: Rechter Ventrikel erweitert, D-Form (+), mäßige Trikuspidalklappen-Regurgitation, mäßig-schwere pulmonale Hypertonie (max Druckgradient - )
+
+Röntgen-Thorax: Erweiterte Lungenarterien, interstitielles Lungeninfiltrat
+
+CT-Thorax: Kein Thrombus, noduläre Opazitäten, Baum-in-Knospen-Muster
+Abdomen-CT: Leicht erweiterte Magenwand, Lymphadenopathien
+
+Lab: 
+Thrombozyten: 
+APTT: 
+PT-INR: 
+Fibrinogen: 
+D-Dimer: 
+WBC: 
+CRP: 
+\u03b2d-Glucan: 
+
+A:
+Temozolomid-induzierte interstitielle Pneumonie, DIC, Rechtsherzversagen. PE (CT) ausgeschlossen
+
+P:
+Aufnahme, Steroid-Pulstherapie (Methylprednisolon 1 g/d), rekombinantes Thrombomodulin, kontinuierliche Heparin-Infusion. Engmaschige Überwachung des Herz- und Lungenstatus.
+
+Anna Wagner
+Brown Inc"
+

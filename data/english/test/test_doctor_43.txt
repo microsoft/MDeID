@@ -1,0 +1,33 @@
+"Doctor Scratch Note:
+
+Patient: Diana Henderson
+ID: 25 ZAnHxdr
+
+S: 
+19-year-old 28 weeks male. Complaints: polydipsia, polyuria, muscle weakness, vomiting, transient paralysis. Duration: Over a month. Past medical history: Negative for neuromuscular, thyroid, autoimmune diseases. Previous hospitalization: Yes, cause- severe hypokalemia, metabolic acidosis. Symptom changes since last evaluation: None reported.
+
+O:
+PHI: Press Manchester 
+Last admission: Diagnosed with severe hypokalemia, metabolic acidosis. pH 7.22, pCO2 26.0 mm Hg, HCO3 10.6 mmol/L, lactate 7.1 mmol/L, base excess -15.6 mmol/L. 
+
+Current labs: 
+WBC 3.16 \u00d7 109/L, hemoglobin 74 g/L, platelet count 128 \u00d7 109/L, sodium 140 mmol/L, chloride 108 mmol/L, potassium 3.18 mmol/L, calcium 1.89 mmol/L, creatinine 57.8 mmol/L, bicarbonate 19 mmol/L, urinary pH 6.5, urinary sodium 80 mmol/L, urinary potassium 18.68 mmol/L. 
+
+24-hour urine test: 
+Sodium 320 mmol/24h, potassium 74.7 mmol/24h, calcium 12.24 mmol/24h, protein 988.00 mg/24h. 
+
+Serum and urinary osmolality: 
+303 and 158 mOsm/kg, respectively. 
+
+Physical exam: 
+Pallor.
+
+A:
+Primary diagnosis: Hypokalemia, associated metabolic acidosis. Differentials: Renal tubular acidosis, adrenal insufficiency, gastrointestinal loss of potassium. Transient paralysis, muscle weakness: Concerning for periodic paralysis, potentially secondary to severe electrolyte disturbances.
+
+P:
+Plan of action: Monitor electrolyte levels, acid-base balance. Administer potassium supplements. Consider bicarbonate therapy if metabolic acidosis persists. Referral: Diana Lewis, Nephrologist for further evaluation of renal function, potential tubular disorders. Advise patient: Adhere to treatment and dietary recommendations for potassium. Follow-up: In one week to reassess symptoms, lab results. Discuss management plan with patient, encourage reporting of new symptoms or concerns.
+
+Signed:
+Diana Lewis"
+

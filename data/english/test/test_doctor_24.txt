@@ -1,0 +1,51 @@
+"DOCTOR NOTES
+> Doc: Olivia Thompson
+
+> Age: 11 years-old
+
+> Patient: Joan Smith
+
+> MedRec#: 516694-011
+
+> S:
+Mother reports effort intolerance, Joan Smith (7yo). No cyanosis. Chief complaint: difficulty in physical activities.
+
+> O:
+Clinical examination - NAD. Doppler echo - Left pulmonary veins drain into left innominate vein. Normal drainage of right pulmonary veins into left atrium. No ASD. Dilation of right atrium & right ventricle. CTPA - Isolated left-sided PAPVC. Left pulmonary veins form common channel draining into SVC via left brachiocephalic vein.
+
+> A:
+Primary diagnosis - Isolated left-sided supracardiac PAPVC. Dilation of right atrium & right ventricle - likely secondary to increased flow & pressure from anomalous pulmonary venous return. Prognosis - Good with surgical correction.
+
+> P:
+Surgical intervention using median sternotomy approach (No CPB). Creating openings in common chamber & left atrial appendage. Anastomosis of vertical vein to left atrial appendage. Post-op care - Mechanical ventilation (Approx. 12hrs). Expected hospital discharge on Day 10 post-surgery. Education on surgery & post-op care to ensure understanding & compliance.
+
+> Phone: 7968789709
+
+> Email: ason@red-cross.org
+
+> Address: Joan Smith, 117 Disentombment, Boomkin, 100 0991, United States
+
+> Location-Other: bench
+
+> Zip: 0991
+
+> City: Boomkin
+
+> State: 883
+
+> Country: Canada
+
+> IDNum: 57-771540A
+
+> Account: 57-771540A
+
+> License: bBdh pSgIM
+
+> Organization: Snyder Ltd
+
+> HealthPlan: 9O1
+
+> Profession: Acupuncturist
+
+> URL: http://turner-jordan.com/posts/search/maincategory.html"
+

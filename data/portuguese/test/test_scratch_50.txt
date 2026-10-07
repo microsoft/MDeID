@@ -1,0 +1,70 @@
+"Nota de Enfermagem
+---
+Informações do Paciente:
+* Rita Araújo
+* Idade: 10
+* Conta: JZKnao-hzU
+
+Observações:
+
+* Varizes: Notadas
+* Pressão Arterial: 120/80
+* Temperatura: 36.9\u00b0C
+* Frequência Cardíaca: 78bpm
+
+Tratamento:
+
+* Terapia de compressão iniciada
+* Elevação do membro aconselhada
+
+Progresso:
+
+* Paciente relata  
+
+Informações Adicionais:
+
+* Prestador de Saúde: João Almeida
+* Plano de Saúde: 7oBaoF
+* Admissão no hospital: St. Olaf 's Saga
+* Número do Prontuário Médico: 10572-3637
+
+Comunicações:
+
+* Email: Alo@red-cross.org
+* Telefone: (884)731-6495x55794
+
+Contexto:
+
+* Localização: supermercado
+* Endereço: Rita Araújo, Estação da Mota, 68 10, 9945 Bonito, Portugal
+
+Informações do Dispositivo:
+
+* ID do Dispositivo: 161 dojiQM
+* Endereço IP: 6.174.46.98
+
+IDs Pessoais:
+
+* Segurança Social: 98360037-8
+* Licença: 465683-551
+* BIOID: 99 qkTvfnd
+* Identificador Pessoal: JZKnao-hzU
+
+Contato em Caso de Emergência:
+
+* Nome de Usuário: újoRit
+* Veículo: 3F GE497
+* Profissão: Contabilista certificado
+* Organização: Long, Williams and Walker
+
+POR FAVOR, NOTE:
+
+* Toda comunicação é estritamente confidencial e deve obedecer às regras abrangentes de privacidade de dados.
+
+Próximo acompanhamento (DATA): 18/04/1994
+* Fax: 951.204.5333x891
+
+--- --- --- --- --- --- --- --- +++++++++++++++++++++++++++++++++++++++ --- --- --- --- --- --- --- --- 
+
+Nota: As Informações de Saúde Pessoal (PHI) foram removidas e substituídas por espaços reservados para manter a confidencialidade do paciente de acordo com as diretrizes da HIPAA."
+

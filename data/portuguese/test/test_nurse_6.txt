@@ -1,0 +1,37 @@
+"Nota Narrativa da Enfermeira
+
+Subjetivo: Renan Cruz revela um histórico de dor crônica nas costas, parcialmente controlada com medicação, e piora da dispneia levando a uma necessidade aumentada de suplementação de oxigênio. O histórico médico do paciente inclui obesidade mórbida, apneia obstrutiva do sono, leucemia linfocítica aguda com transplante de medula óssea e doença do enxerto contra o hospedeiro, resultando em doença pulmonar restritiva grave.
+
+Objetivo: Os sinais vitais de Renan Cruz não foram fornecidos. Os resultados do EKG indicaram o início de bigeminia atrial, que posteriormente se resolveu. Um angiotomografia mostrou conexão venosa pulmonar parcialmente anômala (PAPVC) envolvendo a veia pulmonar no lobo superior esquerdo e língula. O ecocardiograma do paciente mostrou ventrículo direito levemente dilatado, regurgitação leve da válvula tricúspide e função ventricular esquerda normal. Testes de função pulmonar mostraram capacidade pulmonar total em 42%, FEV1 em 39%, FVC em 37% e DLCO em 41% dos valores previstos. Cateterismo cardíaco direito e esquerdo mostrou hipertensão pulmonar com pressões elevadas e uma relação de fluxo pulmonar para sistêmico (Qp/Qs) de 1,22:1.
+
+Avaliação: O principal diagnóstico é conexão venosa pulmonar parcialmente anômala (PAPVC) com complicações secundárias de hipertensão pulmonar e insuficiência respiratória crônica devido à doença pulmonar restritiva grave. O diagnóstico diferencial inicial incluía embolia pulmonar, que foi descartada por angiotomografia.
+
+Plano: Continuar a suplementação de oxigênio e a medicação para o controle da dor crônica nas costas. Renan Cruz precisa de monitoramento próximo do estado respiratório e cardíaco, com consultas de acompanhamento para discutir outras opções de tratamento. A educação do paciente sobre o monitoramento dos sintomas e o reconhecimento de quando procurar ajuda médica imediata é crucial. É recomendado o encaminhamento a um pneumologista e a um cardiologista para cuidados e gerenciamento especializados de PAPVC e hipertensão pulmonar.
+
+[CABEÇALHO]
+ID do Paciente: ntODq-bXPy
+Data da Visita: segunda-feira, 24 de dezembro de 1979
+Nome da Enfermeira: Ana Azevedo
+Hospital: St. Mary 's Queen of the Angels Church
+Endereço: Renan Cruz, Av Anita Freitas, 98 184, 8997 Pilar do Sul, Portugal
+Informações de Contato: Telefone - 353.428.9758, Email - AnAze@unhcr.org
+[RODAPÉ]
+Endereço IP do Paciente: 177.127.184.56
+ID do Dispositivo: nIzqcV-355
+Nome de Usuário: SW0nSgFL
+Número do Seguro Social: 957.418.408-44
+Número da Licença: 8945-18286
+ID Biométrico: 01116 JJgS
+Detalhes do Veículo: 9RW 001
+Número da Conta do Paciente: 74690-05gL
+Organização do Paciente: Phillips, Thomas and Jones
+Detalhes do Plano de Saúde: Kcgq72e
+Profissão: Seismic interpreter
+Cidade: Alegrete
+País: Portugal
+Estado: Palmela
+Rua: 8303 Wilkinson Divide Suite 413
+Código Postal: 8997
+URL: patel-kaiser.com
+Fax: 226.548.3319x93548"
+

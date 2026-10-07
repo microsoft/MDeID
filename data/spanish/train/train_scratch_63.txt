@@ -1,0 +1,56 @@
+"###################### Nota de Enfermería de Emergencia ######################
+
+Estadísticas vitales:
+  - BP: 160/90
+  - HR: 110 bpm
+  - Resp: 20/min
+  - Temp: 98.6 F
+  - O2 Sat: 98%
+  
+NOTA:
+  - Quejas de Ronja Hallgren: dolores de pecho, dolores de cabeza
+  - Ronja Hallgren 9 masculino
+  - Posible hipertensión
+  - Medicamentos: Necesito saber 268130 724
+
+Observaciones:
+  - Piel: Normal, sin erupciones
+  - Pupilas: PEARL
+  - Marcha: Estable
+  - Alerta y orientado
+  
+Plan:
+  - Referencia del José Ángel Vargas
+  - Pruebas adicionales: ECG, análisis de sangre
+  - Monitoreo regular de la presión arterial
+  - Asesoramiento sobre el estilo de vida
+  - Seguimiento programado 12 de diciembre de 1991
+
+###### INFORMACIÓN IMPORTANTE: ######
+!!! Se Requiere Conexión Segura !!!
+- Portal del Paciente https://www.walter.com/postssearch.php
+- Nombre de usuario: llgrenRon
+- Contraseña: 745933 Tlr
+
+Detalles de Contacto:
+- Ronja Hallgren
+- Dirección: Ronja Hallgren, Acceso de Abel Barragán 41 134, Quadratus, Tecate 84281, Peru
+- Correo electrónico: geloséVargas@un.org
+- Teléfono: 5902030892
+- Contacto de Emergencia: relación de Ronja Hallgren, 5902030892 
+
+#### Licencia y Seguro ####
+- 6330-KTwpg: Para Verificar
+- Plan de Salud: CpM
+
+#### Información General ####
+- Espacio de trabajo: Anderson, Cruz and Barnes
+- Dispositivo de origen: ohzrz fnoJ
+- IP: 31.22.34.40
+
+-----------------------------------------------------------------------------
+Esta nota se hizo en MCH Arena, aeropuerto. Para obtener más información, contacte al departamento +1-824-419-5696x66002.
+------------------------------------------------------------------------------
+
+###################### FIN DE LA NOTA DE RASGUÑO ######################"
+

@@ -1,0 +1,63 @@
+"Nota Narrativa de la Enfermera:
+
+Subjetivo: 
+El paciente Juan Pablo Rodríguez informa que experimenta episodios intermitentes de alteraciones visuales en el ojo izquierdo, descritos como borrosidad y una sensación de movimiento vertical. Estos episodios se informan que ocurren unas pocas veces al mes, cada uno durando aproximadamente 20-30 minutos. Acompañando estos síntomas visuales hay fuertes dolores de cabeza en el lado izquierdo y sensibilidad a la luz, que aparecen casi inmediatamente después del inicio de las alteraciones visuales. El paciente también nota una borrosidad visual similar cuando está expuesto a la luz del sol, que se resuelve rápidamente al cerrar los ojos. El historial médico del paciente incluye presión arterial alta no tratada, tabaquismo y uso significativo de alcohol. Además, hay un historial familiar de enfermedad de Parkinson, cáncer de orofaringe sospechado y mutación AGS vinculada con varias manifestaciones cardiovasculares y neurológicas.
+
+Objetivo: 
+En el examen, se encontró que el paciente tenía presión arterial alta, con una lectura de 168/98 mmHg. Otros hallazgos incluyeron decoloración de la piel en un patrón de red (livedo reticularis), una barbilla ligeramente puntiaguda, regurgitación aórtica y sensibilidad abdominal difusa. El abdomen del paciente no mostró signos de defensa, rigidez o soplos audibles. Los síntomas previos de desorientación, alteración de la conciencia y temblor se conectaron con convulsiones focales con conciencia alterada.
+
+Evaluación: 
+La evaluación primaria indica que los ataques isquémicos transitorios monoculares izquierdos (TIAs) del paciente podrían estar relacionados con la retinopatía de bajo flujo, dada la sintomatología visual y la rápida resolución al cerrar los ojos. Los diagnósticos diferenciales incluyen convulsiones focales con conciencia alterada y episodios similares a la migraña sin características típicas de migraña. El historial familiar y personal del paciente sugiere una predisposición genética a condiciones vasculares y neurológicas, potencialmente vinculadas a la mutación AGS.
+
+Plan: 
+El plan de manejo se centrará en controlar la hipertensión a través de ajustes de medicación apropiados y modificaciones del estilo de vida, incluyendo la cesación del tabaquismo y la reducción del consumo de alcohol. Se recomiendan referencias a un neurólogo para una evaluación más detallada de la actividad convulsiva y a un genetista para la evaluación de las implicaciones relacionadas con la mutación AGS. Serán necesarios seguimientos regulares para monitorear la presión arterial del paciente y la efectividad del plan de tratamiento. Se proporcionará educación al paciente sobre los signos y síntomas de las TIAs y la importancia de los cambios en el estilo de vida.
+
+[Encabezado]
+ID del Paciente: WOzoAd int
+Doctora: Carolina Chamorro
+Enfermera: G9Fp02DN
+Fecha: 23/11/09
+Ubicación: biblioteca
+
+[Pie de página]
+Información de Contacto:
+Número de Teléfono: 991.892.8874x200
+Correo Electrónico: Carolinr@yandex.com
+
+Información de Contacto de Emergencia:
+Nombre: Juan Pablo Rodríguez
+Relación: Artista plástico
+Número de Teléfono: 991.892.8874x200
+
+Información de la Cuenta:
+Número de Cuenta: EQVSV-FbRW
+Plan de Salud: 7Qr7Z
+
+Información del Dispositivo del Paciente:
+ID del Dispositivo: 64 piBnGUE
+
+Información de la Red:
+Dirección IP: 76.132.166.177
+
+Información del Vehículo:
+ID del Vehículo: 534-IVU
+
+Número de Seguridad Social: FVJZ507684CLGWAS68
+Número de Licencia: qIfG ahwjc
+Identificador Biométrico: 9306 7066O
+Número de ID Personal: EQVSV-FbRW
+Número de Fax: 550-536-9110x4830
+
+Dirección del Paciente:
+Dirección: Juan Pablo Rodríguez, Acceso Silvio Huerta 9 Piso 9 184, Spiled, 32729 San Javier de Loncomilla, 98, Colombia
+Ciudad: San Javier de Loncomilla
+Estado: 98
+País: España
+Código Postal: 32729
+
+Información del Hospital:
+Nombre del Hospital: sutherland
+Organización: Hill Ltd
+
+URL: http://wilson-edwards.com/tagsabout.html"
+

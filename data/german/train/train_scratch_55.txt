@@ -1,0 +1,61 @@
+"------------Krankenschwester Notiz------------
+
+[KRANKENHAUS: Vår] | [DATUM: 4. Oktober 2016]
+[Konto: dAx YBlpJB]
+
+71 - Alter des Patienten
+Bad Goisern am Hallstättersee - Aktueller Wohnort
+0k3JwhzY - für Patientenportal
+
+**Vitalwerte:**
+BP: 120/80 mmHg
+HR: 80 bpm
+Temp: 98.6 F
+RR: 16 Atemzüge/min
+
+**Beobachtungen:**
+- Anzeichen von Unbehagen beim Wasserlassen
+- Jana Hahn berichtete über häufiges Wasserlassen
+- Erhöhte WBC-Zählung - Mögliche Infektion
+
+**Bewertung:**
+Möglicherweise Harnwegsinfektion - Urinprobe erforderlich für 6420 WrVCK 
+
+**Plan:**
+Antibiotika verschrieben von Harald Mayer
+Nachkontrolle in einer Woche, Terminvereinbarung über Patientenportal
+
+**Notizen:**
+Jana Hahn über die Bedeutung der Hydratation informiert
+
+**Notfallkontaktinformationen:**
+Telefon: (256)930-2997x020
+Backup-Telefon: (256)930-2997x020
+Email: Mayd@unhcr.org
+
+**Medizinische Aktennummer: 2585-YKixk**
+
+**Geräteinformationen:**
+Geräte-ID#: 09-391855h
+
+**Weitere Informationen:**
+Sozialversicherungsnummer: 758-5699693-21
+Beruf: Pressefotograf
+Gesundheitsplan: 5joG
+Standort außerhalb des Hauses: Theater
+
+**Unterschrift**
+Krankenschwester [Benutzername: 0k3JwhzY]
+
+---------------------------------- Fußzeile ----------------------------------
+[IPADRESSE: 199.161.244.155]
+[ORGANISATION: Giles-Stevens]
+[URL: henry.myers.com]
+[PLZ: 9742]
+[BUNDESLAND: 9]
+[FAHRZEUG: 749608]
+[STRASSE: 5105 Gibson Underpass]
+[LIZENZ: zLVxXc-234]
+[FAX: 560.552.7589x229]
+[IDNUMMER: dAx YBlpJB]"
+

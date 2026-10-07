@@ -1,0 +1,38 @@
+"Informe de Atención al Paciente
+
+[DISPATCH]: La central de despacho Mathis, Cross and Johnson recibió una llamada al 911 de un residente local Angela Rivera. La unidad 092 NPE respondió a la llamada de despacho.
+
+[RESPONSE]: Al llegar a la escena cafetería, nos encontramos con la paciente Angela Rivera que se quejaba de una erupción cutánea severa. La paciente Angela Rivera estaba en un estado moderado de angustia.
+
+[HISTORY OF PRESENT ILLNESS]: La paciente Angela Rivera explicó que la erupción había comenzado hace varios días. Los síntomas han ido empeorando progresivamente y ahora están acompañados de una fiebre moderada. La paciente Angela Rivera afirmó que la erupción era bastante severa y picante, lo que llevó a la decisión de llamar al 911. Se obtuvo la historia médica previa de la paciente Angela Rivera. La paciente Angela Rivera no pudo proporcionar ninguna alergia conocida.
+
+[ASSESSMENT - PRIMARY]: La paciente Angela Rivera estaba consciente y alerta. El examen de la piel reveló una erupción generalizada, ampollas y manchas rojas, consistentes con una posible Varicela. Se tomaron y documentaron los signos vitales de la paciente Angela Rivera de la siguiente manera: (estos signos vitales no deben indicar ninguna condición crítica pero pueden mostrar una temperatura ligeramente elevada).
+
+[ASSESSMENT - SECONDARY]: En un examen más detallado, se evidenció que la erupción se distribuía por todo el cuerpo. El picor era evidente, y la paciente Angela Rivera parecía incómoda debido a una fiebre persistente.
+
+[TREATMENT]: La paciente Angela Rivera fue tratada con el medicamento antipirético adecuado 67058 GyOJ en la escena para aliviar la fiebre. También se aconsejó a la paciente Angela Rivera que no se rascara la erupción para prevenir cualquier infección secundaria de la piel.
+
+[TRANSPORT]: Luego, la paciente Angela Rivera fue trasladada al hospital Didcot Railway Centre sin demora para una evaluación y tratamiento más detallados. Debido a la naturaleza contagiosa de la condición sospechada, se tomaron las precauciones necesarias durante el transporte.
+
+[OVERVIEW]: Al llegar al hospital Didcot Railway Centre, el cuidado de la paciente Angela Rivera fue transferido al médico de urgencias Santiago Ruiz. El informe médico fue entregado al médico de guardia Santiago Ruiz y la paciente Angela Rivera fue admitida en el hospital Didcot Railway Centre para un tratamiento más detallado.
+
+[DOCUMENTATION]: La paciente Angela Rivera firmó un formulario de consentimiento para el tratamiento de emergencia. Este informe fue preparado por el técnico médico de emergencias que asistió.
+
+[NAME]: c9EGG5WC
+[EMAIL]: inti@gmail.com
+[DOB]: 27 jul 1976
+[PHONE]: +1-405-785-0773
+[SEX]: eTIYp UoqG
+[SSN]: 760-09-8459
+[ADDRESS]: Angela Rivera, Cuesta Agustina Atienza 464, 59, 6468 Santa Eugenia de Ribeira, España
+[CITY]: Santa Eugenia de Ribeira
+[ZIP]: 6468
+[STATE]: QUINTANA ROO
+[COUNTRY]: España
+[ACCOUNT]: MC-372091Z
+[IDNUM]: MC-372091Z
+[IPADDRESS]: 34.98.77.3
+[LICENSE]: 464659 56N
+[URL]: fletcher-rodgers.com
+[FAX]: 760.827.6158x504"
+

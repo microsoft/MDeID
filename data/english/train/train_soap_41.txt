@@ -1,0 +1,16 @@
+"S: The patient, a newborn female Maria Knight, presented with a mass protruding from a specific body part noted since birth, a defect on a specific body part, and deformities on both legs and feet. The mother Maria Knight, a 97-year, reported an uneventful term pregnancy with routine antenatal care and vaccinations. Labor was spontaneous with membrane rupture intrapartum, and delivery occurred after 97-year of labor with a good APGAR score. The baby has been active, sucking well, and passed meconium.
+
+O: On examination, the baby was active with normal vital signs and neonatal reflexes. A 70557 63Dp reducible mass was noted in a specific body part, enlarging with crying but without discharge or bleeding. A 70557 63Dp defect covered mostly by skin was observed at a specific body part. Bilateral clubfoot deformity was also present. Initial laboratory tests including a complete blood count and creatinine level (Bkrv-lIXJN, within normal range) were normal.
+
+A: The primary diagnosis is a specific condition, as indicated by the specific body part defect and referred by the health center Coruña. The mass and bilateral clubfoot are associated anomalies. The normal laboratory findings and active behavior are positive indicators, but the structural anomalies require further management and monitoring.
+
+P: The management plan includes regular follow-up visits for monitoring the baby's development and managing the deformities. Referral to pediatric orthopedics for clubfoot evaluation and possible intervention is necessary. Neurosurgical consultation for the specific condition is also recommended. The importance of adherence to follow-up appointments will be emphasized to the parents to ensure optimal management and monitoring of the condition.
+
+Additional PHI placeholders: 
+
+The baby's medical record number 70557 63Dp was recorded for future reference. The mother's contact details were also noted including her home Maria Knight, 124 Majoristic, Opiniatrety 19 0768, Australia, phone 866.320.3074, and email aer@microsoft.org. The mother's health insurance information 1S7KOy4 is necessary for managing the baby's medical needs. The mother's profession Dealer and organization Bullock Ltd were recorded. 
+
+The baby's details were entered into the hospital system using a unique username XUX6xfEK and ID number pme-027839. The hospital's location university is accessible via URL hart.com. The mother's social security number 667-183-064 and the father's driver's license iOEUWm-516 were also recorded for reference. 
+
+The baby's device YJZrjH-62O for monitoring vital signs is essential, and the account number pme-027839 associated with it is recorded. The hospital's fax number (626)773-8110x7082 was provided for sending documents and reports. The IP address 210.241.74.254 of the hospital's server was secured. The city Bantin, state 146, zip 0768, and country United States of the hospital were noted. The baby's vehicle 163CJP identification number was also recorded."
+

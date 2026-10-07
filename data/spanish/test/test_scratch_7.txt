@@ -1,0 +1,37 @@
+"**Nota de Enfermería**
+
+**Encabezado:**
+
+ 
+ de guardia 
+ de 
+Nombre del : Fresno Pacific
+
+**Cuerpo:**
+
+Signos vitales: Temp 98.6 F, BP 125/80, HR 75 bpm, RR 16/min
+ mencionó sentir mucha picazón, se observó decoloración amarillenta, probable ictericia.
+
+**Información de Contacto de Emergencia:**
+
+Nombre de Contacto: María Fernández 
+Teléfono: 690.407.3435x76522 
+Dirección: María Fernández, Boulevard Oaxaca 013 Edif. 248, Depto. 541 199, Volutae, 08868 Cabildo, 74, Colombia
+Correo electrónico: szál@un.org
+
+**Estado:**
+
+Condición General: Incómodo debido a la picazón intensa.
+Físico: Ictericia notable, no hay otros signos por ahora.
+Plan: Se ordenaron análisis de sangre, se verificará la función hepática.
+
+**Pie de página:**
+
+Identificación del dispositivo: QmyxD 66jH
+Detalles del vehículo: UQF6683
+Información de la licencia: 952799 04Q
+Dirección IP: 175.25.239.241
+BioID: 12010 0394
+
+**Fin de la Nota**"
+

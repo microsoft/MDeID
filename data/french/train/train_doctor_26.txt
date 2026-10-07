@@ -1,0 +1,53 @@
+"Note de Dr. Caleb Brown
+
+- Martin Baumann 
+- 80 
+- ID 117 GZiuSd 
+
+Signes vitaux:
+- TA: 125/65 mmHg
+- FC: 84 bpm
+- Temp: 100.4\u00b0F 
+
+Plaintes:
+- Fièvre de 7 jours 
+- Frissons 
+- Gonflement douloureux, épaule droite
+- Pharyngite
+
+Pas d'antécédents cardiaques significatifs. Nie tout traitement dentaire récent, chirurgie, abus de drogues.
+
+Examen physique:
+- Souffle cardiaque systolique 2/6, mésocarde
+- Pharynx normal
+- Acné minime
+
+Laboratoire:
+- GB: 13x10^3/\u00b5L
+- Neutrophiles: 9.7x10^3/\u00b5L
+- LDH: 266 mU/mL
+- CRP: 18 mg/dL
+- Urine: Pas d'infection
+- ECG: Tachycardie sinusale
+- Radiographie thoracique: Normale
+- Aspiration de moelle osseuse: Pas de malignités hématologiques
+- Hémocultures: Streptococcus pyogenes positif
+
+Imagerie:
+- Échocardiogramme transœsophagien: Régurgitation mitrale modérée, végétations sur la feuille mitrale postérieure
+
+Diagnostic: 
+- Endocardite infectieuse - Streptococcus pyogenes
+- Atteinte de la valve mitrale
+
+Plan:
+- Antibiotiques empiriques: Amoxicilline/clavulanate + vancomycine
+- Ajusté à la ceftriaxone (2g, deux fois par jour) + ampicilline (12g/jour) après les résultats de culture
+- Surveillance de la fonction cardiaque et de la réponse aux antibiotiques
+- Admission à Mckenzie LLC pour une prise en charge continue
+- Éducation du patient concernant l'infection et le traitement
+- Suivi régulier pour surveiller la réponse au traitement et la fonction cardiaque
+
+Dr. Caleb Brown
+Scientifique physiologique"
+

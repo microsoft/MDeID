@@ -1,0 +1,61 @@
+"---
+> **NOTA RASCUNHO** 496-255420 \ud83d\udc69\u200d\u2695\ufe0f\ud83d\udccb\ud83d\udd8a\ufe0f
+--- 
+
+> **Perfil do Paciente**
+- Pedro Souza 
+- 91 anos
+- Endereço: Pedro Souza, Lago de Duarte, 18 71, 7942 Cristina, Portugal
+- Contato: (468)952-0031x107
+- Email: iaereir@zoho.com
+- Plano de Saúde: E5h
+
+> **Detalhes Médicos**
+- Principal Queixa: \ud83c\udf21\ufe0fFebre, dor de cabeça, manchas vermelhas
+
+> **Dispositivo Médico**
+- ID do Dispositivo: FCHyC-bQCL
+
+> **Observações Médicas** 
+> * Sinais Vitais
+    - Temp: 102.5\u00b0 F 
+    - PA: 130/80 mmHg 
+    - Pulso: 98 bpm 
+    - Resp: 21 bpm
+* Pele: Múltiplas manchas vermelhas presentes
+
+> **Plano de Tratamento**
+- Antipiréticos para febre
+- Descanso e hidratação
+
+> **Próxima Consulta** 
+- Data: quarta-feira, 11 de setembro de 2019
+- Local: san Martin
+- Sala: farmácia
+
+> **Informações de Contato** para emergências
+- Contato de Emergência: Pedro Souza
+- Número de Contato: (468)952-0031x107
+
+> **Informações Adicionais**
+- Médico responsável: Maria Pereira
+- USERNAME no portal: edroza
+- IDNUM no sistema: gH 4193SLw
+- SSN: 11026527-3
+- Profissional consultado: Gerente de serviço de saúde
+
+> **Resumo da Alta** 
+- Consulta adicional necessária com Maria Pereira no san Martin 
+- Próxima consulta de acompanhamento em quarta-feira, 11 de setembro de 2019
+
+> **Comunicações**
+- Por favor, verifique atualizações no portal do paciente  smith.com/search/wp-content/listfaq.php
+
+> **Detalhes de Cobrança**
+- Conta: gH 4193SLw
+- Organização: Peterson-Proctor
+
+---
+*Esta nota foi criada por edroza/nv hDRPwsG/122.173.104.239/Iyxc-MdSaI para Pedro Souza com 9-T0733/001-771-931-9789x9992 em Cambará/Brasil/Paraná/878 Molina Springs/7942 registrado conforme FCHyC-bQCL.* 
+---"
+

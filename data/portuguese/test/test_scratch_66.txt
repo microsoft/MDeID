@@ -1,0 +1,52 @@
+"**Nota de Enfermagem**
+
+| Informações do Paciente | Detalhes |
+|---------|-----------|
+|Nome: |Juraci Fernandes|
+|Idade: |71|
+|ID: |909525-XZG|
+|Conta: |21514-KEYX|
+|Plano de Saúde: |rDq|
+|Email: |rI@who.int|
+
+| Sinais vitais e Observações |
+|--------|
+|PA: 120/80 mmHg| 
+|Pulso: 98 bpm|
+|Temp: 36.5\u00b0C|
+|Resp: 22 respirações/min|
+
+**Notas Clínicas**
+-Disfagia, dificuldade em engolir Juraci Fernandes
+-Suspeita de Doença do Refluxo Gastroesofágico (DRGE)
+-Iniciado em Omeprazol 20mg/24hr
+
+|Informações de Contato|
+|---------|
+|Médico Principal:| Inês Ferreira|
+|Hospital de Referência: Avarta .|
+|Telefone: |(832)291-0082x6547|
+|Fax: |+1-202-318-0595x9405|
+
+| Informações do Dispositivo |
+|---------|
+|Marca-passo: |mxEK-766bq|
+
+|Outras Informações|
+|---------|
+|Nome de usuário: |dQOntESk|
+|Licença: |129-VZCycC|
+|Endereço IP: |191.17.52.33|
+
+**Próximos Passos**
+-Agendar Endoscopia
+-Revisar dieta e estilo de vida Juraci Fernandes
+-Consulta de acompanhamento em 2 semanas
+-Notificar Inês Ferreira sobre quaisquer alterações ou piora dos sintomas
+
+**Resumo da Alta**
+-Juraci Fernandes com 71 apresentando dificuldade em engolir.
+-Suspeita de DRGE, iniciado em medicação, acompanhamento agendado.
+-Todas as informações importantes encaminhadas para Inês Ferreira no Avarta . via +1-202-318-0595x9405
+"
+

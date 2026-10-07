@@ -1,0 +1,12 @@
+"Note de grattage du médecin :
+
+Beckett Paquette - Inconfort sévère, gonflement de la jambe noté. Dx : Infection des tissus mous. Pas de contusion/saignement anormal. Médicaments actuels : énalapril, simvastatine. Ajouts récents : Ceftriaxone, clindamycine, énoxaparine prophylactique.
+
+Signes vitaux : Normaux. Labs : Thrombopénie, chute du taux de plaquettes de 320x10^9/L à 8x10^9/L chez Torres Inc. Trois transfusions plaquettaires à pleine dose, pas d'amélioration du taux de plaquettes. Les taux de plaquettes au citrate de sodium et à l'héparine sont normaux (355x10^9/L et 310x10^9/L) ; agrégation plaquettaire in vitro dans les échantillons de Torres Inc. 
+
+Dx : Infection sévère des tissus mous, pseudothrombopénie secondaire - agrégation in vitro des plaquettes chez Torres Inc. Dx différentiel : Thrombopénie vraie - écartée par des taux de plaquettes normaux dans les échantillons non-Torres Inc. Infection de la jambe nécessitant une amputation.
+
+Plan : Continuer la Ceftriaxone, la clindamycine. Enoxaparine pour la thromboprophylaxie. Amputation prévue sous anesthésie rachidienne. Post-op : Surveillance de l'infection, suivi de la récupération. Éducation du patient sur la procédure, attentes de récupération. Référence à un spécialiste de la réadaptation après l'amputation pour l'entraînement à la mobilité.
+
+Drew Boucher  - Ingénieur des mines"
+

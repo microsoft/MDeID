@@ -1,0 +1,28 @@
+"Rapport de soins aux patients des Services Médicaux d'Urgence (SMU) - Elliott, Munoz and Lowery
+
+[DISPATCH] Notre équipe SMU a reçu un appel de dispatch de l1pJZHM3 via une notification électronique de aV-61dAmzr. Le patient Marion Le gall a signalé se sentir faible et ressentir des douleurs dans plusieurs articulations. L'appel est venu de musée et a été fait le samedi 31 décembre 2016. Nous avons été immédiatement dépêchés à l'emplacement du patient, notre véhicule 102N0 a été guidé par les coordonnées GPS de l'adresse IP 27.129.105.218.
+
+[SYMPTOMS PRESENTED] À notre arrivée, le patient Marion Le gall était en détresse modérée. Le patient se plaignait de faiblesse et de douleurs articulaires. Ces symptômes ont commencé à se manifester il y a quelques heures. Il a été noté que les symptômes du patient étaient similaires à ceux présentés par certaines formes d'arthrite. Le patient était alerte et orienté en personne, lieu et temps. Aucun signe de douleur thoracique ou de difficulté respiratoire observé.
+
+[TREATMENT] L'histoire médicale du patient a été soigneusement obtenue à partir de la base de données d2 du patient en utilisant le numéro de dossier médical eAA 9308Os. Le patient a ensuite été soigneusement évalué par notre équipe médicale. Les signes vitaux ont été pris et enregistrés. Notre équipe SMU a administré les premiers soins et des médicaments pour soulager la douleur selon le protocole. Nous avons rassuré le patient et expliqué le processus que nous entreprenions.
+
+[OVERVIEW OF 911 CALL AND ON-SCENE CARE] Notre équipe est arrivée sur les lieux le samedi 31 décembre 2016 et a immédiatement commencé à administrer les soins requis. L'adresse du domicile du patient Marion Le gall, 190 Frédérique Lodge Suite 643 114, 7903 Ferrandina, Suisse a été enregistrée à des fins de nos dossiers. Le numéro de sécurité sociale du patient 322181-9546 a été documenté à des fins de vérification.
+
+Le patient Marion Le gall a été sécurisé sur une civière et transporté à Verona Cathedral par ambulance. Pendant le transport, le patient a été surveillé et les signes vitaux ont été réévalués. L'état du patient est resté stable tout au long du trajet.
+
+[HANDOVER AND REPORTING] À l'arrivée à Verona Cathedral, le patient a été remis au personnel du service des urgences. L'état du patient, son historique et les traitements administrés ont été clairement communiqués au médecin des urgences Evan Bélanger. 
+
+[DOCUMENTATION] Tous les documents nécessaires, y compris le consentement du patient, le rapport de violation de la HIPAA et les formulaires de libération du dossier médical, ont été signés et faxés au bureau d'accueil de l'hôpital via le numéro de fax 854.359.4736x52537. Notre équipe a également assuré la remise en toute sécurité de tous les biens du patient et a mis à jour les détails du compte du patient 38055 anyj comme requis.
+
+[SUMMARY] En conclusion, le patient, qui souffrait de symptômes possibles d'arthrite, a été transporté en toute sécurité à l'hôpital. Les soins nécessaires sur place et en transit ont été fournis, et la passation à l'équipe des urgences a été réussie.
+
+Rapport par : Professionnel SMU Arts development officer avec le numéro de licence 60343-774R de Elliott, Munoz and Lowery le samedi 31 décembre 2016. Email pour communication ultérieure : ae@msf.org.
+
+Ce document a été créé en utilisant la connexion internet sécurisée avec l'adresse IP 27.129.105.218 et a ensuite été téléchargé sur le portail de soins de santé en ligne du patient en utilisant l'URL  jackson.com/wp-contentprivacy.asp. La confirmation du téléchargement réussi a été reçue via le numéro de téléphone (438)353-2608x4125. 
+
+Les informations de santé du patient dans ce rapport sont conformes aux directives établies par l'état de 82 et France.
+
+Les soins du patient restent notre priorité et notre responsabilité absolues.
+
+Fin du rapport."
+

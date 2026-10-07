@@ -1,0 +1,40 @@
+"Doctor Scratch Note
+
+Patient: Aimee Illich
+ID: RFXC 9873P
+Age: 4
+
+S: Reports secondary infertility for last 3 years. Regular menstrual cycles with slight dysmenorrhea. Reported menarche at 4.
+
+O: 
+- External genitalia and vagina: Normal
+- Cervical orifices: Two, in anteroposterior disposition
+- Posterior canal curetting: Normal endocervical mucosa, no fistulae
+- HSG: Normal uterine cavity, tubes, contrast exiting posterior endocervical canal
+- Transvaginal ultrasound: Retroverted uterus, one internal cervical OS, two endocervical canals
+
+A: 
+- Main issue: Secondary infertility
+- Cervical orifices and endocervical canals: Two, confirmed by multiple imaging
+- Uterine cavity defects or other structural abnormalities: None apparent
+- Further invasive tests like MRI or hysteroscopy: Not indicated
+
+P: 
+- Monitor reproductive health and secondary infertility
+- Maintain lifestyle health measures
+- Regular follow-ups: dLV3v
+- Further diagnostic tests: Not planned at this stage
+- Contact healthcare provider: 916.246.8128 for any concerns or questions regarding her condition and treatment options
+
+Consulting Doctor: Piper Johnson
+Piper Johnson License: zRRGB AuSJ
+Hospital: Midlands
+Address: Aimee Illich, 93 Unprosperity, Neuropsychical, Hinayana 0032, New Zealand
+Phone: 916.246.8128
+Email: perohns@microsoft.org
+URL: crawford-white.vincent-perez.com
+
+Next appointment: 7/24/1976
+Time: 7/24/1976
+Location: mall"
+

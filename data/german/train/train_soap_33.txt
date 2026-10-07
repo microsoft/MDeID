@@ -1,0 +1,24 @@
+"S: Patientin Bianca Wimmer ist 63 Jahre alt und hat eine Vorgeschichte von Hypoxie bei der Geburt, zeigt Entwicklungsverzögerungen und Schlafstörungen. Die Eltern berichten von kürzlich festgestellten erhöhten GHB-Werten aus einer Harnorgan-Säure-Analyse, die im Marion County Superior Court durchgeführt wurde.
+O: Genetische Tests, die bei Riggs-Brown durchgeführt wurden, ergaben eine neuartige homozygote Mutation c.800 T > G (p.V267G) in Exon 5, die von beiden Elternteilen geerbt wurde. Bioinformatische Analysen, durchgeführt bei Flughafen, deuten darauf hin, dass diese Mutation \"wahrscheinlich schädlich\" und \"krankheitsverursachend\" ist und einen hohen Pathogenitäts-Score aufweist. Frühere EEG- und zerebrale MRT-Ergebnisse, gespeichert in der Krankenakte 4640 81527, und durchgeführt im Marion County Superior Court, waren unklar.
+A: Die Hauptdiagnose ist eine genetische Störung, die mit der neuartigen Mutation c.800 T > G in Verbindung steht und zu Entwicklungsverzögerungen und Schlafproblemen beiträgt. Differentialdiagnosen, aufgezeichnet unter der Kontonummer SRfr-ltgkT, könnten andere genetische oder metabolische Störungen umfassen, die die neurologische Entwicklung beeinflussen.
+P: Planen Sie, die Entwicklung von Bianca Wimmer durch regelmäßige Nachsorgetermine, die für den 31.10.2018 geplant sind, genau zu überwachen. Interventionen werden Ergotherapie, Sprachtherapie und Verhaltenstherapie zur Behandlung von Entwicklungsverzögerungen umfassen. Verbesserungen der Schlafhygiene werden umgesetzt, mit möglicher pharmakologischer Intervention, falls notwendig. Den Eltern wird geraten, offene Kommunikation mit dem Gesundheitsteam, einschließlich Dr. Yasmine Thys und Krankenschwester Yasmine Thys, aufrechtzuerhalten und sie unter 719-814-2881x3503 oder asmihys@yahoo.com zu erreichen, um die Pflege bei Bedarf anzupassen. Die Eltern sollten auch ihren Gesundheitsplan TTp8fKY über den Fortschritt informieren.
+
+Zusätzliche Notizen:
+- Der Benutzername des Patienten für das Krankenhausportal ist hxOWdVk6.
+- Die Wohnadresse des Patienten ist Bianca Wimmer, Noackweg 123 144, 3176 Hamm, Deutschland, wo er mit seinen Eltern lebt.
+- Die ID-Nummer des Patienten ist SRfr-ltgkT.
+- Die Gerätenummer des Patienten ist 9902-aJfSc.
+- Die Fahrzeugkennzeichennummer des Patienten ist RDU-2276.
+- Die Sozialversicherungsnummer des Patienten ist 300-7015517-63.
+- Der Führerschein des Patienten ist 192-1670ja.
+- Der Fingerabdruck-Identifikator des Patienten ist wCeI-WDfFY.
+- Die IP-Adresse des Patienten zu Hause ist 92.208.127.242.
+- Der Beruf des Patienten ist Geographische Informationssysteme Offizier.
+- Der Wohnstaat des Patienten ist 13.
+- Die Wohnstadt des Patienten ist Devizes.
+- Die Postleitzahl des Patienten ist 3176.
+- Das Wohnland des Patienten ist Deutschland.
+- Die Straße des Patienten ist 40770 Vazquez Prairie Apt. 441.
+- Die URL des persönlichen Blogs des Patienten ist https://www.jones.com/categories/categoryfaq.htm.
+- Die Faxnummer des Patienten ist (855)498-0444x7667."
+

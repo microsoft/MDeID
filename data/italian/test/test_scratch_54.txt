@@ -1,0 +1,55 @@
+"**Nota di Osservazione Infermieristica**
+   
+    **Dettagli del Paziente**
+        Reclamo di Roland Schmid: Dolore al collo
+        Età di Roland Schmid: 69
+        Info: sjwXlNMg
+        Posizione: caffè
+        Email: Hansde@un.org
+        Telefono: 001-426-716-8263x6996
+        Indirizzo: Roland Schmid, 068 Collins Isle 166, 5923 Monte San Vito, Svizzera
+   
+    **Informazioni Mediche**
+        Diagnosi: Spondilosi Cervicale
+        Ospedale: Royal Manitoba Theatre Centre
+        Dottore: Hans Schneider
+        Piano Sanitario: soHLIibBw8FyS gxRn lkBevl
+        Numero di Cartella Clinica#: 2959 2067w
+        Numero di Conto#: 50784 59XX
+        Numero di Dispositivo#: 959634 kNI
+   
+    **Osservazioni**
+        Sudorazione: Presente
+        Vertigini: In corso
+        Pressione Sanguigna: 120/80
+        Frequenza Cardiaca: 85
+        Frequenza Respiratoria: 16
+   
+    **Informazioni Aggiuntive**
+        BioID: CI-PMhQhtP
+        Indirizzo IP: 100.59.146.96
+        Professione: Neurochirurgo
+        Numero di Veicolo#: 330 5WQ
+        SSN: 514178-8729
+        Numero di Licenza#: Vmdbw-781I
+        Org: Moore Ltd
+        Fax: 001-704-969-0097x604
+        ID#: 50784 59XX
+   
+    **Progresso del Paziente**
+        Condizione della Spondilosi: Stabile
+        Intensità del Dolore al Collo: 6/10
+        Mobilità Fisica: Limitata
+        Stato Mentale: Allerta
+   
+    **Piano**
+        Continuare con l'attuale piano di trattamento.
+        Monitorare regolarmente il dolore al collo e la mobilità.
+        Aggiornare il Hans Schneider sui progressi del paziente.
+
+**************************************************
+    Documento creato il giovedì 3 luglio 1980
+    Creato da: Infermiera sjwXlNMg
+    Contatto: 001-426-716-8263x6996/Hansde@un.org/silva-curry.net
+**************************************************"
+

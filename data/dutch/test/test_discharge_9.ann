@@ -1,0 +1,16 @@
+T1	PATIENT 36 48	Geert de Vos
+T2	DATE 67 91	maandag 24 augustus 2015
+T3	DATE 111 135	maandag 24 augustus 2015
+T4	DOCTOR 160 177	Morgane Verlinden
+T5	PATIENT 224 236	Geert de Vos
+T6	PATIENT 498 510	Geert de Vos
+T7	PATIENT 878 890	Geert de Vos
+T8	PATIENT 1151 1163	Geert de Vos
+T9	PATIENT 1405 1417	Geert de Vos
+T10	PATIENT 1669 1681	Geert de Vos
+T11	DOCTOR 1784 1801	Morgane Verlinden
+T12	MEDICALRECORD 1884 1894	ubyA Ctwya
+T13	PATIENT 1936 1948	Geert de Vos
+T14	DOCTOR 2191 2208	Morgane Verlinden
+T15	DATE 2212 2236	maandag 24 augustus 2015
+T16	PATIENT 2318 2330	Geert de Vos

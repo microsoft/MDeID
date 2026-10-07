@@ -1,0 +1,93 @@
+"KRANKENSCHWESTER KRATZNOTIZEN
+
+---------------------------------------------
+SCHNELLE ID DES PATIENTEN: 3756 ffkxP
+NAME: Roland Wyss
+
+---------------------------------------------
+VITALWERTEN:
+- Temperatur: 100.4 F 
+- Puls: 88 BPM 
+- Blutdruck: 120/80 mmHg
+- Atmung: 16 Atemzüge pro Minute 
+- Sauerstoffsättigung: 96% 
+
+---------------------------------------------
+SYMPTOME:
+- Fieberhaft 96: Ja, hoch
+- Schüttelfrost: Ja
+- Schwitzen: Mäßig
+- Müdigkeit: Ja
+- Unwohlsein: Ja
+
+---------------------------------------------
+MÖGLICHE DIAGNOSE:
+- Malaria vermutet, warten auf Bestätigung aus dem Labor
+
+---------------------------------------------
+LABORANFORDERUNG: vbyP1WLL
+- Blutausstrich-Test auf Malaria-Parasiten
+
+---------------------------------------------
+BEHANDLUNGSPLAN:
+- Erstbehandlung begonnen: Antimalariamittel 
+- IV-Flüssigkeiten verabreicht wegen Dehydration
+
+---------------------------------------------
+ZUSÄTZLICHE ANMERKUNGEN:
+- Reiste in ein Malaria-Endemiegebiet Markt zwei Wochen vor Symptombeginn
+
+---------------------------------------------
+KONTAKTINFORMATIONEN:
+- Telefonkontakt: 333.939.3691x476
+- E-Mail-Kontakt: nsou@unwomen.org
+
+---------------------------------------------
+NOTFALLKONTAKT:
+- Name: Roland Wyss
+- Kontakt: 333.939.3691x476
+
+---------------------------------------------
+ARZT IM DIENST: Wout Janssens
+
+---------------------------------------------
+BEHANDLUNGSEINRICHTUNG: Petrograder Wissenschaftliches Institut
+Adresse: Roland Wyss, Rüdiger-Rose-Gasse 6 184, 1190 Königswiesen, Deutschland
+IP-Adresse für Fernüberprüfung: 59.83.242.196
+
+---------------------------------------------
+KRANKENVERSICHERUNG: W1NIyIa FmSHxgx 1xVlie Y0Ea
+Kontonummer: 954323-tIy
+
+---------------------------------------------
+ORGANISATION: Brown-Bennett
+Beruf: Naturschutzbeauftragter
+
+---------------------------------------------
+Gerät zur Überprüfung der Vitalwerte: 139-lltPXk
+Lizenznummer des Geräts: 33-2089eRu
+
+---------------------------------------------
+Eindeutige Kennung: 954323-tIy
+Sozialversicherungsnummer: 624936-1298
+
+---------------------------------------------
+BIOMETRISCHE DATEN: zE-cTjfMqM
+FAHRZEUG: 3DO36 für den Transport des Patienten verwendet.
+
+---------------------------------------------
+[Krankenschwester Digitale Unterschrift vbyP1WLL]
+
+---------------------------------------------
+NOTIZEN ERSTELLT AM: 10.07.99
+
+---------------------------------------------
+URL für den Zugriff auf die medizinischen Unterlagen des Patienten:  www.grant.info/app/categoryprivacy.html
+
+---------------------------------------------
+FAX: 001-396-344-8588x222
+PLZ: 1190
+STADT: Hinwil
+BUNDESLAND: 100
+LAND: Österreich"
+

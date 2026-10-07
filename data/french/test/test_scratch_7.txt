@@ -1,0 +1,37 @@
+"**Note d'Observation Infirmière**
+
+**En-tête :**
+
+ 
+ en service 
+ de 
+Nom de l' : Biên Hòa
+
+**Corps :**
+
+Signes vitaux : Temp 98.6 F, TA 125/80, FC 75 bpm, FR 16/min
+ a mentionné se sentir très démangeant, a observé une décoloration jaunâtre, probable jaunisse.
+
+**Informations de Contact d'Urgence :**
+
+Nom du Contact : Hugo Dupont 
+Téléphone : 918-242-9682 
+Adresse : Hugo Dupont, 160 27338 Brieuc Trafficway, 5362 Claix, France
+Email : ln@zoho.com
+
+**Statut :**
+
+Condition Générale : Inconfortable en raison de démangeaisons intenses.
+Physique : Ictère perceptible, pas d'autres signes pour l'instant.
+Plan : Tests sanguins commandés, fonction hépatique à vérifier.
+
+**Pied de page :**
+
+Identification de l'Appareil : 655-qLeebI
+Détails du Véhicule : ANM2846
+Informations sur la Licence : 80242 7460
+Adresse IP : 59.237.208.111
+BioID : 4665 236AO
+
+**Fin de la Note**"
+

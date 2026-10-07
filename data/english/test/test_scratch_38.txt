@@ -1,0 +1,63 @@
+"Nurse Scratch Note
+--------------------------
+**Benjamin Wells**
+Status: Dengue suspected
+-----------------------------
+* Vitals: 
+    * Fever: High
+    * Chill: Night
+* Obs:
+    * Skin: No rash
+    * Appetite: Decreased
+
+**Adam Mills:** Check for dengue serology. 
+
+Address Benjamin Wells, 14 Infaust, Holosiderite 9 7431, Australia to:
+    * rpq3dA8R: Dengue protocol
+    * sAdam@outlook.com: Report results
+
+-----------------------------
+***Emergency Contact***
+* Benjamin Wells: Relation
+* (483)859-8371: Phone
+* sAdam@outlook.com: Email
+
+-----------------------------
+***Account BHgg fBUYG***
+* Health Plan: jl
+* ID: BHgg fBUYG
+
+-----------------------------
+***Device Info***
+* Device: zoLU-05267
+* Location: university
+
+-----------------------------
+***Additional Info***
+* Age: 12
+* Organization: Lawrence LLC
+* Profession: Futures trader
+* License: 8913-skmxd
+* BioID: 00287 ZyIu
+* IP Address: 95.126.69.34 
+* Vehicle: ZNZ 331
+* Social Security: 481 472 423
+
+***Further docs***
+- URL:  murray.org/main/tagshome.jsp
+- Fax: 001-809-734-5327x21891
+
+***Location Info***
+* Hospital: Newcomb Memorial College
+* City: Stows
+* State: 834
+* Country: United States
+* Street: 409 Price Gardens
+* ZIP: 7431
+
+***Notes***
+- Keep patient hydrated
+- Monitor vitals
+
+-[End of Note]"
+

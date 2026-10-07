@@ -1,0 +1,53 @@
+"\"Notas de Enfermagem - 23/07/1985\"
+
+======== Detalhes do Paciente =========
+Nome: Emily Gonzáles
+Idade: 55
+
+======== Sinais Vitais =========
+PA - 120/80
+FC - 78 bpm
+Temp - 98.6\u00b0F
+FR - 18 rpm
+
+======== Observações =========
+Frequência Urinária - Aumentada
+Desconforto - Leve 
+
+======== Diagnóstico =========
+Possível ITU
+
+======== Plano de Tratamento =========
+Monitorar sinais vitais a cada 4 horas
+Administrar antibióticos
+
+======== Diversos =========
+Localização: cafeteria
+Hospital: Wesleyan Methodist Mission
+Plano de Saúde: NN3Li
+Médico: Letícia Santiago
+Nome de usuário: 8OwUpY31
+Endereço IP: 116.214.185.22
+Dispositivo: 880 64bAsV
+Registro Médico: yrT-26388w
+Conta: HscR 58601
+IDNUM: HscR 58601
+Data de Nascimento: 23/07/1985
+Bioid: 751655 TIN
+Licença: JEygC 7213
+Segurança Social: 638.007.191-24
+Veículo: YTJ-2688
+Organização: Vega-Garcia
+Profissão: Especialista em promoção da saúde
+URL: johnson-lane.reyes.ford.com
+Endereço: Emily Gonzáles, Sítio João Felipe Teixeira, 817 58, Mezereums, São Tome das Letras - 12, 03B02J1V, Brasil
+Cidade: São Tome das Letras
+Estado: 12
+País: Portugal
+CEP: 03B02J1V
+Telefone: 001-212-497-7684x6085
+Fax: 001-654-277-1937x863 
+
+======== Nota =========
+Paciente Emily Gonzáles apresentando sinais de ITU. Aumento da frequência de micção notado, com leve desconforto. Iniciará com antibióticos e monitorará os sinais vitais a cada 4 horas. Letícia Santiago notificada da situação."
+

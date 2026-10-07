@@ -1,0 +1,48 @@
+"Nota del Doctor Scratch
+
+Paciente: Tlaytmas Mezyan
+ID: zzlytL ove
+Edad: 59
+
+Síntomas presentados:
+- Fatiga (1 semana)
+- Artralgias (1 semana)
+- Mialgias (1 semana)
+
+No se reportaron:
+- Pérdida de peso
+- Fiebre
+- Sangrado
+- Hematomas
+- Disnea
+- Síntomas urinarios
+
+Historial de fumar, uso de drogas, viajes, factores de riesgo de VIH: Neg
+Historial familiar: No contribuye más allá del rasgo de células falciformes
+Historial médico: Portador del rasgo de células falciformes
+
+Evaluación inicial en Broadway Atlantic Theater:
+- Anemia (Hgb: 11 g/dL)
+- Trombocitopenia (Plt: 46,000/uL)
+- Insuficiencia renal aguda (Cr: 1.33 mg/dL)
+- LDH elevada (968 IU/L)
+- Haptoglobina disminuida (15 mg/dL)
+- Esquistocitos en frotis de sangre periférica
+- WBC: 4.1/uL
+- K: 4.1 mmol/L
+- P: 6.6 mg/dL
+- Ca: 9.8 mg/dL
+- Bilirrubina elevada (2 mg/dL)
+
+Tratamiento: Comenzó con Prednisona (1 mg/kg) e intercambio plasmático diario en Broadway Atlantic Theater
+Resultado: No se observó mejora
+
+Diagnóstico Presuntivo: Púrpura trombocitopénica trombótica (TTP)
+Diagnóstico Diferencial: Anemia hemolítica microangiopática, complicaciones relacionadas con el rasgo de células falciformes
+
+Plan: 
+Continuar el tratamiento actual en Broadway Atlantic Theater, monitorear la respuesta al tratamiento y ajustar según sea necesario en base a los resultados de ADAMTS13 y la progresión clínica. Educar a Tlaytmas Mezyan y a la familia de Tlaytmas Mezyan sobre TTP, sus implicaciones y la importancia de cumplir con el régimen de tratamiento. Programar citas de seguimiento regulares y monitoreo de laboratorio para evaluar la eficacia del tratamiento y manejar cualquier complicación emergente.
+
+Doctora: Sofía Martínez
+Licencia: DA 33826cq"
+

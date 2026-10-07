@@ -1,0 +1,44 @@
+"Note Narrative d'Infirmière : Évaluation et Plan pour le Patient atteint de Cancer Colorectal
+
+S: Christian Roth, avec des antécédents familiaux significatifs de cancer du côlon, a signalé des douleurs abdominales généralisées, des nausées, une perte de poids involontaire de quatre livres et un essoufflement pendant environ une semaine.
+
+O: Les signes vitaux n'ont pas été spécifiés dans le rapport du patient. Les analyses de sang ont révélé des enzymes hépatiques et des taux de bilirubine élevés. Le test de sang occulte dans les selles était positif, indiquant la possible présence de sang dans les selles. L'imagerie par scanner a montré des ascites, une adénopathie rétropéritonéale et périportale, une hépatomégalie avec de nombreuses masses hépatiques suggérant une maladie métastatique, des anses de l'intestin grêle dilatées, un côlon transverse distendu et un côlon distal effondré. Le niveau de CA 19-9 du patient, un marqueur du cancer du pancréas, était élevé. Une biopsie à l'aiguille a indiqué un adénocarcinome peu différencié avec une coloration immunohistochimique positive pour CDX2 et CK20, négative pour PAX-8, CK7, p40 et TTF-1. La coloscopie a révélé une grosse masse caecale, confirmée comme adénocarcinome à la biopsie. Christian Roth a subi une hémicolectomie droite avec iléostomie ; la pathologie a confirmé un adénocarcinome pT4a, N1b, M1a et une tumeur neuroendocrine bien différenciée séparée dans l'appendice.
+
+A: Le diagnostic principal est un adénocarcinome métastatique du côlon, stade pT4a, N1b, M1a, avec un diagnostic secondaire de tumeur neuroendocrine de l'appendice. D'autres sources de malignité intra-abdominale ont été envisagées comme diagnostics différentiels, mais l'immunohistochimie soutient une origine colorectale.
+
+P: Le plan est de discuter du cas de Christian Roth lors d'une réunion d'équipe multidisciplinaire impliquant Marcus Bouchard pour déterminer une stratégie de traitement appropriée, probablement impliquant une chimiothérapie, une radiothérapie ou des thérapies ciblées. Une éducation concernant le diagnostic, le stade et les options de traitement sera fournie à Christian Roth. Des rendez-vous de suivi seront programmés avec Marcus Bouchard pour surveiller la réponse au traitement et gérer les complications éventuelles.
+
+---
+
+Informations de Contact :
+
+Téléphone : 863.691.5886
+
+Email : cBoucha@yandex.com
+
+Contact d'Urgence :
+
+Nom : Christian Roth
+
+Téléphone : 863.691.5886
+
+---
+
+Détails Supplémentaires :
+
+Numéro de Compte : 83407 035i
+
+Numéro de Dossier Médical : sFD-pKiXQA
+
+Numéro de Dispositif : AVP-76vSNn
+
+---
+
+Signature Électronique :
+
+cEoZLfxj
+
+---
+
+Cette note est générée par un agent intelligent pour Lucas Group.\n"
+

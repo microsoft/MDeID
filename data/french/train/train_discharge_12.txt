@@ -1,0 +1,63 @@
+#### Résumé de Sortie ####
+
+##### Disposition de Sortie : SOINS À DOMICILE #####
+
+**Raison de l'Hospitalisation :** 
+Le patient Marcel Brunner a été admis en raison d'une apparition soudaine de fièvre, de frissons, de rougeurs et d'inconscience causant détresse et inconfort, montrant également des indicateurs de bactériémie.
+
+**Cours de l'Hôpital :** 
+Le séjour à l'hôpital de Marcel Brunner a été marqué par des examens complets, des contrôles de routine et une surveillance en unité de soins intensifs. Ce cas a été géré par Christian Keller et son équipe.
+
+**Procédures Effectuées :** 
+Les procédures effectuées étaient des cultures de sang et une numération globulaire complète pour déterminer la cause des symptômes.
+
+**Soins, Traitement et Services Fournis :** 
+Marcel Brunner a reçu un traitement antibiotique intraveineux selon les protocoles standard pour la bactériémie, ainsi que des soins de soutien pour gérer les symptômes. Ceci a été renforcé par des consultations diététiques et une surveillance régulière des signes vitaux.
+
+**Condition et Disposition à la Sortie :** 
+Au moment de la sortie, Marcel Brunner a montré des améliorations significatives, avec des symptômes efficacement gérés et contrôlés. La fièvre a reculé et l'inconscience a considérablement diminué au cours du séjour.
+
+**Informations Fournies au Patient et à la Famille :** 
+Les membres de la famille ont été informés de la condition, du traitement fourni et des signes qui devraient inciter à retourner à l'hôpital. Des informations détaillées ont été partagées concernant les médicaments prescrits, leurs dosages et les effets secondaires potentiels.
+
+**Dispositions pour les Soins de Suivi :** 
+Après la sortie, il est conseillé à Marcel Brunner de se rendre aux rendez-vous de suivi et de continuer les médicaments prescrits. Des contrôles réguliers avec Christian Keller sont recommandés pour une surveillance étroite de l'état du patient.
+
+#### Section Allergies et Intolérances ####
+Aucune allergie ou intolérance connue.
+
+#### Section Plainte Principale ####
+Fièvre, frisson, rougeur, inconscience, indicateurs de bactériémie.
+
+#### Section Diagnostic de Sortie ####
+Bactériémie.
+
+#### Section Plan de Traitement ####
+Continuer avec les antibiotiques prescrits et surveiller les symptômes. Suivis réguliers avec Christian Keller conseillés.
+
+#### Section Consultations à l'Hôpital ####
+Des consultations avec des spécialistes des maladies infectieuses et des diététiciens ont été effectuées pour assurer des soins complets.
+
+#### Section Procédures ####
+Cultures de sang, numération globulaire complète
+
+#### Section Résultats ####
+Cultures de sang positives pour la bactériémie, la numération globulaire complète a montré des niveaux de leucocytes élevés.
+
+#### Section Médicaments de Sortie ####
+Antibiotiques (Les détails des médicaments ont été fournis au patient et à la famille)
+
+#### Section Signes Vitaux ####
+À la sortie, les signes vitaux étaient stables avec une normalisation de la température, un rythme cardiaque : 78 bpm, une pression artérielle : 120/80 mmHg, et une saturation en oxygène : 98%.
+
+#### Section Instructions de Sortie de l'Hôpital ####
+Il est conseillé au patient de se reposer, de prendre régulièrement les médicaments prescrits, de maintenir un régime équilibré et d'assister à tous les rendez-vous de suivi prévus.
+
+#### Section Directives Anticipées ####
+Aucune déclarée.
+
+Note : Toutes les évaluations cliniques et les diagnostics sont basés sur le 38-092SiUE pendant le séjour à l'hôpital. Pour toute préoccupation ou symptôme, veuillez contacter rapidement l'équipe médicale.
+
+- Préparé par : Christian Keller
+- Signature : Christian Keller
+- Date : 10 septembre 1982

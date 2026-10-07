@@ -1,0 +1,41 @@
+"**Dokterskrabbel**
+
+Patiënt: Ward Verstraeten
+ID#: 18281 7966
+Geboortedatum: 9 nov. 1973
+Leeftijd: 20
+
+S:
+- Progressieve kortademigheid, orthopneu (3 maanden)
+- Ward Verstraeten rapporteert
+
+O:
+- Zacht continu geruis (linker bovenborst)
+- Knisperen in longen (basale, bilateraal)
+- Radiografie (Borst): milde cardiomegalie, milde longcongestie
+- ECG: sinusritme (regelmatig), geen ischemie of tekenen van myocardinfarct
+- Transthoracale echocardiografie: LV (licht verwijd), linker atrium (sterk verwijd), LV ejectiefractie (60%)
+- Buisachtige structuur (interventriculair septum), turbulente diastolische stroom
+- Transoesofageale echocardiografie: RCA (sterk verwijd), abnormaal vat (naast MPA), abnormale vatlediging (posteromediale MPA), ernstige MR (beperkt posterieur blad), ventriculaire remodeling/mitralis annulaire dilatatie
+- Coronair angiografie: ALCAPA (bevestigd), links-rechts shunt, pulmonaal-systemische bloedstroomratio (1.4)
+- Coronair computertomografie angiografie: ALCAPA (bevestigd, retropulmonaal ostium)
+
+A:
+- ALCAPA syndroom diagnose (primair, bevestigd)
+- Continu geruis, oorzaken cardiomegalie (differentieel, uitgesloten)
+
+P:
+- Multidisciplinaire teamdiscussie (plan)
+- Chirurgische interventie (optimaal, correctie coronaire anomalie)
+- Patiënt/familie informatie (aandoening, behandelopties, mogelijke complicaties)
+- Vervolgafspraken (responsmonitoring, complicatiebeheer)
+- Educatie (aard van de ziekte, tekenen van complicaties, aanpassingen levensstijl)
+
+Arts: Johanneke Jansen
+Licentie: 158-XdAQUd
+Ziekenhuis: Chelsea Barlow
+Telefoon: 809.594.8697
+Adres: Ward Verstraeten, Poiser 65, 5194 Bureaucratist, Nederland
+Email: nekJa@outlook.com
+Fax: (630)390-7447"
+

@@ -1,0 +1,25 @@
+"Nota de Rascunho do Médico
+
+P: Felipe Gonçalves | Dor crônica nas costas, dispneia, obesidade, apneia do sono, histórico de LLA 
+Gestão: Metadona, aumento da suplementação de O2
+IMC: 48 (obesidade mórbida)
+TMO: GvHD, doença pulmonar restritiva grave
+
+VS: 
+EKG: Bigeminia atrial (início novo, resolvido)
+ATC: PAPVC, lobo superior esquerdo & língula
+Eco: Dilatação leve do VD, regurgitação tricúspide leve, função normal do VE
+PFT: TLC 42%, FEV1 39%, FVC 37%, DLCO 41%
+RHC & LHC: Hipertensão pulmonar, pressões elevadas, Qp/Qs 1.22:1
+
+Dx: PAPVC
+Observação: Complicações secundárias - Hipertensão pulmonar, insuficiência respiratória crônica
+Nota: Embolia pulmonar descartada (ATC)
+
+Plano: Continuar suplementação de O2, metadona para dor nas costas
+Monitorar: Estado respiratório & cardíaco
+Educação: Monitoramento de sintomas, sinais de atenção médica
+Encaminhamento: Simão Reis (Pneumologista), Simão Reis (Cardiologista) para PAPVC & hipertensão pulmonar
+
+Simão Reis | 28 de novembro de 1988"
+

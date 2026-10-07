@@ -1,0 +1,52 @@
+"**Verpleegkundige Krasnotitie**
+
+| Patiëntinformatie | Details |
+|---------|-----------|
+|Naam: |Elise de Boer|
+|Leeftijd: |92|
+|ID: |81087-3444|
+|Account: |02 83RFsQG|
+|Zorgplan: |0PwobN|
+|E-mail: |osmre@yahoo.com|
+
+| Vitale tekenen en observaties |
+|--------|
+|BP: 120/80 mmHg| 
+|Pulse: 98 bpm|
+|Temp: 36.5\u00b0C|
+|Resp: 22 ademhalingen/min|
+
+**Klinische Notities**
+-Dysfagie, moeite met slikken Elise de Boer
+-Verdachte gastro-oesofageale refluxziekte (GERD)
+-Begonnen met Omeprazol 20mg/24u
+
+|Contact Informatie|
+|---------|
+|Primaire arts:| Brent Bosmans|
+|Gerefereerd ziekenhuis: Levy Atlas|
+|Telefoon: |001-592-694-2788x728|
+|Fax: |(868)269-7428x1609|
+
+| Apparaatinformatie |
+|---------|
+|Pacemaker: |48-47933nG|
+
+|Andere Informatie|
+|---------|
+|Gebruikersnaam: |idQ5x1Jj|
+|Licentie: |oBg 241zxn|
+|IP Adres: |23.237.63.130|
+
+**Volgende Stappen**
+-Endoscopie plannen
+-Dieet en levensstijl van Elise de Boer herzien
+-Volgafspraak over 2 weken
+-Breng Brent Bosmans op de hoogte van eventuele veranderingen of verslechterende symptomen
+
+**Ontslag Samenvatting**
+-Elise de Boer op 92 presenteert met slikproblemen.
+-Verdachte GERD, gestart met medicatie, vervolgafspraak gepland.
+-Alle belangrijke informatie doorgestuurd naar Brent Bosmans bij Levy Atlas via (868)269-7428x1609
+"
+

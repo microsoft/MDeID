@@ -1,0 +1,43 @@
+"Dr. Nicolas De Smedt Krasnotitie:
+
+Patiënt: Sara Stevens
+BSN: 425-4818327-28
+Geboortedatum: 13 december 2013
+ID: DiDH 87051
+Adres: Sara Stevens, Quilted 2, 8480 Elation, België
+
+Vitaliteit: 
+BP: 130/85 
+Pulse: 75 
+Temp: 98.6F 
+Resp: 16/min 
+Gewicht: 170 lbs
+Lengte: 5'10\"
+
+Observaties:
+- Geschiedenis: OSCC meerdere, Prostaat Ca, zware roker (verleden), zware alcoholconsument (verleden)
+- Complicaties: Cervicale hematoom post-OP, mucositis, epithelitis, bestralingstherapie, veneuze trombose (opgelost)
+- Huidige behandeling: prostaat Ca, hypothyreoïdie (medicatie)
+
+Beoordeling:
+- OSCC: verschillende behandelingen (chirurgische excisies, lymfadenectomieën, microvasculaire vrije radiale flap reconstructies, interne/externe radiotherapieën)
+- Recente OSCC: linker buccale mucosa (T2 N0 M0), geen radiotherapie
+- Prostaat Ca: Externe radiotherapie
+- Hypothyreoïdie: medicatie, niveaus gecontroleerd
+
+Plan:
+- Doorgaan: behandelingsregime voor prostaat Ca, schildklierhormoon vervangingstherapie
+- Schema: regelmatige follow-ups (OSCC recidief, complicaties)
+- Ondersteunende zorg: bijwerkingen van radiotherapie
+- Psychologische ondersteuning: indien nodig
+- Rookgewoonten, alcoholconsumptie: stopzetting
+
+E-mail: Ddtic@who.int
+Telefoon: (435)466-1648
+Org: Aguilar, Cummings en Harrington
+Beroep: Futures handelaar
+
+Ondertekend,
+Nicolas De Smedt
+Licentie: OA-uCpVWBH"
+

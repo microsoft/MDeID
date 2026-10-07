@@ -1,0 +1,57 @@
+"****
+#### **Note d'observation infirmière**
+
+****
+- **Danica Pelletier:** Fièvre, 102.9F, frissons, fatigue 
+- **24:** Noté
+- **Médication: **Référence faite à Delphine Wouters pour un plan de traitement de la typhoïde
+- **Signes vitaux:**
+    - TA: 121/70mmHg
+    - FC: 98 bpm
+    - FR: 15 respirations/min
+
+****
+
+- **Observations:**
+    - Taches roses sur l'abdomen
+    - Bradycardie relative
+
+****
+
+- **Investigations:**
+    - Culture de sang: Demandée, 004-bkqLnr
+    - Test de Widal: En cours, mxBaw-fwLN
+
+****
+
+- **Plan de santé:** rehDk6
+- **Informations sur l'hospitalisation:**
+    - Admis: Baldr
+    - Numéro de chambre: musée
+- **Informations de contact:**
+    - Téléphone: 6982093000
+    - Email: oe@who.int
+
+****
+
+- **Informations diverses:**
+    - Numéro de compte: mxBaw-fwLN
+    - Numéro de l'appareil (si impliqué): 307 744794
+    - Nom d'utilisateur du patient (Portail de l'hôpital): 1dG3IgN2
+    - Identifiant du véhicule (pour les services de ramassage/dépose): 492 SP9
+    - Numéro de sécurité sociale: 3 68 46 58 555 345
+    - Licence professionnelle (si applicable): 941780-rLN
+    - Identifiant biométrique: 16 NcXSvlf
+    - Adresse IP (pour téléconsultation): 180.130.37.95
+    - Adresse: Danica Pelletier, 6469 Patricia Summit Apt. 302 29, 1044 Douvaine, Belgique
+    - Ville/État/Pays/ZIP: René/63/Belgique/1044
+    - Organisation (si impliquée): Bennett, Alexander and Kirk
+    - URL (pour ressources liées): dorsey-hood.johnson-elliott.com
+    - Fax (si applicable): 625-722-9015x8553
+
+****
+
+- **Note:** Le patient a du mal à dormir à cause de la fièvre élevée, de la détresse et de la fatigue. Le patient doit être étroitement surveillé. La famille du patient a été informée de l'état de santé et des prochaines étapes.
+
+****"
+

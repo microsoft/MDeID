@@ -1,0 +1,53 @@
+"Krankenschwester Erzählnotiz
+
+Subjektiv:
+
+Victoria Voigt kam in die Klinik und berichtete über verschwommenes Sehvermögen und Photopsien in einem Auge, die seit einigen Tagen anhalten. Diese Symptome wurden von grippeähnlichen Symptomen wie Fieber und Kopfschmerzen begleitet, die die Patientin berichtete. Victoria Voigt leugnet jede bedeutende medizinische Vorgeschichte oder kürzlichen Kontakt mit Tieren.
+
+Objektiv:
+
+Die komplette Blutbild (CBC) von Victoria Voigt und die Ergebnisse von Brust- und Nasennebenhöhlenröntgen waren normal. Testergebnisse für Syphilis, Zytomegalievirus, Herpes-simplex-Virus, humanes Immundefizienzvirus, Bartonella, Histoplasma capsulatum, Toxoplasma gondii, Toxocara canis und Borrelia burgdorferi waren negativ. Die Augenuntersuchung zeigt eine bestkorrigierte Sehschärfe von 20/20 im rechten Auge und 20/25 im linken Auge. Biomikroskopie, Pupillenreaktionen und Augeninnendruck liegen im normalen Bereich. Die Farbfundusfotografie zeigt subtile tiefe retinale weiße Flecken im hinteren Pol und um die Optikscheibe des linken Auges. Die Fluoreszeinangiographie (FA) zeigt kranzartige punktuelle Bereiche früher Hyperfluoreszenz und Optikscheibenfärbung in der Spätphase. Die Fundusautofluoreszenz (FAF) und die optische Kohärenztomographie (OCT) bestätigen eine Störung der Ellipsoidzone (EZ) und das Vorhandensein von hyperreflektiven und hyporeflektiven Läsionen in der äußeren Kernschicht (ONL) und Choroidea, bzw. Die OCT-Angiographie (OCTA) zeigt keine Durchblutungsstörungen.
+
+Bewertung:
+
+Basierend auf den Symptomen und diagnostischen Befunden von Victoria Voigt wird eine Netzhautpathologie vorgeschlagen. Dies könnte möglicherweise ein entzündlicher oder infektiöser Prozess sein, obwohl infektiöse Ursachen durch negative Serologien ausgeschlossen wurden. Die Differentialdiagnose könnte eine Autoimmunretinopathie oder eine lokalisierte Netzhautablösung einschließen.
+
+Plan:
+
+Der Plan ist, den Zustand von Victoria Voigt genau zu überwachen und in einigen Wochen einen Nachsorgetermin zu vereinbaren, um den Zustand erneut zu bewerten. Victoria Voigt wurde geraten, jede Verschlechterung der Symptome sofort zu melden. Weitere Tests oder eine Überweisung an einen Netzhautspezialisten können in Betracht gezogen werden, abhängig von der Progression oder Änderung der Symptome.
+
+[Tabelle: Persönliche Gesundheitsinformationen (PHI)]
+| PHI Typ | Maskierter Platzhalter |
+|----------|-------------------|
+|ACCOUNT|Mb FHteabW|
+|ADRESSE|Victoria Voigt, Schleichstraße 02 23, 3730 Bad Erlach, Österreich|
+|ALTER|104|
+|BIOID|VivKZd-RVq|
+|STADT|Langenlonsheim|
+|LAND|Österreich|
+|DATUM|11.05.2012|
+|GERÄT|bUG wjOhwz|
+|ARZT|Liam Friedrichs|
+|EMAIL|mchs@yandex.com|
+|KRANKENKASSE|kX4u|
+|KRANKENHAUS|Trenton|
+|IDNUM|Mb FHteabW|
+|IPADRESSE|106.80.204.239|
+|LIZENZ|sWXooC-KRg|
+|STANDORT-ANDERER|Bushaltestelle|
+|KRANKENAKTE|862-jCGYuM|
+|ORGANISATION|Steele, Young und Peterson|
+|PATIENT|Victoria Voigt|
+|TELEFON|001-677-584-0729|
+|BERUF|Gartenbau, Annehmlichkeit|
+|SOZIALVERSICHERUNG|489-1453541-41|
+|STAAT|15|
+|STRASSE|1355 Edward Rapids|
+|URL|peterson-lang.chen-pineda.martinez.com|
+|BENUTZERNAME|p0OvdFbl|
+|FAHRZEUG|NSO-1297|
+|PLZ|3730|
+|FAX|+1-556-219-4710x93357|
+
+Unterschrieben, Liam Friedrichs"
+

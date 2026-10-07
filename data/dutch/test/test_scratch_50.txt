@@ -1,0 +1,70 @@
+"Verpleegkundige Krasnotitie
+---
+Patient Info:
+* Sara Willems
+* LEEFTIJD: 57
+* Account: 88789-jCJq
+
+Observaties:
+
+* Spataderen: Opgemerkt
+* Bloeddruk: 120/80
+* Temperatuur: 36.9\u00b0C
+* Hartslag: 78bpm
+
+Behandeling:
+
+* Compressietherapie gestart
+* Beenverhoging geadviseerd
+
+Voortgang:
+
+* Patiënt meldt  
+
+Extra Info:
+
+* Zorgverlener: Tristan Mertens
+* Zorgplan: guDW
+* Ziekenhuisopname: Las Coimas
+* Medisch Dossier Nr: Ah 92PjhyP
+
+Communicatie uitwisselingen:
+
+* Email: ier@unwomen.org
+* Telefoon: +1-630-700-1739
+
+Context:
+
+* Locatie: school
+* Adres: Sara Willems, Soberlike 169, 5029 Mithers, Nederland
+
+Apparaat informatie:
+
+* Apparaat ID: MZVKb dFVt
+* IP Adres: 44.233.198.14
+
+Persoonlijke IDs:
+
+* Sociale Zekerheid: 456771110
+* Licentie: 476328-PiI
+* BIOID: ezEB mfHOQ
+* Persoonlijke Identificatie: 88789-jCJq
+
+Contact in geval van nood:
+
+* Gebruikersnaam: eTelhmpw
+* Voertuig: VIY-425
+* Beroep: Verpleegkundige, volwassene
+* Organisatie: Brown-Jones
+
+LET OP:
+
+* Alle communicatie is strikt vertrouwelijk en moet voldoen aan de uitgebreide regels voor gegevensprivacy.
+
+Volgende opvolging (DATUM): maandag 22 juli 2019
+* Fax: +1-500-352-9208
+
+--- --- --- --- --- --- --- --- +++++++++++++++++++++++++++++++++++++++ --- --- --- --- --- --- --- --- 
+
+Opmerking: Persoonlijke gezondheidsinformatie (PHI) is verwijderd en vervangen door placeholders om de vertrouwelijkheid van de patiënt te behouden in overeenstemming met HIPAA-richtlijnen."
+

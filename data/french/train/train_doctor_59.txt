@@ -1,0 +1,28 @@
+"Note du Docteur Scratch :
+
+Arne Geerts, 41, homme, première présentation avec une pigmentation cutanée multi-sites, vomissements répétés x 4 jours. Caractéristiques physiques distinctes notées - visage rond, joues pleines, front proéminent, hypertélorisme, plénitude périorbitaire, nez court, lèvre inférieure éversée.
+
+Signes vitaux :
+Temp : 98.6 F, HR : 110 bpm, RR : 24 respirations/min, BP : 100/60 mmHg, SpO2 : 98%
+
+Examen :
+Confirmation des caractéristiques physiques ci-dessus.
+
+Conduction d'IRM : Hydrocéphalie détectée, chirurgie de dérivation entreprise. IRM post-op - dilatation ventriculaire, réduction du volume du tronc cérébral, rehaussement leptoméningé. Lobe frontal droit - masse de 3 cm.
+
+Résection de la tumeur : Masse de couleur rouge foncé à brun, 4x4x2 cm. Attachement des méninges.
+
+Résultats immunohistopathologiques : HMB45 positif, Melan-A positif, S100 positif, Ki-67 30%, P53 négatif.
+
+Étude cytogénétique : Pas de délétion allélique de P53, mutation NRAS dans l'exon 3 (codon 61).
+
+Diagnostic : Tumeur mélanocytaire maligne du SNC. Complications - Hydrocéphalie, hypertension intracrânienne.
+
+Diagnostic différentiel initial : Autres tumeurs cérébrales, lésions métastatiques.
+
+Pronostic : Mauvais. Croissance agressive, issue fatale malgré l'intervention chirurgicale.
+
+Plan : Après la chirurgie de l'hydrocéphalie et de la résection de la tumeur, IRM/CT programmée tous les 3 mois. Caractérisation supplémentaire de la tumeur par des études immunohistopathologiques et cytogénétiques. Arne Geerts décédé 4 mois après la résection de la tumeur. Conseil familial recommandé.
+
+Jackson Bergeron"
+

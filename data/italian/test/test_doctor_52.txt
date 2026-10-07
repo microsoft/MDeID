@@ -1,0 +1,44 @@
+"Appunti del Dottore Scratch:
+
+- Il paziente Gianluca Greco ha riportato un incidente stradale.
+- Visita in ospedale: Eaton Chapel
+- Sintomi notevoli: Otorrea destra, ecchimosi bilaterale degli occhi
+- Strumentazione ortopedica di 51 anni fa
+- GCS: 13/15
+- Valutazione oculare: Destra dilatata, sinistra reattiva regolare
+- Risultati della TC: Pneumocefalo, Massa intra-assiale frontale destra, Edema perilesionale aggressivo
+- Fratture: Mascella, Mandibola
+- TC post-incidente: Massa intra-assiale con componente cistica
+- Marcatori tumorali (PSA, proteina \u03b1-feto): Negativi
+- TC post-op: Massa rimossa
+
+Diagnosi:
+- Lesione cerebrale traumatica
+- Complicazioni: Pneumocefalo, Sospetto glioma ad alto grado-massa intra-assiale frontale destra, Paralisi del sesto nervo destro, Atrofia ottica destra, Anosmia
+
+Diagnosi differenziali:
+- Ascesso cerebrale
+- Depositi metastatici (meno probabile)
+
+Gestione iniziale:
+- Misure disidratanti LS 39449ZP
+- Antibiotici Jackson, Mills and Roberts
+- Antiepilettici profilattici Jackson, Mills and Roberts
+
+Intervento chirurgico:
+- Craniotomia frontale destra (approccio trans-corticale)
+- Asportazione della massa riuscita
+
+Cura post-op:
+- Monitoraggio dei deficit neurologici
+- Monitoraggio del recupero
+- Appuntamenti di follow-up Sophia Steiner
+
+Autorizzato da: Dr. Sophia Steiner 
+Licenza: rq-4808aVA 
+Contatto: (656)249-1423x78071 
+Email: teio@mail.com 
+Indirizzo: Gianluca Greco, 79904 John Estate, 55, 0122 Gavorrano Lixiviated, Italia 
+ID Paziente: totfp-1298
+"
+

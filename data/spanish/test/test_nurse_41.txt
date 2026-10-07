@@ -1,0 +1,39 @@
+"Nota Narrativa de Enfermería para Paciente con Meningitis y Sepsis
+
+Subjetivo:
+La paciente María Soledad Serrano reveló que experimenta sensaciones de dolores de cabeza, fatiga, fiebre, náuseas, somnolencia, confusión, rigidez en el cuello y un signo de Kernig positivo desde un tiempo no revelado. Los síntomas se intensificaron para incluir signos de meningitis y luego, sepsis sanguínea. La paciente María Soledad Serrano fue inicialmente tratada con Amoxicilina, Paracetamol y solución de lactato de Ringer, seguido de un traslado a una instalación especializada para un manejo más avanzado.
+
+Objetivo:
+Al ingresar al Beard Jefferson, la paciente fue diagnosticada con meningitis y sepsis y tratada con 1 g de ceftriaxona cuatro veces al día. El análisis del líquido cefalorraquídeo confirmó N. meningitidis, específicamente un nuevo tipo de secuencia ST 13074, serogrupo B. No se proporcionan signos vitales ni otros datos objetivos específicos de la presentación inicial.
+
+Evaluación:
+El diagnóstico principal es meningitis y sepsis debido a N. meningitidis serogrupo B, ST 13074. La condición de la paciente María Soledad Serrano era grave, requiriendo tratamiento inmediato e intensivo incluyendo antibióticos y cuidados de apoyo. La identificación de un nuevo tipo de secuencia indica una cepa única, que podría afectar la eficacia del tratamiento y el monitoreo de la salud pública.
+
+Plan:
+El plan es continuar monitoreando la salud de la paciente para cualquier recurrencia de síntomas o nuevos problemas de salud. Se recomienda asegurar que se programen citas de seguimiento, particularmente con especialistas en enfermedades infecciosas para una evaluación y manejo más detallados. Es vital educar a la paciente sobre los signos de posibles complicaciones y la importancia de adherirse a los tratamientos prescritos. Se alienta a la paciente a mantener la hidratación, el descanso y una dieta equilibrada para apoyar la recuperación.
+
+-------------------------------------------------------------------------------------------------
+
+Firma de la Enfermera: ledaderMar
+Número de Registro Médico: 93 94TxUvX
+Número de Cuenta del Paciente: JVK 13839J
+Identificador del Dispositivo del Paciente: myJ PGlMPn
+Identificador del Vehículo del Paciente: 55OU237
+Número de Seguridad Social del Paciente: 130-85-3747
+Número de Licencia del Paciente: lpXXD-4154
+Identificador Biométrico del Paciente: uHO 1178Zc
+Dirección IP del Paciente: 145.203.238.188
+Identificador Personal del Paciente: JVK 13839J
+Edad del Paciente: 15
+Dirección del Paciente: María Soledad Serrano, C. de Armando Campillo 4 Puerta 1, 114, 7675 Cariacica, Spain
+Ubicación Actual del Paciente: restaurante
+Plan de Salud del Paciente: DkviRh
+Profesión del Paciente: Operational investment banker
+Organización del Paciente: Lee Group
+Fecha del Documento: 16 ene 1982
+Nombre del Doctor: Ana Isabel Gil
+Correo Electrónico del Paciente: nasabelGi@aol.com
+Número de Teléfono del Paciente: +1-696-397-7873
+URL del Perfil del Paciente: peterson-johnson.shelton-rivera.com
+Número de Fax del Paciente: +1-995-431-6842x092"
+

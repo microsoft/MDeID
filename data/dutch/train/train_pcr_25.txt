@@ -1,0 +1,20 @@
+"Patientenzorg Rapport - Nood Medische Situatie
+
+[DISPATCH] Deze bemanning reageerde op een 701.322.2183x08471 oproep voor een Neeltje Jansen die acute ademhalingsproblemen ervaart. De beller, een buurman, meldde luide hijgende geluiden en een aanhoudende hoest te horen vanuit de woning van de patiënt. We werden onder een noodcode uitgezonden, met gebruik van lichten en sirenes voor een snelle reactie.
+
+[ON-SCENE ASSESSMENT] Bij onze aankomst vonden we de patiënt in een matige staat van nood, met tekenen van koorts, aanhoudend hoesten en kortademigheid. De patiënt was bij bewustzijn maar zichtbaar worstelend om adem te halen. De scène gaf aan dat de patiënt alleen woont in een huis gelegen op Neeltje Jansen, Cloof 4, 2217 Theopathies, België en er waren tekenen van een chronische medische aandoening, wat suggereert dat dit een verergering was van een bestaande ziekte.
+
+[HISTORY OF PRESENT ILLNESS] Na het stabiliseren van de patiënt met extra zuurstof uit een tank gemarkeerd met serienummer 534751 JLq, hebben we een grondige geschiedenis intake uitgevoerd. De patiënt identificeerde zichzelf als Neeltje Jansen en gaf een rekeningnummer 019-7977OM voor het medisch dossiernummer 96 16sxuUd. Ze informeerden ons dat de symptomen begonnen op 08-12-2018 met een hoest en een lichte koorts die sindsdien is geëscaleerd naar de huidige staat. De patiënt vermeldde ook dat ze gediagnosticeerd waren met bronchiale astma bij Associate Center onder de zorg van Tom De Meyer.
+
+[INITIAL ASSESSMENT] Onze primaire beoordeling vond de patiënt bij bewustzijn, met een oriëntatie op persoon, plaats en tijd. De 84 van de patiënt leek consistent met het uiterlijk. We voerden een volledig hoofd-tot-teen onderzoek uit en vonden tekenen van moeizame ademhaling, piepende ademhalingsgeluiden en een iets verhoogde hartslag. De temperatuur van de patiënt, opgenomen van het apparaat ID 534751 JLq, was indicatief voor koorts.
+
+[TREATMENT] We begonnen de behandeling ter plaatse door bronchodilatator medicatie toe te dienen via een vernevelaar, volgens het bestaande recept van Dr. Tom De Meyer. De patiënt werd vervolgens voorbereid op transport naar het dichtstbijzijnde ziekenhuis, Associate Center, met continue monitoring van vitale functies. Een Mme@yahoo.com werd naar het ziekenhuis gestuurd met de eerste beoordeling en behandeling van de patiënt.
+
+[TRANSPORT] De patiënt werd veilig vastgezet in onze ambulance met kentekennummer 9976 AF voor transport. De IV-lijn werd op zijn plaats gebracht, zonder zwelling of verkleuring op de inbrengplaats. De bezittingen van de patiënt, inclusief een mobiel apparaat met een geïdentificeerd 218.38.118.27, werden veilig bij ons gehouden tijdens de reis.
+
+[HOSPITAL HANDOVER] Bij aankomst in het ziekenhuis werd de zorg voor de patiënt overgedragen aan de dienstdoende verpleegkundige van de spoedeisende hulp, met alle details van de toestand, behandeling en geschiedenis van de patiënt gecommuniceerd. Alle bezittingen van de patiënt werden overgedragen aan het ziekenhuispersoneel. Een voltooid Patient Handover formulier werd ondertekend en ontvangen door de verpleegkundige, de document-URL hiervan is https://www.johnson.info/app/list/apphome.html.
+
+[DOCUMENTATION] Het rapport werd voltooid door de aanwezige EMT, en een kopie van het Patientenzorg Rapport werd gegenereerd en verzonden naar de account gekoppeld aan de gebruikersnaam van de patiënt eltjeen. Het document werd ook opgeslagen in het systeem tegen het sofinummer van de patiënt 806-2360635-08 voor referentie- en factureringsdoeleinden.
+
+[ATTENDING EMT] Dit rapport is opgesteld en geverifieerd door Tom De Meyer, een gelicentieerde EMT met certificatienummer 666-uWAkmO. Dit document beoogt een gedetailleerd verslag te geven van de toestand en behandeling van de patiënt tijdens de nood medische situatie op de incidentdatum 08-12-2018."
+

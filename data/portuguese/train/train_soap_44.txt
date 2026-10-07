@@ -1,0 +1,32 @@
+"Nota SOAP
+
+S: A paciente Adriana Lima, com histórico de deficiência adquirida de FX devido à amiloidose AL, PAF, adenocarcinoma de pulmão metastático em erlotinib, cardiomiopatia hipertrófica, hipertensão e diabetes mellitus tipo 2, relata sentir-se bem, mas teve problemas incluindo epistaxe autolimitada e fácil hematoma em 28/07/1981. A paciente lembra de resultados de exames laboratoriais e procedimentos médicos anteriores.
+
+O: Resultados laboratoriais anteriores indicaram um TP de 12,4 segundos, INR de 1,2, aPTT de 38 segundos, fosfatase alcalina em 160 U/L, creatinina em 1,16 mg/dL e proteinúria com 882 mg/24 h. Ultrassom abdominal mostrou hepatomegalia com o lobo direito medindo 21 cm. Eletroforese de soro e urina indicou a presença de imunoglobulina G-lambda. Biópsia hepática revelou extensa deposição de amiloide com presença de cadeia leve lambda. Biópsia de medula óssea mostrou extensa deposição de amiloide, coloração positiva para vermelho Congo e hibridização in situ fluorescente positiva para cadeias leves lambda. Foi observada atividade de coagulação FX diminuída em 45% com uma faixa de referência de 70%-150%. Em 28/07/1981, o perfil de coagulação mostrou TP de 16,3 segundos, aPTT de 33 segundos e atividade FX de 34%.
+
+A: O diagnóstico principal é deficiência adquirida de FX secundária à amiloidose AL. O histórico do paciente de adenocarcinoma de pulmão recorrente e outras comorbidades complicam o manejo. Diagnósticos diferenciais incluem outras causas de coagulação anormal não relacionadas à amiloidose. O prognóstico é reservado devido à complexidade das condições subjacentes e à natureza recorrente do câncer de pulmão.
+
+P: Continue com o atual regime de quimioterapia com melfalano e dexametasona. O monitoramento regular dos perfis de coagulação e da atividade FX é essencial. Eduque o paciente sobre a importância de relatar novos sintomas ou preocupações prontamente. Agende consultas de acompanhamento regulares no Papers para avaliar a eficácia do tratamento e gerenciar quaisquer complicações. É recomendado encaminhamento para um hematologista Filipe Cavalcanti para manejo adicional da deficiência de FX e um oncologista Filipe Cavalcanti para tratamento contínuo do câncer. Garanta a conformidade com todos os medicamentos prescritos e cronogramas de acompanhamento.
+
+Notas adicionais:
+- Número do Registro Médico: 8652-25873
+- Número da Conta do Paciente: 467807 umL
+- Número de Série do Dispositivo: YyJhBp 21R
+- Nome de Usuário no Portal do Paciente: Limana
+- Identificador do Veículo: VHY 086
+- Número do Seguro Social: 949.951.931-38
+- Identificador de Licença Profissional: 24754 7192
+- Identificador Biométrico: 60-BdwcxSE
+- Endereço IP: 58.127.123.248
+- Identificador Pessoal: 467807 umL
+- Idade do Paciente: 5
+- Endereço do Paciente: Adriana Lima, Quadra de Peixoto, 302 197, Blustered, Irece - 26, YVM7K51L, Brasil
+- Outras Localizações: escola
+- Plano de Saúde: KHMe
+- Ocupação do Paciente: Médico do hospital
+- Organização Afiliada: Rollins-Serrano
+- Endereço de Email: eavalcanti@gmail.com
+- Número de Contato: 001-574-386-3964x96601
+- Website: https://www.willis-andrews.info/categories/posts/explorehomepage.jsp
+- Número de Fax: 675-433-1764"
+

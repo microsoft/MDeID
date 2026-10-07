@@ -1,0 +1,61 @@
+### **RÉSUMÉ DE SORTIE**
+
+**Informations sur le patient :**
+Arne Bogaert
+51
+Arne Bogaert, 060 Detournay Trail 29, 6088 Richwiller, Suisse
+
+**Médecin traitant :**
+Bruno Le roux
+
+**Hôpital :**
+Ragna
+
+**Numéro de dossier médical :**
+Ta 133668U
+
+**Diagnostic à l'admission :**
+Cholécystite aiguë
+
+**Section Allergies et Intolérances :**
+Aucune allergie médicamenteuse connue.
+
+**Section Cours de l'hospitalisation :**
+Le patient a été admis à l'hôpital avec des plaintes de douleurs abdominales sévères, de nausées et un signe de Murphy positif a été observé lors de l'examen physique. L'état du patient a été diagnostiqué comme une cholécystite aiguë.
+
+**Section Procédures :**
+L'échographie a confirmé le diagnostic de cholécystite. Une cholécystectomie a été réalisée pour enlever la vésicule biliaire enflammée. Le patient a bien répondu à la procédure.
+
+**Soins, traitement et services fournis :**
+Le patient a été traité avec des antibiotiques et des analgésiques avant la chirurgie. Après la procédure, le patient a reçu une réanimation liquidienne et a été surveillé pour d'éventuelles complications postopératoires.
+
+**Diagnostic de sortie :**
+Le patient a été libéré avec un diagnostic de cholécystite aiguë résolue suite à une cholécystectomie réussie.
+
+**Section Plan de traitement :**
+Il a été conseillé au patient de suivre un régime pauvre en graisses et de s'assurer un suivi régulier avec le service ambulatoire pour le suivi de la récupération. Une prescription pour la gestion de la douleur a été donnée au patient.
+
+**Section Consultations à l'hôpital :**
+Des consultations ont été faites avec le département de gastroentérologie et de chirurgie. Tous les départements étaient d'accord avec le plan de traitement.
+
+**Section Résultats :**
+Le patient a montré une amélioration significative de son état après la chirurgie. L'échographie de contrôle n'a montré aucune anomalie.
+
+**Section Médicaments à la sortie :**
+Le patient a été libéré avec une prescription pour un médicament analgésique et des instructions pour son utilisation.
+
+**Informations fournies au patient et à la famille :**
+Le patient et la famille ont été informés de l'état de santé, de la procédure entreprise et de l'importance des soins de suivi.
+
+**Dispositions pour les soins de suivi :**
+Des rendez-vous de suivi ont été programmés avec le service ambulatoire pour l'enlèvement des sutures et le suivi de la récupération.
+
+**Disposition de sortie :**
+Le patient a été libéré dans un état stable à la maison avec sa famille. Le patient et la famille ont démontré qu'ils comprenaient les instructions de sortie et le plan de suivi.
+
+**Section Instructions de sortie de l'hôpital :**
+Il a été conseillé au patient de suivre un régime pauvre en graisses, de prendre les médicaments comme prescrit, de s'assurer des soins de la plaie, et de visiter l'hôpital pour les rendez-vous de suivi programmés.
+
+---
+
+Rappelez-vous : Ce document récapitulatif est destiné à fournir un bref aperçu de l'état du patient au moment de la sortie et ne contient pas de détails exhaustifs sur l'histoire médicale ou le traitement du patient. En cas de changement de santé ou de préoccupations, veuillez consulter immédiatement des professionnels de la santé.

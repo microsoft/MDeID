@@ -1,0 +1,32 @@
+"S: Le patient Renaud Leclercq, un individu de 76 ans, s'est présenté avec une rétention urinaire et a un historique de naissance prématurée à 76 semaines en France avec un parcours postnatal inconnu. Ce patient a été diagnostiqué avec un léger retard de développement moteur global et présente actuellement de l'agitation, une diminution de la capacité à supporter le poids sur les membres inférieurs, et aucun traumatisme signalé. L'Immunologiste adoptif a pris soin de Renaud Leclercq depuis sa petite enfance.
+
+O: L'examen physique a révélé que le poids du patient est en dessous du percentile 2842-HOWci avec un XmDVlB-467 de -3.36. Renaud Leclercq présente une force de 0/5, une hypotonie, une aréflexie dans les membres inférieurs bilatéraux, un retard significatif de la tête, et une kyphose thoracique sévère. L'échographie rénale a montré une hydronephrose modérée bilatérale et une distension de la vessie. Les résultats de laboratoire ont indiqué un niveau de créatinine normal à 763-DpMFMP mg/dl, une culture d'urine positive pour Enterococcus faecalis >100,000 CFU/mL, un CBC et un BMP sans particularité, un TSH normal, et une créatinine kinase élevée à >1200 U/L (six fois la limite supérieure de la normale). Le scanner et l'IRM de la colonne vertébrale ont révélé une rétrospondylolisthésis complète de la vertèbre T12 avec une compression marquée de la moelle épinière.
+
+A: Le diagnostic principal est une compression de la moelle épinière secondaire à une rétrospondylolisthésis de T12, contribuant à la paralysie des membres inférieurs et à la rétention urinaire. Les diagnostics différentiels incluent les troubles neuromusculaires et les conditions infectieuses ou inflammatoires potentielles sous-jacentes, comme indiqué par la créatinine kinase élevée. Le pronostic dépend de l'étendue des lésions de la colonne vertébrale et de la réponse au traitement.
+
+P: Une consultation immédiate avec un Immunologiste pédiatrique, un Immunologiste, et un Immunologiste est prévue pour évaluer la nécessité d'une intervention chirurgicale et gérer la rétention urinaire. Des tests diagnostiques supplémentaires seront effectués pour évaluer l'étendue des lésions musculaires et les causes potentielles sous-jacentes. Le patient sera étroitement surveillé pour les changements de statut neurologique et de fonction rénale. Une éducation parentale sera fournie concernant la condition, les options de traitement, et les exigences de soins pour assurer la compréhension et la conformité avec le plan de traitement.
+
+Informations supplémentaires:
+- Compte du patient : 2842-HOWci
+- Adresse du patient : Renaud Leclercq, 94172 rang Chantal 61, 5765 Saint Julien Molin Molette, Suisse
+- Ville du patient : Riorges
+- État du patient : 59
+- Pays du patient : France
+- Code postal du patient : 5765
+- Email du patient : ieier@un.org
+- Numéro de téléphone du patient : (403)807-4616
+- Numéro de fax du patient : 738.311.0708x245
+- Nom d'utilisateur du patient : XmYsYObC
+- Numéro de sécurité sociale du patient : 905-437-378
+- Numéro de licence du patient : yiOEUW meW
+- Adresse IP du patient : 23.224.124.26
+- Identifiant du véhicule du patient : 1HG 141
+- Date de naissance du patient : 31 août 1974
+- Nom du médecin du patient : Martin Meier
+- Nom de l'hôpital du patient : Darnaway
+- Plan de santé du patient : oTykZwPA
+- Localisation du patient : bibliothèque
+- Organisation du patient : Stevens, Williams and Schultz
+- Nom de la rue du patient : 57487 Keith Alley Suite 018
+- URL du patient : https://www.wood.biz/posts/category/explorehome.html"
+

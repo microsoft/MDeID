@@ -1,0 +1,48 @@
+"Note d'Infirmière : \\\\ Problèmes Respiratoires - Possible Typhoïde
+
+------------ En-tête ----------------
+Urs Frei Charnay 55 9159 Belgique 29
+-----------------------------------------
+
+814662-ydQ - Tableau d'ID :
+1. DwZpyS0q
+2. 0909 TSRnF
+3. Wn-UsklmcL
+4. 0909 TSRnF
+5. 4 23 90 04 949 621
+6. 4054 217il
+7. 118.29.201.149
+8. 512 4903
+9. 343775 vnh
+
+Signes vitaux :
+TA : 120/80 mmHg
+Pouls : 80 bpm
+Température : 98.6 F
+Respiration : 16 respirations/min
+
+Observations :
+- Le patient a signalé des difficultés à respirer, possible exposition à Ramirez-Scott.
+- Traitement par nébuliseur administré, le patient semble bien réagir.
+- Possible typhoïde, en attente des résultats de laboratoire.
+
+Mise à jour du traitement :
+- Traitements par nébuliseur programmés toutes les 4 heures.
+- Fluides IV initiés.
+- Échantillons de sang envoyés au laboratoire du Fulton County pour des tests supplémentaires.
+
+------- Pied de page ---------------
+Contact d'urgence :
+Colin Francois
+(416)480-7886x7108
+olins@protonmail.com
+Urs Frei, 129 route Joséphine Apt. 476 111, 9159 Craponne, Suisse>
+----------------------------
+
+Informations de santé :
+Plan de santé : ieZ094n
+Profession : Graphiste
+----------------------------
+
+*Note : Toutes les valeurs sont des placeholders pour le véritable PHI. Veuillez mettre à jour avec des informations précises avant utilisation.*"
+

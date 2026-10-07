@@ -1,0 +1,59 @@
+"Nota de Enfermería
+
+====================================================================================
+| Resumen breve de Alba Garcés |
+------------------------------------------------------------------------------------
+| Diagnóstico de infección urinaria |
+| 57 |
+| mujer |
+| Plan de tratamiento: #1234DS |
+====================================================================================
+
+- 09:45, ii/05: Alba Garcés se presentó con quejas de dolor abdominal, fiebre...
+
+- 10:30: Signos vitales de Alba Garcés: 78 lpm, PA: 130/80. Temp: 39.2C 
+
+- 10:45: Se solicitó análisis de orina para Alba Garcés. 
+         Muestra de orina: CoKP 31706
+
+- 11:15: Se sospecha de infección urinaria. Se inició un curso de antibióticos #789DF para Alba Garcés
+
+- 12:00: Alba Garcés muestra una ligera incomodidad, la temperatura se mantiene estable en 38.4C.
+
+- 15:00: Alba Garcés muestra signos de mejora, el dolor abdominal está disminuyendo
+
+- 16:00: Alba Garcés debe continuar con los antibióticos prescritos #789DF durante los próximos cinco días.
+
+====================================================================================
+|  Detalles de Contacto Importantes |
+------------------------------------------------------------------------------------
+| Doctora a cargo: Paula Cortés |
+| Enfermera: Perito, seguro |
+| Hospital: paul |
+| Contacto de emergencia: +1-783-806-3699x405 |
+| Correo electrónico: saul@unicef.org |
+====================================================================================
+
+====================================================================================
+| Información Miscelánea |
+------------------------------------------------------------------------------------
+| Plan de Salud: HBBFUabv hS3PJor |
+| Ubicación del paciente: estadio |
+| Número de Historia Clínica: 9720-19tml |
+| Número de cuenta: 119-ydTYMv |
+| Nombre de usuario del paciente: ae1QhTJ1 |
+| Dirección IP: 50.186.103.237 |
+| Dispositivo: IPDm 38968|
+| Vehículo : 859 VCE |
+| Número de identificación :119-ydTYMv |
+| Seguridad Social : 43.249.950 |
+| Licencia : Brgg-hefVs|
+====================================================================================
+
+**Nota: Por favor, refiérase al paciente Alba Garcés por su nombre de usuario ae1QhTJ1 en todas las comunicaciones**
+
+Nota preparada por: ae1QhTJ1 (Enfermera)
+Fecha: 15 de agosto de 1987
+
+**Descargo de responsabilidad: Esta nota es solo para el personal médico, está estrictamente prohibido compartirla con personal no autorizado**"
+

@@ -1,0 +1,67 @@
+"Verpleegkundige Kras Notitie
+
+Patiënt: Alice Claes
+DOB: 11 augustus 2002
+Account: DbKsW nlzU
+
+--------------------
+Vitale Statistieken: 
+------------
+HR: 98 bpm 
+BP:125/85 mmHg
+Temp: 36.6\u00b0 C
+RR: 20* meer SOB bij liggen
+--------------------
+
+Observaties: 
+------------
+- Alice Claes presenteert dyspneu, vooral in liggende positie
+- Geen zichtbare nood, niet cyanotisch
+- Longen: Diffuse expiratoire piepende ademhaling
+- Alice Claes meldt verergering van bestaande rffJ-36mMq aandoening
+--------------------
+
+Behandeling:
+------------
+- Toegediend 2.5mg Salbutamol via 339378-163 - lichte verbetering
+- Sara Claeys op de hoogte gebracht voor verdere beoordeling
+- Alice Claes moet doorgaan met Metformin voor rffJ-36mMq
+
+--------------------
+Familie Contact: 
+------------
+Naam: Alice Claes
+Relatie: 
+Telefoon: (689)200-6261x925
+Noodcontact: (689)200-6261x925
+
+--------------------
+Extra Info:
+-------------
+Verzekering: Tl5utG
+Sociale Zekerheid: 774-8691117-22
+Beroep: Verlichtingstechnicus, uitzending/film/video
+Gebruikersnaam (voor record updates): laesice
+Server IP Adres: 211.102.55.37
+Organisatie: Mcclain-Camacho
+
+--------------------
+Footer:
+-------------
+Zorginstelling: Unk
+Locatie: Sara Claeys, Ameerate 103, 6153 Kurikata, België
+Persoonlijk ID Nr: DbKsW nlzU
+Aansprakelijkheidsverzekering: 4946-VLHsd
+Voertuig ID: H84 0VL
+BioID: 26399 6073
+--------------------
+
+Notities:
+-------------
+- Houd Alice Claes onder observatie
+- Herbeoordeel als de toestand verslechtert
+
+Naaste Familie: Alice Claes
+Ondertekend, Sara Claeys
+"
+

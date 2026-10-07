@@ -1,0 +1,29 @@
+"(**Nota de Rascunho del Doctor**)
+
+Brittany Howard notas:
+
+Raquel Jímenez (Mujer, 80, Hispana) - Sin angustia aguda.
+Quejas: mareos, debilidad, diaforesis, diarrea, vómitos. 
+Historial Médico Pasado: Acné, Asma, angustia psicosocial. 
+Alergias: Raquel Jímenez niega alergias, específicamente a las piñas. 
+
+Signos vitales (a la llegada): 
+BP  mmHg, RR  respiraciones/min, SpO2  en aire ambiente, Temp  \u00b0C. 
+Glucosa en sangre: 60 mg/dL (Confirmado por el laboratorio)
+
+Dx Diferencial: 
+1. Hipoglucemia (Diagnóstico primario - reactivo)
+2. Trastornos metabólicos
+3. Otras causas de síntomas gastrointestinales
+
+Plan de Tratamiento: 
+1. Alta con IV 0.9% NaCl para la restauración del volumen
+2. Ondansetrón para las náuseas y los vómitos
+3. Recomendaciones dietéticas - proteína en cada comida, comidas pequeñas frecuentes
+
+Recomendaciones: 
+Seguimiento con Brittany Howard para el manejo adicional de la hipoglucemia y descartar otras causas potenciales.
+
+**Fin de la nota**
+(Nota: Los signos vitales y los niveles de glucosa en sangre son marcadores de posición. Los valores reales serán llenados por Brittany Howard basados en la condición del paciente durante la visita.)"
+

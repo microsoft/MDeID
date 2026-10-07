@@ -1,0 +1,30 @@
+"Relatório de Atendimento ao Paciente - Malária
+
+[DISPATCH] O Serviço Médico de Emergência Waller-Walker recebeu uma chamada de emergência de Mariana Vieira relatando sentir-se gravemente doente. Esta equipe foi despachada com base na chamada telefônica 001-592-593-4668x6844 do residente local. Respondemos com luzes e sirenes para o farmácia.
+
+[SYMPTOMS] Na chegada, Mariana Vieira foi encontrada em estado de angústia. A paciente relatou febre alta 6, calafrios e fraqueza. O problema principal parece ser esses sintomas semelhantes aos da gripe, que espelham um possível caso de malária. 
+
+[HISTORY] De acordo com Mariana Vieira, o início dos sintomas foi cerca de terça-feira, 24 de abril de 2001 atrás. O histórico do paciente foi obtido do paciente e de seu número de registro médico IW tEdfEGl. 
+
+[INITIAL ASSESSMENT] Uma avaliação primária inicial foi realizada. Mariana Vieira está consciente, mas parece fraca e fatigada. A avaliação neurológica não mostrou sinais de confusão ou alteração do estado mental. No entanto, foi notada uma alta temperatura. 
+
+[TREATMENT] O paciente foi colocado em terapia de oxigênio leve por meio de uma máscara. Uma linha IV salina 534451-iOL foi estabelecida para fins de hidratação na viagem de ambulância. Devido ao histórico de viagens relatado pelo paciente e aos sintomas, foi considerado um possível diagnóstico de malária. 
+
+[TRANSPORT] Mariana Vieira foi transportada para o Neuwied para avaliação e tratamento adicionais. Durante o transporte, os sinais vitais do paciente foram monitorados continuamente, e atualizações foram fornecidas ao hospital receptor por meio de nosso dispositivo de comunicação 534451-iOL. 
+
+[HANDOVER] Na chegada ao Neuwied, o paciente foi entregue à médica de emergência Carolina Martins. Informações detalhadas do paciente, incluindo o número da conta 18-vnGpoUs, plano de saúde 4BHQ 4QCLh7, e o estado de origem Mg do paciente para faturamento foram fornecidos à equipe receptora junto com um breve resumo do caso.
+
+[DOCUMENTATION] O consentimento assinado do paciente foi obtido em nosso formulário digital usando seu nome de usuário plDmvP71, e um folheto de Aviso de Práticas de Privacidade foi fornecido a eles. O contato de emergência do paciente Mariana Vieira, relatado como sendo um membro da família, foi informado sobre a situação. 
+
+Este relatório foi compilado pela Atendente Carolina Martins, Comissária de bordo, com a Waller-Walker na ambulância 26H 8525. O processo de documentação foi feito garantindo total confidencialidade do paciente e estrita aderência às regulamentações da HIPAA. 
+
+[REPORTED BY] 
+Atendente Carolina Martins 
+Número da Licença 956 WvFiPj
+Assinatura 97028-YlRx
+Data terça-feira, 24 de abril de 2001
+Email lis@who.int
+Endereço IP 110.180.81.240 
+Número de Fax 920-642-8501 
+URL murphy.cunningham.com"
+

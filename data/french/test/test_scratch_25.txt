@@ -1,0 +1,66 @@
+"**Note de l'infirmière**
+
+--------------
+**Informations sur le patient**
+-------------
+- Désignation : Paul Müller
+- Âge : 35
+- Compte : ESMpv BNGs
+
+--------------
+**Observation**
+-------------
+* Hypertension détectée
+* Signalements de vertiges
+* Sensation de tête légère
+* Contrôle vital :
+  * TA : 170/90
+  * FC : 108 
+
+--------------
+**Mises à jour du traitement**
+------------
+* Médicament : Lisinopril
+* Appareil : 608074 485 
+
+--------------
+**Progression**
+-------------
+* Réduction de la TA : Incomplète
+* État des vertiges : Inchangé
+
+--------------
+**Détails des soins**
+------------
+* Plan de santé : ItY
+* Infirmière : Comptable agréé en management
+
+--------------
+**Contacts**
+------------
+* Médecin : Valentine Huet
+* Téléphone : (776)648-5917x1401
+
+--------------
+**Divers**
+------------
+* Nom d'utilisateur : p3aWmco8
+* BioID : 871263 aHH
+* Hôpital : Storängen Nacka
+* Lieu : école
+* Email : ntinu@hotmail.com
+* Adresse IP : 189.11.107.2
+
+-------------
+**Résumé**
+-------------
+* Le patient Paul Müller continue de signaler des vertiges et une sensation de tête légère. 
+* Les signes vitaux montrent une TA élevée indicative d'hypertension. 
+* Médicament (Lisinopril) et 608074 485 utilisés dans le traitement.
+* Pas de progrès significatif dans la réduction de la TA, la surveillance continue.
+* Contacter Valentine Huet au (776)648-5917x1401 pour plus de détails. 
+
+-------------
+**Fin de la note de l'infirmière**
+-------------"
+

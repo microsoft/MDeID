@@ -1,0 +1,40 @@
+"**Nota Narrativa de Enfermería para Cecilia López con Infección Severa de Tejidos Blandos y Pseudothrombocytopenia**
+
+Nota Narrativa:
+
+Cecilia López reportó dolor severo e hinchazón en la pierna, que ha sido diagnosticada como una infección severa de tejidos blandos. No se notó moretones o sangrado inusual. La paciente actualmente está en un régimen de medicación que incluye enalapril y simvastatina, con adiciones recientes de  y . También se le ha recetado  como profilaxis.
+
+Los signos vitales están dentro de los límites normales. Los hallazgos de laboratorio indican trombocitopenia con una caída significativa en el recuento de plaquetas de 320x10^9/L a 8x10^9/L en presencia de . Esto a pesar de recibir tres transfusiones de plaquetas a dosis completa. Los recuentos de plaquetas en presencia de  y  son normales (355x10^9/L y 310x10^9/L, respectivamente), lo que sugiere aglutinación de plaquetas in vitro en muestras de . No hay mejora en el recuento de plaquetas después de la transfusión en .
+
+El diagnóstico principal es infección severa de tejidos blandos con pseudothrombocitopenia secundaria debido a la aglutinación in vitro de plaquetas en . El diagnóstico diferencial incluye trombocitopenia verdadera, que fue descartada por recuentos normales de plaquetas en muestras no-. La infección de la pierna es lo suficientemente severa como para requerir amputación.
+
+El plan de tratamiento es continuar el tratamiento antibiótico con  y .  se utilizará para la tromboprofilaxis. Se planea la amputación de la pierna afectada bajo anestesia espinal. El cuidado postoperatorio incluirá el monitoreo de la infección y el progreso de la recuperación. Se proporcionará educación al paciente sobre el procedimiento y las expectativas de recuperación. También se planea una referencia a un Barrister después de la amputación para el entrenamiento y adaptación de la movilidad.
+
+---------------------------
+**Información del Paciente:**
+
+- Cecilia López
+- Número de Cuenta: 189647-535
+- Número de Historia Clínica: 786610-YsC
+
+**Información del Médico:**
+
+- Jordi Blanco
+- Licencia: ywJNF-4104
+
+**Información de Contacto:**
+
+- Teléfono: 4036191070
+- Correo Electrónico: ncoo@mail.com
+
+**Información Adicional:**
+
+- Nombre de Usuario del Paciente: l3zNzDgr
+- Dirección IP del Paciente: 199.42.230.234
+- Número de Serie del Dispositivo del Paciente: 90-573694g
+
+---------------------------
+
+, Enfermera Registrada (RN)
+"
+

@@ -1,0 +1,45 @@
+"```
+Note de l'infirmière Scratch : 
+===================
+Patient : James Clark
+Numéro de dossier médical : qq-PSmUXfL
+
+    Signes vitaux & Observations :
+    ----------------------
+    TA : 110/70 
+    Pouls : 80 bpm 
+    Temp : 98.6 \u00b0F 
+    FR : 16 bpm 
+    O2 : 100% sur RA 
+    Poids : 70 Kg 
+    Taille : 170 cm
+
+    Médical :
+    --------
+    Diagnostics : Jaunisse, cause en cours d'investigation
+    Médication : En attente des ordres du docteur Lucie Barbier
+    Labo : Tests de fonction hépatique commandés, en attente des résultats xnJ 343uyS
+
+    Commentaires : Le patient présente une jaunisse. Pas de fièvre. Pas de douleur thoracique. 
+
+Informations de contact :
+--------------------
+Téléphone : +1-272-301-9432x4561
+Adresse : James Clark, 104 71238 Stéphane Mission, 2618 Verrières-Le-Buisson, France
+Contact d'urgence : ZfwZU73f
+
+Informations supplémentaires :
+----------------------
+Plan de santé : aujw
+Admis de : bibliothèque
+Adresse IP : 26.222.112.2
+Profession : Libraire
+Organisation : Wu-Guerra
+Véhicule : 1IN I11
+Numéro de sécurité sociale : 5 86 77 24 110 629
+Permis : gtYFV-168Q
+Biométrie : yQL-983063
+
+```
+"
+

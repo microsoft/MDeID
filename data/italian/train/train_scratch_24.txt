@@ -1,0 +1,41 @@
+"Appunti Infermiera Scratch
+--------------------
+Segni vitali: 
+BP: 120/80
+HR: 80 bpm
+RR: 20 bpm
+Temp: 98.6 F
+O2 Sat: 96%
+
+Riassunto del paziente: 
+Angelo Benedetti: Tosse secca, difficoltà a respirare
+: Trattamento con nebulizzatore, terapia O2
+Osservazioni: 
+Infiammazione bronchiale notata, possibile : asma bronchiale
+
+Progresso del trattamento:
+Il trattamento con nebulizzatore mostra un certo sollievo. Livelli di O2 stabili dopo il trattamento.
+
+Piano:
+Continuare i trattamenti con nebulizzatore, Monitorare i livelli di O2, Considerare l'escalation al Hans Schmid se non ci sono miglioramenti
+
+Note informali:
+Notato Angelo Benedetti che lotta con la tosse; respirazione pesante, trattamento con Neb efficace in qualche modo, monitorerà attentamente
+
+Informazioni sul dispositivo:
+: Numero di serie del nebulizzatore
+: Numero di serie della terapia con ossigeno
+
+Contatto:
+Contatto di emergenza 498-794-5676: Contatto di emergenza del paziente
+ansd@who.int: Per comunicazione diretta
+
+Dettagli aggiuntivi:
+84: Età del paziente
+rtkEOTK9: Nome utente del portale del paziente
+Consulente finanziario: Occupazione attuale
+sRQh: Fornitore di assicurazione sanitaria
+4545-60627: Identificatore del paziente vario
+Clark, Lara and Collins: Organizzazione associata
+West Yorkshire England: Ospedale di riferimento"
+

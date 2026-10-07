@@ -1,0 +1,15 @@
+T1	PATIENT 20 37	Francisca Ribeiro
+T2	PATIENT 64 81	Francisca Ribeiro
+T3	PATIENT 286 303	Francisca Ribeiro
+T4	PATIENT 535 552	Francisca Ribeiro
+T5	PATIENT 731 748	Francisca Ribeiro
+T6	DOCTOR 790 801	Júlio Mello
+T7	PATIENT 1114 1131	Francisca Ribeiro
+T8	DOCTOR 1208 1219	Júlio Mello
+T9	PATIENT 1623 1640	Francisca Ribeiro
+T10	DOCTOR 1699 1710	Júlio Mello
+T11	PATIENT 1904 1921	Francisca Ribeiro
+T12	PATIENT 2089 2106	Francisca Ribeiro
+T13	DOCTOR 2244 2255	Júlio Mello
+T14	HOSPITAL 2303 2311	Payyanur
+T15	DOCTOR 2328 2339	Júlio Mello

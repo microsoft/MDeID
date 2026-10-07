@@ -1,0 +1,102 @@
+"Appunti Infermiera Scratch
+
+----------------------
+|| Riassunto Paziente Marcel Moser ||
+
+- Principale lamentela: Prurito, nausea
+- Osservazioni rilevate: Grave itterizia oEL-18944X
+- 40 anni
+- maschio
+
+----------------------
+|| Vitali 5678-25872 || 
+
+- Temp: 98.7F
+- Pulsazioni: 82 bpm
+- Resp: 18 respiri/min
+- Pressione: 120/80 mmHg
+
+----------------------
+|| Info Med. Rilevanti 78731 7581 || 
+
+- Allergie: Nessuna identificata
+- Storia di recenti viaggi: farmacia
+- Storia di recenti cambiamenti nella dieta: Sconosciuto
+- F/H: Moore, Johns and Lewis - Rilevante
+
+----------------------
+|| Progressi 2 nov 1976 || 
+
+- Somministrati farmaci di routine - annotato nel grafico 817-23260N
+- Nessun cambiamento significativo nelle condizioni
+- Consultato Nicole Salvi
+
+----------------------
+|| Informazioni di Contatto 001-789-637-0114x9860 || 
+
+- Contatto di Emergenza: Marcel Moser Relazione: Lavoratore di comunità artistica
+- Numero di Contatto: 001-789-637-0114x9860
+
+----------------------
+|| Info Ospedalizzazione Annapolis Royal, Nova Scotia || 
+
+- Ammesso il:  2 nov 1976
+- Stanza: 817-23260N
+
+----------------------
+|| Info Trattamento || 
+
+- Farmaco Prescritto: PRf
+- Prossimo Appuntamento con Nicole Salvi: 2 nov 1976
+
+----------------------
+|| Nota Generale XMHrKWbL || 
+
+- L'umore del paziente sembrava stabile
+- Famiglia presente durante la visita: Marcel Moser
+- Paziente XMHrKWbL registrato nel portale elettronico
+
+----------------------
+|| Indirizzo del Paziente Marcel Moser, 1576 Odonnell Summit Suite 289 184, 1265 San Giovanni Rotondo, Svizzera || 
+
+----------------------
+|| Sicurezza Sociale EMGDJE46V95M900S || 
+
+----------------------
+|| Licenza QO-iwKufmm || 
+
+----------------------
+|| Indirizzo IP 179.210.176.208 || 
+
+----------------------
+|| Veicolo T26 9OH || 
+
+----------------------
+|| Email li@msf.org || 
+
+----------------------
+|| URL herrera-miller.ayala-rose.greene-larsen.com || 
+
+----------------------
+|| Fax (952)612-6630x585 || 
+
+----------------------
+|| Stato 85 || 
+
+----------------------
+|| Città Fiume Veneto || 
+
+----------------------
+|| Paese Italia || 
+
+----------------------
+|| Via 4146 Jennifer Cove || 
+
+----------------------
+|| CAP 1265 || 
+
+----------------------
+|| Conto 817-23260N || 
+
+Fine della Nota."
+

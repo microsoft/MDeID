@@ -1,0 +1,32 @@
+"S: La paciente Aristița Bercu informa que experimenta migrañas, que comenzaron después de un accidente de tráfico SBO-3059 que resultó en una lesión craneocerebral y una traqueostomía. La paciente tiene un historial de artritis reumatoide durante 31 años, controlada con metotrexato (2.5 mg tres veces al día) y topiramato (200 mg dos veces al día) para las migrañas.
+
+O: El examen clínico realizado por Alba Toro reveló una glándula tiroides impalpable e indolora. Las pruebas de laboratorio en 2011 Kennedy Center mostraron un factor reumatoide positivo, con anticuerpos antitiroglobulina y peroxidasa tiroidea normales (16 U/ml y 16.7 U/ml, respectivamente). La biopsia por aspiración con aguja guiada por ultrasonido de la tiroides detectó nódulos en el polo inferior del lóbulo tiroideo izquierdo, sugestivos de malignidad. Las pruebas de función tiroidea indicaron un estado eutiroideo con TSH a 0.89 \u03bcIU/ml, T3 a 1.30 ng/mL, y T4 a 7.2 \u03bcg/dl. El examen post-tiroidectomía mostró lesiones necrotizantes correspondientes a nódulos reumatoides.
+
+A: Diagnóstico primario de hipotiroidismo secundario a la participación reumatoide de la glándula tiroides, con un diagnóstico diferencial de malignidad tiroidea sugerida pero no confirmada por Alba Toro. La presencia de nódulos reumatoides en la glándula tiroides complica el cuadro clínico.
+
+P: Iniciar tratamiento con tiroxina para manejar el hipotiroidismo y mantener el estado eutiroideo. Monitorear regularmente la función tiroidea. Proceder con tiroidectomía total para evaluar y manejar más a fondo la posible malignidad. Después de la cirugía, continuar con el seguimiento y manejo cercano de la artritis reumatoide, ajustando los medicamentos según sea necesario para controlar la inflamación sistémica y prevenir más complicaciones autoinmunes. Bennett and Sons educará al paciente sobre la importancia de la adherencia a la medicación y el seguimiento regular para las pruebas de función tiroidea y la evaluación reumatológica.
+
+Información adicional: 
+Número de cuenta del paciente: 7850-tXPtn
+Dirección del paciente: Aristița Bercu, Continuación Lituania 462 Edif. 319, Depto. 126, 154, 3988 Mexico City Delegacion Iztapalapa, España
+Correo electrónico del paciente: roAl@mail.com
+Número de teléfono del paciente: 2755233489
+Número de seguridad social del paciente: 65455628A
+Número de identificación del paciente: 7850-tXPtn
+Nombre de usuario del paciente: bmBMq4o2
+Número de registro médico del paciente: Mz 236895w
+Profesión del paciente: Controlador financiero
+Plan de salud del paciente: mxASFT rl KcI UECqCwX aIgj0y
+Dirección IP del paciente: 99.193.141.34
+Número de licencia del paciente: 750 359213
+Identificador biométrico del paciente: kTGv-92498
+Identificador de dispositivo del paciente: 340 CNsOZq
+Ubicación del paciente: aeropuerto
+Ciudad del paciente: Mexico City Delegacion Iztapalapa
+Estado del paciente: 12
+País del paciente: Colombia
+Calle del paciente: 338 Peters Fork Apt. 241
+Código postal del paciente: 3988
+Número de fax del paciente: 001-734-689-7364x26201
+URL del paciente: rodriguez.gonzalez-anthony.net"
+

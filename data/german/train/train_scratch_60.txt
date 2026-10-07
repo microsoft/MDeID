@@ -1,0 +1,61 @@
+"PFLEGEKRATZNOTIZ
+
+**_Kopfzeile_**
+
+Fritz Steiner Krankenschwester Logbuch
+Krankenhausname: Boileroom
+Patientenakte: wJoN 700Yz
+
+**_Patienteninformationen_**
+
+Name: Mia Wyss
+Alter: 27
+Hausanschrift: Mia Wyss, Falk-Putz-Ring 95 68, 7380 Satteins, Deutschland
+Kontaktnummer: (817)434-5800
+Krankenversicherung: NizL
+Notfallkontakt: epCIEqqk, (817)434-5800
+Zuständiger Arzt: Fritz Steiner
+
+**_Vitalzeichen_**
+
+Temperatur: 101.2\u00b0F
+Herzfrequenz: 98 bpm
+Blutdruck: 130/85 mmHg
+Atemfrequenz: 20 Atemzüge/min
+O2-Sättigung: 98%
+
+**_Medizinische Beobachtungen_**
+
+Patient hat Fieber und allgemeine Schwäche.
+Sichtbare Geschwüre beobachtet in der Bibliothek. Mögliche Impetigo.
+Haut um die Geschwüre scheint geschwollen und rot.
+Patient berichtet von Juckreiz in der Umgebung.
+
+**_Eingeleitete Maßnahmen_**
+
+- Kühles Schwamm-Bad eingeleitet, um das Fieber zu senken.
+- Acetaminophen 500mg gegen Fieber und Unwohlsein verabreicht.
+- Die Geschwüre mit milder antiseptischer Lösung gereinigt.
+- Topisches Antibiotikum auf die betroffene Stelle aufgetragen.
+- Patienten angewiesen, die verschriebene Medikation fortzusetzen und Kratzen zu vermeiden.
+
+**_Weitere Maßnahmen_**
+
+- Informieren Sie Fritz Steiner über den Zustand des Patienten.
+- Überwachen Sie die Vitalzeichen alle 4 Stunden.
+- Beurteilen Sie die Geschwüre in 24 Stunden erneut.
+- Informieren Sie den Patienten über die Pflege von Impetigo zu Hause.
+- Planen Sie die nächste Nachsorge am 18. Juni 1983 mit Fritz Steiner.
+
+**_Fußzeile_**
+
+Zuletzt aufgerufen von IP-Adresse: 222.36.120.22
+Geräte-ID für die Protokollierung verwendet: 4370 HJEns
+Organisation: Miller und Söhne
+E-Mail für Kommunikation: tetz@hotmail.com
+URL für den Zugriff auf die Online-Akte des Patienten:  www.mcguire.net/tag/main/categoryterms.asp
+Faxnummer für den Dokumentenaustausch: 502.855.8068x0031
+
+Ende der Notiz-------
+"
+

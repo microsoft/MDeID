@@ -1,0 +1,36 @@
+"Nota do Doutor Scratch:
+
+- Paciente: Miguel Lopes
+- ID: 78694 oVkk
+- Idade: 88
+- Condição: Insuficiência Cardíaca Avançada
+- Histórico de DCM: Sim
+- Dispositivo: CRT-D (7 anos atrás), HeartMate II® LVAD (4 anos atrás, ponte para transplante)
+- Sintomas Recentes: VF, insuficiência cardíaca direita, congestão hepática
+- Tratamento: Amiodarona, nifekalant, mexiletina, lidocaína, inibidor de PDE5, diuréticos, otimização da velocidade do LVAD
+
+Observações (Inicial - Pós implante LVAD):
+- EF: 13%
+- Dilatação LV (diástole): 51 mm
+- Regurgitação aórtica: Trivial
+- Contração RV (FAC): 33%
+- VF: Sustentada
+- AF: Frequência crescente (paroxística)
+- Bilirrubina Total: Elevada (piora da função hepática)
+
+Avaliação:
+- Diagnóstico primário: Insuficiência cardíaca avançada (DCM)
+- Complicações: VF, insuficiência cardíaca direita
+- Diagnósticos diferenciais: Progressão da insuficiência cardíaca, cardiomiopatia induzida por arritmia, complicações relacionadas ao dispositivo
+- Prognóstico: Reservado
+
+Plano:
+- Continuar monitorando: Função cardíaca, enzimas hepáticas
+- Ajuste de medicação: Conforme necessário (arritmias, sintomas de insuficiência cardíaca)
+- Configurações do LVAD: Garantir perfusão adequada
+- Acompanhamento: Consultas regulares, monitorar condição e função do dispositivo
+- Educação: Reconhecer sintomas de insuficiência cardíaca, aderência ao plano de tratamento
+- Consulta: Patricia Sousa (equipe de transplante cardíaco)
+
+Nota por: Patricia Sousa (Revisora) em Diocese de Manchester/Hunter-Michael"
+

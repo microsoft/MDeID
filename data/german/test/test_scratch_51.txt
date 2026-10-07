@@ -1,0 +1,74 @@
+"Pflegekratznotiz:
+
+----------------
+Patientenstatus:
+----------------
+- Pt Jana Evrard zeigt Müdigkeit
+- Temp: 37,5\u00b0C
+- BP: 120/80
+- Stats O2: 97%
+- HR: 72 bpm
+- Atemfrequenz: 16 Atemzüge/min
+
+-----------------
+Beobachtungen:
+-----------------
+- Mögliche Infektion
+- Hustet ständig
+- Möglicher Fall von 
+- Trinkt gut, isst ausreichend
+
+-----------------
+Behandlungsplan:
+-----------------
+- Paracetamol verschrieben 
+- Bettruhe empfohlen
+- Regelmäßige Überwachung der Vitalfunktionen
+
+-----------------
+Nachsorge des Arztes: 
+-----------------
+- Konsultation mit Dr. Mathieu De Wilde angeordnet
+- Neubewertung in 48 Stunden
+- Blutproben zur Labortestung gesendet 
+
+-----------------------------
+Zusätzliche Informationen:
+-----------------------------
+- Jana Evrard arbeitet bei Sanchez und Söhne
+- Krankenversicherung: VFn
+- Medizinische Aktennummer 86 sjCzfZS
+- Patientenkontonummer Me ddrbSqn
+- Geräteseriennummer 98345 CZHl
+- Benutzername des Patienten: EYYVNJtb
+- Fahrzeugkennzeichen: 2-8782K
+- Sozialversicherungsnummer: 803-1428604-59
+- Lizenznummer: 3088 mXRcC
+- Biometrischer Identifikator: eo-595543a
+- IP-Adresse: 183.203.42.118
+
+--------------------
+Notfallkontakt:
+--------------------
+- Beziehung: 
+- Kontaktnummer: (745)320-0104x41740
+- E-Mail: ethie@yahoo.com
+  
+-----------------------------
+Kontaktadresse:
+-----------------------------
+- Zuhause: Jana Evrard, Krebsallee 93 128, 7234 Elsbethen-Glasenbach, Belgien
+- Krankenhaus: Französisches Hotel
+- Anderer Ort: Theater
+- Stadt: Blieskastel
+- Staat: Kürenz
+- PLZ: 7234
+
+---------------------
+Weitere Informationen:
+---------------------
+- Fax: (365)218-8353
+- URL:  www.evans.biz/explore/explore/categoriesregister.htm
+
+HINWEIS: Dies ist nur eine Kratznotiz, nicht als vollständiges klinisches Dokument betrachten."
+

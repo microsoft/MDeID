@@ -1,0 +1,49 @@
+"Type de note : Note rapide
+
+----------
+Notes de Nina Goossens
+----------
+
+mardi 20 décembre 2022
+
+Patient : Noah Anderson
+
+ID : PfwTI IUzl
+
+ÂGE : 71
+
+Antécédents de sinusite récurrente, otite moyenne, tympanostomie bilatérale, amygdalectomie, immunothérapie allergénique en cours pour allergies environnementales.
+
+Symptômes présentés :
+- Irritation, rougeur, sensation de corps étranger mobile dans l'œil gauche
+- Début : hier lors d'une activité sportive sur un terrain de football fertilisé avec du fumier
+- Tentatives d'auto-traitement : larmes artificielles, irrigation à l'eau du robinet, sans soulagement
+
+Visite aux urgences :
+- Résultats de l'examen : 11 larves correspondant au stade de premier stade d'O ovis dans l'œil gauche
+- Conjonctive gauche : injectée
+- Mouvements extra-oculaires : intacts
+- Acuité visuelle : normale dans les deux yeux
+- Examen à la lampe à fente : plusieurs larves dans la conjonctive bulbaire, le fornix palpébral
+- Traitement : solution ophtalmique de polysporine-bacitracine-néomycine, albendazole 400 mg par jour pendant 3 jours
+
+Diagnostic : 
+- Principal : Ophtalmomyiase externe due à l'exposition à des larves d'O ovis
+- Différentiel : Autres causes de conjonctivite ou sensation de corps étranger dans l'œil écartées par les résultats objectifs et l'identification confirmée des larves
+- Pronostic : Bon, compte tenu de l'identification et du traitement en temps opportun
+
+Plan : 
+- Continuer la solution ophtalmique comme indiqué
+- Terminer le traitement par l'albendazole
+- Rendez-vous de suivi avec l'ophtalmologiste : mardi 20 décembre 2022
+- Éducation du patient :
+    - Importance de porter des lunettes de protection lors de la pratique de sports, surtout dans des environnements à risques d'exposition accrus
+    - Importance de maintenir une bonne hygiène
+    - Consulter un médecin si les symptômes réapparaissent ou si de nouveaux symptômes se développent
+
+Nina Goossens
+
+----------
+Fin de la note
+----------"
+

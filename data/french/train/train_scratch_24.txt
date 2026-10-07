@@ -1,0 +1,41 @@
+"Note de l'infirmière Scratch
+--------------------
+Signes vitaux : 
+TA : 120/80
+FC : 80 bpm
+FR : 20 bpm
+Temp : 98.6 F
+Sat O2 : 96%
+
+Résumé du patient : 
+Caden Tremblay: Toux sèche, difficulté à respirer
+: Traitement par nébuliseur, thérapie O2
+Observations : 
+Inflammation bronchique notée, possible : asthme bronchique
+
+Progression du traitement:
+Le traitement par nébuliseur montre un certain soulagement. Les niveaux d'O2 sont stables après le traitement.
+
+Plan:
+Continuer les traitements par nébuliseur, surveiller les niveaux d'O2, envisager une escalade vers Salomé Vincent en cas d'absence d'améliorations
+
+Notes informelles:
+Noté Caden Tremblay luttant avec la toux ; respiration difficile, traitement par nébuliseur quelque peu efficace, surveillera de près
+
+Informations sur l'appareil:
+: Numéro de série du nébuliseur
+: Numéro de série de la thérapie à l'oxygène
+
+Contact:
+Contact d'urgence 776.939.1776: Contact d'urgence du patient
+Vincentmé@yandex.com: Pour une communication directe
+
+Détails supplémentaires:
+70: Âge du patient
+mohGrskn: Nom d'utilisateur du portail patient
+Cytogénéticien clinique: Occupation actuelle
+gyztq QZ8t: Fournisseur d'assurance maladie
+001 849LxF: Identifiant du patient divers
+Waller and Sons: Organisation associée
+Université de Princeton: Hôpital référent"
+

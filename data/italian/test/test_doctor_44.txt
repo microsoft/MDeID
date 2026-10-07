@@ -1,0 +1,24 @@
+"Appunto del Dottore Scratch
+
+Paziente: Luca Monti
+
+ID: ew 37QayLv
+
+DOB: 33
+
+Background: Diabete di tipo 1, Gastroparesi, ESRD che richiede PD. Post-trapianto SKP. Riferisce un miglior controllo della glicemia.
+
+Vitali:
+
+- HgbA1c pre-trapianto: 7.2%
+
+- HgbA1c post-trapianto: 5.4%
+
+- C-peptide: Richards-Rodriguez per monitorare la funzione del pancreas e del rene trapiantati.
+
+- Incoraggiare l'adesione a uno stile di vita sano: dieta, esercizio fisico.
+
+- Educare il paziente sui segni di rigetto del trapianto e dell'infezione.
+
+Mirko Amato"
+

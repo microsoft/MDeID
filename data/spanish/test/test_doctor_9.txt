@@ -1,0 +1,36 @@
+"Nota de Rascunho del Doctor:
+
+Subj: Mariela Ocampo, ID: 06 NuFGToi, Edad 80, Receptora de Trasplante
+
+- Hx: 
+    - Trasplante de hígado '98, causa: cirrosis alcohólica, carcinoma hepatocelular
+    - Linfoma difuso de células B grandes previo, tratamiento: quimioterapia '06
+    - Enfermedad psiquiátrica, epilepsia postraumática
+    - Niega síntomas de encefalopatía
+    - Elevaciones intermitentes de transaminasas desde '14, sospecha de uso de alcohol
+    - Ascitis, disfunción del injerto, agosto viernes, 24 de septiembre de 1982
+
+- Rx: 
+    - Tacrolimus, niveles ~2 μg/l 
+    - Prednisona, 5 mg diarios
+
+- Obs: 
+    - Función hepática: elevaciones moderadas de transaminasas, colestasis
+    - Serología: Hep B, C, CMV negativos, virus de Epstein-Barr dentro de los límites normales, anti-HEV IgM, IgG positivos
+    - PCR: ARN del HEV en plasma, muestra de suero almacenada '14, infección crónica por Hep E
+    - Mejora de la función hepática después de la introducción de ribavirina, septiembre viernes, 24 de septiembre de 1982
+
+- Evaluación: 
+    - Cirrosis del injerto descompensada, infección crónica por Hep E diagnóstico primario
+    - Historial de consumo de alcohol, posible contribuyente a la disfunción hepática
+    - Descartados diagnósticos diferenciales previos: reactivación de Hep B, C, CMV
+
+- Plan: 
+    - Continuar con la monitorización de la función hepática, tacrolimus
+    - Mantener las dosis actuales de tacrolimus, prednisona
+    - Continuación de la terapia con ribavirina, ajuste basado en la respuesta, tolerancia
+    - Consejo: Abstinencia de alcohol, prevenir más daño hepático
+    - Seguimientos regulares: monitorizar la progresión de la enfermedad hepática, ajuste del tratamiento según sea necesario
+
+Liliana Ortega"
+

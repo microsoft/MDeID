@@ -1,0 +1,110 @@
+"Nota de Enfermería:
+
+PACIENTE: Goran Mišić
+
+-----
+
+Signos Vitales: 
+
+PA - 120/80 
+
+FC - 110 lpm 
+
+Temp - 38.1°C 
+
+Observaciones:
+
+- Respiración: Trabajosa 24 
+
+- Tos: Persistente 
+
+- Esputo: Amarillento
+
+- Radiografía de tórax: LAw HERMgy
+
+Evaluación: 
+
+- Condición: Bajo monitoreo
+
+- Gravedad de la enfermedad: Moderada 
+
+- Sonido respiratorio: Crepitante
+
+- Diagnóstico: Neumonía
+
+Plan: 
+
+- Antibióticos: Iniciados 
+
+- Oxígeno: Administrado 
+
+- Evaluación de seguimiento: 21/9/23
+
+Información de Contacto:
+
+- Teléfono: 675.286.2448
+
+- Correo electrónico: rat@outlook.com
+
+- Contacto de emergencia: Goran Mišić
+
+Dirección: Goran Mišić, Ronda Jose Antonio Arnau 428 Piso 2 129, Isodrin, Villagran 20084, Peru
+
+Ciudad: Villagran 
+
+Estado: QUINTANA ROO
+
+Código Postal: 20084 
+
+País: Mexico
+
+Información del Proveedor:
+
+- Doctor: Matías Herrera
+
+- Hospital: Zaragoza
+
+Información Adicional:
+
+- Número de cuenta: AHuHKB-nEJ 
+
+- Plan de Salud: 4aVW8Q
+
+- ID: AHuHKB-nEJ
+
+Información del Dispositivo: 
+
+- ID del dispositivo: 260727 ZKs
+
+- Tipo de dispositivo: Nebulizador 
+
+Información de Internet:
+
+- Dirección IP: 42.156.165.58
+
+- Nombre de usuario: YeJUp0FN
+
+Información de Verificación:
+
+- BioID: 82 LNBDtzP
+
+- Licencia: 01616 8990
+
+- Seguridad Social: QLTC891139ANDWPO13
+
+Ubicación-Otros: parque
+
+Profesión: Autor técnico
+
+Organización: Lewis and Sons 
+
+URL:  waters.info/wp-content/blogfaq.asp 
+
+Vehículo: 781A
+
+Fax: +1-262-285-6994
+
+----
+
+Nota: Esta es una nota temporal, a la espera de que se complete la evaluación médica completa."
+

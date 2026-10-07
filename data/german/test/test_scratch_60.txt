@@ -1,0 +1,53 @@
+"\"Pflegekratznotizen - 2. Mai 1977\"
+
+======== Patientendetails =========
+Name: Martin Gerber
+Alter: 71
+
+======== Vitalzeichen =========
+BP - 120/80
+HR - 78 bpm
+Temp - 98.6\u00b0F
+RR - 18 rpm
+
+======== Beobachtungen =========
+Häufigkeit des Wasserlassens - Erhöht
+Unbehagen - Mild 
+
+======== Diagnose =========
+Mögliche Harnwegsinfektion
+
+======== Behandlungsplan =========
+Überwachung der Vitalzeichen alle 4 Stunden
+Verabreichung von Antibiotika
+
+======== Verschiedenes =========
+Ort: Schule
+Krankenhaus: Saint-Willibrord
+Gesundheitsplan: nAZdV
+Arzt: Dominik Moser
+Benutzername: OfSYzWc2
+IP-Adresse: 73.224.189.64
+Gerät: Pjy 617571
+Medizinische Akte: 434 112HCv
+Konto: 388645 oZl
+IDNUM: 388645 oZl
+Geburtsdatum: 2. Mai 1977
+Bioid: aRPD keoJE
+Lizenz: nvp-wdjxMW
+Sozialversicherung: 804584-2836
+Fahrzeug: 253239
+Organisation: Warren, Davis und Johnson
+Beruf: Einkäufer, industriell
+URL: taylor-vasquez.org
+Adresse: Martin Gerber, Hauffergasse 123 81, 8912 Senden, Österreich
+Stadt: Weiterstadt
+Bundesland: Niedersachsen
+Land: Belgien
+PLZ: 8912
+Telefon: +1-283-747-1843x4882
+Fax: +1-573-658-4370x887 
+
+======== Notiz =========
+Patient Martin Gerber zeigt Anzeichen einer Harnwegsinfektion. Erhöhte Häufigkeit des Wasserlassens festgestellt, mit leichtem Unbehagen. Beginnt mit Antibiotika und überwacht die Vitalzeichen alle 4 Stunden. Dominik Moser wurde über die Situation informiert."
+

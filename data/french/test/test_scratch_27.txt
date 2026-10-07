@@ -1,0 +1,66 @@
+"Note de l'infirmière Scratch :
+
+Patient : Justine Adam
+Âge : 106
+
+---------------------------
+| Signes vitaux            |
+---------------------------
+| TA : 112/80              |
+| FC : 78                  |
+| FR : 16                  |
+| Temp : 37.1C             |
+| SPO2 : 98%               |
+---------------------------
+
+Note de Scratch :
+Inconfort général, se plaint de se sentir "démangeaisons". Le patient pourrait avoir attrapé une infection fongique. Examen nécessaire. Informé Mateo Roussel à ce sujet. Médicaments sur ordonnance examinés. 
+
+---------------------------
+| Observations supplémentaires |
+---------------------------
+| Peau : Rougeur           |
+| Éruption : Oui           |
+| Démangeaisons : Élevées  |
+---------------------------
+
+---------------------------
+| Coordonnées              |
+---------------------------
+| Email : Matesel@who.int          |
+| Téléphone : 9395419854          |
+| Adresse : Justine Adam, 160 1490 Mary Bypass, 8366 Hénin-Beaumont, France      |
+---------------------------
+
+---------------------------
+| Détails de l'identité du patient |
+---------------------------
+| DMR : ETCM EblTU    |
+| Compte : 22021 lSsC      |
+| N° de sécurité sociale : 268-565-654   |
+---------------------------
+
+---------------------------
+| Autres détails           |
+---------------------------
+| ID de l'appareil : mWNV 924ZN     |
+| Plan de santé : CiIoQZ5 SMJll|
+| Profession : Pharmacologue|
+| Organisation : Williams and Sons|
+---------------------------
+
+---------------------------
+| Informations supplémentaires |
+---------------------------
+| Ville : Donnenheim            |
+| État : Belfort          |
+| Pays : Suisse      |
+| Licence : maI-PINpyO      |
+| BioID : XP-2016IIZ          |
+| Nom d'utilisateur : pbvuomTf   |
+| Hôpital : Moody—Westwood—Port Coquitlam    |
+---------------------------
+
+Note : Une visite de suivi est nécessaire. Réévaluer l'état dans vendredi 4 juin 1976 jours. Surveiller toute aggravation des symptômes. Informer Mateo Roussel si des changements sont observés.
+"
+

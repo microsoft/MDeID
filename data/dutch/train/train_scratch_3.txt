@@ -1,0 +1,57 @@
+"VERPLEEGKUNDIGE KORT NOTITIE
+
+### Patiëntgegevens
+
+- Patiënt: Lennert De Smet
+- Leeftijd: 45
+- Stad: Piceworth
+- Staat: 863
+- Land: België
+- Adres: Lennert De Smet, Summercastle 60, 2895 Barksome, België
+- Telefoon: (986)717-3366x2261
+- Email: xirt@un.org
+- Zorgplan: RBsg2bh
+
+----
+
+---- VITALS ----
+BP: 125/85 mmHg
+HR: 85 bpm
+Ademhalingsfrequentie: 16 ademhalingen/min
+
+---- OBSERVATIES ----
+- Huid: Uitslag/irritatie (vooral op de onderste ledematen)
+- Glucose: 170 mg/dL (Hoog)
+
+---- VERPLEEGKUNDIGE NOTITIE ----
+Huidaandoening is prevalent. Correleert met hoge glucose - mogelijke diabetes. 
+
+Contact:
+Dr. Maxim Baert
+Locatie: electronics
+
+---- ANDERE INFORMATIE ---- 
+- BioID: 883770 780
+- Apparaat: 9253 489Dj
+- Medisch dossier: iY ilKeZRV
+- Account: WepSUF aWi
+- SSN: 011-6404601-64
+- Licentie: 761796-qYq
+- Voertuig: B94-WEC
+- IP-adres: 57.251.109.83
+- ID-nummer: WepSUF aWi
+- Gebruikersnaam: nDeSme
+- Postcode: 2895
+- Fax: (323)681-7733x3936
+
+### Volgende stappen
+Verwijzing naar Maxim Baert voor verdere evaluatie. Locatie van zorg: vliegveld.
+
+### Beroep en Organisatie 
+Beroep: Transport planner
+Organisatie: Romero, Hansen en Porter
+
+--------
+
+Einde van de notitie."
+

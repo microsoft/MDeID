@@ -1,0 +1,35 @@
+"S: Le patient Alexis Li, âgé de 43 ans, a été référé pour troubles de la marche et microcéphalie. Les parents signalent un récent épisode de déconnexion de l'environnement, des antécédents de convulsions fébriles isolées, des troubles du sommeil et des retards de développement principalement dans les compétences motrices. L'enfant présente également des problèmes de comportement similaires à ceux du TDAH, qui se sont légèrement améliorés grâce à une intervention psycho-pédagogique et à un traitement par méthylphénidate, bien que les problèmes de sommeil se soient aggravés.
+
+O: L'examen physique a précédemment confirmé la microcéphalie. Un EEG réalisé lors d'un épisode de déconnexion était normal. Une IRM a montré un encéphale normalement structuré. Les tests génétiques ont révélé une délétion de base ydGIXY-488 dans le marqueur C7 (bases 2475-2657), sans aucune altération trouvée dans les gènes LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8 et PAX2.
+
+A: Le diagnostic principal est la microcéphalie avec des problèmes de développement et de comportement associés, y compris des symptômes ressemblant au TDAH. La délétion génétique peut contribuer à sa présentation clinique, bien que les principaux gènes neurodéveloppementaux testés étaient normaux. Les diagnostics différentiels pourraient inclure d'autres troubles génétiques ou métaboliques non encore identifiés. Le pronostic est prudent, nécessitant une surveillance continue et une gestion des symptômes.
+
+P: Continuer les interventions psycho-pédagogiques et le méthylphénidate pour les symptômes similaires au TDAH. Prévoir un EEG de suivi pour enquêter sur l'aggravation des problèmes de sommeil. Maintenir des évaluations régulières du développement et ajuster les traitements si nécessaire. Sensibiliser les parents à l'importance de surveiller l'état du patient et de respecter les plans de traitement. Prendre un rendez-vous de suivi dans trois 29 avril 1972 ou plus tôt si les symptômes s'aggravent.
+
+Notes supplémentaires:
+- Domicile du patient Alexis Li, 02837 Martin Stream Suite 403 130, 4715 Jodoigne, Belgique.
+- Le médecin référent est Nina Steiner.
+- Le numéro de compte du patient est 2961 Wlihs.
+- L'appareil du patient utilisé pour le suivi est im-vpiWNaI.
+- Le nom d'utilisateur du patient pour accéder aux dossiers médicaux en ligne est BoiYSE9R.
+- Le véhicule du patient utilisé pour le transport est 675 ADR.
+- Le numéro de sécurité sociale du patient est 082-845-075.
+- Le numéro de permis de conduire du patient est pr qqHvYjo.
+- L'identifiant biométrique du patient est 016-76447M.
+- L'identifiant personnel du patient est 2961 Wlihs.
+- L'adresse IP du patient utilisée pour accéder aux dossiers médicaux en ligne est 94.84.66.44.
+- L'emplacement du patient où les symptômes sont apparus est centre commercial.
+- Le plan d'assurance maladie du patient est cFCz.
+- La profession du patient est Gardien/ranger.
+- Le lieu de travail du patient est Campbell, Hunt and Price.
+- L'email du patient pour la communication est eiNi@red-cross.org.
+- Le numéro de téléphone du patient pour la communication est 001-406-509-1904.
+- Les dossiers médicaux du patient peuvent être consultés en ligne à l'adresse barrett.miller.info.
+- Le numéro de fax du patient pour la communication est 404.773.7494x70764.
+- La ville de résidence du patient est Neufchâtel-Hardelot.
+- Le pays de résidence du patient est Canada.
+- L'état de résidence du patient est 89.
+- La rue de résidence du patient est 73160 Rodriguez Extension.
+- Le code postal du patient est 4715.
+- L'hôpital où le patient est traité est Overseas."
+

@@ -1,0 +1,84 @@
+History and Physical
+
+Patient: William Thomas
+
+DOB: Jun/2002
+
+Physician: Drew Pelletier
+
+Chief Complaint and Reason for Visit:
+
+The patient presents with complaints of recurrent chest pain, described as angina pectoris. Episodes are usually accompanied by shortness of breath. 
+
+Past Medical History:
+
+Patient has a known history of coronary arteriosclerosis. 
+
+Allergies And Intolerances:
+
+No known drug allergies
+
+Family History:
+
+History of cardiovascular diseases in the family, particularly paternal. 
+
+General Status:
+
+Patient appears anxious due to the recurrent nature of symptoms. 
+
+Medications:
+
+Current medications include angiotensin-converting enzyme (ACE) inhibitors and statins. Patient has been advised to take aspirin as needed for acute chest pain episodes.
+
+Physical Exam:
+
+Cardiovascular examination reveals a Normal S1, S2 with no murmurs or additional heart sounds. Chest and lung exam unremarkable. 
+
+Review of Systems:
+
+Chest - Reports of angina pectoris, primarily with exertion.
+
+Cardiovascular - Previously diagnosed with coronary arteriosclerosis.
+
+Respiratory - Reports shortness of breath, typically associated with chest discomfort.
+
+Social History:
+
+Patient denies smoking, alcohol, and illicit drug use. Sedentary lifestyle with limited physical activities. 
+
+Vital Signs:
+
+Blood Pressure: 140/90 mmHg
+
+Heart Rate: 80 bpm
+
+Respiratory Rate: 18 breaths per minute
+
+Temperature: 98.6 'F
+
+O2 Sat: 98% on room air
+
+Results:
+
+ECG showed non-specific T wave changes. Awaiting results from the stress test and cardiac enzyme panel.
+
+Assessment:
+
+Patient's symptoms are suggestive of unstable angina due to underlying coronary arteriosclerosis.
+
+Plan:
+
+1. Continue current medications.
+
+2. Arrange for a repeat stress test.
+
+3. Referral to a cardiologist for further management.
+
+4. Patient education regarding lifestyle modifications, including a balanced diet and regular physical exercise.
+
+Instructions:
+
+Patient is advised to immediately report if the chest pain becomes constant, increases in intensity, or is associated with additional symptoms such as lightheadedness, nausea, or profuse sweating.
+
+[End of Note]
+

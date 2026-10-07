@@ -1,0 +1,44 @@
+"Informe de Atención al Paciente: Asma Bronquial
+
+Despacho: 
+
+La unidad de Servicios Médicos de Emergencia (EMS) fue enviada a la residencia de Inmaculada Navarro después de una llamada al 911. La llamada fue recibida en el centro de EMS ubicado en gimnasio desde una dirección IP 10.251.169.236 a través del sistema de respuesta de emergencia en línea. El llamante, identificado como fYJdkpnM, informó que el paciente estaba sufriendo un ataque de asma. El despacho fue iniciado bajo el número de cuenta sNL-vOsZeT.
+
+Descripción del paciente:
+
+Al llegar, encontramos a Inmaculada Navarro, una persona de 66 años, que estaba visiblemente angustiada. La impresión general indicaba que el paciente estaba sufriendo de asma bronquial severa. La residencia del paciente estaba en bajo el código postal 2FM9YZ05. El vehículo del paciente 789 1IV estaba estacionado afuera. 
+
+Historia de la enfermedad actual:
+
+Inmaculada Navarro informó que ha sufrido de una tos seca durante los últimos días. El paciente notó una dificultad creciente para respirar, que fue identificada como una probable exacerbación del asma bronquial crónica. El último episodio similar a este se informó hace aproximadamente 2 meses con síntomas similares. 
+
+Historia médica:
+
+El número de registro médico del paciente jvhSR-KvTb en St Swithin indicaba una historia de asma bronquial. El número de seguridad social del paciente NIMC763131MHHAJY16 también estaba en el archivo. 
+
+Evaluación:
+
+Inmaculada Navarro estaba consciente y alerta pero en moderada dificultad respiratoria. La frecuencia respiratoria estaba elevada y se podían escuchar sonidos de sibilancias. La piel del paciente estaba ligeramente pálida y fría al tacto. No se pudieron detectar hallazgos significativos en la evaluación ABCD.
+
+Tratamiento:
+
+El tratamiento inicial implicó ayudar al paciente a usar su inhalador prescrito LTMk-vGueB. La respiración del paciente comenzó a mejorar gradualmente a medida que el inhalador surtía efecto. Luego, el paciente fue asegurado en la camilla para el transporte, mientras se monitoreaban continuamente los signos vitales y los sonidos pulmonares.
+
+Transporte:
+
+El paciente fue transportado a St Swithin para una evaluación y manejo más detallados. Durante el transporte, se evaluó la condición del paciente cada 5 minutos y se informó al personal del hospital a través del dispositivo de comunicación EMS LTMk-vGueB. El número de identificación del paciente sNL-vOsZeT se utilizó en la comunicación con el hospital.
+
+Transición de Cuidado:
+
+A su llegada, la atención del paciente fue transferida al Dr. Andrés Maidana en St Swithin. Toda la documentación necesaria, incluyendo la historia médica del paciente, fue compartida a través de un correo electrónico seguro danés@unicef.org y fax 001-737-410-0616. La ambulancia fue conducida por un personal de EMS certificado cuyo número de licencia de conducir es aM 996615y.
+
+Otra información del paciente:
+
+El paciente está empleado en Wilson-Todd, tiene el plan de salud Vb9o1, y su profesión es Contador, administración certificada. Los datos biométricos del paciente 27 duZjuWj se almacenaron de forma segura en la base de datos del hospital.
+
+Informe por: fYJdkpnM 11/4/03
+
+(Documentado de acuerdo con las pautas de HIPAA, y todos los datos del paciente se almacenan de forma segura: URL  porter.com/tag/tag/wp-contenthomepage.php)
+
+NOTA: Este es un documento sintético y todos los marcadores de lugar de PHI deben ser reemplazados por información real mientras se garantiza la privacidad y confidencialidad de los datos del paciente."
+

@@ -1,0 +1,45 @@
+"**NURSE NOTE**
+
+**[Header]**
+
+**Patient Information:**
+Patient Name: Gerald McCoy
+Medical Record Number: 70-6693ONw
+Account Number: 775-863Evt
+
+**Contact Information:**
+Home Address: Gerald McCoy, 156 Claudian, Ame, 26 4039, United States
+Phone Number: 979.870.7364
+Email Address: cCarteh@microsoft.org
+
+**Provider Information:**
+Primary Care Physician: John McCarter
+Hospital: Milan Genoa Albisola
+
+**[Body]**
+
+The patient, who has a background of working in areas identified as restaurant, came forward with issues of arthralgia and oedema in both hands and feet, persisting for a duration of time that exceeds 6 weeks. The patient does not report any fever or recent infections and there is no history of similar episodes. The patient is experiencing a progressive loss of sensitivity in a glove and sock pattern in both hands and feet, which they describe as hyposthesia/dysestesia.
+
+Upon physical examination, bilateral MCPJ, PIPJ, tibiotarsal, and metatarsophalangeal joints were observed to be swollen and tender, accompanied by pitting oedema. Laboratory tests indicated an elevated erythrocyte sedimentation rate (45 mm/h, normal 82-year
+Social Security Number: 391-136-148
+Health Plan: 215V
+Employer: Kelley Inc
+Profession: Orthoptist
+Driver's License Number: rkQJJs sct
+Device Identifier: UPLP 47uul
+Username: yGerald
+Vehicle Identifier: 84G Q41
+Biometric Identifier: kRKFvE-ZxQ
+IP Address: 32.165.105.185
+Personal Identifier: 775-863Evt
+City: Ame
+Country: New Zealand
+State: 759
+Street: 23606 Justin Ridge
+URL: perez-patel.roberts.burns.net
+Zip code: 4039
+Fax Number: (914)231-3135
+
+**Nurse Signature**
+"
+

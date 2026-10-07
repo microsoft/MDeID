@@ -1,0 +1,41 @@
+"**Intestazione:**
+ID Paziente: Francesca Pellegrin
+Data di nascita: mercoledì 15 dicembre 1971
+Data di ammissione: mercoledì 15 dicembre 1971
+Numero di cartella clinica: 12 IbaJzAc
+Numero di conto: WsndWk-KlS
+Numero di serie del dispositivo: 636-946377
+Nome utente per il portale paziente: ancescaegrin
+Identificatore del veicolo: 655-HLJA
+SSN: 353009-2808
+Numero di licenza: 9398-143vi
+Identificatore biometrico: nwaWi-FCtp
+Indirizzo IP: 223.181.68.104
+Identificatore unico: WsndWk-KlS
+
+**Nota narrativa infermieristica:**
+
+Il paziente, di 84 anni, con una storia di tachicardia ventricolare idiopatica sintomatica sostenuta (VT), è stato impiantato con un defibrillatore cardioverter impiantabile a doppia camera (ICD) il mercoledì 15 dicembre 1971 per la prevenzione secondaria. Dal mercoledì 15 dicembre 1971, il paziente ha sperimentato diverse scariche ICD e recidive di VT nonostante abbia subito tre procedure di ablazione con catetere il mercoledì 15 dicembre 1971, che sono state eseguite senza un sensore di forza di contatto (CF) e utilizzando un approccio retrogrado transaortico. Il paziente riferisce fino a 97 shock ICD appropriati dall'impianto e ha avuto episodi di tempeste aritmiche.
+
+L'ultimo ECG a 12 derivazioni registrato del paziente mostrava ritmo sinusale con contrazioni ventricolari premature originanti dal mid-inferoseptum del ventricolo sinistro. L'ecocardiografia transtoracica indicava una normale funzione sistolica biventricolare e una regurgitazione della valvola mitrale da lieve a moderata. I parametri di ablazione includevano potenza RF a 50 W, temperatura massima di 45\u00b0C, e flusso di irrigazione a 15 mL/min.
+
+La diagnosi primaria è tachicardia ventricolare idiopatica ricorrente, con il paziente che sperimenta molteplici shock ICD e tempeste aritmiche nonostante le precedenti terapie di ablazione e i farmaci antiaritmici. Le diagnosi differenziali potrebbero includere altre forme di aritmie ventricolari o malattie cardiache strutturali, sebbene la frazione di eiezione conservata e l'origine specifica del VT suggeriscano un processo aritmico focale.
+
+Il piano di gestione include un attento monitoraggio degli episodi aritmici del paziente e della funzione ICD. Saranno considerate le modifiche ai farmaci antiaritmici, e potrebbero essere necessarie ulteriori procedure di ablazione se il VT persiste. Al paziente sarà insegnato a riconoscere i sintomi degli eventi aritmici e l'importanza delle visite di controllo regolari per valutare la funzione del dispositivo e l'efficacia del trattamento.
+
+**Piede di pagina:**
+
+Indirizzo: Francesca Pellegrin, 81651 Cox Village 124, 9091 Quattro Castella, Svizzera
+Ospedale: Justice Marshall
+Informazioni aggiuntive sulla posizione: panchina
+Piano sanitario: IKWcwi
+Professione: Responsabile dei sistemi informativi
+Organizzazione: Garza Ltd
+Prossimo appuntamento programmato: mercoledì 15 dicembre 1971
+Medico di medicina generale: Laura Keller
+Email: ellra@hotmail.com
+Contatto di emergenza: Francesca Pellegrin
+Numero di telefono: 288-824-6628
+Numero di fax: 4687787360
+Sito web: mitchell.gregory.net"
+

@@ -1,0 +1,56 @@
+"Nota Narrativa de Enfermagem para Paciente Pediátrico com Distress Respiratório
+
+Subjetivo: O paciente Tomás Teixeira, um menino de 105 anos, foi trazido ao nosso departamento de emergência apresentando sinais de distress respiratório. Não havia febre presente. De acordo com o relato do cuidador, Tomás Teixeira vem experimentando episódios repetidos de tosse e chiado por um mês, com os sintomas não mostrando melhora apesar dos medicamentos, incluindo antibióticos e esteroides para um diagnóstico suspeito de asma. Não houve histórico relatado de engasgo, disfagia, baba, atopia ou problemas perinatais de natureza patológica.
+
+Objetivo: Ao exame, Tomás Teixeira estava alerta, sem febre com uma temperatura de 37,5°C, apresentando taquicardia com uma frequência cardíaca de 130 batimentos por minuto e taquipneia com uma frequência respiratória de 40 respirações por minuto. Sua saturação de oxigênio foi marcada em 93%. O exame físico revelou retração supraesternal, ronco disperso e chiado difuso. No entanto, não foram observados sinais de desidratação, desnutrição ou cianose. O exame cardiovascular não indicou quaisquer anormalidades. Os exames laboratoriais mostraram um hemograma completo normal e uma proteína C-reativa de 14 mg/l. Uma radiografia de tórax identificou um corpo estranho no mediastino superior.
+
+Análise: Nosso diagnóstico primário para Tomás Teixeira é distress respiratório devido a um objeto estranho - um botão de roupa alojado no esôfago torácico superior. Isso foi inicialmente diagnosticado erroneamente como asma. O diagnóstico diferencial incluiu asma e outras causas de distress respiratório pediátrico. O prognóstico, após a remoção do corpo estranho, é bom, sem sinais de estenose ou perfuração e recuperação satisfatória ao longo do último ano.
+
+Plano: O corpo estranho foi removido com sucesso por meio de hipofaringoscopia realizada sob sedação. No pós-operatório, Tomás Teixeira foi tratado com fluidos intravenosos e corticosteroides para reduzir a inflamação periesofágica. Ele recebeu alta 24 horas após o procedimento com uma dieta líquida clara e não apresentou sinais de complicações ou recorrência de sintomas. O acompanhamento deve incluir monitoramento para quaisquer sinais de danos ao esôfago ou problemas respiratórios. É recomendada uma educação adicional sobre a prevenção da aspiração de corpos estranhos para os cuidadores.
+
+---
+
+**Dados do Paciente**
+- Número do Prontuário Médico: TjzGbz-996
+- Número da Conta: kMsnQ-Quzf
+- ID do Paciente: kMsnQ-Quzf
+- Número do Seguro Social: 12958471-5
+
+**Informações de Contato**
+- Endereço: Tomás Teixeira, Rua Simão Cardoso, 286 110, 6241 Parintins, Portugal
+- Telefone: 879.419.6345
+- Email: rha@yahoo.com
+
+**Informações Adicionais**
+- Médico: Rodrigo Cunha
+- Hospital: Académie des
+- Plano de Saúde: 3difVYXQ
+
+**Contato de Emergência**
+- Nome: Tomás Teixeira
+- Telefone: 879.419.6345
+- Relação: 
+
+**Informações Digitais**
+- Dispositivo: 297-QFHqaE
+- Endereço IP: 198.41.99.228
+- Nome de usuário: LTrEHIEw
+- URL: williams.com
+- Fax: (578)959-1092
+
+**Informações Pessoais**
+- Idade: 105
+- Profissão: Designer de produtos
+- Organização: Hayden-Sandoval
+- Licença: dzi tSJxvu
+- BioID: ZjvOu-nhnc
+- Veículo: C35-BSH
+
+**Informações de Localização**
+- Cidade: Jacundá
+- Estado: 67
+- País: Brasil
+- Rua: 852 Teresa Villages
+- CEP: 6241
+- Outra Localização: estádio"
+

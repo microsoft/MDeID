@@ -1,0 +1,41 @@
+"Encabezado: Documento de Admisión del Paciente
+---------------------------------------
+Información del Paciente: Eliana Pérez
+Fecha de Admisión: 1 de enero de 1974
+
+Asunto: Narración Subjetiva
+---------------------------------------
+Eliana Pérez, un hombre de 41 años de ascendencia mixta México, presentó una sensación anormal, específicamente, disminución de la sensibilidad desde el labio inferior derecho extendiéndose hasta la región mental. Su estado físico general se informó como moderado, y su estado nutricional se evaluó como favorable. No se observaron otros factores significativos en la evaluación del Oficial de información de carreras.
+
+Objetivo: Hallazgos Objetivos
+---------------------------------------
+La imagenología diagnóstica, incluyendo una tomografía computarizada (TC) de la región facial de Eliana Pérez, reveló una zona radiolúcida redonda en el cuerpo mandibular derecho. Un posterior escaneo de resonancia magnética (RM) destacó una intensidad de señal alta irregular en las secciones horizontales STIR, así como la dilatación del canal mandibular derecho en las secciones sagitales. Los resultados de la biopsia indicaron un schwannoma que involucra la región Antoni A, sugiriendo una lesión inmadura con potencial de crecimiento activo. Durante la cirugía, se encontró un tumor quístico (que mide 3.2 x 1.0 cm) asociado con el nervio alveolar inferior, el cual fue ligado y extirpado. Los seguimientos postoperatorios mostraron una radiopacidad mejorada en el sitio de la herida, lo que significa un crecimiento óseo saludable.
+
+Evaluación: Diagnóstico y Pronóstico
+---------------------------------------
+El diagnóstico principal para Eliana Pérez es un schwannoma de la región mandibular derecha. Se realizó una extirpación quirúrgica exitosa, y no se encontraron células tumorales en los márgenes de la muestra de nervio resecada. El pronóstico parece prometedor, siempre que se mantenga un seguimiento regular.
+
+Plan: Plan de Tratamiento
+---------------------------------------
+Eliana Pérez se sometió a la extirpación del tumor bajo anestesia general, mostrando resultados positivos después de la cirugía. Se planean seguimientos regulares para evaluar el crecimiento óseo y asegurar que no haya recurrencia del tumor. Se aconseja a Eliana Pérez que mantenga su estado nutricional e informe cualquier nuevo síntoma o preocupación sin demora.
+
+Pie de página: Información de Contacto y Detalles Adicionales
+---------------------------------------
+Contacto de Emergencia: 001-415-245-4755x469
+Información del Vehículo: 969-BVD
+Dirección Residencial: Eliana Pérez, Pasaje Manuel Mas 980 Apt. 52 159, Kamarupa, TOLEDO 49922, Perú
+Correo Electrónico: íaa@zoho.com
+Proveedor de Salud: Mía Herrera
+Plan de Salud: cLXxnMg
+Hospital: Toronto Southwest
+Número de Registro Médico: RccrBR-034
+Número de Cuenta: IAEKa-dNpq
+Identificador del Dispositivo: 69-370958v
+Número de ID: IAEKa-dNpq
+Número de Seguridad Social: 34543877K
+Número de Licencia: 3489 egvId
+Identificadores Biométricos: Pc 532JJNu
+Dirección IP: 176.177.216.254
+URL: http://delacruz.com/search/postshome.php
+Fax: 622.465.8753x744"
+

@@ -1,0 +1,53 @@
+"Nota de Raspadura del Doctor
+---------------------------
+Paciente: Katherine Leblanc
+ID: 810-725tkz
+
+Problemas Reportados
+----------------
+- Fatiga general durante 5 años
+- Entumecimiento del lado derecho del cuerpo durante 3 años
+- Disnea al esfuerzo durante 1 año
+- Pérdida de peso de 46 a 41kg en los últimos 5 años
+- Diagnóstico previo: OPLL (Columna Cervical) por Pablo Arias
+- No fumadora
+
+Signos Vitales & Observaciones
+----------------------
+- Temperatura corporal: 36.2\u00b0C
+- Frecuencia del pulso: 71 bpm
+- Presión arterial: 103/56 mm Hg
+- Movimiento torácico disminuido
+- Debilidad muscular en la extremidad superior derecha
+- Entumecimiento de las extremidades
+- Claudicación
+- Espirometría: Trastorno de ventilación restrictiva
+- Puntuación JOA: 14 (Mielopatía cervical leve)
+
+Informes de Imágenes
+----------------
+- Radiografía y TC de tórax: Normal, disminución del movimiento diafragmático
+- RM (Columna Cervical): Compresión severa de la médula cervical en C3/4, cambios atróficos, lesión intramedular de la médula espinal
+
+Evaluación
+------------
+- Diagnóstico primario: Mielopatía cervical secundaria a OPLL
+- Posible trastorno neuromuscular temprano debido a la compresión de la médula espinal
+- Trastorno respiratorio asociado
+- Diagnósticos diferenciales: Otras causas de neuropatía y mielopatía
+
+Plan
+------
+- Referir al neurólogo para una evaluación más detallada: Pablo Arias
+- Consultar al neumólogo para el manejo de la enfermedad pulmonar restrictiva: Pablo Arias
+- Sesiones de fisioterapia: Gross PLC
+- Seguimiento regular: Canisius 
+- Discutir opciones quirúrgicas si los síntomas empeoran
+- Educación del paciente sobre el manejo de los síntomas y revisiones médicas regulares
+- Cumplimiento con las citas y las sesiones de terapia
+
+Pablo Arias
+Comprador, venta al por menor
+APablo@unhcr.org
++1-820-914-0175x6583"
+

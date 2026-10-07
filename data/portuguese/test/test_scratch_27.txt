@@ -1,0 +1,66 @@
+"Nota de Enfermeira:
+
+Paciente: Pedro Martins
+Idade: 50
+
+---------------------------
+| Sinais Vitais           |
+---------------------------
+| PA: 112/80              |
+| FC: 78                  |
+| FR: 16                  |
+| Temp: 37.1C             |
+| SPO2: 98%               |
+---------------------------
+
+Nota Rápida:
+Desconforto geral, relata sentir \"coceira\". Paciente pode ter contraído uma infecção fúngica. Exame necessário. Informei o Tiago Gomez sobre isso. Medicamentos prescritos revisados. 
+
+---------------------------
+| Observações Adicionais  |
+---------------------------
+| Pele: Vermelhidão       |
+| Erupção cutânea: Sim    |
+| Coceira: Alta           |
+---------------------------
+
+---------------------------
+| Detalhes de Contato     |
+---------------------------
+| Email: GoTiag@unicef.org          |
+| Telefone: 001-664-956-9316x0801          |
+| Endereço: Pedro Martins, Via de Novaes, 70 31, Vermifugal, ELVAS - 15, NT5D2QQX, Brasil      |
+---------------------------
+
+---------------------------
+| Detalhes do Paciente    |
+---------------------------
+| RM: 7974 maIPI    |
+| Conta: IZYLl rmWN      |
+| SSN: 556.697.112-16   |
+---------------------------
+
+---------------------------
+| Outros Detalhes         |
+---------------------------
+| ID do Dispositivo: bfBXPI-492     |
+| Plano de Saúde: ijXK4WenmL|
+| Profissão: Agente prisional|
+| Organização: Butler, Flores and Alexander|
+---------------------------
+
+---------------------------
+| Informações Adicionais  |
+---------------------------
+| Cidade: ELVAS            |
+| Estado: 15          |
+| País: Portugal      |
+| Licença: 478-307oXh      |
+| BioID: EbOf 70QLa          |
+| Nome de Usuário: 09fTQDJB   |
+| Hospital: Nedumkunnam St. Thomas College of Nursing    |
+---------------------------
+
+Nota: Visita de acompanhamento necessária. Reavaliar condição dentro de 25 de maio de 2012 dias. Manter sob observação para qualquer piora dos sintomas. Informar o Tiago Gomez se qualquer mudança for observada.
+"
+

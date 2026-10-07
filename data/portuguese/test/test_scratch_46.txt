@@ -1,0 +1,78 @@
+"```
+-------------------------------------------------
+INFORMAÇÕES DO PACIENTE
+-------------------------------------------------
+Paciente: Giovanna Alvaréz
+Idade: 70
+Prontuário Médico: eOAIZM 016
+-------------------------------------------------
+
+SINAIS VITAIS
+
+PA: 125/80
+Pulso: 85
+Temp: 37.2C
+FR: 18/min
+Sat O2: 98%
+
+-------------------------------------------------
+NOTAS
+-------------------------------------------------
+
+- Aumento da sede Giovanna Alvaréz
+- Micção frequente
+- Hist. de diabetes na família 481-314oDn
+- eGFR >60
+- CPP-148974 monitorar nível de glicose
+- IMC 25.0 
+
+-------------------------------------------------
+DADOS CLÍNICOS 
+-------------------------------------------------
+
+Glicose no sangue hoje: 7.9 mmol/L
+
+-------------------------------------------------
+PLANOS & TAREFAS
+-------------------------------------------------
+
+- Contatar José Matos para consulta
+- Ligar para 6785199947 para encaminhamento ao nutricionista
+- Enviar email para ossé@msf.org sobre acompanhamento
+- Seguir link https://spencer-owens.com/categories/categoriescategory.htm para recursos de auto-gestão do diabetes
+
+-------------------------------------------------
+-------------------------------------------------
+CONTATO DE EMERGÊNCIA 
+-------------------------------------------------
+
+- Nome do Contato: Giovanna Alvaréz
+- Endereço: Giovanna Alvaréz, Estação de Gonçalves 26, Laevorotatory, Jequie - 16, CFHW4B86, Brasil
+- Telefone: 6785199947
+- Email: ossé@msf.org
+
+-------------------------------------------------
+SEGURO MÉDICO
+-------------------------------------------------
+
+- Provedor: 2Eu
+- Número da Conta: 848063 068
+- Detalhes do plano em: https://spencer-owens.com/categories/categoriescategory.htm
+
+-------------------------------------------------
+INFORMAÇÕES ADICIONAIS
+-------------------------------------------------
+
+- Endereço IP: 99.122.196.64
+- SSN: 85465974-3
+- Cidade de residência: Jequie
+- Código postal: CFHW4B86
+- Estado: 16
+- Organização: Carpenter, Fields and Smith
+- Profissão: Psicólogo educacional
+- Número da Licença: 840-86285A
+- Identificador do Veículo: 62J•607
+
+-------------------------------------------------
+```"
+

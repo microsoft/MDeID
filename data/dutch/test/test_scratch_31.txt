@@ -1,0 +1,51 @@
+"Verpleegkundige Kras Notitie
+-------------------------
+Patiënt: Benjamin Verhoeven
+Leeftijd: 12
+Conditie: Impetigo
+
+Belangrijke Observaties
+-------------------------
+1. Zweren op het gezicht opgemerkt, voornamelijk bij neus en mond. 
+2. Gepresenteerd door enjaminv.
+3. Thuisadres: Benjamin Verhoeven, Farmhands 122, 5432 Sendable, België
+
+Vitaliteit 
+-------------------------
+BP: 120/80
+Pulse: 80 bpm
+Temp: 98.6 F
+Resp: 16 bpm
+
+Onderzoeken
+-------------------------
+1. Lab werk: Besteld, Ontvangen door Aart Vos.
+2. Apparaat Scan: 306270-HOd geïnitieerd.
+
+Plan 
+-------------------------
+1. Topische mupirocin & Orale antibiotica voorgeschreven door Aart Vos.
+2. Vervolgafspraak: Gepland over 26-03-2020 dagen.
+
+Info
+-------------------------
+1. Primaire Contact:  760.218.7321x610
+2. Zorgplan: Pua4LM
+3. Geregistreerd onder: Harmon Group
+4. Sociale Zekerheid: 040091028
+5. Nood Contact: 760.218.7321x610
+6. Patiënt's Email: tos@un.org
+7. Patiënt's Account: iLTgcW 528
+8. Medisch Dossier: wz 091264S
+
+Aanvullende Opmerkingen
+-------------------------
+1. Hygiënepraktijken geadviseerd.
+2. Geïnstrueerd om de zweren niet te krabben. 
+3. Verzocht 5940-204GS bij het volgende bezoek.
+4. Patiënt gebruikt persoonlijk apparaat 306270-HOd voor afstandsbewaking.
+5. IP Adres: 23.120.245.127
+
+-Fax 385.204.6858
+-URL hurst.dalton.net"
+

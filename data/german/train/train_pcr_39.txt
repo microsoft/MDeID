@@ -1,0 +1,33 @@
+"EMS Patientenversorgungsbericht
+
+[EINSATZDETAILS]
+Dieses Team wurde zu einem Einsatz für eine Person, Andrea Fischer, gerufen, die unter Müdigkeit und einem ungewöhnlichen Geschmack im Mund litt - wie ursprünglich in unserem System unter dem Konto 38-IeUOGFZ gemeldet. Der Einsatz wurde über unser mjQd MkHVj von einem nahegelegenen Strand empfangen. Anmeldedaten für unser System, Andreer, wurden verwendet, um das geeignete Team für den Notfall zuzuweisen.
+
+[SYMPTOME]
+Bei der Ankunft am Einsatzort fanden wir Andrea Fischer in einem Zustand der Lethargie vor, der seit dem 2. Januar 1970 fortschreitet. Andrea Fischer war bei Bewusstsein, berichtete jedoch von ständiger Müdigkeit und einem anhaltenden, unangenehmen Geschmack. 
+
+[KRANKHEITSGESCHICHTE]
+Das vom Patienten gemeldete Problem begann vor etwa 2. Januar 1970. Die medizinische Aktennummer des Patienten khGINU uNT ergab, dass dies ein gelegentliches Problem ist. Der unangenehme Geschmack, beschrieben als 'schrecklich', schien eine neue Beschwerde zu sein. Andrea Fischer saß in einem Strand, als die Symptome sich verschlimmerten.
+
+[BEHANDLUNG UND BEURTEILUNG]
+Die Erstbeurteilung wurde von der Rettungssanitäterin Sophie Wyss durchgeführt, die unter der Nummer 4958 3078X lizenziert ist. Der Patient war bei Bewusstsein und wach. Der allgemeine Eindruck des Patienten war mäßiger Stress. Die Vitalwerte des Patienten wurden auf unserem Handgerät mit der IP-Adresse 198.58.105.11 aufgezeichnet.
+
+Während der Zweitbeurteilung waren die Lungenklänge des Patienten beidseitig klar. Die Geschmacksbeschwerde wurde zur Kenntnis genommen, obwohl keine sofort erkennbare physische Ursache vorlag. Der Zustand ständiger Müdigkeit des Patienten (106 bezogene Müdigkeit) wurde anerkannt, und die Entscheidung, Andrea Fischer zur weiteren Untersuchung ins Krankenhaus Stafford Cripps zu bringen, wurde getroffen.
+
+[TRANSPORT] 
+Der Patient wurde ohne Zwischenfälle im Fahrzeug des Krankenhauses QRM-8547 und ohne Verzögerung zum Stafford Cripps transportiert. Die persönlichen Gegenstände des Patienten wurden für den Transport gesichert - dies wurde von der Rettungssanitäterin, Sophie Wyss, bestätigt.
+
+[BERICHT]
+Bei der Ankunft in der Notaufnahme wurden die Pflege und der Bericht von Andrea Fischer an die Krankenschwester der Notaufnahme übergeben. Die Person, die die Patientenversorgung übernahm, erhielt einen Patientenbericht, der die medizinische Vorgeschichte und Behandlungen des Patienten enthielt. Die Kontaktdaten des Patienten, einschließlich 902-625-6348 und es@unicef.org, wurden bestätigt.
+
+Die Krankenschwester, die über den Gesundheitsplan des Patienten 1mq24BM4 informiert wurde, verwaltete die Abrechnungsinformationen und verarbeitete sie über unsere gesicherte Website silva.net. Der Patient Andrea Fischer, der beruflich unter dem Titel Wirtschaftsprüfer, öffentliche Finanzen für die Organisation Moon-Williams arbeitet, gab ihre Sozialversicherungsnummer 23 309 636 614 an.
+
+[PERSÖNLICHE DETAILS]
+Der Patient Andrea Fischer wohnt unter: Andrea Fischer, Wegscheidergasse 0/5 114, 4579 St Johann, Belgien, wurde unter 902-625-6348 erreicht. Es wurden keine weiteren Fragen von Seiten des Gesundheitsdienstleisters gestellt.
+
+[DOKUMENTATION]
+Die Krankenschwester sicherte die Zustimmung des Patienten auf dem Computerformular - die unterschriebene Kopie wurde gescannt und per Fax 522.911.4929 an die Abrechnungsabteilung gesendet.
+
+Bericht erstellt von:
+Sophie Wyss"
+

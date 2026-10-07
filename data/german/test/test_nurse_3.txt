@@ -1,0 +1,32 @@
+"Krankenschwester Erzählnotiz für Patienten mit Hypertonie, Magenadenokarzinom und kürzlich aufgetretenen Anfällen
+
+Patient Elina Schulze ist eine 6 Person mit einer medizinischen Vorgeschichte von Hypertonie und HER-2-positivem Magenadenokarzinom im Stadium 4 mit Metastasen im Peritoneum, den Knochen und den Lymphknoten. Der Patient stellte sich kürzlich mit einem neuen Anfall eines tonisch-klonischen Anfalls vor, ein Symptom, das zuvor nicht aufgetreten war. Es gibt auch einen Bericht über eine Verschlechterung der epigastrischen Schmerzen, was Bedenken hinsichtlich einer möglichen Krankheitsprogression aufwirft.
+
+In Bezug auf die Behandlung wurde der Patient mit Trastuzumab, Cisplatin und Capecitabin behandelt und Trastuzumab wurde bis vor kurzem weiterhin verwendet. Ein Gehirn ecd-740411 zeigte eine bilaterale symmetrische T2-FLAIR-Hyperintensität in den okzipitalen und hinteren parietalen Lappen, was auf PRES hinweist, ohne Anzeichen eines akuten Schlaganfalls, einer intrakraniellen Blutung oder Metastasen. Die Blutdruckwerte wurden kontrolliert, alle blieben unter 7618 35421. Eine kürzlich durchgeführte Ösophagogastroduodenoskopie ergab eine große, bösartig erscheinende, teilweise obstruierende Masse im Magenkörper, was eine Krankheitsprogression bestätigt.
+
+Die Hauptdiagnose ist PRES, wahrscheinlich sekundär zu Trastuzumab-Toxizität oder Hypertonie, und HER-2-positives Magenadenokarzinom im Stadium 4 mit bestätigter Progression. Mögliche Differentialdiagnosen sind Komplikationen durch Metastasen und Nebenwirkungen der laufenden Chemotherapie.
+
+Der Plan ist, die Überwachung mit Levetiracetam zur Anfallsbehandlung und strikter Blutdruckkontrolle fortzusetzen. Trastuzumab soll für einen Monat ausgesetzt und neu bewertet werden. Eine erneute Gehirn ecd-740411 wird in drei Monaten durchgeführt, um das PRES zu überwachen. Die Magenmasse und die Krankheitsprogression werden durch Diskussionen im Tumorboard-Komitee angesprochen und der Behandlungsplan wird entsprechend angepasst. Die unterstützende Pflege wird aufrechterhalten und der Patient wird in Entscheidungsprozesse einbezogen.
+
+**Fußzeile:**
+Notfallkontaktinformationen: 
+Telefon: 001-262-766-1713x63618
+E-Mail: evid@unhcr.org
+Fax: 224-220-5320x359
+
+Dieser Bericht wurde von 0pk7SlW5 am 17.03.22 erstellt. Die medizinische Aktennummer des Patienten ist 7618 35421. Die Kontonummer des Patienten ist 20409 125i. 
+
+**Kopfzeile:**
+Patienten-ID: 20409 125i
+Sozialversicherungs-Nr.: 727-5103708-88
+Adresse: Elina Schulze, Langeweg 878 156, 1370 Oberaurach, Österreich
+IP-Adresse: 95.254.7.87
+Lizenz: 935 oqjrGq
+Biometrischer Identifikator: 61262 07Kv
+Fahrzeug: MRC 336
+Benutzername: 0pk7SlW5
+Arzt: David Krämer
+Organisation: Sparks PLC
+Beruf: Corporate Investment Banker
+URL: sparks.com"
+

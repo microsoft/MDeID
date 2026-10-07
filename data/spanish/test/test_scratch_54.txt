@@ -1,0 +1,55 @@
+"**Nota de Enfermería**
+   
+    **Detalles del Paciente**
+        Queja de Cecilia García: Dolor de cuello
+        Edad de Cecilia García: 33
+        Info: 170VPORZ
+        Ubicación: estación de tren
+        Correo electrónico: Arí@microsoft.org
+        Teléfono: 605-653-4267x958
+        Dirección: Cecilia García, C. de Emiliano Morcillo 89 88, Unsupped, S5ZA9HFA SAN MARTIN, 57, Mexico
+   
+    **Información Médica**
+        Diagnóstico: Espondilosis cervical
+        Hospital: Hughes Center
+        Doctor: Benjamín Arias
+        Plan de Salud: 5u1k SXu46cZQ
+        Número de Historia Clínica: 84 5931DKT
+        Número de Cuenta: 6598-sBelb
+        Número de Dispositivo: XF 72OdabR
+   
+    **Observaciones**
+        Sudoración: Presente
+        Mareos: Experimentando
+        Presión arterial: 120/80
+        Frecuencia cardíaca: 85
+        Frecuencia respiratoria: 16
+   
+    **Información Adicional**
+        BioID: rGDa-QwLEy
+        Dirección IP: 116.120.171.7
+        Profesión: Editor, comisionado
+        Número de Vehículo: 2F S1243
+        Número de Seguridad Social: 41757101A
+        Número de Licencia: 95963 4298
+        Organización: Williams-Stevens
+        Fax: 382.641.7891
+        Número de Identificación: 6598-sBelb
+   
+    **Progreso del Paciente**
+        Condición de Espondilosis: Estable
+        Intensidad del Dolor de Cuello: 6/10
+        Movilidad Física: Limitada
+        Estado Mental: Alerta
+   
+    **Plan**
+        Continuar con el plan de tratamiento actual.
+        Monitorear regularmente el dolor de cuello y la movilidad.
+        Actualizar al Benjamín Arias con el progreso del paciente.
+
+**************************************************
+    Documento creado el 11 de enero de 2020
+    Creado por: Enfermera 170VPORZ
+    Contacto: 605-653-4267x958/Arí@microsoft.org/jones.carlson-dougherty.brown.com
+**************************************************"
+

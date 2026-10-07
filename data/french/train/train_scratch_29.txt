@@ -1,0 +1,103 @@
+"Note de Soins Infirmiers
+
+============================================
+| Instantané de Maxime Lambert |
+--------------------------------------------
+TA : 120/80 mmHg
+Pouls : 78 bpm
+Temp : 98.6\u00b0F
+
+Plaintes : Douleur dorsale, constante
+
+Observation : Possible 
+
+Traitement :  en cours
+
+============================================
+| Tableau des Signes Vitaux |
+--------------------------------------------
+| Paramètre | Valeur |
+|------------------|-------|
+| Fréquence Cardiaque      | 78 bpm |
+| Fréquence Respiratoire | 18 bpm |
+| Pression Artérielle   | 120/80 mmHg |
+| Température Corporelle        | 98.6\u00b0F |
+
+============================================
+| Carte de l'État Actuel |
+--------------------------------------------
+Déchiffrer l'origine de la douleur, surveiller les signes vitaux de Maxime Lambert. Suggère une spondylose cervicale.  en cours.
+
+============================================
+| Notes sur PWG aBQBtZ |
+--------------------------------------------
+Référence de l'appareil de surveillance : PWG aBQBtZ
+
+============================================
+| Informations sur Maxime Lambert |
+--------------------------------------------
+Numéro de Dossier : 67-7718AIw
+Compte : 86 798UCrk
+
+============================================
+| Contacts de l'Équipe de Soins |
+--------------------------------------------
+Médecin Principal : Lea Li
+Téléphone : 484-795-4219
+Email : LLe@unicef.org
+
+============================================
+| Infos Personnelles de Maxime Lambert |
+--------------------------------------------
+Nom d'utilisateur : sc1wEWid
+Date de Naissance : vendredi 13 juillet 1984
+
+============================================
+| Adresse |
+--------------------------------------------
+Adresse : Maxime Lambert, 31514 Collard Lock Suite 081 157, 5442 Marche-en-Famenne, Belgique
+Localisation : restaurant
+
+============================================
+| Informations Supplémentaires |
+--------------------------------------------
+Véhicule : 1U SS981
+Numéro de Sécurité Sociale : 7 69 69 20 252 357
+Permis : 31767 83MZ
+
+============================================
+| Autres Identifiants |
+--------------------------------------------
+BioID : GNti-OnGwW
+Adresse IP : 199.239.141.87
+Numéro d'ID : 86 798UCrk
+
+============================================
+| Démographie |
+--------------------------------------------
+Âge : 86
+
+============================================
+| Statut de Maxime Lambert |
+--------------------------------------------
+Hôpital : Mountshannon
+Plan de Santé : iNN69
+
+============================================
+| Occupation |
+--------------------------------------------
+Profession : Directeur de restaurant
+Organisation : Richard-Morris
+
+============================================
+| Détails Internet |
+--------------------------------------------
+URL : mccarthy.white.graham.com
+Fax : (279)835-0467
+
+============================================
+| Notes Confidentielles |
+--------------------------------------------
+Entrée par : Infirmière , vendredi 13 juillet 1984
+"
+

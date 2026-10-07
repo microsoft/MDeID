@@ -1,0 +1,28 @@
+"Nota do Médico Scratch:
+
+Ágatha Carvalho, 11, masculino, apresentação inicial com pigmentação de pele em vários locais, vômitos repetidos x 4 dias. Notadas características físicas distintas - rosto redondo, bochechas cheias, testa proeminente, hipertelorismo, plenitude periorbital, nariz curto, lábio inferior evertido.
+
+Sinais vitais:
+Temp: 98.6 F, HR: 110 bpm, RR: 24 respirações/min, BP: 100/60 mmHg, SpO2: 98%
+
+Exame:
+Confirmadas as características físicas acima.
+
+Condução de Ressonância Magnética: Hidrocefalia detectada, cirurgia de derivação realizada. Pós-operatório de Ressonância Magnética - dilatação ventricular, redução do volume do tronco cerebral, realce leptomeníngeo. Lobo frontal direito - massa de 3 cm.
+
+Ressecção do Tumor: Massa de cor vermelho-escura a marrom, 4x4x2 cm. Aderência às meninges.
+
+Resultados Imuno-histopatológicos: HMB45 positivo, Melan-A positivo, S100 positivo, Ki-67 30%, P53 negativo.
+
+Estudo Citogenético: Sem deleção alélica P53, mutação NRAS no éxon 3 (códon 61).
+
+Diagnóstico: Tumor melanocítico maligno do SNC. Complicações - Hidrocefalia, hipertensão intracraniana.
+
+Diagnóstico Diferencial Inicial: Outros tumores cerebrais, lesões metastáticas.
+
+Prognóstico: Ruim. Crescimento agressivo, desfecho fatal apesar da intervenção cirúrgica.
+
+Plano: Pós cirurgia de hidrocefalia e ressecção do tumor, Ressonância Magnética/TC programada a cada 3 meses. Caracterização adicional do tumor através de estudos imuno-histopatológicos e citogenéticos. Ágatha Carvalho faleceu 4 meses após a ressecção do tumor. Aconselhamento familiar recomendado.
+
+Tiago Lopes"
+

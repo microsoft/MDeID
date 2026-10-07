@@ -1,0 +1,45 @@
+"**Nota Narrativa Infermieristica**
+
+S: La signora Irene Gentile è stata portata al pronto soccorso presentando sintomi di vomito di sangue e disorientamento. La storia clinica del paziente include un quadro di diabete mal controllato. Altri sintomi riportati dal paziente erano nausea ed epigastralgia che si verificano dal 16 ago 1997.
+
+O: All'esame, il paziente era in stato di shock con segni vitali che indicavano una grave disidratazione. Nonostante gli sforzi per reidratare, le condizioni del paziente non sono migliorate. I risultati di laboratorio mostravano un livello di glucosio nel sangue di 470 mg/dL, gas ematico arterioso con un pH di 7.2, PCO2 di 25.2 mmHg, HCO3 di 9.9 mEq/L, PO2 di 169 mmHg, e un gap anionico di 24.3 mEq/L. Inoltre, i test urinari erano positivi per chetoni e glucosio. Dopo intubazione ed endoscopia d'emergenza, è stata osservata una pigmentazione nera su tutta la mucosa esofagea. Le TAC mostravano un ispessimento edematoso circonferenziale della parete esofagea e una leggera effusione pleurica ma inizialmente, non c'erano segni di perforazione o aria libera nel mediastino. Tuttavia, una TAC al giorno 7 suggeriva una perforazione esofagea poiché indicava un significativo aumento dell'effusione pleurica e aria libera nel mediastino.
+
+A: La diagnosi primaria era necrosi esofagea acuta (AEN) complicata da chetoacidosi diabetica. Le condizioni del paziente sono peggiorate a causa della sospetta perforazione esofagea, come suggerito dall'aumento dell'effusione pleurica e dalla presenza di aria libera nel mediastino.
+
+P: La signora Irene Gentile è stata trattata con antibiotici, misure di controllo glicemico, un inibitore della pompa protonica e plasmaferesi, che hanno portato a una stabilizzazione iniziale. A seguito della diagnosi di perforazione esofagea, è stata eseguita una toracoscopia d'emergenza e la parte necrotica dell'esofago è stata resecata. Sono stati posizionati tubi di drenaggio nella cavità toracica e nel mediastino. Il paziente continuerà ad essere monitorato attentamente e sarà enfatizzata la gestione del diabete per prevenire future complicazioni. Sono previste ulteriori consultazioni con gastroenterologia ed endocrinologia per ottimizzare il trattamento e il recupero.
+
+**Informazioni Paziente:**
+
+- Nome: Irene Gentile
+- Età: 21
+- Numero di Cartella Clinica: 14275-VIpr
+- Indirizzo: Irene Gentile, 1344 Donald Point Suite 847 7, 3492 Rudiano, Svizzera
+- Telefono: (533)203-0220
+- Email: aso@icloud.com
+- Dottore: Dario Grasso
+- Piano Sanitario: Nkq
+- Data di Ricovero: 16 ago 1997
+
+**Informazioni Infermiere:**
+
+- Nome: 
+- Numero ID: 6444-IIYLD
+- Licenza: 154900-053
+- Contatto: (533)203-0220
+
+**Informazioni Ospedale:**
+
+- Nome: Sierra Leone
+- Indirizzo: Irene Gentile, 1344 Donald Point Suite 847 7, 3492 Rudiano, Svizzera
+- Contatto: (533)203-0220
+
+Nota: Questo documento non include elementi PHI che non hanno senso nel contesto di una nota infermieristica. Tali elementi sono inclusi in un'intestazione, piè di pagina, elenco, tabella o altre sezioni più strutturate della nota.
+
+**Piè di pagina:**
+
+- Documento creato il: 16 ago 1997
+- URL del documento:  www.fox.com/blog/tags/wp-contentterms.htm
+- Nome utente: nntile
+- Indirizzo IP: 132.206.92.63
+- Fax: 001-717-458-4218x6204"
+

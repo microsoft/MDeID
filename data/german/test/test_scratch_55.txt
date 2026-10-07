@@ -1,0 +1,60 @@
+"**NACHTKRANKENSCHWESTER KRITZELNOTIZEN**
+
+- Vitalzeichen Daten: 
+  BP: 130/80 
+  HR: 85 bpm 
+  RR: 16/min 
+  Temp: 98.6 F 
+  O2 Sat: 97% 
+
+- Patienteninformation: 
+  Name: Jana Michiels
+  Alter: 72
+  Medizinische Aktennummer: 551065 623
+  
+- Beobachtungen: 
+  Patientin klagt über brennende Magenschmerzen, wahrscheinlich Administrator, Bildung Stress. 
+  Bett Nr: uk-0919TvO
+  Aktuelles Medikamentenregime: uk-0919TvO
+
+- Konsultation: 
+  Dr. Anja Baumgartner zu besuchen. 
+  
+- Status: 
+  Stabil, klagt aber immer noch über Schmerzen. 
+
+- Behandlung: 
+  Verordnete Medikation verabreicht. 588648 69L Anpassung erforderlich.
+
+- Vorschläge:
+  Gastro-Termin vorgeschlagen. 
+  Krankenschwester NeUKVTtU soll Smith, Allen und Garcia für Nachsorge kontaktieren. 
+
+- Ort:
+  Zimmer: Museum
+
+- Kontaktinformationen: 
+  Email: ngartner@microsoft.org
+  Telefon: 6808283292
+
+- Weitere relevante Informationen:
+  Lizenz: yrjY bWrVC
+  Sozialversicherung: 326522-0127
+  Fahrzeug: 6RG36
+  Adresse: Jana Michiels, Dogan-Kambs-Ring 3/3 42, 1323 Wartenberg, Hess, Österreich
+  Stadt: Thalwil
+  eVuNx: Genf
+  Land: Österreich
+  PLZ: 1323
+
+- Für Ihre Information: 
+  IP-Adresse: 191.110.137.134
+  BioID: 2147 RmEBG
+  Gesundheitsplan: eVuNx
+  
+*Hinweis: Verwenden Sie die URL  brown.info/categories/main/exploreterms.php um auf die Gesundheitsakten des Patienten aus der Ferne zuzugreifen.*
+
+Email ngartner@microsoft.org für alle Anfragen. Halten Sie das Fax: 987-574-1999x0350 für dringende Kommunikation bereit. 
+
+*Krankenschwester NeUKVTtU hat sich abgemeldet.*"
+

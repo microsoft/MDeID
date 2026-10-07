@@ -1,0 +1,88 @@
+"Pflegekratznotiz
+
+---------------------
+
+Tabelle 1: Grundlegende Informationen
+
+---------------------
+
+|   Ellen De Meyer  |  hM pCTKNPg  | TCMm-tTWms | hM pCTKNPg |
+
+|:------------:|:-----------:|:---------------:|:------:|
+
+|   [Patient]  |  [Konto#]    |    [Aufzeichnung#]    | [ID#]  |
+
+---------------------
+
+Tabelle 2: Kontaktinformationen
+
+---------------------
+
+| Ellen De Meyer, Sarah-Huemer-Straße 14 171, 0294 Männedorf, Belgien  |  001-497-809-3884  | Annae@icloud.com | Brautechnologe  | Perry Inc  |
+
+|:----------:|:---------:|:-------:|:-------------:|:--------------:|
+
+|  [Adresse] |  [Telefon#] | [Email] |  [Beruf] |  [Organisation] |
+
+---------------------
+
+Tabelle 3: Anbieter & Versicherung
+
+---------------------
+
+|  Anna Moser  | Pharsalus  | zgR6k  |
+
+|:----------:|:-----------:|:-------------:|
+
+|  [Arzt]  |  [Krankenhaus] |  [Versicherung]  |
+
+---------------------
+
+Tabelle 4: Erweiterte Informationen
+
+---------------------
+
+| haQwC7uH  | 9.23.88.154  | warren.sparks.com  | 636-492-3367 |
+
+|:-----------:|:------------:|:------:|:-----:|
+
+| [Benutzername]  |  [IP-Adresse] | [URL]  | [FAX] |
+
+---------------------------
+
+Vitalwerte & Beobachtungen am 17. Februar 2010
+
+---------------------------
+
+V/S: BP: 130/80, Puls: 85, Temp: 71
+
+Symptombeginn: Atemnot, hohes Fieber, Krankheitsgefühl.
+
+Mögliche Lungenentzündung.
+
+Eindrücke & Plan:
+
+- Röntgenaufnahme der Brust zur Bestätigung angeordnet.
+
+- Beginn mit Antibiotika TCMm-tTWms.
+
+- Fortschritt überwachen.
+
+- Nachverfolgung am 17. Februar 2010 bei keiner Verbesserung.
+
+Anna Moser's Notiz: Patient kann eine Krankenhauseinweisung benötigen, wenn eine Lungenentzündung bestätigt wird und sich der Zustand verschlechtert.
+
+-------------------------------
+
+Tabelle 5: Weitere relevante Informationen
+
+-------------------------------
+
+| Deutschland  | Nürensdorf  | 9 | 0294 | 2190 Jake Union | Schule  | MOA 872  | 571-6740971-02 | 479-AFJhxk | mMd-646aHO |
+
+|:----------:|:-------:|:-------:|:-----:|:--------:|:-----------------:|:---------: |:----------------:|:---------:|:------: |
+
+|  [Land] | [Stadt]  | [zgR6k] | [PLZ] | [Straße] |    [Ort]     | [Fahrzeug#] |     [SSN#]       | [Lizenz] | [BioID] |
+
+"
+

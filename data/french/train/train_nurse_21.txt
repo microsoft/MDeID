@@ -1,0 +1,46 @@
+"Note Narrative de l'Infirmière :
+
+Lors de la visite d'aujourd'hui, Louna Joly a présenté une histoire chronique de mouvements intestinaux incontrôlés qui persiste depuis 11 ans. La qualité de vie du patient a été grandement affectée par ce problème. Louna Joly a également des antécédents médicaux de cancer du col de l'utérus traité par hystérectomie radicale de Wertheim-Meigs le 24/01/1985 et une procédure de thyroïdectomie subtotale le 24/01/1985. Le patient a été diagnostiqué avec une malabsorption du lactose et du fructose et une colite radique chronique. Les tentatives précédentes pour gérer la condition avec une variété de probiotiques, de lopéramide et de mésalazine n'ont montré aucune amélioration significative.
+
+Dans le cadre des procédures de diagnostic, Louna Joly a subi plusieurs rectoscopies et coloscopies. Les résultats de ces tests ont montré une sténose dans le côlon sigmoïde mais n'ont pas indiqué de maladie inflammatoire de l'intestin. Les scanners ont révélé un épaississement concentrique à longue portée de la paroi rectale et une imbibition de liquide du tissu adipeux périreptal. Malheureusement, les signes vitaux et autres résultats de laboratoire spécifiques n'ont pas été fournis dans le dossier médical du patient 45-025Mzmb.
+
+Le diagnostic principal est une colite radique chronique, qui est probablement secondaire à la radiothérapie reçue après l'hystérectomie. Bien qu'il puisse y avoir d'autres causes pour la diarrhée chronique, celles-ci semblent moins probables compte tenu des résultats d'imagerie et endoscopiques. Le pronostic est réservé car le patient n'a pas répondu aux méthodes de traitement traditionnelles.
+
+À l'avenir, le plan de traitement comprend l'initiation d'une thérapie par microbiote fécal, car Louna Joly a consenti à cet essai expérimental dans l'espoir d'améliorer les symptômes. Des rendez-vous de suivi réguliers seront nécessaires pour surveiller la réponse du patient au traitement et apporter les ajustements nécessaires. De plus, le patient recevra une éducation sur la gestion des symptômes et les ajustements de style de vie pour faire face à la diarrhée chronique. Si aucune amélioration n'est observée, une référence à un spécialiste Officier de recherche, gouvernement pour une gestion plus approfondie et une deuxième opinion peut également être envisagée.
+
+-----------------------------------
+Infirmier Ryan Wilson, qPUPY 931F
+24/01/1985>
+
+Informations supplémentaires sur les marqueurs PHI :
+
+Informations de contact du patient :
+- Email : yanso@mail.com
+- Téléphone : 857.749.4300x045
+- Adresse : Louna Joly, 120 221 Noël Well, 2812 Moirey-Flabas-Crépion, France
+
+Contact d'urgence :
+- Nom : Louna Joly
+- Relation : 
+- Téléphone : 857.749.4300x045
+
+Informations sur le compte et la facturation :
+- Numéro de compte : 133078-753
+- Plan de santé : Y141si4
+- Organisation : Thomas, Garcia and Harper
+
+Informations sur l'appareil :
+- ID de l'appareil : eW-DeiLUHb
+
+Informations sur le portail en ligne :
+- Nom d'utilisateur : ixlLJb8W
+- Adresse IP : 145.180.239.188
+
+Autres informations pertinentes :
+- ID du véhicule : 855-OGB
+- Numéro de sécurité sociale : 4 03 22 85 378 337
+- ID biométrique : 92999-8125
+- ID personnel : 133078-753
+- Fax : 2416021450
+- URL : williams.alexander.org"
+

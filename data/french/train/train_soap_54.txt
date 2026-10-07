@@ -1,0 +1,52 @@
+"S: Le patient Michiel Carlier a signalé une histoire de forte fièvre et d'ulcères douloureux avec un gonflement du cuir chevelu à l'admission le 12 août 2013. Le patient a également eu des difficultés à manger en raison de son état.
+
+O: L'examen physique par le Bruno Wyss a révélé une conscience avec un score de 15 sur l'échelle de coma de Glasgow, la formation de pus, une fistule avec un écoulement purulent, un pelage du cuir chevelu et un gonflement du visage. Les tests de laboratoire ont montré une neutropénie sévère avec des globules blancs à 2,39 x 10^9/l, des neutrophiles à 0,25 x 10^9/l et des lymphocytes à 2,1 x 10^9/l. Le taux de sédimentation des érythrocytes était élevé à 101 mm/heure, et la protéine C-réactive était significativement élevée à 272 mg/dl. La culture du pus a été positive pour Enterococcus faecalis et Escherichia coli. Les cultures de sang et d'urine étaient négatives. La radiographie du thorax, l'analyse d'urine et l'analyse du liquide céphalorachidien étaient normales. Les titres sériques d'immunoglobulines et les pourcentages de cellules T étaient dans les limites normales. L'analyse de la moelle osseuse a montré un arrêt de maturation au stade promyélocyte/myélocyte sans implication maligne. Le scanner de la tête et du crâne à l'Wopat a indiqué un emphysème sous-cutané du cuir chevelu mais aucune lésion cérébrale ou fracture du crâne.
+
+A: Le diagnostic principal est une fasciite nécrosante du cuir chevelu compliquée par une septicémie. Les diagnostics différentiels envisagés comprenaient d'autres étiologies infectieuses, qui ont été écartées par diverses cultures et tests sérologiques.
+
+P: Le patient a été traité avec du pentaglobin (0,5 g/kg) et une combinaison d'antibiotiques : vancomycine, méropénème et métronidazole. Un traitement par facteur de stimulation des colonies de granulocytes (G-CSF) a été initié à des doses allant de 5 à 15 µg/kg/jour pour gérer la neutropénie sévère. Le patient a été libéré après 12 août 2013 de traitement et continue à recevoir régulièrement un traitement par G-CSF pour prévenir d'autres infections. Le suivi comprend une surveillance régulière du nombre de neutrophiles et de l'état de santé général à l'Wopat pour s'assurer qu'il n'y a pas de récidive de l'infection.
+
+Informations supplémentaires :
+
+- Numéro de dossier médical du patient : DBeHt dLcF
+
+- Numéro de compte du patient : 622121-vdo
+
+- Numéro de série de l'appareil du patient : Xwa TTXcTS
+
+- Nom d'utilisateur du patient : hiCarlie
+
+- Informations sur le véhicule du patient : 082LEE
+
+- Numéro de sécurité sociale du patient : 799-709-615
+
+- Informations sur le permis du patient : qeek 67310
+
+- Identifiant biométrique du patient : YAmb 29944
+
+- Adresse IP du patient : 35.212.225.202
+
+- Numéro d'identification supplémentaire du patient : 622121-vdo
+
+- Âge du patient : 59
+
+- Adresse du patient : Michiel Carlier, 56480 Thiry Flats 189, 5311 Madiran, Suisse
+
+- Localisation du patient : arrêt de bus
+
+- Plan de santé du patient : LlpIG
+
+- Profession du patient : Thérapeute, parole et langage
+
+- Organisation du patient : Hobbs, Taylor and Miller
+
+- Date du jour : 12 août 2013
+
+- Email du patient : Wun@gmail.com
+
+- Numéro de téléphone du patient : 001-241-441-2145x521
+
+- URL du patient : stewart.com
+
+- Numéro de fax du patient : 9829218832"
+

@@ -1,0 +1,28 @@
+"Doctor Scratch Note:
+
+Susan Greene AtGc-lKRUX - Complaints of blurred visual acuity, photopsias in one eye - last few days. Preceded by fever, headache. No significant medical history. No contact with animals.
+
+OBSERVATIONS:
+1. CBC - Normal
+2. X-rays (chest, sinus) - Normal
+3. Tests - Negative (Syphilis, CMV, HSV, HIV, Bartonella, H. capsulatum, T. gondii, T. canis, B. burgdorferi)
+4. Ocular exam: 
+   - BCVA: 20/20 (Right eye), 20/25 (Left eye)
+   - Biomicroscopy - Normal
+   - Pupillary reactions - Normal
+   - IOP - Normal
+   - Fundus photography - Deep retinal white spots (posterior pole, around optic disc - Left eye)
+   - FA - Wreath-like punctate areas (early hyperfluorescence), optic disc staining (late phase)
+   - FAF, OCT - Disruption in EZ, presence of hyperreflective & hyporeflective lesions (ONL & choroid respectively)
+   - OCTA - No flow impairment
+
+ASSESSMENT: 
+Possibility of retinal pathology, inflammatory/infectious process. Infectious causes ruled out by negative serologies. Differential diagnosis - Autoimmune retinopathy, localized retinal detachment.
+
+PLAN:
+1. Follow-up appointment in few weeks - reevaluate condition.
+2. Advise Susan Greene to report worsening of symptoms.
+3. Further testing or referral to a retinal specialist - based on progression/change in symptoms.
+
+Doctor: Ashton Cameron 325990-YUd"
+

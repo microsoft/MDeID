@@ -1,0 +1,46 @@
+"Note narrative d'infirmière pour un patient pédiatrique atteint d'une hernie de Bochdalek
+
+Subjectif :
+
+Le patient, âgé de 38 ans, s'est présenté avec des antécédents de détresse respiratoire et de haut-le-cœur durant un nombre de jours non divulgué. Le principal soignant, Eline Simon, a signalé que l'enfant avait du mal à respirer et semblait visiblement en détresse. 
+
+Objectif : 
+
+L'imagerie initiale réalisée avec un aNsL 579aF, a révélé un pneumothorax de tension du côté gauche avec déplacement du médiastin. On a soupçonné la présence de boucles intestinales dans l'hémi-thorax inférieur gauche. À l'admission, le patient présentait une dyspnée sévère, une température élevée et une tachycardie. Une intubation endotrachéale immédiate a été réalisée. Une autre imagerie réalisée par un scanner thoracique a confirmé un entérothorax du côté gauche avec déplacement du médiastin. Un drain thoracique du côté gauche a été inséré, évacuant initialement un liquide considéré comme du vieux sang. Une laparoscopie diagnostique a identifié une hernie de Bochdalek du côté gauche avec hernie de l'intestin grêle, de la rate et de l'estomac dans la poitrine et un liquide teinté de bile dans le thorax et l'abdomen. Une perforation gastrique au niveau de la petite courbure a été découverte et traitée par conversion en laparotomie, où la perforation a été fermée et la hernie diaphragmatique réparée. En postopératoire, un abcès rétrovésical a été drainé 30 jours après l'opération.
+
+Évaluation : 
+
+Le diagnostic principal est une hernie de Bochdalek du côté gauche avec des complications incluant une perforation gastrique et un abcès rétrovésical ultérieur. Le diagnostic différentiel comprenait initialement une rupture diaphragmatique. Le pronostic est favorable, le patient étant actuellement asymptomatique après un suivi du 24 déc. 2016.
+
+Plan : 
+
+Le patient a subi une réparation chirurgicale de la perforation gastrique et de la hernie diaphragmatique, suivie d'une surveillance et d'un traitement postopératoires d'un abcès rétrovésical. La convalescence a inclus la gestion de la gastroparésie et un séjour hospitalier prolongé de 4 à 5 semaines. Le patient continuera à être surveillé régulièrement pour évaluer d'éventuelles complications à long terme ou récidives. Une éducation a été fournie aux parents concernant les signes de complications potentielles et l'importance des visites de suivi régulières.
+
+Informations sur le patient :
+- Nom : Eline Simon
+- Âge : 38
+- Numéro de dossier médical : 183-NalOmc
+- Numéro d'identification : tiTE 75ZHI
+- Adresse : Eline Simon, 4342 Michaël Mountain 93, 1510 La Brigue, Belgique
+- Numéro de contact : 211.730.3588x54941
+- Email : ustce@gmail.com
+- Plan de santé : l5Q4
+
+Informations de contact de l'infirmière :
+- Nom : Justin De Cock
+- Numéro de licence : Bg 679624x
+- Organisation : Wallace-Miranda
+- Numéro de contact : 211.730.3588x54941
+- Email : ustce@gmail.com
+
+Contact d'urgence :
+- Nom : Eline Simon
+- Relation : Eline Simon
+- Numéro de contact : 211.730.3588x54941
+- Email : ustce@gmail.com
+
+Pied de page : 
+- ID du document : tiTE 75ZHI
+- Date : 24 déc. 2016
+- Adresse IP : 78.154.224.41"
+

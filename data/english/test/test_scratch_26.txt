@@ -1,0 +1,75 @@
+"Nursing Scratch Note:
+
+--------------
+Nov 
+--------------
+Pt: Samuel Wilson
+--------------
+- CC: \"stomach ache, feeling feverish\"
+- Temp: 38.8\u00b0C
+- BP: 130/85 mmHg
+- Pulse: 92 pm
+
+Observations:
+- Appears uncomfortable, keeps holding stomach
+- Skin feels warm to touch
+- No known allergies
+
+-------------
+Current Meds:
+-------------
+- 
+- 
+
+-----------------
+Test Results:
+-----------------
+- 
+- 
+
+Possible Dx: Typhoid
+
+----------------------
+Treatment Plan:
+----------------------
+- 
+- 
+
+-----------------
+Contact:
+-----------------
+- Quinn Bish: Dr. Quinn Bish
+- 001-845-336-6143x9469: 001-845-336-6143x9469
+- Email: ii@icloud.com
+- Fax: +1-743-532-5693x3161
+
+----------------
+Other PHI:
+----------------
+- Admission Date: Nov
+- Discharge Date: Nov
+- MRN: 0246 UkLQS
+- Healthplan: 0EHEtRX
+- Org.: Flores, Baldwin and Mooney
+- Prof.: Geneticist, molecular
+- Location: hospital
+- IP Address: 17.211.138.212
+- SSN: 123-662-008
+- Acc no.: 753-60455J
+- Device no.: 14015 Ksug
+- Username: DyeaZXal
+- Vehicle: 3RV 236
+- License: ue 2797MFa
+- Biometric ID: sHuM 76hVD
+- ID no.: 753-60455J
+- Address: Samuel Wilson, 122 Counterbond, Kiesters, 54 1354, United States
+- City: Kiesters
+- State: 54
+- Country: New Zealand
+- Zip: 1354
+- URL: anderson.com
+
+---------------
+End of Note
+---------------"
+

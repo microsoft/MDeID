@@ -1,0 +1,40 @@
+"Arzt Kratz Notiz
+
+Patient: Adrien Coppens
+ID: 042993 fQl
+Alter: 91
+
+S: Berichtet über sekundäre Unfruchtbarkeit in den letzten 3 Jahren. Regelmäßige Menstruationszyklen mit leichter Dysmenorrhoe. Berichtete Menarche im Alter von 91.
+
+O: 
+- Äußere Genitalien und Vagina: Normal
+- Zervikale Öffnungen: Zwei, in anteroposteriorer Anordnung
+- Posteriorer Kanal Ausschabung: Normale endozervikale Schleimhaut, keine Fisteln
+- HSG: Normale Gebärmutterhöhle, Röhren, Kontrastmittel verlässt den hinteren endozervikalen Kanal
+- Transvaginaler Ultraschall: Retrovertierte Gebärmutter, ein innerer zervikaler OS, zwei endozervikale Kanäle
+
+A: 
+- Hauptproblem: Sekundäre Unfruchtbarkeit
+- Zervikale Öffnungen und endozervikale Kanäle: Zwei, bestätigt durch mehrere Bildgebungen
+- Defekte der Gebärmutterhöhle oder andere strukturelle Anomalien: Keine erkennbar
+- Weitere invasive Tests wie MRT oder Hysteroskopie: Nicht angezeigt
+
+P: 
+- Überwachung der reproduktiven Gesundheit und sekundären Unfruchtbarkeit
+- Aufrechterhaltung von gesundheitsfördernden Maßnahmen
+- Regelmäßige Nachuntersuchungen: fIs
+- Weitere diagnostische Tests: In dieser Phase nicht geplant
+- Kontakt zum Gesundheitsdienstleister: 247.573.2773 bei Bedenken oder Fragen zu ihrem Zustand und Behandlungsmöglichkeiten
+
+Beratender Arzt: Marc Brunner
+Marc Brunner Lizenz: Py-EtyqgoO
+Krankenhaus: Connecticut Mariners Museum Newport News
+Adresse: Adrien Coppens, Steckelallee 8/2 122, 6300 Hinterglemm, Österreich
+Telefon: 247.573.2773
+Email: err@microsoft.org
+URL: simon.daniels-perry.com
+
+Nächster Termin: 23. März 2010
+Zeit: 23. März 2010
+Ort: Apotheke"
+

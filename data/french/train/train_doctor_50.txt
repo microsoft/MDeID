@@ -1,0 +1,22 @@
+"Note de Docteur Scratch
+
+S :
+
+Marthe Cools, 43, infections récurrentes de la gorge. Fièvre, mal de gorge, congestion nasale et toux - 5 jours. Diagnostic de la grippe - jour 1, oseltamivir prescrit. Arrêt du médicament - jour 3 en raison de nausées et de vomissements. Douleur abdominale, douleur articulaire (genou gauche, cheville droite, coude droit), léthargie, perte d'appétit, urine foncée. Cadre familial - vit avec sa mère et trois frères et sœurs, pas de symptômes similaires.
+
+O :
+
+Examen au centre d'urgence - fièvre (39,4°C), hypotension (78/47 mm Hg), tachypnée (fréquence respiratoire 33/min), tachycardie (fréquence cardiaque 160/min). Examen physique - lésions labiales croûteuses, lymphadénopathie cervicale, congestion nasale, érythème pharyngé non purulent, souffle systolique, hépatosplénomégalie, pas de signes d'arthrite. Résultats de laboratoire - numération leucocytaire normale (11 600/mm3), thrombopénie (numération plaquettaire 36 000/mm3), anémie (hémoglobine 8,9 g/dL), hypoalbuminémie (albumine 1,9 g/dL), protéinurie, pyurie stérile, marqueurs inflammatoires élevés (protéine C-réactive 182 mg/L, vitesse de sédimentation érythrocytaire élevée). Admise à l'Provincetown MA, unité de soins intensifs pédiatriques, mise sous cefepime et vancomycine intraveineuses.
+
+A :
+
+Symptômes sévères - infection systémique ou processus inflammatoire. Complications - diagnostic récent de grippe, réaction indésirable au médicament antiviral. Diagnostic différentiel - sepsis, complications post-infectieuses de la grippe, autre condition infectieuse ou auto-immune sous-jacente. Implication multi-systémique - anomalies hématologiques, hépatosplénomégalie, marqueurs inflammatoires élevés.
+
+P :
+
+Surveiller les signes vitaux, les valeurs de laboratoire à l'Provincetown MA, unité de soins intensifs pédiatriques. Maintenir la cefepime intraveineuse, la vancomycine, ajustements basés sur les résultats de culture, la réponse clinique. Soins de soutien - hydratation, nutrition. Bilan diagnostique supplémentaire - cultures de sang, échocardiogramme, éventuelle biopsie de la moelle osseuse (cause de la thrombopénie, anémie). Mises à jour régulières à la famille de Marthe Cools, éducation sur l'adhésion au traitement, surveillance des symptômes à domicile après la sortie. Consulter Fiona Wong, hématologie, spécialistes des maladies infectieuses pour une prise en charge globale.
+
+Fiona Wong, Infirmière adulte
+
+Miller, Jackson et Wiggins"
+

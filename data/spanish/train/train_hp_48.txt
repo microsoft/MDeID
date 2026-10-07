@@ -1,0 +1,74 @@
+# Nota de Historia y Examen Físico
+
+## Queja Principal y Motivo de la Visita
+
+Mercedes Rojas se presenta con un exantema diseminado caracterizado por lesiones maculares dispersas en las extremidades. Acompañado de fiebre alta y prurito, lo que resulta en un considerable malestar.
+
+## Historia de la Enfermedad Actual
+
+Mercedes Rojas informa la aparición de cambios en la piel, principalmente en forma de máculas rojas que aparecen espontáneamente, seguidas de una sensación general de malestar y una fiebre alta constante. El inicio del prurito fue relativamente repentino, después de la aparición de las lesiones cutáneas.
+
+## Historia Médica Pasada
+
+Mercedes Rojas tiene una historia médica pasada relativamente poco notable, sin condiciones crónicas y un fuerte énfasis en un estilo de vida saludable.
+
+## Medicamentos
+
+Actualmente, Mercedes Rojas no está tomando ningún medicamento regular.
+
+## Alergias
+
+No se informaron alergias conocidas por Mercedes Rojas o los cuidadores de Mercedes Rojas.
+
+## Historia Familiar
+
+La historia familiar no revela ninguna predisposición genética conocida a trastornos de la piel o enfermedades autoinmunes.
+
+## Revisión de Sistemas
+
+Al evaluar, todos los sistemas parecen funcionar normalmente. No se observaron correlaciones anormales.
+
+## Examen Físico
+
+El examen físico revela múltiples máculas rojas diseminadas en las extremidades, más potentes en el tronco, los brazos y las piernas. No hay signos de infección o complicaciones secundarias en este momento.
+
+## Signos Vitales
+
+- Temperatura: 38.5°C
+
+- Frecuencia Cardíaca: 98 latidos/min
+
+- Presión Arterial: 120/80 mmHg
+
+- Frecuencia Respiratoria: 18 respiraciones/min
+
+- Saturación de Oxígeno: 98%
+
+## Sección de Resultados
+
+Los resultados de laboratorio están pendientes de análisis. Se ha consultado a Dermatología para ayudar con el diagnóstico diferencial y la formulación del plan de tratamiento.
+
+## Evaluación y Plan
+
+A la luz de los síntomas, la enfermedad exantemática es el diagnóstico de trabajo. El Jaime Gaviria ha recomendado una serie de pruebas diagnósticas, incluyendo un recuento sanguíneo completo, prueba de función hepática y biopsia de piel. Se ha iniciado el tratamiento sintomático con antipiréticos y antihistamínicos para aliviar la fiebre y la picazón.
+
+## Historia Social
+
+Mercedes Rojas lleva un estilo de vida activo, con una dieta equilibrada y ejercicio regular.
+
+## Sección de Instrucciones
+
+Se formularán más instrucciones y un plan de tratamiento basado en los resultados de las pruebas diagnósticas pendientes. Se aconseja a Mercedes Rojas que descanse, mantenga la hidratación y evite rascar las lesiones cutáneas.
+
+[Fin de la Nota de H&P]
+
+*Nota:* No se divulgó PHI. Todas las instancias de PHI han sido reemplazadas por marcadores de posición .
+
+*Doctor: Jaime Gaviria*  
+
+*Paciente: Mercedes Rojas*  
+
+*Fecha del Encuentro: 24 de septiembre de 1988*  
+
+*Número de Historia Clínica: XWoBx-8093*
+

@@ -1,0 +1,47 @@
+"**Notas de la Enfermera**
+
+S: El tutor de la paciente Luciana Maidana informa que su hijo de 104 años fue referido para el tratamiento de una deformidad bilateral desigual del labio superior y la cavidad oral con un maxilar superior colocado hacia adelante.
+
+O: La intervención implicó la eliminación de aproximadamente 3 mm de hueso del hueso plano que forma la base de la nariz, ubicado detrás de la placa perpendicular del hueso etmoides, para alinear el maxilar superior colocado hacia adelante. El ligamento entre el septum y el premaxilar, anterior a la placa perpendicular del hueso etmoides, se conservó para mantener la posición correcta del premaxilar. Luego, el maxilar superior fue reposicionado y estabilizado utilizando suturas dentro del hueso con poliglactina 910 2-0 (Anderson LLC, Anderson LLC, México). También se realizó una reparación muscular del músculo alrededor de la boca y una remodelación limitada de la nariz a través de una incisión en forma de U invertida para mejorar la apariencia nasal.
+
+A: El diagnóstico principal es una deformidad bilateral desigual del labio superior y la cavidad oral con un maxilar superior colocado hacia adelante. Los procedimientos quirúrgicos realizados tenían como objetivo corregir estas deformidades y mejorar la simetría y la función facial. El pronóstico es generalmente positivo con una curación y seguimiento adecuados.
+
+P: El cuidado postoperatorio incluye monitorear el proceso de curación y asegurar visitas de seguimiento adecuadas para evaluar el resultado quirúrgico y abordar cualquier complicación. Se aconseja al tutor del paciente que vigile la recuperación de su hijo y contacte al proveedor de atención médica si surge alguna preocupación o pregunta. Se planifican más consultas con especialistas pediátricos y seguimientos quirúrgicos continuos para asegurar una recuperación y desarrollo óptimos.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Información Adicional del Paciente**
+
+ID del Paciente: 902538 XyZ
+Edad: 104
+Fecha del Procedimiento: 1 de marzo de 1993
+Nombre del Doctor: Lucia Rendón
+Hospital: Channel
+Número de Cuenta: NQqezG-915
+Número de ID: NQqezG-915
+Plan de Salud: RuOEJbU3
+
+**Información de Contacto**
+
+Número de Teléfono de la Madre: 001-412-465-6814x1254
+Número de Teléfono de Contacto de Emergencia: 001-412-465-6814x1254
+Dirección de Correo Electrónico: dóna@unwomen.org
+Dirección de Casa: Luciana Maidana, Pasaje Líbano 322 Interior 972 164, Tonguebird, VILLETA 85291, Perú
+
+**Pie de Página**
+
+URL: harper.gamble-mercado.com
+Nombre de Usuario: Luciaa
+Número de Seguridad Social: 573-05-6834
+Número de Licencia: JBI 950tbG
+Información del Vehículo: 6C 8067V
+ID Biométrica: 186522-603
+Dirección IP: 52.194.61.198
+Profesión: Geólogo, ingeniería
+Organización: Anderson LLC
+Estado: Península de Yucatán
+Ciudad: VILLETA
+País: México
+Calle: 353 Thomas Parkway
+Código Postal: 85291
+Fax: 448-678-4789x951"
+

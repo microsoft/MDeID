@@ -1,0 +1,57 @@
+"Nota de Rascunho del Doctor:
+
+Paciente Ignacio Santos
+ID lz-8144xXT
+EDAD 21
+Residencia: farmacia
+
+Detalles de Admisión: 
+- Dificultad respiratoria severa
+- Estado mental - alterado, desorientado
+
+Historial Médico Significativo: 
+- Aneurisma intracraneal (sangrado post-quirúrgico)
+- Accidente cerebrovascular isquémico (afasia, paraplejia)
+- Colocación de tubo PEG
+
+Al Ingreso: 
+- Intubación para soporte respiratorio
+- Signos vitales: ZRxM-739fb
+- Resultados de Laboratorio Clínico: ZRxM-739fb
+
+Diagnóstico: Shock séptico (potencial)
+- Iniciado trabajo de sepsis
+- Cultivos: Sangre, Orina
+- Tratamiento inicial: Hidratación con líquidos intravenosos, Antibióticos ( y )
+
+Informe de Escaneo CT: 
+- Escaneo CT sin contraste - tórax, abdomen, pelvis
+- Hallazgos: Atelectasia pulmonar bibasilar, malposición del catéter de derivación VP (dentro de la luz gástrica), malposición del tubo PEG (fuera de la luz gástrica), celulitis de la pared abdominal, abscesos localizados (sitio de inserción del tubo PEG)
+
+Informe de Cultivo: 
+- Análisis y cultivos de LCR - negativos
+- Cultivo de herida - Proteus mirabilis (sensible a carbapenems, piperacilina/tazobactam)
+
+Diagnóstico Primario: 
+- Shock séptico, secundario a celulitis de la pared abdominal y abscesos localizados
+- Complicaciones: Malposición de la derivación VP y del tubo PEG
+
+Diagnóstico Diferencial: 
+- Infección de la derivación VP
+- Meningitis/Encefalitis
+(Descartado por análisis y resultados de cultivo de LCR)
+
+Plan de Manejo: 
+- Continuar antibióticos IV (basado en pruebas de sensibilidad)
+- Monitorear el estado clínico del paciente
+- Cuidado de apoyo para la estabilización respiratoria, circulatoria
+- Consulta quirúrgica para la corrección de la derivación VP y del tubo PEG
+
+Educación y Seguimiento: 
+- Educación del paciente sobre el plan de tratamiento
+- Vigilar los signos/complicaciones de la infección
+- Seguimientos regulares y reevaluación de la eficacia del tratamiento
+
+Agnes Christiansen
+Nassau County District"
+

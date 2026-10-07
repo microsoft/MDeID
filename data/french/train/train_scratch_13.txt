@@ -1,0 +1,63 @@
+"**Note de l'infirmière** 
+
+**Aperçu médical de Hunter Ouellet**
+
+- **Date d'évaluation** : 15 mai 2022
+- **Plainte principale** : \"Je me sens faible et endolori dernièrement, et mes articulations sont douloureuses...\"
+
+**Signes vitaux** : 
+1. **Pression artérielle (PA)** : 123/80 mmHg
+2. **Fréquence cardiaque (FC)** : 78 bpm
+3. **Fréquence respiratoire (FR)** : 16 respirations/min
+4. **Température** : 36.7\u00b0C
+5. **Saturation en oxygène (SpO2)** : 98%
+
+**Évaluation préliminaire** : Possible arthrite
+
+**Observations notables** :
+
+- **Niveau d'activité** : Diminué
+- **Échelle de douleur** : 5/10 
+- **Humeur** : Anxieux à propos de la douleur articulaire
+- **Mobilité** : Limitée en raison de la douleur articulaire
+- **Réponse au médicament** : En attente des effets des analgésiques prescrits
+
+**Détails personnels du patient** :
+
+- **Âge** : 62
+- **Localisation** : Hunter Ouellet, 32907 Mathieu Roads Apt. 360 143, 5146 Guadiaro, Suisse
+- **Contact** : 2632344112 / Deniy@msf.org
+- **Contact d'urgence** : 2632344112
+- **Hôpital préféré** : King's College London University of London
+- **Plan de santé** : MjMyl5zdF
+
+**Référence rapide de l'historique du patient** : 
+
+- **Numéro de dossier médical** : 35 2874ipG
+- **Numéro de compte** : 927-KMuyiG
+- **BioID** : 5218 WdnyN
+- **Appareil** : 399 fvgnfI
+- **Profession** : Homéopathe
+- **Organisation affiliée** : Evans, Parker et Warner
+
+**Informations de contact de l'équipe de soins** :
+
+- **Médecin de soins primaires** : Jérémy Denis 
+- **Contact** : 2632344112, Deniy@msf.org
+- **Médecin référent** : Jérémy Denis
+- **Contact** : 2632344112, Deniy@msf.org
+
+**Informations supplémentaires pertinentes** :
+
+- **Adresse IP de connexion au portail patient** : 143.226.244.28
+- **Nom d'utilisateur sur le portail patient** : jSg5qYZq
+- **Identifiant du véhicule** : AUZ-3458
+- **Numéro de sécurité sociale** : 990-219-358
+- **Numéro de licence** : UJobGj-788
+- **Autre numéro identifié** : 927-KMuyiG
+- **Localisation du patient** : banc
+- **Code postal du patient** : 5146 
+- **Numéro de fax** : 946-313-2489x0260
+
+**Avertissement** : Cette note est uniquement à titre de référence et n'a aucune valeur clinique ou diagnostique. Elle doit être utilisée dans le contexte d'une prise en charge globale du patient."
+

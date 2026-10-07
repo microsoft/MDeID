@@ -1,0 +1,43 @@
+"\"Krabbelnotities: Willem de Ruiter\"
+
+Vitaliteit:
+- BP: 140/90
+- HR: 85
+- Temp: 98.6
+- Resp: 12
+- SpO2: 97%
+
+Observaties:
+- Problemen met wondgenezing, focusgebied - voeten
+- Gevoelloosheid gemeld, bevestiging uko-623466 metingen
+- 25, diabetes vermoed, testresultaten nodig, referentienummer 274-6010KV
+
+Behandeling:
+- Insuline 93xlJ1zs, dosis ref. 6665 wqLee
+- Wondverzorgingsregime gestart, voltooid door zondag 11 februari 1996
+
+Plan:
+- Blijf glucosemonitoring handhaven, apparaat ID - uko-623466
+- Dieetbegeleiding door Maartje Vermeulen
+- Volgende wondbeoordeling verschuldigd zondag 11 februari 1996
+
+Noodcontact:
+- Naam: Willem de Ruiter
+- Relatie: Ziekenhuisarts
+- Telefoon: +1-607-434-5116x88118
+- Email: Vermaart@microsoft.org
+
+Toegewezen Professionals:
+- Verpleegkundige: Maartje Vermeulen
+- Fysiotherapeut: Maartje Vermeulen
+- Diëtist: Maartje Vermeulen
+
+Extra Info:
+- Woont op: Willem de Ruiter, Peculiarity 53, 2088 Brummagem, Nederland
+- IP-adres voor externe monitoring: 85.235.156.174
+- Voertuig voor transport: C27-VCX
+- Zorgverzekering: FBo
+
+Notitie door: Maartje Vermeulen, Licentie Nr.: czjIV-3730
+Datum: zondag 11 februari 1996"
+

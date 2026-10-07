@@ -1,0 +1,40 @@
+"Nurse Narrative Note
+
+S: Patient Harrison Brown reports being diagnosed with liver masses and is present for transplantation consultation. The patient is unsure about specific symptoms but mentions a biopsy confirming the diagnosis.
+
+O: Preoperative imaging reveals an enlarged liver with multifocal disease throughout the hepatic parenchyma, peripheral enhancement with central hypoattenuation on arterial phase, and isodensity on delayed phase imaging. Calcifications are noted in some masses. No significant change in mass size over 18,74. Pathologic examination shows multiple tan nodules (0.5 to 3.0 cm) in bilateral lobes, with two histologic patterns: well-formed vascular channels and scattered cords of tumor cells in a sclerotic matrix, and areas with central hyalinized scars and neoplastic cells. Immunohistochemical results show strong expression of CD31 and ERG, positive TFE3, and negative CAMTA1 in tumor cells.
+
+A: The patient has multifocal hepatic masses with features suggestive of a vascular neoplasm, possibly a variant of hepatic hemangioma or angiosarcoma, given the vascular nature and immunohistochemical staining. The stable size of the masses and detailed histologic and immunohistochemical findings support a controlled but cautious approach, with liver transplantation as the indicated treatment.
+
+P: Proceed with liver transplantation as planned. Post-transplantation, closely monitor the patient for signs of rejection and manage immunosuppression carefully. Regular follow-up appointments will be necessary to assess liver function and detect any recurrence of disease. Educate the patient on signs of complications related to transplantation and ensure understanding of the need for lifelong follow-up and care.
+
+Patient Information:
+Patient ID: NXttd-365z
+Medical Record Number: 20910 9620
+Account Number: NXttd-365z
+Location: school
+Hospital: AVR
+Health Plan: o081B
+
+Contact Information:
+Doctor: Grace Jones
+Email: ce@mail.com
+Phone: 621.509.6736x68289
+Fax: 001-831-478-2714x431
+
+Additional Information:
+City: Stowages
+State: 31
+Profession: Occupational hygienist
+Organization: Petty Inc
+Age: 24
+Username: PjRhgdC4
+Vehicle: 2-23860P
+Social Security: 863-10-3189
+License: WZXzI QYIx
+BioID: mWk-dQzONM
+IP Address: 81.128.61.175
+URL: https://www.gutierrez.net/list/blog/tagsearch.php
+
+Nurse Grace Jones"
+

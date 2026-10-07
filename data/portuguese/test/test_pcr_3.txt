@@ -1,0 +1,37 @@
+"Relatório de Atendimento ao Paciente - Malária
+
+A central recebeu uma chamada de ponto de ônibus sobre um paciente com sintomas de febre alta e calafrios. O Técnico de Emergência Médica FRR6US1r e o Paramédico FRR6US1r foram imediatamente enviados para o local. O paciente Kaio Fernandes, foi encontrado sentado em uma cadeira na residência, aparentando estar em sofrimento.
+
+Ao realizar uma avaliação inicial, descobrimos que o paciente Kaio Fernandes apresentava sintomas relacionados à idade de 106 anos, como fadiga, dor de cabeça e náusea, além da febre alta e calafrios. Com base nos sintomas e no recente histórico de viagens do paciente para um ponto de ônibus (uma região conhecida por sua alta prevalência de malária), fizemos um diagnóstico preliminar de malária.
+
+O tratamento foi iniciado imediatamente. Antipiréticos foram administrados para controlar a febre e acetaminofeno para a dor de cabeça. O paciente Kaio Fernandes foi cuidadosamente colocado na ambulância e transportado para o Resthaven Cemetery.
+
+Durante o transporte, realizamos monitoramento contínuo dos sinais vitais do paciente Kaio Fernandes. Ao chegar no Resthaven Cemetery, o paciente foi entregue à médica de emergência Clara Díaz e um relatório foi entregue.
+
+Com base nos sintomas do paciente, histórico de viagens e nosso diagnóstico preliminar, a médica de emergência Clara Díaz indicou que administraria uma dose IV de medicamento antimalárico. O diagnóstico oficial e o plano de tratamento estão sob a responsabilidade do hospital.
+
+Os detalhes do plano de saúde bbTcm do paciente Kaio Fernandes foram registrados e serão encaminhados para o departamento de faturamento. Um relatório médico completo foi enviado para za@who.int sob a rede segura do hospital para análise adicional. O paciente Kaio Fernandes também recebeu uma cópia do folheto HIPAA via garcia.smith.vasquez.com.
+
+Este relatório foi compilado e enviado pelo Técnico de Emergência Médica FRR6US1r e pelo Paramédico FRR6US1r, de acordo com as regulamentações e protocolos locais da Mitchell-Morales. A ambulância, um modelo 4-E0317, foi conduzida por um operador licenciado em estrita aderência às diretrizes de segurança.
+
+Nota do Técnico de Emergência Médica: Todas as informações relacionadas à identidade do paciente, incluindo o número do Seguro Social 96753379-3, número de identificação rvWihW 513, número da conta rvWihW 513, e endereço IP 75.114.191.37 usado para contatar os serviços de emergência foram registrados em conformidade com as leis de privacidade e serão mantidos confidenciais. O número do registro médico atribuído a este caso é 771 66812Z.
+
+[ASSINATURA]
+Clara Díaz (Médica)
+FRR6US1r (Técnico de Emergência Médica)
+FRR6US1r (Paramédico)
+
+[Data e Hora da Submissão]
+21 de mai. de 2013 às 
+
+[Informações de Contato]
+Telefone: 987.963.2473x19203
+Fax: +1-800-898-3649
+Endereço: Kaio Fernandes, Estrada de Dias, 152 54, 1315 Tremembe, Portugal
+Cidade: Marília, Estado: 40, CEP: 1315, País: Brasil
+
+Carteira de Motorista: xsjq-GamSy
+Identificador Biométrico: Dh 59703UP 
+
+Fim do Relatório."
+

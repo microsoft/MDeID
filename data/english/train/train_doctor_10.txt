@@ -1,0 +1,39 @@
+"---
+Scratch Note
+
+Grace Smith - ID: 37552-5052
+Diagnosis: Infantile-onset hypophosphatasia (HPP)
+
+Summary:
+History of recurrent pneumonia, rib fractures, extremity fractures, rickets, and short stature. Pseudofractures in Sep,73 and fragility fracture in Sep,73. Non-healing initially led to non-weight-bearing status. Commenced on asfotase alfa treatment since Sep,73. Reports of improved mobility post-treatment.
+
+Vital Signs:
+Height: 138.4 cm (Expected Mid-parental height: 174 cm) 
+Edentulous: Yes
+
+Lab Results (Sep,73):
+ALP: 8 U/L (NR: 38\u2013126)
+Vitamin B6: 2450 mcg/L (NR: 5\u201350)
+
+Genetics:
+Compound heterozygous mutations c.526G>A (p.Ala176Thr) and c.1132G>C (pAsp378His)
+
+Imaging:
+Post-treatment radiographs - significant callus formation, improved bone healing
+
+Plan:
+Continue asfotase alfa 1 mg/kg subcutaneous injection (6 times/week)
+Monitor bone density, ALP levels, skeletal health
+Physical therapy for mobility and muscle strength maintenance
+Follow-up: Every 3 months 
+Education on signs of potential complications
+Ensure accessibility to orthopedic care for new symptoms
+
+Craig Mills
+License No: 3442-86TbP
+Parker Group
+Grace Smith, 149 Dashers, Deforesting, 14 0136, United States
+Phone: 001-405-637-6467x0843
+Email: MillCra@unicef.org
+---"
+

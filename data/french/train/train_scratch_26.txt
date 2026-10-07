@@ -1,0 +1,57 @@
+"**Notes de l'infirmière :**
+
+-----
+
+**Rapport du patient :**
+- Patient : Olivia Paquette
+- Âge : 85
+- Dossier médical : WI-881008O
+
+**Signes vitaux :**
+- TA : 120/80
+- FC : 85 bpm
+- Temp : 99.5 F
+
+**Observations médicales :**
+- Symptômes : nausées, fièvre, fatigue
+- Diagnostic possible : Malaria
+- Tests commandés : Frottis sanguin
+
+**Médicament prescrit :**
+- Nom : WI-881008O
+- Dosage : 073 1863ui
+
+**Plan de santé :**
+- Nom : 2ogw8
+- Compte : CC FTSLDrm
+
+**Informations de contact :**
+- Téléphone : +1-411-978-0025x69142
+- Email : outersI@mail.com
+- Adresse : Olivia Paquette, 110 5387 Eva Shore Apt. 064, 2032 Etoile, France
+
+**Informations supplémentaires :**
+- Nom d'utilisateur : liviauet
+- IP : 79.225.254.108
+- ID de l'appareil : 073 1863ui
+- Hôpital : Monts
+- Médecin : Inès Wouters
+
+**Contact d'urgence :**
+- Nom : Olivia Paquette
+- Relation : Planificateur de transport
+- Téléphone : +1-411-978-0025x69142
+
+**Confidentiel :**
+- Numéro de sécurité sociale : 029989-4202
+- Numéro de licence : AAcRR-5055
+- Informations sur le véhicule : 3UF B77
+- Identifiant biométrique : Jn-198547W
+
+-----
+
+**Note au fournisseur :**
+La patiente Olivia Paquette avec le numéro de dossier médical WI-881008O a signalé des symptômes similaires à ceux de la malaria. Les résultats du test de frottis sanguin sont en attente. Repos et hydratation conseillés. Consultation avec Inès Wouters pour de plus amples actions.
+
+Inès Wouters 31/05/2001  Olivia Paquette CC FTSLDrm Jackson, Johnson and Duffy Rumilly Belfort Canada 2032 smith-dillon.davis.com 001-254-376-6043"
+

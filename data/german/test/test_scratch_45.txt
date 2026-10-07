@@ -1,0 +1,62 @@
+"# Krankenschwester Scratch Note 
+
+### Patientendetails:
+    ======================================
+    Name: Vanessa Aigner
+    Alter: 32
+    Sozialversicherungsnummer: 278811-5895
+    Krankenhaus: 1882 Queen's College
+    Behandelnder Arzt: Fabienne Wolf
+    Medizinische Aktennummer #: 9658 ERMgy
+    ======================================
+
+    |Vitalzeichen|
+    ---------------
+    B.P: 120/80 
+    Temp: 37 C 
+    Puls: 80 BPM 
+    Atemfrequenz: 16/min 
+    O2 Sat: 98%
+
+## Zustand:
+    - Anhaltender Husten
+    - Atembeschwerden
+
+## Beobachtungen:
+    - Lungenklänge abnormal
+    - Nasenausfluss vorhanden
+
+## Behandlung:
+    - Saline Vernebelung
+    - Hustenunterdrücker
+
+    -------------------------------------
+
+### Zusätzliche Informationen:
+    -------------------------------------
+    Gesundheitsplan: TVCiHYdh
+    Adresse: Vanessa Aigner, Ignaz-Butte-Weg 6 188, 7845 Osthofen, Schweiz
+    Kontakt: +1-681-273-7586x244
+    Notfallkontakt: +1-681-273-7586x244
+
+    -------------------------------------
+
+## Weitere Details:
+    -------------------------------------
+    Gerät: HlLNB-DtzP
+    BioID: Ana-8480yV
+    IP-Adresse: 14.217.85.192
+    ID-Nummer: 260727-946
+    Benutzername: yBe8zkW7
+    Lizenz: 01-61OAIZM
+    Fahrzeug: 8P 67240
+    -------------------------------------
+
+- Beteiligte Berufe: Regulatory affairs officer
+- Relevante Organisationen: Johnson, Miller und Figueroa
+- Andere Standorte: Einkaufszentrum
+- Relevante Daten: Donnerstag, 21. September 2023
+- E-Mail des Patienten: eWolf@yahoo.com
+- URL: wilson.king-mathis.org
+- Fax: +1-262-285-6994"
+

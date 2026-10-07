@@ -1,0 +1,57 @@
+"Nota de Enfermagem: Impetigo 21/03/1992
+
+--------------------
+**Perfil do Paciente**
+- Nome: Cauã Dias
+- Idade: 39
+- Endereço: Cauã Dias, Largo de Neves, S/N 128, 1639 Stella Maris, Portugal
+- Contato: +1-765-556-7771x868/ Lauon@un.org
+- Contato de Emergência: +1-765-556-7771x868
+- Número do Prontuário Médico: GwW-fTBDfa
+- Número da Conta: RGqL 641ut
+- Plano de Saúde: T7pOYLYn
+- Hospital: Kreisau
+--------------------
+
+**Resumo Clínico**
+- Condição Dermatológica: Impetigo
+- Erupção cutânea com bolhas observadas
+- Dispositivo Afetado: N/A
+- Nome de usuário do paciente no fórum de saúde da pele: vmPP6D2L
+
+**Sinais Vitais**
+- Temperatura: 98.6\u00b0F
+- Pulso: 80 batimentos/min
+- Respiração: 16 respirações/min
+- Pressão arterial: 120/80 mmHg
+
+**Observações Adicionais**
+- Local da erupção: Não divulgado, máscara com supermercado
+- BIOID: Não disponível
+- Endereço IP da conexão de telessaúde do paciente: 97.40.104.106
+
+**Intervenções Planejadas**
+- Prescrição de antibióticos tópicos
+- Aconselhar a manter a pele limpa e seca
+- Retorno em 1 semana
+
+**Encaminhamentos**
+- Dermatologista: Dr. Laura Gonçalves
+- Consulta agendada para: 21/03/1992
+- URL da Consulta: https://harrison-higgins.com/categories/app/wp-contenthome.jsp
+
+**Notas Extras**
+- Paciente trabalha para: Banks, Boyle and Coleman
+- Profissão do paciente: Oficial de sistemas de informação geográfica
+- IDNUM: RGqL 641ut
+- Detalhes do veículo para transporte hospitalar: 9FP 350
+- Número da carteira de motorista do paciente: bRRi 2141S
+- Detalhe da Segurança Social: 331.622.176-04
+- País do paciente: Brasil
+- Cidade do paciente: Içara
+- Código postal: 1639
+- Fax para documentos médicos: +1-504-373-9181
+
+--------------------
+Documento emitido por: Enfermeira Laura Gonçalves"
+

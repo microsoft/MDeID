@@ -1,0 +1,39 @@
+"**Nurse Narrative Note for Dominic Ackroyd with Esophageal Squamous Cell Carcinoma**
+
+22 years-old patient presented with Dominic Ackroyd reporting primary complaint of dysphagia. Diagnosis of esophageal squamous cell carcinoma has been confirmed based on symptoms and diagnostic findings. 
+
+Upper gastrointestinal endoscopy showed a lesion with a notable ulcer, located in the lower thoracic esophagus from an incisor tooth. Esophagography displayed a major tumor lesion on the left antero-lateral wall and a submucosal tumor on the opposing side, leading to esophageal constriction. CT scan, performed on 156766 59n, displayed a protruding tumor lesion of 3 cm, with no evidence of lymph node or distant metastasis. PET-CT scan, done using 156766 59n, displayed increased FDG uptake in the lower thoracic esophagus without any signs of lymph metastasis. Blood tests for tumor markers (CEA, SCC) taken from Dominic Ackroyd, showed no elevated levels. Pathological examination, performed by Eva Carter, confirmed moderately to poorly differentiated squamous cell carcinoma, staged as cT2N0M0, cStageII.
+
+The primary diagnosis is cT2N0M0, cStageII esophageal squamous cell carcinoma, moderately to poorly differentiated. Due to Dominic Ackroyd's age and performance status, the decision against aggressive preoperative or postoperative therapies was made.
+
+Dominic Ackroyd underwent thoracoscopy- and laparoscopy-assisted subtotal esophagectomy and reconstruction with a gastric tube. The total operation time was 377 minutes with minimal blood loss. Postoperative recovery includes starting an oral diet 11 days after surgery. Ongoing monitoring and follow-up care are planned, with instructions for the patient to report any new concerns.
+
+--------------------------------------
+Nurse kroini, RN, BSN, EAV 023fCq 
+
+**Additional Information**
+
+- Patient ID: pKiXQA-477
+- Contact Number: 863.691.5886
+- Email: ra@unhcr.org
+- Address: Dominic Ackroyd, 19 Obeying, Polybranchiata, 63 3190, United States
+- City: Polybranchiata
+- State: 63
+- Zip: 3190
+- Country: New Zealand
+- IP Address: 203.108.175.129
+- Hospital: ski
+- Health Plan: qTM3m9Amm
+- Fax: 655-800-1453x16258
+- Organization: Lucas Group
+- BioID: 19691 kssu
+- ID Number: HprTV-cOCd
+- Vehicle: MQQ2349
+- Social Security: 074-992-010
+- URL: http://www.snow-patrick.info/category/wp-content/mainterms.asp
+- Location-Other: airport
+- Profession: Counselling psychologist
+- Account: HprTV-cOCd
+- Date: Sat.2.94
+- Doctor: Eva Carter"
+

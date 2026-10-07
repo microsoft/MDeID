@@ -1,0 +1,67 @@
+"Note de l'infirmière
+
+Patient : Samantha Ouellet
+Date de naissance : 8 janvier 1993
+Compte : Ju 862dzfZ
+
+--------------------
+Statistiques vitales : 
+------------
+FR : 98 bpm 
+TA :125/85 mmHg
+Temp : 36.6\u00b0 C
+FR : 20* plus d'essoufflement en position allongée
+--------------------
+
+Observations : 
+------------
+- Samantha Ouellet présente une dyspnée, surtout en position allongée
+- Pas de détresse visible, pas cyanosée
+- Poumons : Sifflements expiratoires diffus
+- Samantha Ouellet signale une exacerbation de l'état existant 0745-hRKBZ
+--------------------
+
+Traitement:
+------------
+- Administration de 2,5mg de Salbutamol via 809-FmICOc - légère amélioration
+- Notification à Edward Gagné pour une évaluation plus approfondie
+- Samantha Ouellet doit continuer avec la Metformine pour 0745-hRKBZ
+
+--------------------
+Contact familial : 
+------------
+Nom : Samantha Ouellet
+Relation : 
+Téléphone : 001-583-600-4786
+Contact d'urgence : 001-583-600-4786
+
+--------------------
+Informations supplémentaires:
+-------------
+Assurance : Ow8C
+Sécurité sociale : 978-2448280-07
+Profession : Designer, multimédia
+Nom d'utilisateur (pour les mises à jour du dossier) : M41v3tBI
+Adresse IP du serveur : 167.8.21.18
+Organisation : Zamora LLC
+
+--------------------
+Pied de page:
+-------------
+Établissement de santé : Clinique de Cleveland
+Emplacement : Edward Gagné, 3648 Nathalie Lights Suite 171 39, 5718 Rixensart, Belgique
+Numéro d'identification personnel : Ju 862dzfZ
+Assurance responsabilité civile : yqj-62NEmd
+ID du véhicule : 5ZH 932
+BioID : bFns NWCia
+--------------------
+
+Notes:
+-------------
+- Garder Samantha Ouellet sous observation
+- Réévaluer si l'état s'aggrave
+
+Proche parent : Samantha Ouellet
+Signé, Edward Gagné
+"
+

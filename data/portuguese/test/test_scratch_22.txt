@@ -1,0 +1,62 @@
+"**Nota Rápida da Enfermeira**
+
+Paciente: Pedro Mendes
+
+\u2712\ufe0f Resumo Breve: 
+
+Observaram-se caroços vermelhos, distribuição dispersa. Parece ser um possível caso de catapora. 75 não divulgado.
+
+----
+**Sinais Vitais & Observações:**
+
+- Temperatura: 98.6 F
+- Frequência Cardíaca: 76 bpm
+- Pressão Arterial: 120/80 mmHg
+- Frequência Respiratória: 16 respirações por min
+- Saturação de Oxigênio: 96% 
+- Caroços vermelhos: \u223c 30 no total
+
+----
+**Observações Médicas:**
+
+- Caroços: Cor vermelha, \u223c5mm de diâmetro, cheios de fluido, \u223c30
+- Desconforto Físico: Paciente relatou coceira
+
+----
+**Pensamentos Emergentes:**
+
+- Considerar: Possível catapora? Afonso Antunes para confirmar.
+- Necessidade: 51 2183ScF para revisar histórico médico passado.
+- Plano: Hidratação, descanso, evitar coçar, possíveis tratamentos antivirais.
+
+----
+**Informações de Contato:**
+
+- Telefone: 467.735.7879x7118
+- Endereço: Pedro Mendes, Chácara Renan da Cunha, 291 96, Sinupalliate, Jardins do Camarido, lote 4 - 69, ZEYM72B4, Brasil
+- Email: ntunens@red-cross.org
+
+----
+**Outras Informações:**
+
+- IP: 63.58.154.10
+- Veículo: RMJ-322
+- Dispositivo: 40-dgfIvkv
+- Conta: 198-5956sc
+- SSN: 47988174-8
+- Profissão: Engenheiro, mineração
+- Plano de Saúde: LI4
+- Organização: Brown and Sons
+- Localização: supermercado
+
+----
+**Próximos Passos:**
+
+- Notificar: Contatar membros da família, verificar status de vacinação.
+- Monitorar: Ficar de olho na progressão dos sintomas, relatar se piorar.
+- Agendar: Marcar consulta de acompanhamento, sexta-feira, 3 de maio de 2019 a ser determinado.
+
+Por favor, note que os detalhes acima estão no contexto deste encontro específico de enfermagem e devem ser atualizados de acordo. 
+
+**Fim da Nota Rápida**"
+

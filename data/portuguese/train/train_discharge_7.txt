@@ -1,0 +1,38 @@
+RESUMO DE ALTA
+
+Paciente: Giovana Gonzáles
+Médico Assistente: Diogo Jesus
+
+# MOTIVO DA HOSPITALIZAÇÃO:
+Giovana Gonzáles foi admitida no hospital após resultados positivos de guaiac e sintomas que incluíam calafrios e equimoses, indicativos de anemia.
+
+# CURSO HOSPITALAR:
+Na admissão, o nível inicial de hemoglobina do paciente foi notado como baixo, 8g/dl, sinalizando uma possível condição médica como anemia. O curso hospitalar foi complicado por episódios de calafrios e o aparecimento de hematomas espontâneos (equimoses), o que levou a uma investigação mais aprofundada que incluiu uma série de testes.
+
+# PROCEDIMENTOS REALIZADOS:
+Durante a estadia, foi realizada uma biópsia da medula óssea devido à presença de proteínas monoclonais no sangue. Este procedimento ajudou a identificar a causa raiz da condição do paciente.
+
+# CUIDADO, TRATAMENTO E SERVIÇOS:
+Giovana Gonzáles iniciou a suplementação de ferro e Eritropoietina. Exames de sangue regulares foram realizados para monitorar os níveis de hemoglobina e a resposta ao tratamento. Serviços adicionais como consulta dietética também foram disponibilizados para garantir a ingestão de alimentos ricos em ferro. O cuidado de enfermagem foi fornecido 24 horas por dia para monitorar os sinais vitais e o bem-estar geral do paciente.
+
+# CONDIÇÃO NA ALTA:
+No momento da alta, o nível de hemoglobina de Giovana Gonzáles havia aumentado para 11g/dl e os sintomas como calafrios e equimoses haviam diminuído significativamente. A condição geral do paciente também mostrou melhorias.
+
+# INFORMAÇÕES FORNECIDAS AO PACIENTE E FAMÍLIA:
+Os resultados e o plano de tratamento subsequente foram explicados em detalhes para Giovana Gonzáles e a família. Eles também foram informados sobre a importância de uma dieta saudável, rica em ferro e acompanhamento regular para monitoramento contínuo da condição médica.
+
+# PROVISÕES PARA CUIDADOS DE SEGUIMENTO:
+Foi organizado um acompanhamento ambulatorial com Diogo Jesus na Divisão de Hematologia. O paciente está agendado para retornar para uma consulta em duas semanas.
+
+# MEDICAÇÃO DE ALTA:
+Foram prescritos suplementos de ferro e injeções de Eritropoietina e as instruções para o mesmo foram explicadas ao paciente e à família.
+
+# INSTRUÇÕES DE ALTA HOSPITALAR:
+Giovana Gonzáles e a família receberam instruções específicas sobre sinais de piora da condição, como calafrios contínuos, fadiga excessiva ou hematomas significativos e para procurar atendimento médico imediato caso esses sintomas surjam.
+
+# DIAGNÓSTICO DE ALTA:
+Anemia, provavelmente causada por absorção reduzida de ferro ou ingestão dietética inadequada.
+
+Assinado:
+Diogo Jesus
+Número do Prontuário Médico: 04 196315D

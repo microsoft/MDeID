@@ -1,0 +1,45 @@
+"```
+Nurse Scratch Note: 
+===================
+Patient: Ariana Edney
+MRN: gKy dTYMvA
+
+    Vitals & Observations:
+    ----------------------
+    BP: 110/70 
+    Pulse: 80 bpm 
+    Temp: 98.6 \u00b0F 
+    RR: 16 bpm 
+    O2: 100% on RA 
+    Wgt: 70 Kg 
+    Hgt: 170 cm
+
+    Medical:
+    --------
+    Diagnoses: Jaundice, cause ongoing investigation
+    Medication: Awaiting doctor's orders James Wells
+    Lab: Liver function tests ordered, awaiting results TlT KsOSIx
+
+    Comments: Patient presents with jaundice. No fever. No chest pain. 
+
+Contact Information:
+--------------------
+Phone: 511-852-9873x1891
+Address: Ariana Edney, 49 Undrunken, Crawful 28 9341, Australia
+Emergency Contact: QIaiIFP7
+
+Additional Information:
+----------------------
+Health Plan: MO5LKnMfUx
+Admitted from: theater
+IP Address: 82.100.185.173
+Profession: Cabin crew
+Organization: Valdez, Lee and Deleon
+Vehicle: 8F 7413F
+SSN: 111-85-0212
+License: JLy-67393G
+Biometrics: kfH-OgNSXp
+
+```
+"
+

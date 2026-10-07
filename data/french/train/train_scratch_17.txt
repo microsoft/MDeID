@@ -1,0 +1,59 @@
+"Note d'Infirmière
+
+====================================================================================
+| Aperçu de Nina Roth |
+------------------------------------------------------------------------------------
+| Diagnostic d'infection urinaire |
+| 90 |
+| femme |
+| Plan de traitement : #1234DS |
+====================================================================================
+
+- 09:45, ii/05: Nina Roth s'est présentée avec des plaintes de douleurs abdominales, de fièvre...
+
+- 10:30: Les signes vitaux de Nina Roth : 78 bpm, TA : 130/80. Temp : 39.2C 
+
+- 10:45: Test d'urine demandé pour Nina Roth. 
+         Échantillon d'urine : Kt-7201mlV
+
+- 11:15: Infection urinaire suspectée. Nina Roth a commencé un traitement antibiotique #789DF
+
+- 12:00: Nina Roth montre un léger inconfort, température stable à 38.4C.
+
+- 15:00: Nina Roth montre des signes d'amélioration, la douleur abdominale régresse
+
+- 16:00: Nina Roth doit continuer les antibiotiques prescrits #789DF pour les cinq prochains jours.
+
+====================================================================================
+|  Détails de Contact Importants |
+------------------------------------------------------------------------------------
+| Médecin en charge : Levi Leblanc |
+| Infirmière : Géochimiste |
+| Hôpital : Musée de Genève |
+| Contact d'urgence : +1-256-796-1231x14869 |
+| Email : bi@aol.com |
+====================================================================================
+
+====================================================================================
+| Informations Diverses |
+------------------------------------------------------------------------------------
+| Plan de santé : r2g0ZlmM c3SuO6 |
+| Emplacement du patient : pharmacie |
+| Numéro de dossier médical : 905213-07D |
+| Numéro de compte : lE 2679sev |
+| Nom d'utilisateur du patient : R9VJpyrS |
+| Adresse IP : 70.139.107.11 |
+| Appareil : 45610 gIOm|
+| Véhicule : 681 ZPX |
+| Numéro d'identification :lE 2679sev |
+| Sécurité sociale : 5 21 44 89 687 938 |
+| Licence : 51359 90tv|
+====================================================================================
+
+**Note : Veuillez vous référer au patient Nina Roth par leur nom d'utilisateur R9VJpyrS dans toutes les communications**
+
+Note préparée par : R9VJpyrS (Infirmière)
+Date : 25 juillet 2001
+
+**Avertissement : Cette note est destinée au personnel médical uniquement, strictement aucune partage avec du personnel non autorisé**"
+

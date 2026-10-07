@@ -1,0 +1,64 @@
+"Note narrative d'infirmière pour un patient atteint de méningite et de sepsis
+
+Subjectif :
+
+Le patient Abigail Gagné a révélé avoir ressenti des maux de tête, de la fatigue, de la fièvre, des nausées, de la somnolence, de la confusion, une raideur de la nuque et un signe de Kernig positif depuis un moment non précisé. Les symptômes se sont aggravés pour inclure des signes de méningite et plus tard, de sepsis sanguin. Le patient Abigail Gagné a d'abord été traité avec de l'amoxicilline, du paracétamol et une solution de lactate de Ringer, suivi d'un transfert vers un établissement spécialisé pour une prise en charge plus approfondie.
+
+Objectif :
+
+Lors de son admission à Netherlands American, le patient a été diagnostiqué avec une méningite et un sepsis et traité avec 1 g de ceftriaxone quatre fois par jour. L'analyse du liquide céphalorachidien a confirmé N. meningitidis, spécifiquement un nouveau type de séquence ST 13074, sérogroupe B. Les signes vitaux et autres données objectives spécifiques de la présentation initiale ne sont pas fournis.
+
+Évaluation :
+
+Le diagnostic principal est une méningite et un sepsis dus à N. meningitidis sérogroupe B, ST 13074. L'état du patient Abigail Gagné était grave, nécessitant un traitement immédiat et intensif, y compris des antibiotiques et des soins de soutien. L'identification d'un nouveau type de séquence indique une souche unique, pouvant potentiellement affecter l'efficacité du traitement et la surveillance de la santé publique.
+
+Plan :
+
+Le plan est de continuer à surveiller la santé du patient pour toute récurrence des symptômes ou nouveaux problèmes de santé. Il est recommandé de s'assurer que les rendez-vous de suivi sont programmés, en particulier avec des spécialistes des maladies infectieuses pour une évaluation et une prise en charge plus approfondies. L'éducation du patient sur les signes de complications potentielles et l'importance de l'adhésion aux traitements prescrits est vitale. Encourager le patient à maintenir une hydratation, un repos et un régime alimentaire équilibré pour soutenir la récupération.
+
+-------------------------------------------------------------------------------------------------
+
+Signature de l'infirmière : BVwgINil
+
+Numéro de dossier médical : 496 14370C
+
+Numéro de compte du patient : 022276-LVp
+
+Identifiant de l'appareil du patient : KCu 286TiG
+
+Identifiant du véhicule du patient : 81S S21
+
+Numéro de sécurité sociale du patient : 984-1245264-42
+
+Numéro de permis du patient : XfLpwA-pVe
+
+Identifiant biométrique du patient : sT 939xUvX
+
+Adresse IP du patient : 87.27.231.47
+
+Identifiant personnel du patient : 022276-LVp
+
+Âge du patient : 55
+
+Adresse du patient : Abigail Gagné, 173 4838 Thomas Street, 2056 Besenfeld, France
+
+Emplacement actuel du patient : université
+
+Plan de santé du patient : za6YOi
+
+Profession du patient : Ingénieur, civil (contractant)
+
+Organisation du patient : Moore Inc
+
+Date du document : mardi 22 juillet 1980
+
+Nom du médecin : Leonie Meyer
+
+Email du patient : LeonieMeyer@outlook.com
+
+Numéro de téléphone du patient : +1-570-208-7733x4878
+
+URL du profil du patient : https://www.hardin-klein.info/tag/search/tagpost.html
+
+Numéro de fax du patient : 941.601.3870x4888"
+

@@ -1,0 +1,83 @@
+"**Nota de Enfermagem**
+
+-------------
+SINAIS VITAIS:
+- PA: 120/80
+- FC: 80 bpm
+- FR: 16 respirações/min
+- Temp: 98.6F
+- Sat O2: 97%
+
+-------------
+AVALIAÇÃO:
+- GI: Martim Antunes queixa de enjoo
+- Neuro: Notou instabilidade
+- Resp: Sem desconforto, pulmões limpos
+
+-------------
+TRATAMENTO:
+- Prescrito antiemético: eg 578797H 
+- Medicação administrada: eg 578797H
+
+-------------
+OBSERVAÇÃO:
+- Garganta parece vermelha
+
+-------------
+ALERGIAS:
+- Precisa ser testado para possíveis alergias
+
+-------------
+INFORMAÇÕES DE CONTATO:
+- 001-285-995-6406
+- earl@unhcr.org
+
+-------------
+CONFIRMAÇÕES:
+- quarta-feira, 18 de outubro de 2006 Data de admissão 
+- Carlos Azevedo Médico assistente 
+- Stamford Hospital Local de admissão 
+
+-------------
+OUTROS:
+- Série do dispositivo: ePdOt-5999
+- ID atribuído: 2831-dEAaJ
+- Endereço IP: 51.5.56.78
+- Nome de usuário: eMartim
+- Veículo: 340 TNR
+
+-------------
+SEGURANÇA:
+- 89638792-2
+- Licença: 2122 36wOK
+- Identificador biométrico: 448-617DKO
+
+-------------
+DETALHES PESSOAIS:
+- Endereço do paciente: Martim Antunes, Travessa Alice Carvalho, 47 52, Flexive, Guaratinguetá - 70, FE69R1MF, Brasil
+- Localização: banco
+- Plano de saúde do paciente: s43ZE3
+- Profissão: Engenheiro automotivo
+- Afiliação organizacional: Simmons-Browning
+- Idade do paciente: 58
+
+-------------
+RECURSOS DA WEB:
+- URL: miller.york.com
+
+-------------
+FAX:
+- +1-386-843-2239
+
+-------------
+CONTA E ESTADO:
+- Número da conta: 2831-dEAaJ
+- Estado de residência: RN 
+
+
+-------------
+CEP
+- Código postal: FE69R1MF
+
+Fim da nota."
+

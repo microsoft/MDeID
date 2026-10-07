@@ -1,0 +1,57 @@
+"Nota de Enfermagem: Sensibilidade da Pele
+
+Cabeçalho:
+======================
+Paciente: Inês Sousa
+Profissão: Gerente de sistemas de informação
+Contato: 
+- Telefone: 001-541-744-1455x81862
+- Email: êsv@icloud.com
+- Endereço: Inês Sousa, Vila Araújo 151, Nonsolvent, Timburi - 19, GGV8N3XW, Brasil
+======================
+
+Sinais vitais:
+- Temp: 98.6\u00b0F
+- FC: 70 bpm
+- FR: 16 respirações/min
+- PA: 120/80 mmHg
+
+Observações:
+1. Aumento da sensibilidade da pele 
+2. Vermelhidão e descamação 
+3. Possível psoríase 
+4. Leituras do jCkTSM 699 estáveis 
+
+Avaliações e Plano:
+- Biópsia de pele sugerida 
+- Consulta com dermatologia 
+- Plano de saúde: ZrNez4
+
+Rodapé:
+======================
+Contato de Emergência:
+- Nome: Inês Sousa
+- Relação: 
+- Telefone: 001-541-744-1455x81862
+- Localização: farmácia
+
+Detalhes Médicos:
+- Prontuário: 293-643778
+- Hospital: Bocaranga
+- Médico: Inês Neves
+- Última Visita: 3 de novembro de 1992
+
+Informações Técnicas:
+- Conta: niAIGA CrU
+- Nome de usuário: 7E2i5BDk
+- Endereço IP: 23.180.146.48
+
+======================
+
+Por favor, entre em contato com o paciente no 001-541-744-1455x81862 ou êsv@icloud.com para qualquer preocupação relacionada ao trabalho da Harvey, Flores and Byrd.
+
+Nota: Discutir com a Dra. Inês Neves em 3 de novembro de 1992 para o plano de acompanhamento de Inês Sousa. Registro permanente sob o ID niAIGA CrU e SOCSEC 389.644.891-63.
+
+Assinado,
+Inês NevesEnfermeira"
+

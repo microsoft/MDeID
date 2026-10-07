@@ -1,0 +1,49 @@
+"NOTAS RÁPIDAS: Perfil del Paciente
+
+------------------------------------------------------------
+Hugo Guzmán | 43 | masculino | Diseñador, moda/ropa | Bailey, Nelson y Hawkins
+------------------------------------------------------------
+**INFORMACIÓN DE CONTACTO**:
+* Casa: Hugo Guzmán, Calzada Brunei Darussalam 295 196 49, Sufflamination, Tecate 87613, Perú
+* Teléfono: 001-336-429-9469x285
+* CORREO ELECTRÓNICO: ranclv@yahoo.com
+------------------------------------------------------------
+**Signos Vitales del Paciente**:
+* Presión arterial - 121/81 (Normal)
+* Pulso - 75 (Normal)
+* Temperatura - 98.6 F (Normal)
+* Respiración - 16 respiraciones/min (Normal)
+------------------------------------------------------------
+**Información Médica del Paciente**:
+* Número de registro médico: 735-09vFbZ
+* Plan de Salud: SO4rSn
+* Hospital: Carnegie Mellon Ciencias de la Computación
+* Médico tratante: Francisca Silva
+------------------------------------------------------------
+**Observaciones**:
+- Se quejó de dificultad para concentrarse.
+- Se notó inestabilidad emocional.
+- Sospecha: diabetes.
+- Recomendado: Prueba de glucosa en sangre.
+------------------------------------------------------------
+**Información del Dispositivo**:
+- ID del dispositivo: 639 dhBCOI
+------------------------------------------------------------
+**Otra Información**:
+* Número de cuenta: 5443-0916p
+* Placa del vehículo: 5-Y1895
+* BioID: 6475 20361
+* Nombre de usuario: e5arak0M
+* Dirección IP: 1.167.57.25
+* Número de ID: 5443-0916p
+* Ubicación: universidad
+* Contacto de emergencia: Hugo Guzmán
+* Seguridad Social: 91.436.686
+* Estado: 44
+* Calle: 65210 Wallace Forge Suite 885
+* URL: http://bailey.info/app/category/explorecategory.htm
+* Código Postal: 87613
+* Fax: 527.804.2911x21345
+------------------------------------------------------------
+NOTA: Se programó un seguimiento para diagnósticos completos. Los resultados guiarán los próximos pasos en el plan de tratamiento. Contactar al paciente después de recibir los resultados de las pruebas."
+

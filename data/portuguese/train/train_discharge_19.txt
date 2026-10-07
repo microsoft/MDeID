@@ -1,0 +1,83 @@
+Resumo de Alta
+
+**Paciente**: Helena Oliveira
+
+**Prontuário Médico**: DEVg-66634
+
+**Condição de Alta**: Casa com instruções de autocuidado
+
+---
+
+**Seção de Alergias e Intolerâncias**
+Nenhuma alergia ou intolerância conhecida registrada.
+
+---
+
+**Seção do Curso Hospitalar**
+Helena Oliveira foi admitida devido a celulite. A estadia no hospital foi tranquila com resposta aos antibióticos intravenosos.
+
+---
+
+**Seção de Diagnóstico de Alta**
+Diagnóstico final: Celulite.
+
+---
+
+**Seção de Plano de Tratamento**
+O paciente recebeu prescrição de antibióticos orais para conclusão do tratamento em casa.
+
+---
+
+**Seção de Consultas Hospitalares**
+Helena Oliveira foi avaliada pela equipe de Doenças Infecciosas, suas recomendações foram integradas ao plano de tratamento.
+
+---
+
+**Seção de Procedimentos**
+Nenhum procedimento foi realizado durante esta admissão.
+
+---
+
+**Seção de Resultados**
+O eritema, a dor e o inchaço reduziram significativamente e não houve febre durante a hospitalização.
+
+---
+
+**Seção de Medicamentos de Alta**
+Antibióticos orais foram prescritos por um período de 10 dias.
+
+---
+
+**Seção de Instruções de Alta Hospitalar**
+Helena Oliveira foi instruída a continuar os antibióticos orais e monitorar os sinais de infecção. Uma consulta de acompanhamento com o médico de atenção primária Lucas Coelho foi agendada.
+
+---
+
+**Seção de Exame Físico de Alta Hospitalar**
+No momento da alta, os sinais vitais de Helena Oliveira estavam estáveis e a condição da pele melhorou.
+
+---
+
+**Seção de Resumo de Estudos de Alta Hospitalar**
+Os exames de sangue mostraram uma contagem normal de leucócitos no momento da alta, indicando controle da infecção.
+
+---
+
+**Seção de Diretrizes Antecipadas**
+Na chegada, Helena Oliveira forneceu informações para diretrizes antecipadas que foram discutidas e registradas.
+
+---
+
+**Médico**: Lucas Coelho
+
+**Data**: 27/01/1982
+
+**Hospital**: Tom Hunt Energy
+
+**Endereço**: Helena Oliveira, Aeroporto da Mata 132, Undiscounted, Vila Nogueira - 42, CW81TYLN, Brasil
+
+**Telefone**: 571.431.3175x811
+
+**Email**: Lh@unwomen.org
+
+Este documento foi preparado com cuidado e atenção, garantindo a proteção das informações de saúde pessoal. Entre em contato conosco se tiver alguma dúvida.

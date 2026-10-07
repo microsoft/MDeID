@@ -1,0 +1,67 @@
+"Ärztliche Notiz
+
+---
+
+Ort: Dublin Republik
+
+Patient: Carina Moser
+
+Identifikation: oXcYJT-50V
+
+Alter: 53
+
+---
+
+Subjektiv:
+
+Unbehagen - Leistenbereich
+TEP-Verfahren - beidseitige direkte Leistenhernie
+TURP - benigne Prostatahyperplasie
+Schmerzen/Schwellungen - rechter Leistenbereich, postoperativ
+Kontakt: 367-287-5641x8987
+
+---
+
+Objektiv:
+
+TEP, TURP - Gesamte OP-Zeit: 3 Stunden
+Blutverlust: 100 cc
+Vor/Nach OP: Levofloxacin
+Pathologische Untersuchung - Atypische adenomatöse Hyperplasie, Chronische Entzündungszellinfiltration
+PSA-Wert: 29 ng/ml
+Komplikationen nach der OP - Hämatom (rechte Leiste), Beidseitiger Leistenabszess, Sepsis
+Behandlung - Evakuierung, Debridement Laparotomie
+Kein Hernienrezidiv nach Netz-Evakuierung
+Bildgebung: 70 45KVHSn
+
+---
+
+Bewertung:
+
+Primär - Beidseitige direkte Leistenhernie, Benigne Prostatahyperplasie
+Komplikationen nach der OP - Hämatom, Beidseitiger Leistenabszess, Sepsis
+Ausgeschlossen: Rezidivierende Hernie
+Überweisung: Carina Huber
+
+---
+
+Plan:
+
+Nachsorge - Hygiene, Überwachung von Infektionszeichen
+Nachsorgetermine - Laufende Beurteilung, Genesungsmanagement
+Kontaktieren Sie Carina Huber, wenn Anzeichen von Infektionen/Komplikationen auftreten
+Einhaltung - Entscheidend für die Genesung, Verhindert Komplikationen
+E-Mail: naube@zoho.com
+
+---
+
+Notiz von: Carina Huber
+
+Lizenz: 00-96NApPA
+
+Zeit: 
+
+---
+
+Ende der Notiz"
+

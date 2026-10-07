@@ -1,0 +1,47 @@
+ENTLASSUNGSZUSAMMENFASSUNG
+
+# KOPFZEILE 
+Entlassungsverfügung: Häusliche Pflege
+
+# GRUND FÜR DIE KRANKENHAUSAUFNAHME
+Urs Schmid wurde aufgrund eines Dekubitusgeschwürs aufgenommen.
+
+# DURCHGEFÜHRTE VERFAHREN
+Die Dekubitusgeschwür wurde bei Urs Schmid abgetragen.
+
+# VERSORGUNG, BEHANDLUNG UND ERBRACHTE LEISTUNGEN
+Urs Schmid erhielt tägliche Wundverbände, Antibiotikatherapie und Schmerzmanagement.
+
+# ZUSTAND UND VERFÜGUNG BEI DER ENTLASSUNG
+Zum Zeitpunkt der Entlassung zeigte das Geschwür von Urs Schmid Anzeichen einer Besserung, benötigt jedoch weiterhin Wundpflege zu Hause. Der Patient zeigte auch Symptome wie systolisches Murmeln und Gebrechlichkeit, die während des Krankenhausaufenthalts behandelt wurden. Vor der Entlassung zeigte Urs Schmid einen vorübergehenden Temperaturanstieg, der erfolgreich mit Antipyretika behandelt wurde.
+
+# DEM PATIENTEN UND DER FAMILIE ZUR VERFÜGUNG GESTELLTE INFORMATIONEN
+Urs Schmid und seiner Familie wurde eine Schulung zur richtigen Pflege des Geschwürs zu Hause, zu Anzeichen einer Infektion, auf die geachtet werden sollte, und zur Bedeutung regelmäßiger Umlagerungen zur Vermeidung weiterer Geschwüre gegeben.
+
+# VORSORGE FÜR DIE NACHSORGE
+Es wird empfohlen, dass Urs Schmid nach der Entlassung einen Termin bei Christoph Hofer zur Wundkontrolle und Behandlung der zugrunde liegenden Ursachen der Dekubitusgeschwürbildung vereinbart. Ein häuslicher Pflegedienst könnte notwendig sein, abhängig vom Heilungsverlauf des Geschwürs.
+
+# ZUSÄTZLICHE ABSCHNITTE
+**Abschnitt Allergien und Unverträglichkeiten:**
+Keine bekannten Medikamentenallergien.
+
+**Abschnitt Entlassungsdiagnose:**
+Die Entlassungsdiagnose umfasst ein Dekubitusgeschwür, systolisches Murmeln und Gebrechlichkeit.
+
+**Abschnitt Behandlungsplan:**
+Der Plan nach der Entlassung beinhaltet die Fortsetzung der Antibiotikatherapie, ein regelmäßiges Wundpflegeregime, Nachsorgetermine in der Ambulanz und Lebensstiländerungen zur Vermeidung von erneuten Dekubitusgeschwüren.
+
+**Abschnitt Krankenhauskonsultationen:**
+Konsultationen mit dem Wundpflegespezialisten und Kardiologen während der Behandlung.
+
+**Abschnitt Verfahren:**
+Unterzog sich einer Abtragung des Geschwürs.
+
+**Abschnitt Ergebnisse:**
+Die Wunde zeigte nach der Abtragung eine deutliche Besserung.
+
+Bitte beachten Sie, dass diese Entlassungszusammenfassung den Patienten bei den ersten Nachsorgeterminen begleiten sollte, um die weitere Versorgung zu leiten.
+
+[Ende der Zusammenfassung]
+
+(DOKUMENTENCODE: 2869-17486)

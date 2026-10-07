@@ -1,0 +1,53 @@
+"Dr. Julian Kaiser's Kratznotiz
+
+- Nina Schmid 
+- 75 
+- ID rlM nhNiZq 
+
+Vitalwerte:
+- BP: 125/65 mmHg
+- HR: 84 bpm
+- Temp: 100.4\u00b0F 
+
+Beschwerden:
+- 7-tägiges Fieber 
+- Schüttelfrost 
+- Schmerzhafte Schwellung, rechte Schulter
+- Pharyngitis
+
+Keine signifikante Herzgeschichte. Leugnet kürzliche zahnärztliche Behandlung, Operation, Drogenmissbrauch.
+
+Körperliche Untersuchung:
+- 2/6 systolisches Herzgeräusch, Mesokard
+- Normaler Pharynx
+- Minimale Akne
+
+Labore:
+- WBC: 13x10^3/\u00b5L
+- Neutrophile: 9.7x10^3/\u00b5L
+- LDH: 266 mU/mL
+- CRP: 18 mg/dL
+- Urin: Negative Infektion
+- EKG: Sinustachykardie
+- Röntgenaufnahme der Brust: Normal
+- Knochenmarkaspiration: Negative hämatologische Malignome
+- Blutkulturen: Positiver Streptococcus pyogenes
+
+Bildgebung:
+- Transösophageale Echokardiographie: Mäßige Mitralklappeninsuffizienz, Vegetationen auf dem hinteren Mitralklappenblatt
+
+Diagnose: 
+- Infektiöse Endokarditis - Streptococcus pyogenes
+- Beteiligung der Mitralklappe
+
+Plan:
+- Empirische Antibiotika: Amoxicillin/Clavulansäure + Vancomycin
+- Angepasst an Ceftriaxon (2g, zweimal täglich) + Ampicillin (12g/Tag) nach Kulturergebnissen
+- Überwachung der Herzfunktion und Reaktion auf Antibiotika
+- Aufnahme in Smith-Perry zur laufenden Behandlung
+- Patientenaufklärung bezüglich Infektion und Behandlung
+- Regelmäßige Nachsorge zur Überwachung der Behandlungsreaktion und Herzfunktion
+
+Dr. Julian Kaiser
+Werbeaccount-Planer"
+

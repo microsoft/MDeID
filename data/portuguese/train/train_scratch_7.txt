@@ -1,0 +1,47 @@
+"**Anotações Rápidas da Enfermeira**
+
+Paciente: Duarte Alves
+
+* Queixas: cansado, sentindo-se doente
+* Sintomas Notáveis: Coriza, possível início aos 48 anos
+* Verificar: Temp, PA, Resp, Sat (Todos normais)
+* Provável Diagnóstico: Resfriado Comum
+
+Sinais Vitais & Observações:
+1. Temperatura:  98.6F
+2. Pressão Arterial: 120/80 mmHg
+3. Frequência Respiratória: 16 respirações/min
+4. Saturação de Oxigênio: 97%
+
+Plano de Tratamento: Hidratar, Descansar, Aumentar Vit C
+
+**Resumo do Contato**
+* Contato Principal: 001-473-845-1168x81184
+* Email: iarque@icloud.com
+* Contato de Emergência: 001-473-845-1168x81184
+
+**Informações do Paciente**
+* Prontuário Médico: Vuyg 60109
+* Hospital: Andrews Fife
+* Endereço: Duarte Alves, Fazenda Gomes, 81 106, 2550 Itacaré, Portugal
+
+**Outros Detalhes**
+* SSN: 116.633.383-16
+* Conta: eebIH 5549
+* Nome de Usuário: ZR7lxV20
+* Data de Nascimento: 31 de agosto de 1988
+* Endereço IP: 37.106.247.112
+
+**Contexto Adicional do Paciente**
+* Ocupação: Fotógrafo de Imprensa
+* Empregador: Jackson-Boyle
+* Plano de Saúde: Ii7Rk6
+* Médico: Maria Marques
+* Última localização conhecida: praia
+
+**Dispositivos & Detalhes**
+* ID do Dispositivo Médico: 6523 BAOPB
+* ID do Perfil Biométrico: 821162 346
+
+_Nota: Para quaisquer alterações, atualize as seções relevantes._"
+

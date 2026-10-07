@@ -1,0 +1,79 @@
+"Krankenschwester Kurze Notizen: Notizblock
+
+----------
+
+12.06.74 
+Patient: Lara Keller
+Alter: 92
+
+----------
+
+**Vitalzeichen**
+- Temp: 37.2\u00b0C (98.96\u00b0F)
+- Herzfrequenz: 82 bpm
+- Blutdruck: 122/78 mmHg
+- Atemfrequenz: 16/min
+- Pulsoximetrie: 97% bei Raumluft
+- Gewicht: 80 kg (176.37 lbs)
+- Größe: 170 cm (5ft 7in)
+
+----------
+
+**Vorliegende Beschwerden**
+- Niedrige Temperatur
+- Hämaturie (Blut im Urin)
+
+----------
+
+**Beobachtungen**
+- Patient erscheint in leichter Not
+- Haut: Warm, trocken, intakt
+- Augen: Bindehaut und Sklera klar
+- Lungen: Beidseitig frei hörbar
+
+----------
+
+**Eindruck**
+- Verdacht auf Harnwegsinfektion.
+
+----------
+
+**Vorschläge**
+- Labortests einschließlich Urinanalyse und Bluttests.
+- Überweisung an Georg Leitner in Betracht ziehen
+
+----------
+
+**Zusätzliche Informationen**
+- Kontakt (635)249-4698
+- E-Mail-ID: Geoe@mail.com
+
+**NOTFALLKONTAKT**
+- Beziehung: Lara Keller
+- Kontakt: (635)249-4698
+
+----------
+
+**Krankenhausdetails**
+- Krankenhaus: Holy Name Parish
+- Adresse: Lara Keller, Kyra-Mark-Weg 3 78, 6561 Wittenberg, Lutherstadt, Switzerland
+- Gesundheitsplan: zzJIKmgkv0
+
+----------
+
+**Technische Details**
+- Geräte-ID: qo 40539gh
+- IP-Adresse: 58.151.37.175
+- Benutzername: lRDdIL8S
+
+----------
+
+**Verschiedenes**
+- Führerschein: hZI-2162Gv
+- Organisation: Williams LLC
+- Sozialversicherung: 354-2820741-24
+
+----------
+
+Diese Notiz dient nur zur internen Referenz. Bitte konsultieren Sie den Hauptarzt Georg Leitner für die endgültige Diagnose und Behandlungsplan. Diese Notiz soll einen Überblick über den Zustand des Patienten zu einem bestimmten Zeitpunkt geben und dient nicht als umfangreiche Krankenakte. Die in dieser Notiz enthaltenen Informationen dürfen nicht für andere Zwecke ohne entsprechende Autorisierung verwendet werden."
+

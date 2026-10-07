@@ -1,0 +1,51 @@
+"Nursing Scratch Note
+-------------------------
+Patient: Anna Gledhill
+Age: 86
+Condition: Impetigo
+
+Key Observations
+-------------------------
+1. Noted sores on face, mostly near nose and mouth. 
+2. Presented by arRNrZSw.
+3. Home address: Anna Gledhill, 82 Isocamphor, Chlorophyl, Tzotzil 3785, New Zealand
+
+Vitals 
+-------------------------
+BP: 120/80
+Pulse: 80 bpm
+Temp: 98.6 F
+Resp: 16 bpm
+
+Investigations
+-------------------------
+1. Lab work: Ordered, Received by Louis Burton.
+2. Device Scan: 5806 64867 initiated.
+
+Plan 
+-------------------------
+1. Topical mupirocin & Oral antibiotics prescribed by Louis Burton.
+2. Follow-up: Scheduled in Sun-8 days.
+
+Info
+-------------------------
+1. Primary Contact:  642-819-8252x79350
+2. Health plan: UCO
+3. Registered under: Payne LLC
+4. Social Security: 648-74-3457
+5. Emergency Contact: 642-819-8252x79350
+6. Patient's Email: uisur@aol.com
+7. Patient's Account: NIUC-rkDLL
+8. Medical Record: 73918 1939
+
+Additional Notes
+-------------------------
+1. Advised hygiene practices.
+2. Instructed to not scratch the sores. 
+3. Requested HA-67771Iw at the next visit.
+4. Patient using personal device 5806 64867 for remote monitoring.
+5. IP Address: 18.116.49.168
+
+-Fax 780.763.1767x8396
+-URL http://www.miller-romero.org/main/appregister.php"
+

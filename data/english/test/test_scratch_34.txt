@@ -1,0 +1,67 @@
+"Nursing Scratch Note
+
+Patient: Lexi Anderson
+DOB: 7/11/1985
+Account: 05-2573pzS
+
+--------------------
+Vital Stats: 
+------------
+HR: 98 bpm 
+BP:125/85 mmHg
+Temp: 36.6\u00b0 C
+RR: 20* more SOB when lying down
+--------------------
+
+Observations: 
+------------
+- Lexi Anderson presenting dyspnoea, especially in a supine position
+- No visible distress, not cyanotic
+- Lungs: Diffuse expiratory wheezing
+- Lexi Anderson reports exacerbation of existing batEG-2983 condition
+--------------------
+
+Treatment:
+------------
+- Administered 2.5mg Salbutamol via 59 fkpWgrR - slight improvement
+- Notified Wyatt Chan for further assessment
+- Lexi Anderson to continue with Metformin for batEG-2983
+
+--------------------
+Family Contact: 
+------------
+Name: Lexi Anderson
+Relationship: 
+Phone: (208)809-7387
+Emergency Contact: (208)809-7387
+
+--------------------
+Additional Info:
+-------------
+Insurance: yKASq09Lv
+Social Security: 291-45-1182
+Profession: Agricultural engineer
+Username (for record updates): Qq4WPnve
+Server IP Address: 67.159.202.82
+Organisation: Taylor, Robinson and Griffin
+
+--------------------
+Footer:
+-------------
+Healthcare Facility: Yoshi's
+Location: Wyatt Chan, 110 Bogymen, Chemoprophylactic 54 7406, Australia
+Personal ID No: 05-2573pzS
+Liability Insurance: 5932 kkiDv
+Vehicle ID: 2-1559H
+BioID: 161560-696
+--------------------
+
+Notes:
+-------------
+- Keep Lexi Anderson under observation
+- Re-assess if condition worsens
+
+Next of Kin: Lexi Anderson
+Signed, Wyatt Chan
+"
+

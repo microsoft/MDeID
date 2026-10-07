@@ -1,0 +1,37 @@
+"**Nota de Enfermagem**
+
+**Cabeçalho:**
+
+ 
+ de plantão 
+ de 
+Nome do : Hospital Cavaillon
+
+**Corpo:**
+
+Sinais vitais: Temp 98.6 F, BP 125/80, HR 75 bpm, RR 16/min
+ mencionou sentir muita coceira, observada descoloração amarelada, provável icterícia.
+
+**Informações de Contato de Emergência:**
+
+Nome do Contato: Sara Araújo 
+Telefone: (742)874-6010 
+Endereço: Sara Araújo, Aeroporto Lívia Duarte, 35 72, Icaco, Curitiba Paraná - 30, HR4CK6OT, Brasil
+Email: afi@un.org
+
+**Status:**
+
+Condição Geral: Desconfortável devido à coceira intensa.
+Físico: Icterícia notável, sem outros sinais até agora.
+Plano: Exames de sangue solicitados, função hepática a ser verificada.
+
+**Rodapé:**
+
+Identificação do Dispositivo: 168-811842
+Detalhes do Veículo: 503 7AV
+Informações da Licença: yFH 515158
+Endereço IP: 108.16.153.33
+BioID: 645073 451
+
+**Fim da Nota**"
+

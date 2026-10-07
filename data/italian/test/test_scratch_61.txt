@@ -1,0 +1,41 @@
+"**Nota di Osservazione Infermieristica**
+
+**ID Paziente:** VelHC-4341
+
+**Osservazioni per il 24 dicembre 1992:**
+
+1. Vitali: BP: 110/70, HR: 65, RR: 16, Temp: 37.5C
+2. Sintomi: Vomito, dolore allo stomaco
+3. Notato che la pelle/gli occhi di Olivia Meyer mostrano un leggero ingiallimento - sospetto di itterizia
+4. Pianificato di monitorare i segni vitali ogni 4 ore
+5. Lo stato di idratazione di Olivia Meyer deve essere mantenuto con fluidi endovenosi
+
+*Nota Informale*:
+Informare il Daniel Schmid. Olivia Meyer sembra stanca. Livello di dolore elevato. Vitali stabili, nessun picco di temperatura. Sintomi simili all'itterizia necessitano attenzione.
+
+**Informazioni Personali del Paziente:**
+- Indirizzo di Casa: Olivia Meyer, 4861 Brown Greens, 5, 7775 Canicattini Bagni Naric, Italia
+- Numero di Contatto: +1-283-747-1843x4882
+- Contatto di Emergenza: Olivia Meyer
+- Piano Sanitario: fXwLN4ovT
+
+**Contatti Professionali:**
+- Medico di Riferimento: Daniel Schmid
+- Infermiere di Turno: rlivia
+
+**Altre Informazioni Essenziali:**
+- Ammessa a Orah Ruins Mesopotamia
+- Ha menzionato di lavorare presso Warren, Davis and Johnson
+- Ultimo ACCESS LOG IP noto: 118.41.27.234
+- ID del Monitor: 63 4072eoJ
+- Account del Paziente: 76 175712y
+- Dettagli SSN: 731139-0006
+- Numero di Licenza (se presente): 353502 xMW
+- ID Biometrico: EfLnEJ 547
+- Altri Identificatori: 76 175712y
+- Età del Paziente: 2
+
+**Possibile Follow-up richiesto alla location:** aeroporto
+
+*Fine della Nota di Osservazione*"
+

@@ -1,0 +1,43 @@
+"**Nota Narrativa de Enfermería para Paciente con Dolor Abdominal y Cáncer Diagnosticado**
+
+Subjetivo: Una paciente femenina, Juan José Nieto, de 21 años fue admitida presentando dolor en su cuadrante inferior izquierdo. No se notó un historial médico significativo, y no había antecedentes familiares de cáncer gastrointestinal u ovárico. Sin embargo, informó que su hermano tenía cáncer de pulmón, su abuela paterna luchó contra el cáncer de mama bilateral sincrónico, y su abuelo fue diagnosticado con cáncer de próstata.
+
+Objetivo: Al realizar el examen físico y utilizando un 78816 3293, se descubrió una masa rectosigmoidea obstruida. Una colonoscopia reveló una masa rectosigmoidea de 4.5 \u00d7 6.5 cm, ubicada a 18 cm del margen anal. Los resultados de la biopsia confirmaron que se trataba de un adenocarcinoma moderadamente diferenciado. Pruebas adicionales utilizando 78816 3293, no mostraron metástasis a distancia. Se realizó la resección quirúrgica de la masa y los ganglios linfáticos locales; la patología indicó adenocarcinoma invasivo con invasión linfática y perineural, y 6 de 28 ganglios linfáticos fueron positivos. Las pruebas genéticas revelaron mutaciones en BRIP1 y TP53, con un resultado normal en la prueba de síndrome de Lynch. No se encontraron alteraciones en KRAS, NRAS y BRAF.
+
+Evaluación: La paciente fue diagnosticada con adenocarcinoma rectosigmoideo moderadamente diferenciado, etapa III debido a la participación de los ganglios linfáticos. Se presentaron características de alto riesgo como la invasión linfática y perineural. El análisis genético sugiere una posible predisposición hereditaria a pesar de una prueba inicial de cáncer hereditario negativa.
+
+Plan: El seguimiento postoperatorio incluirá la vigilancia de la recurrencia y el manejo de cualquier complicación. Se planea realizar pruebas adicionales en la línea germinal para la mutación del gen BRIP1. Se educó a la paciente sobre los síntomas de recurrencia y las modificaciones del estilo de vida para apoyar la salud general. Serán necesarios seguimientos regulares en oncología para la vigilancia y el manejo.
+
+**Información del Paciente**
+- ID del Paciente: 765 RFDKpW
+- Número de Cuenta: 765 RFDKpW
+- Número de Historia Clínica: 23-FPCQhgK
+- Plan de Salud: UI8v
+
+**Información de Contacto**
+- Email: stavoer@aol.com
+- Teléfono: +1-545-618-8855x4096
+- Dirección: Juan José Nieto, Calle Ferrer 106 Edif. 842, Depto. 458, 74, 4361 Comonfort, Spain
+
+**Contacto de Emergencia**
+- Nombre del Contacto: Juan José Nieto
+- Relación con el Contacto: Juan José Nieto
+- Teléfono del Contacto: +1-545-618-8855x4096
+
+**Información Digital**
+- Dirección IP: 71.29.206.194
+- Nombre de Usuario: u0wjbTF8
+- URL: lee.fowler.brown.info
+
+**Otra Información**
+- ID del Dispositivo: 78816 3293
+- ID del Vehículo: 811-YUQ
+- Número de Seguridad Social: 00227712K
+- Número de Licencia: lOm-90cAVS
+- ID Biométrico: 49077-Outi
+- Número de Fax: (379)562-4615x4704
+
+**Firma**
+- Gustavo Romero, Enfermero Registrado
+- Ubicación: Watari, estadio"
+

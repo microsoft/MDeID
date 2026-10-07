@@ -1,0 +1,16 @@
+T1	MEDICALRECORD 15 25	72924 WVEZ
+T2	PATIENT 70 87	Dirk van den Berg
+T3	PATIENT 372 389	Dirk van den Berg
+T4	PATIENT 511 528	Dirk van den Berg
+T5	PATIENT 672 689	Dirk van den Berg
+T6	PATIENT 1074 1091	Dirk van den Berg
+T7	PATIENT 1745 1762	Dirk van den Berg
+T8	DOCTOR 1885 1900	Martin Charlier
+T9	PATIENT 2113 2130	Dirk van den Berg
+T10	PATIENT 2256 2273	Dirk van den Berg
+T11	PROFESSION 2370 2392	Handelsnormen officier
+T12	ORGANIZATION 2397 2413	Carroll and Sons
+T13	PATIENT 2513 2530	Dirk van den Berg
+T14	PATIENT 2614 2631	Dirk van den Berg
+T15	PATIENT 2837 2854	Dirk van den Berg
+T16	DOCTOR 2976 2991	Martin Charlier

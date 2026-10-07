@@ -1,0 +1,81 @@
+"**Nota del Paziente:**
+
+```
+--------------------------------------
+| Paziente Paul Wyss      22 ago 1987 |
+--------------------------------------
+```
+```
+|-------------------|--------------|
+| Segni Vitali      | Valore       |
+|-------------------|--------------|
+| Temperatura (°F)  | 98.7         |
+| Frequenza Cardiaca (bpm) | 88   |
+| Frequenza Respiratoria | 16     |
+| Pressione Sanguigna | 130/85 mmHg |
+|-------------------|--------------|
+| Livello di Dolore | 7/10         |
+|-------------------|--------------|
+```
+
+```
+Riassunto: Paul Wyss riferisce che il dolore allo stomaco si intensifica quando mangia. Possibilità di malattia da ulcera peptica.
+
+Osservazioni Cliniche:
+- Dolore addominale localizzato nella regione epigastrica
+- Paul Wyss ha fatto una leggera colazione prima del controllo
+- Nessun altro sintomo come nausea o vomito riportato
+- Paul Wyss ha menzionato l'evento di Melton Inc prima di provare dolore
+- 29 anni, nessuna precedente registrazione di disturbi gastrointestinali
+```
+
+```
+Risultati dei Test Graduati:
+- Emocromo completo: Normale
+- LFTs: Normale
+- Ecografia addominale: Normale
+- Endoscopia superiore del tratto gastrointestinale: Programmata per 22 ago 1987 presso Khwaja
+```
+
+```
+|-----------------------|--------------|
+| Informazioni di Contatto | Info    |
+|-----------------------|--------------|
+| Telefono              | (320)224-5114      |
+| Email                 | dd@protonmail.com      |
+| Contatto di Emergenza | Paul Wyss    |
+|-----------------------|--------------|
+```
+
+```
+|-----------------------|--------------|
+| Informazioni Aggiuntive | Info      |
+|-----------------------|--------------|
+| Piano Sanitario       | aoVJcdE10 758 |
+| Professione           | Ergonomist |
+| Organizzazione        | Melton Inc|
+|-----------------------|--------------|
+```
+
+```
+Medicazione Prescritta: Antiacidi, Inibitori della Pompa Protonica
+Controllo di follow-up: 22 ago 1987
+```
+```
+Numero di serie del dispositivo del paziente: OTIL TOOBu
+```
+```
+Numero di Cartella Clinica: 02-2942nio
+```
+```
+---------------------------------------------------------
+| Infermiere: Roland Schmid              IP: 5.109.43.221 |
+---------------------------------------------------------
+```
+```
+-----------------------------------------------------
+| Sicurezza Sociale: 157475-3718    |
+-----------------------------------------------------
+```
+Nota: Monitorare i segni di ulteriore distress. Necessario controllare per perforazione o sanguinamento dell'ulcera. Al paziente è stato consigliato di evitare cibi irritanti e stress."
+

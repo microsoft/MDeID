@@ -1,0 +1,90 @@
+"Arzt Kratz Notiz
+
+---------------------------
+
+Emma Baumann berichtet über Müdigkeit, nächtliches Schwitzen, Gewichtsverlust, Appetitverlust und leichte Bauchbeschwerden in den letzten 2 Monaten. Kein Fieber, Schüttelfrost, Husten, Übelkeit, Erbrechen, Juckreiz oder Harn- oder Stuhlprobleme.
+
+Allgemeine Info
+
+---------------------------
+
+Frühere Krankengeschichte:
+
+- Inaktive Sarkoidose
+
+- Bluthochdruck
+
+- Hyperlipidämie
+
+- Bipolare Störung
+
+- Koronare Herzkrankheit mit kürzlich durchgeführter perkutaner Koronarintervention
+
+- Neu diagnostizierter Typ-2-Diabetes mellitus
+
+Keine Vorgeschichte von Alkohol- oder Tabakkonsum.
+
+Vitalzeichen
+
+---------------------------
+
+BMI: 37,2 kg/m2
+
+Gewicht: 263 Pfund
+
+52, weiblich
+
+Untersuchung
+
+---------------------------
+
+Allgemeine, Lungen-, Herz- und Bauchuntersuchungen unauffällig, keine tastbare Lymphadenopathie.
+
+Lab Ergebnisse
+
+---------------------------
+
+Normale Alanin-Aminotransferase- und Aspartat-Aminotransferase-Werte.
+
+ALP = 258 U/L (Referenz = 38-126 U/L)
+
+GGT = 274 U/L (Referenz = 12-73 U/L)
+
+Gesamtbilirubin bei 1,7 mg/dL (Referenz = 0,0-1,3 mg/dL) und direktes Bilirubin bei 0,7 mg/dL.
+
+Beurteilung
+
+---------------------------
+
+Patientin präsentiert Symptome, die auf eine systemische Störung hindeuten, möglicherweise im Zusammenhang mit einer Leberfunktionsstörung, wie die erhöhten ALP-, GGT- und Bilirubinwerte anzeigen. Differenzialdiagnosen umfassen Leberpathologie sekundär zu Medikation, nicht-alkoholische Fettleberkrankheit (mit Adipositas und Diabetes) oder ein Wiederauftreten der Sarkoidose, die die Leber betrifft.
+
+Plan
+
+---------------------------
+
+- Aktuelle Medikation fortsetzen.
+
+- Nachsorgetermin in zwei Wochen vereinbaren.
+
+- Weitere Leberfunktionstests und Bildgebungsergebnisse überprüfen.
+
+- Patientin über die Überwachung der Symptome und die Aufrechterhaltung einer gesunden Ernährung zur Gewichts- und Diabeteskontrolle aufklären.
+
+- Überweisung an einen Hepatologen in Betracht ziehen, wenn sich die Leberfunktionstests verschlechtern oder nicht verbessern.
+
+Patricia Mayr
+
+---------------------------
+
+Patienten-ID: 9901 55gnn
+
+Arzt-ID: Patricia Mayr
+
+Krankenhaus: Moses M
+
+Standort: Supermarkt
+
+Datum: Donnerstag, 4. September 1975
+
+Kontakt: 853.790.5918x4229 / PatricMay@unhcr.org\n"
+

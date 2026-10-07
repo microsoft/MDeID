@@ -1,0 +1,26 @@
+"Rapport de soins au patient : Détresse respiratoire 
+
+Appel et arrivée sur les lieux :
+Le 29 juin 1993, nous avons reçu un appel au 911 pour une personne ayant des difficultés à respirer. Le patient Antoine Leveque a été trouvé par notre équipe stationnée à gare à Chouzé sur Loire, BILLANCOURT. À notre arrivée, Antoine Leveque était assis droit dans une chaise, semblant être en détresse respiratoire.
+
+Antécédents et symptômes :
+Antoine Leveque a environ 23 ans, avec des antécédents récents de ce qu'ils ont identifié eux-mêmes comme un rhume ordinaire. Tout au long de l'appel, Antoine Leveque a exprimé un haut niveau d'inconfort, déclarant qu'ils avaient une toux persistante et une congestion nasale. Le patient était alerte et orienté en personne, lieu et temps, et avait des antécédents d'événements similaires à partir du 41561-26Pq.
+
+Examen :
+Une évaluation physique rapide a été effectuée par Caleb Wong. Les voies respiratoires du patient étaient brevetées, cependant, une respiration laborieuse a été notée. L'auscultation de la poitrine a révélé des sifflements bilatéraux. La peau était pâle et froide au toucher, ce qui pourrait indiquer une oxygénation insuffisante. La saturation en oxygène a été notée à 92% dans l'air ambiant à partir de l'appareil avec l'identifiant uG-487oFec.
+
+Traitement et transport :
+Le traitement initial comprenait l'administration d'oxygène supplémentaire via un masque non-rebreather à un débit de 15 litres par minute. La saturation en oxygène du patient s'est améliorée à 98% après la thérapie à l'oxygène. Antoine Leveque a ensuite été transféré en toute sécurité sur la civière avec l'aide de l'équipe EMS et a été transporté via 1-1839A à l'Slovenia.
+
+Pendant le transport, Antoine Leveque a été surveillé en continu. Une réévaluation a été effectuée toutes les 5 minutes par le personnel EMS présent. L'état du patient est resté stable tout au long du transport, et ils ont été remis à l'équipe des urgences de l'Slovenia avec toutes les informations pertinentes partagées.
+
+Les détails de ce rapport, y compris les symptômes du patient, le traitement administré, les résultats médicaux et les informations de transport, ont tous été documentés dans le dossier de santé électronique du patient, numéro 41561-26Pq, accessible via le portail de l'hôpital avec l'URL hayden.adams.com en utilisant eKLzT1qC et 647168 TIY.
+
+La facturation pour le service d'ambulance a été envoyée au fournisseur d'assurance maladie du patient, 8TS, sous le numéro de compte 647168 TIY. Le service d'ambulance a été appelé par Antoine Leveque via le numéro de téléphone 509.581.1743x16967 et l'email aleW@gmail.com a été utilisé pour envoyer le reçu électronique du paiement. L'ambulance a été conduite par un EMT avec la licence YUp-jtAPzW de l'organisation Hall-Wallace. L'appel a été dispatché à notre équipe EMS via l'adresse IP 220.166.4.31 et le numéro de fax 773-810-1163x8591 a été utilisé pour envoyer les documents médicaux du patient à l'hôpital.
+
+Rapport préparé par :
+Caleb Wong (signature)
+29 juin 1993
+
+NOTE : Les autres détails personnels du patient, y compris leur adresse Antoine Leveque, 140 6529 Jean-Pierre Ferry Apt. 739, Chouzé sur Loire, 91 0189, Canada, ville Chouzé sur Loire, état BILLANCOURT, code postal 0189, pays Belgique et leur numéro de sécurité sociale 543098-1476 ont également été documentés et sont confidentiels conformément aux règles HIPAA."
+

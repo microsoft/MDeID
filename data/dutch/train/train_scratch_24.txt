@@ -1,0 +1,41 @@
+"Verpleegkundige Kras Notitie
+--------------------
+Vitale Tekens: 
+BP: 120/80
+HR: 80 bpm
+RR: 20 bpm
+Temp: 98.6 F
+O2 Sat: 96%
+
+Patiënt Samenvatting: 
+Amélie Janssens: Droge hoest, ademhalingsmoeilijkheden
+: Behandeling met vernevelaar, O2-therapie
+Observaties: 
+Bronchiale ontsteking opgemerkt, mogelijke : bronchiale astma
+
+Behandelingsvoortgang:
+Vernevelaarbehandeling toont enige verlichting. O2-niveaus stabiel na behandeling.
+
+Plan:
+Doorgaan met vernevelaarbehandelingen, O2-niveaus controleren, Overweeg escalatie naar Noah Lambrechts als er geen verbeteringen zijn
+
+Informele Notities:
+Opmerkte Amélie Janssens worstelt met hoest; hard ademhalen, Neb-behandeling enigszins effectief, zal nauwlettend volgen
+
+Apparaat Info:
+: Vernevelaar serienummer
+: Zuurstoftherapie serienummer
+
+Contact:
+Noodcontact +1-314-380-4147x92674: Patiënt noodcontact
+chtsoa@outlook.com: Voor directe communicatie
+
+Extra Details:
+17: Patiënt leeftijd
+Janssensi: Patiënt portaal gebruikersnaam
+Fast food restaurant manager: Huidige beroep
+PfX0g ChABPx 8VUYFhzFrv4: Zorgverzekeraar
+BoaHHB 712: Diverse Patiënt Identificatie
+Watson-Little: Geassocieerde Organisatie
+Nashik Maharashtra: Verwijzend ziekenhuis"
+

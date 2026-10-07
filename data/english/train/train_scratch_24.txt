@@ -1,0 +1,41 @@
+"Nurse Scratch Note
+--------------------
+Vital Signs: 
+BP: 120/80
+HR: 80 bpm
+RR: 20 bpm
+Temp: 98.6 F
+O2 Sat: 96%
+
+Patient Summary: 
+Mila Anderson: Dry cough, difficulty breathing
+: Nebulizer treatment, O2 therapy
+Observations: 
+Bronchial inflammation noted, possible : bronchial asthma
+
+Treatment Progress:
+Nebulizer treatment showing some relief. O2 levels steady post-treatment.
+
+Plan:
+Continue nebulizer treatments, Monitor O2 levels, Consider escalation to Jacob Williams if no improvements
+
+Informal Notes:
+Noted Mila Anderson struggling w/ cough; breathing hard, Neb treatment somewhat effective, will monitor closely
+
+Device Info:
+: Nebulizer serial number
+: Oxygen therapy serial number
+
+Contact:
+Emergency contact (608)807-4485x79356: Patient emergency contact
+oia@yahoo.com: For direct communication
+
+Additional Details:
+10: Patient age
+eB9sAdZl: Patient portal username
+Nurse, mental health: Current occupation
+4ceY: Health Insurance Provider
+764 7915Ym: Miscellaneous Patient Identifier
+Phillips-Murphy: Associated Organization
+Harris–Stowe State University: Referring hospital"
+

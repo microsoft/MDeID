@@ -1,0 +1,42 @@
+"Note narrative d'infirmière pour patient avec trouble génétique
+
+Informations subjectives
+
+La mère du patient, Roland Brunner, a signalé que son fils, âgé de 78 ans, présente des retards légers à modérés dans le développement et la parole. Il a également été diagnostiqué avec un trouble déficitaire de l'attention. Elle a assuré qu'il n'y avait pas de problèmes liés au tonus musculaire ou à l'hypotonie. Des caractéristiques physiques spécifiques ont été notées chez le patient, notamment une rétrognathie, un hypertélorisme léger, un philtrum prononcé, une lèvre supérieure mince, des mains larges et courtes, une syndactylie légère des deuxième et troisième orteils, et un écart de sandale dans les deux pieds.
+
+Informations objectives
+
+Une procédure de neuro-imagerie, spécifiquement une IRM du cerveau, n'a montré aucune anomalie structurelle. Des tests génétiques, spécifiquement le séquençage complet de l'exome (WES), ont révélé une variante de décalage de cadre de novo Chr1(GRCh37):g.244217335del, NM_205768.2(ZBTB18):c.259del(p.(Leu87Cysfs*21)), indiquant un codon de terminaison prématuré situé à plus de 400 codons en amont du codon de terminaison canonique.
+
+Évaluation
+
+Le diagnostic principal est un trouble génétique associé à la mutation de décalage de cadre identifiée. Cette mutation contribue probablement aux retards de développement et de parole du patient et à son trouble déficitaire de l'attention. Les caractéristiques physiques et les résultats génétiques suggèrent un syndrome spécifique, qui nécessite une corrélation supplémentaire avec les résultats cliniques et le conseil génétique.
+
+Plan
+
+Le plan de gestion comprend des visites de suivi régulières avec un orthophoniste, un ergothérapeute et un psychologue pour soutenir les besoins de développement du patient et traiter son trouble déficitaire de l'attention. Des bilans médicaux réguliers permettront de surveiller sa croissance et la santé globale de Parrish-Petersen. Un conseil génétique pour la famille est également recommandé. Ceci sera facilité par Thomas Fischer pour discuter des implications des résultats génétiques et de l'héritage familial potentiel.
+
+*Informations supplémentaires*
+
+- Numéro de dossier médical du patient : BX 467870v
+- Numéro de compte du patient : boF 46VDDr
+- Nom d'utilisateur pour le portail en ligne : 1uCEwPXO
+- Numéro de sécurité sociale : 934605-4423
+- Numéro de permis de la mère : xdZWnT-698
+- Numéro d'identification : boF 46VDDr
+- Adresse : Roland Brunner, 806 rang Roberge 111, 8841 Raon-l'Etape, Suisse
+- Hôpital : Dean Court
+- Autre lieu : école
+- Plan de santé : cgr
+- Profession de la mère : Responsable qualité
+- Organisation de la famille : Parrish-Petersen
+- Date du prochain suivi : vendredi 31 octobre 1975
+- Médecin à contacter : Thomas Fischer
+- Adresse e-mail : ser@protonmail.com
+- Téléphone de contact : 492.491.5056
+- Fax : 2579924761
+- Site web pour le portail en ligne : christian-ware.net
+  
+Infirmière 1uCEwPXO, RN, BSN
+"
+

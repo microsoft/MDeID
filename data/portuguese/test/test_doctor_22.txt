@@ -1,0 +1,39 @@
+"Nota do Médico Scratch
+
+--------------------------------
+
+Tomás Ribeiro - 710 ElbSuR - DMjjlzXf
+
+96 - Doença crônica da artéria coronária, colocação prévia de stent
+Diagnóstico recente: Nódulo pulmonar - Radiografia de tórax
+Exames de acompanhamento: Tomografia computadorizada, broncoscopia
+Resultados: Lesão endobrônquica de 9mm (brônquio intermediário), lesão gorda extraluminal de 2cm (hilo direito)
+
+Ressecção assistida por robô - Resultado: Lesões benignas
+
+--------------------------------
+
+Procedimento: Segmentectomia superior do lobo inferior direito, mobilização, divisão do ramo segmentar superior - pVPWLK-879 - grampeador robótico vascular, remoção do tumor gordo hilar.
+Ferramenta: Angiografia com verde de indocianina - Propósito: Definir bordas (segmento superior, lobo inferior direito)
+Broncoscopia intraoperatória - Resultado: Ressecção completa, grande abertura das vias aéreas
+Reconstrução das vias aéreas realizada
+
+--------------------------------
+
+Diagnóstico: Lesões endobrônquicas benignas, lesões gordurosas extraluminais (pulmão direito)
+Resultado do procedimento: Positivo - Ressecção assistida por robô bem-sucedida, reconstrução das vias aéreas
+Seção congelada: Nenhuma malignidade em ambas as lesões
+
+--------------------------------
+
+Acompanhamento agendado: 8fD - Propósito: Monitorar recuperação, reconstrução bem-sucedida das vias aéreas
+Conselho ao paciente: Manter estilo de vida saudável, relatar novos sintomas ou preocupações
+Equipe de cuidados: David Moreira, Armstrong LLC - Monitoramento para gestão e prevenção de possíveis complicações
+
+--------------------------------
+
+Nota por: David Moreira
+Licença: 06-NaRbXOs
+Contato: +1-718-342-2965x638, aD@icloud.com
+"
+

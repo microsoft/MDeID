@@ -1,0 +1,53 @@
+"\"Appunti di Infermieristica - 18/09/22\"
+
+======== Dettagli del Paziente =========
+Nome: Walter Weber
+Età: 28
+
+======== Segni Vitali =========
+BP - 120/80
+HR - 78 bpm
+Temp - 98.6\u00b0F
+RR - 18 rpm
+
+======== Osservazioni =========
+Frequenza urinaria - Aumentata
+Disagio - Lieve 
+
+======== Diagnosi =========
+Possibile ITU
+
+======== Piano di Trattamento =========
+Monitorare i segni vitali ogni 4 ore
+Somministrare antibiotici
+
+======== Varie =========
+Posizione: centro commerciale
+Ospedale: South Dalton
+Piano Sanitario: FlKp
+Dottore: Riccardo Ruggiero
+Nome utente: iUAVMmgR
+Indirizzo IP: 209.94.137.49
+Dispositivo: 63 vEXJdMq
+Cartella Clinica: Hsc RpWYtO
+Account: 401 23EyZx
+IDNUM: 401 23EyZx
+DOB: 18/09/22
+Bioid: yrptj-4722
+Licenza: sVv 406PPG
+Sicurezza Sociale: RISYIX20Q23P216Y
+Veicolo: 2HKO 82
+Organizzazione: Johnson-Little
+Professione: Manager del tour
+URL: perez.sandoval.kelly.com
+Indirizzo: Walter Weber, 294 Christina Stream 84, 0043 Stanghe, Svizzera
+Città: Conventello
+Stato: 53
+Paese: Italia
+CAP: 0043
+Telefono: 302-472-1102x4335
+Fax: +1-262-856-7737x51655 
+
+======== Nota =========
+Paziente Walter Weber mostra segni di ITU. Notata un'aumentata frequenza di minzione, con lieve disagio. Inizierà con antibiotici e monitorerà vitalmente ogni 4 ore. Riccardo Ruggiero informato della situazione."
+

@@ -1,0 +1,33 @@
+"Nota del Doctor Scratch:
+
+Paciente: María Luisa Valadez
+ID: 82468-4234
+
+S: 
+Hombre de 73 años. Quejas: polidipsia, poliuria, debilidad muscular, vómitos, parálisis transitoria. Duración: Más de un mes. Antecedentes médicos: Negativo para enfermedades neuromusculares, tiroideas, autoinmunes. Hospitalización previa: Sí, causa- hipopotasemia severa, acidosis metabólica. Cambios en los síntomas desde la última evaluación: Ninguno reportado.
+
+O:
+PHI: Portsmouth . 
+Última admisión: Diagnóstico de hipopotasemia severa, acidosis metabólica. pH 7.22, pCO2 26.0 mm Hg, HCO3 10.6 mmol/L, lactato 7.1 mmol/L, exceso de base -15.6 mmol/L. 
+
+Laboratorios actuales: 
+WBC 3.16 \u00d7 109/L, hemoglobina 74 g/L, recuento de plaquetas 128 \u00d7 109/L, sodio 140 mmol/L, cloruro 108 mmol/L, potasio 3.18 mmol/L, calcio 1.89 mmol/L, creatinina 57.8 mmol/L, bicarbonato 19 mmol/L, pH urinario 6.5, sodio urinario 80 mmol/L, potasio urinario 18.68 mmol/L. 
+
+Prueba de orina de 24 horas: 
+Sodio 320 mmol/24h, potasio 74.7 mmol/24h, calcio 12.24 mmol/24h, proteína 988.00 mg/24h. 
+
+Osmolalidad sérica y urinaria: 
+303 y 158 mOsm/kg, respectivamente. 
+
+Examen físico: 
+Pálido.
+
+A:
+Diagnóstico principal: Hipopotasemia, acidosis metabólica asociada. Diferenciales: Acidosis tubular renal, insuficiencia suprarrenal, pérdida gastrointestinal de potasio. Parálisis transitoria, debilidad muscular: Preocupante por parálisis periódica, potencialmente secundaria a trastornos electrolíticos severos.
+
+P:
+Plan de acción: Monitorear los niveles de electrolitos, equilibrio ácido-base. Administrar suplementos de potasio. Considerar la terapia con bicarbonato si persiste la acidosis metabólica. Referencia: Arturo Bernal, Nefrólogo para una evaluación más profunda de la función renal, posibles trastornos tubulares. Aconsejar al paciente: Adherirse al tratamiento y las recomendaciones dietéticas para el potasio. Seguimiento: En una semana para reevaluar los síntomas, los resultados de laboratorio. Discutir el plan de manejo con el paciente, alentar la notificación de nuevos síntomas o preocupaciones.
+
+Firmado:
+Arturo Bernal"
+

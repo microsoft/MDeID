@@ -1,0 +1,47 @@
+**Resumo de Alta**
+
+**Gustavo Alvaréz: Resumo de Alta e Plano de Tratamento**
+
+**Seção de Queixa Principal** 
+8Ct7N6HW, reclamou de prurido generalizado, febre alta e aparecimento de mácula vermelha na pele.
+
+**Seção do Curso Hospitalar** 
+O paciente foi admitido devido aos sintomas mencionados. Procedimentos diagnósticos foram realizados para identificar a fonte dos sintomas.
+
+**Seção de Diagnóstico de Alta** 
+Após um exame minucioso e testes subsequentes, o paciente foi diagnosticado com exantema.
+
+**Seção de Plano de Tratamento**
+O plano de tratamento envolveu a administração de anti-histamínicos para aliviar o prurido e antipiréticos para a febre. Um creme tópico foi prescrito para reduzir a vermelhidão e inflamação da mácula.
+
+**Seção de Consultas Hospitalares**
+Foram feitas consultas com um Dermatologista e um Especialista em Doenças Infecciosas.
+
+**Seção de Procedimentos**
+Foram realizados exames de sangue para descartar quaisquer infecções subjacentes que pudessem ser responsáveis pelo exantema.
+
+**Seção de Resultados**
+Os exames de sangue retornaram normais, indicando que o exantema provavelmente foi resultado de uma reação alérgica e não de uma infecção viral.
+
+**Seção de Medicamentos de Alta**
+O paciente deve continuar os medicamentos conforme prescrito durante o curso de tratamento: anti-histamínicos, antipiréticos e o creme tópico. O paciente foi aconselhado a evitar alérgenos conhecidos.
+
+**Seção de Alergias e Intolerâncias**
+O paciente tem intolerância à penicilina, que foi levada em conta durante o tratamento.
+
+**Seção de Instruções de Alta Hospitalar**
+O paciente foi instruído a completar o curso de medicação prescrito e a contactar o Pedro Rocha ou a clínica se os sintomas persistirem ou piorarem.
+
+**Seção de Status Funcional**
+Na alta, o paciente foi capaz de realizar atividades diárias de forma independente.
+
+**Seção de Diretrizes Avançadas**
+O paciente tem uma diretiva avançada em vigor.
+
+**Disposição de Alta**
+Paciente recebeu alta para casa sob autocuidado com uma consulta de acompanhamento na clínica.
+
+**Autor: Pedro Rocha**
+**SIL Pike: Serviço de Resumo de Alta**
+
+*Este documento foi criado como parte de uma atividade de melhoria de qualidade e não inclui nenhuma Informação de Saúde Pessoal (PHI).*

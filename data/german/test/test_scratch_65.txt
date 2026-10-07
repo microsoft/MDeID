@@ -1,0 +1,48 @@
+"Pflegekratznotiz: \\\\ Atemprobleme - Mögliche Typhus
+
+------------ Kopfzeile ----------------
+Laura Schmidt Oberursel Kleegasse 3342 Belgien 22
+-----------------------------------------
+
+2648-246az - ID-Tabelle:
+1. uraSchm
+2. DAPAm-856x
+3. 60749-bNxj
+4. DAPAm-856x
+5. 093465-5391
+6. 75050 3890
+7. 204.35.240.131
+8. EC 51497
+9. 501129 VZC
+
+Vitalwerte:
+BP: 120/80 mmHg
+Puls: 80 bpm
+Temperatur: 98,6 F
+Atmung: 16 Atemzüge/min
+
+Beobachtungen:
+- Patient berichtete über Atembeschwerden, mögliche Johnson-Brock Expositionsbedenken.
+- Verneblerbehandlung verabreicht, Patient scheint gut zu reagieren.
+- Möglicher Typhus, warten auf Labortests.
+
+Behandlungsupdate:
+- Verneblerbehandlungen alle 4 Stunden geplant.
+- IV-Flüssigkeiten eingeleitet.
+- Blutproben zur weiteren Untersuchung an das Rome Olav Labor geschickt.
+
+------- Fußzeile ---------------
+Notfallkontakt:
+Sophie De Smedt
+253-468-4063x2910
+pheme@gmail.com
+Laura Schmidt, Zettlstr. 41 20, 3342 Melle, Belgien>
+----------------------------
+
+Gesundheitsinformationen:
+Gesundheitsplan: DdzPEox
+Beruf: Aktuar
+----------------------------
+
+*Hinweis: Alle Werte sind Platzhalter für tatsächliche PHI. Bitte aktualisieren Sie diese vor der Verwendung mit genauen Informationen.*"
+

@@ -1,0 +1,39 @@
+"**NOTE NARRATIVE DE L'INFIRMIÈRE**
+
+Informations d'admission pour le patient Rosalie Simard
+
+Le patient, un résident de 46 ans de la Suisse originaire de la Suisse, a été admis avec une histoire d'une semaine de changement d'état mental, de fièvre, de douleurs cervicales, de nausées et de vomissements. Le patient nie toute histoire de douleur abdominale, de maux de tête, de changements visuels, de faiblesse focale, de douleur thoracique, de dyspnée, de tabagisme, d'alcool ou de consommation de drogues illicites. Le patient n'a pas vu un Morgane Bogaerts à l'âge adulte et n'a pris aucun médicament. La famille rapporte des activités nocturnes telles que la cuisine et le nettoyage, et une somnolence intermittente.
+
+À l'admission, le patient a été intubé en raison de préoccupations concernant les voies respiratoires et a été admis à l'Elkhorn Valley Museum à Valence, MaineetLoire. Les signes vitaux comprenaient une température de 36,5\u00b0C, une fréquence cardiaque de 90 bpm, une fréquence respiratoire de 22/min, une pression artérielle de 108/61 mm Hg, et une saturation en oxygène de 100% sur 40% FiO2. L'examen physique a révélé un signe de Brudzinski positif, une raideur du cou, des pupilles égales et réactives à la lumière, et une réponse aux stimuli douloureux. Les poumons étaient clairs, et les examens cardiaques et abdominaux étaient sans particularités. 
+
+Les données de laboratoire ont montré une élévation du nombre de globules blancs à 19 900/mm3 avec 81% de neutrophiles, une hémoglobine à 11,8 g/dL, un nombre de plaquettes à 170 000/\u00b5L, une créatinine à 0,5 mg/dL, une bilirubine à 0,6 mg/dL, une AST à 49 IU/L, une ALT à 81 IU/L, et une phosphatase alcaline.
+
+La présentation clinique et les résultats suggèrent une méningite bactérienne aiguë, compte tenu des symptômes de fièvre, de raideur du cou, de changement d'état mental, et des résultats de laboratoire favorables, y compris une leucocytose avec neutrophilie. Les diagnostics différentiels pourraient inclure une encéphalite virale ou d'autres infections du SNC.
+
+Le plan de gestion comprendra une surveillance continue en soins intensifs avec des soins de soutien. Initier une thérapie antibiotique empirique ciblant les pathogènes courants causant la méningite, en attendant d'autres résultats diagnostiques tels que l'analyse du LCR. Assurer une surveillance étroite de l'état neurologique et des signes vitaux. Éduquer le patient et la famille sur la maladie, le plan de traitement et les résultats attendus. Organiser une consultation neurologique et envisager une consultation en maladies infectieuses si nécessaire. Discuter de l'importance du suivi et de la gestion à long terme.
+
+**Détails supplémentaires**
+- Numéro de dossier médical : 511-63YWnI
+- Numéro de compte : 73259 Yiyy
+- Numéro de série de l'appareil du patient : DFc 344930
+- Nom d'utilisateur pour le portail patient : 4WGlFPSm
+- Numéro d'identification du véhicule : 00Y G26
+- Numéro de sécurité sociale : 528077-8745
+- Numéro de licence : 845 926EfR
+- Identifiant biométrique : 75 CoLUnNs
+- Adresse IP : 47.69.181.38
+- Numéro d'identification : 73259 Yiyy
+- Adresse du domicile : Rosalie Simard, 164 7744 Catherine Stravenue Suite 553, Valence, 52 5803, Canada
+- Plan de santé : 785
+- Profession du patient : Responsable des systèmes d'information
+- Organisation : Williams-Smith
+- Date d'admission : 27/11/1997
+- Nom du médecin : Morgane Bogaerts
+- Email du patient : tsane@unhcr.org
+- Numéro de contact : 612-679-5706x4612
+- URL pour les ressources du patient : dunlap.mueller-hopkins.henderson.org
+- Numéro de fax : 7643517410
+
+Infirmière Morgane Bogaerts
+"
+

@@ -1,0 +1,41 @@
+"Intestazione: Documento di ammissione del paziente
+---------------------------------------
+Informazioni sul paziente: Christian Roth
+Data di ammissione: 18 settembre 2021
+
+Oggetto: Narrazione soggettiva
+---------------------------------------
+Christian Roth, un uomo di 40 anni di origine mista Svizzera, ha presentato una sensazione anomala, specificamente, una diminuzione della sensibilità dal labbro inferiore destro che si estende alla regione mentale. Il suo stato fisico generale è stato riportato come moderato e il suo stato nutrizionale è stato valutato come favorevole. Nessun altro fattore significativo è stato notato nella valutazione del personale dell'ambulanza.
+
+Obiettivo: Risultati oggettivi
+---------------------------------------
+L'imaging diagnostico, compresa una tomografia computerizzata (TC) della regione facciale di Christian Roth, ha rivelato un'area radiolucente rotonda nel corpo mandibolare destro. Una successiva risonanza magnetica (RM) ha evidenziato un'intensità del segnale alta irregolare nelle sezioni orizzontali STIR, così come una dilatazione del canale mandibolare destro nelle sezioni sagittali. I risultati della biopsia hanno indicato uno schwannoma che coinvolge la regione di Antoni A, suggerendo una lesione immatura con potenziale di crescita attiva. Durante l'intervento chirurgico, è stato trovato un tumore cistico (misurante 3,2 x 1,0 cm) associato al nervo alveolare inferiore, che è stato legato ed estirpato. I controlli post-operatori hanno mostrato una radiopacità aumentata nel sito della ferita, indicando una crescita ossea sana.
+
+Valutazione: Diagnosi e prognosi
+---------------------------------------
+La diagnosi primaria per Christian Roth è uno schwannoma della regione mandibolare destra. È stata eseguita con successo un'estirpazione chirurgica e non sono state trovate cellule tumorali ai margini del campione di nervo resecato. La prognosi sembra promettente, a condizione che venga mantenuto un monitoraggio regolare.
+
+Piano: Piano di trattamento
+---------------------------------------
+Christian Roth ha subito un'estirpazione del tumore sotto anestesia generale, mostrando risultati positivi dopo l'intervento chirurgico. Sono previsti controlli regolari per valutare la crescita ossea e assicurarsi che non ci sia recidiva del tumore. Si consiglia a Christian Roth di mantenere il suo stato nutrizionale e di segnalare qualsiasi nuovo sintomo o preoccupazione senza indugio.
+
+Piede di pagina: Informazioni di contatto e dettagli aggiuntivi
+---------------------------------------
+Contatto di emergenza: 001-981-517-6572
+Informazioni sul veicolo: 307-CVX
+Indirizzo residenziale: Christian Roth, 57052 Beard Harbor 49, 8117 Certaldo, Svizzera
+Email: oauma@yandex.com
+Fornitore di assistenza sanitaria: Sophia Baumann
+Piano sanitario: zGrBN
+Ospedale: Lam Nyong family
+Numero di cartella clinica: 429 jPSbvj
+Numero di conto: 04040-3400
+Identificatore del dispositivo: egvIdI-489
+Numero ID: 04040-3400
+Numero di previdenza sociale: NOLYDC41M96M846N
+Numero di licenza: am-TwvYCTR
+Identificatori biometrici: wnCR-qrsio
+Indirizzo IP: 124.60.56.117
+URL:  cervantes-perry.com/main/tag/searchpost.html
+Fax: 976.448.5329x203"
+

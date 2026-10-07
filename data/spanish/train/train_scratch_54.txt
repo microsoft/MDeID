@@ -1,0 +1,47 @@
+"Nota de Enfermería
+
+-----------------------OBSERVACIÓN VISUAL-----------------------
+- Victoria Ledesma parece estar en general incómoda
+- Se observa tos persistente
+
+-------------------------SIGNOS VITALES---------------------------
+- Temperatura: 98.7\u00b0F
+- Presión arterial: 130/80 mmHg
+- Frecuencia cardíaca: 90 lpm
+
+------------------------NOTAS DE ENFERMERÍA--------------------------
+1. Victoria Ledesma presenta tos persistente desde hace unos días. Diagnóstico tentativo: asma bronquial
+2. Medicación prescrita por Gabriel Toro para manejar los síntomas
+
+-------------------HISTORIA MÉDICA DEL PACIENTE-------------------
+- Número de registro médico: tJA 85886N
+- Última visita al hospital: benda
+- Plan de salud: shWG5GWJG
+  
+------------------------BIOMETRÍA---------------------
+1. ID de biometría de voz: jPmrQN 818
+
+-------------------DETALLES PERSONALES DEL PACIENTE-------------------
+- Edad de Victoria Ledesma: 72
+- Dirección: Victoria Ledesma, Camino Asunción Aranda 18 Apt. 23 53, Juror, 77926 Manuel Doblado, 100, Colombia
+- Profesión: Terapeuta, deportes
+- Nombre de usuario en el portal del hospital: ictorim
+
+----------------------INFORMACIÓN DE CONTACTO----------------------
+- Teléfono: 895.799.5243
+- Correo electrónico: bor@unicef.org
+  
+--------------------OTRA INFORMACIÓN--------------------
+- ID personal del paciente: WGI-140ZPF
+- Dispositivo utilizado para el monitoreo en casa: 54 IfSmzyS, ID del dispositivo: 
+- Cuenta del paciente: WGI-140ZPF
+- Licencia de conducir: iTkr Ljleq
+- Número de identificación del vehículo: 469 VMR
+- Dirección IP del dispositivo del paciente: 52.70.27.149
+- Número de Seguridad Social: 19.971.179
+- Organización del paciente: Becker-Kennedy
+- Última visita a supermercado
+- Fax: 001-976-987-4117
+
+\u29bf\u29bf----------Fin de la Nota de Enfermería----------\u29bf\u29bf"
+

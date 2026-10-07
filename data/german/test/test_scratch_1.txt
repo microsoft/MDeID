@@ -1,0 +1,86 @@
+"**Kratznotiz: Aktualisierung des Patientenzustands**
+
+---
+
+Patient: Julia Eder
+
+Alter: 45
+
+---
+
+1. Beschwerde: Starke Schmerzen, Magenregion
+2. Beobachtungen: Schwitzen, Fiebersymptome 
+3. Vitalzeichen: Temp (F): 100.4, BP: 120/80, HR: 88, RR: 20
+4. Möglich: Typhus-Diagnose
+
+---
+
+Nächste Schritte:
+
+1. Bluttest - zur Bestätigung von Typhus
+2. IV-Flüssigkeiten - Rehydration
+3. Medikation - Antibiotika gegen Typhus
+
+---
+
+Patienteninformationen:
+
+- Medizinische Akte: 910520-XQv
+- Kontonummer: 77221 MUdq
+- ID-Nummer: 77221 MUdq
+
+---
+
+Arztinformationen:
+
+- Arztname: Maarten Dumont
+- E-Mail: Durte@icloud.com
+
+---
+
+Krankenhausinformationen:
+
+- Krankenhausname: of New
+- Standort: Bibliothek
+
+---
+
+Notfallkontakt:
+
+- Kontaktperson: Julia Eder
+- Telefonnummer: (585)826-0066x342
+
+---
+
+Geräteinformationen:
+
+- Geräte-ID: TSFJM-281l
+- IP-Adresse: 51.235.132.125
+
+---
+
+Versicherungsinformationen:
+
+- Gesundheitsplan: 5h2Zy
+- Plananbieter: Barrera-Davis
+
+---
+
+Lizenzinformationen:
+
+- Lizenznummer: 94461-RtoR
+
+---
+
+Weitere Informationen:
+
+- Sozialversicherungsnummer: 869973-3776
+- Fahrzeugkennzeichen: KPU 314
+- Benutzername: 9tXT8InR
+- Biometrische ID: ck-5167GHD
+- Fax: (653)690-0654
+
+---
+
+Bitte beachten Sie, dass es sich hierbei um vorläufige Beobachtungen und Maßnahmen handelt. Weitere Diagnosen und Behandlungen werden nach den Labortests bestimmt."
+

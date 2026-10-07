@@ -1,0 +1,78 @@
+"```
+-------------------------------------------------
+INFO PATIENT
+-------------------------------------------------
+Patient : Kurt Steiner
+Âge : 34
+Dossier médical : 796005 tqJ
+-------------------------------------------------
+
+SIGNES VITAUX
+
+TA : 125/80
+Pouls : 85
+Temp : 37.2C
+FR : 18/min
+Sat O2 : 98%
+
+-------------------------------------------------
+NOTES
+-------------------------------------------------
+
+- Soif accrue Kurt Steiner
+- Mictions fréquentes
+- Antécédents de diabète dans la famille AHuH 2794K
+- eGFR >60
+- 6378 67240 surveiller le niveau de glucose
+- IMC 25.0 
+
+-------------------------------------------------
+DONNÉES CLINIQUES
+-------------------------------------------------
+
+Glycémie aujourd'hui : 7.9 mmol/L
+
+-------------------------------------------------
+PLANS & TÂCHES
+-------------------------------------------------
+
+- Contacter Laura Graf pour consultation
+- Composer le 2003161689 pour une référence diététiste
+- Envoyer un email à rLau@outlook.com pour le suivi
+- Suivre le lien  cook.com/blogcategory.html pour des ressources d'auto-gestion du diabète
+
+-------------------------------------------------
+-------------------------------------------------
+CONTACT D'URGENCE
+-------------------------------------------------
+
+- Nom du contact : Kurt Steiner
+- Adresse : Kurt Steiner, 34 488 Corinne Lake, 9681 Luri, France
+- Téléphone : 2003161689
+- Email : rLau@outlook.com
+
+-------------------------------------------------
+ASSURANCE MÉDICALE
+-------------------------------------------------
+
+- Fournisseur : kipQ
+- Numéro de compte : 78199 94Dq
+- Détails du plan à :  cook.com/blogcategory.html
+
+-------------------------------------------------
+INFO SUPPLÉMENTAIRES
+-------------------------------------------------
+
+- Adresse IP : 113.68.126.136
+- N° de sécurité sociale : 822750-0401
+- Ville de résidence : Reggiolo
+- Code postal : 9681
+- État : MAXIME
+- Organisation : Brown Group
+- Profession : Enseignant du supérieur
+- Numéro de licence : 83 KJbkUYY
+- Identifiant du véhicule : 75-H862
+
+-------------------------------------------------
+```"
+

@@ -1,0 +1,65 @@
+"**-=Appunti Rapidi dell'Infermiera=-**
+
+```txt
+--------------------------------------
+Paziente       : Lucia Ferrara
+Età           : 86
+Ospedale      : Esker Killoe County
+Cartella Clinica : XqKEY-XWaO
+--------------------------------------
+
+Segni Vitali:
+- Pressione: 120/80
+- Frequenza Cardiaca: 88 bpm
+- Temperatura: 37\u00b0C
+
+Osservazioni:
+- Tremori, brividi su tutto il corpo
+- Perdita di peso
+
+Possibile Diagnosi:
+- Sospetto di diabete
+
+Test ordinati:
+- Livello di zucchero nel sangue
+- HbA1c
+
+--------------------------------------
+**Informazioni di Contatto**
+- Indirizzo: Lucia Ferrara, 21887 Theresa Shore Apt. 212, 185, 4220 Boretto Porzione, Italia
+- Telefono: 964-726-4824x606
+- Email: atr@unwomen.org
+--------------------------------------
+
+**Account e ID**
+- Numero di Conto: 73 cvQXXpS
+- Numero ID: 73 cvQXXpS
+- Piano Sanitario: Q5m
+
+**Altri**
+- Nome utente: raraLuc
+- Indirizzo IP: 219.30.183.97
+- BioID: qEWnUs klm
+
+**Dispositivi Medici**
+- Dispositivo utilizzato: ZTcFL 09qD
+
+**Contatto di Emergenza**
+- Nome: Lucia Ferrara
+- Contatto: 964-726-4824x606
+
+**Dettagli Ospedale**
+- Posizione: parco
+- Città: Boretto
+- Stato: 30
+- CAP: 4220
+
+**Professione e Organizzazione**
+- Professione: Ingegnere di produzione
+- Organizzazione: Morgan Inc
+
+--------------------------------------
+*Notato da: Pietro Serra*
+```
+"
+

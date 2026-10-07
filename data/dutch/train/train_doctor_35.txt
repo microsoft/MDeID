@@ -1,0 +1,29 @@
+"(**Dokters Kladblok**)
+
+Willem Willems notities:
+
+Victor Jansen (Vrouw, 82, Hispanic) - Geen acute nood.
+Klachten: lichthoofdigheid, zwakte, zweten, diarree, braken. 
+Medische voorgeschiedenis: Acne, Astma, Psychosociale stress. 
+Allergieën: Victor Jansen ontkent allergieën, specifiek voor ananassen. 
+
+Vitaliteit (bij aankomst): 
+BP  mmHg, RR  ademhalingen/min, SpO2  op kamerlucht, Temp  \u00b0C. 
+Bloedsuiker: 60 mg/dL (Bevestigd door Lab)
+
+Differentiële Dx: 
+1. Hypoglykemie (Primaire Diagnose - reactief)
+2. Metabole verstoringen
+3. Andere oorzaken van gastro-intestinale symptomen
+
+Behandelplan: 
+1. Ontslag met IV 0.9% NaCl voor volumeherstel
+2. Ondansetron voor misselijkheid en braken
+3. Dieetaanbevelingen - eiwit in elke maaltijd, kleine frequente maaltijden
+
+Aanbevelingen: 
+Vervolgafspraak met Willem Willems voor verdere behandeling van hypoglykemie en uitsluiten van andere mogelijke oorzaken.
+
+**Einde van de notitie**
+(Opmerking: Vitale tekenen en bloedsuikerspiegels zijn placeholders. De werkelijke waarden worden ingevuld door Willem Willems op basis van de toestand van de patiënt tijdens het bezoek.)"
+

@@ -1,0 +1,16 @@
+T1	PATIENT 88 105	Rob van den Broek
+T2	PATIENT 316 333	Rob van den Broek
+T3	DATE 461 471	21-12-1988
+T4	PATIENT 532 549	Rob van den Broek
+T5	PATIENT 738 755	Rob van den Broek
+T6	PATIENT 781 798	Rob van den Broek
+T7	PATIENT 989 1006	Rob van den Broek
+T8	PATIENT 1252 1269	Rob van den Broek
+T9	PATIENT 1593 1610	Rob van den Broek
+T10	DOCTOR 1894 1907	Corien Visser
+T11	PATIENT 1955 1972	Rob van den Broek
+T12	DOCTOR 2075 2088	Corien Visser
+T13	PATIENT 2145 2162	Rob van den Broek
+T14	PATIENT 2246 2263	Rob van den Broek
+T15	MEDICALRECORD 2404 2414	QAB uyyjuv
+T16	DOCTOR 2449 2462	Corien Visser

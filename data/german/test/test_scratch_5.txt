@@ -1,0 +1,49 @@
+"**Pflegekratznotizen** - Eindeutige ID: 743-cSidCj
+***Patientenbedenken*** 
+Atemprobleme - Schweregrad festgestellt, zusätzliche Details erfasst in Patientenakte Nr. 357652 isj
+
+***Vitalzeichen*** 
+BP: 120/80 mmHg
+Herzfrequenz: 75 bpm
+Atmung: 21 bpm 
+Temperatur: 37,2 C 
+Sauerstoffsättigung: 92% 
+
+***Beobachtungen*** 
+Sichtbare Probleme - Atmen, Asthmasymptome - Notiert
+Überweisung an Dr. Dominic Richter zur weiteren Untersuchung. 
+
+--- 
+**Notfallkontaktinformationen** 
+Name: Robin Hendrickx 
+Kontaktnummer: (457)728-6134x6592 
+E-Mail-Id: niRic@red-cross.org 
+Adresse: Robin Hendrickx, Udo-Weimer-Ring 82 84, 1539 Dornbirn, Belgien
+
+**Geräteinformationen**
+Gerätename: Asthma-Inhalator, 
+Gerätenummer: 847 jGBfrf
+
+**Abrechnungsinformationen**
+Kontonummer: 743-cSidCj
+Gesundheitsplan: 9Am5zd8y JLCXar8Du
+---
+**Weitere Informationen** 
+Beruf des Patienten: Werbekontoplaner
+Alter: 75
+Beratungsdatum: Montag, 19. Mai 2003
+Ort der Beratung: Fitnessstudio
+Krankenhausname: Elijah Parish
+Sozialversicherungsnummer des Patienten: 084496-0259
+
+***Plan***
+Erhöhen Sie die Häufigkeit der Inhalatorbenutzung. 
+Atemmuster überwachen. Überweisung an den Lungenfacharzt Dr.Dominic Richter.
+BioID des Patienten: PmvF IESQs
+---
+**Kommentare**
+IP-Adresse des Patienten: 11.252.26.109
+Lizenzinformationen des Patienten: bMwAmG-Mbc
+
+Dies ist ein synthetisches Dokument."
+

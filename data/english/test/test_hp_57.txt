@@ -1,0 +1,56 @@
+H&P NOTE - Medical ID: ZR-RtJaGiG
+
+# Chief Complaint and Reason for Visit Section
+
+Patient Isabella Davies presents with complaints of persistent leg swelling and discomfort. Mild shortness of breath reported with moderate exertion. Notable ecchymosis present. Exam findings highly suggestive of deep vein thrombosis (DVT). 
+
+# History of Present Illness Section
+
+Isabella Davies has been experiencing increasing intensity of symptoms for approximately two weeks. No prior history of similar symptoms. No recent long-haul travel or immobilization. 
+
+# Past Medical History
+
+No known history of thrombophilia, malignancies, or previous DVT episodes. Patient on standard multivitamin but no anticoagulant therapy or other medications of note.
+
+# Allergies And Intolerances Section 
+
+No known drug allergies. 
+
+# Family History Section
+
+Family history unremarkable, with no known incidence of DVT, thrombophilia, or related hematological disorders among immediate relatives of Isabella Davies.
+
+# Medications Section
+
+Patient is currently not on any prescribed medications. OTC multivitamin only.
+
+# Social History Section
+
+Isabella Davies reports a largely sedentary lifestyle, working in an Graves-Allen that requires significant periods of seated work. Non-smoker and casual alcohol use.
+
+# Vital Signs Section
+
+BP: 125/85 mmHg, Pulse: 82 bpm, Temp: 98.2 F, Resp: 15 breaths per minute, Oxygen Saturation at 98% on room air.
+
+# Physical Exam Section
+
+Lower extremities: Notable unilateral edema and ecchymosis present on left calf. Mildly tender to touch. No visible venous distension or varicosities. Breath sounds clear bilaterally on thoracic examination. Other systemic examinations normal.
+
+# Results Section
+
+Awaiting results of venous Doppler ultrasound to confirm DVT. CBC, coagulation profile, D-dimer and other relevant laboratory tests ordered by Dr. Luca Patterson.
+
+# Assessment and Plan Section
+
+Considering the high clinical suspicion of deep vein thrombosis, Isabella Davies has been initiated on anticoagulant therapy pending diagnostic confirmation. Recommendation includes elevation of swollen limb and the use of compression stockings. Further investigations into possible risk factors for thrombosis will be pursued. Regular follow-up visits scheduled with Dr. Luca Patterson.
+
+# Instructions Section
+
+Isabella Davies instructed to closely monitor symptoms and immediately report any worsening pain, swelling or the onset of chest pain/ breathlessness. 
+
+# Advance Directives Section
+
+No advance directives available on record.
+
+(Note: This is a summary note for the diagnosis and treatment plan. For full medical history, please refer to Isabella Davies's full medical records under ID: ZR-RtJaGiG)
+

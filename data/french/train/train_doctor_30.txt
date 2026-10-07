@@ -1,0 +1,28 @@
+"Note du Docteur Scratch :
+
+Markus Baumann sDkRQ-sNfY - Se plaint d'une acuité visuelle floue, de photopsies dans un œil - ces derniers jours. Précédé par de la fièvre, des maux de tête. Pas d'antécédents médicaux significatifs. Aucun contact avec des animaux.
+
+OBSERVATIONS :
+1. CBC - Normal
+2. Radiographies (thorax, sinus) - Normal
+3. Tests - Négatifs (Syphilis, CMV, HSV, HIV, Bartonella, H. capsulatum, T. gondii, T. canis, B. burgdorferi)
+4. Examen oculaire : 
+   - BCVA : 20/20 (œil droit), 20/25 (œil gauche)
+   - Biomicroscopie - Normal
+   - Réactions pupillaires - Normal
+   - IOP - Normal
+   - Photographie du fond d'œil - Taches blanches profondes dans la rétine (pôle postérieur, autour du disque optique - œil gauche)
+   - FA - Zones ponctuées en forme de couronne (hyperfluorescence précoce), coloration du disque optique (phase tardive)
+   - FAF, OCT - Perturbation dans EZ, présence de lésions hyper-réfléchissantes et hyporéfléchissantes (ONL & choroid respectivement)
+   - OCTA - Pas de déficit de flux
+
+ÉVALUATION : 
+Possibilité de pathologie rétinienne, processus inflammatoire/infectieux. Les causes infectieuses sont écartées par des sérologies négatives. Diagnostic différentiel - Rétinopathie auto-immune, décollement rétinien localisé.
+
+PLAN :
+1. Rendez-vous de suivi dans quelques semaines - réévaluer l'état.
+2. Conseiller à Markus Baumann de signaler toute aggravation des symptômes.
+3. Tests supplémentaires ou orientation vers un spécialiste de la rétine - en fonction de l'évolution/changement des symptômes.
+
+Docteur : Elin Brunner 85-2618DkU"
+

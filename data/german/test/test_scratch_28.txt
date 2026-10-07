@@ -1,0 +1,61 @@
+"Pflegekratznotiz
+
+--------------------------------------------------
+|             PATIENTENDETAILS:                   |
+| Patient Marcel Brunner                              |
+| Alter: 84                                     |
+| Adresse: Marcel Brunner, Melitta-Ruppersberger-Ring 7/5 154, 7800 Neukirchen, Schweiz                             |
+| Konto: 4535 NjtPc                             |
+| Krankenhaus: UAE 's                           |
+| Krankenakte: 70 598773p                |
+--------------------------------------------------
+
+-----------------------------------------------------
+|             PFLEGE BEOBACHTUNG:                  |
+-----------------------------------------------------
+BP: 128/84      
+Herzfrequenz: 72 bpm    
+Atemfrequenz: 18 rpm
+O2-Sättigung: 98%
+
+-----------------------------------------------------
+|             PFLEGE BEWERTUNG:                   |
+-----------------------------------------------------
+Patient Marcel Brunner berichtet über Erkältungssymptome - 
+Vorhanden: 
+- Husten (Schweregrad 7/10)
+- Nasenverstopfung
+
+------------------------------------------------
+|             MÖGLICHE INTERVENTIONEN:           |
+------------------------------------------------
+- Hydratation 
+- Ruhe
+- Rezeptfreie Erkältungsmedikamente
+
+-----------------------------------------------------
+|             KONTAKTINFORMATIONEN:                  |
+-----------------------------------------------------
+Arzt: Valentin Coppens      
+Telefon: (200)637-0481x39716      
+Email: lenen@un.org
+
+--------------------------------------------------
+|             ZUSÄTZLICHE INFORMATIONEN:              |
+--------------------------------------------------
+Benutzername: trkFlj1f                               
+Geräte-ID: 40 ZlPrXCa        
+Notfallkontakt: Marcel Brunner        
+SSN: 476-6475675-14                          
+Lizenz: 0917 VhEhw                            
+Beruf: Buchhalter, gechartert  
+
+-----------------------------------------------------
+|             NÄCHSTER TERMIN:                     |
+-----------------------------------------------------
+Ort: Theater
+Datum: 26.02.1984
+Gesundheitsplan: xgU4 xztA3 
+
+Hinweis: Überwachen Sie auf Verbesserung oder Verschlechterung der Symptome. Kontaktieren Sie Valentin Coppens, wenn die Symptome anhalten oder sich verschlechtern."
+

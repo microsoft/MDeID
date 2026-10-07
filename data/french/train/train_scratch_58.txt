@@ -1,0 +1,72 @@
+"Modèle de Note d'Infirmière :
+
+En-tête :
+
+------------------
+
+Sébastien Martens
+
+21
+
+0129 77684
+
+------------------
+
+Signes vitaux :
+
+Tension artérielle : 130/85
+
+Pouls : 110
+
+Température : 101.2F
+
+Observations :
+
+------------------
+
+- Fébrile, Sébastien Martens se sent "chaud et en sueur"
+
+- Suspicion de paludisme
+
+Résultats :
+
+------------------
+
+- Conjonctive pâle
+
+- Rate élargie palpable
+
+Traitement initié :
+
+------------------
+
+- Antipaludéens commencés
+
+Action ultérieure :
+
+------------------
+
+- Frottis sanguin pour confirmation
+
+- Surveillance des signes vitaux toutes les 4 heures
+
+Communication avec le Matthias Coppens de garde.
+
+Pied de page :
+
+------------------
+
+Contact d'urgence :
+
+(855)289-8806x40645
+
+Adresse pour le suivi :
+
+Sébastien Martens, 175 478 Paquot Ports Suite 031, 6668 Brie, France
+
+Détails du United Workers' nécessaires pour la pharmacie.
+
+Identifiant du patient WeoGgY3J pour la réservation de contrôle en ligne.
+
+Nom de l'Ford Group pour la demande de congé maladie."
+

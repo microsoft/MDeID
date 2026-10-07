@@ -1,0 +1,46 @@
+"S: El paciente Saúl Cabrera es un individuo de 61 años con antecedentes de hipertensión y adenocarcinoma gástrico HER-2 positivo en etapa 4 con metástasis en parada de autobús, parada de autobús y parada de autobús. El paciente informa un nuevo inicio de una convulsión tónico-clónica, que nunca antes había experimentado. Además, el individuo expresa preocupación por el empeoramiento del dolor epigástrico y la posible progresión de la enfermedad.
+
+O: El paciente ha sido tratado con trastuzumab, cisplatino y capecitabina, continuando con trastuzumab hasta hace poco. La resonancia magnética cerebral mostró hiperintensidad bilateral simétrica en T2-FLAIR en los lóbulos occipitales y parietales posteriores, sugestiva de PRES, sin evidencia de accidente cerebrovascular agudo, hemorragia intracraneal o metástasis. Las lecturas de la presión arterial estaban controladas, todas QPcvW fKIq. Una reciente esofagogastroduodenoscopia reveló una gran masa de apariencia maligna, parcialmente obstructiva en el cuerpo gástrico, confirmando la progresión de la enfermedad.
+
+A: El diagnóstico principal es PRES, probablemente secundario a la toxicidad del trastuzumab o la hipertensión, y adenocarcinoma gástrico HER-2 positivo en etapa 4 con progresión confirmada. El diagnóstico diferencial incluye complicaciones de la metástasis y efectos secundarios de la quimioterapia en curso.
+
+P: Continuar el monitoreo con levetiracetam para el manejo de las convulsiones y un estricto control de la presión arterial. Suspender el trastuzumab para el miércoles, 15 de agosto de 2018 y reevaluar. Repetir la resonancia magnética cerebral en miércoles, 15 de agosto de 2018 para monitorear el PRES. Abordar la masa gástrica y la progresión de la enfermedad a través de discusiones en Lewis and Sons y ajustar el plan de tratamiento en consecuencia. Mantener el cuidado de apoyo e involucrar al paciente en los procesos de toma de decisiones.
+
+Información adicional:
+
+Número de registro médico: Vp eozhYML
+
+Número de cuenta: 66-266NIjk
+
+Identificador del dispositivo: QPcvW fKIq
+
+Nombre de usuario: xOnLBW8q
+
+Identificador del vehículo: UHA 7036
+
+Número de seguridad social: 82.778.057
+
+Identificador de licencia: OoWE OJxlf
+
+Identificador biométrico: GS gOGalOK
+
+Dirección IP: 175.22.127.89
+
+Número de identificación: 66-266NIjk
+
+Dirección: Saúl Cabrera, Calle Bustos 144 Edif. 442, Depto. 781 142, Tael, 2S8VW2JM Unidad Hab Fovissste Las Águilas, 29, Mexico
+
+Nombre del hospital: Glossop
+
+Plan de salud: FHR1
+
+Profesión: Científico, investigación (médica)
+
+Correo electrónico: nac@yandex.com
+
+Número de teléfono: 419.707.9309x5392
+
+URL:  www.gomez.com/tagsauthor.php
+
+Número de fax: 001-878-423-3248x93668"
+

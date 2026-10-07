@@ -1,0 +1,88 @@
+"Dokter Kras Notitie
+
+----------------------------------------
+
+29 vrouw, niet-roker, geen comorbiditeiten.
+
+Presenteer symptomen: Hoest, lichte koorts, mild gewichtsverlies.
+
+Geen geschiedenis van terugkerende infecties.
+
+Geen contact met tuberculosepatiënten.
+
+Reisgeschiedenis omvat België en België.
+
+Vorige diagnose: Pneumonie, meerdere antibioticabehandelingen, geen symptoomresolutie.
+
+----------------------------------------
+
+Lichamelijk onderzoek:
+
+Verminderde ademgeluiden in linker bovenkwab.
+
+Röntgenfoto van de borst en CT-scan observaties:
+
+- Consolidatie in bovenste linker hilum, linker bovenkwab.
+
+- Centrale nodulaire intraluminale laesie.
+
+- Bronchiale verdikking.
+
+- Post-obstructieve pneumonie.
+
+Geen lymfadenopathie of pleurale effusies opgemerkt.
+
+Bronchoscopie bevindingen:
+
+Goed gedefinieerde endobronchiale tumor in linker bovenkwab.
+
+Histologisch onderzoek van geresecteerde linker bovenkwab:
+
+- Atypische carcinoid tumor.
+
+- Granulomateuze ontsteking.
+
+Tests voor Mycobacterium tuberculosis: Negatief.
+
+----------------------------------------
+
+Diagnose:
+
+Primair: Atypische carcinoid tumor van linker bovenkwab.
+
+Differentieel: Tuberculose (vanwege granulomateuze ontsteking en reisgeschiedenis), huidige tests voor tuberculose negatief.
+
+Prognose:
+
+Afhankelijk van continue monitoring en beheer van carcinoid tumor en mogelijke tuberculose.
+
+----------------------------------------
+
+Behandelplan:
+
+Patiënt onderging succesvolle lobectomie van linker bovenkwab.
+
+Aanbevelen voortdurende monitoring voor tuberculose ondanks negatieve huidige tests.
+
+Regelmatige follow-ups noodzakelijk voor beheer en herbeoordeling.
+
+Verdere behandelopties kunnen worden overwogen op basis van progressie van carcinoid tumor en eventuele nieuwe bevindingen met betrekking tot tuberculose.
+
+----------------------------------------
+
+Dokter: Ellen Van Den Broeck
+
+Patiënt: Romain Bosmans
+
+Medisch dossier: 52278 1195
+
+Ziekenhuis: Tulsa Golden
+
+Datum: 29 mei 2002
+
+Stad: Arched
+
+Postcode: 2196
+
+----------------------------------------"
+

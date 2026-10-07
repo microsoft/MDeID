@@ -1,0 +1,34 @@
+"Doctor Scratch Note
+
+Patient: Zoe Brown, ID: XeFb 24tXp, Age: 6-week
+
+S:
+Complaints include 4-day fever, painful ulcers, scalp swelling. Reduced appetite due to symptoms. 
+
+O:
+GCS score: 15, Consciousness: Present
+Ulcerations: Present, Pus: Present, Fistula: Present, Scalp peeling: Yes, Facial swelling: Yes
+Lab Result: Neutropenia (WBC: 2.39 \u00d7 10^9/l, Neutrophils: 0.25 \u00d7 10^9/l, Lymphocytes: 2.1 \u00d7 10^9/l)
+Inflammatory Markers: Elevated (ESR: 101 mm/hour, CRP: 272 mg/dl)
+Pus Culture: Positive (Enterococcus faecalis, Escherichia coli)
+Blood Culture: Negative, Urine Culture: Negative
+CXR: Normal, Urinalysis: Normal, CSF Analysis: Normal
+Immunoglobulins: Normal, T cell %: Normal
+Bone Marrow: Promyelocyte/Myelocyte maturation arrest, No malignancy
+CT Head: Subcutaneous emphysema, Scalp: Positive, Brain injury: No, Skull fractures: No
+
+A:
+Primary Dx: Necrotizing fasciitis of scalp, Septicaemia
+Other infectious etiologies: Ruled Out
+
+P:
+Treatment: Pentaglobin (0.5 g/kg), Antibiotics (Vancomycin, Meropenem, Metronidazole)
+G-CSF therapy: Yes (5 to 15 \u00b5g/kg/day)
+Discharge: After 46 days
+Follow-up: Regular monitoring of neutrophil count and general health status
+
+Care by: Noah Smith, License: 508908 sWC, Hospital: Duke of Atholl
+
+Contact via: Phone 405-405-5186x043, Email: ahm@icloud.com
+"
+

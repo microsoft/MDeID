@@ -1,0 +1,50 @@
+"Note de Docteur Scratch
+
+-----
+Quinten Timmermans, un garçon de 6 ans. 
+
+Plaintes Présentées:
+Faiblesse progressive - membres inférieurs > membres supérieurs.
+Durée : 2 jours.
+Début insidieux.
+Précédé par des crampes musculaires - 3 jours.
+Pas de sensorium altéré, de crise, de problèmes de vessie/intestin.
+
+Antécédents Médicaux:
+Épisodes similaires - faiblesse, fatigue + hypokaliémie - ces 3 dernières années.
+Admissions à l'hôpital nécessaires.
+Pris en charge comme paralysie périodique hypokaliémique précédemment.
+
+Symptômes Supplémentaires:
+Chute des paupières bilatérale.
+Sensation de corps étranger - yeux.
+Bouche sèche.
+Pas de vomissements récents, d'utilisation de diurétiques, d'alcool, de laxatifs.
+
+Résultats de l'Examen:
+Puissance motrice - Membres inférieurs : 3/5, Membres supérieurs : 4/5. Groupes musculaires proximaux + distaux.
+Réflexes tendineux profonds - Diminués bilatéralement.
+Pas de déficits sensoriels/anomalies des nerfs crâniens.
+Signes vitaux dans les limites normales.
+Examens cardiovasculaires, respiratoires, gastro-intestinaux, thyroïdiens - Sans particularité.
+
+Résultats de Laboratoire:
+Hypokaliémie sévère - Taux de potassium sérique : 1,6 meq/L (Normal : 3,5-5,5 meq/L)
+ECG - Bradycardie sinusale, Inversion globale de l'onde T, Onde U subtile.
+
+Évaluation:
+Diagnostic Principal - Paralysie périodique hypokaliémique - Déclencheur : Hypokaliémie sévère.
+Différentiels - Myasthénie grave - Écartée par des tests d'anticorps négatifs.
+Symptômes récurrents + hypokaliémie sévère - Risques : Arythmies cardiaques, Faiblesse musculaire.
+
+Plan:
+Gestion immédiate - Supplémentation en potassium IV @20 meq/heure - Corriger l'hypokaliémie.
+Surveillance cardiaque continue - En raison des changements à l'ECG et du risque d'arythmie.
+Éduquer Quinten Timmermans - Surveiller les symptômes de faiblesse/troubles cardiaques.
+Suivi - Réévaluer les niveaux de potassium + la fonction motrice après le traitement initial.
+Orientation vers Amélie Michel (neurologue) - Évaluation/gestion supplémentaire de la paralysie périodique hypokaliémique.
+Conseils alimentaires - Apport en potassium + déclencheurs potentiels d'épisodes hypokaliémiques.
+
+Amélie Michel
+"
+

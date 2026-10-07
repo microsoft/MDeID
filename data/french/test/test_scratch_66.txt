@@ -1,0 +1,52 @@
+"**Note de l'infirmière**
+
+| Informations sur le patient | Détails |
+|---------|-----------|
+|Nom : |Elias Lambrechts|
+|Âge : |76|
+|ID : |SzdDqN bNx|
+|Compte : |uzD APAmxE|
+|Plan de santé : |aadT4pL|
+|Email : |WLam@hotmail.com|
+
+| Signes vitaux et observations |
+|--------|
+|TA : 120/80 mmHg| 
+|Pouls : 98 bpm|
+|Temp : 36.5\u00b0C|
+|Resp : 22 respirations/min|
+
+**Notes cliniques**
+-Dysphagie, difficulté à avaler Elias Lambrechts
+-Suspecté de Reflux Gastro-Œsophagien (RGO)
+-Commencé sur Omeprazole 20mg/24hr
+
+|Informations de contact|
+|---------|
+|Médecin principal :| Wyatt Lam|
+|Hôpital référencé : montreal|
+|Téléphone : |253-468-4063x2910|
+|Fax : |(654)276-0021x80595|
+
+| Informations sur l'appareil |
+|---------|
+|Pacemaker : |50 50389bJ|
+
+|Autres informations|
+|---------|
+|Nom d'utilisateur : |bTVFaUXZ|
+|Licence : |kSMV 5011Z|
+|Adresse IP : |1.129.225.194|
+
+**Prochaines étapes**
+-Programmer une endoscopie
+-Revoir l'alimentation et le mode de vie Elias Lambrechts
+-Rendez-vous de suivi dans 2 semaines
+-Informer Wyatt Lam de tout changement ou aggravation des symptômes
+
+**Résumé de la sortie**
+-Elias Lambrechts à 76 présentant des difficultés à avaler.
+-Suspecté de RGO, a commencé le traitement, suivi prévu.
+-Toutes les informations importantes transmises à Wyatt Lam à montreal via (654)276-0021x80595
+"
+

@@ -1,0 +1,59 @@
+"Verpleegkundig Krasdocument
+
+Patiënt: Gerrit Smeets
+------------------------------------------------
+
+Vitalen:
+BP: 120/80
+Pulse: 80 BPM
+Temp: 98.6 F
+OxySat: 98%
+
+----------------------- Davis-Meyer -----------------------
+
+Observatie: 
+- Nekongemak
+- Instabiliteit
+- Balans onregelmatigheden
+- Mogelijke VS-0713LdO
+
+---------------------------------------------------
+Vorige DOC: Hanne Lauwers
+Ref DOC: Hanne Lauwers
+Ziekenhuis: VERIMAG
+
+---------------------------------------------------
+Behandelplan: 
+1. 765-44Gnig - gebruik beoordeling
+2. Fysiotherapie - aan de gang
+3. uxaL - dekking bevestiging
+
+---------------------------------------------------
+Contact Info: 
+- E-mail: ers@zoho.com
+- Telefoon: 781.207.4502x64092 
+- Fax: (442)426-1081x973
+
+---------------------------------------------------
+Notities:
+
+- Gerrit Smeets toont medische geschiedenis van VS-0713LdO
+- 765-44Gnig - implant controle aanbevolen
+- Vervolgafspraak op 30 aug. 1992
+- Informeer Hanne Lauwers over patiënt Gerrit Smeets staat
+
+---------------------------------------------------
+Locatie: strand
+Toegewezen Verpleegkundige: X5u7kruO
+
+----------------------- Davis-Meyer -----------------------
+
+Extra Info:
+- ID: 98-19156oq
+- SSN: 348431389
+- LICENTIE: 95-28486Ih
+- IP: 111.157.161.159
+- VOERTUIG: V 673414
+
+---------------------- EINDE VAN NOTITIE ----------------------"
+

@@ -1,0 +1,37 @@
+**Resumen de Alta**
+
+**Paciente**: Juan Pablo Flores
+
+**ID**: gFp-ginASe
+
+**Médico Admitente**: Enrique Guerrero
+
+**Curso Hospitalario**: El paciente fue admitido debido a un notable aumento en los episodios de dolor en el pecho, angina de pecho, palpitaciones y presíncope, todos indicativos de un caso grave de hiperlipidemia. La condición se manejó de manera efectiva a través de medicación y consejos de modificación del estilo de vida.
+
+**Procedimientos**: El paciente se sometió a un perfil lipídico completo junto con un ECG para evaluar la condición del corazón. Ambos procedimientos se realizaron sin complicaciones.
+
+**Tratamiento y Servicios Proporcionados**: Se puso al paciente en una estricta dieta baja en grasas junto con medicamentos para reducir el colesterol. También se fomentó el ejercicio diario. Se proporcionó una serie de servicios, incluyendo consulta de cardiología, asesoramiento nutricional y servicios de farmacia.
+
+**Condición al Alta**: Al momento del alta, la condición del paciente había mejorado significativamente. El dolor en el pecho y las palpitaciones se habían reducido, y los niveles de lípidos estaban volviendo al rango normal.
+
+**Diagnóstico de Alta**: El paciente está diagnosticado con hiperlipidemia. Para manejar la condición, se ha desarrollado y explicado un plan de tratamiento adecuado al paciente.
+
+**Información Proporcionada al Paciente y la Familia**: Se explicó detalladamente al paciente y a la familia sobre la hiperlipidemia, sus implicaciones y la importancia de las modificaciones del estilo de vida.
+
+**Cuidado de Seguimiento**: Se aconseja al paciente que haga un seguimiento después de dos semanas para una revisión con el Dr. Enrique Guerrero. El paciente debe mantener una dieta baja en grasas, ejercicio regular y adherirse estrictamente a la rutina de medicación prescrita. El paciente debe informar inmediatamente al hospital si reaparecen síntomas como dolor en el pecho o palpitaciones.
+
+**Alergias**: El paciente no tiene alergias conocidas. Cualquier nueva medicación debe ser consumida solo bajo supervisión médica.
+
+**Medicamentos de Alta**: El paciente fue dado de alta con los siguientes medicamentos para la hiperlipidemia -
+1. Estatinas - para reducir los niveles de colesterol.
+2. Suplementos de ácido graso omega-3 - para aumentar los niveles de colesterol 'bueno'.
+
+Este resumen de alta está destinado a la continuación del cuidado.
+
+**Hospital**: Royal Wahingdoh F.C
+
+**Fecha de Alta**: miércoles, 18 de julio de 2007
+
+**Firma**: Enrique Guerrero
+
+>Nota: Este documento no contiene Información Personal de Salud (PHI).

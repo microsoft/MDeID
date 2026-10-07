@@ -1,0 +1,49 @@
+"APPUNTI: Profilo Paziente
+
+------------------------------------------------------------
+Markus Frei | 11 | maschio | Associato di ricerca clinica | Martinez, Murphy and Boyd
+------------------------------------------------------------
+**INFORMAZIONI DI CONTATTO**:
+* Casa: Markus Frei, 832 Diaz Shores Apt. 210 88, 9699 Montalto Di Castro, Svizzera
+* Telefono: 797.456.5189
+* EMAIL: raAlice@unwomen.org
+------------------------------------------------------------
+**Segni Vitali del Paziente**:
+* BP - 121/81 (Normale)
+* Pulsazioni - 75 (Normale)
+* Temp - 98.6 F (Normale)
+* Respirazione - 16 respiri/min (Normale)
+------------------------------------------------------------
+**Informazioni Mediche del Paziente**:
+* MRN: 19-282704j
+* Piano Sanitario: drPzdn80
+* Ospedale: Watergate scandal
+* Medico di riferimento: Alice Piras
+------------------------------------------------------------
+**Osservazioni**:
+- Si è lamentato di difficoltà a concentrarsi.
+- Instabilità emotiva notata.
+- Sospetto: diabete.
+- Raccomandato: Test della glicemia.
+------------------------------------------------------------
+**Informazioni sul Dispositivo**:
+- ID Dispositivo: XgkB-OJFhM
+------------------------------------------------------------
+**Altre Informazioni**:
+* Numero di conto: rCAHiB sFu
+* Targa: 1HM6390
+* BioID: Bmq-03216a
+* Nome utente: Freikus
+* Indirizzo IP: 139.240.32.109
+* Numero ID: rCAHiB sFu
+* Posizione: stadio
+* Contatto di emergenza: Markus Frei
+* Sicurezza Sociale: 859394-5271
+* Stato: Roma
+* Via: 555 Stephen Isle
+* URL: cole-ryan.torres-velasquez.melendez.biz
+* CAP: 9699
+* Fax: 4515156495
+------------------------------------------------------------
+NOTA: Follow-up programmato per diagnosi completa. I risultati guideranno i prossimi passi nel piano di trattamento. Contattare il paziente dopo aver ricevuto i risultati dei test."
+

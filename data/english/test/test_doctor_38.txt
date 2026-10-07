@@ -1,0 +1,32 @@
+"Doctor Notes for Oliver Robinson
+
+S: 
+- IPF diagnosis 23 week years back
+- Recent respiratory distress
+- Worsening cough
+- Nintedanib therapy ongoing
+- LTOT ongoing
+- Chronic cough, worsening past 3 weeks
+
+O: 
+- Exam: Bilateral lung crackles
+- CT: New ground-glass opacity, bilateral lung fields
+- Blood: PT antibody titer high (104 EU/mL, day 13)
+- Oxygen concentration: Poor
+- Additional tests: No autoimmune disease, infectious diseases, causative bacteria, heart failure detected
+
+A: 
+- Diagnosis: AE-IPF
+- Differential diagnoses: Pertussis, other infectious diseases ruled out (sputum culture)
+- Complications: Uncontrolled cough, respiratory distress
+
+P: 
+- Increase LTOT dosage
+- Initiate: Macrolides, broad-spectrum \u03b2-lactam antibiotics, high-dose corticosteroid therapy
+- Patient to monitor symptoms
+- Educate: Importance of vaccination, compliance with treatment
+- Discharge to train station with treatment adjustments
+
+Seth Edney
+31239-qjEO"
+

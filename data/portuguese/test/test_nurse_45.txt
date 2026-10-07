@@ -1,0 +1,63 @@
+"Nota Narrativa da Enfermeira:
+
+Subjetivo: 
+O paciente Miguel Gonçalves relata episódios intermitentes de distúrbios visuais no olho esquerdo, descritos como embaçamento e uma sensação de movimento vertical. Esses episódios ocorrem algumas vezes por mês, cada um durando aproximadamente 20-30 minutos. Acompanhando esses sintomas visuais estão fortes dores de cabeça do lado esquerdo e sensibilidade à luz, que aparecem quase imediatamente após o início dos distúrbios visuais. O paciente também nota um embaçamento visual semelhante quando exposto à luz solar, que se resolve prontamente ao fechar os olhos. O histórico médico do paciente inclui pressão arterial alta não tratada, tabagismo e uso significativo de álcool. Além disso, há um histórico familiar de doença de Parkinson, suspeita de câncer orofaríngeo e mutação AGS associada a várias manifestações cardiovasculares e neurológicas.
+
+Objetivo: 
+No exame, o paciente foi encontrado com pressão arterial alta, com uma leitura de 168/98 mmHg. Outros achados incluíram descoloração da pele em um padrão semelhante a uma rede (livedo reticularis), um queixo ligeiramente pontudo, regurgitação aórtica e sensibilidade abdominal difusa. O abdômen do paciente não mostrou sinais de defesa, rigidez ou sopro audível. Sintomas anteriores de desorientação, alteração da consciência e tremor foram conectados a crises focais com comprometimento da consciência.
+
+Avaliação: 
+A avaliação primária indica que os ataques isquêmicos transitórios monocular esquerdo (AITs) do paciente podem estar relacionados à retinopatia de baixo fluxo, dado os sintomas visuais e a rápida resolução ao fechar os olhos. Os diagnósticos diferenciais incluem crises focais com comprometimento da consciência e episódios semelhantes à enxaqueca sem características típicas de enxaqueca. O histórico familiar e o histórico médico pessoal do paciente sugerem uma predisposição genética para condições vasculares e neurológicas, potencialmente ligadas à mutação AGS.
+
+Plano: 
+O plano de gerenciamento se concentrará no controle da hipertensão por meio de ajustes adequados na medicação e modificações no estilo de vida, incluindo a cessação do tabagismo e a redução no consumo de álcool. São recomendadas referências a um neurologista para avaliação adicional da atividade convulsiva e a um geneticista para avaliação das implicações relacionadas à mutação AGS. Serão necessários acompanhamentos regulares para monitorar a pressão arterial do paciente e a eficácia do plano de tratamento. Será fornecida educação ao paciente sobre os sinais e sintomas de AITs e a importância das mudanças no estilo de vida.
+
+[Cabeçalho]
+ID do Paciente: NVBH-50156
+Médico: Matheus Alves
+Enfermeira: vesMigu
+Data: 11 de dezembro de 1981
+Localização: estação de trem
+
+[Rodapé]
+Informações de Contato:
+Número de Telefone: 703-623-3053
+Email: slves@unhcr.org
+
+Informações de Contato de Emergência:
+Nome: Miguel Gonçalves
+Relação: Geneticista de plantas
+Número de Telefone: 703-623-3053
+
+Informações da Conta:
+Número da Conta: QWOzo-Adin
+Plano de Saúde: 1shU
+
+Informações do Dispositivo do Paciente:
+ID do Dispositivo: wjc 801krq
+
+Informações de Rede:
+Endereço IP: 42.60.206.7
+
+Informações do Veículo:
+ID do Veículo: 7858
+
+Número do Seguro Social: 15320732-3
+Número da Licença: 72 96194ux
+Identificador Biométrico: 483-0334If
+Número de ID Pessoal: QWOzo-Adin
+Número de Fax: 704.350.2547
+
+Endereço do Paciente:
+Endereço: Miguel Gonçalves, Loteamento Lorena Rocha, 1 90, 8931 Sobreposta, Portugal
+Cidade: Mata de São João
+Estado: Felgueiras
+País: Brasil
+Código Postal: 8931
+
+Informações do Hospital:
+Nome do Hospital: of West Indies
+Organização: Grant-Steele
+
+URL: https://rhodes.biz/categoryregister.jsp"
+

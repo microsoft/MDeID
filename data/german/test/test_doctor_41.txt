@@ -1,0 +1,41 @@
+"ARZTNOTIZ
+
+Fanny De Ridder (NF1, TS-Geschichte). 
+Heute: Herzklopfen, pochende Kopfschmerzen, Taubheitsgefühl, Kribbeln in den Armen, Atemnot. Dauer: 2 Stunden. Häufigkeit: Alle 2-3 Monate, 2 Jahre. Keine Stressfaktoren identifiziert.
+
+Früher: 
+- ST-Hebungsinfarkt
+- Verlängertes QTc-Intervall
+- Herzkatheteruntersuchung
+- Systolisches apikales Aufblähen 
+- Reduzierte EF (später verbessert)
+
+Vor 2 Wochen: 
+- Komplette Herzuntersuchung durch Fien Smets
+- Normale Ergebnisse
+- Schleifenaufzeichner implantiert (zur Erkennung von Arrhythmien)
+
+Früher: 
+- Asymptomatische Episode von nicht anhaltender polymorpher ventrikulärer Tachykardie (Torsades de Pointes)
+- Verlängertes QTc-Intervall im Basis-EKG
+- Stabile Elektrolyte
+- Echokardiogramm: EF 50%-55%
+- Kein ICD eingesetzt. 
+- 2 elektrophysiologische Studien: Keine Ursache für Arrhythmie gefunden
+
+Beurteilung: 
+- Wiederkehrende Episoden möglicherweise aufgrund zugrunde liegender Herzrhythmusstörungen
+- Möglicher Einfluss von NF1 und früherem TS
+- Differentialdiagnose: Arrhythmische Episoden (aufgrund von Elektrolytungleichgewichten, strukturellen Herzveränderungen, neurokardiogenen Einflüssen)
+- Bedenken hinsichtlich der Angemessenheit der aktuellen Behandlung (Geschichte von ventrikulärer Tachykardie)
+
+Plan: 
+- Symptome und Daten des Schleifenaufzeichners überwachen
+- Einhaltung der aktuellen Medikation sicherstellen (Lisinopril, Carvedilol)
+- Nachsorgetermin mit Fien Smets vereinbaren
+- Behandlungsplan neu bewerten
+- Patientenaufklärung über Symptomerkennung und die Wichtigkeit sofortiger medizinischer Hilfe
+- Überweisung an Neurologen/Genstörungsspezialisten zur Beurteilung der Auswirkungen von NF1 in Betracht ziehen
+
+Dr. Fien Smets"
+

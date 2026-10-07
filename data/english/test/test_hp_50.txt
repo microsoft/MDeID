@@ -1,0 +1,72 @@
+# H&P NOTE
+
+## Chief Complaint and Reason for Visit Section:
+
+Ella Brown presents with persistent shortness of breath, wheezing, cough, and dyspnea on exertion. Concerns revolve around chronic obstructive airway disease.
+
+## History of Present Illness Section:
+
+Ella Brown has been experiencing these symptoms for the past few weeks. Symptoms appear to be worsening, with increased dependency on bronchodilators.
+
+## Past Medical History:
+
+Ella Brown has a known history of chronic obstructive airway disease, diagnosed 2.5. 
+
+## Medications Section:
+
+Ella Brown is on maintenance bronchodilators and inhaled corticosteroids. The response to medication seems to be mixed, with shortness of breath being the primary issue.
+
+## Allergies and Intolerances Section:
+
+No known drug allergies reported.
+
+## Review of Systems Section:
+
+Cardiovascular: No chest pains or palpitations
+
+Respiratory: Positive for shortness of breath, wheezing, and cough.
+
+Gastrointestinal/Nutrition: Appetite normal, no reported nausea or vomiting.
+
+## Social History Section:
+
+Ella Brown denies any active smoking but has a history of tobacco use in the past.
+
+## Family History Section:
+
+Family history of respiratory diseases unknown.
+
+## Vital Signs Section:
+
+BP: 135/85 mmHg, HR: 88 bpm, RR: 22 breaths per minute, Temp: 98.6°F, SpO2: 92% on room air
+
+## Physical Exam Section:
+
+General: Alert, oriented, breathing comfortably at rest.
+
+Respiratory: Decreased breath sounds, expiratory wheezing noted, no stridor or crackles.
+
+Cardiovascular: Regular rhythm, no murmurs.
+
+## Results Section:
+
+Lung function tests show severe obstruction. FEV1 is 50% of predicted, indicating severe airway obstruction. Chest X-ray reveals hyperinflation.
+
+## Assessment and Plan Section:
+
+Assessment: Ella Brown with chronic obstructive airway disease, worsening symptoms
+
+Plan: Increase frequency of inhaled corticosteroids, consider starting a course of systemic steroids. Plan for a follow-up visit and reassessment in 2 weeks' time.
+
+## Additional Sections:
+
+### Procedures Section:
+
+Chest X-ray and Pulmonary Function Test (PFT) performed. 
+
+## Instructions Section:
+
+Ella Brown is advised to adhere to increased dosage of inhaled corticosteroids, avoid known triggers, and monitor symptoms. 
+
+Document prepared by Dr. Isabella Robinson. Patient's medical record number: LIT 4013lo.
+

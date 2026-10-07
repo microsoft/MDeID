@@ -1,0 +1,52 @@
+"**Nursing Scratch Note**
+
+| Patient Info | Details |
+|---------|-----------|
+|Name: |Bryce Pelletier|
+|Age: |2|
+|ID: |6635 EKbqi|
+|Account: |qD 79EmcvQ|
+|Health Plan: |JJEC Ysx i98lfO|
+|Email: |coe@aol.com|
+
+| Vital signs and Observations |
+|--------|
+|BP: 120/80 mmHg| 
+|Pulse: 98 bpm|
+|Temp: 36.5\u00b0C|
+|Resp: 22 breaths/min|
+
+**Clinical Notes**
+-Dysphagia, difficulty swallowing Bryce Pelletier
+-Suspected Gastroesophageal Reflux Disease (GERD)
+-Commenced on Omeprazole 20mg/24hr
+
+|Contact Information|
+|---------|
+|Primary Physician:| Jacob Lee|
+|Referenced Hospital: Massachusetts Institute of Technology Community|
+|Phone: |827-616-2454|
+|Fax: |(964)782-4606|
+
+| Device Information |
+|---------|
+|Pacemaker: |mcLZTc 422|
+
+|Other Information|
+|---------|
+|Username: |Pelyce|
+|License: |aSQT-uYanJ|
+|IP Address: |183.147.213.81|
+
+**Next Steps**
+-Schedule Endoscopy
+-Review diet and lifestyle Bryce Pelletier
+-Follow up appointment in 2 weeks
+-Notify Jacob Lee of any changes or worsening symptoms
+
+**Discharge Summary**
+-Bryce Pelletier at 2 presenting with swallowing difficulty.
+-Suspected GERD, started on medication, follow-up scheduled.
+-All important information forwarded to Jacob Lee at Massachusetts Institute of Technology Community via (964)782-4606
+"
+

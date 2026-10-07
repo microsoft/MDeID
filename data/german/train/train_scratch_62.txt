@@ -1,0 +1,57 @@
+"Pflegekratznotiz: Hautempfindlichkeit
+
+Kopfzeile:
+======================
+Patient: Tim Ziegler
+Beruf: Ingenieur, Wartung
+Kontakt: 
+- Telefon: +1-303-720-0864x24954
+- E-Mail: aräme@aol.com
+- Adresse: Tim Ziegler, Junkenweg 139 108, 3452 Bad Goisern am Hallstättersee, Belgien
+======================
+
+Vitalwerte:
+- Temp: 98.6\u00b0F
+- HR: 70 bpm
+- RR: 16 Atemzüge/min
+- BP: 120/80 mmHg
+
+Beobachtungen:
+1. Erhöhte Hautempfindlichkeit 
+2. Rötung und Schuppung 
+3. Mögliche Psoriasis 
+4. wm gOJdlqC Messwerte stabil 
+
+Bewertungen & Plan:
+- Hautbiopsie vorgeschlagen 
+- Dermatologische Beratung 
+- Gesundheitsplan: i4mHUbRMi
+
+Fußzeile:
+======================
+Notfallkontakt:
+- Name: Tim Ziegler
+- Beziehung: 
+- Telefon: +1-303-720-0864x24954
+- Ort: Café
+
+Medizinische Details:
+- Medizinische Akte: Bbj 401OlD
+- Krankenhaus: Intendent
+- Arzt: Max Krämer
+- Letzter Besuch: 11. Juli 2019
+
+Technische Info:
+- Konto: 2728-1199Z
+- Benutzername: ieglem
+- IP-Adresse: 54.87.25.221
+
+======================
+
+Bitte kontaktieren Sie den Patienten unter +1-303-720-0864x24954 oder aräme@aol.com bei Bedenken im Zusammenhang mit der Arbeit von Baker-Wheeler.
+
+Hinweis: Besprechen Sie mit Dr. Max Krämer am 11. Juli 2019 den Nachsorgeplan für Tim Ziegler. Ständige Aufzeichnung unter der ID 2728-1199Z und SOCSEC 316-6611344-73.
+
+Unterzeichnet,
+Max KrämerPfleger"
+

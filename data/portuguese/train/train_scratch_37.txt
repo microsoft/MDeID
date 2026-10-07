@@ -1,0 +1,44 @@
+"--:: NOTA DE RASCUNHO DA ENFERMEIRA, CÓDIGO: 50412-4871 ::--
+
+- Pt. Rita Silva - suspeita de varizes
+- Dados pertinentes:
+    - Sinais vitais: PA 130/80 mmHg, FC 72 bpm, TEMP 37°C, SpO2 98%
+    - Ambulatorial, sem angústia
+    - Inspeção das pernas - veias anormais presentes
+
+-- \u221a Avaliação & Plano --
+
+Corretor de seguros relata veias incomuns - Pernas
+- Monitorar progressão
+- Considerar encaminhamento para Matilde Rodrigues
+- Terapia IV?
+
+--:: Próximo de Parente ::--
+Nome: Rita Silva
+Relação: Amiga
+Contato: +1-391-834-2350
+Endereço: Rita Silva, Conjunto Moura, 38 25, 7494 Viana, Portugal
+
+--:: Informação Digital ::--
+Endereço IP: 141.182.167.209
+Nome de usuário: eLFQB9tO
+
+--:: Informação de Emergência ::--
+Plano de Saúde: a8XKv
+Licença: TBzDL wnwc
+BioID: YAYp-Opeqj
+
+--:: Informações do Dispositivo - Sinais Vitais ::--
+Dispositivo: 751917 373
+ID: rMY-lIVoxR
+
+Rodapé:
+Encaminhamento para West Ham
+Atendido por- Matilde Rodrigues
+Em- 12 de junho de 2009
+
+NOTAS:
+Sinais vitais estáveis. Sem preocupação imediata. Acompanhamento em 12 de junho de 2009.
+Possível risco ocupacional. Local de trabalho: Jones-Peterson
+"
+

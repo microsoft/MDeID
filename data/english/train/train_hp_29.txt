@@ -1,0 +1,68 @@
+# History and Physical (H&P) note 
+
+## Chief Complaint
+
+- Charles Paquette presents with high fever, frequent episodes of diarrhea and vomiting, symptomatology consistent with dehydration.
+
+## Reason for Visit
+
+- Charles Paquette reports a sudden onset of symptoms. There's notable concern given the persistent severity of the symptoms.
+
+## Past Medical History
+
+- Negative for any significant illness, disease, or chronic condition.
+
+## Vital Signs
+
+- Blood pressure: 90/60 mmHg indicating hypotension 
+
+- Heart rate: 110 bpm
+
+- Respiratory rate: 20 breaths/min
+
+- Temperature: 39.5 °C (high fever)
+
+## Physical Exam Section
+
+- General Status: Charles Paquette appears fatigued, anxious. Skin is dry and pale.
+
+- Abdominal Exam: Mild abdominal distension with hyperactive bowel sounds. 
+
+## Review of Systems 
+
+- Gastrointestinal: Positive for nausea and vomiting.
+
+- Cardiovascular: Negative for chest pain, palpitations
+
+- Endocrine: Negative for weight loss, cold or heat intolerance.
+
+## Family History 
+
+- No significant medical history noted in the immediate family.
+
+## Social History
+
+- Charles Paquette is a non-smoker, consumes alcohol moderately. No record of recreational drug use.
+
+## Results Section
+
+- Lab results indicate an electrolyte imbalance, suggestive of severe dehydration.
+
+## Medications Section
+
+- No current medications.
+
+## Allergies And Intolerances Section
+
+- No known drug allergies.
+
+## Assessment and Plan Section
+
+- Dr. William Ryan has concluded that the patient's condition aligns with severe dehydration. A course of immediate intravenous fluid therapy is proposed, alongside antiemetics to control the vomiting. Follow-up visit scheduled for Wed Jun 20 for further evaluation.
+
+## Instructions Section
+
+- Charles Paquette is advised to get plenty of rest and increase fluid intake to help replenish lost fluids. Return to the hospital if symptoms persist or worsen.
+
+(Note: All medical data contained within this H&P note is synthetic and any resemblance to real persons, living or dead, is purely coincidental.)
+

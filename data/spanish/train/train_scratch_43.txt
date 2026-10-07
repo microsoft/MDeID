@@ -1,0 +1,55 @@
+"Nota de Enfermera: \"Rasguño en una Caja de Fósforos\"
+
+Tabla: Chequeo Vital
+--------------------------
+- BP: 120/80 mmHg
+- HR: 72 bpm
+- Temp: 98.6 F
+- Tasa de Resp: 18 /min
+
+70 - masculino - Sebastián Peña
+
+Quejas Presentes
+--------------------------
+- Vómitos
+- Dolor Pélvico
+
+Observaciones: 
+--------------------------
+- Tono de Piel: Normal
+- Hidratado: Ligeramente Deshidratado
+
+Posible Diagnóstico
+--------------------------
+- Sospecha: Infección del Tracto Urinario
+
+Notas de Tratamiento
+--------------------------
+- Se administraron líquidos IV
+-  prescrito
+- Revisión pendiente de Mía Rodríguez
+
+Pruebas de Laboratorio Ordenadas:
+--------------------------
+- Análisis de Orina
+- Cultivo de Sangre
+- 
+
+Actualizaciones del Paciente
+--------------------------
+- Próxima revisión: 20 de enero de 1992
+- Resumen de alta: Pendiente
+
+Documento Autenticado por: Enfermera W6VNBuqI
+Miller Inc: ekici
+
+Información Adicional
+--------------------------
+- El paciente Sebastián Peña fue admitido con seguro 4oZUy9QV
+- Detalles de Contacto: (528)212-3363x1524, Ra@aol.com
+- Contacto de Emergencia: , (528)212-3363x1524
+- Detalles del Dispositivo: 491-9739QK - Necesita revisión de funcionalidad
+- Dirección Registrada: Sebastián Peña, Via Víctor Castells 660 Piso 7 65, Zoomimic, XNQ4N1F4 Santa Eularia DES RIU, Argentina
+
+Nota: Mantenga esta información segura. Maneje con cuidado. Cualquier acceso no autorizado a esta nota de rasguño está estrictamente prohibido. Esta nota contiene información clasificada sobre el paciente Sebastián Peña."
+

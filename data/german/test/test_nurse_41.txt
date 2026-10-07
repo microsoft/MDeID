@@ -1,0 +1,39 @@
+"Pflegebericht für Patienten mit Meningitis und Sepsis
+
+Subjektiv:
+Patient Jason Thiele berichtete von Kopfschmerzen, Müdigkeit, Fieber, Übelkeit, Schläfrigkeit, Verwirrung, steifem Nacken und positivem Kernig-Zeichen seit einer nicht genannten Zeit. Die Symptome eskalierten zu Anzeichen von Meningitis und später Blutsepsis. Patient Jason Thiele wurde zunächst mit Amoxicillin, Paracetamol und Ringer-Laktat-Lösung behandelt, gefolgt von einer Verlegung in eine spezialisierte Einrichtung zur weiteren Behandlung.
+
+Objektiv:
+Bei der Aufnahme in Landesbischof wurde bei dem Patienten Meningitis und Sepsis diagnostiziert und mit 1 g Ceftriaxon viermal täglich behandelt. Eine Analyse der Gehirn-Rückenmarks-Flüssigkeit bestätigte N. meningitidis, speziell einen neuen Sequenztyp ST 13074, Serogruppe B. Vitalzeichen und andere spezifische objektive Daten von der Erstvorstellung werden nicht bereitgestellt.
+
+Bewertung:
+Die Hauptdiagnose ist Meningitis und Sepsis aufgrund von N. meningitidis Serogruppe B, ST 13074. Der Zustand des Patienten Jason Thiele war schwerwiegend und erforderte sofortige und intensive Behandlung, einschließlich Antibiotika und unterstützender Pflege. Die Identifizierung eines neuen Sequenztyps weist auf einen einzigartigen Stamm hin, der möglicherweise die Behandlungseffizienz und die öffentliche Gesundheitsüberwachung beeinflusst.
+
+Plan:
+Der Plan ist, die Gesundheit des Patienten weiterhin auf ein Wiederauftreten von Symptomen oder neue Gesundheitsprobleme zu überwachen. Es wird empfohlen, sicherzustellen, dass Nachsorgetermine geplant sind, insbesondere bei Infektionskrankheitsspezialisten zur weiteren Bewertung und Behandlung. Die Aufklärung des Patienten über Anzeichen möglicher Komplikationen und die Wichtigkeit der Einhaltung der verschriebenen Behandlungen ist von entscheidender Bedeutung. Es wird empfohlen, den Patienten zu ermutigen, Hydratation, Ruhe und eine ausgewogene Ernährung zur Unterstützung der Genesung aufrechtzuerhalten.
+
+-------------------------------------------------------------------------------------------------
+
+Unterschrift der Krankenschwester: KE8VuIZW
+Medizinische Aktennummer: LpwAp 8741
+Kontonummer des Patienten: blj-7528kF
+Geräteidentifikator des Patienten: XlJOy 455K
+Fahrzeugidentifikator des Patienten: NLL9981
+Sozialversicherungsnummer des Patienten: 95 574 283 083
+Führerscheinnummer des Patienten: sfW-bfQoGF
+Biometrischer Identifikator des Patienten: 703-YAMUoN
+IP-Adresse des Patienten: 23.255.25.49
+Persönlicher Identifikator des Patienten: blj-7528kF
+Alter des Patienten: 85
+Adresse des Patienten: Jason Thiele, Kitzmannplatz 0 6, 5840 Lorch, Deutschland
+Aktueller Standort des Patienten: Theater
+Gesundheitsplan des Patienten: S73
+Beruf des Patienten: Entwicklungshelfer, Gemeinde
+Organisation des Patienten: Adams PLC
+Datum des Dokuments: 16.08.73
+Name des Arztes: Sébastien Desmet
+E-Mail des Patienten: esébasti@unhcr.org
+Telefonnummer des Patienten: 970-947-7008
+URL für das Profil des Patienten: brown.marshall.com
+Faxnummer des Patienten: 234.987.8389"
+

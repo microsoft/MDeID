@@ -1,0 +1,88 @@
+"Verpleegkundige Krasnotitie
+
+---------------------
+
+Tabel 1: Basisinformatie
+
+---------------------
+
+|   Anke Baert  |  716 446tzm  | 5216 PcTCM | 716 446tzm |
+
+|:------------:|:-----------:|:---------------:|:------:|
+
+|   [Patiënt]  |  [Acct#]    |    [Record#]    | [ID#]  |
+
+---------------------
+
+Tabel 2: Contactinformatie
+
+---------------------
+
+| Anke Baert, Electrodiagnoses 135, 8776 Pnigophobia, België  |  308.972.1881x220  | tsJulie@microsoft.org | Gerechtelijk wetenschapper  | Peters-Hutchinson  |
+
+|:----------:|:---------:|:-------:|:-------------:|:--------------:|
+
+|  [Adres] |  [Telefoon#] | [Email] |  [Beroep] |  [Organisatie] |
+
+---------------------
+
+Tabel 3: Zorgverlener & Verzekering
+
+---------------------
+
+|  Juliette Aerts  | Lowell Observatory  | t1fApssd  |
+
+|:----------:|:-----------:|:-------------:|
+
+|  [Dokter]  |  [Ziekenhuis] |  [Verzekering]  |
+
+---------------------
+
+Tabel 4: Geavanceerde Info
+
+---------------------
+
+| 3BmZMSWq  | 128.35.125.255  |  www.stevens.com/posts/tag/categoriesfaq.html  | +1-409-538-8429x6136 |
+
+|:-----------:|:------------:|:------:|:-----:|
+
+| [Gebruikersnaam]  |  [IPAdres] | [URL]  | [FAX] |
+
+---------------------------
+
+Vitalen & Observaties op 19-03-1991
+
+---------------------------
+
+V/S: BP: 130/80, Pulse: 85, Temp: 67
+
+Symptoom aanvang: Kortademigheid, hoge koorts, ziek voelen.
+
+Mogelijke longontsteking.
+
+Indrukken & Plan:
+
+- Bestelde borstfoto om te bevestigen.
+
+- Start met antibiotica 5216 PcTCM.
+
+- Monitor vooruitgang.
+
+- Volg op in 19-03-1991 als er geen verbetering is.
+
+Juliette Aerts's notitie: Patiënt kan ziekenhuisopname nodig hebben als longontsteking wordt bevestigd en de toestand verslechtert.
+
+-------------------------------
+
+Tabel 5: Andere relevante info
+
+-------------------------------
+
+| Nederland  | Glossopteris  | 541 | 8776 | 62188 Smith Mall | bank  | UOJ 5882  | 495652555 | 367-42479A | qkGZ-QuBfu |
+
+|:----------:|:-------:|:-------:|:-----:|:--------:|:-----------------:|:---------: |:----------------:|:---------:|:------: |
+
+|  [Land] | [Stad]  | [Staat] | [Zip] | [Straat] |    [Locatie]     | [Voertuig#] |     [SSN#]       | [Licentie] | [BioID] |
+
+"
+

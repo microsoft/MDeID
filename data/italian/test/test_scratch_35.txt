@@ -1,0 +1,88 @@
+"Appunto di Infermieristica
+
+---------------------
+
+Tabella 1: Informazioni di Base
+
+---------------------
+
+|   Valentina Ferretti  |  IBjBn-MTKA  | 9840-46zVS | IBjBn-MTKA |
+
+|:------------:|:-----------:|:---------------:|:------:|
+
+|   [Paziente]  |  [Acct#]    |    [Record#]    | [ID#]  |
+
+---------------------
+
+Tabella 2: Informazioni di Contatto
+
+---------------------
+
+| Valentina Ferretti, 2419 Sparks Roads Apt. 649, 130, 3776 Cancello Ed Arnone Highbinding, Italia  |  001-253-294-3119x2658  | phiat@unicef.org | Consulente ambientale  | Mendez-Gray  |
+
+|:----------:|:---------:|:-------:|:-------------:|:--------------:|
+
+|  [Indirizzo] |  [Telefono#] | [Email] |  [Professione] |  [Organizzazione] |
+
+---------------------
+
+Tabella 3: Fornitore & Assicurazione
+
+---------------------
+
+|  Sophia Roth  | York Central Railroad  | QMl  |
+
+|:----------:|:-----------:|:-------------:|
+
+|  [Dottore]  |  [Ospedale] |  [Assicurazione]  |
+
+---------------------
+
+Tabella 4: Informazioni Avanzate
+
+---------------------
+
+| eValen  | 79.59.104.158  | https://www.young.com/search/wp-content/categoryterms.html  | (226)419-2540x5020 |
+
+|:-----------:|:------------:|:------:|:-----:|
+
+| [Nome utente]  |  [Indirizzo IP] | [URL]  | [FAX] |
+
+---------------------------
+
+Vitali & Osservazioni il 30 gennaio 1999
+
+---------------------------
+
+V/S: BP: 130/80, Pulsazioni: 85, Temp: 75
+
+Inizio dei sintomi: Mancanza di respiro, febbre alta, sensazione di malessere.
+
+Possibile polmonite.
+
+Impressioni & Piano:
+
+- Ordinato una radiografia del torace per confermare.
+
+- Iniziare con antibiotici 9840-46zVS.
+
+- Monitorare il progresso.
+
+- Seguire il 30 gennaio 1999 se non ci sono miglioramenti.
+
+Nota del Sophia Roth: Il paziente potrebbe aver bisogno di ospedalizzazione se la polmonite è confermata e la condizione peggiora.
+
+-------------------------------
+
+Tabella 5: Altre Informazioni Rilevanti
+
+-------------------------------
+
+| Svizzera  | Cancello Ed Arnone  | SS | 3776 | 830 Shelley Neck | panchina  | 3H 7816T  | 688754-0427 | dn 1607inu | des 973wcD |
+
+|:----------:|:-------:|:-------:|:-----:|:--------:|:-----------------:|:---------: |:----------------:|:---------:|:------: |
+
+|  [Paese] | [Città]  | [Stato] | [Cap] | [Via] |    [Posizione]     | [Veicolo#] |     [SSN#]       | [Licenza] | [BioID] |
+
+"
+

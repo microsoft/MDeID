@@ -1,0 +1,38 @@
+"S: Patiënt Geert de Haan, met een voorgeschiedenis van sigmoïde volvulus behandeld met laparotomie, detwisting sigmoidopexy, en electieve sigmoidectomie, presenteert met symptomen beginnend op 23 juni 2006, inclusief abdominale distensie, constipatie, en braken dat duurde tot 23 juni 2006, gevolgd door ernstige buikpijn op 23 juni 2006. De patiënt meldt ook terugkerende constipatie behandeld met vrij verkrijgbare en traditionele medicijnen. Er werd geen significante familie-, medicijn- of sociale geschiedenis gemeld aan Dr. Aline Vermeersch.
+
+O: Lichamelijk onderzoek toonde aan dat de patiënt er ziek uitzag maar niet bleek, geelzuchtig of koortsig was. Vitale tekenen omvatten een polsslag van apparaat IpEj-JhfcO, bloeddruk gemeten met apparaat IpEj-JhfcO, ademhalingsfrequentie gemeten met apparaat IpEj-JhfcO, en een temperatuur van 38,8°C. De buik was grof gedistendeerd met volle flanken, een middellijn litteken, zichtbare gedilateerde darmlus, en peristaltiek, met gevoeligheid overal en geen darmgeluiden. Een digitaal rectaal onderzoek toonde een 3e graads aambei en een lege rectum. Laboratoriumbevindingen werden gedeeld via e-mail erl@protonmail.com, die toonden Hb 13 g/dl, WBCs 14 × 109/L, PLTs 305 × 109/L, normaal nierprofiel en serum elektrolyten, bloedglucose 193 mg/dl, en onopvallend urineonderzoek. Abdominale röntgenfoto toonde een typisch gedilateerde omega-vormige colon.
+
+A: De primaire diagnose is strangulated darmobstructie, met adhesieve type als de top differentiële diagnose. Recurrente of andere site volvulus wordt beschouwd als een afgelegen mogelijkheid. De symptomen en beeldvorming van de patiënt, opgeslagen op URL  www.bailey.com/app/categorieslogin.html, zijn consistent met deze beoordeling, en de geschiedenis van eerdere buikoperaties verhoogt de kans op adhesieve obstructie.
+
+P: Onmiddellijke behandeling omvat NG tube zuiging en intraveneuze vloeistoffen reanimatie om de algemene toestand van de patiënt te optimaliseren. Nauwkeurige monitoring van de toestand van de patiënt zal nodig zijn om verdere behandelopties voor de darmobstructie te bepalen. Regelmatige follow-ups, met medisch dossier nummer oPOgJP 947, en onmiddellijke melding van eventuele veranderingen in symptomen of toestand worden geadviseerd om de behandeling te beheren en aan te passen indien nodig, via communicatie via telefoonnummer 001-747-222-8156 of faxnummer 347.220.4299x3482. De behandeling wordt gedekt door het gezondheidsplan van de patiënt 86SDR2c. De patiënt bevindt zich op treinstation en zal worden vervoerd naar het ziekenhuis Norway Egill voor verdere behandeling.
+
+Extra PHI placeholders:
+
+- De leeftijd van de patiënt is 25.
+
+- De patiënt woont op Geert de Haan, Etude 45, 3745 Intendance, Nederland.
+
+- De patiënt is lid van de organisatie Garrison-Roberts.
+
+- Het beroep van de patiënt is Wateringenieur.
+
+- Het sofinummer van de patiënt is 057498488.
+
+- Het rijbewijsnummer van de patiënt is 74890 238O.
+
+- De patiënt heeft een biometrische identificator EZyZm LquV.
+
+- Het IP-adres van de patiënt is 152.239.248.238.
+
+- Het ID-nummer van de patiënt is dWvNk-mwjS.
+
+- Het rekeningnummer van de patiënt is dWvNk-mwjS.
+
+- De gebruikersnaam van de patiënt is A7JG3Qfr.
+
+- Het voertuig van de patiënt is OJP-861.
+
+- De patiënt woont in stad Feelies, staat 57, land Nederland.
+
+- De patiënt woont op straat 051 Melissa Centers Suite 191, postcode 3745."
+

@@ -1,0 +1,29 @@
+"(**Note de griffonnage du médecin**)
+
+Maryam Besson notes:
+
+Yasmine Verstraete (Femme, 12, Hispanique) - Pas de détresse aiguë.
+Plaintes : étourdissements, faiblesse, diaphorèse, diarrhée, vomissements. 
+Antécédents médicaux : Acné, Asthme, Détresse psychosociale. 
+Allergies : Yasmine Verstraete nie les allergies, spécifiquement aux ananas. 
+
+Signes vitaux (à l'arrivée) : 
+TA  mmHg, FR  respirations/min, SpO2  à l'air ambiant, Temp  \u00b0C. 
+Glycémie : 60 mg/dL (Confirmé par le laboratoire)
+
+Dx différentiel : 
+1. Hypoglycémie (Diagnostic primaire - réactif)
+2. Perturbations métaboliques
+3. Autres causes de symptômes gastro-intestinaux
+
+Plan de traitement : 
+1. Sortie avec IV 0.9% NaCl pour la restauration du volume
+2. Ondansétron pour les nausées et les vomissements
+3. Recommandations alimentaires - protéines à chaque repas, petits repas fréquents
+
+Recommandations : 
+Suivi avec Maryam Besson pour une gestion plus approfondie de l'hypoglycémie et pour exclure d'autres causes potentielles.
+
+**Fin de la note**
+(Note : Les signes vitaux et les niveaux de glucose dans le sang sont des espaces réservés. Les valeurs réelles seront remplies par Maryam Besson en fonction de l'état du patient lors de la visite.)"
+

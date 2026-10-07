@@ -1,0 +1,41 @@
+"Nota Narrativa de Enfermería para Lucrecia Sánchez
+
+22/7/01 a las . Lucrecia Sánchez con un historial conocido de cardiomiopatía dilatada, que llevó a insuficiencia cardíaca, informó sentirse débil y tener dificultad para respirar. Esta paciente tiene un caso documentado previamente de fibrilación ventricular, y se le implantó un dispositivo CRT-D (89 WinykWi) hace aproximadamente 7 años. Además, se le implantó un LVAD HeartMate II\u00ae (89 WinykWi) hace unos 4 años en previsión de un posible trasplante de corazón. Recientemente, la paciente experimentó palpitaciones y fibrilación ventricular sostenida (VF) después de la implantación del LVAD, lo que llevó a síntomas de insuficiencia cardíaca derecha y congestión hepática.
+
+El estudio ecocardiográfico que se realizó durante la implantación del LVAD mostró una fracción de eyección del 13%, dilatación del ventrículo izquierdo (51 mm en diástole), regurgitación aórtica trivial y contracción ventricular derecha relativamente preservada (cambio de área fraccional; 33%). Los hallazgos recientes incluyen VF sostenida, fibrilación auricular paroxística (AF) detectada con mayor frecuencia y niveles elevados de bilirrubina total que indican un empeoramiento de la función hepática. El tratamiento del paciente ha incluido amiodarona, nifekalant, mexiletina, lidocaína, un inhibidor de la fosfodiesterasa tipo 5, diuréticos y la optimización de la velocidad de rotación del LVAD.
+
+El diagnóstico principal sigue siendo insuficiencia cardíaca avanzada secundaria a cardiomiopatía dilatada. Las complicaciones incluyen VF sostenida e insuficiencia cardíaca derecha. Los diagnósticos diferenciales podrían incluir la progresión de la insuficiencia cardíaca, la cardiomiopatía inducida por arritmia o las complicaciones relacionadas con el dispositivo. El pronóstico es reservado dada la complejidad y progresión de la enfermedad.
+
+El plan para el paciente continúa siendo el seguimiento cercano de la función cardíaca y las enzimas hepáticas. Pueden ser necesarios ajustes en los medicamentos para manejar las arritmias y los síntomas de insuficiencia cardíaca. Los ajustes del LVAD deben optimizarse para asegurar una perfusión adecuada. Se programarán citas de seguimiento regulares para monitorear la condición del paciente y la función del dispositivo. Se educará al paciente sobre cómo reconocer los síntomas de empeoramiento de la insuficiencia cardíaca y la importancia de adherirse al plan de tratamiento. Se puede considerar una consulta con el equipo de trasplante de corazón si la condición del paciente se deteriora aún más.
+
+Enfermera Qənirə Mahmudzadə, RN, Miller-Gomez 
+Información de contacto: 
+Teléfono: 792.855.0900x07951
+Correo electrónico: əudzadə@msf.org
+Dirección: Lucrecia Sánchez, Andador Norte Castro 262 257 200, Muensters, Donostia-San Sebastián 54538, Peru
+
+Contacto de emergencia: 
+Nombre: Lucrecia Sánchez
+Relación: Colega
+Teléfono: 792.855.0900x07951
+Correo electrónico: əudzadə@msf.org
+Dirección: Lucrecia Sánchez, Andador Norte Castro 262 257 200, Muensters, Donostia-San Sebastián 54538, Peru
+
+Información del dispositivo:
+CRT-D: 89 WinykWi
+HeartMate II\u00ae LVAD: 89 WinykWi
+
+Identificadores del paciente:
+Número de registro médico: 614-2392kr
+Número de cuenta: 112033 vrl
+Nombre de usuario: pCEoYLGb
+Dirección IP: 29.121.235.137
+Número de Seguridad Social: 624-25-2970
+Número de licencia: rfmBbv-589
+ID biométrico: 567086 909
+ID del vehículo: 8USC 78
+ID personal: 112033 vrl
+Seguro: TQNGrTv3
+
+Descargo de responsabilidad: Esta nota está diseñada para que los profesionales médicos lleven un registro del estado de salud y el historial médico de Lucrecia Sánchez. Contiene información sensible protegida por la Ley de Portabilidad y Responsabilidad del Seguro de Salud (HIPAA) y otras leyes aplicables. La copia, uso o distribución no autorizada de esta información está estrictamente prohibida."
+

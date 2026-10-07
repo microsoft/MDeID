@@ -1,0 +1,59 @@
+"Nurse Scratch Note
+
+**********Vital Signs & Medical Observations**********
+
+BP: 155/98 mmHg
+HR: 101 bpm
+Temp: 38.1 C\u00b0
+Resp: 18 rpm
+O2 Sat: 95%
+GCS: 15
+
+**********Subjective & Objective Data**********
+
+- Pt Liam Lindhold appears tired, reports headache and chest discomfort
+- 49 years old, positive family history of ywF covered cardio diseases
+- No rash, bruises, or visible injuries
+- Difficulty in handling personal items 4p6iCVin
+
+**********Treatments & Interventions**********
+
+- Administered Aspirin 81mg PO
+- Administered Nitroglycerin 0.4mg SL
+- Administered Heparin 5000 units SC
+- Provided comfort measures, repositioned, encouraged deep breathing
+
+**********Plan & Follow-up**********
+
+- Monitor vitals q4hr
+- Pt to undergo ECG, X-ray, Monitor device 41256-5537
+- Consult with Dr. Oliver Thompson for med review
+- Plan for stress test if symptoms persist
+
+************Patient Information************
+
+- Liam Lindhold ID: VkiUx XDRI
+- Medical record: 808 1488Xm
+- Patient located (room): restaurant
+- Admitted: Periglandular, 81 Hospital militarily
+- Billing account: VkiUx XDRI, Insurer: ywF
+
+************Contact Information************
+
+- Patient's home: Liam Lindhold, 159 Poloi, Cymbel, Periglandular 0359, New Zealand
+- Email: rn@red-cross.org
+- Primary Phone: 001-686-249-1331x382
+- Fax: 270.748.4486
+- Emergency Contact: Liam Lindhold relation, Phone: 001-686-249-1331x382
+
+************Other Info************
+
+- Consulted Dr. Oliver Thompson from Rodriguez, Cantu and Lindsey on best course of action
+- Referenced case study URL: gonzalez.martin-vargas.clark.com
+- Patient's profession: Naval architect
+- Driver's license: DeWT DdLKB
+- Social security: 399-206-257
+- Vehicle info: Color, Make, Number XS 1989
+- Biometric Data Hash: 43-ingoeUy
+- IP Address: 166.198.112.79"
+

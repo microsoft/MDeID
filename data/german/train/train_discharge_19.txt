@@ -1,0 +1,81 @@
+Entlassungsbericht
+
+**Patient**: Sara Meyer
+
+**Medizinische Akte**: 981887 egT
+
+**Entlassungsverfügung**: Nach Hause mit Anweisungen zur Selbstpflege
+
+---
+
+**Abschnitt Allergien und Unverträglichkeiten**
+Keine bekannten Allergien oder Unverträglichkeiten aufgezeichnet.
+
+---
+
+**Abschnitt Krankenhausaufenthalt**
+Sara Meyer wurde wegen einer Zellulitis eingeliefert. Der Krankenhausaufenthalt verlief ohne Zwischenfälle mit Ansprechen auf intravenöse Antibiotika.
+
+---
+
+**Abschnitt Entlassungsdiagnose**
+Endgültige Diagnose: Zellulitis.
+
+---
+
+**Abschnitt Behandlungsplan**
+Der Patientin wurden orale Antibiotika zur Fortsetzung der Behandlung zu Hause verschrieben.
+
+---
+
+**Abschnitt Krankenhauskonsultationen**
+Sara Meyer wurde vom Team für Infektionskrankheiten bewertet, deren Empfehlungen wurden in den Behandlungsplan integriert.
+
+---
+
+**Abschnitt Verfahren**
+Während dieser Aufnahme wurden keine Verfahren durchgeführt.
+
+---
+
+**Abschnitt Ergebnisse**
+Die Rötung, der Schmerz und die Schwellung gingen deutlich zurück und es gab kein Fieber während des Krankenhausaufenthalts.
+
+---
+
+**Abschnitt Entlassungsmedikation**
+Orale Antibiotika wurden für einen Zeitraum von 10 Tagen verschrieben.
+
+---
+
+**Abschnitt Krankenhausentlassungsanweisungen**
+Sara Meyer wurde angewiesen, orale Antibiotika fortzusetzen und auf Anzeichen einer Infektion zu achten. Ein Nachsorgetermin mit dem Hausarzt Benjamin Coolswurde vereinbart.
+
+---
+
+**Abschnitt Krankenhausentlassungsphysikalischer Zustand**
+Zum Zeitpunkt der Entlassung waren die Vitalzeichen von Sara Meyer stabil und der Hautzustand verbessert.
+
+---
+
+**Abschnitt Zusammenfassung der Krankenhausentlassungsstudien**
+Bluttests zeigten eine normale weiße Blutkörperchenzahl zum Zeitpunkt der Entlassung, was auf eine Kontrolle der Infektion hindeutet.
+
+---
+
+**Abschnitt Vorausverfügungen**
+Bei der Ankunft gab Sara Meyer Informationen für Vorausverfügungen, die besprochen und aufgezeichnet wurden.
+
+---
+
+**Arzt**: Benjamin Cools**Datum**: 28. November 2019
+
+**Krankenhaus**: strinić
+
+**Adresse**: Sara Meyer, Kohlerstrasse 36 77, 6706 Abentheuer, Österreich
+
+**Telefon**: 885.533.5212
+
+**E-Mail**: nls@who.int
+
+Dieses Dokument wurde mit Sorgfalt und Aufmerksamkeit erstellt, um den Schutz persönlicher Gesundheitsinformationen zu gewährleisten. Bitte wenden Sie sich an uns, wenn Sie Fragen haben.

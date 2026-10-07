@@ -1,0 +1,32 @@
+"Nota Rápida do Médico
+
+Paciente: Raissa Gonçalves, ID: PAkWj 4982, Idade: 64
+
+Queixa Principal: Crescimento rápido de nevo congênito, região lombossacral. Presente desde o nascimento, mudanças significativas no último ano. Mudança de cor relatada, bordas irregulares, sangramento ocasional e dor.
+
+Observações: 
+- Tumor eritematoso de 6 x 4 cm, sangramento ativo em placa marrom escura de 8,5 x 3 cm
+- Mais de 20 lesões melanocíticas documentadas (fotografia total do corpo, dermatoscopia digital)
+- Melanoma epitelioide maligno de propagação superficial (biópsia lombossacral)
+- Híbrido de fluorescência in situ: Positivo para RREB1, MYB, CCND1 em nova lesão
+- Intervenção cirúrgica: Excisão local ampla, biópsia do linfonodo sentinela, reconstrução de retalho
+- Patologia: Espessura do tumor de Breslow: 13 mm, Nível Clark V, ulceração extensa, mitoses: 10/mm2, margens negativas, 6 de 20 linfonodos positivos para metástase
+- Teste genômico: Nenhuma mutação BRAF detectada
+
+Avaliação: Melanoma estágio IIID (T4bN3aM0, AJCC 8ª edição). Crescimento rápido, ulceração, envolvimento significativo do linfonodo - doença agressiva, prognóstico sério.
+
+Plano:
+- Tratamento: Iniciado Interferon-\u03b1-2b (nota: toxicidade observada na primeira semana da fase de indução)
+- Monitoramento: Acompanhamentos regulares para progressão da doença e gerenciamento de efeitos colaterais
+- Educação: Fornecido sobre sinais de recorrência e metástase
+- Suporte: Suporte psicológico para lidar com o diagnóstico
+
+Médico: Mariana Rocha, Licença: 102-jszqja, Especialidade: Programadora Multimídia
+
+Hospital: Hospital Atlanta, Localização: Raissa Gonçalves, Núcleo Freitas, 49 178, 1220 Pirajuí - Sp, Portugal
+
+Contato: Telefone +1-797-946-1270, Email nc@outlook.com
+
+Fim da Nota.
+"
+

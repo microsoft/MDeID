@@ -1,0 +1,62 @@
+"Doctor Note
+-------------
+Jacob Thomas - 10 - male
+
+Recent history:
+- Intermittent fever, chills
+- Fatigue, appetite decrease
+- Back & abdominal pain
+- Weight loss: 35 lbs (3 months)
+- Malaria treatment: 6 months prior
+- Recent travel: Australia
+
+Vitals:
+- Temp: 102.3 F
+- BP: 103-110/59-64 mmHg
+- HR: 92-113 bpm
+- O2 Sat: 99% (Room Air)
+
+Lab:
+- Hb: 4.4
+- MCV: 87.5
+- Platelets: 13
+- WBC: 6.4
+- INR: 1.73
+- Na: 132
+- Lactate: 4.6
+- ALP: 133
+- Tbili: 1.9
+- Dbili: 1.6
+- Albumin: 2.8
+
+Imaging:
+- CXR, CT: Bilateral lower lobe infiltrates, focal areas of infiltrates & consolidation (Andersonstown Belfast)
+- Small right scrotal hydrocele 
+
+Blood Smear:
+- Few monoblasts
+- Dysplastic features
+- Erythrocytes w/ intracellular inclusions
+
+Bone Marrow Aspirate:
+- Hypercellular marrow, monoblasts
+- Erythroblasts, maturation defect
+- Few megakaryocytes
+- Sheets of immature mononuclear cells diffusely occupying marrow cavities
+
+Assessment:
+- Severe anemia
+- Thrombocytopenia
+- Community-acquired pneumonia
+- Possible hematologic malignancy (AML?)
+
+Plan:
+- Supportive care (Blood, platelet transfusions)
+- IV antibiotics (ceftriaxone, azithromycin)
+- Atovaquone for malaria prophylaxis
+- Hematologic evaluation (Consult w/ Scarlett Wilson)
+- Monitor vitals, blood counts, organ functions
+- Patient education re: diagnosis, treatment plan, potential complications
+
+Scarlett Wilson"
+

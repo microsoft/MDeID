@@ -1,0 +1,88 @@
+"Nota de Enfermería
+
+---------------------
+
+Tabla 1: Información Básica
+
+---------------------
+
+|   Olga Parra  |  73870-UHAk  | 507 451963 | 73870-UHAk |
+
+|:------------:|:-----------:|:---------------:|:------:|
+
+|   [Paciente]  |  [Cuenta#]    |    [Registro#]    | [ID#]  |
+
+---------------------
+
+Tabla 2: Información de Contacto
+
+---------------------
+
+| Olga Parra, Paseo de Hugo Becerra 96 2, Unsulkily, NPI5O342 Tehuacán, Argentina  |  502.698.3004x786  | ebasts@icloud.com | Oficial del gobierno local  | Jones LLC  |
+
+|:----------:|:---------:|:-------:|:-------------:|:--------------:|
+
+|  [Dirección] |  [Teléfono#] | [Correo electrónico] |  [Profesión] |  [Organización] |
+
+---------------------
+
+Tabla 3: Proveedor y Seguro
+
+---------------------
+
+|  Sebastián Torres  | Gilda  | jQn1g8  |
+
+|:----------:|:-----------:|:-------------:|
+
+|  [Doctor]  |  [Hospital] |  [Seguro]  |
+
+---------------------
+
+Tabla 4: Información Avanzada
+
+---------------------
+
+| V0TTqpgN  | 3.72.247.24  | http://delgado-conley.info/blog/wp-content/mainsearch.jsp  | 648.298.8921x359 |
+
+|:-----------:|:------------:|:------:|:-----:|
+
+| [Nombre de usuario]  |  [Dirección IP] | [URL]  | [FAX] |
+
+---------------------------
+
+Signos vitales y observaciones el 8 ene 1993
+
+---------------------------
+
+V/S: BP: 130/80, Pulso: 85, Temp: 103
+
+Inicio de los síntomas: Falta de aliento, fiebre alta, sensación de enfermedad.
+
+Posible neumonía.
+
+Impresiones y Plan:
+
+- Se ordenó una radiografía de tórax para confirmar.
+
+- Comenzar con antibióticos 507 451963.
+
+- Monitorear el progreso.
+
+- Seguimiento el 8 ene 1993 si no hay mejoría.
+
+Nota del Sebastián Torres: El paciente puede necesitar hospitalización si se confirma la neumonía y la condición empeora.
+
+-------------------------------
+
+Tabla 5: Otra Información Relevante
+
+-------------------------------
+
+| Argentina  | Tehuacán  | Misiones | NPI5O342 | 076 Stewart Villages Apt. 615 | restaurante  | 097MCZ  | 665-12-7303 | RBjyq-jNEm | 321-559073 |
+
+|:----------:|:-------:|:-------:|:-----:|:--------:|:-----------------:|:---------: |:----------------:|:---------:|:------: |
+
+|  [País] | [Ciudad]  | [Estado] | [Código Postal] | [Calle] |    [Ubicación]     | [Vehículo#] |     [SSN#]       | [Licencia] | [BioID] |
+
+"
+

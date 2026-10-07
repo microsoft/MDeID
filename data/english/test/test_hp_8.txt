@@ -1,0 +1,66 @@
+# Medical History & Physical Examination Note
+
+## Chief Complaint & Reason for Visit Section:
+
+Lauren Walker presents with reported issues of paranoia. Chief complaints include hallucinations, both auditory and visual.
+
+## Past Medical History:
+
+No previous history of similar symptoms. 
+
+## Review of Systems Section:
+
+Nervous System: Positive for hallucinations, both auditory and visual. No reported instances of seizures, loss of consciousness, or intense headaches. Cognitive functions mildly impaired, responsive but easily agitated.
+
+## Vital Signs Section:
+
+Temperature: 98.4 F
+
+Pulse: 80 bpm
+
+Blood Pressure: 120/78 mmHg
+
+Respiratory Rate: 16 breaths per minute
+
+Oxygen Saturation: 98% room air
+
+## Physical Exam Section:
+
+General Appearance: Lauren Walker is alert and oriented to time, place, and person but exhibits signs of anxiety. No acute distress observed.
+
+## Results Section:
+
+Preliminary blood tests and imaging results are awaited for further analysis. Currently, no medical issues identified that could explain the reported symptoms. 
+
+## Family History Section:
+
+Lauren Walker discloses no known family history of mental health disorders or neurological conditions.
+
+## Social History Section:
+
+Lauren Walker lives alone and is currently working from home due to the pandemic situation. Lifestyle factors, including limited social interactions and potential work-related stress, could be contributing to the present condition.
+
+## Medications Section:
+
+No current medications. 
+
+## Allergies and Intolerances Section:
+
+No known drug allergies.
+
+## Assessment & Plan Section:
+
+Provided the current symptoms experienced by the patient, an initial assessment suggests a potential psychological disorder. The plan is to refer Lauren Walker to a mental health professional, Anna Parker, for a comprehensive psychiatric evaluation. Also, start Lauren Walker on a low dose of anti-anxiety medication to manage the symptoms temporarily. Further treatment will be determined based on the results of the psychiatric evaluation.
+
+## Instructions Section:
+
+Lauren Walker is advised to attend the appointment with Anna Parker, take the prescribed medicine regularly, and report back if there is any increase in the severity of the symptoms or if any new symptoms arise.
+
+## Advance Directives Section:
+
+Not applicable at this time.
+
+NOTE: The above information is a summary and does not contain all potential information regarding Lauren Walker's health status. The information is primarily based on patient-provided data and preliminary tests. This note is intended for informational purposes and should not be used as a standalone diagnostic tool.
+
+Medical Record Number: 728-FuQdqB
+

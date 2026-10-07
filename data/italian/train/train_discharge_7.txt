@@ -1,0 +1,38 @@
+SOMMARIO DI DIMISSIONE
+
+Paziente: Walter Graf
+Medico di reparto: Giulio Morelli
+
+# MOTIVO DI OSPEDALIZZAZIONE:
+Walter Graf è stato ricoverato in ospedale a seguito di risultati guaiac positivi e sintomi che includevano brividi ed ecchimosi, indicativi di anemia.
+
+# CORSO OSPEDALIERO:
+All'ingresso, il livello iniziale di emoglobina del paziente è stato rilevato basso, a 8g/dl, segnalando una possibile condizione medica come l'anemia. Il corso ospedaliero è stato complicato da episodi di brividi e l'apparizione di lividi spontanei (ecchimosi), che hanno richiesto ulteriori indagini che includevano una serie di test.
+
+# PROCEDURE EFFETTUATE:
+Durante il soggiorno, è stata eseguita una biopsia del midollo osseo a causa della presenza di proteine monoclonali nel sangue. Questa procedura ha aiutato a identificare la causa principale della condizione del paziente.
+
+# CURA, TRATTAMENTO E SERVIZI:
+A Walter Graf è stato iniziato un supplemento di ferro e Eritropoietina. Sono stati effettuati regolari esami del sangue per monitorare i livelli di emoglobina e la risposta al trattamento. Servizi aggiuntivi come la consulenza dietetica sono stati anche utilizzati per garantire un apporto di cibo ricco di ferro. L'assistenza infermieristica è stata fornita 24 ore su 24 per monitorare i segni vitali del paziente e il benessere generale.
+
+# CONDIZIONE ALLA DIMISSIONE:
+Al momento della dimissione, il livello di emoglobina di Walter Graf era aumentato a 11g/dl e i sintomi come i brividi e l'ecchimosi erano significativamente diminuiti. Anche la condizione generale del paziente ha mostrato miglioramenti.
+
+# INFORMAZIONI FORNITE AL PAZIENTE E ALLA FAMIGLIA:
+I risultati e il successivo piano di trattamento sono stati spiegati in dettaglio a Walter Graf e alla famiglia. Sono stati anche informati sull'importanza di una dieta sana, ricca di ferro e di un follow-up regolare per il monitoraggio continuo della condizione medica.
+
+# DISPOSIZIONI PER LA CURA DI FOLLOW-UP:
+È stata organizzata una cura di follow-up ambulatoriale con Giulio Morelli nella Divisione di Ematologia. Il paziente è programmato per tornare per un controllo tra due settimane.
+
+# MEDICAZIONE DI DIMISSIONE:
+Sono stati prescritti supplementi di ferro e iniezioni di Eritropoietina e le istruzioni per lo stesso sono state spiegate al paziente e alla famiglia.
+
+# ISTRUZIONI DI DIMISSIONE OSPEDALIERA:
+A Walter Graf e alla famiglia sono state date istruzioni specifiche sui segni di peggioramento della condizione come brividi continui, eccessiva stanchezza o lividi significativi e di cercare immediata attenzione medica nel caso in cui questi sintomi si presentino.
+
+# DIAGNOSI DI DIMISSIONE:
+Anemia, probabilmente causata da un'assorbimento di ferro diminuito o un apporto dietetico inadeguato.
+
+Firmato:
+Giulio Morelli
+Numero di cartella clinica: fbWHP wtjT

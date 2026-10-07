@@ -1,0 +1,54 @@
+"NOTA DE ENFERMAGEM #67 344722S
+
+Paciente: José Costa
+Profissional de Saúde: Yasmin Alvaréz
+
+-----------
+QUEIXA PRINCIPAL:
+Erupção cutânea - coceira, irritação.
+
+-----------
+SINAIS VITAIS:
+PA: 120/80
+FC: 75 bpm
+FR: 16 bpm
+Temp: 37 C
+SpO2: 98%
+
+-----------
+OBSERVAÇÕES:
+- Pele: Eritema e descamação notados. 
+- Extensão: Erupção difusa, maioria nos braços e tronco.
+- Prurido presente, intensidade 7/10.
+  
+-----------
+AVALIAÇÕES:
+- Paciente de 51 anos, possível Psoríase. 
+- Consulta com dermatologia aconselhada.
+
+-----------
+PLANO:
+- Iniciar corticosteroides tópicos.
+- Monitorar reação da pele diariamente.
+- Incentivar hidratação e manter a pele úmida.
+
+-----------
+INFORMAÇÕES ADICIONAIS:
+- Nome de usuário para o portal do paciente: FjYeEyp7
+- Identificador do dispositivo para o aplicativo e-Health: 55393 5907
+- Número de identificação do paciente: qAIHu 80ds
+
+-----------
+INFORMAÇÕES DE CONTATO:
+- Telefone: 9102730073
+- Endereço: José Costa, Jardim Monteiro, 595 152, 4703 Corumbaíba, Portugal
+- Email: néz@unicef.org
+
+-----------
+ASSINADO: 
+Enfermeira FjYeEyp7, em Norwegian Directorate
+  
+NOTA: Por favor, consulte o prontuário eletrônico para documentação completa. 
+
+(O número de registro médico do paciente 67 344722S, número da conta qAIHu 80ds, SSN 50099743-0, endereço IP 190.179.189.94, e informações do veículo 630-SEY estão armazenados com segurança em nosso sistema.)"
+

@@ -1,0 +1,40 @@
+"Krankenschwester Narrative Note
+
+S: Patientin Yvonne Kühn berichtet, dass bei ihr Lebermassen diagnostiziert wurden und sie zur Transplantationsberatung anwesend ist. Die Patientin ist sich über spezifische Symptome unsicher, erwähnt aber eine Biopsie, die die Diagnose bestätigt.
+
+O: Präoperative Bildgebung zeigt eine vergrößerte Leber mit multifokaler Erkrankung im gesamten Leberparenchym, periphere Verstärkung mit zentraler Hypoattenuation in der arteriellen Phase und Isodichte in der verzögerten Phasenbildgebung. Verkalkungen sind in einigen Massen zu erkennen. Keine signifikante Veränderung der Massengröße über 05.02.1998. Pathologische Untersuchung zeigt mehrere hellbraune Knötchen (0,5 bis 3,0 cm) in beiden Lappen, mit zwei histologischen Mustern: gut geformte Gefäßkanäle und verstreute Kabel von Tumorzellen in einer sklerotischen Matrix, und Bereiche mit zentralen hyalinisierten Narben und neoplastischen Zellen. Immunhistochemische Ergebnisse zeigen eine starke Expression von CD31 und ERG, positives TFE3 und negatives CAMTA1 in Tumorzellen.
+
+A: Der Patient hat multifokale hepatische Massen mit Merkmalen, die auf ein vaskuläres Neoplasma hindeuten, möglicherweise eine Variante von hepatischem Hämangiom oder Angiosarkom, angesichts der vaskulären Natur und immunhistochemischen Färbung. Die stabile Größe der Massen und detaillierte histologische und immunhistochemische Befunde unterstützen einen kontrollierten, aber vorsichtigen Ansatz, mit Lebertransplantation als die angezeigte Behandlung.
+
+P: Fahren Sie mit der geplanten Lebertransplantation fort. Nach der Transplantation den Patienten engmaschig auf Anzeichen einer Abstoßung überwachen und die Immunsuppression sorgfältig managen. Regelmäßige Nachsorgetermine werden notwendig sein, um die Leberfunktion zu beurteilen und ein Wiederauftreten der Krankheit zu erkennen. Den Patienten über Anzeichen von Komplikationen im Zusammenhang mit der Transplantation aufklären und das Verständnis für die Notwendigkeit einer lebenslangen Nachsorge und Pflege sicherstellen.
+
+Patienteninformationen:
+Patienten-ID: 271443-162
+Medizinische Aktennummer: 203613-wCm
+Kontonummer: 271443-162
+Standort: Stadion
+Krankenhaus: Japan-America Society
+Gesundheitsplan: E5YAIX86
+
+Kontaktinformationen:
+Arzt: Frieda Beck
+Email: cka@unicef.org
+Telefon: 741-901-6117x5375
+Fax: 001-201-688-7383x7289
+
+Zusätzliche Informationen:
+Stadt: Isny Im Allgäu
+Bundesland: 77
+Beruf: Bildungspsychologin
+Organisation: Anderson-Harris
+Alter: 35
+Benutzername: 3MDSqZNv
+Fahrzeug: VZR-501
+Sozialversicherung: 342-3494161-17
+Lizenz: VC AnwGOHE
+BioID: 967 mAOzJk
+IP-Adresse: 188.146.109.125
+URL: http://www.hodge.com/postsprivacy.php
+
+Krankenschwester Frieda Beck"
+

@@ -1,0 +1,48 @@
+"Verpleegkundige Krasnotitie: \\\\ Ademhalingsproblemen - Mogelijke Tyfus
+
+------------ Header ----------------
+Leentje van de Velde Detergence 85 9262 Nederland 66
+-----------------------------------------
+
+14970-OTEI - ID Tabel:
+1. VdaLee
+2. 174536 840
+3. 81793-KvlP
+4. 174536 840
+5. 709755778
+6. FAN-ZxBaVq
+7. 43.238.18.2
+8. 8DA B26
+9. RvX ZGHOrz
+
+Vitalen:
+BP: 120/80 mmHg
+Pulse: 80 bpm
+Temperatuur: 98.6 F
+Ademhaling: 16 ademhalingen/min
+
+Observaties:
+- Patiënt meldde ademhalingsmoeilijkheden, mogelijke blootstelling aan Jones, Soto en Sanford.
+- Behandeling met vernevelaar toegediend, patiënt lijkt goed te reageren.
+- Mogelijke tyfus, wacht op laboratoriumresultaten.
+
+Behandelingsupdate:
+- Vernevelaarbehandelingen gepland om de 4 uur.
+- IV-vloeistoffen gestart.
+- Bloedmonsters gestuurd naar Wesley Bolin Memorial Plaza lab voor verder onderzoek.
+
+------- Footer ---------------
+Noodcontact:
+Vincent van Loon
+(995)894-0501x129
+vanoVincen@unwomen.org
+Leentje van de Velde, Iodometrisch 89, 9262 Epicarps, België>
+----------------------------
+
+Gezondheidsinformatie:
+Gezondheidsplan: zXAzr6NOv I6YCSf Fz5
+Beroep: Legal executive
+----------------------------
+
+*Opmerking: Alle waarden zijn placeholders voor daadwerkelijke PHI. Gelieve te updaten met nauwkeurige informatie voor gebruik.*"
+

@@ -1,0 +1,28 @@
+"Rapporto di assistenza al paziente dei Servizi Medici di Emergenza (EMS) - Davis Ltd
+
+[DISPATCH] Il nostro team EMS ha ricevuto una chiamata di intervento da rtiras tramite una notifica elettronica dal 848777 386. È stato segnalato che la paziente Martina Piras si sentiva debole e provava dolore in più articolazioni. La chiamata è arrivata da stadio ed è stata effettuata il 13 mag 2018. Siamo stati immediatamente inviati alla posizione del paziente, il nostro veicolo 0-Y1990 è stato guidato dalle coordinate GPS dall'indirizzo IP 132.67.218.181.
+
+[SINTOMI PRESENTATI] All'arrivo, la paziente Martina Piras è stata trovata in moderato distress. La paziente si lamentava di debolezza e dolori articolari. Questi sintomi hanno iniziato a manifestarsi qualche ora fa. È stato notato che i sintomi del paziente erano simili a quelli esibiti da alcune forme di artrite. La paziente era allerta e orientata alla persona, al luogo e al tempo. Non sono stati osservati segni di dolore toracico o difficoltà respiratorie.
+
+[TRATTAMENTO] La storia medica del paziente è stata attentamente ottenuta dal database E7g del paziente utilizzando il numero di cartella clinica 00 tivMOps. Il paziente è stato poi accuratamente valutato dal nostro team medico. I segni vitali sono stati presi e registrati. Il nostro team EMS ha somministrato il primo soccorso e il farmaco per il sollievo dal dolore secondo il protocollo. Abbiamo rassicurato il paziente e spiegato il processo che stavamo intraprendendo.
+
+[PANORAMICA DELLA CHIAMATA AL 911 E DELLA CURA IN LOCO] Il nostro team è arrivato sul posto il 13 mag 2018 e ha immediatamente iniziato a somministrare le cure necessarie. L'indirizzo di casa del paziente Martina Piras, 969 Gloria Vista 14, 0562 San Dona' Di Piave, Svizzera è stato registrato ai fini dei nostri archivi. Il numero di previdenza sociale del paziente 789046-3157 è stato documentato per scopi di verifica.
+
+La paziente Martina Piras è stata assicurata su una barella e trasportata al Alta Bates Summit Medical Center in ambulanza. Durante il trasporto, il paziente è stato monitorato e i segni vitali sono stati rivalutati. La condizione del paziente è rimasta stabile durante tutto il viaggio.
+
+[CONSEGNA E RAPPORTO] All'arrivo al Alta Bates Summit Medical Center, il paziente è stato consegnato al personale del pronto soccorso. La condizione del paziente, la storia e i trattamenti somministrati sono stati comunicati chiaramente al medico del pronto soccorso Fabio Ferraro. 
+
+[DOCUMENTAZIONE] Tutta la documentazione necessaria, compreso il consenso del paziente, il rapporto di violazione HIPAA e i moduli di rilascio della cartella clinica, sono stati firmati e inviati via fax alla reception dell'ospedale al numero di fax (853)396-0268x5653. Il nostro team ha anche garantito la consegna sicura di tutti gli effetti personali del paziente e ha aggiornato i dettagli dell'account del paziente jyWTt tWPU come richiesto.
+
+[RIASSUNTO] In conclusione, il paziente, che soffriva di possibili sintomi di artrite, è stato trasportato in sicurezza all'ospedale. È stata fornita l'assistenza necessaria sul posto e durante il trasporto, e la consegna al personale del pronto soccorso è stata completata con successo.
+
+Rapporto di: Professionista EMS Amministratore dell'istruzione con numero di licenza FwYcg wymc da Davis Ltd il 13 mag 2018. Email per ulteriori comunicazioni: Fabo@hotmail.com.
+
+Questo documento è stato creato utilizzando la connessione internet sicura con l'indirizzo IP 132.67.218.181 ed è stato successivamente caricato sul portale sanitario online del paziente utilizzando l'URL fox-jenkins.ross.com. La conferma del caricamento avvenuto con successo è stata ricevuta tramite il numero di telefono (817)572-3098. 
+
+Le informazioni sulla salute del paziente in questo rapporto sono in conformità con le linee guida stabilite dallo stato del Veneto e dal Italia.
+
+La cura del paziente rimane la nostra massima priorità e responsabilità.
+
+Fine del rapporto."
+

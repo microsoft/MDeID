@@ -1,0 +1,62 @@
+"# Nota de Enfermeira Scratch 
+
+### Detalhes do Paciente:
+    ======================================
+    Nome: Beatriz Barbosa
+    Idade: 15
+    Segurança Social: 52293253-3
+    Hospital: Attila Hoare
+    Médico Assistente: Diego German
+    Número do Prontuário Médico: hfJOE 682g
+    ======================================
+
+    |Sinais Vitais|
+    ---------------
+    P.A: 120/80 
+    Temp: 37 C 
+    Pulso: 80 BPM 
+    Taxa Resp.: 16/min 
+    Sat O2: 98%
+
+## Condição:
+    - Tosse persistente
+    - Dificuldades respiratórias
+
+## Observações:
+    - Sons pulmonares anormais
+    - Secreção nasal presente
+
+## Tratamento:
+    - Nebulização salina
+    - Supressores de tosse
+
+    -------------------------------------
+
+### Informações Adicionais:
+    -------------------------------------
+    Plano de Saúde: hA5Njm
+    Endereço: Beatriz Barbosa, Feira Santos, 70 43, 1357 Juatuba, Portugal
+    Contato: 424.525.0426x346
+    Contato de Emergência: 424.525.0426x346
+
+    -------------------------------------
+
+## Outros Detalhes:
+    -------------------------------------
+    Dispositivo: 13110 yRok
+    BioID: 74512 74HU
+    Endereço IP: 153.183.151.253
+    Número de Identificação: 93 BkdauYg
+    Nome de Usuário: Barbeat
+    Licença: 77 wMpzrzO
+    Veículo: TDE 645
+    -------------------------------------
+
+- Profissões envolvidas: Diretor de arte em publicidade
+- Organizações Relevantes: Horn-Vega
+- Outros Locais: cafeteria
+- Datas Relevantes: 28/12/1983
+- Email do Paciente: nDi@icloud.com
+- URL:  www.booth.com/tagpost.asp
+- Fax: 001-711-889-9089x666"
+

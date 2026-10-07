@@ -1,0 +1,45 @@
+"**Krankenschwester Notizen**
+
+**Subjektiv:**
+Patientin Sophie Meier, eine 21 Jahre alte Frau, stellte sich mit Beschwerden über Oberbauchschmerzen, Arthralgie, Myalgie, Hyporexie, Unwohlsein, intermittierendem Fieber und progressiver Gelbsucht vor. Sie hat eine Vorgeschichte von chronischer Herzinsuffizienz, Rechtsschenkelblock, nicht-valvulärem Vorhofflimmern, Hypertonie und chronischer Venenerkrankung. Sophie Meier kommt aus Schule, einem Gebiet, das für Dengue, Chikungunya und Zika bekannt ist.
+
+**Objektiv:**
+Bei der Untersuchung wurde festgestellt, dass die Patientin Tachykardie, Tachypnoe und mukokutane Gelbsucht erlebt. Venöse Halspulsationen mit abdominojugulärem Reflux wurden bemerkt. Der Herzton S1 wurde als erhöht mit unregelmäßigem Rhythmus zusammen mit einem systolischen Murmeln an beiden oberen Brustbeinrändern gefunden. Atemgeräusche waren an beiden Lungenbasen vermindert. Eine nicht schmerzhafte tastbare Leber wurde 3 cm unter dem Rippenrand an der mittleren Schlüsselbeinlinie bemerkt. Laborergebnisse zeigten Leukopenie und Thrombozytopenie. Die elektrokardiographische Auswertung bestätigte Vorhofflimmern mit schneller ventrikulärer Antwort und Rechtsschenkelblock. Eine Röntgenaufnahme des Brustkorbs zeigte eine Kardiomegalie und bilaterale Pleuraergüsse. Nach der Aufnahme auf die Intensivstation erlebte die Patientin Hypoglykämie und eine Verschlechterung der Nierenfunktion und benötigte Beatmungs- und Vasopressorunterstützung. Blutproben wurden positiv auf Dengue-IgM-Antikörper getestet.
+
+**Bewertung:**
+Die primäre Diagnose ist schweres Dengue mit hepatischer Beeinträchtigung. Der Zustand der Patientin wird weiter durch chronische Herzinsuffizienz, Vorhofflimmern und akutes auf chronisches Nierenversagen kompliziert. Die Differenzialdiagnose umfasst andere Arbovirus-Infektionen wie Chikungunya und Zika, da sie in einem Endemiegebiet lebt. Die Prognose der Patientin ist schlecht, wie die schnelle Verschlechterung und der letztendliche Tod durch pulslose elektrische Aktivität zeigen.
+
+**Plan:**
+Die Patientin wurde auf der Intensivstation mit unterstützender Behandlung, einschließlich Antibiotikatherapie mit Cephazolin, Beatmungs- und Vasopressorunterstützung, betreut. Eine kontinuierliche Überwachung der Herz- und Nierenfunktionen wurde durchgeführt. Trotz aggressiver Behandlung verschlechterte sich der Zustand der Patientin, was zu ihrem Tod führte. Es wurde eine postmortale Familienberatung durchgeführt, in der die medizinischen Bemühungen und die Sensitivität und Spezifität der verwendeten diagnostischen Tests erklärt wurden.
+
+**Relevante Informationen:**
+- Benutzername des Patienten: 2QD7kgNq
+- Elektronische Geräte-ID: 10619 thlE
+- Sozialversicherungsnummer: 247247-4349
+- BioID-Hash: YQWO 7834B
+- IP-Adresse: 108.165.83.7
+- ID-Nummer: 957064-61P
+- Adresse: Sophie Meier, Christophstr. 36 83, 2601 Montévraz, Belgien
+- Aufgenommen in: St David 's Cathedral
+- Gesundheitsplan: Koir
+- Beruf: Best boy
+- Organisation: Hill-Ingram
+- Datum: Montag, 11. Dezember 1978
+- Arzt: Elisabeth Haas
+- E-Mail: isabeHa@red-cross.org
+- Telefon: 9038511633
+- URL:  www.woods-chambers.com/blog/search/listfaq.html
+- Fax: 4495197156
+
+**Fußzeile:**
+Fahrzeugkennung: 5MJ1741
+Lizenz-ID: YknsZA-97M
+Stadt: Rotenburg (Wümme)
+Land: Schweiz
+Bundesland: 81
+Straße: 434 Willis Vista
+PLZ: 2601
+
+[Ende des Dokuments]
+"
+

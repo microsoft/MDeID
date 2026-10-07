@@ -1,0 +1,41 @@
+"Kopfzeile: Patientenaufnahmedokument
+---------------------------------------
+Patienteninformation: Marcel Schmid
+Datum der Aufnahme: Freitag, 22. März 2024
+
+Betreff: Subjektive Erzählung
+---------------------------------------
+Marcel Schmid, ein 84 Jahre alter Mann mit gemischter Schweiz Abstammung, stellte sich mit abnormaler Empfindung vor, speziell, verminderter Sensibilität von der rechten Unterlippe bis zur Kinnregion. Sein allgemeiner körperlicher Zustand wurde als mäßig und sein Ernährungszustand als günstig beurteilt. Keine weiteren signifikanten Faktoren wurden in der Beurteilung des Industriekäufers festgestellt.
+
+Ziel: Objektive Befunde
+---------------------------------------
+Bildgebende Diagnostik, einschließlich einer Computertomographie (CT) des Gesichtsbereichs von Marcel Schmid, zeigte eine runde radiolucente Stelle im rechten Unterkieferkörper. Eine anschließende Magnetresonanztomographie (MRT) zeigte eine unregelmäßige hohe Signalintensität auf STIR-Horizontalschnitten sowie eine Dilatation des rechten Unterkieferkanals auf sagittalen Schnitten. Die Biopsieergebnisse deuteten auf ein Schwannom im Antoni A-Bereich hin, was auf eine unreife Läsion mit Wachstumspotenzial hindeutet. Während der Operation wurde ein zystischer Tumor (3,2 x 1,0 cm) in Verbindung mit dem unteren Alveolarnerv gefunden, der ligiert und extirpiert wurde. Postoperative Nachuntersuchungen zeigten eine erhöhte Radiopazität an der Wundstelle, was auf gesundes Knochenwachstum hindeutet.
+
+Beurteilung: Diagnose und Prognose
+---------------------------------------
+Die primäre Diagnose für Marcel Schmid ist ein Schwannom der rechten Unterkieferregion. Eine erfolgreiche chirurgische Extirpation wurde durchgeführt, und es wurden keine Tumorzellen an den Rändern des resezierten Nervenpräparats gefunden. Die Prognose sieht vielversprechend aus, vorausgesetzt, dass eine regelmäßige Überwachung gewährleistet ist.
+
+Plan: Behandlungsplan
+---------------------------------------
+Marcel Schmid unterzog sich einer Tumorextirpation unter Vollnarkose und zeigte positive Ergebnisse nach der Operation. Regelmäßige Nachuntersuchungen sind geplant, um das Knochenwachstum zu beurteilen und sicherzustellen, dass der Tumor nicht wieder auftritt. Marcel Schmid wird geraten, seinen Ernährungszustand zu erhalten und neue Symptome oder Bedenken ohne Verzögerung zu melden.
+
+Fußzeile: Kontaktinformationen und zusätzliche Details
+---------------------------------------
+Notfallkontakt: 001-264-961-9695x4138
+Fahrzeuginformation: X 551804
+Wohnadresse: Marcel Schmid, Daniela-Schönland-Platz 466 150, 8609 EC1V 7HP, Belgien
+E-Mail: ao@un.org
+Gesundheitsdienstleister: Elisa Groß
+Gesundheitsplan: uk0O9Qu5lo
+Krankenhaus: Abbotonians
+Medizinische Aktennummer: 46 leaMdQL
+Kontonummer: 66-zOEgvdm
+Gerätebezeichnung: DVMOQP 249
+ID-Nummer: 66-zOEgvdm
+Sozialversicherungsnummer: 359-8781121-43
+Lizenznummer: JqT-olhfQX
+Biometrische Identifikatoren: WwDgrL 052
+IP-Adresse: 27.233.215.18
+URL: anderson.parsons.scott.com
+Fax: 001-218-942-6714x573"
+

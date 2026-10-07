@@ -1,0 +1,39 @@
+"Nota del Dr. Scratch
+
+Sophia Graf - 64
+Arianna Gallo - Pediatra
+
+Sintomi:
+- Ritardi nello sviluppo e nel linguaggio (da lievi a moderati)
+- Diagnosi di ADD
+- Nessuna ipotonia
+
+Osservazioni fisiche:
+- Retrognazia
+- Ipertelorismo lieve
+- Filtrum allungato
+- Labbro superiore sottile
+- Mani larghe, corte
+- Sindattilia lieve (2°, 3° dita di entrambi i piedi)
+- Spazio sandalo (entrambi i piedi)
+
+Indagini:
+- RM (cervello): Normale xispY 7394
+- WES: variante de novo frameshift Chr1(GRCh37):g.244217335del, NM_205768.2(ZBTB18):c.259del(p.(Leu87Cysfs*21)) oKN 1235FB
+
+Diagnosi:
+- Disturbo genetico (variante ZBTB18) - contribuisce ai ritardi nello sviluppo/linguaggio, ADD
+- Sindrome sospetta (richiede ulteriore correlazione)
+
+Piano:
+- Logopedista: sessioni regolari Sharp-Martin
+- Terapista occupazionale: sessioni regolari Sharp-Martin
+- Psicologo: sessioni regolari Sharp-Martin
+- Controlli medici: Regolari Africa Care
+- Consulenza genetica: Famiglia Ricercatore scientifico (scienze della vita)
+
+Nota: La madre di Sophia Graf ha segnalato i sintomi. Nessuna evidenza di problemi di tono muscolare. I risultati genetici suggeriscono una sindrome specifica, necessità di ulteriore correlazione con i risultati clinici e la consulenza genetica. 
+
+Firma del Arianna Gallo: _____________________
+Data: 28/05/84"
+

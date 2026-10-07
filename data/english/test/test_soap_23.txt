@@ -1,0 +1,28 @@
+"S: Patient Chloe Tremblay is a 68 years-old individual with a history of hypertension and stage 4 HER-2 positive gastric adenocarcinoma with metastasis to the hospital, hospital, and hospital. The patient reports a new onset of a tonic-clonic seizure, which has never been experienced before. Additionally, the individual expresses concern about worsening epigastric pain and potential disease progression.
+
+O: The patient has been treated with trastuzumab, cisplatin, and capecitabine, continuing trastuzumab until recently. Brain MRI showed bilateral symmetric T2-FLAIR hyperintensity in the occipital and posterior parietal lobes, suggestive of PRES, with no evidence of acute stroke, intracranial hemorrhage, or metastasis. Blood pressure readings were controlled, all Iq 0519PBB. A recent Esophagogastroduodenoscopy revealed a large, malignant-appearing, partially obstructing mass in the gastric body, confirming disease progression.
+
+A: Primary diagnosis is PRES, likely secondary to trastuzumab toxicity or hypertension, and stage 4 HER-2 positive gastric adenocarcinoma with confirmed progression. Differential diagnosis includes complications from metastasis and side effects of ongoing chemotherapy.
+
+P: Continue monitoring with levetiracetam for seizure management and strict blood pressure control. Hold trastuzumab for 2,24 and reassess. Repeat brain MRI in 2,24 to monitor PRES. Address gastric mass and disease progression through discussions in the Lewis and Sons and adjust treatment plan accordingly. Maintain supportive care and involve the patient in decision-making processes.
+
+Additional information: 
+Medical record number: 31361 9983
+Account number: lyBN IjkyH
+Device identifier: Iq 0519PBB
+Username: OzrayVR6
+Vehicle identifier: 36-WB82
+Social security number: 270-291-449
+License identifier: OoWEO Jxlf
+Biometric identifier: OG 781alOK
+IP address: 128.214.169.143
+ID number: lyBN IjkyH
+Address: Chloe Tremblay, 151 Plutocratic, Disci, 80 1166, Canada
+Hospital name: Anderson
+Health plan: varwttpk
+Profession: Chief Technology Officer
+Email: riac@who.int
+Phone number: 909.453.9225
+URL:  davis-johnson.org/categories/tagssearch.html
+Fax number: 832.448.9366"
+

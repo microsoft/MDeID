@@ -1,0 +1,88 @@
+"Nota de Enfermagem
+
+---------------------
+
+Tabela 1: Informações Básicas
+
+---------------------
+
+|   Evelyn German  |  11 926wWJK  | 742162 hZI | 11 926wWJK |
+
+|:------------:|:-----------:|:---------------:|:------:|
+
+|   [Paciente]  |  [Conta#]    |    [Registro#]    | [ID#]  |
+
+---------------------
+
+Tabela 2: Informações de Contato
+
+---------------------
+
+| Evelyn German, Largo de Ribeiro, 22 185, 5141 Recreio dos Bandeirantes, Portugal  |  2205021607  | rnardei@outlook.com | Dance movement psychotherapist  | Obrien and Sons  |
+
+|:----------:|:---------:|:-------:|:-------------:|:--------------:|
+
+|  [Endereço] |  [Telefone#] | [Email] |  [Profissão] |  [Organização] |
+
+---------------------
+
+Tabela 3: Provedor & Seguro
+
+---------------------
+
+|  Bernardo Oliveira  | stanford  | Te1g lEa2o4OFa  |
+
+|:----------:|:-----------:|:-------------:|
+
+|  [Médico]  |  [Hospital] |  [Seguro]  |
+
+---------------------
+
+Tabela 4: Informações Avançadas
+
+---------------------
+
+| nSg0JjF3  | 176.101.245.222  | mathews-nelson.com  | (635)249-4698 |
+
+|:-----------:|:------------:|:------:|:-----:|
+
+| [Nome de usuário]  |  [Endereço IP] | [URL]  | [FAX] |
+
+---------------------------
+
+Sinais vitais & Observações em 22/06/2004
+
+---------------------------
+
+V/S: BP: 130/80, Pulso: 85, Temp: 12
+
+Início dos sintomas: Falta de ar, febre alta, sensação de doença.
+
+Possível pneumonia.
+
+Impressões & Plano:
+
+- Solicitado Raio-X do tórax para confirmar.
+
+- Iniciar antibióticos 742162 hZI.
+
+- Monitorar progresso.
+
+- Retorno em 22/06/2004 se não houver melhora.
+
+Nota do Bernardo Oliveira: O paciente pode precisar de hospitalização se a pneumonia for confirmada e a condição piorar.
+
+-------------------------------
+
+Tabela 5: Outras Informações Relevantes
+
+-------------------------------
+
+| Portugal  | Ubá  | 35 | 5141 | 74519 Patrick Junction Apt. 862 | parque  | 6EY X19  | 612.320.384-63 | 46636-411J | PpQw 3261I |
+
+|:----------:|:-------:|:-------:|:-----:|:--------:|:-----------------:|:---------: |:----------------:|:---------:|:------: |
+
+|  [País] | [Cidade]  | [Estado] | [CEP] | [Rua] |    [Localização]     | [Veículo#] |     [SSN#]       | [Licença] | [BioID] |
+
+"
+

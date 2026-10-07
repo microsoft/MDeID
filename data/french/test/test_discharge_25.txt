@@ -1,0 +1,64 @@
+**RÉSUMÉ DE SORTIE**
+
+***Détails du patient :***
+
+- Nom : Haley Pelletier
+
+- Numéro de dossier médical : 49415 5995
+
+***Raison de l'admission :***
+
+Le patient a été admis suite à une tentative de suicide.
+
+***Cours de l'hôpital :***
+
+À l'admission, le patient présentait des hallucinations auditives et une insomnie sévère qui ont été considérées comme des contributeurs significatifs à la tentative de suicide. Le patient a ensuite été admis dans notre unité de santé mentale et comportementale où un plan de traitement de santé mentale complet a été initié.
+
+***Procédures effectuées :***
+
+L'évaluation psychiatrique et la thérapie comportementale cognitive étaient les principales procédures effectuées pendant le séjour à l'hôpital. Aucune intervention chirurgicale n'a été nécessaire.
+
+***Soins fournis :***
+
+Le patient a été placé sous surveillance suicidaire 24 heures sur 24. Des médicaments ont été administrés pour les troubles du sommeil et pour gérer les hallucinations. Des séances de conseil régulières ont été organisées avec un Martin Widmer pour la thérapie comportementale cognitive.
+
+***État du patient à la sortie :***
+
+Le patient a montré une amélioration significative à la sortie. Les hallucinations ont été signalées comme réduites, et un schéma de sommeil normalisé a été observé.
+
+***Informations fournies au patient et à la famille :***
+
+Le patient et sa famille ont été informés de la gravité de la condition et ont été éduqués sur l'importance de l'adhésion aux médicaments et à la thérapie. Ils ont également reçu des ressources pour un soutien supplémentaire en santé mentale et des lignes d'assistance pour la prévention du suicide.
+
+***Dispositions pour les soins de suivi :***
+
+Un rendez-vous de suivi a été programmé dans deux semaines avec le Martin Widmer qui a assisté le patient. Il est conseillé au patient de continuer les médicaments prescrits et la thérapie.
+
+***Médicaments à la sortie :***
+
+Le patient a reçu une prescription de médicaments antipsychotiques et d'aides au sommeil pour gérer les symptômes après la sortie.
+
+***Plan de traitement :***
+
+Le plan de traitement comprend la poursuite des médicaments, des rendez-vous de suivi réguliers et la poursuite de la thérapie comportementale cognitive.
+
+**[Fin de la section]**
+
+***Consultations à l'hôpital :***
+
+Au cours du séjour à l'hôpital, des consultations ont été demandées avec un psychiatre, un psychologue et un spécialiste du sommeil.
+
+***Résultats :***
+
+Le patient a montré une amélioration significative avec le plan de traitement complet. Les hallucinations auditives ont considérablement diminué et le schéma de sommeil du patient se normalise.
+
+***Diagnostic à la sortie :***
+
+Le diagnostic final à la sortie est une dépression sévère avec des caractéristiques psychotiques.
+
+_Notez que ce rapport a supprimé toute information de santé personnelle (PHI) avec des espaces réservés à des fins de confidentialité et de respect de la vie privée._
+
+**[Fin du résumé de sortie]**
+
+*Préparé par : Martin Widmer*
+

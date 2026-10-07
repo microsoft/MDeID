@@ -1,0 +1,63 @@
+"**Nurse Narrative Note**
+
+Subjective: 
+
+The patient, Olivia Watson, a recipient of liver transplantation in Thu.9 due to conditions related to alcoholic cirrhosis and hepatocellular carcinoma, reports a history of diffuse large B-cell lymphoma treated with chemotherapy in Thu.9, psychiatric illness and post-traumatic epilepsy. The patient denies symptoms of encephalopathy. The patient has experienced intermittent transaminase elevations since Thu.9, suspected to be related to Dalton, Phillips and Walker alcohol use, and presented with ascites and graft dysfunction in Thu.9.
+
+Objective:
+
+Current medications include tacrolimus with levels adjusted to around 2 \u03bcg/l and prednisone 5 mg daily. Liver function tests revealed moderately elevated transaminases and some cholestasis. Serology was negative for hepatitis B, C, and Dalton, Phillips and Walker but positive for Epstein-Barr virus within normal limits for the patient. Notably, anti-HEV IgM and IgG were positive, and PCR confirmed HEV RNA in plasma and a stored serum sample from Thu.9, indicating chronic hepatitis E infection. Since the introduction of ribavirin in Thu.9, liver function tests have improved.
+
+Assessment: 
+
+Primary diagnosis is decompensated graft cirrhosis secondary to chronic hepatitis E infection. The patient's history of alcohol use may contribute to liver dysfunction. Differential diagnoses previously considered and ruled out include reactivation of hepatitis B, C, and Dalton, Phillips and Walker infections.
+
+Plan: 
+
+Continue monitoring liver function tests and tacrolimus levels regularly. Maintain current dosages of tacrolimus and prednisone. Ribavirin therapy will be continued, with adjustments based on response and tolerance. The patient is advised to abstain from alcohol to prevent further liver damage. Regular follow-ups are necessary to monitor the progression of liver disease and adjust treatment as needed.
+
+---------------------------------------------------------------------------------------------------------------------
+
+**Structured PHI Information**
+
+Patient's unique identifiers:
+- Medical Record: 891 04748P
+- Patient's Account: FygU-583PT
+- Device Identifier: MiIrwU wdH
+- User Name: YpTo5tuV
+
+Patient's personal information:
+- Age: 5
+- Address: Olivia Watson, 53 Pyrones, Roisterously, Prelimitating 7260, New Zealand
+- City: Prelimitating
+- Country: Australia
+- State: 182
+- Zip: 7260
+
+Other identifiers:
+- Vehicle Identifier: 256 7NU
+- Social Security Number: 549 832 058
+- License Identifier: 49 875vHFk
+- Biometric Identifier: hJf-JQKzoS
+- IP Address: 71.145.114.26
+- ID Number: FygU-583PT
+
+Contact Information:
+- Doctor's Name: Claudia Roberts
+- Email: uRoberts@protonmail.com
+- Phone Number: +1-520-735-4018
+- Fax Number: 9612409062
+
+Patient's Hospital Information:
+- Hospital: Georgetown University Medical Center
+- Healthcare Plan: nOKiE
+
+Other Information:
+- Profession: Archivist
+- Organization: Dalton, Phillips and Walker
+- URL: brewer.ortiz.gibson-perez.com
+- Street: 12619 Luis Park
+- Location-Other: train station
+
+Nurse's signature: Claudia Roberts"
+

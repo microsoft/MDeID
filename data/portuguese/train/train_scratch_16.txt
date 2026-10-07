@@ -1,0 +1,60 @@
+"#Nota de Enfermagem 
+
+--- Detalhes do Paciente ---
+Nome: Tomás Castro
+Idade: 71
+SSN: 24443913-1
+Prontuário Médico: IxhcPG-Zsp
+Número da Conta: wC syFVryy
+Profissão: Editor de publicações
+Organização: White, Bradley and Bowman
+Plano de Saúde: QD3kb1XD
+
+--- Informações de Contato ---
+Endereço: Tomás Castro, Avenida Maia, 69 58, Oospheres, Russas - 95, CDST7LDR, Brasil
+Telefone: 388-950-4819
+Email: iguer@aol.com
+
+--- Dispositivos de Diagnóstico ---
+Número do Dispositivo: BUccBY-32u
+
+--- Informações do Médico ---
+Médico Assistente: Miguel Pereira
+Licença: ycNJC-467e
+
+--- Informações de IP ---
+Endereço de IP: 8.40.138.93
+
+--- Informações de Rede ---
+Nome de Usuário: stromá
+
+--- Informações do Veículo ---
+Placa: IV3 5146
+
+--- ID Biométrico ---
+BioID: cL-wpktQjm
+
+--- Estado Atual ---
+Dificuldade para engolir alimentos, azia e indigestão periódicas, Potencial para Úlcera Péptica em Russas-São Paulo (SP).
+
+--- Sinais Vitais ---
+Pressão Arterial: 120/80 mmHg 
+Pulso: 72 bpm 
+Temperatura Corporal: 98.7\u00b0F
+Taxa Respiratória: 16 respirações por minuto
+
+--- Outras Informações Relevantes ---
+O paciente trabalha para a White, Bradley and Bowman, mais fatores relacionados ao estresse precisam ser investigados. Possível histórico de fumo e álcool.
+
+--- Contato de Emergência ---
+Nome: Tomás Castro 
+Relação: Membro da Família
+Telefone: 388-950-4819
+
+--- Acompanhamento ---
+Próxima consulta com o Dr. Miguel Pereira em segunda-feira, 1 de janeiro de 2018 no King Ernst shopping
+
+--- Notas Adicionais ---
+stromá precisa monitorar os sintomas e relatar qualquer alteração. Evitar alimentos picantes e de difícil digestão, tomar a medicação conforme prescrito pelo Dr. Miguel Pereira
+"
+

@@ -1,0 +1,45 @@
+RÉSUMÉ DE SORTIE
+=====================
+**Patient**: Tatiana Dumas
+**Dossier médical**: 5329-nxrOS
+**Admission**: 03/06/1989
+**Sortie**: 03/06/1989
+**Disposition de sortie**: Retour à domicile avec suivi médical
+
+**MÉDECIN PRINCIPAL**: Dr. Timothée Faure
+
+**RAISON DE L'HOSPITALISATION**
+Ce résumé concerne Tatiana Dumas qui a été hospitalisée en raison de l'aggravation des symptômes de l'encéphalopathie, marquée par une incoordination, une asterixis, une hémorragie et une somnolence.
+
+**COURS DE L'HÔPITAL**
+Tatiana Dumas a été initialement admise dans un état somnolent avec des signes évidents d'incoordination et d'asterixis. À l'examen, il y avait également des signes d'hémorragie. Cela a conduit au diagnostic d'encéphalopathie. La patiente a subi de nombreuses consultations, procédures diagnostiques et traitements pendant son séjour à l'hôpital.
+
+**DIAGNOSTIC DE SORTIE**
+Diagnostic principal : Encéphalopathie
+
+**SOINS, TRAITEMENT ET SERVICES FOURNIS**
+Pendant l'hospitalisation, la patiente a été prise en charge avec un traitement médicamenteux, un soutien nutritionnel et une thérapie physique pour maintenir la mobilité.
+
+**CONDITION DE SORTIE**
+Au moment de la sortie, l'état de Tatiana Dumas s'était amélioré mais nécessite une gestion continue. La patiente est lucide, mobile avec assistance, et les épisodes d'hémorragie ont considérablement diminué.
+
+**INFORMATIONS POUR LE PATIENT ET LA FAMILLE**
+Le diagnostic, la nécessité d'une gestion continue des médicaments et des symptômes, et les signes d'alerte nécessitant une attention médicale immédiate ont été expliqués en détail au patient et à la famille.
+
+**DISPOSITIONS POUR LES SOINS DE SUIVI**
+Un rendez-vous de suivi avec le Dr. Timothée Faure a été prévu pour le 03/06/1989 à Columbia Psychiatry. Il a été conseillé au patient et à la famille de respecter strictement le régime médicamenteux.
+
+**MÉDICAMENTS À LA SORTIE**
+Une ordonnance pour le médicament pour gérer les symptômes de l'encéphalopathie et d'autres thérapies de soutien a été fournie au patient et à la famille.
+
+**INSTRUCTIONS DE SORTIE DE L'HÔPITAL**
+Il est conseillé à Tatiana Dumas de prendre un repos adéquat, de suivre le programme de médication et de surveiller les symptômes. En cas de complications, ils doivent immédiatement contacter l'hôpital.
+
+**SIGNES VITAUX À LA SORTIE**
+Température : 98.6°F
+Fréquence cardiaque : 80 bpm
+Pression artérielle : 120/80 mmHg
+
+Le reste de l'équipe médicale et moi-même souhaitons à Tatiana Dumas un prompt rétablissement.
+
+**Médecin**: Dr. Timothée Faure

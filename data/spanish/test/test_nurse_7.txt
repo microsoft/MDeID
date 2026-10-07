@@ -1,0 +1,34 @@
+"**Notas de la Enfermera**
+
+La paciente, Socorro Camacho, fue referida al Departamento de Cirugía Oral y Maxilofacial por un médico general. La paciente informa una historia de 4 semanas de hinchazón repentina y dolorosa del labio superior. La paciente niega cualquier trauma específico pero admite haberse inyectado un relleno dérmico, reeves.davis.bailey.com, comprado en línea en el labio superior. Este evento coincide con el inicio de los síntomas. La paciente niega cualquier historia de consumo de tabaco o alcohol, que son factores de riesgo para el cáncer oral. 
+
+El examen físico reveló un labio superior agrandado con un cierre labial incompetente. Se notó una hinchazón firme y eritematosa de 2 cm x 1 cm en el labio superior derecho, sin cruzar la línea media, con una herida por punción en el borde vermellón sobre un fondo de tejido traumatizado adyacente a la hinchazón firme. A la palpación, la lesión era dolorosa pero no mostraba signos de supuración, induración o ulceración. La paciente no mostró signos de déficits de los nervios craneales, linfadenopatía o infección sistémica. La salud dental es normal. 
+
+**Registros Electrónicos de Salud del Paciente**
+
+El número de registro médico del paciente ntOD-qbXPy confirma una visita al departamento de emergencias por hinchazón del labio superior después de la autoinyección de un relleno dérmico. 
+
+**Diagnóstico**
+
+El diagnóstico principal es hinchazón e inflamación localizada del labio superior debido a la autoadministración de un relleno dérmico. El diagnóstico diferencial incluye infección o reacción alérgica al material de relleno. La ausencia de signos sistémicos y síntomas específicos como supuración y ulceración reduce la probabilidad de un proceso infeccioso grave.
+
+**Plan**
+
+El plan de manejo incluirá la consulta con el equipo de cirugía oral y maxilofacial para desarrollar una estrategia de tratamiento específica, probablemente centrada inicialmente en el manejo conservador, como la observación y posiblemente la intervención farmacológica para reducir la inflamación. Se aconseja a la paciente que no se realice más autoinyecciones y procedimientos similares. Se programará una cita de seguimiento con Vicente Mora para monitorear la progresión de la lesión y ajustar el plan de tratamiento según sea necesario. Se proporcionará educación sobre los riesgos de los rellenos dérmicos autoadministrados y la importancia de la administración profesional.
+
+**Información Adicional**
+
+Información de Contacto del Paciente: 
+- Email: oent@microsoft.org
+- Teléfono: 001-528-597-5812x8264
+- Dirección: Socorro Camacho, Vial José Ángel Herrero 8 35, Collagens, ZHYI4ZZF Laboulaye, 5, México
+
+Información de Contacto de Emergencia:
+- Nombre: Socorro Camacho
+- Relación: Compañero de cuarto
+- Teléfono: 001-528-597-5812x8264
+
+**Pie de página**
+Preparado por: Vicente Mora, ID# TC-sZzKRUb, Licencia# 5182 GyNsT el jueves, 9 de diciembre de 1999 
+"
+

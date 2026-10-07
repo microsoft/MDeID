@@ -1,0 +1,45 @@
+"**Nurse Notes**
+
+**Subjective:**
+Patient Piper Leblanc, a 7 month years old woman, presented with complaints of upper abdominal pain, arthralgia, myalgia, hyporexia, malaise, intermittent fever, and progressive jaundice. She has a history of chronic heart failure, right bundle branch block, non-valvular atrial fibrillation, hypertension, and chronic venous disease. Piper Leblanc is from park, an area known for dengue, chikungunya, and Zika.
+
+**Objective:**
+Upon examination, the patient was found to be experiencing tachycardia, tachypnea, and mucocutaneous jaundice. Venous neck pulsations with abdominojugular reflux were noted. The heart sound S1 was found to be increased with an irregular rhythm along with a systolic murmur at both upper sternal borders. Breath sounds were diminished at both lung bases. A non-painful palpable liver was noted 3 cm below the costal border at the mid-clavicular line. Lab results indicated leucopenia and thrombocytopenia. Electrocardiographic evaluation confirmed atrial fibrillation with rapid ventricular response and right bundle branch block. Chest X-ray showed cardiomegaly and bilateral pleural effusion. After ICU admission, the patient experienced hypoglycemia and worsening renal function, and required ventilatory and vasopressor support. Blood samples tested positive for dengue IgM-antibodies.
+
+**Assessment:**
+The primary diagnosis is severe dengue with hepatic compromise. The patient's condition is further complicated by chronic heart failure, atrial fibrillation, and acute on chronic renal failure. The differential diagnosis includes other arboviral infections such as chikungunya and Zika, given that she resides in an endemic area. The patient's prognosis is poor as evidenced by rapid deterioration and eventual death due to pulseless electrical activity.
+
+**Plan:**
+The patient was managed in the ICU with supportive treatment, including antibiotic therapy with cephazolin, ventilatory and vasopressor support. Continuous monitoring of cardiac and renal functions was implemented. Despite aggressive management, the patient's condition deteriorated, leading to her death. Post-mortem family counseling was provided, explaining the medical efforts and the sensitivity and specificity of the diagnostic tests used.
+
+**Relevant Information:**
+- Patient's username: Leblancpe
+- Electronic device ID: kufY zGPLr
+- Social security number: 712-306-334
+- BioID hash: 981032 IOe
+- IP Address: 117.117.27.139
+- ID number: 013 moyAyX
+- Address: Piper Leblanc, 66 Gambet, Untrowed, 41 0334, United States
+- Admitted to: boston
+- Healthplan: RPkuP pgKJmw qL9LrOXv1Jb
+- Profession: Geneticist, molecular
+- Organization: Santiago, Kim and Wilson
+- Date: 1985
+- Doctor: Cynthia Kelly
+- Email: yy@msf.org
+- Phone: (920)841-0219x44633
+- URL: nguyen-jones.org
+- Fax: (598)470-6482
+
+**Footer:**
+Vehicle Identifier: ZEU 475
+License ID: Artuq-1641
+City: Untrowed
+Country: Canada
+State: 625
+Street: 335 Kelly Groves Suite 880
+Zip: 0334
+
+[End of the Document]
+"
+

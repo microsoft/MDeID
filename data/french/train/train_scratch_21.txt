@@ -1,0 +1,49 @@
+"NOTES RAPIDES: Profil du patient
+
+------------------------------------------------------------
+Levi Lévesque | 12 | masculin | Designer, verre soufflé/vitrail | Clark-Jackson
+------------------------------------------------------------
+**INFORMATIONS DE CONTACT**:
+* Domicile: Levi Lévesque, 100 66132 Marianne Centers Apt. 668, Villemomble, 67 2489, Canada
+* Téléphone: +1-244-249-6834
+* EMAIL: ena@hotmail.com
+------------------------------------------------------------
+**Signes vitaux du patient**:
+* TA - 121/81 (Normal)
+* Pouls - 75 (Normal)
+* Temp - 98.6 F (Normal)
+* Respiration - 16 respirations/min (Normal)
+------------------------------------------------------------
+**Informations médicales du patient**:
+* Numéro de dossier médical: hli 39162n
+* Plan de santé: SgW
+* Hôpital: Baseball
+* Médecin traitant: Sara Denis
+------------------------------------------------------------
+**Observations**:
+- Se plaint de difficultés à se concentrer.
+- Instabilité émotionnelle notée.
+- Suspecté: diabète.
+- Recommandé: Test de glycémie.
+------------------------------------------------------------
+**Informations sur l'appareil**:
+- ID de l'appareil: 7350 NvFbZ
+------------------------------------------------------------
+**Autres informations**:
+* Numéro de compte: 659 srHBgD
+* Plaque d'immatriculation: TXT-9104
+* BioID: 40595 34JM
+* Nom d'utilisateur: PieCmmpZ
+* Adresse IP: 27.64.237.107
+* Numéro d'identification: 659 srHBgD
+* Localisation: arrêt de bus
+* Contact d'urgence: Levi Lévesque
+* Sécurité sociale: 059-849-416
+* État: 67
+* Rue: 37362 Beck Manors Apt. 858
+* URL: ortega.com
+* Code postal: 2489
+* Fax: 718-752-5198
+------------------------------------------------------------
+NOTE: Un suivi est prévu pour un diagnostic complet. Les résultats guideront les prochaines étapes du plan de traitement. Contacter le patient après réception des résultats des tests."
+

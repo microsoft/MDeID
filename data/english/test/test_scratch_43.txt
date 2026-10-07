@@ -1,0 +1,102 @@
+"Nurse Scratch Note
+
+----------------------
+|| Patient Summary Camille Lee ||
+
+- Chief complaint: Itching, nausea
+- Noted observations: Severe jaundice 71-78119LP
+- 3 years old
+- female
+
+----------------------
+|| Vitals AIwfG-Ltto || 
+
+- Temp: 98.7F
+- Pulse: 82 bpm
+- Resp: 18 breaths/min
+- BP: 120/80 mmHg
+
+----------------------
+|| Relevant Med. Info xXSJw-VXWJ || 
+
+- Allergies: None identified
+- H/O recent travel: train station
+- H/O recent diet change: Unknown
+- F/H: Johnson Ltd - Relevant
+
+----------------------
+|| Progress Sep 18 || 
+
+- Administered routine meds - noted in chart 795678 Zju
+- No significant change in condition
+- Ruth Welch consulted
+
+----------------------
+|| Contact Information +1-997-332-6915x8617 || 
+
+- Emergency Contact: Camille Lee Relation: Passenger transport manager
+- Contact No.: +1-997-332-6915x8617
+
+----------------------
+|| Hospitalization Info St Kevin's || 
+
+- Admitted on:  Sep 18
+- Room: 795678 Zju
+
+----------------------
+|| Treatment Info || 
+
+- Prescribed Medication: Zpcmjw
+- Next Appointment with Ruth Welch: Sep 18
+
+----------------------
+|| General Note QMrUmlmS || 
+
+- Patient's mood appeared stable
+- Family present during visit: Camille Lee
+- Patient QMrUmlmS logged in e-portal
+
+----------------------
+|| Patient's Address Camille Lee, 93 Northwestern, Preaverring, 28 7427, United States || 
+
+----------------------
+|| Social Security 500-682-845 || 
+
+----------------------
+|| License 545 52126A || 
+
+----------------------
+|| IP Address 5.94.6.4 || 
+
+----------------------
+|| Vehicle QCU-7232 || 
+
+----------------------
+|| Email hh@msf.org || 
+
+----------------------
+|| URL austin.com || 
+
+----------------------
+|| Fax 892-273-8937x0114 || 
+
+----------------------
+|| State 326 || 
+
+----------------------
+|| City Preaverring || 
+
+----------------------
+|| Country New Zealand || 
+
+----------------------
+|| Street 349 Koch Shoal Suite 202 || 
+
+----------------------
+|| Zip 7427 || 
+
+----------------------
+|| Account 795678 Zju || 
+
+End of Note."
+

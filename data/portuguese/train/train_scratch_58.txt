@@ -1,0 +1,72 @@
+"Modelo de Nota de Enfermagem:
+
+Cabeçalho:
+
+------------------
+
+Luan Silva
+
+38
+
+137 EwXbZM
+
+------------------
+
+Sinais vitais:
+
+PA: 130/85
+
+Pulso: 110
+
+Temp: 101.2F 
+
+Observações:
+
+------------------
+
+- Febre, Luan Silva relata sentir-se "quente e suado"
+
+- Suspeita de Malária
+
+Resultados:
+
+------------------
+
+- Conjuntiva pálida
+
+- Baço aumentado sentido
+
+Tratamento iniciado:
+
+------------------
+
+- Antimaláricos iniciados
+
+Ação futura:
+
+------------------
+
+- Esfregaço de sangue para confirmação
+
+- Monitorar sinais vitais a cada 4 horas
+
+Comunicado com a Madalena Antunes de plantão.
+
+Rodapé:
+
+------------------
+
+Contato de emergência:
+
+4592799766
+
+Endereço para acompanhamento:
+
+Luan Silva, R. Amaral, 728 14, 8111 Centro Terreo Juquiá, Portugal
+
+Detalhes do WTI necessários para a farmácia.
+
+Nome de usuário do paciente dfda6tLw para agendamento de consulta online.
+
+Nome da Cortez, Johnson and Allen para solicitação de licença médica."
+

@@ -1,0 +1,73 @@
+"KRANKENSCHWESTER NOTIZEN
+
+#### Patient Vertrauliche Informationen
+-----------------------------------
+* Patient: Anna Schneider
+* Alter: 74
+* Arzt: Toni Schneider
+* Medizinische Akte: jrjz 19Snh
+* Adresse: Anna Schneider, Murat-Schomber-Weg 945 9, 1165 Tunxdorf, Belgien
+* Kontonummer: kB-511629K
+* Ausweisnummer: kB-511629K
+
+#### Klinische Präsentation
+------------------------------------------------
+* Juckreiz - ++++
+* Begleitet von - 8. September 2021
+
+#### Vitalzeichen
+-----------------------------------
+* BP - 120/80
+* HR - 88
+* RR - 16
+* Temp - 98.2F
+* Sauerstoffsättigung - 98%
+
+#### Beobachtung
+------------------------------------------
+* Rötung - ++
+* Hautschäden - +
+
+#### Vermuteter medizinischer Zustand
+-------------------------------------------
+* Pilzinfektion
+
+#### Geräteinformationen
+----------------------------------------------
+* Geräteseriennummer - iDt 07oZyJ
+
+#### Behandlung & Fortschritt
+--------------------------------------
+* Antimykotika - verschrieben
+* Fortschritt - zu überprüfen nach 8. September 2021
+
+#### Kontaktinformationen
+-------------------------------------
+* Telefonnummer: 001-898-325-0075x85857
+* Email: dn@mail.com
+* Zusätzlicher Kontakt: ellis-kelly.biz
+
+#### Verschiedenes
+---------------------------------------------
+* Fahrzeuginformationen des Patienten: 38G C20
+* Beschäftigung des Patienten: Williams-Sampson
+* Beruf des Patienten: Übungsphysiologe
+* Gesundheitsplan: dQUucB74
+* Lizenznummer: 580961 KOf
+* Biometrischer Identifikator: 38241-9785
+* IP-Adresse: 143.69.194.24
+* Sozialversicherungsnummer: 961464-5516
+* Anderer Standort: Museum
+* Stadt: Hobart, TAS
+* Staat: Metropolitana de Santiago
+* Land: Österreich
+* Straßenname: 402 Jon Parkways Apt. 139
+* Postleitzahl: 1165
+* Fax: 273.749.3291
+
+Bitte beachten Sie, dass dies schnelle und informelle Notizen hauptsächlich für interne Kommunikationen sind. Für die umfassende medizinische Akte, bitte auf die Patientenakte verweisen. 
+
+-----------------------------------------
+Respektvoll eingereicht von: Klhtixkb
+"
+

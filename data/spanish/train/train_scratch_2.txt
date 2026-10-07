@@ -1,0 +1,88 @@
+"Nota de Enfermería
+
+**********Signos Vitales & Observaciones Médicas**********
+
+BP: 155/98 mmHg
+
+HR: 101 bpm
+
+Temp: 38.1 C°
+
+Resp: 18 rpm
+
+O2 Sat: 95%
+
+GCS: 15
+
+**********Datos Subjetivos & Objetivos**********
+
+- El paciente Ramón Díaz parece cansado, reporta dolor de cabeza y malestar en el pecho
+
+- 37 años, antecedentes familiares positivos de enfermedades cardiovasculares cubiertas por GcaM
+
+- Sin erupciones, moretones o lesiones visibles
+
+- Dificultad para manejar objetos personales mxGEkrxU
+
+**********Tratamientos & Intervenciones**********
+
+- Administrado Aspirina 81mg PO
+
+- Administrado Nitroglicerina 0.4mg SL
+
+- Administrado Heparina 5000 unidades SC
+
+- Proporcionado medidas de confort, reposicionado, se alentó la respiración profunda
+
+**********Plan & Seguimiento**********
+
+- Monitorizar signos vitales cada 4 horas
+
+- El paciente debe someterse a ECG, radiografía, Monitor del dispositivo 3144-sGXql
+
+- Consultar con la Dra. Claudia López para revisión de medicamentos
+
+- Planificar prueba de esfuerzo si los síntomas persisten
+
+************Información del Paciente************
+
+- Ramón Díaz ID: wrrw GApSO
+
+- Historial médico: sOF-UdmeUY
+
+- Ubicación del paciente (habitación): centro comercial
+
+- Admitido: Hospital Constantine II of, Arcos De La Frontera, Campeche
+
+- Cuenta de facturación: wrrw GApSO, Aseguradora: GcaM
+
+************Información de Contacto************
+
+- Casa del paciente: Ramón Díaz, Alameda Julio Villanueva 82 Apt. 93 191, Pliosaurian, P3ZGRLW6 Arcos De La Frontera, 53, México
+
+- Email: paudia@unhcr.org
+
+- Teléfono principal: 6068544494
+
+- Fax: 743-441-4910
+
+- Contacto de emergencia: relación con Ramón Díaz, Teléfono: 6068544494
+
+************Otra Información************
+
+- Consultado con la Dra. Claudia López de Ferguson, Anderson and Skinner sobre el mejor curso de acción
+
+- URL del estudio de caso referenciado: thomas-riley.white-chandler.org
+
+- Profesión del paciente: Oficial de igualdad y diversidad
+
+- Licencia de conducir: bXQvlr UJt
+
+- Seguridad social: XGSZ852574IDLMPE87
+
+- Información del vehículo: Color, Marca, Número MUB 066
+
+- Hash de Datos Biométricos: qAatl EOOR
+
+- Dirección IP: 117.45.251.159"
+

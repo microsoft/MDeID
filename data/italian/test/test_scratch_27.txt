@@ -1,0 +1,66 @@
+"Appunti dell'Infermiera:
+
+Paziente: Leonie Schneider
+Età: 94
+
+---------------------------
+| Parametri vitali        |
+---------------------------
+| Pressione: 112/80       |
+| Frequenza cardiaca: 78  |
+| Frequenza respiratoria: 16 |
+| Temperatura: 37.1C      |
+| SPO2: 98%               |
+---------------------------
+
+Appunti:
+Disagio generale, riferisce di sentirsi "pruriginosa". Il paziente potrebbe aver contratto un'infezione fungina. È necessario un esame. Ho informato il Markus Brunner a riguardo. Medicinali prescritti rivisti. 
+
+---------------------------
+| Osservazioni aggiuntive |
+---------------------------
+| Pelle: Rossore          |
+| Eruzione cutanea: Sì    |
+| Prurito: Alto           |
+---------------------------
+
+---------------------------
+| Dettagli di contatto    |
+---------------------------
+| Email: Mane@yahoo.com          |
+| Telefono: 001-354-546-8772x107          |
+| Indirizzo: Leonie Schneider, 35837 Matthew Turnpike Suite 889, 192, 6421 Pontedecimo Durous, Italia      |
+---------------------------
+
+---------------------------
+| Dettagli ID Paziente    |
+---------------------------
+| MRN: 4399-22021    |
+| Account: iDzhq kBTu      |
+| SSN: 490111-6683   |
+---------------------------
+
+---------------------------
+| Altri dettagli          |
+---------------------------
+| ID Dispositivo: 18 8435iKa     |
+| Piano sanitario: OlgmMMSV uml|
+| Professione: Tecnologo alimentare|
+| Organizzazione: Pham, Lester and Cantrell|
+---------------------------
+
+---------------------------
+| Informazioni aggiuntive |
+---------------------------
+| Città: Pontedecimo            |
+| Stato: 18          |
+| Paese: Italia      |
+| Licenza: MYj-bfBXPI      |
+| BioID: sXk GTNnnq          |
+| Nome utente: ptXQ2Jlg   |
+| Ospedale: Università Pedagogica di Vilnius    |
+---------------------------
+
+Nota: È necessaria una visita di controllo. Rivalutare la condizione entro lunedì 27 febbraio 2017 giorni. Tenere sotto controllo per eventuali peggioramenti dei sintomi. Informare il Markus Brunner se si osservano cambiamenti.
+"
+

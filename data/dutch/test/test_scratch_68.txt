@@ -1,0 +1,54 @@
+"**Verpleegkundige Krasnotitie**
+
+_Patiëntgegevens:_
+- **Patiënt ID**: Ines Van Den Broeck
+- **MRN**: 62 70MnTzs
+- **Leeftijd**: 82
+- **Toegelaten door**: Daan Mertens
+
+_Contactinformatie:_
+- **Huisadres**: Ines Van Den Broeck, Black 128, 8636 Haveral, België
+- **Telefooncontact**: 867-446-9307
+- **E-mail**: san@aol.com
+
+_Vitalen en Observaties:_
+- **BP**: 120/80 
+- **Ademhalingsfrequentie**: 14
+- **Puls**: 65
+
+_Huidige Status:_
+
+Symptomen van impetigo opgemerkt. Ontwikkelende zweren op het gezicht. Huidinfectie vermoed. Antibiotica voorgeschreven.
+
+_Laboratoriumtests:_
+
+Besteld voor volledige bloedtelling, kweek van huiduitstrijkje.
+
+_Procedure & Apparaat:_
+- **Procedure**: stAiP MCdY
+- **Apparaat ID**: witAb 9322
+
+_Andere details:_
+- **IP-adres** : 102.199.205.174
+- **Ziekenhuis ID** : Vaucelles
+- **Gezondheidsplan**: NKuwTF Zb2KUa NFK4 tBitCCt
+
+_Opmerkingen:_
+
+De toestand van de patiënt verbetert. Vervolgafspraak gepland met huisarts. 
+
+-----------------------------------------------------------------------------------------------
+
+**Privacysectie:**
+- **Zorgverlener**: Frazier-Sexton
+- **Login Gebruikersnaam**: MwI07J0s
+- **Licentie-informatie**: AUltg-8793
+- **Biometrische Identifier (vingerafdrukhash)**: ugGwo-7643
+- **Generiek ID-nummer**: stAiP MCdY
+- **Sociale Zekerheid**: 461605469
+- **Voertuig ID (voor nood evacuatie)**: 617-LUQ
+
+-----------------------------------------------------------------------------------------------
+
+Deze Krasnotitie is onderworpen aan de privacyregels en richtlijnen van de zorgorganisatie. Elke ongeautoriseerde toegang of openbaarmaking van informatie kan leiden tot juridische stappen."
+

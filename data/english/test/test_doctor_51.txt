@@ -1,0 +1,22 @@
+"Doctor Scratch Note:
+
+Rebekah Smith: 15 female, preterm history, adoptive parent caregiver. Motor delay, fussiness, weight-bearing inability lower extremities, no trauma.
+
+Vitals: 
+Weight: 100,000 CFU/mL (positive)
+CBC, BMP: Unremarkable
+TSH: Normal
+Creatinine kinase: >1200 U/L (elevated, 6x upper limit normal)
+
+Assessment:
+Primary: Spinal cord compression, T12 retrospondylolisthesis (cause of lower extremity paralysis, urinary retention)
+Differentials: Neuromuscular disorders, infectious/inflammatory conditions (indicated by creatinine kinase elevation)
+
+Plan:
+Immediate consults: Pediatric neurosurgery, orthopedics, urology. 
+Further testing: Assess muscle damage, underlying causes.
+Monitoring: Neurological status, kidney function.
+Parental education: Condition, treatment options, care requirements.
+
+Scott Burton"
+

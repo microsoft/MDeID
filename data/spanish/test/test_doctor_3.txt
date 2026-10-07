@@ -1,0 +1,47 @@
+"Dr. Ignacio Ruiz Nota de Rascunho
+
+Claudia Monroy - 77 hombre japonés, post-esofagectomía con reconstrucción gástrica por cáncer de esófago. Historia familiar de cáncer de esófago en el hermano mayor. Consumo diario de alcohol japonés. 
+
+Signos vitales:
+- Temp: 36.9 \u00b0C
+- HR: 96 lpm
+- BP: 148/68 mmHg
+
+Síntomas reportados:
+- Fiebre
+- Aumento de esputo
+- Hipoxemia
+- Dificultad para respirar
+- Sonidos crepitantes en el pecho
+
+Día 5 en la UCI:
+- Fiebre de 38.0 \u00b0C
+- Saturación de oxígeno del 90% con máscara de oxígeno de 10 L/min
+- Crepitantes pulmonares bilaterales gruesos
+- Radiografía de tórax: Infiltrados pulmonares bilaterales difusos, predominantemente en el pulmón derecho, derrame pleural
+
+Laboratorio post-intubación:
+- WBC: 5.7 \u00d7 10^9/L
+- RBC: 2.25 \u00d7 10^12/L
+- Hemoglobina: 7.3 g/dL
+- Hematocrito: 21.4%
+- Plaquetas: 145 \u00d7 10^9/L
+- AST: 54 U/L
+- ALT: 55 U/L
+- Bilirrubina total: 4.11 mg/dL
+- Albúmina: 2.2 g/dL
+- Nitrógeno ureico: 38 mg/dL
+- Creatinina: 0.83 mg/dL
+- CRP: 18.7 mg/dL
+- Creatinina urinaria: 95 mg/dL
+
+Cultivo de esputo: Positivo para Streptococcus pneumoniae
+
+Evaluación: Neumonía postoperatoria, derrame pleural, insuficiencia respiratoria - requirió intubación y ventilación mecánica. Posibles otras infecciones o complicaciones pulmonares.
+
+Plan: Cambio de cefmetazol a meropenem, seguimiento continuo en la UCI, cuidados de apoyo, ajuste del tratamiento según sea necesario. Se aconsejó al paciente que informara sobre nuevos síntomas/preocupaciones. Traqueostomía en el día 38 de la UCI, estado actual de la ventilación mecánica: estable (PaO2/FIO2 > 300 mmHg).
+
+Dr. Ignacio Ruiz
+UJZ 763Vjr
+22 de mayo de 1978"
+

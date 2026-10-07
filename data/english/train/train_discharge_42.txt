@@ -1,0 +1,48 @@
+# Discharge Summary
+
+## Patient Details
+
+Olivia Campbell with medical record number sGeF 18Kgn
+
+## Reason for Admission
+
+The patient was admitted due to an urgent need for urination and shortness of breath. These symptoms suggested a possible condition of pulmonary edema.
+
+## Procedures Performed
+
+Upon admission, the patient was immediately attended by the medical team. Initial evaluation involved an examination of vitals and a detailed physical examination. An echocardiogram was conducted to confirm the diagnosis.
+
+## Care, Treatment, and Services Provided
+
+Upon confirmation of pulmonary edema, Olivia Campbell was administered oxygen therapy and medications to assist in the removal of excess fluid from the lungs. Medications included diuretics and vasodilators. The patient's response to treatment was closely monitored throughout the hospital stay.
+
+## Condition and Disposition at Discharge
+
+Upon discharge, Olivia Campbell's breathing had significantly improved and the need for urination was no longer urgent due to the effect of medications. The patient demonstrated a positive response to the treatment provided.
+
+## Information Provided to Patient and Family
+
+The patient and family members were informed about the nature of pulmonary edema and how to manage it at home. The importance of regular follow-ups and medication adherence was stressed upon.
+
+## Provisions for Follow-Up Care
+
+A follow-up appointment has been scheduled with Dr. Mitchell Maxton in two weeks' time at the Cambridge mathematician to monitor patient's progress and adjust medications if necessary. 
+
+### Allergies and Intolerances
+
+No known allergies or intolerances were reported by the patient.
+
+### Discharge Medications
+
+Continue with prescribed medications: Diuretics and Vasodilators. Detailed instructions were provided on dosage, timings, and side effects.
+
+### Hospital Discharge Instructions
+
+Olivia Campbell is advised to rest, avoid excessive fluid intake, and monitor weight daily. Any sudden weight gain or shortness of breath should be reported to the doctor immediately.
+
+### Hospital Discharge Studies Summary
+
+Echocardiogram revealed excess fluid in the lungs indicative of pulmonary edema. 
+
+End of document.
+

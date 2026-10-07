@@ -1,0 +1,59 @@
+"Appunti dell'Infermiera Scratch
+
+**********Segni Vitali & Osservazioni Mediche**********
+
+BP: 155/98 mmHg
+HR: 101 bpm
+Temp: 38.1 C\u00b0
+Resp: 18 rpm
+O2 Sat: 95%
+GCS: 15
+
+**********Dati Soggettivi & Oggettivi**********
+
+- La paziente Ilaria Guerra sembra stanca, riferisce mal di testa e disagio al petto
+- 104 anni, anamnesi familiare positiva per malattie cardiovascolari coperte da etNjl1b
+- Nessuna eruzione cutanea, lividi o lesioni visibili
+- Difficoltà nel gestire oggetti personali oadPGGzb
+
+**********Trattamenti & Interventi**********
+
+- Somministrato Aspirina 81mg PO
+- Somministrato Nitroglicerina 0.4mg SL
+- Somministrato Eparina 5000 unità SC
+- Fornite misure di conforto, riposizionato, incoraggiato la respirazione profonda
+
+**********Piano & Follow-up**********
+
+- Monitorare i segni vitali ogni 4 ore
+- La paziente deve sottoporsi a ECG, radiografia, Monitoraggio del dispositivo 8462-invVY
+- Consultare il Dr. Andrea Palazzo per la revisione dei farmaci
+- Pianificare un test da sforzo se i sintomi persistono
+
+************Informazioni Paziente************
+
+- Ilaria Guerra ID: 49436 4265
+- Cartella clinica: 90065 tqsN
+- Paziente localizzato (stanza): spiaggia
+- Ammesso: Ospedale Lamspringe di Capoliveri, Veneto
+- Conto di fatturazione: 49436 4265, Assicuratore: etNjl1b
+
+************Informazioni di Contatto************
+
+- Casa del paziente: Ilaria Guerra, 95601 Joseph Mill Apt. 949 164, 1806 Gioiosa Marea, Svizzera
+- Email: reaal@unwomen.org
+- Telefono principale: 660-442-7314x448
+- Fax: (844)258-6335x852
+- Contatto di emergenza: relazione con Ilaria Guerra, Telefono: 660-442-7314x448
+
+************Altre Info************
+
+- Consultato il Dr. Andrea Palazzo di Wood and Sons sul miglior corso di azione
+- URL del caso di studio di riferimento: schwartz.ibarra-douglas.oneill.com
+- Professione del paziente: Psicoterapeuta infantile
+- Patente di guida: 06634-jmLA
+- Sicurezza sociale: 993195-6132
+- Informazioni sul veicolo: Colore, Marca, Numero 728 FQQ
+- Hash dei dati biometrici: 56930 01tc
+- Indirizzo IP: 92.136.135.204"
+

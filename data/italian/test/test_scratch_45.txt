@@ -1,0 +1,62 @@
+"# Nota dell'Infermiera Scratch 
+
+### Dettagli del Paziente:
+    ======================================
+    Nome: Urs Widmer
+    Età: 63
+    Previdenza Sociale: 875570-7924
+    Ospedale: F.R.S
+    Medico Curante: Daniele Grasso
+    Numero di Cartella Clinica: vAT 089666
+    ======================================
+
+    |Segni Vitali|
+    ---------------
+    P.A: 120/80 
+    Temp: 37 C 
+    Pulsazioni: 80 BPM 
+    Freq. Respiratoria: 16/min 
+    O2 Sat: 98%
+
+## Condizione:
+    - Tosse persistente
+    - Difficoltà respiratorie
+
+## Osservazioni:
+    - Suoni polmonari anomali
+    - Scarico nasale presente
+
+## Trattamento:
+    - Nebulizzazione salina
+    - Soppressori della tosse
+
+    -------------------------------------
+
+### Informazioni Aggiuntive:
+    -------------------------------------
+    Piano Sanitario: vn60naCPK
+    Indirizzo: Urs Widmer, Contrada Roman, 34 Piano 6 74, 4900 Mila�No, Switzerland
+    Contatto: (291)526-4501x01548
+    Contatto di Emergenza: (291)526-4501x01548
+
+    -------------------------------------
+
+## Altri Dettagli:
+    -------------------------------------
+    Dispositivo: 32846 9357
+    BioID: 30816-15WB
+    Indirizzo IP: 142.70.2.147
+    Numero ID: sUuhi-EtHU
+    Nome Utente: WidmerU
+    Licenza: nTh-462gGN
+    Veicolo: 329-CAM
+    -------------------------------------
+
+- Professioni coinvolte: Insegnante di inglese come lingua straniera
+- Organizzazioni Rilevanti: Soto, Duncan e Soto
+- Altre Località: ristorante
+- Date Rilevanti: 17 ottobre 2002
+- Email del Paziente: eGrasso@microsoft.org
+- URL: jackson-smith.walsh.biz
+- Fax: 8725425042"
+

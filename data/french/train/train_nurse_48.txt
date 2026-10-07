@@ -1,0 +1,42 @@
+"Note Narrative Infirmière
+
+S: La patiente Charlotte De Ridder, résidente d'une certaine région minière université, a présenté une série de symptômes, dont de la fièvre, des maux de tête, des myalgies, des douleurs thoraciques, une toux sèche, des vertiges, de l'asthénie, de la dyspnée, une insuffisance respiratoire aiguë et des douleurs dorsales.
+
+O: Les tests de laboratoire ont montré une hémocentration (47,1%), une thrombopénie (37 000/mm3), une leucocytose (22 180/mm3), une augmentation de l'urée (72,56 mg/dL) et de la créatinine (1,87 mg/dL), une élévation de l'aspartate aminotransférase (102,4 IU) et de l'alanine aminotransférase (57,14 IU). Des anticorps IgM anti-hantavirus ont été détectés avec des IgG négatifs, et un certain hantavirus 151 TvSyZW a été confirmé par RT-PCR. Aucune radiographie thoracique n'a été réalisée.
+
+A: Le patient a été diagnostiqué avec le Syndrome Pulmonaire à Hantavirus (SPH), attesté par les symptômes cliniques et confirmé par la sérologie et la RT-PCR. La progression rapide vers l'insuffisance respiratoire aiguë et l'atteinte multi-organes suggère une forme sévère de la maladie.
+
+P: La stratégie de traitement comprenait des antibiotiques, un soutien hémodynamique et un soutien respiratoire. Malgré une prise en charge agressive, le patient a succombé à la maladie neuf jours après l'apparition des symptômes. Après le décès, une étude a été initiée sous le numéro de projet RXYEF mUfm pour estimer la prévalence des anticorps anti-hantavirus dans une population minière similaire afin de comprendre et éventuellement prévenir d'autres cas.
+
+--------------------------------------------------
+Notes de l'infirmier Valentin Aubert
+
+Signature: eharlod
+
+Informations de contact:
+Téléphone: +1-537-203-5193
+Email: nbert@yandex.com
+Fax: +1-354-217-1636x68696
+
+Adresse:
+Charlotte De Ridder, 128 3107 André Key Apt. 253, 8911 Lovagny, France
+
+Informations personnelles du patient:
+Âge: 28
+Numéro de sécurité sociale: 459146-7954
+Permis: aZe-90980E
+Adresse IP: 194.20.79.109
+Véhicule: LQN 493
+Numéro d'identification: RXYEF mUfm
+
+Hôpital: Canada 's National Arts Centre Orchestra
+Plan de santé: dhJ
+Profession: Arpenteur, planification et développement
+Organisation: Kemp-Williams
+URL: white.com
+Ville: Céré-la-Ronde
+Pays: Suisse
+État: Belfort
+Rue: 5981 Sharp Pines
+Code postal: 8911"
+

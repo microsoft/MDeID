@@ -1,0 +1,30 @@
+"S: Il paziente René Gerber si è presentato con una storia di dolore al petto di un mese martedì 17 luglio 2018. Non sono stati segnalati recenti interventi chirurgici o traumi. Il paziente ha avuto episodi di ipotensione e un grave episodio di shock emorragico e arresto cardiaco postoperatorio.
+
+O: Una TAC toracica 38-560747V ha rivelato una massa di tessuto molle ovoidale nell'angolo costofrenico posteriore sinistro, misurante circa 4,3 cm x 2,6 cm x 5,8 cm. La massa è stata resecata con VATS e diagnosticata come cisti broncogena postoperatoria presso l'ospedale Northwestern Pacific. Dopo l'intervento, il paziente ha avuto ipotensione trattata con espansione di fluidi e successivamente ha sviluppato shock emorragico a causa di un foro di 3 mm nel pericardio, che ha portato a tamponamento cardiaco. Questo è stato gestito con toracotomia d'urgenza e chiusura diretta dell'arteria marginale ottusa lesionata con prolene 4-0.
+
+A: La diagnosi primaria era una cisti broncogena con complicazioni tra cui shock emorragico e tamponamento cardiaco post-resezione. La diagnosi differenziale inizialmente includeva un tumore neurogeno del mediastino.
+
+P: Il paziente ha subito con successo una toracotomia d'urgenza e stabilizzazione. Il recupero postoperatorio ha incluso lo svezzamento dal ventilatore e la dimissione con istruzioni per gli appuntamenti di follow-up per monitorare il recupero a casa del paziente René Gerber, 731 Christina Mountain 176, 5603 Rapallo, Svizzera. La gestione futura si concentrerà sul monitoraggio di eventuali segni di recidiva o complicazioni derivanti dall'intervento chirurgico e sulla garanzia del rispetto degli appuntamenti di follow-up.
+
+Informazioni aggiuntive: 
+
+- Numero di cartella clinica del paziente: 603-HjGYSL
+- Numero di conto del paziente: kG 494pseU
+- Nome utente del paziente: 6oeS9VKq
+- Numero di identificazione del veicolo del paziente: XHU 133
+- Numero di previdenza sociale del paziente: NTBLVS50C55F515H
+- Numero di licenza professionale del paziente: 077 BwIzIn
+- Identificatore biometrico del paziente: 710-979209
+- Indirizzo IP del paziente: 202.68.25.228
+- Identificatore personale del paziente: kG 494pseU
+- Età del paziente: 38
+- Posizione del paziente: panchina
+- Piano sanitario del paziente: XqE
+- Professione del paziente: Danzatore
+- Organizzazione del paziente: Haney Ltd
+- Nome del dottore: Sofia Zimmermann
+- Email del paziente: fma@unhcr.org
+- Telefono del paziente: 243-251-6664
+- URL del paziente: perkins.com
+- Fax del paziente: 582-883-3192x7313"
+

@@ -1,0 +1,40 @@
+"Note Narrative de l'Infirmière
+
+S: Le patient Quinn Gagné rapporte avoir été diagnostiqué avec des masses hépatiques et est présent pour une consultation de transplantation. Le patient n'est pas sûr des symptômes spécifiques mais mentionne une biopsie confirmant le diagnostic.
+
+O: L'imagerie préopératoire révèle un foie agrandi avec une maladie multifocale dans tout le parenchyme hépatique, une amélioration périphérique avec hypoatténuation centrale en phase artérielle, et une isodensité en imagerie de phase retardée. Des calcifications sont notées dans certaines masses. Aucun changement significatif de la taille de la masse depuis le mardi 15 avril 1975. L'examen pathologique montre plusieurs nodules bruns (0,5 à 3,0 cm) dans les lobes bilatéraux, avec deux motifs histologiques : des canaux vasculaires bien formés et des cordons dispersés de cellules tumorales dans une matrice sclérotique, et des zones avec des cicatrices hyalinisées centrales et des cellules néoplasiques. Les résultats immunohistochimiques montrent une forte expression de CD31 et ERG, un TFE3 positif, et un CAMTA1 négatif dans les cellules tumorales.
+
+A: Le patient a des masses hépatiques multifocales avec des caractéristiques suggérant une néoplasie vasculaire, possiblement une variante d'hémangiome hépatique ou d'angiosarcome, étant donné la nature vasculaire et la coloration immunohistochimique. La taille stable des masses et les résultats histologiques et immunohistochimiques détaillés soutiennent une approche contrôlée mais prudente, avec la transplantation hépatique comme traitement indiqué.
+
+P: Procéder à la transplantation hépatique comme prévu. Après la transplantation, surveiller de près le patient pour des signes de rejet et gérer soigneusement l'immunosuppression. Des rendez-vous de suivi réguliers seront nécessaires pour évaluer la fonction hépatique et détecter toute récidive de la maladie. Éduquer le patient sur les signes de complications liées à la transplantation et assurer la compréhension de la nécessité d'un suivi et d'un soin à vie.
+
+Informations sur le patient :
+ID du patient : 570365-NXt
+Numéro de dossier médical : xbh 688lcN
+Numéro de compte : 570365-NXt
+Lieu : hôpital
+Hôpital : beck
+Plan de santé : oJk
+
+Informations de contact :
+Docteur : Zoé Verlinden
+Email : Verlé@who.int
+Téléphone : 869-968-8210
+Fax : 566.382.8943
+
+Informations supplémentaires :
+Ville : La Ferté-Beauharnais
+État : PORT
+Profession : Scientifique, clinique (histocompatibilité et immunogénétique)
+Organisation : Thompson-Lloyd
+Âge : 94
+Nom d'utilisateur : gnéinn
+Véhicule : 67WI223
+Sécurité sociale : 121-8494046-93
+Licence : 782-71sqmg
+BioID : dGXuK 62mW
+Adresse IP : 57.15.82.54
+URL : https://www.simpson-anderson.biz/explore/categoryabout.htm
+
+Infirmière Zoé Verlinden"
+

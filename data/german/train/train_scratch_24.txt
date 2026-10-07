@@ -1,0 +1,41 @@
+"Krankenschwester Notiz
+--------------------
+Vitalzeichen: 
+BP: 120/80
+HR: 80 bpm
+RR: 20 bpm
+Temp: 98,6 F
+O2 Sat: 96%
+
+Patientenzusammenfassung: 
+Maila Döring: Trockener Husten, Atembeschwerden
+: Behandlung mit dem Vernebler, O2-Therapie
+Beobachtungen: 
+Bronchiale Entzündung festgestellt, mögliche : Bronchialasthma
+
+Behandlungsfortschritt:
+Verneblerbehandlung zeigt etwas Linderung. O2-Werte stabil nach der Behandlung.
+
+Plan:
+Fortsetzung der Verneblerbehandlungen, Überwachung der O2-Werte, Überlegung zur Eskalation zu Amandine De Wilde bei keiner Verbesserung
+
+Informelle Notizen:
+Bemerkte, dass Maila Döring mit Husten kämpft; schweres Atmen, Neb-Behandlung etwas wirksam, wird genau überwacht
+
+Geräteinformationen:
+: Seriennummer des Verneblers
+: Seriennummer der Sauerstofftherapie
+
+Kontakt:
+Notfallkontakt 576.599.1597x94427: Notfallkontakt des Patienten
+andineDild@mail.com: Für direkte Kommunikation
+
+Zusätzliche Details:
+49: Patientenalter
+Y2wRWHPM: Benutzername des Patientenportals
+Seismischer Interpret: Aktueller Beruf
+txX rkRd: Krankenversicherungsanbieter
+fyBJV-txRY: Verschiedene Patientenidentifikation
+Roberts-Short: Zugehörige Organisation
+Tamsui District northern Formosa: Überweisendes Krankenhaus"
+

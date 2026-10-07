@@ -1,0 +1,18 @@
+T1	PATIENT 25 41	Maarten Charlier
+T2	PATIENT 98 114	Maarten Charlier
+T3	PATIENT 406 422	Maarten Charlier
+T4	DOCTOR 672 691	Reinout van der Pol
+T5	PATIENT 778 794	Maarten Charlier
+T6	MEDICALRECORD 797 807	1696-VfoQI
+T7	DOCTOR 1023 1042	Reinout van der Pol
+T8	PATIENT 1097 1113	Maarten Charlier
+T9	DOCTOR 1281 1300	Reinout van der Pol
+T10	PATIENT 1356 1372	Maarten Charlier
+T11	PATIENT 1496 1512	Maarten Charlier
+T12	PATIENT 1830 1846	Maarten Charlier
+T13	DOCTOR 2112 2131	Reinout van der Pol
+T14	PATIENT 2341 2357	Maarten Charlier
+T15	ACCOUNT 2360 2370	YeFi-89359
+T16	PATIENT 2486 2502	Maarten Charlier
+T17	PATIENT 2730 2746	Maarten Charlier
+T18	DOCTOR 3198 3217	Reinout van der Pol

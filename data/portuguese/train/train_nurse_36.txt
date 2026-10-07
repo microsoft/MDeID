@@ -1,0 +1,42 @@
+"Nota Narrativa de Enfermagem para paciente com Distúrbio Genético
+
+Informação Subjetiva
+
+A mãe do paciente, Arthur Cruz, relatou que seu filho, de 76 anos, tem apresentado atrasos leves a moderados na fala e no desenvolvimento. Ele também foi diagnosticado com transtorno de déficit de atenção. Ela garantiu que não havia problemas relacionados ao tônus muscular ou hipotonia. Características físicas específicas foram notadas no paciente, incluindo retrognatia, hipertelorismo leve, um filtro pronunciado, lábio superior fino, mãos largas e curtas, sindactilia leve dos segundo e terceiro dedos dos pés, e um espaço de sandália em ambos os pés.
+
+Informação Objetiva
+
+Um procedimento de neuroimagem, especificamente uma ressonância magnética do cérebro, não mostrou anomalias estruturais. Testes genéticos, especificamente Sequenciamento do Exoma Completo (WES), revelaram uma variante de frameshift de novo Chr1(GRCh37):g.244217335del, NM_205768.2(ZBTB18):c.259del(p.(Leu87Cysfs*21)), indicando um códon de terminação prematuro localizado mais de 400 códons a montante do códon de terminação canônico.
+
+Avaliação
+
+O diagnóstico principal é um distúrbio genético associado à mutação de frameshift identificada. Esta mutação provavelmente contribui para os atrasos na fala e no desenvolvimento do paciente e para o transtorno de déficit de atenção. As características físicas e os achados genéticos sugerem uma síndrome específica, que precisa de uma correlação adicional com os achados clínicos e o aconselhamento genético.
+
+Plano
+
+O plano de gestão inclui visitas regulares de acompanhamento com um terapeuta de fala e linguagem, um terapeuta ocupacional e um psicólogo para apoiar as necessidades de desenvolvimento do paciente e tratar seu transtorno de déficit de atenção. Check-ups médicos regulares irão monitorar seu crescimento e a saúde geral da Santiago LLC. Também é recomendado o aconselhamento genético para a família. Isso será facilitado pelo Thiago Schmitz para discutir as implicações dos achados genéticos e a possível herança familiar.
+
+*Informação Adicional*
+
+- Número do Prontuário Médico do Paciente: Yq 010yDol
+- Número da Conta do Paciente: mYP-xamOWj
+- Nome de Usuário para o Portal Online: wSRcPwhd
+- Número do Seguro Social: 58858528-7
+- Número da Licença da Mãe: 18369 58ZY
+- Número de Identificação: mYP-xamOWj
+- Endereço: Arthur Cruz, Residencial Cunha, 69 178, Poisoners, São Tome das Letras - 67, 8BFF20D6, Brasil
+- Hospital: Cincinnati Redlegs
+- Outra Localização: aeroporto
+- Plano de Saúde: dIrTLux0Rd58NpH
+- Profissão da Mãe: Engenheira de materiais
+- Organização da Família: Santiago LLC
+- Data da Próxima Consulta: 27/06/1983
+- Médico de Contato: Thiago Schmitz
+- Endereço de Email: aSc@unicef.org
+- Telefone de Contato: 001-428-532-3464
+- Fax: 542-544-2961x440
+- Website para o Portal Online: ford-esparza.org
+  
+Enfermeira wSRcPwhd, RN, BSN
+"
+

@@ -1,0 +1,40 @@
+"Nota Narrativa da Enfermeira
+
+S: A paciente Gabriela Almeida relata ter sido diagnosticada com massas hepáticas e está presente para consulta de transplante. A paciente não tem certeza sobre sintomas específicos, mas menciona uma biópsia confirmando o diagnóstico.
+
+O: A imagem pré-operatória revela um fígado aumentado com doença multifocal em todo o parênquima hepático, realce periférico com hipoatenuação central na fase arterial e isodensidade na imagem de fase tardia. Calcificações são observadas em algumas massas. Nenhuma mudança significativa no tamanho da massa em 4 de set. de 1987. O exame patológico mostra múltiplos nódulos castanhos (0,5 a 3,0 cm) em lobos bilaterais, com dois padrões histológicos: canais vasculares bem formados e cordões esparsos de células tumorais em uma matriz esclerótica, e áreas com cicatrizes hialinizadas centrais e células neoplásicas. Os resultados imuno-histoquímicos mostram forte expressão de CD31 e ERG, TFE3 positivo e CAMTA1 negativo nas células tumorais.
+
+A: A paciente tem massas hepáticas multifocais com características sugestivas de um neoplasma vascular, possivelmente uma variante de hemangioma hepático ou angiossarcoma, dada a natureza vascular e coloração imuno-histoquímica. O tamanho estável das massas e os detalhados achados histológicos e imuno-histoquímicos apoiam uma abordagem controlada, mas cautelosa, com o transplante de fígado como o tratamento indicado.
+
+P: Proceder com o transplante de fígado conforme planejado. Após o transplante, monitorar de perto o paciente para sinais de rejeição e gerenciar cuidadosamente a imunossupressão. Consultas de acompanhamento regulares serão necessárias para avaliar a função hepática e detectar qualquer recorrência da doença. Educar o paciente sobre sinais de complicações relacionadas ao transplante e garantir a compreensão da necessidade de acompanhamento e cuidados por toda a vida.
+
+Informações do Paciente:
+ID do Paciente: 17 82714qm
+Número do Prontuário Médico: CmAKS 6135
+Número da Conta: 17 82714qm
+Localização: shopping
+Hospital: Institute of Anatomy of
+Plano de Saúde: 09koS3X
+
+Informações de Contato:
+Médico: Juraci Almeida
+Email: eir@who.int
+Telefone: 710-916-1175x375
+Fax: 001-201-688-7383x7289
+
+Informações Adicionais:
+Cidade: Jardim Colorado Vila Velha
+Estado: Nazaré
+Profissão: Horticultor comercial
+Organização: Harris, Thomas and Lewis
+Idade: 106
+Nome de usuário: BR5Ggqqh
+Veículo: 6-8850Z
+Segurança Social: 538.017.665-57
+Licença: 763588-762
+BioID: 210967-366
+Endereço IP: 75.84.227.148
+URL:  www.lewis.com/app/categories/tagauthor.html
+
+Enfermeira Juraci Almeida"
+

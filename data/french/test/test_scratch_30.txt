@@ -1,0 +1,63 @@
+"Note de Soins Infirmiers
+
+=======================
+|  Patient : Lucas Thompson  |
+|  Numéro d'identification : nFCGf-9099  |
+|  Dossier médical : LLD oPLKeK  |
+|  Âge : 60  |
+|  Admis : 14 juillet 2014  |
+|  Médecin assigné : Sophia Li  |
+|  Hôpital : Institut du Pakistan  |
+|  Adresse : Lucas Thompson, 49 74998 Steve Causeway, Cruseilles, 69 9297, Canada  |
+=======================
+
+- Symptômes :
+    - Faiblesse musculaire : Signalée par le patient
+    - Rigidité cervicale : Observée
+
+- Signes vitaux :
+    - TA : 120/80 mmHG 
+    - FC : 80 bpm
+    - Temp : 98.6 F 
+    - FR : 18 respirations par minute
+    - SpO2 : 98% à l'air ambiant
+
+- Observations médicales : Institut du Pakistan 
+    - Arthrite possible : CRP, ESR élevés
+    - Radiographies commandées : En attente 
+
+=============================
+|  Contacts d'urgence  |                   
+|  Téléphone : 001-428-658-1176x94395  |
+|  Email : ia@icloud.com  |
+=============================
+
+- Progression du traitement : 
+    - Gestion de la douleur : AINS administrés, suivi le 14 juillet 2014
+    - Physiothérapie : Conseillée, commence le 14 juillet 2014
+
+Informations diverses :
+    - Numéro de compte : nFCGf-9099
+    - Organisation : Bowen, Ramirez et Haney
+    - ID de l'appareil : 14072 uXwp
+    - Véhicule du patient : 01QI7
+    - Plan de santé : 1LNKgGR
+    - Localisation (Autre) : école
+    - Profession : Chercheur en sciences physiques
+    - Sécurité sociale : 9 67 94 09 600 985
+    - Numéro de licence : 80664-8679
+    - ID biométrique : 78-52720Eu
+    - Adresse IP : 150.87.154.13
+    - URL pour les dossiers : https://kennedy-baker.net/tags/app/blogabout.php
+    - Nom d'utilisateur : p5k86aV8
+    - Fax : 518-748-8942
+
+NB : Contactez l'administration de l'hôpital pour plus d'informations sur le compte du patient, l'ID de l'appareil, ou le véhicule. 
+
+=======================
+Cette note est confidentielle et destinée uniquement aux professionnels de la santé. L'accès non autorisé est punissable par la loi. 
+
+Préparé par : Infirmière p5k86aV8
+Date : 14 juillet 2014
+======================="
+

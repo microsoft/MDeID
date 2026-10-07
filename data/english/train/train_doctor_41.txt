@@ -1,0 +1,29 @@
+"(**Doctor's Scratch Note**)
+
+Lylah Girard notes:
+
+Carol Henderson (Female, 39, Hispanic) - No acute distress.
+Complaints: lightheadedness, weakness, diaphoresis, diarrhea, vomiting. 
+Past Medical History: Acne, Asthma, Psychosocial distress. 
+Allergies: Carol Henderson denies allergies, specifically to pineapples. 
+
+Vitals (upon arrival): 
+BP  mmHg, RR  breaths/min, SpO2  on room air, Temp  \u00b0C. 
+Blood Glucose: 60 mg/dL (Confirmed by Lab)
+
+Differential Dx: 
+1. Hypoglycemia (Primary Diagnosis - reactive)
+2. Metabolic disturbances
+3. Other causes of gastrointestinal symptoms
+
+Treatment Plan: 
+1. Discharge with IV 0.9% NaCl for volume restoration
+2. Ondansetron for nausea and vomiting
+3. Dietary recommendations - protein in each meal, small frequent meals
+
+Recommendations: 
+Follow-up with Lylah Girard for further management of hypoglycemia and rule out other potential causes.
+
+**End of note**
+(Note: Vital signs and blood glucose levels are placeholders. Actual values will be filled in by Lylah Girard based on patient's condition during the visit.)"
+

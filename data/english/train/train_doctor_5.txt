@@ -1,0 +1,17 @@
+"Doctor Notes:
+
+S: 
+Patient Felix Boucher  is a long-standing acromegaly patient. Notable symptoms include dyspnea on exertion and shortness of breath (2 years), recent presyncope episode (2 weeks ago). Felix Boucher  treated with octreotide for roughly 2 decades, 2 stereotactic radiosurgery procedures within the last 10 years. No family history to note. Denies hypertension, diabetes mellitus, sleep apnea, sudden cardiac death. No smoking, alcohol consumption.
+
+O: 
+BMI indicating overweight status, 39 kg/m2. Distinct acromegalic features present: enlarged tongue, lips, hands, feet. Vitals: Blood pressure - 110/60 mmHg, Pulse - 92 beats/min, sinus rhythm, irregular premature beats, pathological third heart sound, systolic murmur. ECG shows LBBB, NYHA stage III-IV cardiac function. MRI confirmed pituitary macroadenoma. Lab results: elevated BNP (740 pg/ml), excessive growth hormone and IGF-1.
+
+A:
+Primary diagnosis: Acromegaly. Complications: Cardiac failure (evident from elevated BNP, NYHA stage III-IV), pituitary macroadenoma. Differential diagnoses: Other causes of cardiomyopathy, secondary effects of long-term growth hormone excess.
+
+P: 
+Continue octreotide, monitor effectiveness and side effects. Plan referral to William Anderson (cardiology) for cardiac issues management. Look into adjusting heart failure medications based on William Anderson recommendations. Regular follow-ups for hormone level and cardiac function monitoring necessary. Educate Felix Boucher  on regular monitoring and treatment plan adherence. Discuss surgical options for pituitary macroadenoma with William Anderson (neurosurgeon).
+
+William Anderson
+Ramos Inc"
+

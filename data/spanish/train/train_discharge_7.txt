@@ -1,0 +1,38 @@
+RESUMEN DE ALTA
+
+Paciente: Juan Romero
+Médico Asistente: Alfredo Chávez
+
+# MOTIVO DE HOSPITALIZACIÓN:
+Juan Romero fue admitido en el hospital después de obtener resultados positivos en la prueba de guayaco y síntomas que incluían escalofríos y equimosis, indicativos de anemia.
+
+# CURSO HOSPITALARIO:
+Al ingreso, se observó que el nivel inicial de hemoglobina del paciente era bajo, 8g/dl, señalando una posible condición médica como la anemia. El curso hospitalario se complicó con episodios de escalofríos y la aparición de hematomas espontáneos (equimosis), lo que motivó una investigación adicional que incluyó una serie de pruebas.
+
+# PROCEDIMIENTOS REALIZADOS:
+Durante la estancia, se realizó una biopsia de médula ósea debido a la presencia de proteínas monoclonales en la sangre. Este procedimiento ayudó a identificar la causa raíz de la condición del paciente.
+
+# CUIDADO, TRATAMIENTO Y SERVICIOS:
+A Juan Romero se le comenzó a administrar suplementos de hierro y Eritropoyetina. Se realizaron análisis de sangre regulares para monitorear los niveles de hemoglobina y la respuesta al tratamiento. También se aprovecharon servicios adicionales como la consulta dietética para garantizar la ingesta de alimentos ricos en hierro. Se proporcionó atención de enfermería las 24 horas para monitorear los signos vitales y el bienestar general del paciente.
+
+# CONDICIÓN AL ALTA:
+Al momento del alta, el nivel de hemoglobina de Juan Romero había aumentado a 11g/dl y los síntomas como los escalofríos y la equimosis habían disminuido significativamente. La condición general del paciente también mostró mejorías.
+
+# INFORMACIÓN PROPORCIONADA AL PACIENTE Y LA FAMILIA:
+Los hallazgos y el plan de tratamiento subsiguiente se explicaron en detalle a Juan Romero y a la familia. También se les informó sobre la importancia de una dieta saludable, rica en hierro y un seguimiento regular para el monitoreo continuo de la condición médica.
+
+# DISPOSICIONES PARA EL CUIDADO DE SEGUIMIENTO:
+Se ha organizado el cuidado de seguimiento ambulatorio con Alfredo Chávez en la División de Hematología. El paciente tiene programado regresar para un chequeo en dos semanas.
+
+# MEDICACIÓN DE ALTA:
+Se recetaron suplementos de hierro e inyecciones de Eritropoyetina y se explicaron las instrucciones para los mismos al paciente y a la familia.
+
+# INSTRUCCIONES DE ALTA HOSPITALARIA:
+A Juan Romero y a la familia se les dieron instrucciones específicas sobre signos de empeoramiento de la condición como escalofríos continuos, fatiga excesiva o hematomas significativos y buscar atención médica inmediata en caso de que estos síntomas surjan.
+
+# DIAGNÓSTICO DE ALTA:
+Anemia, probablemente causada por una disminución en la absorción de hierro o una ingesta dietética inadecuada.
+
+Firmado:
+Alfredo Chávez
+Número de Registro Médico: 59358 4757

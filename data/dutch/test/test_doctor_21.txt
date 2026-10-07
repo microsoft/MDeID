@@ -1,0 +1,57 @@
+"Krabbelnotitie van de dokter:
+
+Patiënt Lieke van der Ven
+ID cK-979UbUR
+LEEFTIJD 14
+Woonplaats: bushalte
+
+Opnamegegevens: 
+- Ernstige ademhalingsproblemen
+- Mentale status - veranderd, gedesoriënteerd
+
+Belangrijke medische voorgeschiedenis: 
+- Intracraniële aneurysma (postoperatieve bloeding)
+- Ischemische beroerte (afasie, paraplegie)
+- Plaatsing PEG-buis
+
+Bij opname: 
+- Intubatie voor ademhalingsondersteuning
+- Vitals: 00840 nrBb
+- Klinische laboratoriumresultaten: 00840 nrBb
+
+Diagnose: Septische shock (potentieel)
+- Sepsis onderzoek gestart
+- Kweken: Bloed, Urine
+- Eerste behandeling: Intraveneuze vloeistofhydratatie, Antibiotica ( en )
+
+CT-scanrapport: 
+- Niet-contrast CT-scan - borst, buik, bekken
+- Bevindingen: Bibasilaire pulmonale atelectase, VP-shuntkatheter malpositie (binnen maaglumen), PEG-buis malpositie (buiten maaglumen), buikwandcellulitis, gelokaliseerde abcessen (PEG-buisinbrengplaats)
+
+Kweekrapport: 
+- CSF-analyse en kweken - negatief
+- Wondkweek - Proteus mirabilis (gevoelig voor carbapenems, piperacilline/tazobactam)
+
+Primaire diagnose: 
+- Septische shock, secundair aan buikwandcellulitis en gelokaliseerde abcessen
+- Complicaties: Verkeerd gepositioneerde VP-shunt en PEG-buis
+
+Differentiële diagnose: 
+- VP-shuntinfectie
+- Meningitis/Encefalitis
+(Uitgesloten door CSF-analyse en kweekresultaten)
+
+Behandelplan: 
+- Doorgaan met IV-antibiotica (op basis van gevoeligheidstesten)
+- Monitor de klinische status van de patiënt
+- Ondersteunende zorg voor ademhalings-, circulatiestabilisatie
+- Chirurgisch consult voor correctie van VP-shunt en PEG-buis
+
+Onderwijs & Vervolg: 
+- Onderwijs van de patiënt over het behandelplan
+- Let op tekenen van infectie/complicaties
+- Regelmatige vervolgafspraken en herbeoordeling van de effectiviteit van de behandeling
+
+Jessica Lejeune
+Mariani Assam"
+

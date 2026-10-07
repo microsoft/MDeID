@@ -1,0 +1,61 @@
+"Nota de Enfermagem
+-----------------------
+ 
+Paciente: Gonçalo Pereira
+
+Sinais vitais:
+- PA: 120/80 mmHg
+- FC: 75 bpm
+- Temp: 98.6 F
+- SpO2: 98%
+
+Observações: 
+- Chiado, tosse, dificuldade para respirar
+- Sinais de uso do inalador Jordan Ltd
+- Hipersensibilidade 
+
+Tratamentos:
+- Aumento da dosagem do 3043-318KD
+- Adicionado tratamentos com nebulizador aprovados pela aaiGx
+
+Em progresso:
+- Monitorando 6
+- Consultar o José Correia sobre os sintomas
+- Aguardando os próximos exames de sexta-feira, 16 de dezembro de 2011
+
+Comunicação:
+- Membro da Família - Gonçalo Pereira
+- Contato de emergência: 341.448.2307
+
+Informações do Documento:
+- Nome de usuário da enfermeira: PLOAHMFV
+- ID: qSS 65sGni
+- URL do relatório: dudley-santiago.info
+- Endereço IP: 69.147.55.99
+
+Nota adicional:
+- Paciente no quarto academia
+- Documento digitalizado para Joséa@zoho.com
+
+Referências:
+- Especialista em alergia - José Correia
+- Referido por - José Correia
+
+Detalhes diversos:
+- Número do prontuário médico: 08-19XEnSl
+- Faturamento para a conta: qSS 65sGni
+- Veículo no estacionamento do hospital: 563 4CY
+
+------------------------------------
+N.B. Digitalização biométrica concluída com 789613-iSn
+
+------------------------------------
+- Detalhes da licença: vdZwsj 092
+- Segurança Social do Paciente: 729.638.736-39
+- Endereço do Paciente: Gonçalo Pereira, Lagoa de Oliveira 184, 6492 Conceição do Jacuípe, Portugal
+- Cidade do Paciente: Jardim Colorado Vila Velha
+- Estado do Paciente: Mg
+- País do Paciente: Portugal
+- CEP do Paciente: 6492
+- Fax do Paciente: 001-820-688-1074x502"
+

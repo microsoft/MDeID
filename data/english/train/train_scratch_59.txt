@@ -1,0 +1,61 @@
+"NURSING SCRATCH
+
+------------------------------------------------
+| Patient File: 37088 Ensn |
+| Care Team Lead: Joseph Arnold |
+| Contact Info: 3219253239    nolh@unhcr.org |
+| Hospital Unit: Shevelov |
+------------------------------------------------
+
+297768-ryd || [Temp: 98.6F] [Pulse: 68 beats/min] [Respiration: 18 breaths/min] [Blood Pressure: 120/80 mmHg] [Oxygen Saturation: 95%]
+
+* Stella Boucher  - complaint - strong urge, urinate frequently
+* Signs: discomfort in lower belly area
+* Suspected: urinary tract infection
+* Labs ordered for urinalysis
+
+   Contact Details:
+    -----------------------------------
+   | Emergency Contact: YlNXnvVG    |
+   | Address: Stella Boucher, 142 Pruned, Crimination 67 2939, Australia               |
+   | City: Unmiraculously                     |
+   | State: 67                   |
+   | Country: New Zealand               |
+   | Zip: 2939                       |
+   | Phone: 3219253239                   |
+    -----------------------------------
+
+* Administered meds: Antibiotics
+* Drips: Saline solution 85 02TvqSF
+* Monitored vitals and fluid intake-output chart
+
+    Patient's Personal Details:
+    -------------------------------
+   | Age: 75                      |
+   | IP Address: 119.99.206.158         |
+   | Vehicle Info: ZCH 876         |
+   | Social Security: 085-043-396|
+    -------------------------------
+
+* Healthplan: Sgl
+* Account due: EfLnE JBpR
+* ID: EfLnE JBpR
+* Next of kin: Stella Boucher 
+
+    Licenses and Other Details:
+    -----------------------------------
+   | License: 3488-205MD               |
+   | Organization: Rogers LLC     |
+   | Location: superstore       |
+   | Profession: Chief of Staff         |
+   | URL:  cruz.com/tag/tags/mainmain.asp                       |
+   | Fax: (367)629-8347                       |
+    -----------------------------------
+
+Note: Increase fluids, observe reaction to antibiotics. Report if symptoms persist. Monitor closely for any change in vitals or discomfort.
+
+_______
+Nurse Sign: Joseph Arnold
+_______
+"
+

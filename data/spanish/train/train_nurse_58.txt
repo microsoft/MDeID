@@ -1,0 +1,45 @@
+"Nota Narrativa de Enfermería para Fredy Zuluaga con Historia de Dolor en el Pecho
+
+Fredy Zuluaga presentó una historia de un mes de malestar en el pecho. No se informaron operaciones o lesiones recientes. Fredy Zuluaga experimentó episodios de presión arterial baja y un episodio crítico de shock por pérdida de sangre y paro cardíaco después de la cirugía.
+
+En el examen, una tomografía computarizada torácica mostró una masa de tejido blando ovoide en el estadio, que medía aproximadamente 4.3 cm x 2.6 cm x 5.8 cm. Esta masa fue removida usando VATS y se identificó postoperatoriamente como un quiste broncogénico. Después de la operación, Fredy Zuluaga experimentó hipotensión relacionada con la edad de 89 años, que se manejó con expansión de fluidos, y luego desarrolló shock hemorrágico debido a un agujero de 3 mm en el Joseph Inc, lo que llevó a un taponamiento cardíaco. Esto se manejó con una toracotomía de emergencia y cierre directo de la arteria marginal obtusa dañada con prolene 4-0.
+
+El diagnóstico principal fue un quiste broncogénico con complicaciones que incluyen shock hemorrágico y taponamiento cardíaco post-resección. El diagnóstico diferencial inicialmente incluyó un tumor neurogénico del mediastino.
+
+Fredy Zuluaga se sometió a una toracotomía de emergencia exitosa y estabilización. La recuperación postoperatoria incluyó el destete del ventilador y el alta con instrucciones para citas de seguimiento para monitorear la recuperación. La gestión adicional se centrará en monitorear cualquier signo de recurrencia o complicaciones de la cirugía y asegurar el cumplimiento de las citas de seguimiento.
+
+Información del Encabezado: 
+- Fecha: 26 feb 1980
+- Número de Registro Médico: hK 805402S
+- Dirección del Paciente: Fredy Zuluaga, Andador Nuevo León 055 690 45, Scummers, 054EDM11 Rawson, 10, México
+
+Información del Pie de Página: 
+- Información de Contacto del Paciente: 
+    - Teléfono: 577.572.3024x290
+    - Correo Electrónico: queV@protonmail.com
+- Información del Doctor:
+    - Nombre: Verónica Velázquez
+- Plan de Salud: aidU
+- Contacto de Emergencia:
+    - Nombre: Fredy Zuluaga
+    - Teléfono: 577.572.3024x290
+
+Información Estructurada:
+- Número de Cuenta del Paciente: 285441-ljH
+- Nombre de Usuario: DphriK3Y
+- Nombre del Hospital: Grosvenor
+- Identificación del Vehículo del Paciente: 59V Z75
+- Número de Seguridad Social: 79.931.403
+- Licencia Profesional: 08587-kQdW
+- Identificador Biométrico: 90401 333e
+- Dirección IP: 128.223.110.73
+- Identificador Personal: 285441-ljH
+- Ubicación del Paciente: estadio
+- Plan de Salud del Paciente: aidU
+- Profesión del Paciente: Científico marino
+- Organización Asociada del Paciente: Joseph Inc
+- Fax: +1-871-735-9229x28067
+- URL: nguyen-jones.turner-robinson.com
+
+Firmado por: Verónica Velázquez"
+

@@ -1,0 +1,32 @@
+"------------------------------------------------------------------------------------------------------------------
+Notes de l'infirmière pour Vincent Carlier
+------------------------------------------------------------------------------------------------------------------
+
+Subjectif : 
+
+Le patient, un homme, signale ressentir de la douleur, un gonflement et des changements dans son sein droit. Il décrit également des symptômes récents de vision double, de vision floue et une restriction significative du mouvement dans son œil droit, avec une diminution de l'acuité oculaire. 
+
+Objectif : 
+
+L'échographie initiale du sein a révélé une masse irrégulière dans le sein droit et une autre lésion à un autre endroit, avec des ganglions lymphatiques élargis dans l'aisselle droite. Une biopsie à l'aiguille a confirmé un diagnostic de carcinome canalaire invasif (CCI), avec certaines caractéristiques. Le patient a subi une tomodensitométrie du corps entier, qui n'a pas montré de maladie métastatique. Les tests post-traitement ont confirmé le diagnostic de CCI, avec plusieurs ganglions lymphatiques axillaires montrant des dépôts métastatiques. Une IRM récente du cerveau a indiqué une masse impliquant un certain muscle oculaire. 
+
+Évaluation : 
+
+Le diagnostic principal est un carcinome canalaire invasif (CCI) du sein droit, actuellement sans métastase à distance mais avec une propagation locale et régionale significative. Les nouveaux symptômes oculaires et les résultats de l'IRM suggèrent une possible métastase ou une malignité secondaire impliquant un certain muscle oculaire. 
+
+Plan : 
+
+Le patient a terminé un certain nombre de cycles de chimiothérapie néoadjuvante, a subi une mastectomie préservant la peau du sein droit, une dissection des ganglions lymphatiques axillaires et une radiothérapie de la paroi thoracique. Elle est actuellement sous hormonothérapie avec certains médicaments. Étant donné les nouvelles découvertes oculaires, un bilan diagnostique supplémentaire et une consultation avec un oncologue et un ophtalmologue sont nécessaires pour déterminer la stratégie de gestion appropriée pour la métastase potentielle ou le nouveau cancer primaire. 
+
+------------------------------------------------------------------------------------------------------------------
+Footer : 
+
+Infirmière Lise Coppens, Numéro de licence 54 gpDPRHR, Numéro de contact 379-853-0369x53989, Email ID oppee@protonmail.com, 
+Appareil utilisé pour la documentation 5595 11069, Adresse IP utilisée pour se connecter au système 200.34.222.90, 
+Nom d'utilisateur lierncen, Numéro de sécurité sociale 390883-2859, Numéro de véhicule 39DX2,
+ID biométrique du patient GdT-54481x, Numéro de compte du patient 934405-303, Numéro d'identification 934405-303, 
+Âge du patient 98, Adresse du patient Vincent Carlier, 13590 Goblet Fords Apt. 893 83, 2011 Longuenée-en-Anjou, Belgique, Ville Sainte-Maxime, État Mendoza, Pays Belgique, 
+ZIP 2011, Hôpital hôpital psychiatrique, Autre lieu salle de sport, Plan de santé FFD, 
+Profession Enseignant, petite enfance/pré, Organisation Curtis-Wright, Fax (258)300-9078, URL  kennedy.com/app/category/tagprivacy.html
+------------------------------------------------------------------------------------------------------------------"
+

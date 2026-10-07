@@ -1,0 +1,78 @@
+"```
+-------------------------------------------------
+INFORMAZIONI SUL PAZIENTE
+-------------------------------------------------
+Paziente: Gabriele Conte
+Età: 98
+Cartella clinica: 9981-73FuJ
+-------------------------------------------------
+
+SEGNALI VITALI
+
+BP: 125/80
+Pulsazioni: 85
+Temp: 37.2C
+RR: 18/min
+O2 Sat: 98%
+
+-------------------------------------------------
+NOTE
+-------------------------------------------------
+
+- Aumento della sete Gabriele Conte
+- Minzione frequente
+- Storia di diabete in famiglia Re-367cfAs
+- eGFR >60
+- Monitoraggio del livello di glucosio con 7124 ZoEqs
+- BMI 25.0 
+
+-------------------------------------------------
+DATI CLINICI 
+-------------------------------------------------
+
+Glicemia oggi: 7.9 mmol/L
+
+-------------------------------------------------
+PIANI & COMPITI
+-------------------------------------------------
+
+- Contattare la Paola Conti per una consultazione
+- Comporre il (299)967-4626 per il riferimento del dietologo
+- Inviare un'email a PCo@unwomen.org per il follow-up
+- Seguire il link rios.lewis-smith.net per le risorse di auto-gestione del diabete
+
+-------------------------------------------------
+-------------------------------------------------
+CONTATTO DI EMERGENZA 
+-------------------------------------------------
+
+- Nome del contatto: Gabriele Conte
+- Indirizzo: Gabriele Conte, 70107 Navarro Groves Apt. 331, 188, 8630 Treviso Dreidels, Italia
+- Telefono: (299)967-4626
+- Email: PCo@unwomen.org
+
+-------------------------------------------------
+ASSICURAZIONE MEDICA
+-------------------------------------------------
+
+- Fornitore: e9HXm
+- Numero di conto: GgpZ-eOZYs
+- Dettagli del piano a: rios.lewis-smith.net
+
+-------------------------------------------------
+INFORMAZIONI AGGIUNTIVE
+-------------------------------------------------
+
+- Indirizzo IP: 115.106.24.220
+- SSN: WXCVRJ80U08G511C
+- Città di residenza: Treviso
+- Codice postale: 8630
+- Stato: IS
+- Organizzazione: Chavez-Sanchez
+- Professione: Scienziato di sviluppo di prodotti/processi
+- Numero di licenza: 240781 KNM
+- Identificatore del veicolo: IQY T74
+
+-------------------------------------------------
+```"
+

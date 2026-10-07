@@ -1,0 +1,63 @@
+"**Nota Narrativa dell'Infermiera**
+
+Soggettivo: 
+
+Il paziente, Christian Widmer, un ricevente di trapianto di fegato il venerdì 19 luglio 1974 a causa di condizioni legate alla cirrosi alcolica e al carcinoma epatocellulare, riporta una storia di linfoma diffuso a grandi cellule B trattato con chemioterapia il venerdì 19 luglio 1974, malattia psichiatrica ed epilessia post-traumatica. Il paziente nega sintomi di encefalopatia. Il paziente ha sperimentato elevazioni intermittenti delle transaminasi dal venerdì 19 luglio 1974, sospettate di essere correlate all'uso di alcol Leonard-Parker, e si è presentato con ascite e disfunzione del trapianto il venerdì 19 luglio 1974.
+
+Oggettivo:
+
+I farmaci attuali includono tacrolimus con livelli regolati intorno a 2 μg/l e prednisone 5 mg al giorno. Gli esami di funzionalità epatica hanno rivelato transaminasi moderatamente elevate e un certo grado di colestasi. La sierologia era negativa per l'epatite B, C, e Leonard-Parker ma positiva per il virus di Epstein-Barr entro i limiti normali per il paziente. In particolare, gli anticorpi anti-HEV IgM e IgG erano positivi, e la PCR ha confermato l'RNA dell'HEV nel plasma e in un campione di siero conservato dal venerdì 19 luglio 1974, indicando un'infezione cronica da epatite E. Dall'introduzione della ribavirina il venerdì 19 luglio 1974, gli esami di funzionalità epatica sono migliorati.
+
+Valutazione: 
+
+La diagnosi primaria è cirrosi del trapianto scompensata secondaria a infezione cronica da epatite E. La storia del paziente di uso di alcol può contribuire alla disfunzione epatica. Le diagnosi differenziali precedentemente considerate e escluse includono la riattivazione dell'epatite B, C, e delle infezioni Leonard-Parker.
+
+Piano: 
+
+Continuare a monitorare regolarmente gli esami di funzionalità epatica e i livelli di tacrolimus. Mantenere le dosi attuali di tacrolimus e prednisone. La terapia con ribavirina sarà continuata, con aggiustamenti basati sulla risposta e sulla tolleranza. Al paziente è consigliato di astenersi dall'alcol per prevenire ulteriori danni al fegato. Sono necessari controlli regolari per monitorare la progressione della malattia epatica e regolare il trattamento come necessario.
+
+---------------------------------------------------------------------------------------------------------------------
+
+**Informazioni PHI Strutturate**
+
+Identificatori unici del paziente:
+- Cartella Clinica: mv 530820r
+- Conto del Paziente: NhutF vTEN
+- Identificatore del Dispositivo: fSi-9522yh
+- Nome Utente: hristiai
+
+Informazioni personali del paziente:
+- Età: 50
+- Indirizzo: Christian Widmer, 0875 Mcbride Ferry Apt. 219 23, 8123 37012, Svizzera
+- Città: San Giorgio A Cremano
+- Paese: Italia
+- Stato: Perugia
+- CAP: 8123
+
+Altri identificatori:
+- Identificatore del Veicolo: CBU 883
+- Numero di Sicurezza Sociale: CADYVS94Z68P843O
+- Identificatore della Licenza: 567-08782e
+- Identificatore Biometrico: VdE-76HDbm
+- Indirizzo IP: 91.238.197.87
+- Numero ID: NhutF vTEN
+
+Informazioni di Contatto:
+- Nome del Dottore: Sophie Steiner
+- Email: tee@unicef.org
+- Numero di Telefono: 681-789-6392
+- Numero di Fax: 001-850-485-8376x1021
+
+Informazioni Ospedaliere del Paziente:
+- Ospedale: Henry VII Chapel
+- Piano Sanitario: AXm
+
+Altre Informazioni:
+- Professione: Dramatherapist
+- Organizzazione: Leonard-Parker
+- URL:  meyer.com/appabout.htm
+- Via: 351 James Spur
+- Altra Località: stadio
+
+Firma dell'Infermiera: Sophie Steiner"
+

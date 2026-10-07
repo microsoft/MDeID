@@ -1,0 +1,25 @@
+"Patient Care Report: Malaria Case
+
+[DISPATCH]: The Ross Ltd Emergency Medical Services unit received a distress call for a patient located at school. The call was made at approximately Wed Oct 14 on  from a 864-8093az. The caller, who identified themselves as hiVd2dET, reported that patient Harrison Robinson has been feeling really sick over the past few days.
+
+[SYMPTOMS]: On arrival at school, the Harrison Robinson appeared to be in a moderate state of distress. They reported experiencing severe flu-like symptoms, including high fever, chills, and weakness which are common symptoms of malaria. These symptoms had been persisting for approximately 5 months. The patient also mentioned that they had recently returned from a trip to a malaria-endemic country (Australia).
+
+[TREATMENT]: Emergency services initiated immediate pre-hospital care. The patient was administered antimalarial medications, as per the protocol, and provided with supportive care, including fluids and fever-reducing medicines. 
+
+[TRANSPORT]: Patient Harrison Robinson was transported swiftly to Bluebirds. During the transport, the patient's vital signs were continuously monitored. The patient was handed off to the emergency department staff upon arrival, with a brief to Jack Robinson's team on the patient's condition and the pre-hospital care provided.
+
+[OVERVIEW]: This report covers the EMS response to a call concerning patient Harrison Robinson, who was experiencing severe symptoms associated with malaria. The EMS team responded swiftly, providing immediate treatment and transporting the patient to Bluebirds. The report was submitted to the medical records of the patient (89601-1839). Further updates regarding the patient\u2019s condition can be accessed through the patient's hospital account (57536 wdRM). The EMS team involved in the call included a driver (4RZ 787) and a licensed medical practitioner (7106 TWrVF). 
+
+The patient\u2019s personal information (including 057-19-2212, 138.16.129.217, 57536 wdRM, etc.) has been securely recorded in the patient\u2019s medical record. The information regarding the patient's health plan (Vshb079EK) and any potential biometric identifiers (kLi uNyyXz) has also been logged. 
+
+Report compiled by: hiVd2dET
+Date: Wed Oct 14
+
+Contact information: 
+Phone: (553)395-6992x99715
+Email: Jacn@yahoo.com
+Fax: +1-730-567-7487
+URL: vargas.watts-fields.info
+
+Note: Please do not disclose this report or any of its contents as it contains sensitive Personal Health Information (PHI)."
+

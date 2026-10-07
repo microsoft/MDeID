@@ -1,0 +1,45 @@
+"**Notes de l'infirmière**
+
+**Subjectif :**
+La patiente Owen Patel, une femme de 79 ans, s'est présentée avec des plaintes de douleurs abdominales supérieures, d'arthralgie, de myalgie, d'hyporexie, de malaise, de fièvre intermittente et de jaunisse progressive. Elle a des antécédents d'insuffisance cardiaque chronique, de bloc de branche droit, de fibrillation auriculaire non valvulaire, d'hypertension et de maladie veineuse chronique. Owen Patel vient de café, une région connue pour la dengue, le chikungunya et le Zika.
+
+**Objectif :**
+Lors de l'examen, la patiente a été trouvée en tachycardie, tachypnée et jaunisse mucocutanée. Des pulsations veineuses du cou avec reflux abdominojugulaire ont été notées. Le son cardiaque S1 était augmenté avec un rythme irrégulier ainsi qu'un souffle systolique aux deux bordures sternales supérieures. Les bruits respiratoires étaient diminués à la base des deux poumons. Un foie palpable non douloureux a été noté à 3 cm sous la bordure costale à la ligne médio-claviculaire. Les résultats de laboratoire ont indiqué une leucopénie et une thrombopénie. L'évaluation électrocardiographique a confirmé une fibrillation auriculaire avec réponse ventriculaire rapide et un bloc de branche droit. La radiographie thoracique a montré une cardiomegalie et un épanchement pleural bilatéral. Après l'admission en soins intensifs, la patiente a présenté une hypoglycémie et une détérioration de la fonction rénale, et a nécessité un soutien ventilatoire et vasopresseur. Les échantillons de sang ont été testés positifs pour les anticorps IgM de la dengue.
+
+**Évaluation :**
+Le diagnostic principal est une dengue sévère avec atteinte hépatique. L'état de la patiente est compliqué par une insuffisance cardiaque chronique, une fibrillation auriculaire et une insuffisance rénale aiguë sur chronique. Le diagnostic différentiel comprend d'autres infections à arbovirus comme le chikungunya et le Zika, étant donné qu'elle réside dans une zone endémique. Le pronostic de la patiente est mauvais, comme en témoigne la détérioration rapide et le décès final dû à une activité électrique sans pouls.
+
+**Plan :**
+La patiente a été prise en charge en soins intensifs avec un traitement de soutien, y compris une antibiothérapie à la cephazoline, un soutien ventilatoire et vasopresseur. Une surveillance continue des fonctions cardiaques et rénales a été mise en place. Malgré une prise en charge agressive, l'état de la patiente s'est détérioré, entraînant son décès. Un conseil post-mortem a été fourni à la famille, expliquant les efforts médicaux et la sensibilité et la spécificité des tests diagnostiques utilisés.
+
+**Informations pertinentes :**
+- Nom d'utilisateur du patient : ubxVdcFR
+- ID de l'appareil électronique : 21944-BmpD
+- Numéro de sécurité sociale : 604482-0472
+- Hash BioID : sfcV 29620
+- Adresse IP : 20.76.229.155
+- Numéro d'identification : BjMQ-JCOaX
+- Adresse : Owen Patel, 5 166 Dewez Key Apt. 755, Torcy Le Grand, 59 8670, Canada
+- Admis à : King's College London University of London
+- Plan de santé : U4zB
+- Profession : Press sub
+- Organisation : Blanchard, Parsons and Glenn
+- Date : 27 février 1994
+- Docteur : Oliver Ouellet
+- Email : lle@red-cross.org
+- Téléphone : (611)549-1833x961
+- URL : https://www.bowers-stewart.com/search/searchterms.php
+- Fax : 676-846-4853x58566
+
+**Pied de page :**
+Identifiant du véhicule : 9W321
+ID de licence : JvGxj 263i
+Ville : Torcy Le Grand
+Pays : Canada
+État : 24
+Rue : 32812 Miller Locks
+Code postal : 8670
+
+[Fin du document]
+"
+

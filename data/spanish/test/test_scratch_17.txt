@@ -1,0 +1,45 @@
+"```
+Nota de Enfermería: 
+===================
+Paciente: David Gutiérrez
+Número de Historia Clínica: fSg 235kfH
+
+    Signos Vitales y Observaciones:
+    ----------------------
+    Presión arterial: 110/70 
+    Pulso: 80 lpm 
+    Temperatura: 98.6 \u00b0F 
+    Frecuencia respiratoria: 16 lpm 
+    O2: 100% en aire ambiente 
+    Peso: 70 Kg 
+    Altura: 170 cm
+
+    Médico:
+    --------
+    Diagnósticos: Ictericia, causa en investigación
+    Medicación: Esperando órdenes del doctor Elkin Londoño
+    Laboratorio: Se ordenaron pruebas de función hepática, esperando resultados EdTt-cLwpk
+
+    Comentarios: El paciente presenta ictericia. Sin fiebre. Sin dolor en el pecho. 
+
+Información de Contacto:
+--------------------
+Teléfono: 001-846-968-6044x3514
+Dirección: David Gutiérrez, Cerrada Sur Ledesma 889 Interior 457 148, Feedstock, UV1RLRNP Rawson, 47, México
+Contacto de Emergencia: OHigyq59
+
+Información Adicional:
+----------------------
+Plan de Salud: C4s
+Admitido desde: museo
+Dirección IP: 41.242.212.102
+Profesión: Periodista, radiodifusión
+Organización: Wright PLC
+Vehículo: X 326006
+SSN: 874-67-8242
+Licencia: 481998-171
+Biometría: alG-426048
+
+```
+"
+

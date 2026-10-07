@@ -1,0 +1,52 @@
+"## Nursing Scratch Notes
+
+
+Patient: Jasmine Thompson
+Medical Record: 1085-aUBlh
+Address: Jasmine Thompson, 42 Granet, Pelves 76 6384, Australia
+Health Plan: TB8
+Organization: Woods-Jordan
+Contact: +1-319-866-7086x901
+Emergency Contact: +1-319-866-7086x901
+Referring Physician: Alex Roy
+Hospital: basilica of St. Mark
+Nursing Staff: Alex Roy
+
+Treatment Info:
+-----------------
+Varicose Veins
+ - AbPePd 539 used for monitoring
+ - 1085-aUBlh reference for past treatments
+
+Observations:
+-------------
+Vitals: 
+ - BP: 120/80
+ - Pulse: 80 bpm
+ - Temp: 98.6 F
+
+Symptoms Noted:
+ - Leg Pain Level: 7/10
+
+Treatment Progress:
+-------------------
+ - Compression Therapy: Effective 
+ - Varicose Vein Removal: Not Yet Done
+ - Patient Eligibility for Surgery: Checking 125 baejMX details
+
+Additional Info:
+----------------
+ - Age: 11 months
+ - Profession: Product designer
+ - Social Security: 515 589 729
+ - Email: exy@yandex.com
+ - URL for Health records: harvey.schwartz.com
+ - User name for online health portal: JxDWkzxT
+
+------------------------
+Document ID: 125 baejMX
+IP Address Recorded: 178.218.50.234
+Device Used: AbPePd 539
+Date of Notes: Fri/Oct/1997
+"
+

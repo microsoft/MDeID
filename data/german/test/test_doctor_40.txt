@@ -1,0 +1,41 @@
+"Arzt Notizen
+
+Notiz: Emelie Groß,  Männlich, 109
+Anamnese: HIV, Metastasierender Übergangszellkrebs - Nierenbecken. 
+
+- Vorherige linke Nephrektomie
+- Metastatische Ausbreitung: Wirbelsäulen-Knochen, mediastinale Lymphknoten, Lungen
+- Behandlung: Gemcitabin, Cisplatin, Atezolizumab, Antiretrovirale Therapie (Elvitegravir, Cobicistat, Emtricitabin, Tenofovir/Alafenamid)
+- Labor: Nicht nachweisbare Viruslast, CD4-Zählung 444 Zellen/mm3
+
+Vorgestellt mit:
+- Fortschreitende Atemnot
+- Beinschwellung
+
+Untersuchung:
+- Tachykardie
+- Atemnot
+- Verminderte Atemgeräusche rechter Hemithorax
+- Schwellung der unteren Extremität
+
+Untersuchungen:
+- Röntgen-Thorax: Rechter Pleuraerguss, Vergrößerte noduläre Dichte in der linken oberen Lappen
+- Labor: Anämie, Erhöhte Troponin-I-Werte
+- Transthorakale und transösophageale Echokardiographie: Große, mobile, zystische Masse rechtes und linkes Atrium, Invasion in das interatriale Septum
+- MRT der unteren Extremität: Mehrere anreichernde neoplastische Massen in beiden Waden
+
+Eindruck: 
+- Fortgeschrittener metastasierender Krebs
+- Erhebliche kardiale und pulmonale Beteiligung
+- Anämie
+- Mögliche kardiale Belastung (erhöhtes Troponin I)
+- Weit verbreitete metastatische Erkrankung
+
+Plan:
+- Bluttransfusion, Thorazentese zur Symptomkontrolle
+- Palliativversorgung zur Aufrechterhaltung des Komforts
+- Keine chirurgischen Eingriffe aufgrund der umfangreichen Erkrankung
+- Patient verstorben, Familie informiert und durch Trauerprozess unterstützt
+
+Isabell Döring"
+

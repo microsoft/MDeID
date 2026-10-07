@@ -1,0 +1,47 @@
+"Nurse Scratch Note
+
+-----------------------VISUAL OBSERVATION-----------------------
+- Isabella White appears in general discomfort
+- Persistent cough observed
+
+-------------------------VITAL SIGNS---------------------------
+- Temperature: 98.7\u00b0F
+- Blood Pressure: 130/80 mmHg
+- Heart Rate: 90 bpm
+
+------------------------NURSE'S NOTES--------------------------
+1. Isabella White presents with cough ongoing for few days. Tentative diagnosis: bronchial asthma
+2. Medication prescribed by Laura Jenkins to manage symptoms
+
+-------------------PATIENT'S MEDICAL HISTORY-------------------
+- Medical record number: 035 aPCVpy
+- Last hospital visit: Guysborough County
+- Health plan: QttKhLxa5JS3J
+  
+------------------------BIOMETRICS---------------------
+1. Voice biometric id: 310395-KNu
+
+-------------------PATIENT'S PERSONAL DETAILS-------------------
+- Isabella White's Age: 31-week
+- Address: Isabella White, 95 Renowning, Distresses 4 2684, Australia
+- Profession: Public librarian
+- User name on hospital portal: yzFNZh6V
+
+----------------------CONTACT INFORMATION----------------------
+- Phone: +1-329-878-3636x0648
+- Email: urans@aol.com
+  
+--------------------OTHER INFORMATION--------------------
+- Patient's personal id: 87411 FDFi
+- Device used for home monitoring: 243 SzxKFB, Device id: 
+- Patient Account: 87411 FDFi
+- Driver's license: 924648 774
+- Vehicle identification number: 4EF C73
+- IP address of patient's device: 145.163.153.152
+- Social Security number: 366-229-711
+- Patient's Organization: Bishop PLC
+- Last visit to bench
+- Fax: 001-551-405-6708x028
+
+\u29bf\u29bf----------End of Scratch Note----------\u29bf\u29bf"
+

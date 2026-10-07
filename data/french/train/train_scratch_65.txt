@@ -1,0 +1,65 @@
+"**-=Notes Rapides de l'Infirmière=-**
+
+```txt
+--------------------------------------
+PATIENT       : Lauren Smith
+AGE           : 61
+HÔPITAL      : Mount Barker state schools
+DOSSIER MÉDICAL : 283748 COp
+--------------------------------------
+
+Signes vitaux:
+- TA: 120/80
+- FC: 88 bpm
+- Temp: 37\u00b0C
+
+Observations:
+- Tremblements, frissons partout
+- Perte de poids
+
+Diagnostic possible:
+- Diabète suspecté
+
+Test commandé:
+- Taux de sucre dans le sang
+- HbA1c
+
+--------------------------------------
+**Informations de Contact**
+- Adresse: Lauren Smith, 148 021 Descamps Park Suite 902, Chalezeule, 55 9990, Canada
+- Téléphone: +1-376-358-2712x3268
+- Email: isan@msf.org
+--------------------------------------
+
+**Compte et ID**
+- Numéro de compte.: 37817 KnKv
+- Numéro d'ID: 37817 KnKv
+- Plan de santé: 5Khy3i9
+
+**Autres**
+- Nom d'utilisateur: pvMqAYMf
+- Adresse IP: 105.186.52.156
+- BioID: 07607 qNbN
+
+**Dispositifs Médicaux**
+- Appareil utilisé: 525884-zUe
+
+**Contact d'Urgence**
+- Nom: Lauren Smith
+- Contact: +1-376-358-2712x3268
+
+**Détails de l'Hôpital**
+- Emplacement: stade
+- Ville: Chalezeule
+- État: 55
+- Code Postal: 9990
+
+**Profession et Organisation**
+- Profession: Secrétaire médicale
+- Organisation: Harris Inc
+
+--------------------------------------
+*Noté par: Nolan Denis*
+```
+"
+

@@ -1,0 +1,30 @@
+"Informe de Atención al Paciente - Malaria
+
+[DISPATCH] Los Servicios Médicos de Emergencia de Edwards-Garza recibieron una llamada al 911 de Alfredo Martín informando que se sentía gravemente enfermo. Este equipo fue enviado en base a la llamada telefónica 001-534-545-1291x8538 del residente local. Respondimos con luces y sirenas a la aeropuerto.
+
+[SYMPTOMS] A la llegada, Alfredo Martín fue encontrado en un estado de angustia. El paciente informó de fiebre alta 63, escalofríos y debilidad. El problema principal parece ser estos síntomas similares a los de la gripe, que reflejan un posible caso de malaria. 
+
+[HISTORY] Según Alfredo Martín, el inicio de los síntomas fue hace aproximadamente 23/3/88. La historia del paciente se obtuvo del paciente y su número de registro médico 934668-68T. 
+
+[INITIAL ASSESSMENT] Se realizó una evaluación primaria inicial. Alfredo Martín está consciente pero parece débil y fatigado. La evaluación neurológica no mostró signos de confusión o alteración del estado mental. Sin embargo, se notó una alta temperatura. 
+
+[TREATMENT] El paciente fue puesto en terapia de oxígeno leve a través de una máscara. Se estableció una línea IV de solución salina 03140 0119 para fines de hidratación durante el viaje en ambulancia. Debido a la historia de viajes reportada por el paciente y los síntomas, se consideró un posible diagnóstico de malaria. 
+
+[TRANSPORT] Alfredo Martín fue trasladado al Manitoba Court para una evaluación y tratamiento más detallados. Durante el transporte, se monitorearon continuamente las constantes vitales del paciente y se proporcionaron actualizaciones al hospital receptor a través de nuestro dispositivo de comunicación 03140 0119. 
+
+[HANDOVER] A la llegada al Manitoba Court, el paciente fue entregado al médico de urgencias Dana Vianu. Se proporcionó información detallada del paciente, incluyendo el número de cuenta Nf-SJauJKT, el plan de salud awVA47We, y el estado Coahuila de origen del paciente para la facturación al equipo receptor junto con un breve resumen del caso.
+
+[DOCUMENTATION] Se obtuvo el consentimiento firmado del paciente en nuestro formulario digital utilizando su nombre de usuario redartí, y se les proporcionó un folleto de Aviso de Prácticas de Privacidad. Se informó a Alfredo Martín, el contacto de emergencia del paciente, que se informó que es un miembro de la familia, sobre la situación. 
+
+Este informe ha sido compilado por la asistente Dana Vianu, Garment/textile technologist, con la ambulancia 274 LUI de Edwards-Garza. El proceso de documentación se realizó asegurando la completa confidencialidad del paciente y la estricta adherencia a las regulaciones de HIPAA. 
+
+[REPORTED BY] 
+Asistente Dana Vianu 
+Número de Licencia HKGCu 4719
+Firma 101618-IFi
+Fecha 23/3/88
+Correo electrónico aia@unhcr.org
+Dirección IP 214.192.87.230 
+Número de Fax 001-342-756-3326x8525 
+URL  leon.com/tags/tagindex.html"
+

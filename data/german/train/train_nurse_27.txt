@@ -1,0 +1,39 @@
+"**KRANKENSCHWESTER ERZÄHLNOTIZ**
+
+Aufnahmeinformationen für Patient Fabian Baumann
+
+Der Patient, ein 33-jähriger Bewohner von Belgien, ursprünglich aus Belgien, wurde mit einer einwöchigen Vorgeschichte von verändertem mentalen Status, Fieber, Nackenschmerzen, Übelkeit und Erbrechen aufgenommen. Der Patient leugnet jegliche Vorgeschichte von Bauchschmerzen, Kopfschmerzen, Sehstörungen, fokaler Schwäche, Brustschmerzen, Atemnot, Rauchen, Alkohol oder Drogenmissbrauch. Der Patient hat in seinem Erwachsenenalter keinen David Pauwels gesehen und keine Medikamente eingenommen. Die Familie berichtet von nächtlichen Aktivitäten wie Kochen und Putzen und intermittierender Schläfrigkeit.
+
+Bei der Aufnahme wurde der Patient aufgrund von Atemwegsproblemen intubiert und in das Lone Pine Koala in Oppenau, Garmisch aufgenommen. Die Vitalzeichen umfassten eine Temperatur von 36,5°C, Herzfrequenz 90 bpm, Atemfrequenz 22/min, Blutdruck 108/61 mm Hg und Sauerstoffsättigung 100% bei 40% FiO2. Die körperliche Untersuchung ergab ein positives Brudzinski-Zeichen, Nackensteifheit, gleich große und auf Licht reagierende Pupillen und Reaktion auf Schmerzreize. Die Lungen waren klar, und die Herz- und Bauchuntersuchungen waren unauffällig. 
+
+Die Laborwerte zeigten eine erhöhte weiße Blutkörperchenzahl von 19.900/mm3 mit 81% Neutrophilen, Hämoglobin 11,8 g/dL, Thrombozytenzahl 170.000/µL, Kreatinin 0,5 mg/dL, Bilirubin 0,6 mg/dL, AST 49 IU/L, ALT 81 IU/L und alkalische Phosphatase.
+
+Die klinische Präsentation und die Befunde deuten auf eine akute bakterielle Meningitis hin, wenn man die Symptome von Fieber, Nackensteifheit, verändertem mentalen Status und unterstützende Laborbefunde einschließlich Leukozytose mit Neutrophilie berücksichtigt. Differenzialdiagnosen könnten virale Enzephalitis oder andere ZNS-Infektionen einschließen.
+
+Der Behandlungsplan wird die fortgesetzte Überwachung auf der Intensivstation mit unterstützender Pflege beinhalten. Beginnen Sie mit einer empirischen Antibiotikatherapie, die auf häufige Erreger von Meningitis abzielt, in Erwartung weiterer diagnostischer Ergebnisse wie einer Liquoranalyse. Stellen Sie eine enge Überwachung des neurologischen Status und der Vitalzeichen sicher. Informieren Sie den Patienten und die Familie über den Zustand, den Behandlungsplan und die erwarteten Ergebnisse. Vereinbaren Sie eine neurologische Konsultation und ziehen Sie eine Infektionskrankheiten-Konsultation in Betracht, falls erforderlich. Besprechen Sie die Bedeutung der Nachsorge und der möglichen langfristigen Behandlung.
+
+**Zusätzliche Details**
+- Medizinische Aktennummer: 48063-2384
+- Kontonummer: 652010-QEH
+- Seriennummer des Geräts des Patienten: 46-HvSeIkW
+- Benutzername für das Patientenportal: eXD1Ijva
+- Fahrzeugidentifikationsnummer: IWD 548
+- Sozialversicherungsnummer: 286-3016457-55
+- Lizenznummer: 273371 Swi
+- Biometrischer Identifikator: 3967 14105
+- IP-Adresse: 176.14.3.124
+- ID-Nummer: 652010-QEH
+- Wohnadresse: Fabian Baumann, Soraya-Heinrich-Straße 39 166, 2613 Jabing, Österreich
+- Gesundheitsplan: Su123xSz
+- Beruf des Patienten: Grundschullehrer
+- Organisation: Owens PLC
+- Aufnahmedatum: 3. September 2019
+- Name des Arztes: David Pauwels
+- E-Mail des Patienten: lsavid@microsoft.org
+- Kontaktnummer: (897)398-6339x29543
+- URL für Patientenressourcen: garcia-meyer.ortega.montes.org
+- Faxnummer: 999.455.8216x1078
+
+Krankenschwester David Pauwels
+"
+

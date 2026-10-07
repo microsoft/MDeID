@@ -1,0 +1,61 @@
+Riassunto Dimissione:
+
+# Disposizione Dimissione: Casa
+
+## Motivo per Ospedalizzazione:
+Alice Salvi è stata ricoverata a causa di una diagnosi di insufficienza cardiaca congestizia. La condizione si è manifestata attraverso sintomi come dispnea, ortopnea e distensione venosa giugulare evidente.
+
+## Procedure Eseguite:
+Durante il soggiorno in ospedale di Alice Salvi, non sono state intraprese procedure invasive. L'approccio terapeutico ha coinvolto principalmente la farmacoterapia e le modifiche dietetiche.
+
+## Cura, Trattamento e Servizi Forniti:
+Alice Salvi ha ricevuto cure mediche complete durante il ricovero in ospedale. Questo includeva il monitoraggio quotidiano dei segni vitali, la restrizione dei fluidi e la terapia diuretica per gestire i sintomi dell'insufficienza cardiaca. I controlli regolari con il Alex Ferretti, la consulenza dietetica e la farmacoterapia facevano parte del piano di gestione standard.
+
+## Condizione alla Dimissione:
+Al momento della dimissione, lo stato di salute di Alice Salvi ha mostrato un miglioramento significativo. La dispnea è stata alleviata e la distensione venosa giugulare è stata notevolmente ridotta. La risposta di Alice Salvi alla terapia diuretica è stata molto positiva.
+
+## Informazioni Fornite al Paziente e alla Famiglia:
+Il team di dimissione ha avuto una conversazione completa con Alice Salvi e la famiglia, spiegando l'importanza dell'aderenza alla terapia, della dieta a basso contenuto di sale e del monitoraggio regolare del peso e dei sintomi.
+
+## Disposizioni per la Cura di Follow-up:
+A Alice Salvi è stato consigliato di programmare un appuntamento di follow-up con il Alex Ferretti entro due settimane. È stata sottolineata l'importanza di cercare immediata assistenza medica in caso di esacerbazione dei sintomi.
+
+# Sezioni Richieste 
+
+## Sezione Allergie e Intolleranze:
+Nessuna allergia nota.
+
+## Sezione Corso Ospedaliero:
+Il corso ospedaliero di Alice Salvi è stato senza problemi con miglioramenti evidenti nei sintomi presenti di insufficienza cardiaca.
+
+## Sezione Diagnosi di Dimissione:
+Diagnosi Primaria - Insufficienza Cardiaca Congestizia
+
+## Sezione Piano di Trattamento:
+La gestione ambulatoriale consisterà nella continuazione del farmaco prescritto, un piano dietetico che enfatizza la restrizione di fluidi e sodio, e il monitoraggio regolare del peso.
+
+## Sezione Consulenze Ospedaliere:
+Durante il soggiorno in ospedale è stata organizzata una consulenza con un dietista per fornire indicazioni dietetiche per la gestione dell'insufficienza cardiaca.
+
+## Sezione Procedure:
+Non sono state eseguite procedure mediche aggiuntive durante il ricovero.
+
+## Sezione Risultati:
+Durante il soggiorno in ospedale sono stati osservati miglioramenti clinici e sintomatici.
+
+# Sezioni Aggiuntive 
+
+## Sezione Nutrizione:
+La consulenza del dietista ha fornito a Alice Salvi un piano dietetico personalizzato che enfatizza un basso contenuto di sodio e un apporto di fluidi limitato.
+
+## Sezione Stato Funzionale:
+Al momento della dimissione, Alice Salvi era in grado di svolgere le attività quotidiane senza bisogno di assistenza.
+
+## Sezione Istruzioni per la Dimissione Ospedaliera:
+A Alice Salvi sono state fornite istruzioni dettagliate per la dimissione, in particolare, per aderire al regime di farmaci fornito, seguire il piano dietetico e tenere un registro del peso quotidiano e di eventuali cambiamenti nei sintomi.
+
+## Sezione Segni Vitali:
+Al momento della dimissione, i segni vitali erano stabili, con una pressione sanguigna di 120/80 mmHg, una frequenza cardiaca di 75 battiti al minuto, una frequenza respiratoria di 16 respiri al minuto e una saturazione di ossigeno del 96% in aria ambiente.
+
+# Nota Importante:
+Il documento sopra è una descrizione sintetica del corso ospedaliero del paziente e non contiene alcun dato PHI effettivo. Il documento è stato creato per fungere da documento di orientamento e non dovrebbe essere utilizzato per la cura effettiva del paziente. Si prega di utilizzare i dati effettivi del paziente per le decisioni di trattamento.

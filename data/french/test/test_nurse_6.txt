@@ -1,0 +1,37 @@
+"Note Narrative de l'Infirmière
+
+Subjectif : Ayla Paquette révèle des antécédents de douleurs dorsales chroniques, partiellement gérées par des médicaments, et une dyspnée aggravée entraînant un besoin accru d'oxygène. Les antécédents médicaux du patient comprennent l'obésité morbide, l'apnée du sommeil obstructive, la leucémie lymphocytaire aiguë avec greffe de moelle osseuse et la maladie du greffon contre l'hôte, entraînant une maladie pulmonaire restrictive sévère.
+
+Objectif : Les signes vitaux de Ayla Paquette n'ont pas été fournis. Les résultats de l'ECG ont indiqué une bigéminie auriculaire de nouvelle apparition, qui s'est ensuite résolue. Un angioscanner a montré une connexion veineuse pulmonaire partiellement anormale (PAPVC) impliquant la veine pulmonaire dans le lobe supérieur gauche et la lingula. L'échocardiogramme du patient a montré un ventricule droit légèrement dilaté, une légère régurgitation de la valve tricuspide et une fonction ventriculaire gauche normale. Les tests de fonction pulmonaire ont montré une capacité pulmonaire totale à 42%, une FEV1 à 39%, une FVC à 37% et une DLCO à 41% des valeurs prédites. La cathétérisation du cœur droit et gauche a montré une hypertension pulmonaire avec des pressions élevées et un rapport de débit pulmonaire à systémique (Qp/Qs) de 1,22:1.
+
+Évaluation : Le diagnostic principal est une connexion veineuse pulmonaire partiellement anormale (PAPVC) avec des complications secondaires d'hypertension pulmonaire et d'insuffisance respiratoire chronique due à une maladie pulmonaire restrictive sévère. Le diagnostic différentiel initial comprenait une embolie pulmonaire, qui a été écartée par angioscanner.
+
+Plan : Continuer la supplémentation en oxygène et le traitement médicamenteux pour la gestion des douleurs dorsales chroniques. Ayla Paquette nécessite une surveillance étroite de l'état respiratoire et cardiaque, avec des rendez-vous de suivi pour discuter des options de traitement supplémentaires. L'éducation du patient sur la surveillance des symptômes et la reconnaissance du moment où il faut chercher une aide médicale immédiate est cruciale. Il est recommandé d'adresser le patient à un pneumologue et à un cardiologue pour des soins et une gestion spécialisés de la PAPVC et de l'hypertension pulmonaire.
+
+[HEADER]
+ID du patient : wJelHk 897
+Date de la visite : 5 juin 2021
+Nom de l'infirmière : Riley Bélanger
+Hôpital : Katharine Drexel
+Adresse : Ayla Paquette, 58 8603 Hannecart Inlet, 7869 Coutures, France
+Informations de contact : Téléphone - +1-213-955-3864, Email - yBélanger@outlook.com
+[FOOTER]
+Adresse IP du patient : 101.21.221.118
+ID de l'appareil : IocmZr 855
+Nom d'utilisateur : JXN45RRd
+Numéro de sécurité sociale : 547-845-726
+Numéro de licence : SgHq-IqKwm
+ID biométrique : 46 382CsNx
+Détails du véhicule : ADZ-8296
+Numéro de compte du patient : js-reZmKdl
+Organisation du patient : Flores, Potter and Navarro
+Détails du plan de santé : iyZjY8
+Profession : Designer, céramique/poterie
+Ville : Plouézoc'h
+Pays : Belgique
+État : AMAND
+Rue : 853 Heather Corners
+Code postal : 7869
+URL : stevens.ball.beasley.net
+Fax : 269-200-5197x0989"
+

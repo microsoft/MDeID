@@ -1,0 +1,42 @@
+"**Informações do Cabeçalho:**
+
+- Paciente: Eduarda Fernandez
+- Prontuário Médico: 03-188ibBZ
+- Conta: Jtb dfrSMQ
+- Médico Admitente: Bruna Oliveira
+- Email de Contato: ru@protonmail.com
+- Telefone de Contato de Emergência: 7468379922
+- Endereço do Paciente: Eduarda Fernandez, Aeroporto da Mata 161, 7267 São José - Sc, Portugal
+- Hospital de Admissão: Swiss Institute
+- Plano de Saúde: I6dKwp ZStyp
+- Data de Admissão: 3 de julho de 2005
+
+**Nota da Enfermeira:**
+
+Subjetivo: A paciente Eduarda Fernandez apresentou um histórico de 82 anos de edema de extremidade inferior e dispneia, e um histórico de 82 anos de sangramento vaginal anormal intermitente. A paciente relatou melhora sintomática após a pericardiocentese.
+
+Objetivo: A avaliação inicial mostrou hipoxemia com uma saturação de oxigênio de 80% em ar ambiente, taquicardia, hipotensão e diminuição dos sons cardíacos. Foi notada linfadenopatia supraclavicular esquerda. A radiografia de tórax revelou uma silhueta cardíaca alargada e derrame pleural bilateral. A pericardiocentese drenou 500 mL de secreção sanguinolenta. A citologia do fluido pleural foi positiva para carcinoma pouco diferenciado. A biópsia excisional do linfonodo supraclavicular esquerdo confirmou carcinoma de células escamosas metastático. A biópsia cervical indicou carcinoma de células escamosas com lesão intraepitelial de alto grau. O nível de CA-125 estava elevado em 335,5 IU/mL. A ressonância magnética pélvica não mostrou massa tumoral uterina ou cervical, mas confirmou carcinomatose peritoneal.
+
+Avaliação: O diagnóstico primário é carcinoma de células escamosas metastático com complicações, incluindo derrames pericárdico e pleural, levando à instabilidade hemodinâmica e insuficiência respiratória. O diagnóstico diferencial inicialmente considerado incluía outras formas de cânceres metastáticos.
+
+Plano: Tratamento iniciado com quimioterapia usando carboplatina e paclitaxel. Foi oferecida pericardiocentese repetida devido a derrames pericárdicos e pleurais recorrentes, mas a paciente recusou mais pericardiocentese. A escleroterapia intrapericárdica foi considerada, mas não foi realizada devido à falta de experiência da instalação. A condição da paciente deteriorou, levando à morte 82 após a apresentação inicial.
+
+**Informações do Rodapé:**
+
+- Localização do Paciente: farmácia
+- Cidade do Paciente: Viana
+- Estado do Paciente: 28
+- País do Paciente: Brasil
+- CEP do Paciente: 7267
+- Segurança Social do Paciente: 171.819.041-51
+- Licença do Paciente: 4535-922cW
+- BioID do Paciente: 595 vZIehc
+- Endereço IP do Paciente: 185.141.68.21
+- Número de ID do Paciente: Jtb dfrSMQ
+- Veículo do Paciente: 44SZ774
+- Profissão do Paciente: Cientista fisiológico
+- Organização do Paciente: Rodriguez and Sons
+- Nome de Usuário do Paciente: FPa5tibk
+- URL do Paciente: https://bryant-hayes.com/searchhomepage.asp
+- Fax do Paciente: 484-715-9970x0942"
+

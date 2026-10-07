@@ -1,0 +1,75 @@
+"Note de l'infirmière
+
+---------
+État du [PATIENT]
+---------
+Éruption cutanée - Olivia Müller - partout
+Gravité - Intense
+Cause Poss. - Suspicion de dengue
+
+----------
+Signes vitaux :
+----------
+TA : 120/80
+Temp : 99°F
+Pouls : 75 BPM
+Resp : 18 BPM
+
+----------
+Observations de l'infirmière :
+----------
+Peau - Anomalies - Éruption cutanée
+Douleur - Rapports - Sévère
+Humeur - Stable
+Réponse au traitement - En attente
+
+----------
+Accès & Communication :
+----------
+Email : non@gmail.com
+Téléphone : 431-330-9834x578
+Fax : 9044043352
+
+----------
+Infos générales & Contact :
+----------
+Adresse : Olivia Müller, 112 Jean Forge Suite 557 37, 1385 Nevers, Belgique
+Hôpital : Adorno
+Ville : Pola de Laviana
+Pays : Suisse
+
+-----------
+Données pertinentes :
+-----------
+Profession : Professionnel de la vente, IT
+Organisation : Horton-Turner
+
+-----------
+Résultats des tests :
+-----------
+En attente - Résultats du test de la dengue
+
+----------
+Contact & IDs :
+----------
+Numéro de dossier médical : 866452 ZPV
+Numéro de compte : 2612 hyPYU
+Contact du médecin : Dr. Aaron Monnier
+Infos sur l'appareil : Numéro d'identification de l'appareil 28285 deBM
+Plan de santé : vxTj QFYm8YYY
+
+-------
+Divers :
+-------
+Numéro de sécurité sociale : 140-4896903-06
+Numéro de licence : 513929-877
+Nom d'utilisateur : 7v4L2j1Q
+Infos sur le véhicule : ID du véhicule 7YX7459
+BioID : ID d'empreinte digitale 08 38147Ap
+Adresse IP : 201.63.12.189
+Numéro d'ID : 2612 hyPYU
+
+---------
+
+Veuillez mettre à jour régulièrement."
+

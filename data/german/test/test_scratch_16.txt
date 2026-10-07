@@ -1,0 +1,56 @@
+"**Krankenschwester Notiz**
+
+Patienteninformation: Martin Schneider
+
+Vitalzeichen:
+- BP: 120/80 mmHg
+- HR: 75 bpm
+- RR: 16/min 
+- Temp: 98.6 F
+- SpO2: 98%
+
+Beobachtungen:
+- Ausschlag: Ganzkörper
+- Haut: Trocken, Schuppig
+- Zustand: Juckend, Intens
+- Verdacht: Pilzinfektion
+
+Behandlungsplan:
+- Antimykotische Medikation
+- Feuchtigkeitsspendende Hautcreme
+- Nachsorge: Nach 2 Wochen
+
+Strukturierte Informationen:
+
+| Element        | Platzhalter   |
+| -------------- | ------------- |
+| Name des Arztes  | Mario Maier      |
+| Medizinische Akte | 14807 229P |
+| Kontonummer | gMFoh FdBC     |
+| Lizenznummer | 856795 yrB     |
+| Geräte-ID      | 68307 8354      |
+| Benutzername       | 1aHhJNYm    |
+| Fahrzeug-ID     | SMQ-8731     |
+| Sozialversicherung| 426-6148637-93 |
+| Bio-ID         | MQeO-YNmXy       |
+| IP-Adresse     | 115.51.61.233   |
+| ID-Nummer      | gMFoh FdBC       |
+| Alter            | 22         |
+| Adresse        | Martin Schneider, Kellerplatz 5/8 165, 4472 Grödig, Deutschland     |
+| Krankenhaus       | University of California-Irvine    |
+| Anderer Ort | Park |
+| Gesundheitsplan    | hm8bAKjYX  |
+| Beruf     | Beamter im Eilverfahren  |
+| Organisation   | Garcia-Martinez|
+| E-Mail          | rario@unwomen.org       |
+| Telefon          | 812.585.9815x49830       |
+| URL            | reyes.weiss.com         |
+| Fax            | (799)540-5596x7343         |
+| Bundesland          | MI       |
+| Stadt           | Lorch        |
+| Land        | Österreich     |
+| Straße         | 08432 Janice Tunnel Suite 413      |
+| PLZ            | 4472         |
+
+Hinweis: Patient klagt über starken Juckreiz und Unbehagen aufgrund des Ausschlags. Verschriebene antimykotische Medikation und feuchtigkeitsspendende Hautcreme. Regelmäßige Nachsorge empfohlen."
+

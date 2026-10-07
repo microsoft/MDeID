@@ -1,0 +1,44 @@
+"Nota do Médico Scratch:
+
+- Paciente Cauã Schmitz relatou um acidente de trânsito.
+- Visita ao hospital: bayezid
+- Sintomas notáveis: Otorreia direita, equimose bilateral nos olhos
+- 5 anos atrás instrumentação orto
+- GCS: 13/15
+- Avaliação ocular: Direita dilatada, esquerda regular reativa
+- Achados de TC: Pneumocefalia, Massa intra-axial frontal direita, Edema perilesional agressivo
+- Fraturas: Maxila, Mandíbula
+- TC pós-acidente: Massa intra-axial com componente cístico
+- Marcadores tumorais (PSA, proteína \u03b1-feto): Negativo
+- TC pós-operatório: Massa removida
+
+Diagnósticos:
+- Lesão cerebral traumática
+- Complicações: Pneumocefalia, Suspeita de glioma de alto grau - massa intra-axial frontal direita, Paralisia do sexto nervo direito, Atrofia óptica direita, Anosmia
+
+Diagnósticos Diferenciais:
+- Abscesso cerebral
+- Depósitos metastáticos (menos provável)
+
+Gerenciamento Inicial:
+- Medidas desidratantes 20227 0882
+- Antibióticos Burgess-Henderson
+- Antiepilépticos profiláticos Burgess-Henderson
+
+Intervenção Cirúrgica:
+- Craniotomia frontal direita (abordagem trans-cortical)
+- Excisão da massa bem-sucedida
+
+Cuidados Pós-operatórios:
+- Monitoramento de déficits neurológicos
+- Monitoramento de recuperação
+- Consultas de acompanhamento Mariana Rodrigues
+
+Autorizado Por: Dr. Mariana Rodrigues 
+Licença: IEEWqc-784 
+Contato: 694.549.9129 
+Email: rianes@unwomen.org 
+Endereço: Cauã Schmitz, Trevo Ana Lívia Rocha, 15 178, Dorask, São José da Coroa Grande - 99, 83IT0V8T, Brasil 
+ID do Paciente: 08-fXDfhBQ
+"
+

@@ -1,0 +1,45 @@
+"```
+Verpleegkundige Kras Notitie: 
+===================
+Patiënt: Sanne van der Heijden
+MRN: Op-409809a
+
+    Vitaliteit & Observaties:
+    ----------------------
+    BP: 110/70 
+    Pols: 80 bpm 
+    Temp: 98.6 \u00b0F 
+    RR: 16 bpm 
+    O2: 100% op RA 
+    Gewicht: 70 Kg 
+    Lengte: 170 cm
+
+    Medisch:
+    --------
+    Diagnoses: Geelzucht, oorzaak lopend onderzoek
+    Medicatie: Wacht op doktersorders Wout Maes
+    Lab: Leverfunctietests besteld, wacht op resultaten 0591 8214x
+
+    Opmerkingen: Patiënt presenteert met geelzucht. Geen koorts. Geen borstpijn. 
+
+Contact Informatie:
+--------------------
+Telefoon: 6529130774
+Adres: Sanne van der Heijden, Heathbrd 92, 8522 Abiotrophic, België
+Noodcontact: Sandenen
+
+Aanvullende Informatie:
+----------------------
+Zorgplan: HPCtZTBs5TDC
+Toegelaten vanuit: restaurant
+IP Adres: 191.20.164.129
+Beroep: Tourmanager
+Organisatie: Johnson-Elliott
+Voertuig: EAL 135
+SSN: 600389228
+Licentie: 9749-jMzZC
+Biometrie: 197 RuANyO
+
+```
+"
+

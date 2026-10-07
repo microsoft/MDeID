@@ -1,0 +1,74 @@
+"Nota de Enfermería:
+
+--------------
+9/9/14 
+--------------
+Pt: Emma Campos
+--------------
+- CC: \"dolor de estómago, sensación de fiebre\"
+- Temp: 38.8\u00b0C
+- BP: 130/85 mmHg
+- Pulso: 92 pm
+
+Observaciones:
+- Parece incómoda, sigue sosteniendo el estómago
+- La piel se siente caliente al tacto
+- No tiene alergias conocidas
+
+-------------
+Medicamentos actuales:
+-------------
+- 
+- 
+
+-----------------
+Resultados de pruebas:
+-----------------
+- 
+- 
+
+Posible Dx: Tifoidea
+
+----------------------
+Plan de tratamiento:
+----------------------
+- 
+- 
+
+-----------------
+Contacto:
+-----------------
+- Mahfuz Mia: Dr. Mahfuz Mia
+- 608.686.0807: 608.686.0807
+- Email: uia@icloud.com
+- Fax: +1-657-893-5698
+
+----------------
+Otra PHI:
+----------------
+- Fecha de admisión: 9/9/14
+- Fecha de alta: 9/9/14
+- MRN: 411 wqQizX
+- Plan de salud: yoR
+- Org.: Craig Group
+- Prof.: Enfermera, salud mental
+- Ubicación: universidad
+- Dirección IP: 155.103.242.76
+- SSN: 47315795Z
+- Número de cuenta: 4791 539LP
+- Número de dispositivo: DzG 17XwFA
+- Nombre de usuario: Emmmpo
+- Vehículo: 5NE V21
+- Licencia: 14804 fqFN
+- ID biométrico: 439-376OmN
+- Número de ID: 4791 539LP
+- Ciudad: Tejupilco
+- Estado: 642
+- País: España
+- Código postal: 89480
+- URL: soto.biz
+
+---------------
+Fin de la nota
+---------------"
+

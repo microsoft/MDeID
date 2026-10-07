@@ -1,0 +1,66 @@
+
+
+#Chief Complaint and Reason for Visit Section
+
+Benjamin Barrett presents with symptoms indicative of neutropenia. Also complaining of transaminitis, splenomegaly, nocturnal perspiration and lack of fever. The reason for this visit is a recent escalation in symptom frequency and intensity.
+
+#History of Present Illness Section
+
+Over the past 3 months, Benjamin Barrett has reported progressive symptoms, which currently appear to be peaking in severity. The symptoms have been persistent and consistent in their presentation.
+
+#Vital Signs Section
+
+Upon examination, vitals are as follows: Blood Pressure: 120/80, Pulse: 98, Temperature: 98.6F, Respirations: 20, O2 Saturation: 96% on room air.
+
+#Review of Systems Section
+
+Multiple organ systems reviewed. Most notable are hepatobiliary symptoms, typical of transaminitis and splenomegaly. Negligible fever, but persistent nocturnal perspiration observed. 
+
+#Past Medical History
+
+Benjamin Barrett has a past medical record of neutropenia. The symptoms have been ongoing and have stacked over time.
+
+#Medications Section
+
+Benjamin Barrett is currently on a regimen of granulocyte colony-stimulating factor to manage neutropenia. 
+
+#Physical Exam Section
+
+General exam: Benjamin Barrett is alert and oriented, in no apparent distress. Abdomen is tender in the left upper quadrant. No rash, jaundice, or other visible abnormalities. 
+
+#Assessment and Plan Section
+
+Given the presenting symptoms and the patient's history of neutropenia, a series of diagnostic tests including complete blood count, liver function tests and abdominal ultrasound will be ordered. A consultation with Declan Whiteis also advised to discuss potential changes to the current treatment plan. 
+
+#Allergies And Intolerances Section
+
+No known allergies or intolerances at present.
+
+#Social History Section
+
+Benjamin Barrett is a non-smoker, drinks occasionally. No known illicit drug use.
+
+#Family History Section
+
+No significant history of similar issues in the family per Benjamin Barrett's report.
+
+#Instructions Section
+
+Benjamin Barrett should continue taking the prescribed medication until further notice. Monitor symptoms and report any changes or worsening of symptoms.
+
+#Problem Section
+
+Chronic neutropenia with persistent symptoms. 
+
+#Procedures Section
+
+Abdominal ultrasound and blood tests will be scheduled for 9/19/85.
+
+#Additional Sections
+
+No advance directives or other instructions are available at this time. 
+
+End of H&P Note. Patient files marked under UhC-02pSZM sealed. 
+
+[Note prepared by Declan White]
+

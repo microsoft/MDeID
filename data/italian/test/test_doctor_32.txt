@@ -1,0 +1,41 @@
+"Dr. Julia Wyss Nota Rapida
+
+Valerio Piras, 36, F, Caso noto di oligoastrocitoma anaplastico. In terapia (radioterapia e temozolomide)
+
+S:
+Si è presentato con tosse, palpitazioni recentemente. 
+
+O:
+BP: 
+HR: 
+Temp: 
+SpO2: , cannula O2 da 2 L/min
+
+ECG: Tachicardia sinusale, pattern SIQIII TIII, T negativa in V1\u20133
+
+Ecocardiogramma: Ventricolo destro disteso, forma D (+), rigurgito valvolare tricuspidale moderato, ipertensione polmonare moderata-severa (gradiente di pressione massimo - )
+
+Radiografia del torace: Arterie polmonari distese, infiltrato polmonare interstiziale
+
+TC torace: Nessun trombo, opacità nodulare, pattern albero-in-bocciolo
+TC addominale: Parete gastrica leggermente distesa, linfadenopatie
+
+Lab: 
+Piastrine: 
+APTT: 
+PT-INR: 
+Fibrinogeno: 
+D-dimero: 
+WBC: 
+CRP: 
+\u03b2d-glucano: 
+
+A:
+Pneumonia interstiziale indotta da temozolomide, DIC, Insufficienza cardiaca destra. Esclusa EP (TC)
+
+P:
+Ricovero, Terapia con steroidi a impulsi (Methylprednisolone 1 g/d), Trombomodulina ricombinante, Infusione continua di eparina. Monitoraggio stretto dello stato cardiaco e polmonare.
+
+Julia Wyss
+Jones, Hines and Evans"
+

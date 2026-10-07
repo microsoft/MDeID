@@ -1,0 +1,20 @@
+"Rapport de soins au patient
+
+Le 14 févr. 2009, l'unité EMS de Ross-Alexander a été dépêchée suite à un appel au 911 signalant un patient ayant de la fièvre et des maux de tête. L'unité est arrivée à l'endroit hôpital indiqué par l'appelant et a trouvé le patient Marcel Meyer en détresse modérée.
+
+À l'arrivée, le patient Marcel Meyer a signalé qu'il se sentait mal depuis quelques jours, avec des symptômes comprenant une forte fièvre (55 selon le thermomètre qu'ils avaient utilisé à la maison), et un mal de tête persistant. Le patient Marcel Meyer a également mentionné une faiblesse et une perte d'appétit. Nous avons noté son numéro de compte dglhDE 916 pour tenir des registres.
+
+Une évaluation initiale a montré que le patient Marcel Meyer était conscient mais visiblement fatigué. Les signes vitaux du patient ont été pris avec l'appareil 19-90258lA et surveillés tout au long des soins. L'identifiant Bio du patient PUO-deBXSb a été identifié dans nos dossiers, qui ont révélé des antécédents médicaux de migraines occasionnelles et une allergie connue à la pénicilline, mais aucune condition grave.
+
+Le patient Marcel Meyer a été placé sur une civière et a été transporté à Devon sides pour un examen et un traitement plus approfondis. Le transport a été effectué par un conducteur expert  dans des conditions d'urgence. En route vers l'hôpital, Marcel Meyer a reçu un traitement de soutien basé sur le diagnostic primaire fait par le médecin EMS en service Camille Lévesque.
+
+À l'arrivée à l'hôpital, les soins du patient ont été transférés au service des urgences. Le numéro de dossier médical du patient 0681 98441 a été fourni à l'infirmière d'admission. L'ID du patient dglhDE 916 et tous ses effets personnels ont été remis au personnel de l'hôpital.
+
+Les contacts d'urgence du patient ont été informés de la situation. Ils pourraient atteindre l'hôpital en suivant l'URL https://www.trujillo-lopez.org/categorieslogin.php fournie par l'hôpital pour les directions. Toute communication a été facilitée via l'email enregistré du patient lLévesq@who.int et le numéro de téléphone 275-301-5630. Le plan de santé du patient UhIn a été informé pour le traitement nécessaire.
+
+Toutes les observations et les traitements fournis ont été enregistrés de manière approfondie dans le système contre le profil du patient. Le rapport a été ensuite mis à jour par le médecin EMS Camille Lévesque pour référence et suivi. Le consentement du patient a été obtenu numériquement pour tous les traitements fournis et pour la collecte des informations de santé personnelles (PHI) y compris son numéro de sécurité sociale 123-223-542.
+
+Le patient Marcel Meyer a été informé de l'utilisation de ces informations pour la prestation de soins et a reçu des informations sur les politiques HIPAA de l'hôpital. La documentation a été signée et soumise numériquement à partir de notre système, tandis que les documents physiques ont été envoyés à l'hôpital par fax +1-400-442-5934x50606.
+
+L'ensemble de l'événement a été signalé à notre organisation Ross-Alexander et un rapport d'incident détaillé a été soumis. Ce rapport, portant le numéro de référence dglhDE 916, sera examiné et analysé pour assurer le contrôle de la qualité et l'amélioration continue de notre réponse médicale d'urgence."
+

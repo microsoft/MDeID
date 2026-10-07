@@ -1,0 +1,40 @@
+# Résumé de sortie
+
+Patient : Macie GagnonDocteur : Maxime GilletDossier médical : Cp fPDDsaB  
+Date d'admission : 10 juin 2011  
+Date de sortie : 10 juin 2011  
+Disposition de sortie : Maison
+
+## Raison de l'hospitalisation :
+Le patient Macie Gagnona été admis en raison de symptômes suggérant une endocardite. Cela comprenait des douleurs pleurétiques, un épaississement, des myalgies et un état apyrétique.
+
+## Cours de l'hôpital :
+Le patient a subi des procédures diagnostiques complètes et des soins de soutien. Un traitement antibiotique a été initié sur la base du diagnostic suspecté d'endocardite.
+
+## Procédures effectuées :
+1. Cultures de sang
+2. Échocardiogramme transthoracique
+
+## Soins, traitement et services fournis :
+Pendant le séjour à l'hôpital, le patient a été pris en charge avec des antibiotiques intraveineux, la gestion de la douleur et des soins de soutien. L'état du patient s'est progressivement amélioré.
+
+## Diagnostic de sortie :
+L'amélioration clinique a soutenu le diagnostic d'endocardite.
+
+## Informations fournies au patient et à la famille :
+Le patient et la famille ont été informés des complications potentielles qui pourraient survenir après la sortie et des signes qui nécessiteraient une attention médicale immédiate.
+
+## Dispositions pour les soins de suivi :
+Le patient doit suivre un rendez-vous avec Maxime Gilletà Lê le 10 juin 2011. Le suivi visera à surveiller les progrès du patient et à évaluer l'efficacité du traitement.
+
+## Médicaments à la sortie :
+1. Antibiotiques - Continuer selon la prescription
+2. Médicament contre la douleur - Au besoin
+
+## Antécédents familiaux :
+Aucun antécédent connu d'endocardite dans la famille.
+
+## Instructions de sortie de l'hôpital :
+À la sortie, le patient est invité à continuer à prendre les médicaments prescrits, à maintenir de bonnes pratiques d'hygiène et à signaler immédiatement tout nouveau symptôme ou toute aggravation des symptômes.
+
+**Veuillez noter que c'est un document synthétique et tous les détails sont des placeholders. Pour toute divergence, veuillez vous référer au dossier médical original.**

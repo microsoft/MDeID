@@ -1,0 +1,38 @@
+"Rapport de soins au patient
+
+[DISPATCH]: Le dispatch Mcneil, Black et Wilson a reçu un appel 911 d'un résident local Julia Robert. L'unité OXZ 085 a répondu à l'appel de dispatch.
+
+[RESPONSE]: À notre arrivée sur les lieux arrêt de bus, nous avons été accueillis par le patient Julia Robert se plaignant d'une éruption cutanée sévère. Le patient Julia Robert était dans un état de détresse modéré.
+
+[HISTORY OF PRESENT ILLNESS]: Le patient Julia Robert a expliqué que l'éruption avait commencé il y a plusieurs jours. Les symptômes se sont progressivement aggravés et sont maintenant accompagnés d'une fièvre modérée. Le patient Julia Robert a déclaré que l'éruption était très sévère et démangeait, ce qui a conduit à la décision d'appeler le 911. Les antécédents médicaux ont été obtenus auprès du patient Julia Robert. Le patient Julia Robert n'a pu fournir aucune allergie connue.
+
+[ASSESSMENT - PRIMARY]: Le patient Julia Robert était conscient et alerte. L'examen de la peau a révélé une éruption cutanée généralisée, des cloques et des taches rouges, compatibles avec une éventuelle varicelle. Les signes vitaux du patient Julia Robert ont été pris et documentés comme suit : (ces signes vitaux ne devraient indiquer aucune condition critique mais peuvent montrer une légère élévation de la température).
+
+[ASSESSMENT - SECONDARY]: À l'examen plus approfondi, il était évident que l'éruption était répartie sur tout le corps. Les démangeaisons étaient apparentes et le patient Julia Robert semblait mal à l'aise en raison d'une fièvre persistante.
+
+[TREATMENT]: Le patient Julia Robert a été traité sur place avec un médicament antipyrétique approprié 87228 5791 pour soulager la fièvre. Il a également été conseillé au patient Julia Robert de ne pas gratter l'éruption pour prévenir toute infection cutanée secondaire.
+
+[TRANSPORT]: Le patient Julia Robert a ensuite été transporté à l'hôpital St. Gervais sans délai pour une évaluation et un traitement plus approfondis. En raison de la nature contagieuse de la condition suspectée, les précautions nécessaires ont été prises pendant le transport.
+
+[OVERVIEW]: À l'arrivée à l'hôpital St. Gervais, les soins du patient Julia Robert ont été transférés au médecin du service des urgences Jana Wuyts. Le rapport médical a été remis au médecin traitant Jana Wuyts et le patient Julia Robert a été admis à l'hôpital St. Gervais pour un traitement plus approfondi.
+
+[DOCUMENTATION]: Le patient Julia Robert a signé un formulaire de consentement pour le traitement d'urgence. Ce rapport a été préparé par le technicien médical d'urgence en service.
+
+[NOM]: uliabe
+[EMAIL]: uyta@gmail.com
+[DOB]: samedi 25 février 2017
+[PHONE]: 844-965-1834x2669
+[SEX]: 219 785SGq
+[SSN]: 181-2871007-30
+[ADDRESS]: Julia Robert, 52238 Eva Square Suite 467 131, 9848 Allos, Suisse
+[CITY]: Montignac
+[ZIP]: 9848
+[STATE]: 85
+[COUNTRY]: Canada
+[ACCOUNT]: 37730-2181
+[IDNUM]: 37730-2181
+[IPADDRESS]: 126.96.197.67
+[LICENSE]: 12-35CSjku
+[URL]: sloan-lowery.miller.rodriguez-davis.net
+[FAX]: 001-634-546-7386x26583"
+

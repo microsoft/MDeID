@@ -1,0 +1,54 @@
+"NOTE DE SOINS INFIRMIERS #211013-Pzw
+
+Patient : Brent Pieters
+Professionnel de santé : Olivier Van Den Broeck
+
+-----------
+PLAINTES PRINCIPALES :
+Éruption cutanée - démangeaisons, irritation.
+
+-----------
+SIGNES VITAUX :
+TA : 120/80
+FC : 75 bpm
+FR : 16 bpm
+Temp : 98.6 F
+SpO2 : 98%
+
+-----------
+OBSERVATIONS :
+- Peau : Érythème et desquamation notés. 
+- Étendue : Éruption diffuse, majoritairement sur les bras et le torse.
+- Prurit présent, intensité 7/10.
+  
+-----------
+ÉVALUATIONS :
+- Patient de 53 ans, possible Psoriasis. 
+- Consultation en dermatologie conseillée.
+
+-----------
+PLAN :
+- Commencer les corticostéroïdes topiques.
+- Surveiller la réaction cutanée quotidiennement.
+- Encourager l'hydratation et le maintien de la peau humide.
+
+-----------
+INFORMATIONS SUPPLÉMENTAIRES :
+- Nom d'utilisateur pour le portail patient : 4gr449k0
+- Identifiant de l'appareil pour l'application e-Santé : 053069-KLa
+- Numéro d'identification du patient : 471950 yLq
+
+-----------
+INFORMATIONS DE CONTACT :
+- Téléphone : 407-690-0104x073
+- Adresse : Brent Pieters, 33 5961 chemin André, 5378 Ternand, France
+- Email : ceOlivian@red-cross.org
+
+-----------
+SIGNÉ : 
+Infirmière 4gr449k0, à Christiaan
+  
+NOTE : Veuillez vous référer au dossier médical électronique pour une documentation complète. 
+
+(Le numéro de dossier médical du patient 211013-Pzw, le numéro de compte 471950 yLq, le numéro de sécurité sociale 304-302-864, l'adresse IP 143.153.97.119, et les informations sur le véhicule O00 2XF sont stockés en toute sécurité dans notre système.)"
+

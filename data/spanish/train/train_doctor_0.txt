@@ -1,0 +1,39 @@
+"Nota del Dr. Scratch
+
+Ahmad Gul - 36
+Sofía Rojas - Pediatra
+
+Síntomas:
+- Retrasos en el habla y el desarrollo (leves a moderados)
+- Diagnóstico de TDAH
+- Sin hipotonía
+
+Observaciones físicas:
+- Retrognatia
+- Hipertelorismo leve
+- Philtrum alargado
+- Labio superior delgado
+- Manos anchas y cortas
+- Sindactilia leve (2º, 3º dedos en ambos pies)
+- Hueco de sandalia (ambos pies)
+
+Investigaciones:
+- RM (cerebro): Normal 452438 JBA
+- WES: variante de novo de desplazamiento de marco Chr1(GRCh37):g.244217335del, NM_205768.2(ZBTB18):c.259del(p.(Leu87Cysfs*21)) 12353-9976
+
+Diagnóstico:
+- Trastorno genético (variante ZBTB18) - contribuyendo a retrasos en el habla/desarrollo, TDAH
+- Síndrome sospechado (requiere más correlación)
+
+Plan:
+- Terapeuta de habla y lenguaje: Sesiones regulares Sharp-Martin
+- Terapeuta ocupacional: Sesiones regulares Sharp-Martin
+- Psicólogo: Sesiones regulares Sharp-Martin
+- Chequeos médicos: Regulares Detroit House of
+- Asesoramiento genético: Familia Ingeniero, transmisiones (operaciones)
+
+Nota: La madre de Ahmad Gul informó los síntomas. No hay evidencia de problemas de tono muscular. Los hallazgos genéticos sugieren un síndrome específico, necesidad de más correlación con los hallazgos clínicos y asesoramiento genético. 
+
+Firma de Sofía Rojas: _____________________
+Fecha: 16/6/00"
+

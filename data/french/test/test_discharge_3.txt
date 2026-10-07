@@ -1,0 +1,34 @@
+--------------------------------------RÉSUMÉ DE SORTIE--------------------------------------
+
+**[PATIENT]**Lucie David, **[NUMÉRO DE DOSSIER MÉDICAL]** GaxB-83IxJ, **[MÉDECIN TRAITANT]** Robin Marie**Raison principale de l'hospitalisation :** Diagnostic d'ostéomyélite
+
+**Section Allergies et Intolérances :** Aucune allergie ou intolérance connue.
+
+**Section Évolution à l'hôpital :** Pendant l'hospitalisation, le patient a ressenti une douleur modérée à sévère, une rougeur aux sites locaux, une sensibilité de la prostate, une fièvre récurrente et des difficultés à uriner - des tests diagnostiques supplémentaires ont confirmé la présence d'ostéomyélite. Un traitement immédiat a été initié pour gérer les symptômes et prévenir une progression ultérieure de la maladie.
+
+**Section Procédures :** Réalisation d'une IRM pour évaluation et confirmation de l'ostéomyélite. 
+
+**Section Résultats :** Les résultats de l'IRM ont montré des signes d'infection dans les os indicatifs d'ostéomyélite. 
+
+**Diagnostic de sortie :** Ostéomyélite
+
+**Médicaments à la sortie :** Prescription d'antibiotiques et de médicaments pour la gestion de la douleur. Toutes les informations et instructions nécessaires concernant les médicaments ont été expliquées et remises au patient. 
+
+**Section Plan de traitement :** Après la sortie, le patient continuera le traitement antibiotique pendant quatre semaines supplémentaires et aura des rendez-vous de suivi réguliers au service ambulatoire de l'hôpital.
+
+**Section Consultations à l'hôpital :** Consultation avec une équipe de spécialistes des maladies infectieuses pendant l'hospitalisation pour des conseils sur la gestion de l'ostéomyélite.
+
+**Dispositions pour les soins de suivi :** Les soins de suivi ont été organisés au service ambulatoire avec Robin Marie. 
+
+**Informations fournies au patient et à la famille :** Un conseil approfondi a été fourni concernant la gestion de la maladie, les complications potentielles, l'adhésion aux médicaments, l'importance des suivis et les modifications du mode de vie.
+
+**Section Instructions de sortie de l'hôpital :** Il est conseillé au patient de terminer le traitement antibiotique sans faute, de se reposer, de maintenir une hydratation et d'éviter le stress. De plus, toute aggravation des symptômes ou effets secondaires des médicaments doit être signalée immédiatement. 
+
+**Disposition de sortie :** L'état du patient s'est nettement amélioré au moment de la sortie et il est en sécurité pour continuer sa convalescence à domicile.
+
+**Antécédents médicaux :** Pas significatif pour les maladies chroniques. C'était le premier cas d'une infection grave.
+
+**Section Histoire sociale :** Aucun antécédent de tabagisme ou d'abus d'alcool. Activité physique régulière et alimentation équilibrée.
+
+--------------------------FIN DU DOCUMENT---------------------------
+

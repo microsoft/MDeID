@@ -1,0 +1,41 @@
+"**En-tête :**
+ID du patient : Fritz Roth
+Date de naissance : 11/08/2010
+Date d'admission : 11/08/2010
+Numéro de dossier médical : 07797-2170
+Numéro de compte : AayR-62890
+Numéro de série de l'appareil : 258 fHHkrB
+Nom d'utilisateur pour le portail patient : vaBGpDAM
+Identifiant du véhicule : 2N YB859
+Numéro de sécurité sociale : 454-8949855-55
+Numéro de licence : WExA-ANGEX
+Identifiant biométrique : 54949-Omjf
+Adresse IP : 15.135.36.156
+Identifiant unique : AayR-62890
+
+**Note narrative de soins infirmiers :**
+
+Le patient, âgé de 72 ans, avec des antécédents de tachycardie ventriculaire (TV) idiopathique symptomatique soutenue, a été implanté d'un défibrillateur cardioverteur implantable (DCI) à double chambre le 11/08/2010 pour une prévention secondaire. Depuis le 11/08/2010, le patient a connu plusieurs décharges de DCI et récidives de TV malgré trois procédures d'ablation par cathéter le 11/08/2010, qui ont été réalisées sans capteur de force de contact (CF) et en utilisant une approche rétrograde transaortique. Le patient rapporte jusqu'à 97 chocs appropriés de DCI depuis l'implantation et a eu des épisodes de tempêtes arythmiques.
+
+Le dernier ECG à 12 dérivations enregistré du patient montrait un rythme sinusal avec des contractions ventriculaires prématurées provenant du mid-inféroseptum du ventricule gauche. L'échocardiographie transthoracique a indiqué une fonction systolique biventriculaire normale et une régurgitation mitrale légère à modérée. Les paramètres d'ablation comprenaient une puissance RF à 50 W, une température maximale de 45°C, et un débit d'irrigation à 15 mL/min.
+
+Le diagnostic principal est une tachycardie ventriculaire idiopathique récurrente, le patient subissant de multiples chocs de DCI et des tempêtes arythmiques malgré les thérapies d'ablation précédentes et les médicaments antiarythmiques. Les diagnostics différentiels pourraient inclure d'autres formes d'arythmies ventriculaires ou une maladie cardiaque structurelle, bien que la fraction d'éjection préservée et l'origine spécifique de la TV suggèrent un processus arythmique focal.
+
+Le plan de gestion comprend une surveillance étroite des épisodes arythmiques du patient et de la fonction du DCI. Des ajustements des médicaments antiarythmiques seront envisagés, et d'autres procédures d'ablation pourraient être nécessaires si la TV persiste. Le patient sera éduqué sur la reconnaissance des symptômes des événements arythmiques et l'importance des visites de suivi régulières pour évaluer la fonction de l'appareil et l'efficacité du traitement.
+
+**Pied de page :**
+
+Adresse : Fritz Roth, 195 7785 avenue Isabelle Apt. 766, 3951 Marly La Ville, France
+Hôpital : Wolfert
+Informations supplémentaires sur le lieu : banc
+Plan de santé : atlJSFX
+Profession : Ingénieur, énergie
+Organisation : Lopez, Brown and Lawson
+Prochain rendez-vous prévu : 11/08/2010
+Médecin traitant : Anouk Hermans
+Email : oukrma@msf.org
+Contact d'urgence : Fritz Roth
+Numéro de téléphone : (880)208-6604
+Numéro de fax : 7527529623
+Site web : http://garza.com/tagauthor.html"
+

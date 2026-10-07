@@ -1,0 +1,63 @@
+"Note Narrative de l'Infirmière:
+
+Subjectif: 
+Le patient Declan Gauthier signale des épisodes intermittents de troubles visuels à l'œil gauche, décrits comme un flou et une sensation de mouvement vertical. Ces épisodes se produisent quelques fois par mois, chacun durant environ 20-30 minutes. Ces symptômes visuels sont accompagnés de maux de tête sévères du côté gauche et d'une sensibilité à la lumière, qui apparaissent presque immédiatement après le début des troubles visuels. Le patient note également un flou visuel similaire lorsqu'il est exposé à la lumière du soleil, qui se résout rapidement lorsqu'il ferme les yeux. Les antécédents médicaux du patient comprennent une hypertension non traitée, le tabagisme et une consommation d'alcool significative. De plus, il y a des antécédents familiaux de maladie de Parkinson, de cancer oropharyngé suspecté et de mutation AGS liée à diverses manifestations cardiovasculaires et neurologiques.
+
+Objectif: 
+À l'examen, le patient a été trouvé avec une haute pression sanguine, avec une lecture de 168/98 mmHg. D'autres résultats comprenaient une décoloration de la peau en un motif en filet (livedo reticularis), un menton légèrement pointu, une régurgitation aortique et une sensibilité abdominale diffuse. L'abdomen du patient ne montrait pas de signes de garde, de rigidité ou de bruits audibles. Les symptômes précédents de désorientation, de conscience altérée et de tremblements étaient liés à des crises focales avec conscience altérée.
+
+Évaluation: 
+L'évaluation primaire indique que les attaques ischémiques transitoires monoculaires gauches (AIT) du patient pourraient être liées à une rétinopathie à faible débit, compte tenu des symptômes visuels et de la résolution rapide lors de la fermeture des yeux. Les diagnostics différentiels comprennent les crises focales avec conscience altérée et les épisodes de type migraine sans caractéristiques typiques de la migraine. Les antécédents familiaux et personnels du patient suggèrent une prédisposition génétique aux conditions vasculaires et neurologiques, potentiellement liée à la mutation AGS.
+
+Plan: 
+Le plan de gestion se concentrera sur le contrôle de l'hypertension par des ajustements de médicaments appropriés et des modifications du mode de vie, y compris l'arrêt du tabac et la réduction de la consommation d'alcool. Des références à un neurologue pour une évaluation plus approfondie de l'activité des crises et à un généticien pour une évaluation des implications liées à la mutation AGS sont recommandées. Des suivis réguliers seront nécessaires pour surveiller la pression sanguine du patient et l'efficacité du plan de traitement. Une éducation du patient concernant les signes et symptômes des AIT et l'importance des changements de mode de vie sera fournie.
+
+[En-tête]
+ID du patient: fsm 44075y
+Docteur: Cloé Olivier
+Infirmière: RRGaIWRp
+Date: 2 août 1980
+Lieu: bibliothèque
+
+[Pied de page]
+Informations de contact:
+Numéro de téléphone: 229.361.9455x4815
+Email: vieré@red-cross.org
+
+Informations de contact d'urgence:
+Nom: Declan Gauthier
+Relation: Dentiste
+Numéro de téléphone: 229.361.9455x4815
+
+Informations de compte:
+Numéro de compte: bmjmma-61u
+Plan de santé: yTulc4W56 eY5GV
+
+Informations sur l'appareil du patient:
+ID de l'appareil: 2479 73RIP
+
+Informations réseau:
+Adresse IP: 141.27.43.127
+
+Informations sur le véhicule:
+ID du véhicule: 0JH 450
+
+Numéro de sécurité sociale: 4 90 18 20 633 631
+Numéro de licence: 875-3875cL
+Identifiant biométrique: XDt 078586
+Numéro d'identification personnel: bmjmma-61u
+Numéro de fax: (569)968-2541x957
+
+Adresse du patient:
+Adresse: Declan Gauthier, 172 53588 Staquet Centers, 1223 Sainte Marie, France
+Ville: Donnemarie Dontilly
+État: Haute-Savoie
+Pays: France
+Code postal: 1223
+
+Informations sur l'hôpital:
+Nom de l'hôpital: Hollywood MGM
+Organisation: Landry-Jones
+
+URL: vega-castillo.com"
+

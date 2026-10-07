@@ -1,0 +1,41 @@
+"Note de Dr. Inès Lemaire
+
+Lies Bertrand, 15, F, Cas connu d'oligoastrocytome anaplasique. Sous traitement (radiothérapie et temozolomide)
+
+S:
+Présentation avec toux, palpitations récemment. 
+
+O:
+TA: 
+FC: 
+Temp: 
+SpO2: , 2 L/min O2 canule
+
+ECG: Tachycardie sinusale, motif SIQIII TIII, T négatif en V1\u20133
+
+Échocardiogramme: Ventricule droit distendu, forme en D (+), régurgitation modérée de la valve tricuspide, hypertension pulmonaire modérée à sévère (gradient de pression max - )
+
+Radiographie thoracique: Artères pulmonaires distendues, infiltrat pulmonaire interstitiel
+
+TDM thoracique: Pas de thrombus, opacités nodulaires, motif en arbre en bourgeon
+TDM abdominale: Paroi gastrique légèrement distendue, adénopathies
+
+Lab: 
+Plaquettes: 
+TCA: 
+TP-INR: 
+Fibrinogène: 
+D-dimère: 
+GB: 
+CRP: 
+\u03b2d-glucan: 
+
+A:
+Pneumonie interstitielle induite par le temozolomide, CIVD, Insuffisance cardiaque droite. Exclusion de l'EP (TDM)
+
+P:
+Admission, Thérapie par pouls stéroïdien (Méthylprednisolone 1 g/j), Thrombomoduline recombinante, Infusion continue d'héparine. Surveillance étroite de l'état cardiaque et pulmonaire.
+
+Inès Lemaire
+Alexander and Sons"
+

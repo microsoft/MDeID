@@ -1,0 +1,15 @@
+T1	HOSPITAL 61 83	Missouri Supreme Court
+T2	DATE 85 97	24 okt. 1979
+T3	PATIENT 99 115	Laurens Molenaar
+T4	PATIENT 168 184	Laurens Molenaar
+T5	PATIENT 684 700	Laurens Molenaar
+T6	PATIENT 1034 1050	Laurens Molenaar
+T7	PATIENT 1231 1247	Laurens Molenaar
+T8	PATIENT 1521 1537	Laurens Molenaar
+T9	DOCTOR 1604 1617	Louise Segers
+T10	PATIENT 1915 1931	Laurens Molenaar
+T11	PATIENT 1985 2001	Laurens Molenaar
+T12	PATIENT 2264 2280	Laurens Molenaar
+T13	PATIENT 2428 2444	Laurens Molenaar
+T14	MEDICALRECORD 2445 2455	509-rtBHlF
+T15	DOCTOR 2584 2597	Louise Segers

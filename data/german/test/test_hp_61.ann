@@ -1,0 +1,14 @@
+T1	PATIENT 55 70	Xaver Schneider
+T2	PATIENT 878 893	Xaver Schneider
+T3	PATIENT 1336 1351	Xaver Schneider
+T4	PATIENT 1675 1690	Xaver Schneider
+T5	PATIENT 1790 1805	Xaver Schneider
+T6	PATIENT 2199 2214	Xaver Schneider
+T7	PROFESSION 2223 2241	Software-Ingenieur
+T8	PROFESSION 2246 2277	Englischlehrer als Zweitsprache
+T9	PATIENT 2662 2677	Xaver Schneider
+T10	PATIENT 2792 2807	Xaver Schneider
+T11	DOCTOR 3188 3202	Robin Hartmann
+T12	PATIENT 3345 3360	Xaver Schneider
+T13	MEDICALRECORD 3373 3383	28 UlNORQf
+T14	DOCTOR 3419 3433	Robin Hartmann

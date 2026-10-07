@@ -1,0 +1,31 @@
+"Note de Docteur Scratch
+
+Victoria Patel 
+115139 555
+37 
+
+Diagnostic : 
+Lupus érythémateux systémique (LES) confirmé il y a 3 ans
+Signes notables : Anomalies cutanées, alopécie, +ANA
+Cause d'admission : néphrite lupique - protéinurie de gamme néphrotique, hématurie dysmorphique, +Coombs direct 
+Hospitalisation récente : Fièvre, désorientation, hallucinations (résolues après traitement)
+
+Observations:
+Tests précédents : +anti-Sm, +anti-dsDNA, complément consommé
+Traitements antérieurs : Corticostéroïdes endoveineux, cyclophosphamide pour néphrite lupique
+Dernier séjour à l'hôpital : Antibiotiques empiriques, dépistage CMV : +faible antigénémie pp65
+
+Évaluation:
+Diagnostic principal : LES avec complications (néphrite lupique, épisode récent probablement dû à une infection à CMV)
+Diagnostic différentiel : Autres causes de symptômes du SNC (résolues avec le traitement présumé de l'infection)
+
+Plan:
+Surveiller régulièrement le LES, la néphrite lupique, suivis par Alina Schneider pour ajustement du traitement.
+Encouragement à signaler rapidement les symptômes.
+Le traitement du CMV n'est pas nécessaire actuellement, surveiller les éventuelles poussées ou complications.
+Éducation supplémentaire sur la gestion des symptômes et l'adhésion au traitement lors des suivis.  
+
+Alina Schneider
+chAlina@zoho.com
+284-486-3575"
+

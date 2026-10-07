@@ -1,0 +1,60 @@
+"#Pflegekratznotiz 
+
+--- Patientendetails ---
+Name: Eva Mayr
+Alter: 42
+SSN: 413-8088535-75
+Medizinische Akte: 851084-322
+Kontonummer: cBYuwC syF
+Beruf: Rechtsexekutive
+Organisation: White, Bradley und Bowman
+Gesundheitsplan: 98C
+
+--- Kontaktinformationen ---
+Adresse: Eva Mayr, Häringstraße 9/6 6, 6579 Bad Endbach, Deutschland
+Telefon: 388-950-4819
+Email: berine@who.int
+
+--- Diagnostische Geräte ---
+Gerätenummer: QjmV-njBUc
+
+--- Ärztliche Informationen ---
+Behandelnder Arzt: Janine Gruber
+Lizenz: EycNJ 46Ce
+
+--- IP-Info ---
+IP-Adresse: 188.56.153.0
+
+--- Netzwerk-Handle ---
+Benutzername: xiQqGUSp
+
+--- Fahrzeuginformationen ---
+Kennzeichen: 4QN A43
+
+--- Biometrische ID ---
+BioID: 70 409wpkt
+
+--- Aktueller Zustand ---
+Schwierigkeiten beim Schlucken von Nahrung, periodisches Sodbrennen und Verdauungsstörungen, Potenzial für Drobollach am Faakersee-Sachsen Anhalt Peptic Ulcer Disease.
+
+--- Vitalzeichen ---
+Blutdruck: 120/80 mmHg 
+Puls: 72 bpm 
+Körpertemperatur: 98.7\u00b0F
+Atemfrequenz: 16 Atemzüge pro Minute
+
+--- Weitere relevante Informationen ---
+Patient arbeitet für eine White, Bradley und Bowman, weitere stressbedingte Faktoren müssen untersucht werden. Mögliche Rauch- und Alkoholgeschichte.
+
+--- Notfallkontakt ---
+Name: Eva Mayr 
+Beziehung: Familienmitglied
+Telefon: 388-950-4819
+
+--- Nachsorge ---
+Nächster Termin mit Dr. Janine Gruber am Samstag, 15. April 2023 im Bindusara 's court Park
+
+--- Zusätzliche Anmerkungen ---
+xiQqGUSp muss Symptome überwachen und Änderungen melden. Vermeiden Sie scharfe und schwer verdauliche Lebensmittel, nehmen Sie Medikamente wie von Dr. Janine Gruber verschrieben ein.
+"
+

@@ -1,0 +1,46 @@
+"Nursing Narrative Note for a Pediatric Patient with a Bochdalek Hernia
+
+Subjective:
+
+The patient, a 9 presented with a history of respiratory distress and retching lasting for an undisclosed number of days. The primary caregiver, Douglas Austin, reported that the child was struggling to breathe and appeared visibly distressed. 
+
+Objective: 
+
+Initial imaging using a nEvx-61175, revealed a left-sided tension pneumothorax with mediastinal shift. Suspicion arose for bowel loops in the left lower hemithorax. Upon admission, the patient exhibited severe dyspnea, an elevated temperature, and tachycardia. Immediate endotracheal intubation was performed. Further imaging using a thoracic CT scan confirmed left-sided enterothorax with mediastinal shift. A left-sided chest tube was inserted, draining fluid initially considered old blood. Diagnostic laparoscopy identified a left-sided Bochdalek hernia with herniation of the small intestine, spleen, and stomach into the chest and bile-stained fluid in the thorax and abdomen. A gastric perforation at the lesser curvature was discovered and addressed via conversion to laparotomy, where the perforation was closed and the diaphragmatic hernia repaired. Postoperatively, a retrovesical abscess was drained 30 days after surgery.
+
+Assessment: 
+
+Primary diagnosis is a left-sided Bochdalek hernia with complications including gastric perforation and subsequent retrovesical abscess. Differential diagnosis initially included diaphragmatic rupture. The prognosis is favorable with the patient currently asymptomatic after a Nov 11 2009 follow-up.
+
+Plan: 
+
+The patient underwent surgical repair of the gastric perforation and diaphragmatic hernia, followed by postoperative monitoring and treatment of a retrovesical abscess. Recovery included management of gastroparesis and extended hospital stay of 4 to 5 weeks. The patient will continue to be monitored regularly to assess any long-term complications or recurrence. Education was provided to the parents regarding signs of potential complications and the importance of regular follow-up visits.
+
+Patient Information:
+- Name: Douglas Austin
+- Age: 9
+- Medical Record Number: Fbclah 464
+- ID Number: PD VQcfGHE
+- Address: Douglas Austin, 159 Lepidotus, Rajpoot, Consperg 8186, New Zealand
+- Contact Number: 357.236.9458
+- Email: ngura@red-cross.org
+- Health Plan: r3Z
+
+Nurse Contact Information:
+- Name: Laura Sangster
+- License Number: 77-kocuyWV
+- Organization: Jenkins, Short and Bailey
+- Contact Number: 357.236.9458
+- Email: ngura@red-cross.org
+
+Emergency Contact:
+- Name: Douglas Austin
+- Relationship: Douglas Austin
+- Contact Number: 357.236.9458
+- Email: ngura@red-cross.org
+
+Footer: 
+- Document ID: PD VQcfGHE
+- Date: Nov 11 2009
+- IP Address: 182.192.36.187"
+

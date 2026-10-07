@@ -1,0 +1,59 @@
+"Verpleegkundige Kras Notitie
+
+**********Vitale Tekens & Medische Observaties**********
+
+BP: 155/98 mmHg
+HR: 101 bpm
+Temp: 38.1 C\u00b0
+Resp: 18 rpm
+O2 Sat: 95%
+GCS: 15
+
+**********Subjectieve & Objectieve Data**********
+
+- Pt Melissa De Wilde lijkt moe, meldt hoofdpijn en ongemak op de borst
+- 44 jaar oud, positieve familiegeschiedenis van vQr gedekte cardioziekten
+- Geen uitslag, kneuzingen of zichtbare verwondingen
+- Moeite met het hanteren van persoonlijke items eldssa
+
+**********Behandelingen & Interventies**********
+
+- Toegediend Aspirine 81mg PO
+- Toegediend Nitroglycerine 0.4mg SL
+- Toegediend Heparine 5000 eenheden SC
+- Comfortmaatregelen geboden, opnieuw gepositioneerd, diep ademhalen aangemoedigd
+
+**********Plan & Vervolg**********
+
+- Monitor vitale functies q4hr
+- Pt om ECG, röntgenfoto, Monitor apparaat 520-5248tM te ondergaan
+- Overleg met Dr. Diewertje Peters voor medicatie review
+- Plan voor stresstest als symptomen aanhouden
+
+************Patiëntinformatie************
+
+- Melissa De Wilde ID: 83 24OFUdm
+- Medisch dossier: SYR-IBrXZN
+- Patiënt bevindt zich (kamer): stadion
+- Toegelaten: Sociologically, 383 Ziekenhuis China Inland Mission Hall
+- Factureringsaccount: 83 24OFUdm, Verzekeraar: vQr
+
+************Contactinformatie************
+
+- Thuis van de patiënt: Melissa De Wilde, Pretraditional 117, 1798 Longshucks, Nederland
+- Email: ri@yahoo.com
+- Primaire telefoon: 732-731-3164x1256
+- Fax: 372.825.7862
+- Noodcontact: Melissa De Wilde relatie, Telefoon: 732-731-3164x1256
+
+************Overige Info************
+
+- Geraadpleegd Dr. Diewertje Peters van Garcia, Terry and Hill over de beste te volgen actie
+- Verwezen case study URL: stone.jenkins.thomas.com
+- Beroep van de patiënt: Interieur- en ruimtelijk ontwerper
+- Rijbewijs: PhlukL-838
+- Sociale zekerheid: 910955584
+- Voertuiginfo: Kleur, Merk, Nummer 765 GU9
+- Biometrische Data Hash: RYrQgr Mgb
+- IP Adres: 71.128.150.161"
+

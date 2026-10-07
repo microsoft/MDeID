@@ -1,0 +1,25 @@
+"Rapporto di Assistenza al Paziente: Caso di Malaria
+
+[DISPATCH]: L'unità di Servizi Medici di Emergenza Melendez, Avila e Garcia ha ricevuto una chiamata di soccorso per un paziente situato a museo. La chiamata è stata effettuata alle  del mercoledì 26 ottobre 1988 da un DcU 320wyf. Il chiamante, che si è identificato come eHTLgn56, ha riferito che il paziente Bruno Schmid si sente molto male da alcuni giorni.
+
+[SYMPTOMS]: All'arrivo a museo, il Bruno Schmid sembrava essere in uno stato di disagio moderato. Ha riferito di avere sintomi gravi simili all'influenza, tra cui febbre alta, brividi e debolezza, sintomi comuni della malaria. Questi sintomi persistevano da circa 65. Il paziente ha anche menzionato di essere recentemente tornato da un viaggio in un paese endemico per la malaria (Svizzera).
+
+[TREATMENT]: I servizi di emergenza hanno iniziato immediatamente le cure pre-ospedaliere. Al paziente sono stati somministrati farmaci antimalarici, secondo il protocollo, e sono state fornite cure di supporto, tra cui liquidi e farmaci per ridurre la febbre. 
+
+[TRANSPORT]: Il paziente Bruno Schmid è stato trasportato rapidamente all'kings of Denmark. Durante il trasporto, i segni vitali del paziente sono stati monitorati continuamente. Il paziente è stato consegnato al personale del pronto soccorso all'arrivo, con un breve resoconto alla squadra del Sophia Baumann sulle condizioni del paziente e le cure pre-ospedaliere fornite.
+
+[OVERVIEW]: Questo rapporto copre la risposta dell'EMS a una chiamata riguardante il paziente Bruno Schmid, che presentava sintomi gravi associati alla malaria. La squadra dell'EMS ha risposto prontamente, fornendo un trattamento immediato e trasportando il paziente all'kings of Denmark. Il rapporto è stato inviato alle cartelle cliniche del paziente (oATkf-BqiT). Ulteriori aggiornamenti sulle condizioni del paziente possono essere ottenuti attraverso l'account ospedaliero del paziente (EkVERV Ims). La squadra dell'EMS coinvolta nella chiamata includeva un autista (EWP 710) e un medico autorizzato (HRU 34417P). 
+
+Le informazioni personali del paziente (inclusi PWPYAT10E99M723A, 133.237.40.67, EkVERV Ims, ecc.) sono state registrate in modo sicuro nel record medico del paziente. Le informazioni relative al piano sanitario del paziente (uTA9) e a eventuali identificatori biometrici (xxm 762TmN) sono state anche registrate. 
+
+Rapporto compilato da: eHTLgn56
+Data: mercoledì 26 ottobre 1988
+
+Informazioni di contatto: 
+Telefono: +1-875-939-0304x9959
+Email: nnhia@unwomen.org
+Fax: +1-929-442-3913x4886
+URL: http://www.smith.com/search/tag/exploresearch.asp
+
+Nota: Si prega di non divulgare questo rapporto o alcuno dei suoi contenuti in quanto contiene Informazioni Sanitarie Personali sensibili (PHI)."
+

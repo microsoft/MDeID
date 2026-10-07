@@ -1,0 +1,41 @@
+"Dr. Rose Long Scratch Note
+
+Jack Wilson, 103, F, Known case of anaplastic oligoastrocytoma. On therapy (radiation and temozolomide)
+
+S:
+Presented with cough, palpitations recently. 
+
+O:
+BP: 
+HR: 
+Temp: 
+SpO2: , 2 L/min O2 cannula
+
+ECG: Sinus tachycardia, SIQIII TIII pattern, negative T in V1\u20133
+
+Ultrasound cardiogram: Right ventricle distended, D-shape (+), moderate tricuspid valve regurgitation, moderate-severe pulmonary hypertension (max pressure gradient - )
+
+Chest X-ray: Distended pulmonary arteries, interstitial lung infiltrate
+
+Chest CT: No thrombus, nodular opacities, tree-in-bud pattern
+Abdominal CT: Slightly distended gastric wall, lymphadenopathies
+
+Lab: 
+Platelets: 
+APTT: 
+PT-INR: 
+Fibrinogen: 
+D-dimer: 
+WBC: 
+CRP: 
+\u03b2d-glucan: 
+
+A:
+Temozolomide-induced interstitial pneumonia, DIC, Right heart failure. Ruled out PE (CT)
+
+P:
+Admission, Steroid pulse therapy (Methylprednisolone 1 g/d), Recombinant thrombomodulin, Continuous heparin infusion. Close monitoring of cardiac and pulmonary status.
+
+Rose Long
+Alexander and Sons"
+

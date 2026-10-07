@@ -1,0 +1,52 @@
+# H&P NOTE
+
+## VITAL SIGNS SECTION
+
+- Temperature: 98.6 F
+
+- Blood Pressure: 120/80 mmHg
+
+- Heart rate: 80 bpm
+
+- Respiratory rate: 20 breaths/min
+
+- Oxygen saturation: 98% on room air
+
+## CHIEF COMPLAINT AND REASON FOR VISIT SECTION
+
+Angus Stanton presents with a chief complaint of intermittent wheezing, cough, shortness of breath, and chest tightness. These symptoms have been recurrent and are affecting Angus Stanton's day-to-day life. The symptoms seem to exacerbate during morning and late evening hours.
+
+## PAST MEDICAL HISTORY
+
+The patient has a documented history of cwyk-rLfli asthma. Previous episodes have been managed with short-action bronchodilators and corticosteroids.
+
+## MEDICATIONS SECTION
+
+Current medications include a low-dose inhaled corticosteroid and a short-acting beta-agonist as needed for symptom control.
+
+## ALLERGIES AND INTOLERANCES SECTION
+
+Angus Stanton has reported previous adverse reactions to Aspirin resulting in hives and facial swelling. 
+
+## PHYSICAL EXAM SECTION
+
+Upon physical examination, Angus Stanton presents with prominent wheezing bilaterally on auscultation. Peak flow measurement: 350 L/min (70% of expected).
+
+## RESULTS SECTION
+
+Laboratory findings demonstrate normal complete blood count, basic metabolic panel and liver function tests. Chest X-ray does not show any evidence of pneumonia or other acute pulmonary process.
+
+## SOCIAL HISTORY SECTION
+
+Angus Stanton has denied smoking or illicit drug use. Angus Stanton lives with a pet cat and reports some seasonal allergies. Physical activity is limited due to symptoms of asthma.
+
+## FAMILY HISTORY SECTION
+
+Family history is significant for asthma in Angus Stanton's mother and one sibling.
+
+## ASSESSMENT AND PLAN SECTION
+
+Angus Stanton has been diagnosed with a moderate persistent asthma that's uncontrolled. Emerson White will start Angus Stanton on a daily low-dose inhaled corticosteroid and formoterol. Angus Stanton has been advised to avoid known triggers and to use the short-acting beta-agonist for any acute exacerbations. Follow up visit Jun/6/85 to assess response to treatment.
+
+No PHI was used in the production of this document. This synthetic H&P note was created with privacy in mind.
+

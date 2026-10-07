@@ -1,0 +1,35 @@
+"Nursing Narrative Note for Patient with Systemic Lupus Erythematosus (SLE)
+
+The patient Kyleigh Tremblay, a known case of Systemic Lupus Erythematosus (SLE) with a history of idiopathic pancreatitis, presented at River Oaks Baptist Church with complaints of weakness, tiredness, nausea, vomiting, inability to tolerate food, blurry vision, and abdominal pain. Patient reported no history of diabetes or autoimmune diseases other than SLE. Patient had been previously admitted multiple times for pancreatitis, with all tests conducted by Dr. Kimberly Adams ruling out gallstones, tumors, autoimmune, and metabolic diseases. Recently diagnosed with discoid lupus and SLE, patient experienced severe neuropsychiatric manifestations treated with medication.
+
+On examination, patient demonstrated tachycardia (125 bpm), tachypnea (27 breaths per minute), drowsiness, and dehydration. Laboratory tests conducted under medical record number 57309 KCrA showed a serum glucose level of 1240 mg/dl (normal range: 70-140 mg/dl), sodium 127 mEq/L (normal range: 135-145 mEq/L), potassium 5.56 mEq/L (normal range: 3.5-5.0 mEq/L), and chlorine levels not fully reported. No signs of insulin resistance were noted.
+
+The primary diagnosis is Diabetic Ketoacidosis (DKA), likely precipitated by systemic steroid use and possibly exacerbated by SLE. Differential diagnoses include acute pancreatitis flare, though less likely given the current lab findings and symptomatology. Immediate initiation of DKA management protocol, including IV fluids, insulin therapy, and electrolyte monitoring and repletion was recommended by Kimberly Adams. Continuous monitoring of vital signs, glucose, and electrolyte levels is essential.
+
+Consultation with endocrinology for diabetes management and rheumatology for SLE management adjustments were scheduled for Oct. Patient education on recognizing signs of hyperglycemia and the importance of regular follow-up was provided. Address potential compliance issues related to complex medication regimen and chronic disease management was also discussed.
+
+Contact Information:
+Phone: (449)729-9981
+Email: imberls@yahoo.com
+Address: Kyleigh Tremblay, 95 Tanguile, Umbellet, 87 9713, United States
+
+Emergency Contact:
+Name: Kyleigh Tremblay
+Relation: Son
+Phone: (449)729-9981
+
+Prescription Information:
+Pharmacy: Brown LLC
+Address: Kyleigh Tremblay, 95 Tanguile, Umbellet, 87 9713, United States
+Phone: (449)729-9981
+
+Patient's Healthcare Provider:
+Name: Kimberly Adams
+Organization: Brown LLC
+Address: Kyleigh Tremblay, 95 Tanguile, Umbellet, 87 9713, United States
+Phone: (449)729-9981
+
+Signed,
+Kimberly Adams, RN
+"
+

@@ -1,0 +1,12 @@
+T1	PATIENT 35 48	Luz Fernández
+T2	PATIENT 339 352	Luz Fernández
+T3	PATIENT 754 767	Luz Fernández
+T4	DOCTOR 920 940	María Jesús Santiago
+T5	PATIENT 1042 1055	Luz Fernández
+T6	DOCTOR 1073 1093	María Jesús Santiago
+T7	MEDICALRECORD 1113 1123	50799 1571
+T8	DOCTOR 1139 1159	María Jesús Santiago
+T9	HOSPITAL 1171 1187	Carlisle Railway
+T10	PHONE 1199 1211	677-867-2573
+T11	URL 1236 1276	www.wyatt.org/posts/posts/tagssearch.jsp
+T12	EMAIL 1298 1317	aúgo@protonmail.com

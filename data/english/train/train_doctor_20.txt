@@ -1,0 +1,24 @@
+"Doctor Scratch Note:
+
+Jotting for Henry Langford
+- 72 y/o female, issue: persistent back pain, both legs, ~4 months
+- Recent MRI, lumbar spine 
+    - Findings: intradural, extramedullary lesion, dura thickening @ L2
+- Post-op histology confirm: mesenchymal chondrosarcoma
+    - Characteristic: round/spindle cells, cartilage/bone formation
+    - IHC: CD99 positive, EMA negative, STAT6 negative, GFAP negative
+    - Ki-67 index: ~30%
+    - Archer\u2122 FusionPlex Sarcoma Assay: gene fusion transcripts HEY1-NCOA2 (exon 4 to 13 & 14)
+- Diagnosis: primary mesenchymal chondrosarcoma @ L2
+    - Consideration: aggressive behavior, high Ki-67 index
+    - Differential diagnosis: other sarcomas, similar histological features
+- Plan: Convene multidisciplinary team, discuss treatment options
+    - Focus: oncological management
+    - Monitor: symptoms, treatment side effects
+    - Education: Henry Langford and family
+        - Topics: diagnosis, treatment options, regular follow-up importance
+        - Encourage: reporting of new symptoms or concerns
+- Next appointment: Dec,1998 @ bench
+
+Levi Jones - Dancer"
+

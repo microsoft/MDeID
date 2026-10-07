@@ -1,0 +1,43 @@
+"**Nota Narrativa Infermieristica per Paziente con Dolore Addominale e Cancro Diagnosticato**
+
+Soggettivo: Una paziente femminile, Alice Serra, di 79 anni è stata ricoverata presentando dolore nel suo quadrante inferiore sinistro. Non è stata notata una significativa anamnesi medica, e non c'era una storia familiare di cancro gastrointestinale o ovarico. Tuttavia, ha riferito che suo fratello aveva il cancro ai polmoni, sua nonna paterna ha combattuto il cancro al seno bilaterale sincrono, e suo nonno è stato diagnosticato con il cancro alla prostata.
+
+Oggettivo: All'esame fisico e utilizzando un FjYIMG-83R, è stata scoperta una massa rettosigmoidea ostruita. Una colonscopia ha rivelato una massa rettosigmoidea di 4,5 x 6,5 cm, situata a 18 cm dal margine anale. I risultati della biopsia hanno confermato che si tratta di un adenocarcinoma moderatamente differenziato. Ulteriori test utilizzando FjYIMG-83R, non hanno mostrato metastasi a distanza. È stata eseguita la resezione chirurgica della massa e dei linfonodi locali; la patologia ha indicato adenocarcinoma invasivo con invasione linfatica e perineurale, e 6 dei 28 linfonodi erano positivi. Il test genetico ha rivelato mutazioni in BRIP1 e TP53, con uno screening normale per la sindrome di Lynch. Non sono state trovate alterazioni in KRAS, NRAS e BRAF.
+
+Valutazione: La paziente è stata diagnosticata con adenocarcinoma rettosigmoideo moderatamente differenziato, stadio III a causa dell'coinvolgimento dei linfonodi. Erano presenti caratteristiche ad alto rischio come l'invasione linfatica e perineurale. L'analisi genetica suggerisce una possibile predisposizione ereditaria nonostante uno screening iniziale negativo per il cancro ereditario.
+
+Piano: Il follow-up post-operatorio includerà il monitoraggio per la recidiva e la gestione di eventuali complicazioni. È previsto un ulteriore test germinale per la mutazione del gene BRIP1. La paziente è stata educata sui sintomi di recidiva e sulle modifiche dello stile di vita per supportare la salute generale. Saranno necessari controlli regolari in oncologia per la sorveglianza e la gestione.
+
+**Informazioni Paziente**
+- ID Paziente: wG-04763OH
+- Numero di Conto: wG-04763OH
+- Numero di Cartella Clinica: IDlmz qvHR
+- Piano Sanitario: SjW
+
+**Informazioni di Contatto**
+- Email: nn@who.int
+- Telefono: 315.373.0099x0515
+- Indirizzo: Alice Serra, 770 Anne Springs 62, 0164 Verdello, Svizzera
+
+**Contatto di Emergenza**
+- Nome Contatto: Alice Serra
+- Relazione con il Contatto: Alice Serra
+- Telefono Contatto: 315.373.0099x0515
+
+**Informazioni Digitali**
+- Indirizzo IP: 28.49.106.40
+- Nome Utente: PEEfOebY
+- URL: kelly.carroll-green.anthony.com
+
+**Altre Informazioni**
+- ID Dispositivo: FjYIMG-83R
+- ID Veicolo: XGY2036
+- Numero di Sicurezza Sociale: IBTQLE26V11A041M
+- Numero di Licenza: bcla-hgLdT
+- ID Biometrico: UnQZ 01887
+- Numero di Fax: 672.930.5665x646
+
+**Firma**
+- Nina Baumann, Infermiera Registrata
+- Località: Accademia Nazionale delle Scienze Georgiana, supermercato"
+

@@ -1,0 +1,60 @@
+"#Note de l'infirmière 
+
+--- Détails du patient ---
+Nom : Ernst Widmer
+Âge : 4
+SSN : 055735-4046
+Dossier médical : UJgws-NGod
+Numéro de compte : EU-sYVJsij
+Profession : Officier de planification/gestion des urgences
+Organisation : Brown, Payne and Good
+Plan de santé : hb4BzSy
+
+--- Informations de contact ---
+Adresse : Ernst Widmer, 717 Angélique Lock Apt. 678 27, 3105 Bonnefonds, Belgique
+Téléphone : 001-566-383-0783x54197
+Email : chmiu@red-cross.org
+
+--- Appareils de diagnostic ---
+Numéro de l'appareil : 28741 YmXe
+
+--- Informations sur le médecin ---
+Médecin traitant : Paul Schmid
+Licence : 1960 95648
+
+--- Infos IP ---
+Adresse IP : 210.4.31.197
+
+--- Identifiant réseau ---
+Nom d'utilisateur : iyHmQ2JZ
+
+--- Infos véhicule ---
+Plaque d'immatriculation : 987 LUF
+
+--- ID biométrique ---
+BioID : xh-cPGZspk
+
+--- État actuel ---
+Difficulté à avaler de la nourriture, brûlures d'estomac et indigestion périodiques, Potentiel pour Delhi-WLG Maladie ulcéreuse peptique.
+
+--- Signes vitaux ---
+Pression artérielle : 120/80 mmHg 
+Pouls : 72 bpm 
+Température corporelle : 98.7\u00b0F
+Fréquence respiratoire : 16 respirations par minute
+
+--- Autres informations pertinentes ---
+Le patient travaille pour Brown, Payne and Good, d'autres facteurs de stress doivent être étudiés. Possible antécédents de tabagisme et d'alcool.
+
+--- Contact d'urgence ---
+Nom : Ernst Widmer 
+Relation : Membre de la famille
+Téléphone : 001-566-383-0783x54197
+
+--- Suivi ---
+Prochain rendez-vous avec le Dr. Paul Schmid le mardi 17 août 1999 à United States Park école
+
+--- Notes supplémentaires ---
+iyHmQ2JZ doit surveiller les symptômes et signaler tout changement. Éviter les aliments épicés et difficiles à digérer, prendre les médicaments comme prescrit par le Dr. Paul Schmid
+"
+

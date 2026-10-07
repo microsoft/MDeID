@@ -1,0 +1,49 @@
+"**Notas de Enfermería** - ID Único: 91 4761FTM
+***Preocupaciones del Paciente*** 
+Problemas de Respiración - Severidad notada, Detalles adicionales capturados en el registro del paciente no. 873 52LpDz
+
+***Signos Vitales*** 
+PA: 120/80 mmHg
+Frecuencia Cardíaca: 75 lpm
+Respiración: 21 lpm 
+Temperatura: 37.2 C 
+Saturación de Oxígeno: 92% 
+
+***Observaciones*** 
+Problemas Visibles - Respiración, Síntomas Asmáticos - Notados
+Refiriendo al Dr. Nicolás Robledo para un examen más detallado. 
+
+--- 
+**Información de Contacto de Emergencia** 
+Nombre: Mónica Arbeláez 
+Número de Contacto: 001-720-889-1560x36937 
+Correo Electrónico: Nbledo@aol.com 
+Dirección: Mónica Arbeláez, Viaducto Norte Bustos 860 661, 56, 7362 Rota, Spain
+
+**Información del Dispositivo**
+Nombre del Dispositivo: Inhalador para Asma, 
+Número del Dispositivo: nMUmz 7733
+
+**Información de Facturación**
+Número de Cuenta: 91 4761FTM
+Plan de Salud: VSQ
+---
+**Otra Información** 
+Profesión del Paciente: Administrador de Educación
+Edad: 54
+Fecha de Consulta: lunes, 25 de mayo de 2009
+Ubicación de la Consulta: playa
+Nombre del Hospital: Western Wei general
+Número de Seguridad Social del Paciente: 368-39-9849
+
+***Plan***
+Aumentar la frecuencia de uso del inhalador. 
+Monitorear el patrón de respiración. Referir al neumólogo Dr.Nicolás Robledo.
+BioID del Paciente: Xi-oJeYYOS
+---
+**Comentarios**
+Dirección IP del Paciente: 48.111.149.236
+Información de la Licencia del Paciente: JjWkA kkYW
+
+Este es un documento sintético."
+

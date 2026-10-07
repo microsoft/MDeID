@@ -1,0 +1,16 @@
+T1	PATIENT 54 73	Anthony Verstraeten
+T2	PATIENT 363 382	Anthony Verstraeten
+T3	PATIENT 529 548	Anthony Verstraeten
+T4	PATIENT 719 738	Anthony Verstraeten
+T5	MEDICALRECORD 857 867	9736-120ZB
+T6	PATIENT 1613 1632	Anthony Verstraeten
+T7	DOCTOR 1972 1984	Peter Widmer
+T8	PATIENT 2288 2307	Anthony Verstraeten
+T9	PATIENT 2345 2364	Anthony Verstraeten
+T10	DOCTOR 2369 2381	Peter Widmer
+T11	PATIENT 2525 2544	Anthony Verstraeten
+T12	PATIENT 2738 2757	Anthony Verstraeten
+T13	PATIENT 2796 2815	Anthony Verstraeten
+T14	PATIENT 3047 3066	Anthony Verstraeten
+T15	MEDICALRECORD 3068 3078	9736-120ZB
+T16	DOCTOR 3080 3092	Peter Widmer

@@ -1,0 +1,74 @@
+"Dr. Margaux Moulin Note de consultation
+
+Fritz Moser - Homme japonais de 42 ans, post-œsophagectomie avec reconstruction gastrique pour un cancer de l'œsophage. Antécédents familiaux de cancer de l'œsophage chez le frère aîné. Consommation quotidienne d'alcool japonais. 
+
+Signes vitaux :
+
+- Temp : 36.9 °C
+
+- HR : 96 bpm
+
+- BP : 148/68 mmHg
+
+Symptômes rapportés :
+
+- Fièvre
+
+- Augmentation des expectorations
+
+- Hypoxémie
+
+- Difficulté à respirer
+
+- Bruits de crépitement dans la poitrine
+
+Jour 5 en soins intensifs :
+
+- Fièvre de 38.0 °C
+
+- Saturation en oxygène à 90% avec un masque à oxygène de 10 L/min
+
+- Crépitants pulmonaires bilatéraux grossiers
+
+- Radiographie du thorax : Infiltrats pulmonaires bilatéraux diffus, principalement du poumon droit, épanchement pleural
+
+Lab post-intubation :
+
+- GB : 5.7 × 10^9/L
+
+- GR : 2.25 × 10^12/L
+
+- Hémoglobine : 7.3 g/dL
+
+- Hématocrite : 21.4%
+
+- Plaquettes : 145 × 10^9/L
+
+- AST : 54 U/L
+
+- ALT : 55 U/L
+
+- Bilirubine totale : 4.11 mg/dL
+
+- Albumine : 2.2 g/dL
+
+- Azote uréique : 38 mg/dL
+
+- Créatinine : 0.83 mg/dL
+
+- CRP : 18.7 mg/dL
+
+- Créatinine urinaire : 95 mg/dL
+
+Culture d'expectorations : Positive pour Streptococcus pneumoniae
+
+Évaluation : Pneumonie postopératoire, épanchement pleural, insuffisance respiratoire - nécessité d'une intubation et d'une ventilation mécanique. Possibles autres infections ou complications pulmonaires.
+
+Plan : Passage du cefmetazole au meropenem, surveillance continue en soins intensifs, soins de soutien, ajustement du traitement si nécessaire. Le patient est invité à signaler de nouveaux symptômes/préoccupations. Trachéotomie le jour 38 en soins intensifs, état actuel de la ventilation mécanique : stable (PaO2/FIO2 > 300 mmHg).
+
+Dr. Margaux Moulin
+
+1889-ixgQO
+
+28/01/2015"
+

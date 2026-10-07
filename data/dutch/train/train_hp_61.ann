@@ -1,0 +1,17 @@
+T1	PATIENT 56 74	Guillaume Bertrand
+T2	PATIENT 239 257	Guillaume Bertrand
+T3	PATIENT 514 532	Guillaume Bertrand
+T4	PATIENT 707 725	Guillaume Bertrand
+T5	ORGANIZATION 855 880	Cook, Williams en Randall
+T6	PATIENT 1115 1133	Guillaume Bertrand
+T7	PATIENT 1177 1195	Guillaume Bertrand
+T8	PATIENT 1926 1944	Guillaume Bertrand
+T9	PATIENT 2061 2079	Guillaume Bertrand
+T10	DOCTOR 2161 2175	Pierre Verbeke
+T11	PATIENT 2252 2270	Guillaume Bertrand
+T12	PATIENT 2450 2468	Guillaume Bertrand
+T13	DOCTOR 2518 2532	Pierre Verbeke
+T14	PATIENT 2573 2591	Guillaume Bertrand
+T15	PATIENT 2708 2726	Guillaume Bertrand
+T16	PATIENT 2796 2814	Guillaume Bertrand
+T17	MEDICALRECORD 2908 2918	84 rdpKThY

@@ -1,0 +1,41 @@
+"**Nota de Rascunho do Médico**
+
+Paciente: Ágatha Schmitz
+ID#: GRG 51178A
+Data de Nascimento: sábado, 7 de julho de 2001
+Idade: 55
+
+S:
+- Falta de ar progressiva, ortopneia (3 meses)
+- Ágatha Schmitz relatando
+
+O:
+- Sopro contínuo suave (peito superior esquerdo)
+- Estertores nos pulmões (basal, bilateral)
+- Radiografia (Tórax): cardiomegalia leve, congestão pulmonar leve
+- ECG: ritmo sinusal (regular), sem sinais de isquemia ou infarto do miocárdio
+- Ecocardiografia transtorácica: VE (levemente dilatado), átrio esquerdo (marcadamente dilatado), fração de ejeção do VE (60%)
+- Estrutura semelhante a tubo (septo interventricular), fluxo diastólico turbulento
+- Ecocardiografia transesofágica: RCA (marcadamente dilatada), vaso anormal (adjacente ao MPA), esvaziamento anormal do vaso (posteromedial MPA), MR grave (folheto posterior restrito), remodelação ventricular/dilatação do anel mitral
+- Angiografia coronária: ALCAPA (confirmada), shunt esquerdo-direito, relação de fluxo sanguíneo pulmonar-sistêmico (1.4)
+- Angiografia por tomografia computadorizada coronária: ALCAPA (confirmada, óstio retropulmonar)
+
+A:
+- Diagnóstico da síndrome de ALCAPA (primária, confirmada)
+- Causas de sopro contínuo, cardiomegalia (diferencial, descartadas)
+
+P:
+- Discussão em equipe multidisciplinar (plano)
+- Intervenção cirúrgica (ótima, correção de anomalia coronária)
+- Informação ao paciente/família (condição, opções de tratamento, possíveis complicações)
+- Consultas de acompanhamento (monitoramento da resposta, gestão de complicações)
+- Educação (natureza da doença, sinais de complicações, ajustes no estilo de vida)
+
+Médica: Giovanna German
+Licença: 67255 Ehnc
+Hospital: North side Kettering Town F.C
+Telefone: +1-855-348-7147x89995
+Endereço: Ágatha Schmitz, Alameda Lima, S/N 90, 6811 ESPINHO, Portugal
+Email: eGi@unhcr.org
+Fax: 628.917.9662x23183"
+

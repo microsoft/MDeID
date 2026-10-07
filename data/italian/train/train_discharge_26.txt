@@ -1,0 +1,57 @@
+**SOMMARIO DI DIMISSIONE**
+
+**Paziente:** Kurt Moser
+**Numero di Cartella Clinica:** 205-MEWhOS
+**Medico Curante:** Arianna Mariani
+**Ospedale:** Écône Svizzera
+
+*MOTIVO DEL RICOVERO*
+Il paziente è stato ricoverato a causa di febbre e nausea. L'esame iniziale e l'anamnesi hanno indicato una potenziale diagnosi di colite.
+
+*PROCEDURE ESEGUITE*
+È stata eseguita una colonscopia per una diagnosi definitiva e per valutare il livello di infiammazione.
+
+*CURA, TRATTAMENTO E SERVIZI FORNITI*
+All'ingresso, al paziente è stata iniziata una terapia antibiotica accompagnata da integratori probiotici per combattere l'infezione e ripristinare la flora intestinale. Successivamente, è stata eseguita una colonscopia in sedazione che ha confermato la diagnosi di colite. Sono stati introdotti nel regime di trattamento farmaci anti-infiammatori. Il paziente ha anche ricevuto una terapia di fluidi endovenosi a causa della disidratazione causata dal vomito.
+
+*CONDIZIONE DEL PAZIENTE E DISPOSIZIONE ALLA DIMISSIONE*
+Al momento della dimissione, i sintomi di febbre e nausea sono diminuiti anche se il paziente riferisce ancora occasionali disagi. Il colon sembra rispondere bene ai farmaci anti-infiammatori.
+
+*INFORMAZIONI FORNITE AL PAZIENTE E ALLA FAMIGLIA*
+Il paziente e la famiglia sono stati informati sulla diagnosi, sulla necessità di continuare il ciclo di farmaci e sull'importanza dell'idratazione. È stato fornito loro un libretto informativo sulla gestione della colite, sui segni di peggioramento dei sintomi e su quando cercare immediatamente aiuto medico.
+
+*DISPOSIZIONI PER LA CURA DI FOLLOW-UP*
+È stato programmato un appuntamento di follow-up con Arianna Mariani per rivalutare la condizione del paziente. Il paziente è stato anche indirizzato a un nutrizionista per stabilire un piano alimentare che aiuterà nel recupero e minimizzerà il disagio.
+
+**SEZIONI:**
+
+*SEZIONE ALLERGIE E INTOLLERANZE*
+Nessuna allergia o intolleranza nota.
+
+*SEZIONE DIAGNOSI DI DIMISSIONE*
+Colite acuta.
+
+*SEZIONE PIANO DI TRATTAMENTO*
+Continuare gli antibiotici prescritti e i farmaci anti-infiammatori, seguire il piano alimentare fornito dal nutrizionista e mantenere l'idratazione. Monitorare i sintomi e contattare Arianna Mariani se i sintomi persistono o peggiorano.
+
+*SEZIONE CONSULTAZIONI OSPEDALIERE*
+Durante il soggiorno in ospedale è stata ottenuta una consulenza dal team di Gastroenterologia e Nutrizione.
+
+*SEZIONE PROCEDURE*
+Colonscopia eseguita.
+
+*SEZIONE RISULTATI*
+Colonscopia - Confermata la presenza di infiammazione indicativa di colite acuta.
+
+**Sezioni aggiuntive:**
+
+*ANAMNESI MEDICA PRECEDENTE*
+Nessuna anamnesi medica significativa rilevata.
+
+*SEZIONE ISTRUZIONI DI DIMISSIONE OSPEDALIERA*
+Continuare con i farmaci come prescritto. Seguire il piano alimentare. Mantenere l'idratazione. Monitorare i sintomi.
+
+*SEZIONE MOTIVO DELLA VISITA*
+Febbre, vomito, nausea con sospetto di colite.
+
+Nota: Dare sempre priorità al comfort del paziente e assicurarsi che tutte le cure siano erogate come previsto. In caso di cambiamenti imprevisti, assicurarsi di informare immediatamente i medici curanti.

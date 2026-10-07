@@ -1,0 +1,70 @@
+"Nota de Enfermería
+---
+Información del Paciente:
+* Araceli Bautista
+* EDAD: 109
+* Cuenta: AHd 1366Pj
+
+Observaciones:
+
+* Venas Varicosas: Notadas
+* Presión Arterial: 120/80
+* Temperatura: 36.9\u00b0C
+* Ritmo Cardíaco: 78bpm
+
+Tratamiento:
+
+* Se inició terapia de compresión
+* Se aconsejó elevar la extremidad
+
+Progreso:
+
+* El paciente informa  
+
+Información Adicional:
+
+* Proveedor de Salud: Sebastián Molina
+* Plan de Salud: 66hzeJQpbqkJ vY rzLsTQU SyCxsT
+* Admisión al Hospital: Congregacional Ortodoxo
+* Número de Historia Clínica: jQkB 730mc
+
+Intercambios de Comunicación:
+
+* Correo Electrónico: tin@unicef.org
+* Teléfono: (335)777-9738x325
+
+Contexto:
+
+* Ubicación: banco
+* Dirección: Araceli Bautista, Peatonal Zúñiga 739 405 21, Malobservance, Jumilla 23586, Perú
+
+Información del Dispositivo:
+
+* ID del Dispositivo: 2660 23831
+* Dirección IP: 43.39.137.53
+
+IDs Personales:
+
+* Seguridad Social: 67531471T
+* Licencia: 0365-78715
+* BIOID: 217055 bCD
+* Identificador Personal: AHd 1366Pj
+
+Contacto en Caso de Emergencia:
+
+* Nombre de Usuario: 7QcDvEOI
+* Vehículo: 12F JC0
+* Profesión: Ajustador de pérdidas, colegiado
+* Organización: Johnson, Phillips y Smith
+
+POR FAVOR TENGA EN CUENTA:
+
+* Toda comunicación es estrictamente confidencial y debe cumplir con las reglas integrales de privacidad de datos.
+
+Próximo seguimiento (FECHA): 1/8/75
+* Fax: +1-536-655-7284x7023
+
+--- --- --- --- --- --- --- --- +++++++++++++++++++++++++++++++++++++++ --- --- --- --- --- --- --- --- 
+
+Nota: La Información de Salud Personal (PHI) ha sido eliminada y reemplazada con marcadores de posición para mantener la confidencialidad del paciente de acuerdo con las pautas de HIPAA."
+

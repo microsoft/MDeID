@@ -1,0 +1,24 @@
+"Arzt Kratz Notiz:
+
+Notiz für Ine Petit
+- 69 Jahre alte Frau, Problem: anhaltende Rückenschmerzen, beide Beine, ~4 Monate
+- Kürzliches MRT, Lendenwirbelsäule 
+    - Befunde: intradurale, extramedulläre Läsion, Verdickung der Dura @ L2
+- Post-op Histologie bestätigt: mesenchymales Chondrosarkom
+    - Charakteristik: runde/spindelförmige Zellen, Knorpel-/Knochenbildung
+    - IHC: CD99 positiv, EMA negativ, STAT6 negativ, GFAP negativ
+    - Ki-67 Index: ~30%
+    - Archer™ FusionPlex Sarkom Assay: Genfusions-Transkripte HEY1-NCOA2 (Exon 4 bis 13 & 14)
+- Diagnose: primäres mesenchymales Chondrosarkom @ L2
+    - Überlegung: aggressives Verhalten, hoher Ki-67 Index
+    - Differentialdiagnose: andere Sarkome, ähnliche histologische Merkmale
+- Plan: Einberufung eines multidisziplinären Teams, Diskussion der Behandlungsoptionen
+    - Schwerpunkt: onkologisches Management
+    - Überwachung: Symptome, Nebenwirkungen der Behandlung
+    - Aufklärung: Ine Petit und Familie
+        - Themen: Diagnose, Behandlungsoptionen, Bedeutung regelmäßiger Nachsorge
+        - Ermutigung: Meldung neuer Symptome oder Bedenken
+- Nächster Termin: Montag, 5. März 1979 @ Restaurant
+
+Mia Keller - Lizensierter Rechtsanwalt"
+

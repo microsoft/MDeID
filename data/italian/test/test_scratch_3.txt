@@ -1,0 +1,93 @@
+"APPUNTI DELL'INFERMIERA
+
+---------------------------------------------
+ID RAPIDO DEL PAZIENTE: VrfjY-1316
+NOME: Alina Müller
+
+---------------------------------------------
+PARAMETRI VITALI:
+- Temperatura: 100.4 F 
+- Polso: 88 BPM 
+- Pressione sanguigna: 120/80 mmHg
+- Respirazione: 16 respiri al minuto 
+- Saturazione di ossigeno: 96% 
+
+---------------------------------------------
+SINTOMI:
+- Febbrile 105: Sì, alta
+- Brividi: Sì
+- Sudorazione: Moderata
+- Fatica: Sì
+- Malessere: Sì
+
+---------------------------------------------
+POSSIBILE DIAGNOSI:
+- Sospetto di malaria, in attesa di conferma dal laboratorio
+
+---------------------------------------------
+RICHIESTA DI LABORATORIO: cTlrwzUL
+- Test del sangue per parassiti della malaria
+
+---------------------------------------------
+PIANO DI TRATTAMENTO:
+- Trattamento iniziale iniziato: farmaci antimalarici 
+- Somministrati fluidi IV per disidratazione
+
+---------------------------------------------
+NOTE AGGIUNTIVE:
+- Viaggiato in zona endemica per la malaria palestra due settimane prima dell'inizio dei sintomi
+
+---------------------------------------------
+INFORMAZIONI DI CONTATTO:
+- Contatto telefonico: (505)424-8498
+- Contatto email: aeine@unhcr.org
+
+---------------------------------------------
+CONTATTO DI EMERGENZA:
+- Nome: Alina Müller
+- Contatto: (505)424-8498
+
+---------------------------------------------
+DOTTORE DI TURNO: Hans Steiner
+
+---------------------------------------------
+STRUTTURA DI TRATTAMENTO: Turku Dahl
+Indirizzo: Alina Müller, 5902 John Mountain Suite 194 75, 7954 Trani, Svizzera
+Indirizzo IP per controllo remoto: 44.206.150.115
+
+---------------------------------------------
+ASSICURAZIONE SANITARIA: 6aJL uVz9h
+Numero di conto: 66-342mLAl
+
+---------------------------------------------
+ORGANIZZAZIONE: Mitchell-Taylor
+Professione: Herpetologo
+
+---------------------------------------------
+Dispositivo utilizzato per controllare i parametri vitali: 3358 52600
+Numero di licenza del dispositivo: kKjPf 068F
+
+---------------------------------------------
+Identificatore unico: 66-342mLAl
+Numero di previdenza sociale: JGWXMQ77K96J849B
+
+---------------------------------------------
+DATI BIOMETRICI: wr 842rwGA
+VEICOLO: 6AA 544 utilizzato per il trasporto del paziente.
+
+---------------------------------------------
+[Firma digitale dell'infermiera cTlrwzUL]
+
+---------------------------------------------
+NOTE GENERATE IL: sabato 11 novembre 2023
+
+---------------------------------------------
+URL per accedere ai record medici del paziente:  davis.com/app/searchabout.htm
+
+---------------------------------------------
+FAX: 770-231-1537x6595
+CAP: 7954
+CITTÀ: Abetone Cutigliano
+STATO: campania
+PAESE: Italia"
+

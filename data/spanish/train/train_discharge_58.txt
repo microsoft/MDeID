@@ -1,0 +1,47 @@
+# Resumen de Alta
+
+## Paciente: Miguel Rodas
+
+## Hospital: merrill
+
+## Diagnóstico de Admisión: 
+
+El paciente fue admitido debido a un caso severo de gota, que se acompañó de síntomas como sofocos, dolor intenso, enrojecimiento, hinchazón y notable eritema. 
+
+## Curso Hospitalario: 
+
+A lo largo de la estancia en el hospital, al paciente se le administró un tratamiento diseñado para aliviar el dolor y reducir la inflamación causada por la gota. Esto incluyó inyecciones de esteroides, AINEs y colchicina. 
+
+## Procedimientos Realizados:
+
+Se realizó un análisis del líquido sinovial para confirmar el diagnóstico, que efectivamente, reveló cristales de urato indicativos de gota.
+
+## Diagnóstico de Alta: 
+
+Al dar de alta, la condición del Miguel Rodas había mejorado significativamente con el eritema y la hinchazón muy reducidos. El paciente informó una disminución sustancial del dolor.
+
+## Plan de Tratamiento:
+
+A Miguel Rodas se le recetó alopurinol, un medicamento utilizado para prevenir los ataques de gota. Se enfatizó que este medicamento no debe usarse durante un brote de gota, sino para prevenir futuros episodios. 
+
+## Medicamentos de Alta:
+
+Juan Pablo Moreno recetó alopurinol, para tomar regularmente y prevenir futuros brotes de gota. 
+
+## Consultas Hospitalarias: 
+
+A Miguel Rodas se le remitió a un reumatólogo, Dr. Juan Pablo Moreno, para un cuidado y manejo más profundo de la condición. 
+
+## Información Proporcionada al Paciente y la Familia:
+
+Se educó al paciente sobre las modificaciones dietéticas para manejar la gota, que incluyen reducir la ingesta de alcohol, bebidas azucaradas y alimentos ricos en purinas. También se aconsejó mantener un peso corporal saludable y realizar ejercicio regularmente.
+
+## Provisiones para el Cuidado de Seguimiento:
+
+Se ha programado una cita de seguimiento con el reumatólogo referido, Dr. Juan Pablo Moreno, dentro de un mes después del alta.
+
+## Número de Historia Clínica: 11500-1607 
+
+## Información Adicional:
+
+Este documento de resumen de alta está destinado para la continuación del cuidado, por lo tanto, incluye toda la información pertinente sobre la admisión, tratamiento y seguimiento del paciente. Proporciona la base para el plan de atención médica continua del paciente y ayuda a otros proveedores de atención médica en sus futuras interacciones con el paciente.

@@ -1,0 +1,77 @@
+"```
+-------------------------------------------------
+PATIËNT INFORMATIE
+-------------------------------------------------
+Patiënt: Sjors Jansen
+Leeftijd: 65
+Medisch Dossier: 87266 8929
+-------------------------------------------------
+
+VITALE FUNCTIES
+
+BP: 125/80
+Pulse: 85
+Temp: 37.2C
+RR: 18/min
+O2 Sat: 98%
+
+-------------------------------------------------
+NOTITIES
+-------------------------------------------------
+
+- Verhoogde dorst Sjors Jansen
+- Veelvuldig urineren
+- Hist. van diabetes in familie Du-EgBrOsS
+- eGFR >60
+- jWkK upQfV monitor glucose niveau
+- BMI 25.0 
+
+-------------------------------------------------
+KLINISCHE GEGEVENS 
+-------------------------------------------------
+
+Bloedglucose Vandaag: 7.9 mmol/L
+
+-------------------------------------------------
+PLANNEN & TAKEN
+-------------------------------------------------
+
+- Contact opnemen met Florus de Graaf voor consultatie
+- Bel 605.266.6058x43600 voor doorverwijzing diëtist
+- Stuur email naar Graeorus@hotmail.com over vervolgafspraak
+- Volg link http://www.miller.com/wp-content/blogcategory.php voor diabetes zelfmanagement bronnen
+
+-------------------------------------------------
+-------------------------------------------------
+NOODCONTACT 
+-------------------------------------------------
+
+- Contact Naam: Sjors Jansen
+- Adres: Sjors Jansen, Endothermism 94, 1494 Fishability, België
+- Telefoon: 605.266.6058x43600
+- Email: Graeorus@hotmail.com
+
+-------------------------------------------------
+MEDISCHE VERZEKERING
+-------------------------------------------------
+
+- Provider: EUl
+- Account Nummer: 00291 8732
+- Plan details op: http://www.miller.com/wp-content/blogcategory.php
+
+-------------------------------------------------
+EXTRA INFORMATIE
+-------------------------------------------------
+
+- IP Adres: 119.135.254.10
+- SSN: 858-1799602-22
+- Stad van verblijf: Mesotroch
+- Postcode: 1494
+- Organisatie: Rojas Ltd
+- Beroep: Ingenieur, civiel (consulting)
+- Licentie Nummer: eq ZEIHMXT
+- Voertuig Identificatie: EXR 144
+
+-------------------------------------------------
+```"
+

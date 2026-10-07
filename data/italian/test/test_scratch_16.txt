@@ -1,0 +1,56 @@
+"**Nota dell'Infermiera Scratch**
+
+Informazioni Paziente: Thomas Graf
+
+Segni Vitali:
+- BP: 120/80 mmHg
+- HR: 75 bpm
+- RR: 16/min 
+- Temp: 98.6 F
+- SpO2: 98%
+
+Osservazioni:
+- Rash: Corpo intero
+- Pelle: Secca, squamosa
+- Condizione: Prurito, intenso
+- Sospetto: Infezione fungina
+
+Piano di Trattamento:
+- Medicinale antifungino
+- Crema idratante per la pelle
+- Follow up: Dopo 2 settimane
+
+Informazioni Strutturate:
+
+| Elemento        | Segnaposto   |
+| -------------- | ------------- |
+| Nome del Dottore  | Thomas Roth      |
+| Cartella Clinica | EzeGJu 148 |
+| Numero di Conto | 3102 3440E     |
+| Numero di Licenza | fXrAT 4435     |
+| ID Dispositivo      | fPpj 70478      |
+| Nome Utente       | f9Rf1idc    |
+| ID Veicolo     | 2UI 604     |
+| Sicurezza Sociale| 526455-4015 |
+| ID Biometrico         | eIpADy ssA       |
+| Indirizzo IP      | 140.235.147.220   |
+| Numero ID      | 3102 3440E       |
+| Età            | 73         |
+| Indirizzo        | Thomas Graf, 9213 Vasquez Parkways Suite 483 47, 7705 Ovada, Svizzera     |
+| Ospedale       | Aylesbury    |
+| Altra Località | stazione ferroviaria |
+| Piano Sanitario    | cnVoa6eth  |
+| Professione     | Logopedista  |
+| Organizzazione   | Logan-Berry|
+| Email          | hm@yandex.com       |
+| Telefono          | 470-840-9532x4233       |
+| URL            | white.brown.biz         |
+| Fax            | 001-800-265-5746x7466         |
+| Stato          | 69       |
+| Città           | Granarolo Dell'emilia        |
+| Paese        | Svizzera     |
+| Via         | 34275 Paul Forge Suite 041      |
+| CAP            | 7705         |
+
+Nota: Il paziente si lamenta di prurito intenso e disagio a causa del rash. Prescritto medicinale antifungino e crema idratante per la pelle. Consigliato follow-up regolare."
+

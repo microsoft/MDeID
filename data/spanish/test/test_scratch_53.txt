@@ -1,0 +1,130 @@
+"NOTA DE ENFERMERÍA RÁPIDA
+
+------------------------
+
+| ID del paciente: Samuel Méndez |
+
+------------------------
+
+\u2022Signos vitales:
+
+- PA: 120/80
+
+- FC: 77
+
+- Temp: 98.6\u00b0F
+
+- Resp: 16
+
+- Sat O2: 98%
+
+\u2022Observación primaria: 
+
+Parece inquieto, informa problemas para dormir debido a una condición de la piel.
+
+\u2022Observación secundaria:
+
+Condición de la piel reportada como '', Presencia de parches, necesidad de consulta con Dermatología.
+
+\u2022Asunto médico:
+
+- Extracción de sangre completada, enviada al gimnasio laboratorio
+
+- Administrado 5mg de Melatonina para ayudar a dormir
+
+\u2022Extra:
+
+- Se notificó al médico de cabecera del paciente Ramón Andrade para consulta
+
+- Anotado en rTzi LWlMP
+
+-------------
+
+| Pie de página |
+
+-------------
+
+\u2022Información de contacto:
+
+- Próximo de kin Samuel Méndez
+
+- Relación: Abuela
+
+- 541-774-0512x6518, mór@yahoo.com
+
+\u2022 Detalles de la cuenta:
+
+- Número de cuenta: 8251 oYNkK
+
+- Plan de salud: ScnFIo
+
+\u2022 Información de dirección:
+
+- Dirección: Samuel Méndez, Calle de Maura Rodrigo 183 133, Overcramming, Sant Joan de les Abadesses 75190, Perú
+
+- Ubicación: Sant Joan de les Abadesses, 91, España
+
+\u2022 Información del dispositivo:
+
+- Dispositivo médico: WvlITC-433
+
+\u2022Red:
+
+- Dirección IP: 15.232.144.9
+
+- Nombre de usuario: amuelez
+
+-----------
+
+| Encabezado |
+
+-----------
+
+\u2022Información de hospitalización:
+
+- Hospital: Command
+
+- Fecha de admisión: 13 de diciembre de 2008
+
+\u2022 Información profesional:
+
+- Médico admitido: Ramón Andrade
+
+- Profesión: Asistente personal
+
+\u2022 Información de la organización:
+
+- Organización: Lloyd LLC
+
+\u2022Licencia:
+
+- ID de licencia: 38386-4276
+
+\u2022Vehículo:
+
+- ID del vehículo: 478WJ
+
+\u2022Seguridad Social:
+
+- SSN: 410-24-4402
+
+\u2022Fax:
+
+- Fax: 910.430.8830
+
+\u2022ID Bio:
+
+- ID Bio: ZHl-Meddrb
+
+\u2022Número de ID:
+
+- Número de ID: 8251 oYNkK
+
+\u2022URL:
+
+- Sitio web:  mcdowell.com/explore/poststerms.html
+
+\u2022Código postal:
+
+- Código postal: 75190\n"
+

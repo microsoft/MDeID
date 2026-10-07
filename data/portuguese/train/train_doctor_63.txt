@@ -1,0 +1,34 @@
+"Nota de Rascunho do Médico
+
+Paciente: Gabriela Cavalcante, ID: YeXPlx 395, Idade: 34
+
+S:
+Queixas incluem febre de 4 dias, úlceras dolorosas, inchaço no couro cabeludo. Apetite reduzido devido aos sintomas. 
+
+O:
+Pontuação GCS: 15, Consciência: Presente
+Úlceras: Presentes, Pus: Presente, Fístula: Presente, Descamação do couro cabeludo: Sim, Inchaço facial: Sim
+Resultado do Laboratório: Neutropenia (WBC: 2.39 \u00d7 10^9/l, Neutrófilos: 0.25 \u00d7 10^9/l, Linfócitos: 2.1 \u00d7 10^9/l)
+Marcadores Inflamatórios: Elevados (ESR: 101 mm/hora, CRP: 272 mg/dl)
+Cultura de Pus: Positiva (Enterococcus faecalis, Escherichia coli)
+Cultura de Sangue: Negativa, Cultura de Urina: Negativa
+RX de Tórax: Normal, Análise de Urina: Normal, Análise de LCR: Normal
+Imunoglobulinas: Normais, % de células T: Normal
+Medula Óssea: Parada de maturação de Promielócitos/Mielócitos, Sem malignidade
+CT de Cabeça: Enfisema subcutâneo, Couro cabeludo: Positivo, Lesão cerebral: Não, Fraturas de crânio: Não
+
+A:
+Dx Primário: Fasciite necrosante do couro cabeludo, Septicemia
+Outras etiologias infecciosas: Descartadas
+
+P:
+Tratamento: Pentaglobin (0.5 g/kg), Antibióticos (Vancomicina, Meropenem, Metronidazol)
+Terapia G-CSF: Sim (5 a 15 \u00b5g/kg/dia)
+Alta: Após 46 dias
+Acompanhamento: Monitoramento regular da contagem de neutrófilos e do estado geral de saúde
+
+Cuidado por: Gabrielly Barboza, Licença: 9911 463Vv, Hospital: Keeneland
+
+Contato via: Telefone 315.621.7188x3914, Email: ellyrboza@aol.com
+"
+

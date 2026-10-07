@@ -1,0 +1,54 @@
+"**Krankenschwester Notiz**
+
+-------------------------
+| 07.07.2003  |  Xenia Lehmann    |
+-------------------------
+Patient: Selina Keller
+Alter: 90
+
+**INTERVENTION**
+Antazida verabreicht um . 30 Minuten überwacht.
+
+-------------------------
+|   VITALWERTE   |   WERTE  |
+-------------------------
+|    BP      |   120/80  |
+|    HR      |    72     |
+|    RR      |    18     |
+-------------------------
+
+**BEOBACHTUNGEN**
+- Viel Sodbrennen
+- Beschwerden über Sodbrennen
+- Schlafschwierigkeiten aufgrund von Unbehagen
+
+**NÄCHSTE SCHRITTE**
+- Beratung mit Gastroenterologin Xenia Lehmann vorschlagen
+- Mögliche Diagnose: Gastroösophageale Refluxkrankheit (GERD)
+
+-------------------------
+| Kontaktinformationen    |
+-------------------------
+|Adresse: Selina Keller, Schönweg 27 106, 9634 Rain, Schweiz     |
+|Telefon: 608-476-9915x9794         |
+|Email: ian@unhcr.org         |
+------------------------- 
+
+**NOTIZEN DES PFLEGETEAMS**
+- Patientendaten auf Server 202.3.240.228 gesichert
+- Zugänglich durch Benutzername RCwaH7wU
+- Registriert mit Gesundheitsplan szcbWb
+- Medizinische Aktennummer 20018 499x zur Referenz 
+- ID-Nummer xRYGy 6684
+
+**VERTRAULICH**
+- Sozialversicherung: 138-1659670-07
+- Beruf: Tourismusbeauftragter
+- Organisation: Short, Mclean und Gilbert
+- Fahrzeug: 281 MBE
+- Lizenz: hBs 265758
+- BioID: Jfbqb gMJM
+- URL: stevens.com
+
+Hinweis: Kontaktieren Sie die angegebenen Kontaktinformationen für weitere Details zum Zustand und Fortschritt des Patienten."
+

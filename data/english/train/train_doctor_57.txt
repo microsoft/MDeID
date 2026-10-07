@@ -1,0 +1,46 @@
+"Doctor Scratch Note
+
+Patient: Cooper Ryan
+Age: 11-months-old
+Doctor: Luke Rooke
+Hospital: James Catholic
+City: Quanted
+State: 41
+Phone: 6846406828
+Email: eR@red-cross.org
+MedicalRecord: JnTLc 26fM
+Account: 9142-TVpEH
+License: bI RvydNJP
+
+Vitals & Observations:
+- Urinary retention, bilateral lower limb weakness, paresthesia
+- Onset: ~2 weeks prior
+- Zoster rash, right lower back, appeared ~10 days prior
+- Neurological: Severe lower limb weakness (MRC grade 0/5), abolished reflexes (ankle, knee), positive Babinski sign (both sides), decreased touch sensation (T2 level)
+- Imaging: Spinal MRI -> Hyperintense T2 lesion, T2-T11, gadolinium enhancement at T7-T8
+- Lab: WBC elevated (14100, 72% PMN), IgG VZV positive, IgM VZV negative
+- CSF: Lymphocytic pleocytosis (94 cells/uL), VZV IgG elevated (0.88), VZV IgG index high (14)
+
+Assessment:
+Suspected primary diagnosis: VZV-related myelitis (based on spinal lesions, CSF findings)
+Differential diagnoses: Other viral myelitides (ruled out - negative serologies/cultures)
+
+Plan:
+- Start IV acyclovir
+- Monitor for efficacy/side effects
+- Address pain management, urinary retention (medications, catheterization if needed)
+- Recommend physical therapy (prevent atrophy, improve mobility)
+- Educate patient (illness, medication adherence)
+- Schedule follow-up appointments
+- Referral: Neurologist (ongoing management), Urologist (urinary symptoms)
+
+Additional Notes:
+- Patient has been informed about referrals to Faulkner, Tanner and Mcfarland
+- No known allergies
+- No previous surgeries
+- No known CBOchZQ
+- Check  rosales.net/wp-contentregister.asp for more information
+- Patient's profession: Marine scientist
+
+Luke Rooke"
+

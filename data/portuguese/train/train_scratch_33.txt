@@ -1,0 +1,68 @@
+"Nota de Enfermagem:
+
+--------------------------------------------
+ID do Paciente: Emily Alves
+MRN: 973014 507
+--------------------------------------------
+
+Sinais Vitais:
+- Temp.: 38.5 Celsius
+- FC: 102 bpm
+- Resp.: 20 /min
+- PA: 135/85 mmHg
+- SpO2: 94%
+
+-------------------------------------------------
+Sintomas notáveis:
+- Fadiga 
+- Dores no corpo
+- Tosse persistente
+- Falta de ar
+
+Dx: Suspeita de 
+--------------------------------------------------
+
+Tx Administrado:
+- Administrado O2: 2L por cânulas nasais
+- Fluidos IV: 0.9% NaCl 1L
+- Administrado Paracetamol: 
+
+---------------------------------------------------
+Rx Pendente:
+- Raio-X do tórax
+- Culturas de sangue
+- CBC, CRP, 
+---------------------------------------------------
+
+Nota: 
+Paciente Emily Alves sentindo-se esgotada. Reclama de dores no corpo, tosse persistente, falta de ar. Possível pneumonia, mais testes necessários para confirmação. 
+
+---------------------------------------------------
+Dados Adicionais:
+
+Médico referente: Diogo Matos
+Plano de Saúde: vcACPH pOFvEgqobC
+ID do Dispositivo: SicdWp-lgw
+---------------------------------------------------
+
+Informações de Contato:
+
+- Telefone: 001-432-522-2752x3770
+- Email: ogoM@microsoft.org
+- Contato de Emergência: 
+
+---------------------------------------------------
+
+Observações:
+apwaiDG0 para acompanhar após a conclusão dos testes. 
+Administrar tratamento conforme prescrito pelo Dr. Diogo Matos 
+
+---------------------------------------------------
+Hostname/IP: 193.7.143.49
+Conectado ao Sistema Hospitalar: Lincoln Village Shopping Center
+Profissão: Oficial de treinamento e educação das forças armadas
+---------------------------------------------------
+
+Nota criada em: 1 de junho de 1994
+Nota revisada por: apwaiDG0"
+

@@ -1,0 +1,41 @@
+"**Pflegekratznotiz**
+
+**Patienten-ID:** tBxdt rGUq
+
+**Beobachtungen für 15.08.00:**
+
+1. Vitalwerte: BP: 110/70, HR: 65, RR: 16, Temp: 37.5C
+2. Symptome: Erbrechen, Magenschmerzen
+3. Bemerkte, dass die Haut/Augen von Leila Seidel leicht gelblich sind - Verdacht auf Gelbsucht
+4. Plan, die Vitalzeichen alle 4 Stunden zu überwachen
+5. Der Hydratationsstatus von Leila Seidel soll mit IV-Flüssigkeiten aufrechterhalten werden
+
+*Informelle Notiz*:
+Elodie Thomas soll informiert werden. Leila Seidel scheint müde. Schmerzniveau erhöht. Vitalwerte stabil, keine Temperaturspitze. Gelbsuchtähnliche Symptome benötigen Aufmerksamkeit.
+
+**Persönliche Informationen des Patienten:**
+- Wohnadresse: Leila Seidel, Dusan-Renner-Weg 5/2 37, 1272 Kriessern, Schweiz
+- Kontaktnummer: 428.324.6090x045
+- Notfallkontakt: Leila Seidel
+- Gesundheitsplan: kCa
+
+**Berufliche Kontakte:**
+- Behandelnder Arzt: Elodie Thomas
+- Diensthabende Krankenschwester: LO7OAj2Y
+
+**Weitere wichtige Informationen:**
+- Aufgenommen in Center.JPG
+- Erwähnte, dass sie bei Williams Group arbeitet
+- Letzte bekannte ACCESS LOG IP: 112.126.125.202
+- Geräte-ID des Monitors: fmCa cwJoN
+- Patientenkonto: DkvD-6358p
+- SSN-Details: 423-3207537-86
+- Lizenz-Nr. (falls vorhanden): jwfMIg-991
+- Biometrische ID: HAGEdi mnm
+- Andere Kennungen: DkvD-6358p
+- Alter des Patienten: 22
+
+**Möglicherweise erforderliche Nachsorge am Standort:** Bibliothek
+
+*Ende der Kratznotiz*"
+

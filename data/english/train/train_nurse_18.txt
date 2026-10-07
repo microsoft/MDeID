@@ -1,0 +1,31 @@
+"Nursing Narrative Note for Pediatric Oncology Patient
+
+Subjective:
+Our patient Jamie Fraser is a 16 who has been complaining of persistent discomfort in the lumbar region, which she describes as radiating down both legs. This pain has been ongoing for an approximate duration of four months.
+
+Objective:
+An MRI of Jamie Fraser's lumbar spine was conducted using device 681690 711 and showed the presence of an enhancing intradural, extramedullary lesion with adjacent dura thickening at the L2 location. Following a surgical procedure, histology confirmed the diagnosis of mesenchymal chondrosarcoma. This was characterized by the presence of round to spindle cells interspersed with cartilage and bone formation. Immunohistochemistry revealed a diffuse CD99 positivity and negative staining for epithelial membrane antigen, STAT6, and glial fibrillary acid protein. The Ki-67 index was recorded as approximately 30%. The Archer\u2122 FusionPlex Sarcoma Assay, which was conducted on our laboratory device 681690 711, detected the presence of gene fusion transcripts: HEY1-NCOA2 (exon 4 to exon 13 and exon 14).
+
+Assessment:
+From the aforementioned investigation, the primary diagnosis for Jamie Fraser is mesenchymal chondrosarcoma at the L2 vertebra. This moderately high Ki-67 index suggests aggressive behavior of the malignancy. It is essential to consider other sarcomas with similar histological features in the differential diagnosis.
+
+Plan:
+The next step is to convene a multidisciplinary team, including Gabrielle Bixley, to discuss Jamie Fraser's treatment options, focusing primarily on oncological management. We plan to continue monitoring her symptoms and potential side effects of treatment. Furthermore, it is crucial to educate the Jamie Fraser and her family about the nature of her diagnosis, the treatment possibilities, and the importance of regular follow-up. We will encourage them to report any new symptoms or concerns immediately. 
+
+[Contact Information]
+Emergency Contact: 8322211940
+Email: yle@red-cross.org
+Address: Jamie Fraser, 22 Pheophytin, Peridiolum, 17 9314, United States
+
+[Administrative Information]
+Medical Record Number: RA DjpYIpF
+Account Number: 642 yKpIsg
+Hospital: Joey
+Health Plan: HKQ
+Doctor: Gabrielle Bixley
+Username: W6Q75UXj
+ID Number: 642 yKpIsg
+
+[Footer]
+This document was created on Aug 2 78 by W6Q75UXj from Rose PLC. For more information, please visit  lane.com/listpost.php or contact us at 8322211940 or 758.560.6315x315."
+

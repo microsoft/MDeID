@@ -1,0 +1,44 @@
+"Rapport de soins aux patients : Asthme bronchique
+
+Envoi : 
+
+L'unité des Services Médicaux d'Urgence (SMU) a été envoyée à la résidence de John White suite à un appel au 911. L'appel a été reçu au centre des SMU situé à salle de sport à partir d'une adresse IP 160.27.168.119 via le système de réponse d'urgence en ligne. L'appelant, identifié comme 0Q1gkoGg, a signalé que le patient avait une crise d'asthme. L'envoi a été initié sous le numéro de compte 96681-328i.
+
+Description du patient :
+
+À notre arrivée, nous avons rencontré John White, un individu de 29 ans, qui était visiblement en détresse. L'impression générale indiquait que le patient souffrait d'un asthme bronchique sévère. La résidence du patient était à John White, 63 6909 Marc Crest, 5513 Fontenay-Le-Fleury, France sous le code postal 5513. Le véhicule du patient WEC-3202 était garé à l'extérieur. 
+
+Histoire de la maladie actuelle :
+
+John White a signalé souffrir d'une toux sèche depuis quelques jours. Le patient a remarqué une difficulté croissante à respirer, qui a été identifiée comme une probable exacerbation de l'asthme bronchique chronique. Le dernier épisode similaire à celui-ci a été signalé il y a environ 2 mois avec des symptômes similaires. 
+
+Antécédents médicaux :
+
+Le numéro de dossier médical du patient 115 64315E à Rochester Hospital indiquait des antécédents d'asthme bronchique. Le numéro de sécurité sociale du patient 0 43 19 35 605 485 était également enregistré. 
+
+Évaluation :
+
+John White était conscient et alerte mais en détresse respiratoire modérée. Le rythme respiratoire était élevé et des sifflements pouvaient être entendus. La peau du patient était légèrement pâle et froide au toucher. Aucune découverte significative n'a pu être détectée dans l'évaluation ABCD.
+
+Traitement :
+
+Le traitement initial a consisté à aider le patient à utiliser son inhalateur prescrit 4468 MEKYy. La respiration du patient a commencé à s'améliorer progressivement à mesure que l'inhalateur faisait effet. Le patient a ensuite été sécurisé sur la civière pour le transport, tout en surveillant continuellement les signes vitaux et les bruits pulmonaires.
+
+Transport :
+
+Le patient a été transporté à Rochester Hospital pour une évaluation et une prise en charge plus approfondies. Pendant le transport, l'état du patient a été évalué toutes les 5 minutes et signalé au personnel de l'hôpital via le dispositif de communication des SMU 4468 MEKYy. Le numéro d'identification du patient 96681-328i a été utilisé dans la communication avec l'hôpital.
+
+Transition des soins :
+
+À l'arrivée, les soins du patient ont été transférés au Dr. Carla Perrot à Rochester Hospital. Tous les documents nécessaires, y compris les antécédents médicaux du patient, ont été partagés via un courrier électronique sécurisé arP@microsoft.org et par fax 234.825.8458. L'ambulance était conduite par un personnel des SMU certifié dont le numéro de permis de conduire est 996598 GgS.
+
+Autres informations sur le patient :
+
+Le patient est employé chez Montgomery, Johnson and Stewart, détient le plan de santé 3mDchqzV, et la profession est travailleur humanitaire. Les données biométriques du patient 400927 404 ont été stockées en toute sécurité dans la base de données de l'hôpital.
+
+Rapport par : 0Q1gkoGg 20 mars 1971
+
+(Documenté conformément aux directives de l'HIPAA, et toutes les données du patient sont stockées en toute sécurité : URL smith-henry.cohen.burns.com)
+
+NOTE : Il s'agit d'un document synthétique et tous les espaces réservés aux PHI doivent être remplacés par des informations réelles tout en garantissant la confidentialité et la confidentialité des données du patient."
+

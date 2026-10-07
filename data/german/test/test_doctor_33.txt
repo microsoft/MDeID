@@ -1,0 +1,50 @@
+"Arzt Kratz Notiz
+
+-----
+Ellen Vermeiren, ein 50 Jahre alter Mann. 
+
+Vorliegende Beschwerden:
+Progressive Schwäche - beide unteren Gliedmaßen > obere Gliedmaßen.
+Dauer: 2 Tage.
+Heimtückischer Beginn.
+Vorangegangen von Muskelkrämpfen - 3 Tage.
+Keine veränderte Sensorik, Anfälle, Blasen-/Darmprobleme.
+
+Vorherige medizinische Geschichte:
+Ähnliche Episoden - Schwäche, Müdigkeit + Hypokaliämie - in den letzten 3 Jahren.
+Krankenhausaufenthalte erforderlich.
+Früher als hypokaliämische periodische Lähmung behandelt.
+
+Zusätzliche Symptome:
+Bilaterales Herabhängen der Augenlider.
+Fremdkörpergefühl - Augen.
+Trockener Mund.
+Kein kürzliches Erbrechen, Diuretika, Alkohol, Abführmittelgebrauch.
+
+Untersuchungsbefunde:
+Motorische Kraft - Untere Gliedmaßen: 3/5, Obere Gliedmaßen: 4/5. Proximale + distale Muskelgruppen.
+Tiefe Sehnenreflexe - beidseitig vermindert.
+Keine sensorischen Defizite/kraniale Nervenanomalien.
+Vitalwerte innerhalb der Norm.
+Kardiovaskuläre, respiratorische, gastrointestinale, Schilddrüsenuntersuchungen - unauffällig.
+
+Lab Befunde:
+Schwere Hypokaliämie - Serum Kaliumspiegel: 1,6 meq/L (Normal: 3,5-5,5 meq/L)
+EKG - Sinusbradykardie, Globale T Wellen Inversion, Subtile U Welle.
+
+Beurteilung:
+Primäre Diagnose - Hypokaliämische periodische Lähmung - Auslöser: Schwere Hypokaliämie.
+Differenzialdiagnosen - Myasthenia gravis - Ausgeschlossen durch negativen Antikörpertest.
+Wiederkehrende Symptome + schwere Hypokaliämie - Risiken: Herzrhythmusstörungen, Muskelschwäche.
+
+Plan:
+Sofortige Behandlung - IV Kaliumergänzung @20 meq/Stunde - Korrektur der Hypokaliämie.
+Kontinuierliche Herzüberwachung - Aufgrund von EKG-Veränderungen und Arrhythmierisiko.
+Bildung von Ellen Vermeiren - Überwachung der Symptome von Schwäche/Herzstörungen.
+Nachsorge - Neubewertung der Kaliumspiegel + motorische Funktion nach der Erstbehandlung.
+Überweisung an Emilie Laurent (Neurologin) - Weitere Bewertung/Behandlung der hypokaliämischen periodischen Lähmung.
+Ernährungsberatung - Kaliumaufnahme + potenzielle Auslöser für hypokaliämische Episoden.
+
+Emilie Laurent
+"
+

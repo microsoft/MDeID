@@ -1,0 +1,45 @@
+"**Nursing Narrative Note**
+
+S: Harry Campbell was brought into the emergency room presenting with symptoms of vomiting blood and disorientation. The patient's history includes a pattern of poorly controlled diabetes. Additional symptoms reported by the patient were nausea and epigastralgia which have been occurring for the past Wed.Apr.20.
+
+O: Upon examination, the patient was in a state of shock with vital signs indicating severe dehydration. Despite efforts to rehydrate, the patient's condition did not improve. Lab results showed a blood glucose level of 470 mg/dL, arterial blood gas with a pH of 7.2, PCO2 of 25.2 mmHg, HCO3 of 9.9 mEq/L, PO2 of 169 mmHg, and an anion gap of 24.3 mEq/L. Furthermore, urinary tests were positive for ketones and glucose. After intubation and emergency endoscopy, black pigmentation was observed across the entire esophageal mucosa. CT scans showed circumferential edematous thickening of the esophageal wall and slight pleural effusion but initially, there were no signs of perforation or free air in the mediastinum. However, a CT scan on day 7 suggested esophageal perforation as it indicated a significant increase in right pleural effusion and free air in the mediastinum.
+
+A: The primary diagnosis was acute esophageal necrosis (AEN) complicated by diabetic ketoacidosis. The patient's condition worsened due to suspected esophageal perforation, as suggested by the increase in pleural effusion and the presence of free air in the mediastinum.
+
+P: Harry Campbell was treated with antibiotics, glycemic control measures, a proton pump inhibitor, and plasmapheresis, which led to initial stabilization. Following the diagnosis of esophageal perforation, an emergency thoracoscopy was performed, and the necrotic portion of the esophagus was resected. Drainage tubes were placed in the thoracic cavity and mediastinum. The patient will continue to be closely monitored, and diabetes management will be emphasized to prevent future complications. Further consultations with gastroenterology and endocrinology are planned to optimize treatment and recovery.
+
+**Patient Information:**
+
+- Name: Harry Campbell
+- Age: 13
+- Medical Record Number: GLW-87wMGW
+- Address: Harry Campbell, 59 Pachylophus, Lumberyard 70 8123, Australia
+- Phone: 792.511.2751x800
+- Email: eor@yahoo.com
+- Doctor: Sienna Taylor
+- Health Plan: vRWxw9b
+- Date of Admission: Wed.Apr.20
+
+**Nurse Information:**
+
+- Name: 
+- ID Number: 66 90340Df
+- License: qU-QVXYnEy
+- Contact: 792.511.2751x800
+
+**Hospital Information:**
+
+- Name: Gandhi National
+- Address: Harry Campbell, 59 Pachylophus, Lumberyard 70 8123, Australia
+- Contact: 792.511.2751x800
+
+Note: This document does not include any PHI elements that do not make sense in the context of a nursing note. Such elements are included in a unique and creative header, footer, list, table, or other more structured sections of the note.
+
+**Footer:**
+
+- Document created on: Wed.Apr.20
+- Document URL: elliott.com
+- Username: CHarry
+- IP Address: 214.252.233.33
+- Fax: (652)723-3643x1461"
+

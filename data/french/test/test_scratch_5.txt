@@ -1,0 +1,49 @@
+"**Notes de l'infirmière** - Identifiant unique : qGOtb-wsqA
+***Préoccupations du patient*** 
+Problèmes respiratoires - Gravité notée, Détails supplémentaires capturés dans le dossier du patient n° 0537 HrJrq
+
+***Signes vitaux*** 
+TA : 120/80 mmHg
+Fréquence cardiaque : 75 bpm
+Respiration : 21 bpm 
+Température : 37,2 C 
+Saturation en oxygène : 92% 
+
+***Observations*** 
+Difficultés visibles - Respiration, Symptômes asthmatiques - Notés
+Référence au Dr. Peter Weber pour un examen plus approfondi. 
+
+--- 
+**Informations de contact d'urgence** 
+Nom : Angelina Noel 
+Numéro de contact : 857.918.0464 
+Adresse électronique : eer@un.org 
+Adresse : Angelina Noel, 560 Jean-Yves Garden Suite 163 89, 4296 Green Point, NSW, Suisse
+
+**Informations sur l'appareil**
+Nom de l'appareil : Inhalateur pour l'asthme, 
+Numéro de l'appareil : XA 349ASsY
+
+**Informations de facturation**
+Numéro de compte : qGOtb-wsqA
+Plan de santé : AtwD1u
+---
+**Autres informations** 
+Profession du patient : Conservateur
+Âge : 16
+Date de consultation : 20 avril 2002
+Lieu de consultation : parc
+Nom de l'hôpital : Springfield South Australia
+Numéro de sécurité sociale du patient : 227-981-599
+
+***Plan***
+Augmenter la fréquence d'utilisation de l'inhalateur. 
+Surveiller le schéma respiratoire. Référence au pneumologue Dr.Peter Weber.
+BioID du patient : 903833 902
+---
+**Commentaires**
+Adresse IP du patient : 137.24.106.99
+Informations sur le permis du patient : DEwdDL 24S
+
+C'est un document synthétique."
+

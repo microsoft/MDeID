@@ -1,0 +1,32 @@
+"------------------------------------------------------------------------------------------------------------------
+Krankenschwester Notizen für Marcel Weber
+------------------------------------------------------------------------------------------------------------------
+
+Subjektiv: 
+
+Der Patient, ein männlich, berichtet über Schmerzen, Schwellungen und Veränderungen an seiner rechten Brust. Sie beschreibt auch kürzlich aufgetretene Symptome von Doppeltsehen, verschwommenem Sehen und erheblich eingeschränkter Bewegung in ihrem rechten Auge, mit einer Abnahme der Sehschärfe. 
+
+Objektiv: 
+
+Die erste Brustultraschalluntersuchung zeigte eine unregelmäßige Masse in der rechten Brust und eine weitere Läsion an einer anderen Stelle, mit vergrößerten Lymphknoten in der rechten Achselhöhle. Eine Stanzbiopsie bestätigte die Diagnose eines invasiven duktalen Karzinoms (IDC), mit bestimmten Merkmalen. Der Patient unterzog sich einer Ganzkörper-CT-Untersuchung, die keine metastatische Erkrankung zeigte. Nachbehandlungstests bestätigten die IDC-Diagnose, wobei mehrere axilläre Lymphknoten metastatische Ablagerungen zeigten. Eine kürzliche MRT-Untersuchung des Gehirns zeigte eine Beule, die einen bestimmten Augenmuskel betraf. 
+
+Bewertung: 
+
+Die Hauptdiagnose ist ein invasives duktales Karzinom (IDC) der rechten Brust, derzeit ohne Fernmetastasen, aber mit erheblicher lokaler und regionaler Ausbreitung. Die neuen okulären Symptome und MRT-Befunde deuten auf eine mögliche Metastase oder eine sekundäre Malignität hin, die einen bestimmten Augenmuskel betrifft. 
+
+Plan: 
+
+Der Patient hat eine Reihe von Zyklen der neoadjuvanten Chemotherapie abgeschlossen, eine rechtsseitige hautschonende Mastektomie, axilläre Lymphknotendissektion und Strahlentherapie der Brustwand durchgeführt. Sie ist derzeit unter hormoneller Therapie mit bestimmten Medikamenten. Angesichts der neuen okulären Befunde sind weitere diagnostische Untersuchungen und Konsultationen mit einem Onkologen und Augenarzt notwendig, um die geeignete Behandlungsstrategie für die potenzielle Metastase oder den neuen primären Krebs zu bestimmen. 
+
+------------------------------------------------------------------------------------------------------------------
+Fußzeile: 
+
+Krankenschwester William Michiels, Lizenznummer fcG-410Oal, Kontaktnummer (228)280-5516x124, E-Mail-ID miel@un.org, 
+Gerät zur Dokumentation wAc yqpiWD, IP-Adresse zum Einloggen in das System 134.51.114.49, 
+Benutzername sGGHAuWS, Sozialversicherungsnummer 93 133 868 004, Fahrzeugnummer 98W IF0,
+Patienten-Biometrie-ID 589557-810, Patientenkontonummer PKQ Bvxqrs, ID-Nummer PKQ Bvxqrs, 
+Alter des Patienten 18, Adresse des Patienten Marcel Weber, Ina-Schwarzinger-Gasse 9 123, 6758 Valencia, Österreich, Stadt Issing Gemeinde Vilgertshofen, Bundesland Sachsen, Land Belgien, 
+PLZ 6758, Krankenhaus Bishopthorpe, Anderer Ort Café, Gesundheitsplan pf, 
+Beruf Gewerkschaftsforschungsbeauftragter, Organisation Davila LLC, Fax 927-498-4559x585, URL stewart-jones.org
+------------------------------------------------------------------------------------------------------------------"
+

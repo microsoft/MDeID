@@ -1,0 +1,40 @@
+# Resumen de Alta
+
+Paciente: Hernando ToroDoctor: Armando MadrigalHistoria Clínica: qBYgJ 31VD  
+Fecha de Admisión: 4 de noviembre de 19986 abr 19804 de noviembre de 1998  
+Fecha de Alta: 4 de noviembre de 19986 abr 19804 de noviembre de 1998  
+Disposición de Alta: Hogar
+
+## Motivo de Hospitalización:
+El paciente Hernando Torofue admitido debido a síntomas sugerentes de endocarditis. Estos incluyeron dolor pleurítico, engrosamiento, mialgia y condición apirética.
+
+## Curso Hospitalario:
+El paciente se sometió a procedimientos diagnósticos integrales y cuidados de apoyo. Se inició el tratamiento con antibióticos basado en el diagnóstico sospechado de endocarditis.
+
+## Procedimientos Realizados:
+1. Cultivos de Sangre
+2. Ecocardiograma Transtorácico
+
+## Cuidado, Tratamiento y Servicios Proporcionados:
+Durante la estancia hospitalaria, el paciente fue manejado con antibióticos intravenosos, manejo del dolor y cuidados de apoyo. La condición del paciente mejoró progresivamente.
+
+## Diagnóstico de Alta:
+La mejora clínica respaldó el diagnóstico de endocarditis.
+
+## Información Proporcionada al Paciente y la Familia:
+Se informó al paciente y a la familia sobre las posibles complicaciones que podrían ocurrir después del alta y los signos que requerirían atención médica inmediata.
+
+## Disposiciones para el Cuidado de Seguimiento:
+El paciente tiene programado un seguimiento con Armando Madrigalen Nación Navajo el 4 de noviembre de 19986 abr 19804 de noviembre de 1998. El seguimiento buscará monitorear el progreso del paciente y evaluar la efectividad del tratamiento.
+
+## Medicamentos al Alta:
+1. Antibióticos - Continuar según prescripción
+2. Medicación para el dolor - Según sea necesario
+
+## Historia Familiar:
+No se conoce historia de endocarditis en la familia.
+
+## Instrucciones de Alta Hospitalaria:
+Al dar de alta, se instruye al paciente a continuar tomando los medicamentos recetados, mantener buenas prácticas de higiene e informar de inmediato cualquier síntoma nuevo o que empeore.
+
+**Tenga en cuenta que este es un documento sintético y todos los detalles son marcadores de posición. Para cualquier discrepancia, consulte la historia clínica original.**

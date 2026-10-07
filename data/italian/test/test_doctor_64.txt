@@ -1,0 +1,43 @@
+"Dr. Andreas Huber Nota di Scratch:
+
+Paziente: Matteo Montanari
+SSN: 431649-2912
+Data di nascita: 1 marzo 1983
+ID: CJmequ 250
+Indirizzo: Matteo Montanari, 6309 Christopher Dale, 169, 7417 Pietrabbondante Prebellum, Italia
+
+Vitali: 
+BP: 130/85 
+Pulse: 75 
+Temp: 98.6F 
+Resp: 16/min 
+Peso: 170 lbs
+Altezza: 5'10\"
+
+Osservazioni:
+- Storia: OSCC multiple, Ca prostata, fumatore pesante (passato), consumatore di alcol pesante (passato)
+- Complicazioni: Ematoma cervicale post-OP, mucosite, epitelite, radioterapia, trombosi venosa (risolta)
+- Trattamento attuale: Ca prostata, ipotiroidismo (medicazione)
+
+Valutazione:
+- OSCC: vari trattamenti (escissioni chirurgiche, linfadenectomie, ricostruzioni di lembi radiali liberi microvascolari, radioterapie interne/esterne)
+- OSCC recente: mucosa buccale sinistra (T2 N0 M0), senza radioterapia
+- Ca prostata: Radioterapia esterna
+- Ipotiroidismo: medicazione, livelli monitorati
+
+Piano:
+- Continuare: regime di trattamento per Ca prostata, terapia sostitutiva con ormone tiroideo
+- Programmare: controlli regolari (recidiva OSCC, complicazioni)
+- Cura di supporto: effetti collaterali della radioterapia
+- Supporto psicologico: se necessario
+- Abitudini al fumo, consumo di alcol: cessazione
+
+Email: berea@unicef.org
+Telefono: (595)864-9861x657
+Org: Mcbride-Garcia
+Professione: Esecutivo legale autorizzato (Inghilterra e Galles)
+
+Firmato,
+Andreas Huber
+Licenza: VlFO-nZwGs"
+

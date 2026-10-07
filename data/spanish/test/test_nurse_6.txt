@@ -1,0 +1,37 @@
+"Nota Narrativa de la Enfermera
+
+Subjetivo: Giovana Rodrigues revela un historial de dolor crónico de espalda, parcialmente controlado con medicación, y disnea empeorante que lleva a una necesidad creciente de suplementación de oxígeno. El historial médico del paciente incluye obesidad mórbida, apnea obstructiva del sueño, leucemia linfocítica aguda con trasplante de médula ósea y enfermedad del injerto contra el huésped, lo que resulta en una enfermedad pulmonar restrictiva severa.
+
+Objetivo: No se proporcionaron los signos vitales de Giovana Rodrigues. Los resultados del EKG indicaron una bigeminia auricular de inicio reciente, que luego se resolvió. Un angio-TC mostró una conexión venosa pulmonar parcialmente anómala (PAPVC) que involucra la vena pulmonar en el lóbulo superior izquierdo y la língula. El ecocardiograma del paciente mostró un ventrículo derecho ligeramente dilatado, regurgitación leve de la válvula tricúspide y función ventricular izquierda normal. Las pruebas de función pulmonar mostraron una capacidad pulmonar total del 42%, FEV1 del 39%, FVC del 37% y DLCO del 41% de los valores predichos. La cateterización del corazón derecho e izquierdo mostró hipertensión pulmonar con presiones elevadas y una relación de flujo pulmonar a sistémico (Qp/Qs) de 1.22:1.
+
+Evaluación: El diagnóstico principal es la conexión venosa pulmonar parcialmente anómala (PAPVC) con complicaciones secundarias de hipertensión pulmonar e insuficiencia respiratoria crónica debido a la enfermedad pulmonar restrictiva severa. El diagnóstico diferencial inicial incluía embolia pulmonar, que fue descartada por angio-TC.
+
+Plan: Continuar con la suplementación de oxígeno y la medicación para el manejo del dolor crónico de espalda. Giovana Rodrigues necesita un seguimiento cercano del estado respiratorio y cardíaco, con citas de seguimiento para discutir más opciones de tratamiento. Es crucial la educación para el paciente sobre el monitoreo de los síntomas y el reconocimiento de cuándo buscar ayuda médica inmediata. Se recomienda la derivación a un neumólogo y a un cardiólogo para el cuidado y manejo especializado de PAPVC e hipertensión pulmonar.
+
+[HEADER]
+ID del Paciente: oHTVk 546C
+Fecha de la Visita: 26/7/89
+Nombre de la Enfermera: Bautista Moreno
+Hospital: ob
+Dirección: Giovana Rodrigues, Diagonal Eslovenia 000 Interior 814 191, Borderlight, 81636 Curuzú Cuatiá, 17, Colombia
+Información de Contacto: Teléfono - 761-563-1097x8098, Email - ao@outlook.com
+[FOOTER]
+Dirección IP del Paciente: 203.245.131.79
+ID del Dispositivo: 17496 6005
+Nombre de Usuario: 4PWX43GP
+Número de Seguridad Social: 15.909.572
+Número de Licencia: dyqT-RmFLO
+ID Biométrico: 1214-zSOOH
+Detalles del Vehículo: 587 JZV
+Número de Cuenta del Paciente: CkUOY 248a
+Organización del Paciente: Anderson LLC
+Detalles del Plan de Salud: XUkT7Rqt1H5Q
+Profesión: Ingeniero, mantenimiento
+Ciudad: Curuzú Cuatiá
+País: Peru
+Estado: Catalonia
+Calle: 4956 Maria Heights Apt. 108
+Código Postal: 81636
+URL: https://www.morgan-payne.info/tagspost.php
+Fax: 601-482-3849"
+

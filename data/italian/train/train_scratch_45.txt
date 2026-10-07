@@ -1,0 +1,69 @@
+"===================
+INFORMAZIONI SUL PAZIENTE
+===================
+-Nome del paziente: Kurt Widmer
+-Nome utente: idmert
+-Indirizzo: Kurt Widmer, 285 Hernandez Underpass Suite 722 162, 8773 Quattro Castella, Svizzera
+-Telefono: 914.637.3148
+-Email: rr@icloud.com
+-Data di nascita: martedì 27 gennaio 1970
+-Sicurezza sociale: 725947-8015
+-Account: uJE PInILS
+
+===================
+DATI MEDICI
+===================
+-Ospedale: Citadel F.C
+-Dottore: Lara Meyer
+-Cartella clinica: 96-378ADkr
+-Piano sanitario: lmQ1skw VVuVc
+-IDNUM: uJE PInILS
+-Dispositivo: 331 TayQHN
+-LICENZA: 4626 aDUlD
+-INDIRIZZO IP: 212.145.186.44
+-BIOID: hfJ 682OEg
+
+===================
+VITALI
+===================
+-Temperatura: 98.4 F
+-Pulsazioni: 78 bpm
+-Respirazione: 22 rpm
+-Pressione sanguigna: 120/80 mmHg
+
+===================
+OSSERVAZIONI
+===================
+- Aspetto generale: Il paziente continua a segnalare una sensazione di prurito su tutto il corpo. 
+- Pelle: Pallida, varie macchie rosse sul torso
+- Occhi: Ittero evidente 
+
+===================
+VALUTAZIONE
+===================
+-Probabile Malaria, richiesta striscio di sangue a Mitchell, Ortiz and Morris. 
+-In attesa di risposta dal laboratorio a palestra per confermare la diagnosi.
+
+===================
+PIANO
+===================
+-Terapia avanzata per la malaria come suggerito da Lara Meyer 
+-Trasfusione di sangue se necessario
+-Consultazione di follow-up dopo il risultato da Mitchell, Ortiz and Morris
+
+===================
+INFORMAZIONI AGGIUNTIVE
+===================
+-Veicolo del paziente: 7HM 101
+-Professione: Patologo
+-Contatto di emergenza del paziente: Kurt Widmer
+-Telefono del contatto di emergenza: 914.637.3148
+
+===================
+Footer
+===================
+Firma elettronica del dottore: Lara Meyer
+Ora di completamento: martedì 27 gennaio 1970
+URL dell'ospedale: https://king-romero.com/wp-contentpost.htm
+Fax dell'ospedale: 884.980.6306x829"
+

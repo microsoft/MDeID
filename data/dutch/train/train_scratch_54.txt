@@ -1,0 +1,74 @@
+"Verpleegkundige Kras Notitie
+
+-----------------------VISUELE OBSERVATIE-----------------------
+
+- Elise Gérard lijkt over het algemeen ongemakkelijk
+
+- Aanhoudende hoest waargenomen
+
+-------------------------VITALE TEKENS---------------------------
+
+- Temperatuur: 98.7°F
+
+- Bloeddruk: 130/80 mmHg
+
+- Hartslag: 90 bpm
+
+------------------------VERPLEEGKUNDIGE'S NOTITIES--------------------------
+
+1. Elise Gérard presenteert met hoest die al enkele dagen aanhoudt. Voorlopige diagnose: bronchiale astma
+
+2. Medicatie voorgeschreven door Teun Vink om symptomen te beheersen
+
+-------------------PATIËNT'S MEDISCHE GESCHIEDENIS-------------------
+
+- Medisch dossier nummer: GOu-1995Wc
+
+- Laatste ziekenhuisbezoek: McDonnell plant
+
+- Zorgplan: dV0
+
+------------------------BIOMETRIE---------------------
+
+1. Stem biometrische id: LgHw uhdAx
+
+-------------------PATIËNT'S PERSOONLIJKE DETAILS-------------------
+
+- Elise Gérard's Leeftijd: 109
+
+- Adres: Elise Gérard, Electrotheraputic 8, 9329 Laulau, Nederland
+
+- Beroep: Reclame account planner
+
+- Gebruikersnaam op ziekenhuisportaal: HOEJSxhq
+
+----------------------CONTACTINFORMATIE----------------------
+
+- Telefoon: 5525758922
+
+- Email: nku@who.int
+
+--------------------ANDERE INFORMATIE--------------------
+
+- Patiënt's persoonlijke id: 4960 8675U
+
+- Apparaat gebruikt voor thuismonitoring: JBufDY-623, Apparaat id: 
+
+- Patiënt Account: 4960 8675U
+
+- Rijbewijs: YK 585ixku
+
+- Voertuig identificatienummer: BUG-5563
+
+- IP-adres van patiënt's apparaat: 89.7.172.81
+
+- Sociale Zekerheidsnummer: 378-4884582-67
+
+- Patiënt's Organisatie: Mcdaniel Ltd
+
+- Laatste bezoek aan markt
+
+- Fax: (934)469-5079
+
+\u29bf\u29bf----------Einde van Kras Notitie----------\u29bf\u29bf"
+

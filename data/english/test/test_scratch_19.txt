@@ -1,0 +1,59 @@
+"Nursing Scratch Document
+
+Patient: Felix Wilson
+------------------------------------------------
+
+Vitals:
+BP: 120/80
+Pulse: 80 BPM
+Temp: 98.6 F
+OxySat: 98%
+
+----------------------- Richard-Harmon -----------------------
+
+Observation: 
+- Neck discomfort
+- Instability
+- Balance irregularities
+- Possible fCIdJS-APV
+
+---------------------------------------------------
+Prev DOC: Kathy Garrett
+Ref DOC: Kathy Garrett
+Hosp: Brooklyn Free Kindergarten
+
+---------------------------------------------------
+Treatment Plan: 
+1. 80930 00Mr - usage assessment
+2. Physical Therapy - ongoing
+3. q99E6 - coverage confirmation
+
+---------------------------------------------------
+Contact Info: 
+- E-mail: tht@msf.org
+- Phone: 793-547-4398x399 
+- Fax: (210)696-4096x25758
+
+---------------------------------------------------
+Notes:
+
+- Felix Wilson demonstrates medical history of fCIdJS-APV
+- 80930 00Mr - implant check-up recommended
+- Follow-up in Feb.79
+- Notify Kathy Garrett re patient Felix Wilson state
+
+---------------------------------------------------
+Location: stadium
+Assigned Nurse: uO5hzGKd
+
+----------------------- Richard-Harmon -----------------------
+
+Additional Info:
+- ID: 042 xilLah
+- SSN: 621-54-5519
+- LICENSE: jJe-VSJres
+- IP: 149.216.197.223
+- VEHICLE: 5GI 941
+
+---------------------- END OF NOTE ----------------------"
+

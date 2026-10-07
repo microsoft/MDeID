@@ -1,0 +1,31 @@
+"S: Paciente Giovana Cruz relatou um histórico de alta febre e úlceras dolorosas com inchaço do couro cabeludo na admissão em 21/07/1974. A paciente também apresentou má alimentação devido à condição.
+
+O: Exame físico realizado pela Ana Teixeira revelou consciência com uma pontuação de 15 na Escala de Coma de Glasgow, formação de pus, fístula com secreção purulenta, descamação do couro cabeludo e inchaço facial. Exames laboratoriais mostraram neutropenia severa com leucócitos em 2,39 x 10^9/l, neutrófilos em 0,25 x 10^9/l e linfócitos em 2,1 x 10^9/l. A taxa de sedimentação de eritrócitos estava elevada em 101 mm/hora, e a proteína C-reativa estava significativamente alta em 272 mg/dl. A cultura de pus testou positivo para Enterococcus faecalis e Escherichia coli. Culturas de sangue e urina foram negativas. Raio-X do tórax, análise de urina e análise do líquido cefalorraquidiano estavam normais. Os títulos séricos de imunoglobulinas e as porcentagens de células T estavam dentro dos limites normais. A análise da medula óssea mostrou parada de maturação no estágio promielócito/mielócito sem envolvimento maligno. A tomografia computadorizada da cabeça e do crânio no Antonis indicou enfisema subcutâneo do couro cabeludo, mas sem lesão cerebral ou fraturas no crânio.
+
+A: O diagnóstico principal é fasciite necrosante do couro cabeludo complicada por septicemia. Diagnósticos diferenciais considerados incluíram outras etiologias infecciosas, que foram descartadas por meio de várias culturas e testes sorológicos.
+
+P: A paciente foi tratada com pentaglobina (0,5 g/kg) e uma combinação de antibióticos: vancomicina, meropenem e metronidazol. A terapia com fator estimulante de colônias de granulócitos (G-CSF) foi iniciada em doses variando de 5 a 15 µg/kg/dia para gerenciar a neutropenia severa. A paciente recebeu alta após 21/07/1974 de tratamento e continua com a terapia regular de G-CSF para prevenir novas infecções. O acompanhamento inclui monitoramento regular da contagem de neutrófilos e do estado geral de saúde no Antonis para garantir que não haja recorrência de infecção.
+
+Informações adicionais:
+- Número do prontuário médico do paciente: 8776-73hQa
+- Número da conta do paciente: rfVPZg FOe
+- Número de série do dispositivo do paciente: CxhAap-oBX
+- Nome de usuário do paciente: iovanC
+- Informações do veículo do paciente: 994 KEV
+- Número do seguro social do paciente: 66370741-4
+- Informações da licença do paciente: VUihJG-082
+- Identificador biométrico do paciente: 6037 90092
+- Endereço IP do paciente: 112.84.1.249
+- Número de ID adicional do paciente: rfVPZg FOe
+- Idade do paciente: 37
+- Endereço do paciente: Giovana Cruz, Avenida Gonçalves, 45 150, 1105 Bagé, Portugal
+- Localização do paciente: supermercado
+- Plano de saúde do paciente: uBXUA
+- Profissão do paciente: Horticultor, comercial
+- Organização do paciente: Curtis Ltd
+- Data de hoje: 21/07/1974
+- Email do paciente: raa@unhcr.org
+- Número de telefone do paciente: +1-415-203-6005x2208
+- URL do paciente: gonzalez-carrillo.padilla.norris.com
+- Número de fax do paciente: 275-441-4121x45521"
+

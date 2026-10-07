@@ -1,0 +1,48 @@
+"Nota de Enfermeira: Observação de Dengue
+
+Instantâneo dos Sinais Vitais:
+
+Temperatura: 38.5
+Pressão Arterial: 120/80
+Frequência Cardíaca: 88 bpm
+Respiração: 16 respirações por min
+
+Palavras-chave da Condição: Dor nas articulações, Febre alta, Dor de cabeça, Náusea 
+
+Tratamento Administrado: 
+Administrado , dosagem 200mg
+
+Observações Adicionais:
+Erupção cutânea observada na pele de Samuel Dias - Suspeita de Dengue. Aguardando mais testes.
+
+Notas:
+Samuel Dias mudou-se recentemente do Brasil. Exposição potencial. 
+Mora em Samuel Dias, Jardim Mariana Alves, 4 200, 3599 Dois Irmaos, Portugal - verificar locais de reprodução de mosquitos.
+
+Próximos Passos:
+Diana Antunes para confirmar o diagnóstico. 
+Informar Guerrero, Castro e Martinez se a dengue for confirmada.
+
+Contatos: 3769203249, as@outlook.com, 418.979.3624x15876 (Em caso de emergência ou necessidade de discutir mais)
+
+----------------------------------------
+Notas de Rodapé do Documento:
+
+- Dispositivo Pessoal: wit AbstAi usado para monitoramento
+- Detalhes do plano de seguro de saúde: 3Hhf1Evz
+- Nome de usuário do paciente para portal online: gEdofLvD
+- Número do Registro Médico do Paciente: OArtT-794v
+
+Nota: A consulta ocorreu em 22 de mar. de 2022. Todas as informações estão corretas até esta data.
+
+----------------------------------------
+
+IP do Dispositivo: 31.28.214.128
+Número da Licença: 09-3646QDR
+BioID: 185393 Slj
+Identificador do Veículo: 616 OHZ
+Número do Seguro Social: 47984362-8
+Número da Conta: 97034-3158
+
+**Nota Confidencial**: Para uso interno por pessoal autorizado apenas."
+

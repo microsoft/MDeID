@@ -1,0 +1,35 @@
+"Paciente Lara Carvalho - menino de 26 anos. 
+
+S: 
+- Apresentou-se ao Burlington SC com dificuldade respiratória, sem febre
+- Histórico de um mês de tosse e chiado - não responde a antibióticos e esteroides 
+- Suspeita de diagnóstico de asma
+- Sem histórico de: engasgo, disfagia, baba, atopia, problemas perinatais 
+
+O: 
+- Consciente, afebril - Temp: 37.5\u00b0C
+- Frequência cardíaca: 130 bpm, Frequência respiratória: 40 bpm, Saturação de O2: 93%
+- Recessão supraesternal, ronco disperso, sibilância difusa
+- Sem sinais de: desidratação, desnutrição, cianose
+- Exame cardiovascular: normal
+- Exames laboratoriais: hemograma normal, PCR: 14 mg/l
+- Raio-X: corpo estranho (mediastino superior)
+
+A: 
+- Diagnóstico primário: Dificuldade respiratória devido a corpo estranho (botão de roupa) no esôfago torácico superior
+- Diagnóstico errado: Asma
+- Diagnóstico diferencial: Asma, outras causas de dificuldade respiratória pediátrica
+- Prognóstico: Bom, após a remoção do corpo estranho
+
+P: 
+- Remoção do corpo estranho via hipofaringoscopia sob sedação
+- Gerenciamento pós-operatório: Fluidos IV, corticosteroides (reduzir a inflamação periesofágica)
+- Alta: 24 horas após o procedimento
+- Dieta: Líquidos claros
+- Sem complicações ou recorrência de sintomas
+- Acompanhamento: Monitorar danos ao esôfago, problemas respiratórios
+- Educação do cuidador: Prevenir aspiração de corpo estranho
+
+José Teixeira
+Designer gráfico"
+

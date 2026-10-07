@@ -1,0 +1,44 @@
+"Nota Narrativa de Enfermagem: Avaliação e Plano para Paciente com Câncer Colorretal
+
+S: Sara Marques, com um histórico familiar significativo de câncer de cólon, relatou sentir dor abdominal generalizada, náusea, perda de peso não intencional de quatro libras e falta de ar por aproximadamente uma semana.
+
+O: Os sinais vitais não foram especificados no relatório do paciente. Exames de sangue revelaram enzimas hepáticas elevadas e níveis de bilirrubina. O teste de sangue oculto nas fezes foi positivo, indicando a possível presença de sangue nas fezes. A imagem via tomografia computadorizada mostrou ascite, linfadenopatia retroperitoneal e periportal, hepatomegalia com massas hepáticas extensas sugestivas de doença metastática, alças de intestino delgado dilatadas, cólon transverso distendido e cólon distal colapsado. O nível de CA 19-9 do paciente, um marcador para câncer pancreático, estava elevado. Uma biópsia por agulha grossa indicou adenocarcinoma pouco diferenciado com coloração imuno-histoquímica positiva para CDX2 e CK20, negativa para PAX-8, CK7, p40 e TTF-1. A colonoscopia revelou uma grande massa cecal, confirmada como adenocarcinoma na biópsia. Sara Marques passou por uma hemicolectomia direita com ileostomia; a patologia confirmou pT4a, N1b, M1a adenocarcinoma e um tumor neuroendócrino bem diferenciado separado no apêndice.
+
+A: O diagnóstico primário é adenocarcinoma metastático do cólon, estágio pT4a, N1b, M1a, com um diagnóstico secundário de tumor neuroendócrino do apêndice. Outras fontes de malignidade intra-abdominal foram consideradas como diagnósticos diferenciais, mas a imuno-histoquímica apoia uma origem colorretal.
+
+P: O plano é discutir o caso de Sara Marques em uma reunião de equipe multidisciplinar envolvendo Santiago Simões para determinar uma estratégia de tratamento apropriada, provavelmente envolvendo quimioterapia, radioterapia ou terapias direcionadas. A educação sobre o diagnóstico, estadiamento e opções de tratamento será fornecida a Sara Marques. Consultas de acompanhamento serão agendadas com Santiago Simões para monitorar a resposta ao tratamento e gerenciar quaisquer complicações.
+
+---
+
+Informações de Contato:
+
+Telefone: 001-893-483-4070x352
+
+Email: iSantia@mail.com
+
+Contato de Emergência:
+
+Nome: Sara Marques
+
+Telefone: 001-893-483-4070x352
+
+---
+
+Detalhes Adicionais:
+
+Número da Conta: 792113 mlV
+
+Número do Registro Médico: 55-YOQwcbh
+
+Número do Dispositivo: amzLMT-852
+
+---
+
+Assinatura Eletrônica:
+
+arquea
+
+---
+
+Esta nota é gerada por um agente inteligente para Alvarado-Cross.\n"
+

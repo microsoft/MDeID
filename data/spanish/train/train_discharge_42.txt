@@ -1,0 +1,36 @@
+# Resumen de Alta
+
+## Detalles del Paciente
+Pablo Gómez con número de registro médico 053242-48u
+
+## Motivo de Admisión
+El paciente fue admitido debido a una necesidad urgente de orinar y dificultad para respirar. Estos síntomas sugerían una posible condición de edema pulmonar.
+
+## Procedimientos Realizados
+A su ingreso, el paciente fue atendido inmediatamente por el equipo médico. La evaluación inicial incluyó un examen de signos vitales y un examen físico detallado. Se realizó un ecocardiograma para confirmar el diagnóstico.
+
+## Cuidado, Tratamiento y Servicios Proporcionados
+Una vez confirmado el edema pulmonar, a Pablo Gómez se le administró oxigenoterapia y medicamentos para ayudar a eliminar el exceso de líquido de los pulmones. Los medicamentos incluyeron diuréticos y vasodilatadores. La respuesta del paciente al tratamiento fue monitoreada de cerca durante toda la estancia hospitalaria.
+
+## Condición y Disposición al Alta
+Al momento del alta, la respiración de Pablo Gómez había mejorado significativamente y la necesidad de orinar ya no era urgente debido al efecto de los medicamentos. El paciente demostró una respuesta positiva al tratamiento proporcionado.
+
+## Información Proporcionada al Paciente y la Familia
+Se informó al paciente y a los miembros de la familia sobre la naturaleza del edema pulmonar y cómo manejarlo en casa. Se enfatizó la importancia de las visitas regulares de seguimiento y la adherencia a la medicación.
+
+## Provisiones para el Cuidado de Seguimiento
+Se ha programado una cita de seguimiento con el Dr. Max Wilson en dos semanas en la Iglesia de la Inmaculada Concepción para monitorear el progreso del paciente y ajustar los medicamentos si es necesario.
+
+### Alergias e Intolerancias
+El paciente no informó de ninguna alergia o intolerancia conocida.
+
+### Medicamentos de Alta
+Continuar con los medicamentos prescritos: Diuréticos y Vasodilatadores. Se proporcionaron instrucciones detalladas sobre la dosis, los horarios y los efectos secundarios.
+
+### Instrucciones de Alta del Hospital
+Se aconseja a Pablo Gómez que descanse, evite la ingesta excesiva de líquidos y controle su peso diariamente. Cualquier aumento repentino de peso o dificultad para respirar debe ser informado al médico de inmediato.
+
+### Resumen de Estudios de Alta del Hospital
+El ecocardiograma reveló exceso de líquido en los pulmones indicativo de edema pulmonar.
+
+Fin del documento.

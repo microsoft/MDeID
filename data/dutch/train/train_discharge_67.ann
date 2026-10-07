@@ -1,0 +1,13 @@
+T1	PATIENT 70 86	Tristan Cornelis
+T2	MEDICALRECORD 112 122	13 334173g
+T3	DOCTOR 142 163	Sander van den Heuvel
+T4	DATE 216 242	zaterdag 13 september 1997
+T5	DATE 282 308	zaterdag 13 september 1997
+T6	PATIENT 364 380	Tristan Cornelis
+T7	PATIENT 793 809	Tristan Cornelis
+T8	PATIENT 1199 1215	Tristan Cornelis
+T9	PATIENT 1744 1760	Tristan Cornelis
+T10	PATIENT 1867 1883	Tristan Cornelis
+T11	PATIENT 2033 2049	Tristan Cornelis
+T12	DOCTOR 2253 2274	Sander van den Heuvel
+T13	PATIENT 2299 2315	Tristan Cornelis

@@ -1,0 +1,17 @@
+"Doktersnotities:
+
+S: 
+Patiënt Marine Deprez is een langdurige acromegalie patiënt. Opmerkelijke symptomen zijn onder andere dyspneu bij inspanning en kortademigheid (2 jaar), recente presyncope-episode (2 weken geleden). Marine Deprez behandeld met octreotide voor ongeveer 2 decennia, 2 stereotactische radiochirurgie procedures in de afgelopen 10 jaar. Geen familiegeschiedenis om op te merken. Ontkent hypertensie, diabetes mellitus, slaapapneu, plotselinge hartdood. Geen roken, alcoholconsumptie.
+
+O: 
+BMI duidt op overgewicht, 39 kg/m2. Duidelijke acromegalische kenmerken aanwezig: vergrote tong, lippen, handen, voeten. Vitale functies: Bloeddruk - 110/60 mmHg, Pols - 92 slagen/min, sinusritme, onregelmatige voortijdige slagen, pathologisch derde hartgeluid, systolisch geruis. ECG toont LBBB, NYHA stadium III-IV hartfunctie. MRI bevestigde hypofyse macroadenoom. Laboratoriumresultaten: verhoogd BNP (740 pg/ml), overmatig groeihormoon en IGF-1.
+
+A:
+Primaire diagnose: Acromegalie. Complicaties: Hartfalen (blijkend uit verhoogd BNP, NYHA stadium III-IV), hypofyse macroadenoom. Differentiële diagnoses: Andere oorzaken van cardiomyopathie, secundaire effecten van langdurig groeihormoonoverschot.
+
+P: 
+Doorgaan met octreotide, effectiviteit en bijwerkingen monitoren. Plan verwijzing naar Nick Van De Velde (cardiologie) voor het beheer van hartproblemen. Kijk naar het aanpassen van hartfalen medicijnen op basis van Nick Van De Velde aanbevelingen. Regelmatige follow-ups voor hormoonniveau en hartfunctie monitoring noodzakelijk. Informeer Marine Deprez over regelmatige monitoring en naleving van het behandelplan. Bespreek chirurgische opties voor hypofyse macroadenoom met Nick Van De Velde (neurochirurg).
+
+Nick Van De Velde
+Garcia-Ramos"
+

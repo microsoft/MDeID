@@ -1,0 +1,45 @@
+"Nota do Doutor Scratch
+
+Paciente: Cauã Gonzáles 
+ID: ix WgNfdAY 
+Idade: 10 
+Doutora: Caroline Rodrigues 
+Número do Registro Médico: 500-192928
+
+Queixas apresentadas:
+- Inchaço crônico dos membros inferiores: Duração - Aproximadamente 6 meses
+- Falta de ar: Duração - Aproximadamente 6 meses
+- Sangramento vaginal anormal intermitente: Duração - Aproximadamente 3 meses
+
+Observações:
+- Saturação de oxigênio: 80% (ar ambiente)
+- Frequência cardíaca: Elevada (Taquicardia)
+- Pressão arterial: Baixa (Hipotensão)
+- Notado: Diminuição dos sons cardíacos
+- Linfadenopatia supraclavicular esquerda presente
+- Raio-X do tórax: Silhueta cardíaca aumentada, derrame pleural bilateral
+- Pericardiocentese: Drenados 500 mL de secreção sanguinolenta
+- Citologia do fluido pleural: Carcinoma pouco diferenciado
+- Biópsia do linfonodo supraclavicular esquerdo: Carcinoma de células escamosas metastático
+- Biópsia cervical: Carcinoma de células escamosas (lesão intraepitelial de alto grau)
+- Nível de CA-125: 335.5 IU/mL
+- Ressonância magnética pélvica: Não há tumor uterino ou cervical, carcinomatose peritoneal confirmada
+
+Avaliação:
+- Carcinoma de células escamosas metastático
+- Complicações: Derrames pericárdico e pleural, instabilidade hemodinâmica, insuficiência respiratória
+- Diferenciais: Outras formas de cânceres metastáticos (descartados)
+
+Plano:
+- Quimioterapia: Carboplatina, paclitaxel
+- Oferecida pericardiocentese repetida (recusa do paciente)
+- Considerada escleroterapia intrapericárdica (não realizada - falta de experiência da instalação)
+- Condição deteriorada, levou à morte no Dia 46 após a apresentação inicial
+
+Informações de Contato:
+Telefone: 727.561.3611
+Email: rolu@icloud.com
+Hospital: Falkirk Scotland
+Endereço: Cauã Gonzáles, Alameda de Gonçalves, 72 123, Submersão, Blumenau Sc - 93, ZJN24CO6, Brasil
+"
+

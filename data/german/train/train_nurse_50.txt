@@ -1,0 +1,42 @@
+"Pflegebericht
+
+S: Patient Thomas Meyer, ein Bewohner aus einer bestimmten Bergbauregion Strand, zeigte eine Reihe von Symptomen, darunter Fieber, Kopfschmerzen, Myalgie, Brustschmerzen, trockener Husten, Schwindel, Asthenie, Dyspnoe, akutes Atemversagen und Rückenschmerzen.
+
+O: Laboruntersuchungen zeigten eine Hämokonzentration (47,1%), Thrombozytopenie (37.000/mm3), Leukozytose (22.180/mm3), erhöhte Harnstoffwerte (72,56 mg/dL) und Kreatinin (1,87 mg/dL), erhöhte Aspartat-Aminotransferase (102,4 IU) und Alanin-Aminotransferase (57,14 IU). Anti-Hantavirus-IgM-Antikörper wurden mit negativem IgG nachgewiesen, und ein bestimmtes Hantavirus 25-UZwcYLa wurde durch RT-PCR bestätigt. Es wurde kein Röntgenbild der Brust gemacht.
+
+A: Bei dem Patienten wurde ein Hantavirus-Pulmonalsyndrom (HPS) diagnostiziert, das durch klinische Symptome und durch Serologie und RT-PCR bestätigt wurde. Die schnelle Progression zu akutem Atemversagen und Beteiligung mehrerer Organe deutete auf eine schwere Form der Krankheit hin.
+
+P: Die Behandlungsstrategie umfasste Antibiotika, hämodynamische Unterstützung und Atemunterstützung. Trotz aggressiver Behandlung erlag der Patient der Krankheit neun Tage nach Symptombeginn. Post-mortem wurde eine Studie unter der Projektnummer 76161 JtVT eingeleitet, um die Prävalenz von Anti-Hantavirus-Antikörpern in einer ähnlichen Bergbaupopulation zu schätzen und möglicherweise weitere Fälle zu verhindern.
+
+--------------------------------------------------
+Notizen von Krankenschwester Jasmin Eder
+
+Unterschrift: homaeye
+
+Kontaktinformationen:
+Telefon: 542-339-2247
+Email: En@protonmail.com
+Fax: (469)614-0848x1435
+
+Adresse:
+Thomas Meyer, Süleyman-Döhn-Straße 0 20, 7567 Hamm, Österreich
+
+Persönliche Informationen des Patienten:
+Alter: 108
+Sozialversicherungsnummer: 873-2716781-22
+Führerschein: awRc-126jK
+IP-Adresse: 31.66.45.232
+Fahrzeug: 20-SE58
+ID-Nummer: 76161 JtVT
+
+Krankenhaus: King George V Memorial Hospital
+Gesundheitsplan: xuDJ1fao
+Beruf: Technischer Brauer
+Organisation: Brown, Schwartz und Ramos
+URL:  www.miller-gomez.biz/categoriesindex.php
+Stadt: Mirabello
+Land: Schweiz
+Bundesland: 39
+Straße: 11203 Mark Fall
+PLZ: 7567"
+

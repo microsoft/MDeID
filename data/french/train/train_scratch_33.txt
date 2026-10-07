@@ -1,0 +1,68 @@
+"Note de l'infirmière :
+
+--------------------------------------------
+ID du patient : Jordan Garnier
+Numéro de dossier médical : 36411 JmMq
+--------------------------------------------
+
+Signes vitaux :
+- Temp. : 38,5 Celsius
+- HR : 102 bpm
+- Resp. : 20 /min
+- BP : 135/85 mmHg
+- SpO2 : 94%
+
+-------------------------------------------------
+Symptômes notables :
+- Fatigue 
+- Douleurs corporelles
+- Toux persistante
+- Essoufflement
+
+Dx : Suspecté 
+--------------------------------------------------
+
+Tx administré :
+- O2 administré : 2L via des canules nasales
+- Fluides IV : 0,9% NaCl 1L
+- Paracétamol administré : 
+
+---------------------------------------------------
+Rx en attente :
+- Radiographie du thorax
+- Cultures de sang
+- CBC, CRP, 
+---------------------------------------------------
+
+Note : 
+Le patient Jordan Garnier se sent épuisé. Se plaint de douleurs, de toux persistante, d'essoufflement. Pneumonie possible, des tests supplémentaires sont nécessaires pour confirmation. 
+
+---------------------------------------------------
+Données supplémentaires :
+
+Médecin référent : Clément Deprez
+Plan de santé : zZEuek
+ID de l'appareil : poN 996073
+---------------------------------------------------
+
+Informations de contact :
+
+- Téléphone : (689)200-6261x925
+- Email : pl@aol.com
+- Contact d'urgence : 
+
+---------------------------------------------------
+
+Remarques :
+PWRxL7Ie à suivre après la réalisation des tests. 
+Administrer le traitement tel que prescrit par le Dr. Clément Deprez 
+
+---------------------------------------------------
+Nom d'hôte/IP : 141.173.106.108
+Connecté au système hospitalier : North Indian
+Profession : Ingénieur logiciel
+---------------------------------------------------
+
+Note créée le : 11 août 2002
+Note revue par : PWRxL7Ie"
+

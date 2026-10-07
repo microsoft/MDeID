@@ -1,0 +1,55 @@
+"Nurse Note: \"Scratch on a Matchbox\"
+
+Table: Vital Check
+--------------------------
+- BP: 120/80 mmHg
+- HR: 72 bpm
+- Temp: 98.6 F
+- Resp Rate: 18 /min
+
+30 - female - Mia Harris
+
+Present Complaints
+--------------------------
+- Vomiting
+- Pelvic Pain
+
+Observations: 
+--------------------------
+- Skin Tone: Normal
+- Hydrated: Mildly Dehydrated
+
+Possible Diagnosis
+--------------------------
+- Suspect: Urinary Tract Infection
+
+Treatment Notes
+--------------------------
+- IV fluids administered
+-  prescribed
+- Jack Nguyen's review pending
+
+Lab Tests Ordered:
+--------------------------
+- Urinalysis
+- Blood Culture
+- 
+
+Patient Updates
+--------------------------
+- Next review: Wed:May:5:1993
+- Discharge summary: Pending
+
+Document Authenticated by: Nurse eEjwBuOY
+Sanders, Clark and Wilson: Vannes OC
+
+Additional Information
+--------------------------
+- Patient Mia Harris was admitted with Z2GZf4 insurance
+- Contact Details: 4058186691, cguy@zoho.com
+- Emergency Contact: , 4058186691
+- Device Details: cGhXBh-883 - Functionality Check needed
+- Registered Address: Mia Harris, 48 Brainier, Greenlandish, Pph 4897, New Zealand
+
+Note: Keep this information secured. Handle with care. Any unauthorized access to this scratch note is strictly prohibited. This note contains classified information about the patient Mia Harris."
+

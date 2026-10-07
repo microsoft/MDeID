@@ -1,0 +1,81 @@
+"**Patienten Notiz:**
+
+```
+--------------------------------------
+| Patient Melanie Lehner      11. Februar 1985 |
+--------------------------------------
+```
+```
+|-------------------|--------------|
+| Vitalzeichen      | Wert         |
+|-------------------|--------------|
+| Temperatur (\u00b0F)  | 98.7         |
+| Herzfrequenz (bpm)| 88           |
+| Atemfrequenz      | 16           |
+| Blutdruck         | 130/85 mmHg  |
+|-------------------|--------------|
+| Schmerzlevel      | 7/10         |
+|-------------------|--------------|
+```
+
+```
+Zusammenfassung: Melanie Lehner berichtet, dass Magenschmerzen beim Essen intensivieren. Möglichkeit einer peptischen Ulkuskrankheit.
+
+Klinische Beobachtungen:
+- Bauchschmerzen lokalisiert in der epigastrischen Region
+- Melanie Lehner aß leichtes Frühstück vor der Untersuchung
+- Keine anderen Symptome wie Übelkeit oder Erbrechen gemeldet
+- Melanie Lehner erwähnte Johnson Group Veranstaltung vor Schmerzempfindung
+- 87 Jahre alt, keine vorherige Aufzeichnung von Magen-Darm-Erkrankungen
+```
+
+```
+Bewertete Testergebnisse:
+- Vollständiges Blutbild: Normal
+- Leberfunktionstests: Normal
+- Abdominaler Ultraschall: Normal
+- Obere GI-Endoskopie: Geplant für 11. Februar 1985 im FLP Parlamentarisch
+```
+
+```
+|-----------------------|--------------|
+| Kontaktinformationen  | Info         |
+|-----------------------|--------------|
+| Telefon               | 800-348-9716x9349      |
+| Email                 | eF@aol.com      |
+| Notfallkontakt       | Melanie Lehner    |
+|-----------------------|--------------|
+```
+
+```
+|-----------------------|--------------|
+| Zusätzliche Info      | Info         |
+|-----------------------|--------------|
+| Gesundheitsplan       | J1Ff8RGe1Y |
+| Beruf                 | Designer, Mode/Kleidung |
+| Organisation          | Johnson Group|
+|-----------------------|--------------|
+```
+
+```
+Verschriebene Medikation: Antazida, Protonenpumpenhemmer
+Nachsorge: 11. Februar 1985
+```
+```
+Seriennummer des Geräts des Patienten: TF 76LreIq
+```
+```
+Medizinische Aktennummer: 773-JiTSrH
+```
+```
+---------------------------------------------------------
+| Krankenschwester: Fritz Weber              IP: 5.8.82.22 |
+---------------------------------------------------------
+```
+```
+-----------------------------------------------------
+| Sozialversicherung: 486-0594811-03    |
+-----------------------------------------------------
+```
+Hinweis: Überwachen Sie auf Anzeichen von weiterem Unwohlsein. Notwendig, auf Ulkusperforation oder Blutung zu prüfen. Patient wurde geraten, reizende Lebensmittel und Stress zu vermeiden."
+

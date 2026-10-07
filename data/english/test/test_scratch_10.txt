@@ -1,0 +1,70 @@
+"Nurse's Quick Scratch Notes:
+
+-----------
+- Pt. Obs.:
+  Henry Kelly 
+  Dx: Gastroesophageal reflux disease (GERD)
+  Sx: Heartburn, Indigestion. 
+
+- Vitals:
+  BP: 112/70 
+  HR: 78
+  Temp: 98.6\u00b0F
+
+- Treat. Admin.:
+  Antacids, PPIs.
+
+-----------
+- Contextual Details:
+  Ptr Quality manager works at Roman PLC. Lives at Henry Kelly, 189 Physes, Overinventoried, 55 3216, United States. 
+  Dr. Sebastian Roy overseeing. 
+
+-----------
+- Contact Info.:
+  Phone: +1-462-977-9447x425 
+  Email: yt@outlook.com 
+  Emergency Contact: Henry Kelly
+
+-----------
+- Health Info.:
+  Insurance: MsCSU 59 Bwf0
+  Hospital of Adm.: Newcastle United squad 
+  Med. Rec. No.: 511 yiNkBK 
+
+-----------
+- Device Info.:
+  Device ID: VaR-44933w 
+
+-----------
+- Other Identifiers:
+  Social Sec.: 177-368-366 
+  Acct Num: 5226-gufdr 
+  IP Addr: 212.161.168.118 
+  User: ellyry
+
+-----------
+- Bio-ID & Vehicle Info.:
+  Bio-ID: oZlEBm-629 
+  Vehicle ID: 777KFN
+
+-----------
+- Location Info.:
+  Other Location: hospital 
+
+-----------
+- License & Fax Info.:
+  License Num.: 97850 EiDt
+  Fax: 643.371.2382
+
+-----------
+- ID Info.:
+  ID: 5226-gufdr 
+
+-----------
+- Age & URL Info.:
+  Age: 73 
+  URL: https://www.rios.com/searchpost.asp
+
+-----------
+"
+

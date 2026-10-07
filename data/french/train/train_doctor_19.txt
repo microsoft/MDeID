@@ -1,0 +1,39 @@
+"Note de griffonnage du médecin :
+
+Notes de Carter Martin, 
+Pt : Cédric Deprez, 87
+ID : 11-inIIyws
+
+Signes vitaux :
+TA : 128/84 mmHg
+FC : 78 bpm
+Temp : 36,6 C
+FR : 16 respirations/min
+Sat O2 : 98%
+
+Plainte principale : Douleur abdominale LLQ. Pas d'antécédents médicaux de cancer gastro-intestinal ou ovarien. Antécédents familiaux - Frère : Cancer du poumon, Grand-mère paternelle : Cancer du sein bilatéral synchrone, Grand-père : Cancer de la prostate.
+
+Examen :
+Abd : LLQ sensible, pas de garde/rigidité.
+Masse rectosigmoïde palpable, obstruée.
+
+Tests :
+TDM : Masse rectosigmoïde obstruée. Pas de métastases distantes observées.
+Coloscopie : Masse R-sigmoïde, 4,5x6,5 cm, 18 cm de la marge anale.
+
+Patho :
+Biopsie : Adénocarcinome modérément différencié. 
+Chirurgie : Adénocarcinome invasif, invasion lymphovasculaire et périneurale. 6/28 ganglions lymphatiques positifs.
+
+Test génétique :
+Mutations dans BRIP1, TP53. Dépistage normal du syndrome de Lynch. Pas d'altérations dans KRAS, NRAS, BRAF.
+
+Impression :
+Adénocarcinome rectosigmoïde modérément différencié, stade III (implication des ganglions lymphatiques). Haut risque - invasion lymphovasculaire, périneurale. Analyse génétique - prédisposition héréditaire potentielle.
+
+Gestion :
+Suivi post-opératoire pour la surveillance des récidives/complications. Test germinatif pour la mutation BRIP1 prévu. Éducation du patient sur les symptômes de récidive, modifications du mode de vie pour la santé globale. Suivi régulier en oncologie.
+
+Carter Martin, 
+Durham, Meyer et Mitchell"
+

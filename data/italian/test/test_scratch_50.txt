@@ -1,0 +1,70 @@
+"Appunto di Infermieristica
+---
+Informazioni Paziente:
+* Paul Weber
+* ETA': 93
+* Conto: 45265-0147
+
+Osservazioni:
+
+* Vene Varicose: Notate
+* Pressione Sanguigna: 120/80
+* Temperatura: 36.9\u00b0C
+* Frequenza Cardiaca: 78bpm
+
+Trattamento:
+
+* Iniziata terapia a compressione
+* Consigliato sollevamento dell'arto
+
+Progressi:
+
+* Il paziente riferisce  
+
+Informazioni Aggiuntive:
+
+* Fornitore di Assistenza Sanitaria: Veronica Giordano
+* Piano Sanitario: 4sbsSLlXSI
+* Ricovero in ospedale: Sarajevo
+* Numero di Cartella Clinica: 95557 VLqB
+
+Scambi di Comunicazione:
+
+* Email: ordca@red-cross.org
+* Telefono: (829)789-3031
+
+Contesto:
+
+* Località: mercato
+* Indirizzo: Paul Weber, 85098 Timothy Rapid Apt. 347, 76, 2651 Campobello Di Licata Monodelphic, Italia
+
+Informazioni sul Dispositivo:
+
+* ID Dispositivo: kBmc ZuewT
+* Indirizzo IP: 223.14.56.66
+
+ID Personali:
+
+* Sicurezza Sociale: 622343-8115
+* Patente: 1901 97684
+* BIOID: tEbaD-mbjQ
+* Identificatore Personale: 45265-0147
+
+Contatto in Caso di Emergenza:
+
+* Nome Utente: 7HwZVgTP
+* Veicolo: 66K•994
+* Professione: Designer, industriale/prodotto
+* Organizzazione: Perez, Reyes and Parker
+
+SI PREGA DI NOTARE:
+
+* Tutte le comunicazioni sono strettamente confidenziali e devono rispettare le regole complete sulla privacy dei dati.
+
+Prossimo appuntamento (DATA): 28 novembre 1999
+* Fax: 923.723.4971
+
+--- --- --- --- --- --- --- --- +++++++++++++++++++++++++++++++++++++++ --- --- --- --- --- --- --- --- 
+
+Nota: Le Informazioni Sanitarie Personali (PHI) sono state rimosse e sostituite con segnaposti per mantenere la riservatezza del paziente in conformità con le linee guida HIPAA."
+

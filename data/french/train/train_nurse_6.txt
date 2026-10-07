@@ -1,0 +1,53 @@
+"Note Narrative de l'Infirmière
+
+Subjectif :
+
+Anna Zimmermann s'est présentée à la clinique en signalant une acuité visuelle floue et des photopsies dans un œil qui persistent depuis quelques jours. Ces symptômes ont été précédés par des symptômes de type grippal, dont de la fièvre et des maux de tête signalés par la patiente. Anna Zimmermann nie tout antécédent médical significatif ou tout contact récent avec des animaux.
+
+Objectif :
+
+Le bilan sanguin complet (CBC) de Anna Zimmermann, ainsi que les résultats des radiographies du thorax et des sinus, étaient normaux. Les tests pour la syphilis, le cytomégalovirus, l'herpès simplex, le virus de l'immunodéficience humaine, la Bartonella, l'Histoplasma capsulatum, le Toxoplasma gondii, le Toxocara canis, et la Borrelia burgdorferi étaient négatifs. L'examen oculaire révèle une acuité visuelle corrigée de 20/20 dans l'œil droit et de 20/25 dans l'œil gauche. La biomicroscopie, les réactions pupillaires et la pression intraoculaire sont dans les limites normales. La photographie du fond d'œil en couleur révèle de subtiles taches blanches rétiniennes profondes dans le pôle postérieur et autour du disque optique de l'œil gauche. L'angiographie à la fluorescéine (FA) montre des zones ponctuées en forme de couronne d'hyperfluorescence précoce et de coloration du disque optique en phase tardive. L'autofluorescence du fond d'œil (FAF) et la tomographie en cohérence optique (OCT) confirment la perturbation de la zone ellipsoïde (EZ) et la présence de lésions hyperréfléchissantes et hyporéfléchissantes dans la couche nucléaire externe (ONL) et la choroïde, respectivement. L'angiographie OCT (OCTA) ne montre aucune altération du flux.
+
+Évaluation :
+
+Sur la base des symptômes de Anna Zimmermann et des résultats diagnostiques, une pathologie rétinienne est suggérée. Il pourrait s'agir d'un processus inflammatoire ou infectieux, bien que les causes infectieuses aient été écartées par des sérologies négatives. Le diagnostic différentiel pourrait inclure une rétinopathie auto-immune ou un décollement rétinien localisé.
+
+Plan :
+
+Le plan est de surveiller de près l'état de Anna Zimmermann avec un rendez-vous de suivi prévu dans quelques semaines pour réévaluer la condition. Anna Zimmermann a été conseillée de signaler immédiatement toute aggravation des symptômes. Des tests supplémentaires ou une orientation vers un spécialiste de la rétine peuvent être envisagés en fonction de la progression ou du changement des symptômes.
+
+[Tableau : Informations Personnelles de Santé (PHI)]
+| Type de PHI | Placeholder Masqué |
+|----------|-------------------|
+|COMPTE|2046-604jS|
+|ADRESSE|Anna Zimmermann, 86189 Timéo Crescent Suite 523 137, 0029 Ferrandina, Belgique|
+|AGE|54|
+|BIOID|593 2940zk|
+|VILLE|Mirabel aux Baronnies|
+|PAYS|Belgique|
+|DATE|30 avril 1994|
+|APPAREIL|IZTx-21201|
+|DOCTEUR|Marcel Graf|
+|EMAIL|MarceGra@yandex.com|
+|PLAN DE SANTÉ|mD7BX3Vp|
+|HÔPITAL|Irasburg|
+|NUMÉRO D'IDENTIFICATION|2046-604jS|
+|ADRESSE IP|99.245.163.44|
+|PERMIS|yz 31485ph|
+|AUTRE LOCALISATION|café|
+|DOSSIER MÉDICAL|TU-323337a|
+|ORGANISATION|Best-Chavez|
+|PATIENT|Anna Zimmermann|
+|TÉLÉPHONE|939-482-0452x146|
+|PROFESSION|Designer, verre soufflé/vitrail|
+|SÉCURITÉ SOCIALE|708997-5321|
+|ÉTAT|Lot-et-Garonne|
+|RUE|20150 Natalie Station|
+|URL| barker.com/search/explore/blogmain.html|
+|NOM D'UTILISATEUR|nnerma|
+|VÉHICULE|KMO 641|
+|CODE POSTAL|0029|
+|FAX|(474)354-3399x661|
+
+Signé, Marcel Graf"
+

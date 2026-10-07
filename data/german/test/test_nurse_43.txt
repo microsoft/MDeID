@@ -1,0 +1,41 @@
+"**Kopfzeile:**
+Patienten-ID: Jolien Lambrechts
+Geburtsdatum: 25. Juni 2011
+Aufnahmedatum: 25. Juni 2011
+Medizinische Aktennummer: jmIwv-WExA
+Kontonummer: 21-FGpwtbz
+Seriennummer des Geräts: DFWsn-dWkK
+Benutzername für das Patientenportal: eclien
+Fahrzeugkennzeichen: 321 TJT
+Sozialversicherungsnummer: 30 030 489 293
+Lizenznummer: cq AbcwUku
+Biometrischer Identifikator: my WNtARoQ
+IP-Adresse: 218.203.84.113
+Eindeutige Kennung: 21-FGpwtbz
+
+**Pflegebericht:**
+
+Der Patient, im Alter von 82, mit einer Vorgeschichte von symptomatischer anhaltender idiopathischer ventrikulärer Tachykardie (VT), wurde am 25. Juni 2011 zur sekundären Prävention mit einem zweikammerigen implantierbaren Kardioverter-Defibrillator (ICD) ausgestattet. Seit dem 25. Juni 2011 hat der Patient mehrere ICD-Entladungen und VT-Rezidive erlebt, trotz dreier Katheterablationsverfahren am 25. Juni 2011, die ohne Kontakt-Kraft-Sensor und mit einem retrograden transaortalen Ansatz durchgeführt wurden. Der Patient berichtet von bis zu 97 angemessenen ICD-Schocks seit der Implantation und hatte Episoden von arrhythmischen Stürmen.
+
+Das zuletzt aufgezeichnete 12-Kanal-EKG des Patienten zeigte einen Sinusrhythmus mit vorzeitigen ventrikulären Kontraktionen, die vom mittleren inferoseptum des linken Ventrikels ausgingen. Die transthorakale Echokardiographie zeigte eine normale biventrikuläre systolische Funktion und eine leichte bis mäßige Mitralklappenregurgitation. Die Ablationsparameter umfassten eine RF-Leistung von 50 W, eine maximale Temperatur von 45°C und einen Spülfluss von 15 mL/min.
+
+Die Hauptdiagnose ist rezidivierende idiopathische ventrikuläre Tachykardie, wobei der Patient trotz vorheriger Ablationstherapien und antiarrhythmischer Medikamente mehrere ICD-Schocks und arrhythmische Stürme erlebt. Differenzialdiagnosen könnten andere Formen von ventrikulären Arrhythmien oder strukturelle Herzerkrankungen umfassen, obwohl die erhaltene Ejektionsfraktion und der spezifische VT-Ursprung auf einen fokalen arrhythmischen Prozess hindeuten.
+
+Der Behandlungsplan umfasst eine enge Überwachung der arrhythmischen Episoden und der ICD-Funktion des Patienten. Anpassungen der antiarrhythmischen Medikamente werden in Betracht gezogen, und weitere Ablationsverfahren können notwendig sein, wenn VT anhält. Der Patient wird über die Erkennung von Symptomen arrhythmischer Ereignisse und die Bedeutung regelmäßiger Nachsorgeuntersuchungen zur Beurteilung der Gerätefunktion und der Behandlungseffizienz aufgeklärt.
+
+**Fußzeile:**
+
+Adresse: Jolien Lambrechts, Janna-Patberg-Platz 873 79, 9224 Melle, Deutschland
+Krankenhaus: IFIC
+Zusätzliche Standortinformationen: Park
+Gesundheitsplan: 9Ownx
+Beruf: Embryologe, klinisch
+Organisation: Carr Group
+Nächster geplanter Termin: 25. Juni 2011
+Hausarzt: Florian Huber
+E-Mail: ra@gmail.com
+Notfallkontakt: Jolien Lambrechts
+Telefonnummer: +1-573-360-2859
+Faxnummer: 001-843-852-2912x800
+Website: https://www.johnson.info/categories/search/tagsearch.asp"
+

@@ -1,0 +1,57 @@
+"Ärzte Notiz:
+
+Patient Barbara Koller
+ID osCl 137lf
+ALTER 69
+Wohnort: Schule
+
+Aufnahmedetails: 
+- Schwere Atemnot
+- Geistiger Zustand - verändert, desorientiert
+
+Bedeutende medizinische Vorgeschichte: 
+- Intrakranielles Aneurysma (postoperative Blutung)
+- Ischämischer Schlaganfall (Aphasie, Paraplegie)
+- PEG-Röhrenplatzierung
+
+Bei Aufnahme: 
+- Intubation zur Atemunterstützung
+- Vitalwerte: 79348-ZEms
+- Klinische Laborergebnisse: 79348-ZEms
+
+Diagnose: Septischer Schock (potenziell)
+- Sepsis-Untersuchung eingeleitet
+- Kulturen: Blut, Urin
+- Erstbehandlung: Intravenöse Flüssigkeitszufuhr, Antibiotika ( und )
+
+CT-Scan-Bericht: 
+- Nicht-kontrastierter CT-Scan - Brust, Bauch, Becken
+- Befunde: Bibasale pulmonale Atelektase, Fehlposition des VP-Shunt-Katheters (im Magenlumen), Fehlposition der PEG-Röhre (außerhalb des Magenlumens), Bauchwandzellulitis, lokalisierte Abszesse (PEG-Röhreneinführungsstelle)
+
+Kulturbefund: 
+- CSF-Analyse und Kulturen - negativ
+- Wundkultur - Proteus mirabilis (empfindlich gegen Carbapeneme, Piperacillin/Tazobactam)
+
+Primärdiagnose: 
+- Septischer Schock, sekundär zu Bauchwandzellulitis und lokalisierten Abszessen
+- Komplikationen: Fehlpositionierter VP-Shunt und PEG-Röhre
+
+Differentialdiagnose: 
+- VP-Shunt-Infektion
+- Meningitis/Enzephalitis
+(Ausgeschlossen durch CSF-Analyse und Kulturergebnisse)
+
+Behandlungsplan: 
+- Fortsetzung der IV-Antibiotika (basierend auf Empfindlichkeitstests)
+- Überwachung des klinischen Zustands des Patienten
+- Unterstützende Pflege für Atem- und Kreislaufstabilisierung
+- Chirurgische Konsultation für VP-Shunt und PEG-Röhrenkorrektur
+
+Bildung & Nachsorge: 
+- Aufklärung des Patienten über den Behandlungsplan
+- Achten Sie auf Anzeichen von Infektionen/Komplikationen
+- Regelmäßige Nachuntersuchungen und Neubewertung der Behandlungseffizienz
+
+Sara De Meyer
+Indiana centering"
+

@@ -1,0 +1,38 @@
+"**Arzt Kratz Notiz**
+
+Nele Thiele
+101: 28 Wochen schwanger
+Systemanalystin: Behandelt mittels ICSI
+Gesundheitsakte: YSbn-95320
+
+**Geschichte**
+- Normale Geburt: 1
+- Asthma: Ja
+- Bluttransfusion: Nein
+- Regelmäßige Medikation: Cephem (für ICSI)
+- Sorge: Kürzliche Diagnose von akuter makrozytärer Anämie
+
+**Beobachtungen**
+- Erster Besuch Bluttest:
+    - D-Antigen: Positiv
+    - Unregelmäßiger Antikörper: Negativ
+    - Hämoglobin: 14,4 g/dl
+
+- Neuester Test (28 Wochen):
+    - Hämoglobin: 7,9 g/dl
+    - Mittleres korpuskuläres Volumen: 108,1 fl
+    - Mittleres korpuskuläres Hämoglobin: 35,3 pg
+    - Retikulozytenlevel: Erhöht
+    - LDH: Erhöht
+        - LDH1: Stark erhöht
+        - LDH2: Stark erhöht
+    - Haptoglobin: Nele Thiele- Mögliche Verschreibung für Anämie
+- Nele Thiele soll vorgeburtliche Termine wahrnehmen
+- Nele Thiele soll neue Symptome sofort melden
+- Weitere Anleitung und Empfehlungen nach Bedarf
+
+Michael Binder
+Sellers Ltd
+inic@outlook.com
+(504)604-0197x63872"
+

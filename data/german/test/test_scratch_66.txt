@@ -1,0 +1,52 @@
+"**Pflegekratznotiz**
+
+| Patienteninfo | Details |
+|---------|-----------|
+|Name: |Marco Koller|
+|Alter: |51|
+|ID: |81087-344q|
+|Konto: |JHi-paGtHs|
+|Gesundheitsplan: |ccXC9g9r 8wQko5|
+|E-Mail: |ster@un.org|
+
+| Vitalzeichen und Beobachtungen |
+|--------|
+|BP: 120/80 mmHg| 
+|Puls: 98 bpm|
+|Temp: 36.5\u00b0C|
+|Resp: 22 Atemzüge/min|
+
+**Klinische Notizen**
+-Dysphagie, Schluckbeschwerden Marco Koller
+-Verdacht auf gastroösophageale Refluxkrankheit (GERD)
+-Begonnen mit Omeprazol 20mg/24hr
+
+|Kontaktinformationen|
+|---------|
+|Hausarzt:| Klaus Schuster|
+|Referenziertes Krankenhaus: Dominican Peter|
+|Telefon: |(619)829-4278x87283|
+|Fax: |001-868-269-7428x16099|
+
+| Geräteinformationen |
+|---------|
+|Herzschrittmacher: |nmDG-OyWKI|
+
+|Weitere Informationen|
+|---------|
+|Benutzername: |04CSjMse|
+|Lizenz: |24136 165n|
+|IP-Adresse: |163.165.16.196|
+
+**Nächste Schritte**
+-Endoskopie planen
+-Ernährung und Lebensstil von Marco Koller überprüfen
+-Nachfolgetermin in 2 Wochen
+-Klaus Schuster über alle Änderungen oder Verschlechterungen der Symptome informieren
+
+**Entlassungsbericht**
+-Marco Koller im Alter von 51 präsentiert sich mit Schluckbeschwerden.
+-Verdacht auf GERD, Medikation begonnen, Nachfolgetermin geplant.
+-Alle wichtigen Informationen wurden an Klaus Schuster im Dominican Peter per 001-868-269-7428x16099 weitergeleitet.
+"
+

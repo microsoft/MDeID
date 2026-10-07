@@ -1,0 +1,64 @@
+**Discharge Summary**
+
+**Patient:** Piper Smith
+
+**Hospital:** Shanghai Biennale
+
+**Discharge Disposition:** Home with outpatient follow-up
+
+# Required Sections
+
+## Allergies And Intolerances Section:
+
+No known allergies or intolerances.
+
+## Hospital Course Section:
+
+Piper Smith was admitted with a chief complaint of distended abdomen and associated discomfort. During the hospital stay, Piper Smith complained of feeling suicidal, which was addressed appropriately by our mental health team.
+
+## Discharge Diagnosis Section:
+
+The discharge diagnosis is Hepatitis C.
+
+## Plan of Treatment Section:
+
+Piper Smith has been prescribed a series of antiviral medications for the treatment of Hepatitis C. A mental health outpatient follow-up has also been scheduled to monitor and manage the patient's mental health concerns.
+
+## Hospital Consultations Section:
+
+The patient was seen by a multidisciplinary team including hepatology experts, mental health professionals, and nutritionists to devise a comprehensive care plan.
+
+## Procedures Section:
+
+No procedural interventions were required during this hospitalization.
+
+## Results Section:
+
+The lab results indicated a significant viral load consistent with Hepatitis C.
+
+# Recommended Sections
+
+## Discharge Medications Section:
+
+Antiviral medications have been prescribed. Piper Smith has been educated on medication side effects and adherence.
+
+# Additional Sections
+
+## Chief Complaint Section:
+
+Distended abdomen and associated discomfort, along with feeling suicidal.
+
+## Nutrition Section:
+
+A diet low in sodium and high in protein has been recommended to manage ascites and support liver function.
+
+## Mental Health Follow-up:
+
+A mental health follow-up has been scheduled post-discharge due to the patient's expressed suicidal feelings. The mental health professional Dominic Liwill be in charge of this ongoing support.
+
+**Note to Piper Smith:**
+
+Please follow the discharge plan carefully and adhere to medication schedule. Do not hesitate to reach out to your healthcare provider if you experience worsening of symptoms or side effects from medications.
+
+Document Prepared By: Dominic Li**END OF DOCUMENT**
+

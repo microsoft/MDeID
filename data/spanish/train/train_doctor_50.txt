@@ -1,0 +1,17 @@
+"Nota de Rascunho del Doctor
+
+S:
+Milagros Vargas, 95, infecciones recurrentes de garganta. Fiebre, dolor de garganta, congestión nasal y tos - 5 días. Dx de influenza - día 1, prescribió oseltamivir. Medicación D/C - día 3 debido a náuseas y vómitos. Dolor abdominal, dolor en las articulaciones (rodilla izquierda, tobillo derecho, codo derecho), letargo, pobre apetito, orina oscura. Entorno familiar - vive con su madre y tres hermanos, sin síntomas similares.
+
+O:
+Examen en el centro de emergencias - fiebre (39.4\u00b0C), hipotensión (78/47 mm Hg), taquipnea (frecuencia respiratoria 33/min), taquicardia (frecuencia cardíaca 160/min). Examen físico - lesiones labiales costras, linfadenopatía cervical, congestión nasal, eritema faríngeo no purulento, soplo sistólico, hepatosplenomegalia, sin signos de artritis. Resultados de laboratorio - recuento normal de glóbulos blancos (11,600/mm3), trombocitopenia (recuento de plaquetas 36,000/mm3), anemia (hemoglobina 8.9 g/dL), hipoalbuminemia (albumina 1.9 g/dL), proteinuria, piuria estéril, marcadores inflamatorios elevados (proteína C reactiva 182 mg/L, tasa de sedimentación de eritrocitos elevada). Admitida en Warsaw's, unidad de cuidados intensivos pediátricos, comenzó con cefepime intravenoso y vancomicina.
+
+A:
+Síntomas graves - infección sistémica o proceso inflamatorio. Complicaciones - diagnóstico reciente de influenza, reacción adversa a la medicación antiviral. Dx diferencial - sepsis, complicaciones post-infecciosas de la influenza, otra condición infecciosa o autoinmune subyacente. Involucramiento multi-sistémico - anomalías hematológicas, hepatosplenomegalia, marcadores inflamatorios elevados. 
+
+P:
+Monitorear signos vitales, valores de laboratorio en Warsaw's, unidad de cuidados intensivos pediátricos. Mantener cefepime intravenoso, vancomicina, ajustes basados en resultados de cultivo, respuesta clínica. Cuidado de apoyo - hidratación, nutrición. Más trabajo diagnóstico - cultivos de sangre, ecocardiograma, posible biopsia de médula ósea (causa de trombocitopenia, anemia). Actualizaciones regulares a la familia de Milagros Vargas, educación sobre la adherencia al tratamiento, monitoreo de síntomas en casa después del alta. Consultar a Luciana Fernández, hematología, especialistas en enfermedades infecciosas para un manejo integral.
+
+Luciana Fernández, Ingeniera de agua
+Lynch-Ford"
+

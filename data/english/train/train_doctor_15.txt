@@ -1,0 +1,21 @@
+"Doctor Notes
+
+- Gold mining resident beach with symptoms: fever, headache, myalgia, chest pain, dry cough, dizziness, asthenia, dyspnea, acute respiratory failure, back pain. Nikita Anderson status: critical.
+- Lab Results:
+  - Hemoconcentration: 47.1%
+  - Thrombocytopenia: 37,000/mm3
+  - Leukocytosis: 22,180/mm3
+  - Urea: 72.56 mg/dL
+  - Creatinine: 1.87 mg/dL
+  - Aspartate Aminotransferase (AST): 102.4 IU
+  - Alanine Aminotransferase (ALT): 57.14 IU
+- Positive Anti-hantavirus IgM antibodies - IgG: Negative qsdO-RQKoy
+- Hantavirus Castelo dos Sonhos confirmed via RT-PCR qsdO-RQKoy
+- Chest X-ray: No data
+- Diagnosis: Hantavirus Pulmonary Syndrome (HPS) - Severe form - Rapid progression to acute respiratory failure and multi-organ involvement.
+- Treatment Strategy: Antibiotics, Hemodynamic support, Respiratory support Osoiia
+- Progress: Despite aggressive management, patient succumbed to the illness nine days after symptom onset Cheryl Watkins
+- Follow-up: Post-mortem study initiated to estimate prevalence of anti-hantavirus antibodies in similar mining population Pierce, Hall and Clark
+
+This note prepared by Cheryl Watkins, please contact at 682.750.3899 or ln@unhcr.org for any inquiries."
+

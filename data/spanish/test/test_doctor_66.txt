@@ -1,0 +1,60 @@
+"Nota de Rascunho del Doctor
+
+----------------------------------------
+
+Mujer de 66 años, no fumadora, sin comorbilidades.
+Síntomas presentes: Tos, fiebre baja, pérdida de peso leve.
+No hay historial de infecciones recurrentes.
+No ha tenido contacto con pacientes de tuberculosis.
+El historial de viajes incluye Colombia y Colombia.
+Diagnóstico previo: Neumonía, múltiples tratamientos con antibióticos, sin resolución de síntomas.
+
+----------------------------------------
+
+Examen físico:
+Disminución de los sonidos respiratorios en el lóbulo superior izquierdo.
+Observaciones de la radiografía de tórax y la tomografía computarizada:
+- Consolidación en el hilio superior izquierdo, lóbulo superior izquierdo.
+- Lesión nodular intraluminal central.
+- Engrosamiento bronquial.
+- Neumonía post-obstructiva.
+No se observó linfadenopatía ni derrames pleurales.
+
+Hallazgos de la broncoscopia:
+Tumor endobronquial bien definido en el lóbulo superior izquierdo.
+
+Examen histológico del lóbulo superior izquierdo resecado:
+- Tumor carcinoide atípico.
+- Inflamación granulomatosa.
+Pruebas para Mycobacterium tuberculosis: Negativas.
+
+----------------------------------------
+
+Diagnóstico:
+Primario: Tumor carcinoide atípico del lóbulo superior izquierdo.
+Diferencial: Tuberculosis (debido a la inflamación granulomatosa y el historial de viajes), las pruebas actuales para la tuberculosis son negativas.
+
+Pronóstico:
+Depende del seguimiento continuo y el manejo del tumor carcinoide y la posible tuberculosis.
+
+----------------------------------------
+
+Plan de tratamiento:
+El paciente se sometió con éxito a una lobectomía del lóbulo superior izquierdo.
+Se recomienda un seguimiento continuo para la tuberculosis a pesar de las pruebas actuales negativas.
+Se necesitan revisiones regulares para el manejo y la reevaluación.
+Se pueden considerar otras opciones de tratamiento basadas en la progresión del tumor carcinoide y cualquier nuevo hallazgo relacionado con la tuberculosis.
+
+----------------------------------------
+
+Doctor: Nicolás Blanco
+Paciente: Diego Rivera
+Historial Médico: 322644-262
+Hospital: Georgia Infantry
+Fecha: 30/7/84
+Ciudad: Sunbilla
+Estado: Palencia
+Código Postal: V1D6IP2I
+
+----------------------------------------"
+

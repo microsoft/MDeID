@@ -1,0 +1,70 @@
+"Pflegekratznotiz:
+
+PATIENT: Daniel Koller
+-----
+Vitalzeichen: 
+BP - 120/80 
+HR - 110 bpm 
+Temp - 38.1\u00b0C 
+
+Beobachtungen:
+- Atmung: Angestrengt 95 
+- Husten: Hartnäckig 
+- Auswurf: Gelblich
+- Röntgenaufnahme der Brust: 6819 GYiMB
+
+Bewertung: 
+- Zustand: Unter Beobachtung
+- Schwere der Krankheit: Mäßig 
+- Atemgeräusch: Knistern
+- Diagnose: Lungenentzündung
+
+Plan: 
+- Antibiotika: Eingeleitet 
+- Sauerstoff: Verabreicht 
+- Nachuntersuchung: Donnerstag, 13. November 1986
+
+Kontakt Info:
+- Telefon: 327.928.5817
+- Email: brt@icloud.com
+- Notfallkontakt: Daniel Koller
+
+Adresse: Daniel Koller, Kaufmannplatz 8 154, 6862 Altensteig, Österreich
+Stadt: Neulussheim 
+Bundesland: 75
+PLZ: 6862 
+Land: Schweiz
+
+Anbieter Info:
+- Arzt: Kurt Gerber
+- Krankenhaus: MITRE
+
+Zusätzliche Info:
+- Kontonummer.: KbtfUY-865 
+- Gesundheitsplan: hpmcG7589yHxBv
+- ID: KbtfUY-865
+
+Geräte Info: 
+- Geräte ID: xV 86355DO
+- Gerätetyp: Vernebler 
+
+Internet Info:
+- IP Adresse: 137.71.237.4
+- Benutzername: anieolle
+
+Verifizierungs Info:
+- BioID: vHnLSt-UVy
+- Lizenz: Dy-TLCdCqD
+- Sozialversicherung: 246-8531625-12
+
+Standort-Andere: Bushaltestelle
+Beruf: Therapeut, Musik
+Organisation: Lopez Inc 
+
+URL:  fox-miranda.org/explore/tagscategory.htm 
+Fahrzeug: 01Z NA5
+Fax: 001-937-792-2005x772
+
+----
+Hinweis: Dies ist eine vorläufige Notiz, die auf die Fertigstellung der vollständigen medizinischen Bewertung wartet."
+

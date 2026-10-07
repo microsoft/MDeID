@@ -1,0 +1,42 @@
+"Note Narrative Infermieristiche
+
+S: Paziente Laura Brunner, residente in una certa regione mineraria ristorante, si è presentata con una serie di sintomi tra cui febbre, mal di testa, mialgia, dolore toracico, tosse secca, vertigini, astenia, dispnea, insufficienza respiratoria acuta e mal di schiena.
+
+O: Gli esami di laboratorio hanno mostrato emoconcentrazione (47,1%), trombocitopenia (37.000/mm3), leucocitosi (22.180/mm3), aumento dell'urea (72,56 mg/dL) e creatinina (1,87 mg/dL), elevazione dell'aspartato aminotransferasi (102,4 IU) e alanina aminotransferasi (57,14 IU). Sono stati rilevati anticorpi IgM anti-hantavirus con IgG negativa, e un certo hantavirus 7779-ikbUR è stato confermato da RT-PCR. Non è stata eseguita alcuna radiografia del torace.
+
+A: La paziente è stata diagnosticata con la Sindrome Polmonare da Hantavirus (HPS), evidenziata dai sintomi clinici e confermata attraverso la sierologia e la RT-PCR. La rapida progressione verso l'insufficienza respiratoria acuta e il coinvolgimento multi-organo suggerivano una forma grave della malattia.
+
+P: La strategia di trattamento includeva antibiotici, supporto emodinamico e supporto respiratorio. Nonostante una gestione aggressiva, la paziente è deceduta a causa della malattia nove giorni dopo l'insorgenza dei sintomi. Post-mortem, è stato avviato uno studio con il numero di progetto Ffxwj-BgUY per stimare la prevalenza di anticorpi anti-hantavirus in una popolazione mineraria simile per capire e possibilmente prevenire ulteriori casi.
+
+--------------------------------------------------
+Note dell'Infermiere Ernst Fischer
+
+Firma: ErCBdao4
+
+Informazioni di Contatto:
+Telefono: 214.835.2412x60502
+Email: nstr@red-cross.org
+Fax: 001-767-702-0170x160
+
+Indirizzo:
+Laura Brunner, 836 Hunter Haven 148, 6280 Montalto Di Castro, Svizzera
+
+Informazioni Personali del Paziente:
+Età: 102
+Numero di Sicurezza Sociale: 137553-8692
+Patente: NQuAtE 48U
+Indirizzo IP: 126.125.231.148
+Veicolo: 2S247
+Numero ID: Ffxwj-BgUY
+
+Ospedale: Houstonian
+Piano Sanitario: fF9HGas AZEtS
+Professione: Manager di parco tematico
+Organizzazione: Sanchez, Miller and Figueroa
+URL: higgins.schroeder-deleon.garcia.com
+Città: Acqui Terme
+Paese: Italia
+Stato: campania
+Via: 374 Dougherty Prairie Apt. 550
+CAP: 6280"
+

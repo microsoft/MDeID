@@ -1,0 +1,36 @@
+"Doctor Scratch Note:
+
+Subj: Lucy Smith, ID: 670 ItlfOB, Age 12, Transplant Recipient
+
+- Hx: 
+    - Liver transplant '98, cause: alcoholic cirrhosis, hepatocellular carcinoma
+    - Previous Diffuse large B-cell lymphoma, treatment: chemotherapy '06
+    - Psychiatric illness, post-traumatic epilepsy
+    - Denies encephalopathy symptoms
+    - Intermittent transaminase elevations since '14, suspected alcohol use
+    - Ascites, graft dysfunction, August Fri.3.5.93
+
+- Rx: 
+    - Tacrolimus, levels ~2 \u03bcg/l 
+    - Prednisone, 5 mg daily
+
+- Obs: 
+    - Liver function: moderate transaminase elevations, cholestasis
+    - Serology: Hep B, C, CMV negative, Epstein-Barr virus within normal limits, anti-HEV IgM, IgG positive
+    - PCR: HEV RNA in plasma, stored serum sample '14, chronic Hep E infection
+    - Post ribavirin introduction, September Fri.3.5.93, liver function improved
+
+- Assessment: 
+    - Decompensated graft cirrhosis, chronic Hep E infection primary diagnosis
+    - Alcohol use history, potential liver dysfunction contributor
+    - Previous differentials ruled out: Hep B, C, CMV reactivation
+
+- Plan: 
+    - Continue liver function, tacrolimus monitoring
+    - Maintain current tacrolimus, prednisone dosages
+    - Ribavirin therapy continuation, adjustment based on response, tolerance
+    - Advise: Alcohol abstention, prevent further liver damage
+    - Regular follow-ups: monitor liver disease progression, treatment adjustment as needed
+
+Susan Barnett"
+

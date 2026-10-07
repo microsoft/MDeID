@@ -1,0 +1,39 @@
+"Verpleegkundige Narratieve Notitie
+
+S: Patiënt Hendrika de Vos meldt dat ze is gediagnosticeerd met levermassa's en is aanwezig voor transplantatieconsultatie. De patiënt is onzeker over specifieke symptomen, maar noemt een biopsie die de diagnose bevestigt.
+
+O: Preoperatieve beeldvorming toont een vergrote lever met multifocale ziekte door het hele hepatische parenchym, perifere versterking met centrale hypoattenuatie op arteriële fase, en isodensiteit op vertraagde fase beeldvorming. In sommige massa's worden calcificaties opgemerkt. Geen significante verandering in massagrootte over 14 jan. 1998. Pathologisch onderzoek toont meerdere bruine nodules (0,5 tot 3,0 cm) in bilaterale lobben, met twee histologische patronen: goed gevormde vasculaire kanalen en verspreide koorden van tumorcellen in een sclerotische matrix, en gebieden met centrale hyalinized littekens en neoplastische cellen. Immunohistochemische resultaten tonen sterke expressie van CD31 en ERG, positieve TFE3, en negatieve CAMTA1 in tumorcellen.
+
+A: De patiënt heeft multifocale hepatische massa's met kenmerken die wijzen op een vasculaire neoplasma, mogelijk een variant van hepatische hemangioom of angiosarcoom, gezien de vasculaire aard en immunohistochemische kleuring. De stabiele grootte van de massa's en gedetailleerde histologische en immunohistochemische bevindingen ondersteunen een gecontroleerde maar voorzichtige aanpak, met levertransplantatie als de aangegeven behandeling.
+
+P: Ga door met de geplande levertransplantatie. Na de transplantatie, de patiënt nauwlettend in de gaten houden voor tekenen van afstoting en zorgvuldig omgaan met immunosuppressie. Regelmatige vervolgafspraken zullen nodig zijn om de leverfunctie te beoordelen en eventuele terugkeer van de ziekte te detecteren. Informeer de patiënt over tekenen van complicaties gerelateerd aan transplantatie en zorg voor begrip van de noodzaak van levenslange opvolging en zorg.
+
+Patiëntinformatie:
+Patiënt ID: nE-vxPDVQc
+Medisch Dossier Nummer: Ckocuy-17W
+Accountnummer: nE-vxPDVQc
+Locatie: ziekenhuis
+Ziekenhuis: Luckman
+Zorgplan: D6j5XL4
+
+Contactinformatie:
+Dokter: Wim Willemsen
+Email: lleim@hotmail.com
+Telefoon: (535)788-7623x20361
+Fax: 936.394.5899x105
+
+Extra Informatie:
+Stad: Shade
+Beroep: Bodemwetenschapper
+Organisatie: Davis-Jones
+Leeftijd: 93
+Gebruikersnaam: Veendri
+Voertuig: 8GV 372
+Sociale Zekerheid: 692106439
+Licentie: 57-300LLaW
+BioID: neWxtq RWU
+IP Adres: 223.62.223.217
+URL: downs.info
+
+Verpleegkundige Wim Willemsen"
+

@@ -1,0 +1,47 @@
+"Dr. Rita Pereira Nota de Rascunho
+
+Mariana Pires - 62 homem japonês, pós-esofagectomia com reconstrução gástrica para câncer de esôfago. Histórico familiar de câncer de esôfago no irmão mais velho. Consumo diário de álcool japonês. 
+
+Sinais vitais:
+- Temp: 36.9 \u00b0C
+- HR: 96 bpm
+- BP: 148/68 mmHg
+
+Sintomas relatados:
+- Febre
+- Aumento de expectoração
+- Hipoxemia
+- Dificuldade para respirar
+- Sons crepitantes no peito
+
+Dia 5 na UTI:
+- Febre de 38.0 \u00b0C
+- Saturação de oxigênio 90% em máscara de oxigênio de 10 L/min
+- Crepitações pulmonares bilaterais grosseiras
+- Raio-X do tórax: Infiltrados pulmonares bilaterais difusos, predominantemente pulmão direito, efusão pleural
+
+Lab pós-intubação:
+- WBC: 5.7 \u00d7 10^9/L
+- RBC: 2.25 \u00d7 10^12/L
+- Hemoglobina: 7.3 g/dL
+- Hematócrito: 21.4%
+- Plaquetas: 145 \u00d7 10^9/L
+- AST: 54 U/L
+- ALT: 55 U/L
+- Bilirrubina total: 4.11 mg/dL
+- Albumina: 2.2 g/dL
+- Nitrogênio ureico: 38 mg/dL
+- Creatinina: 0.83 mg/dL
+- CRP: 18.7 mg/dL
+- Creatinina urinária: 95 mg/dL
+
+Cultura de escarro: Positiva para Streptococcus pneumoniae
+
+Avaliação: Pneumonia pós-operatória, efusão pleural, insuficiência respiratória - necessitou de intubação e ventilação mecânica. Possíveis outras infecções ou complicações pulmonares.
+
+Plano: Mudança de cefmetazol para meropenem, monitoramento contínuo na UTI, cuidados de suporte, ajuste de tratamento conforme necessário. Paciente aconselhado a relatar novos sintomas/preocupações. Traqueostomia no dia 38 na UTI, estado atual de ventilação mecânica: estável (PaO2/FIO2 > 300 mmHg).
+
+Dr. Rita Pereira
+147-EiDNXN
+15 de setembro de 1995"
+

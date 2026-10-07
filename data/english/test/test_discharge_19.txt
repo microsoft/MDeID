@@ -1,0 +1,60 @@
+# Discharge Summary
+
+## Header
+
+**Benjamin Smith - 105185-xzM**   
+
+**Hospitalization reason: Schizophrenia**  
+
+**Discharge disposition: Outpatient care**
+
+## Allergies and Intolerances Section
+
+No known allergies to medications or food.
+
+## Hospital Course Section
+
+Benjamin Smith was admitted for a psychiatric evaluation following reports of auditory hallucinations, hypersomnolence, and irritability. The patient was observed and treated by Joshua Pinfold and the mental health team.
+
+## Discharge Diagnosis Section
+
+Diagnosis: Schizophrenia 
+
+## Plan of Treatment Section
+
+Following outpatient discharge, a comprehensive treatment plan has been put in place for Benjamin Smith. This includes regular counseling sessions, medication management, and monitoring for any changes in behavior. 
+
+## Hospital Consultations Section
+
+During Benjamin Smith's stay, a consultation with a specialist in psychiatry was conducted by Joshua Pinfold to further understand and manage the condition. 
+
+## Procedures Section
+
+No procedures were performed during this hospitalization.
+
+## Results Section
+
+Psychiatric evaluations and observations revealed a diagnosis of schizophrenia. The patient showed symptoms of hallucinations, hypersomnolence and irritability, which are consistent with this diagnosis. 
+
+## Discharge Medications Section
+
+The patient has been prescribed antipsychotic medications and will need regular follow-ups to monitor the response to the treatment and manage any potential side effects. 
+
+## Chief Complaint and Reason for Visit Section
+
+The patient was admitted due to auditory hallucinations, hypersomnolence, and irritability, which were interfering with daily functioning. 
+
+## Hospital Discharge Instructions Section
+
+Upon discharge, Benjamin Smith should continue taking prescribed medications, attend all follow-up appointments with the mental health team, and seek immediate medical attention if symptoms worsen or new symptoms appear. 
+
+## Vital Signs Section
+
+On discharge, vital signs were stable. Blood pressure was within normal range, heart rate was regular, and respiratory rate was unremarkable. 
+
+## Advance Directives Section
+
+At this time, Benjamin Smith does not have any known advanced directives. It is highly recommended for the patient to consider this with family and physicians.
+
+**NOTE:** This discharge summary has been prepared by Joshua Pinfold and is a concise overview of the patient's condition and treatment during the hospitalization. It is intended for continued medical guidance and should not replace a full medical examination. For any health-related concerns, please contact a healthcare professional.
+

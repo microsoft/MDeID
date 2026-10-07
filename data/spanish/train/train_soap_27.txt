@@ -1,0 +1,35 @@
+"S: El paciente Sergio Reyes, un individuo de 63 años, fue referido por alteraciones de la marcha y microcefalia. Los padres informan de un episodio reciente de desconexión del entorno, antecedentes de convulsiones febriles aisladas, trastornos del sueño y retrasos en el desarrollo, principalmente en habilidades motoras. El niño también presenta problemas de comportamiento similares al TDAH, que han mejorado ligeramente con la intervención psicopedagógica y el tratamiento con metilfenidato, aunque los problemas de sueño han empeorado.
+
+O: El examen físico previo confirmó la microcefalia. Un EEG realizado durante un episodio de desconexión fue normal. Una resonancia magnética mostró un encéfalo estructurado normalmente. Las pruebas genéticas revelaron una eliminación de base 44-989gsoD en el marcador C7 (bases 2475-2657), sin encontrar alteraciones en los genes LIS1, PTAFR, PAFAH1B2, PAFAH1B3, FGF8 y PAX2.
+
+A: El diagnóstico principal es microcefalia con problemas de desarrollo y comportamiento asociados, incluyendo síntomas que se asemejan al TDAH. La eliminación genética puede contribuir a su presentación clínica, aunque los genes clave del neurodesarrollo probados fueron normales. Los diagnósticos diferenciales podrían incluir otros trastornos genéticos o metabólicos aún no identificados. El pronóstico es cauteloso, requiriendo un seguimiento continuo y manejo de los síntomas.
+
+P: Continuar con las intervenciones psicopedagógicas y el metilfenidato para los síntomas similares al TDAH. Planificar un EEG de seguimiento para investigar los problemas de sueño que empeoran. Mantener evaluaciones regulares del desarrollo y ajustar los tratamientos según sea necesario. Educar a los padres sobre la importancia de monitorear la condición del paciente y adherirse a los planes de tratamiento. Programar una cita de seguimiento en tres 12/6/87 o antes si los síntomas empeoran.
+
+Notas adicionales:
+- Domicilio del paciente Sergio Reyes, Ampliación Norte Polanco 111 Interior 127 92, Crispation, 38617 SAN Martin DE LA Vega, 16, Colombia.
+- El médico que remitió es Ward Verlinden.
+- El número de cuenta del paciente es ErmdAC-877.
+- El dispositivo del paciente utilizado para el monitoreo es 157-wqKpUt.
+- El nombre de usuario del paciente para acceder a los registros de salud en línea es Sergis.
+- El vehículo del paciente utilizado para el transporte es WZD 933.
+- El número de seguridad social del paciente es SLYD615606PBJELL68.
+- El número de licencia de conducir del paciente es rBm-RoUROZ.
+- El identificador biométrico del paciente es yvSkcb-928.
+- El identificador personal del paciente es ErmdAC-877.
+- La dirección IP del paciente utilizada para acceder a los registros de salud en línea es 24.39.209.14.
+- La ubicación del paciente donde aparecieron los síntomas es escuela.
+- El plan de seguro de salud del paciente es u9UXVdUZUdDi.
+- La profesión del paciente es Arquitecto.
+- El lugar de trabajo del paciente es Gonzalez-Nelson.
+- El correo electrónico del paciente para la comunicación es di@unwomen.org.
+- El número de teléfono del paciente para la comunicación es +1-930-706-7212x26438.
+- Los registros médicos del paciente se pueden acceder en línea en mccoy.thomas-diaz.hoffman.net.
+- El número de fax del paciente para la comunicación es 001-723-973-1605x1724.
+- La ciudad de residencia del paciente es SAN Martin DE LA Vega.
+- El país de residencia del paciente es España.
+- El estado de residencia del paciente es Coahuila.
+- La calle de residencia del paciente es 1428 Bates Haven Apt. 130.
+- El código postal del paciente es 38617.
+- El hospital donde se está tratando al paciente es Yverdon."
+

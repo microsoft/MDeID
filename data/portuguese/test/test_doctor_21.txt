@@ -1,0 +1,57 @@
+"Nota Rápida do Médico:
+
+Paciente Inês Ribeiro
+ID 47 87aBjfi
+IDADE 39
+Residência: restaurante
+
+Detalhes da Admissão: 
+- Grave desconforto respiratório
+- Estado mental - alterado, desorientado
+
+Histórico Médico Significativo: 
+- Aneurisma intracraniano (sangramento pós-cirúrgico)
+- AVC isquêmico (afasia, paraplegia)
+- Colocação de sonda PEG
+
+Na Admissão: 
+- Intubação para suporte respiratório
+- Sinais vitais: Osb-97yZsY
+- Resultados de Exames Clínicos: Osb-97yZsY
+
+Diagnóstico: Choque séptico (potencial)
+- Iniciado trabalho de sepse
+- Culturas: Sangue, Urina
+- Tratamento inicial: Hidratação intravenosa, Antibióticos ( e )
+
+Relatório de Tomografia Computadorizada: 
+- Tomografia computadorizada sem contraste - tórax, abdômen, pelve
+- Resultados: Atelectasia pulmonar bibasilar, malposição do cateter de derivação VP (dentro do lúmen gástrico), malposição da sonda PEG (fora do lúmen gástrico), celulite da parede abdominal, abscessos localizados (local de inserção da sonda PEG)
+
+Relatório de Cultura: 
+- Análise e culturas de LCR - negativas
+- Cultura de ferida - Proteus mirabilis (sensível a carbapenêmicos, piperacilina/tazobactam)
+
+Diagnóstico Primário: 
+- Choque séptico, secundário à celulite da parede abdominal e abscessos localizados
+- Complicações: Derivação VP e sonda PEG mal posicionadas
+
+Diagnóstico Diferencial: 
+- Infecção da derivação VP
+- Meningite/Encefalite
+(Descartado pela análise e resultados de cultura do LCR)
+
+Plano de Gestão: 
+- Continuar antibióticos IV (baseado em teste de sensibilidade)
+- Monitorar o estado clínico do paciente
+- Cuidados de suporte para estabilização respiratória, circulatória
+- Consulta cirúrgica para correção da derivação VP e sonda PEG
+
+Educação & Acompanhamento: 
+- Educação do paciente sobre o plano de tratamento
+- Observar sinais/complicações de infecção
+- Acompanhamentos regulares e reavaliação da eficácia do tratamento
+
+Matilde Sousa
+newkirk"
+

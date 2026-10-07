@@ -1,0 +1,57 @@
+"Nota del Doctor Scratch
+
+---------------------------
+
+Silvia Bocoianu informa de fatiga, sudores nocturnos, pérdida de peso, pérdida de apetito y leve molestia abdominal durante los últimos 2 meses. Sin fiebre, escalofríos, tos, náuseas, vómitos, picazón o problemas urinarios o intestinales. 
+
+Información General
+---------------------------
+Historial médico pasado:
+- Sarcoidosis inactiva
+- Hipertensión
+- Hiperlipidemia
+- Trastorno bipolar
+- Enfermedad de las arterias coronarias con intervención coronaria percutánea reciente
+- Diabetes mellitus tipo 2 recién diagnosticada
+No hay historial de consumo de alcohol o tabaco.
+
+Signos Vitales
+---------------------------
+IMC: 37.2 kg/m2
+Peso: 263 libras
+94, mujer
+
+Examen
+---------------------------
+Exámenes generales, pulmonares, cardíacos y abdominales no notables sin linfadenopatía palpable. 
+
+Resultados de Laboratorio
+---------------------------
+Niveles normales de alanina aminotransferasa y aspartato aminotransferasa. 
+ALP = 258 U/L (referencia = 38-126 U/L)
+GGT = 274 U/L (referencia = 12-73 U/L)
+Bilirrubina total en 1.7 mg/dL (referencia = 0.0-1.3 mg/dL) y bilirrubina directa en 0.7 mg/dL.
+
+Evaluación
+---------------------------
+La paciente presenta síntomas indicativos de un trastorno sistémico, posiblemente relacionado con una disfunción hepática, como lo indican los niveles elevados de ALP, GGT y bilirrubina. Los diagnósticos diferenciales incluyen patología hepática secundaria a medicación, enfermedad hepática grasa no alcohólica (con obesidad y diabetes), o un resurgimiento de la sarcoidosis que afecta al hígado.
+
+Plan
+---------------------------
+- Continuar con los medicamentos actuales.
+- Programar seguimiento en dos semanas.
+- Revisar pruebas adicionales de función hepática e imágenes.
+- Educar al paciente sobre el monitoreo de los síntomas y mantener una dieta saludable para controlar el peso y la diabetes.
+- Considerar la derivación a un hepatólogo si las pruebas de función hepática empeoran o no mejoran.
+
+Thiago Moyano
+
+---------------------------
+ID del paciente: 990-15vgnn
+ID del doctor: Thiago Moyano
+Hospital: Söderköping
+Ubicación: gimnasio
+Fecha: 8 de octubre de 1973
+Contacto: 853.790.5918x4229 / Moiag@zoho.com
+"
+

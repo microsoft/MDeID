@@ -1,0 +1,55 @@
+"**Krankenpflege-Kratznotiz**
+   
+    **Patientendetails**
+        Beschwerde von Alexander Schwarz: Nackenschmerzen
+        Alter von Alexander Schwarz: 8
+        Info: Achwarz
+        Standort: Strand
+        E-Mail: erand@yahoo.com
+        Telefon: 364.424.4938
+        Adresse: Alexander Schwarz, Magdalena-Baier-Weg 4 186, 3815 Weilheim, Deutschland
+    
+    **Medizinische Informationen**
+        Diagnose: Zervikale Spondylose
+        Krankenhaus: Museum Washington
+        Arzt: Roland Moser
+        Gesundheitsplan: mSlsIzX
+        Medizinische Aktennummer#: UqjD-XUxnO
+        Kontonummer#: 351-Gibjex
+        Gerätenummer#: 3225-pTKao
+    
+    **Beobachtungen**
+        Schwitzen: Vorhanden
+        Schwindel: Erlebt
+        Blutdruck: 120/80
+        Herzfrequenz: 85
+        Atemfrequenz: 16
+    
+    **Zusätzliche Informationen**
+        BioID: 556 zOOITg
+        IP-Adresse: 54.244.34.132
+        Beruf: Luftvermittler
+        Fahrzeugnummer#: 5U474
+        Sozialversicherungsnummer: 22 586 614 955
+        Lizenznummer#: RyJtXy-654
+        Organisation: Silva, Miller und Monroe
+        Fax: +1-234-995-4813x6614
+        ID-Nummer#: 351-Gibjex
+    
+    **Patientenfortschritt**
+        Zustand der Spondylose: Stabil
+        Intensität der Nackenschmerzen: 6/10
+        Körperliche Mobilität: Eingeschränkt
+        Geistiger Zustand: Wachsam
+    
+    **Plan**
+        Fortsetzung des aktuellen Behandlungsplans.
+        Regelmäßige Überwachung von Nackenschmerzen und Mobilität.
+        Aktualisierung von Roland Moser über den Fortschritt des Patienten.
+
+**************************************************
+    Dokument erstellt am 20.01.2016
+    Erstellt von: Krankenschwester Achwarz
+    Kontakt: 364.424.4938/erand@yahoo.com/carson-stevens.hurst.cruz.com
+**************************************************"
+

@@ -1,0 +1,68 @@
+"Pflegekratznotiz:
+
+--------------------------------------------
+Patienten-ID: Manuel Lang
+MRN: 406-2642NE
+--------------------------------------------
+
+Vitalzeichen:
+- Temp.: 38,5 Celsius
+- HR: 102 bpm
+- Resp.: 20 /min
+- BP: 135/85 mmHg
+- SpO2: 94%
+
+-------------------------------------------------
+Bemerkenswerte Symptome:
+- Müdigkeit 
+- Körperschmerzen
+- Anhaltender Husten
+- Atemnot
+
+Dx: Verdächtigter 
+--------------------------------------------------
+
+Verabreichte Tx:
+- Verabreichter O2: 2L über Nasensonden
+- IV-Flüssigkeiten: 0,9% NaCl 1L
+- Verabreichtes Paracetamol: 
+
+---------------------------------------------------
+Ausstehende Rx:
+- Röntgenaufnahme der Brust
+- Blutkulturen
+- CBC, CRP, 
+---------------------------------------------------
+
+Notiz: 
+Patient Manuel Lang fühlt sich erschöpft. Beschwert sich über Schmerzen, anhaltenden Husten, Atemnot. Mögliche Lungenentzündung, weitere Tests zur Bestätigung erforderlich. 
+
+---------------------------------------------------
+Zusätzliche Daten:
+
+Überweisender Arzt: Andreas Steiner
+Gesundheitsplan: FExBBpp
+Geräte-ID: 405-25Dopz
+---------------------------------------------------
+
+Kontaktinformationen:
+
+- Telefon: +1-497-553-5932x22275
+- E-Mail: din@red-cross.org
+- Notfallkontakt: 
+
+---------------------------------------------------
+
+Bemerkungen:
+ManuelL wird nach Abschluss der Tests nachfassen. 
+Behandlung wie von Dr. Andreas Steiner verschrieben verabreichen. 
+
+---------------------------------------------------
+Hostname/IP: 33.173.103.104
+Verbunden mit dem Krankenhaussystem: Oxford concluding
+Beruf: Flugzeugpilot
+---------------------------------------------------
+
+Notiz erstellt am: 09.03.75
+Notiz überprüft von: ManuelL"
+

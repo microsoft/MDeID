@@ -1,0 +1,62 @@
+**Sommario di Dimissione**
+---
+  
+**Paziente**: Bruno Meyer
+
+**Medico**: René Wyss
+
+**Ospedale**: MPA Falkland Islands
+
+**Numero di Cartella Clinica**: 553-OnZnzU
+
+**Data di Ricovero**: 7 lug 2021
+
+**Data di Dimissione**: 7 lug 2021
+
+**Diagnosi all'Ammissione**: malattia da reflusso gastroesofageo
+
+---
+
+**Motivo del Ricovero**:
+Il paziente è stato ricoverato a causa di persistenti dolori al petto e una sensazione di bruciore, coerenti con la malattia da reflusso gastroesofageo.
+
+**Procedure Eseguite**:
+È stato eseguito un esame approfondito, incluso la palpazione addominale e l'endoscopia.
+
+**Cura, Trattamento e Servizi Forniti**:
+Il paziente è stato immediatamente messo sotto osservazione e è stato avviato un regime di farmaci per la malattia da reflusso gastroesofageo. Questo includeva inibitori della pompa protonica e modifiche dello stile di vita.
+
+**Diagnosi alla Dimissione**:
+La condizione del paziente è migliorata significativamente nel corso del suo soggiorno e i sintomi della malattia da reflusso gastroesofageo erano ben gestiti al momento della dimissione.
+
+**Condizione del paziente e disposizione alla dimissione**:
+Il paziente ha mostrato una significativa riduzione dei sintomi, in particolare dolore al petto e sensazione di bruciore. Il paziente viene dimesso in condizioni stabili con istruzioni per la cura di follow-up.
+
+**Informazioni Fornite al Paziente e alla Famiglia**:
+Il paziente e la famiglia sono stati informati sulla natura della malattia da reflusso gastroesofageo e sono state fornite suggerimenti per modifiche dietetiche e cambiamenti dello stile di vita che possono aiutare a gestire la condizione. Sono stati anche educati sui farmaci e allertati a tornare se i sintomi si ripresentano.
+
+**Disposizioni per la Cura di Follow-up**:
+Al paziente è consigliato di continuare la terapia prescritta e di fissare un appuntamento di follow-up con il loro medico curante entro una settimana dalla dimissione. Il paziente dovrebbe anche monitorare i loro sintomi e segnalare qualsiasi cambiamento o peggioramento dei sintomi.
+
+---
+
+**Farmaci alla Dimissione**: 
+1. Inibitore della pompa protonica: Da prendere come indicato
+2. Antiacidi: Da prendere se necessario
+
+**Allergie e Intolleranze**:
+Non sono note allergie o intolleranze al momento della dimissione.
+
+**Raccomandazioni per il Follow-up**:
+Al paziente è consigliato di seguire una dieta equilibrata, evitare i pasti tardivi e gestire lo stress. Sono anche incoraggiati a mantenere un peso sano e ad evitare cibi che scatenano i sintomi del reflusso.
+
+**Istruzioni di Dimissione**:
+Al paziente è consigliato di prendere tutti i farmaci come indicato. Se c'è un peggioramento dei sintomi, o se i sintomi persistono oltre le prossime due settimane, al paziente è consigliato di cercare immediata assistenza medica.
+  
+
+**Firma del Medico**:
+René Wyss
+
+---
+
+Questo è un documento sintetizzato e qualsiasi relazione con eventi o persone reali è puramente casuale. Nessuna informazione sanitaria personale (PHI) è inclusa in questo documento.

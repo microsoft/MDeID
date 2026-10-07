@@ -1,0 +1,26 @@
+"Nota del Doctor Scratch:
+
+P: Mauricio Pérez, 15 Masculino, molestias lumbares, debilidad en las extremidades inferiores después de una infección respiratoria superior menor. El tratamiento inicial para la sospecha de artritis transitoria de cadera no mostró mejoría. 
+Sofía Hernández: \"Terapia antiinflamatoria ineficaz, el dolor se intensificó, el paciente no puede caminar\"
+
+O: No hay efusión articular, ultrasonido de cadera
+Radiografía de la columna: Reducción menor en el grosor del soma L5
+MRI: Señales de post-mejoramiento T1 en el anulus L4-L5, placas terminales de L4 y L5, tejidos blandos adyacentes, área osteolítica del pedículo L5. 
+Sangre: Tasa de sedimentación eritrocítica alta (77 mm/h), proteína C reactiva alta (2.17 mg/dL), recuento normal de glóbulos blancos, concentración normal de procalcitonina en suero, prueba de Quantiferon TB-gold normal. 
+Leucopenia con neutropenia severa después de 3 semanas de terapia (recuento de glóbulos blancos en 5410/mm3).
+Sofía Hernández: \"Los resultados de la MRI y los análisis de sangre indican espondilodiscitis con osteomielitis\"
+
+A: Diagnóstico Primario: Espondilodiscitis y osteomielitis. 
+Diagnóstico Diferencial Inicial: Artritis transitoria de cadera.
+Complicación: Leucopenia con neutropenia severa.
+Sofía Hernández: \"Se observó complicación - leucopenia con neutropenia severa\"
+
+P: Se inició terapia con meropenem intravenoso (KrUsV-9004) (100 mg/kg/día en tres dosis) y vancomicina (KrUsV-9004) (40 mg/kg/día en tres dosis). 
+Continuó el tratamiento antiinflamatorio durante la primera semana. 
+Plan: Vigilar de cerca el progreso del paciente, ajustar el tratamiento según sea necesario, específicamente para la leucopenia con neutropenia severa. 
+Se programaron controles regulares y análisis de sangre en Jadavpur 
+Sofía Hernández: \"Se planea un seguimiento cercano, controles regulares en Jadavpur, atención a la leucopenia con neutropenia severa\"
+
+Sofía Hernández - Arboriculturista 
+"
+

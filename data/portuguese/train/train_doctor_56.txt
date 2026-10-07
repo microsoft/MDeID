@@ -1,0 +1,37 @@
+"Nota de Rascunho do Médico:
+
+-----------------------------------
+Dra. Joana Simões
+Johnson-Williams
+
+Simão Oliveira - fH-103PLRB - 33
+
+OBSERVAÇÕES:
+Sinais vitais:
+Temp: 36.5\u00b0C
+HR: 90 bpm
+RR: 22/min
+BP: 108/61 mm Hg
+O2 Sat: 100% em 40% FiO2
+
+Sintomas: AMS(1 semana), Febre, Dor no pescoço, Náusea, Vômito. Sem dor abdominal, dor de cabeça, alterações visuais, fraqueza focal, dor no peito, dispneia. Não fuma, não consome álcool, não usa drogas ilícitas. Atividades noturnas relatadas, sonolência intermitente. 
+
+Exame físico: Intubado, Admitido na UTI. Sinal de Brudzinski positivo, rigidez no pescoço, pupilas iguais e reativas à luz, resposta a estímulos dolorosos. Pulmões limpos, exames cardíacos e abdominais sem alterações. 
+
+Resultados de laboratório: WBC 19,900/mm3 (81% neutrofilos), HGB 11.8 g/dL, Plaquetas 170,000/\u00b5L, Creatinina 0.5 mg/dL, Bilirrubina 0.6 mg/dL, AST 49 IU/L, ALT 81 IU/L, Fosfatase alcalina.
+
+AVALIAÇÃO:
+1. Meningite bacteriana aguda - Febre, rigidez no pescoço, AMS, achados laboratoriais de apoio incluindo leucocitose com neutrofilia.
+2. Diferenciais - Encefalite viral, outras infecções do SNC.
+
+PLANO:
+1. Continuar monitoramento na UTI, cuidados de suporte.
+2. Iniciar terapia antibiótica empírica - Alvo em patógenos comuns causando meningite.
+3. Monitorar estado neurológico e sinais vitais de perto.
+4. Educação - Simão Oliveira, família sobre condição, plano de tratamento, resultados esperados.
+5. Consultas - Neurológicas, Considerar doença infecciosa se necessário.
+6. Cuidados de acompanhamento - Discutir importância, gerenciamento a longo prazo.
+
+Joana Simões
+-----------------------------------"
+

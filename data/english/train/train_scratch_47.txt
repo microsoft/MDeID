@@ -1,0 +1,67 @@
+"**Nurse Scratch Note**
+
+---------------------------------------------------------------
+**Patient Report**
+- Macie Pelletier
+- Medical Record: LCU 77XnWJ
+- Age: 7 weeks
+
+**Vital Stats**
+- BP: 130/85 mmHg
+- Pulse: 75 bpm
+- Resp: 20 bpm
+- Temp: 37.0 C
+
+**Treatment Progress**
+- Complains of difficulty breathing, suspecting bronchial asthma.
+---------------------------------------------------------------
+
+**Observation**
+- Inspected skin: Normal
+- Palpated chest: Normal
+- Auscultated lungs: Wheezing heard
+
+**Investigations & Results**
+- Spirometric Test: To be done
+- Peak Flow Meter: To be done
+---------------------------------------------------------------
+
+**Prescribed Medications**
+- Bronchodilator: To be administered as per doctor order
+- Steroids: To be administered as per doctor order
+
+**Miscellanea**
+- Health Plan: 86j5fu
+- Hospital: Lakme
+- Doctor: David Thompson
+
+**Next Steps**
+- Report to physician for spirometry test
+- Administer bronchodilators and monitor response
+- Keep peak flow meter at bedside
+
+**Emergency Contact**
+- Phone: (838)231-1366
+- Email: idon@zoho.com
+
+---------------------------------------------------------------
+**Recall & Reminder**
+- Patient Username: 5EQMBxaw
+- Device Serial Number: UidMel Doz
+- Account: LY HPwJfxP
+- Social Security: 734-469-444
+
+---------------------------------------------------------------
+**Footer**
+- License: OD 087575B
+- Bio ID: 5687-9002O
+- IP Address: 93.169.83.84
+- Location: school
+- Vehicle: 077 XLL
+- ID Number: LY HPwJfxP
+- Address: Macie Pelletier, 8 Reamalgamate, Misbind, 4 0787, United States
+- Profession: Contractor
+- Organization: Howard LLC
+- Fax: +1-824-492-9241x1205
+---------------------------------------------------------------"
+

@@ -1,0 +1,60 @@
+"Doctor Scratch Note
+
+----------------------------------------
+
+54 female, non-smoker, no comorbidities.
+Presenting symptoms: Cough, low-grade fever, mild weight loss.
+No recurrent infections history.
+No contact with tuberculosis patients.
+Travel history includes Australia and Australia.
+Previous diagnosis: Pneumonia, multiple antibiotic treatments, no symptom resolution.
+
+----------------------------------------
+
+Physical Examination:
+Decreased breath sounds in left upper lobe.
+Chest X-ray and CT scan observations:
+- Consolidation in upper left hilum, left upper lobe.
+- Central nodular intraluminal lesion.
+- Bronchial thickening.
+- Post-obstructive pneumonia.
+No lymphadenopathy or pleural effusions noted.
+
+Bronchoscopy findings:
+Well-defined endobronchial tumor in left upper lobe.
+
+Histological examination of resected left upper lobe:
+- Atypical carcinoid tumor.
+- Granulomatous inflammation.
+Tests for Mycobacterium tuberculosis: Negative.
+
+----------------------------------------
+
+Diagnosis:
+Primary: Atypical carcinoid tumor of left upper lobe.
+Differential: Tuberculosis (due to granulomatous inflammation and travel history), current tests for tuberculosis negative.
+
+Prognosis:
+Depends on continuous monitoring and management of carcinoid tumor and potential tuberculosis.
+
+----------------------------------------
+
+Treatment Plan:
+Patient underwent successful left upper lobe lobectomy.
+Recommend ongoing monitoring for tuberculosis despite negative current tests.
+Regular follow-ups necessary for management and reassessment.
+Further treatment options may be considered based on progression of carcinoid tumor and any new findings related to tuberculosis.
+
+----------------------------------------
+
+Doctor: Jordan Mendez
+Patient: Noah White
+Medical Record: 426 2731DY
+Hospital: Los Angeles Memorial Coliseum
+Date: Tue Feb 11
+City: Struthiomimus
+State: 930
+Zip: 1559
+
+----------------------------------------"
+

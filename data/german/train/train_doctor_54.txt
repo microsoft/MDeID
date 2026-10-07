@@ -1,0 +1,17 @@
+"Arzt Notizen:
+
+S: 
+Patientin Alina Baumann ist eine langjährige Akromegalie-Patientin. Bemerkenswerte Symptome sind Dyspnoe bei Belastung und Kurzatmigkeit (2 Jahre), kürzlich aufgetretene Präsynkope-Episode (vor 2 Wochen). Alina Baumann wurde etwa 2 Jahrzehnte lang mit Octreotid behandelt, 2 stereotaktische Radiochirurgie-Eingriffe in den letzten 10 Jahren. Keine Familienanamnese zu beachten. Leugnet Hypertonie, Diabetes mellitus, Schlafapnoe, plötzlichen Herztod. Kein Rauchen, Alkoholkonsum.
+
+O: 
+BMI weist auf Übergewicht hin, 39 kg/m2. Deutliche akromegalische Merkmale vorhanden: vergrößerte Zunge, Lippen, Hände, Füße. Vitalwerte: Blutdruck - 110/60 mmHg, Puls - 92 Schläge/min, Sinusrhythmus, unregelmäßige vorzeitige Schläge, pathologischer dritter Herzton, systolisches Murmeln. EKG zeigt LBBB, NYHA-Stadium III-IV Herzfunktion. MRT bestätigte Hypophysenmakroadenom. Laborergebnisse: erhöhtes BNP (740 pg/ml), übermäßiges Wachstumshormon und IGF-1.
+
+A:
+Primärdiagnose: Akromegalie. Komplikationen: Herzinsuffizienz (evident durch erhöhtes BNP, NYHA-Stadium III-IV), Hypophysenmakroadenom. Differentialdiagnosen: Andere Ursachen für Kardiomyopathie, sekundäre Auswirkungen von langfristigem Wachstumshormonüberschuss.
+
+P: 
+Fortsetzung von Octreotid, Überwachung der Wirksamkeit und Nebenwirkungen. Plan Überweisung an Tom Kraus (Kardiologie) zur Behandlung von Herzproblemen. Überlegen Sie, die Medikamente gegen Herzinsuffizienz basierend auf den Empfehlungen von Tom Kraus anzupassen. Regelmäßige Nachuntersuchungen zur Überwachung des Hormonspiegels und der Herzfunktion sind notwendig. Alina Baumann über regelmäßige Überwachung und Einhaltung des Behandlungsplans aufklären. Diskutieren Sie chirurgische Optionen für Hypophysenmakroadenom mit Tom Kraus (Neurochirurg).
+
+Tom Kraus
+Cole Ltd"
+

@@ -1,0 +1,13 @@
+T1	PATIENT 22 36	Neeltje Kuiper
+T2	AGE 39 41	78
+T3	DOCTOR 42 56	Laurens Kramer
+T4	DEVICE 413 423	452 spYHJB
+T5	MEDICALRECORD 535 545	gipv oKNFB
+T6	ORGANIZATION 741 753	Sharp-Martin
+T7	ORGANIZATION 791 803	Sharp-Martin
+T8	ORGANIZATION 838 850	Sharp-Martin
+T9	HOSPITAL 884 917	Universiteit van Rochester United
+T10	PROFESSION 951 996	Onderzoekswetenschapper (levenswetenschappen)
+T11	PATIENT 1023 1037	Neeltje Kuiper
+T12	DOCTOR 1255 1269	Laurens Kramer
+T13	DATE 1300 1316	24 februari 2005

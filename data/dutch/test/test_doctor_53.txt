@@ -1,0 +1,49 @@
+"Notitietype: Kladnotitie
+
+----------
+Notities van Willem Kok
+----------
+
+27-11-1973
+
+Patiënt: Willemijn Jonker
+
+ID: Mswxgt-pBc
+
+LEEFTIJD: 94
+
+Geschiedenis van terugkerende sinusitis, otitis media, bilaterale tympanostomie, tonsillectomie, lopende allergenenimmunotherapie voor omgevingsallergieën.
+
+Huidige symptomen:
+- Irritatie, roodheid, gevoel van bewegend vreemd lichaam in linkeroog
+- Begin: gisteren tijdens het sporten op een met mest bemest grasvoetbalveld
+- Zelfbehandelingspogingen: kunsttranen, irrigatie met kraanwater, geen verlichting
+
+Bezoek aan de spoedeisende hulp:
+- Onderzoeksbevindingen: 11 larven consistent met het eerste instar stadium van O ovis in het linkeroog
+- Linker conjunctiva: geïnjecteerd
+- Extra-oculaire bewegingen: intact
+- Visuele scherpte: normaal in beide ogen
+- Spaltlamp onderzoek: meerdere larven in bulbaire conjunctiva, palpebrale fornix
+- Behandeling: polysporine-bacitracine-neomycine oogoplossing, albendazol 400 mg dagelijks gedurende 3 dagen
+
+Diagnose: 
+- Primair: Ophthalmomyiasis externa door blootstelling aan O ovis larven
+- Differentieel: Andere oorzaken van conjunctivitis of vreemd lichaamsgevoel in het oog uitgesloten door objectieve bevindingen en bevestigde larvale identificatie
+- Prognose: Goed, gezien tijdige identificatie en behandeling
+
+Plan: 
+- Ga door met de oogoplossing zoals voorgeschreven
+- Voltooi de kuur met albendazol
+- Vervolgafspraak met de oogarts: 27-11-1973
+- Patiënteneducatie:
+    - Belang van het dragen van beschermende brillen tijdens het sporten, vooral in omgevingen met verhoogde blootstellingsrisico's
+    - Belang van het handhaven van goede hygiëne
+    - Zoek medische hulp als symptomen terugkeren of nieuwe symptomen ontwikkelen
+
+Willem Kok
+
+----------
+Einde van de notitie
+----------"
+

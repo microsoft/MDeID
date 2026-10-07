@@ -1,0 +1,55 @@
+"**Nota de Enfermagem**
+   
+    **Detalhes do Paciente**
+        Queixa de Lavinia Correia: Dor no pescoço
+        Idade de Lavinia Correia: 11
+        Informação: CLavinia
+        Localização: estádio
+        Email: Afra@unicef.org
+        Telefone: (374)521-4409x055
+        Endereço: Lavinia Correia, Rua de Castro, 41 29, Recrystallise, Araucaria - 76, JOVGA6LI, Brasil
+   
+    **Informação Médica**
+        Diagnóstico: Espondilose Cervical
+        Hospital: Duke of Parma
+        Médico: Afonso Oliveira
+        Plano de Saúde: enU
+        Número do Prontuário: 928043-527
+        Número da Conta: 959206-Cwt
+        Número do Dispositivo: 30058-1292
+   
+    **Observações**
+        Suor: Presente
+        Tontura: Experienciando
+        PA: 120/80
+        Frequência Cardíaca: 85
+        Frequência Respiratória: 16
+   
+    **Informação Adicional**
+        BioID: Bas uCDIfV
+        Endereço IP: 26.155.211.38
+        Profissão: Make
+        Número do Veículo: 575 HPU
+        SSN: 262.615.247-74
+        Número da Licença: 910 BccNJP
+        Org: Meyer-Garcia
+        Fax: (274)259-4095x14175
+        ID#: 959206-Cwt
+   
+    **Progresso do Paciente**
+        Condição de Espondilose: Estável
+        Intensidade da Dor no Pescoço: 6/10
+        Mobilidade Física: Limitada
+        Estado Mental: Alerta
+   
+    **Plano**
+        Continuar com o plano de tratamento atual.
+        Monitorar regularmente a dor no pescoço e a mobilidade.
+        Atualizar o Afonso Oliveira com o progresso do paciente.
+
+**************************************************
+    Documento criado em 24 de maio de 2020
+    Criado por: Enfermeira CLavinia
+    Contato: (374)521-4409x055/Afra@unicef.org/diaz-garcia.jarvis-harris.knight.com
+**************************************************"
+

@@ -1,0 +1,36 @@
+--------------------------------------RESUMO DE ALTA--------------------------------------
+
+**[PACIENTE]**Pedro Gomes, **[NÚMERO DO PRONTUÁRIO MÉDICO]** uPUQX-61aN, **[MÉDICO RESPONSÁVEL]** Yasmin Alvaréz 
+
+**Motivo principal para hospitalização:** Diagnóstico de osteomielite
+
+**Seção de Alergias e Intolerâncias:** Não há alergias ou intolerâncias conhecidas.
+
+**Seção do Curso Hospitalar:** Durante a hospitalização, o paciente apresentou dor moderada a severa, vermelhidão nos locais, sensibilidade na próstata, febre recorrente e dificuldade para urinar - exames diagnósticos adicionais confirmaram a presença de osteomielite. O tratamento imediato foi iniciado para gerenciar os sintomas e prevenir a progressão da doença.
+
+**Seção de Procedimentos:** Realizada ressonância magnética para avaliação e confirmação de osteomielite.
+
+**Seção de Resultados:** Os resultados da ressonância magnética mostraram evidências de infecção nos ossos indicativas de osteomielite.
+
+**Diagnóstico de Alta:** Osteomielite
+
+**Medicamentos de Alta:** Prescritos antibióticos e medicamentos para controle da dor. Todas as informações e instruções necessárias sobre os medicamentos foram explicadas e entregues ao paciente.
+
+**Seção do Plano de Tratamento:** Após a alta, o paciente continuará a terapia com antibióticos por mais quatro semanas e terá consultas regulares no ambulatório do hospital.
+
+**Seção de Consultas Hospitalares:** Consultado com uma equipe de especialistas em doenças infecciosas durante o curso da hospitalização para orientação no manejo da osteomielite.
+
+**Provisões para Cuidados de Acompanhamento:** O acompanhamento foi organizado no departamento ambulatorial com Yasmin Alvaréz.
+
+**Informações fornecidas ao paciente e à família:** Foi fornecido aconselhamento extenso sobre o manejo da doença, possíveis complicações, adesão à medicação, importância do acompanhamento e modificações no estilo de vida.
+
+**Seção de Instruções de Alta Hospitalar:** O paciente é aconselhado a completar o curso de antibióticos sem falhas, descansar, manter a hidratação e evitar estresse. Além disso, qualquer piora dos sintomas ou efeitos colaterais dos medicamentos deve ser relatada imediatamente.
+
+**Disposição de Alta:** A condição do paciente melhorou significativamente no momento da alta e é seguro continuar a recuperação em casa.
+
+**Histórico Médico Anterior:** Não significativo para doenças crônicas. Esta foi a primeira incidência de uma infecção grave.
+
+**Seção de Histórico Social:** Sem histórico de tabagismo ou abuso de álcool. Atividade física regular e dieta equilibrada.
+
+--------------------------FIM DO DOCUMENTO---------------------------
+

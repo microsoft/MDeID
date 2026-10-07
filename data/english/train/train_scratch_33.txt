@@ -1,0 +1,68 @@
+"Nursing Scratch Note:
+
+--------------------------------------------
+Patient ID: Charles Boon
+MRN: 74216 ZihZ
+--------------------------------------------
+
+Vital Signs:
+- Temp.: 38.5 Celsius
+- HR: 102 bpm
+- Resp.: 20 /min
+- BP: 135/85 mmHg
+- SpO2: 94%
+
+-------------------------------------------------
+Notable symptoms:
+- Fatigue 
+- Body aches
+- Persistent cough
+- Shortness of breath
+
+Dx: Suspected 
+--------------------------------------------------
+
+Tx Administered:
+- Administered O2: 2L via nasal prongs
+- IV fluids: 0.9% NaCl 1L
+- Administered Paracetamol: 
+
+---------------------------------------------------
+Pending Rx:
+- Chest X-Ray
+- Blood cultures
+- CBC, CRP, 
+---------------------------------------------------
+
+Note: 
+Patient Charles Boon feeling run down. Complains of achiness, persistent cough, shortness of breath. Possible pneumonia, further tests required for confirmation. 
+
+---------------------------------------------------
+Additional Data:
+
+Referring physician: Anabelle Brown
+Health Plan: wR8r7
+Device ID: 94326 UgPp
+---------------------------------------------------
+
+Contact Information:
+
+- Phone: (940)250-2002x160
+- Email: ne@outlook.com
+- Emergency Contact: 
+
+---------------------------------------------------
+
+Remarks:
+Mpuw86Ov to follow up after tests are complete. 
+Administer treatment as prescribed by Dr. Anabelle Brown 
+
+---------------------------------------------------
+Hostname/IP: 142.195.249.70
+Connected to Hospital System: Ponsonby Memorial Society
+Profession: Teacher, adult education
+---------------------------------------------------
+
+Note created on: 22/2004
+Note reviewed by: Mpuw86Ov"
+

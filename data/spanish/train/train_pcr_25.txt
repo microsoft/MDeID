@@ -1,0 +1,20 @@
+"Informe de Atención al Paciente - Situación Médica de Emergencia
+
+[DESPACHO] Este equipo respondió a una llamada 001-735-720-1959x4695 para un José Antonio Bravo que experimentaba una angustia respiratoria aguda. El llamante, un vecino, informó que escuchó sonidos fuertes de jadeo y una tos persistente desde la residencia del paciente. Fuimos enviados bajo un código de emergencia, utilizando luces y sirenas para una respuesta rápida.
+
+[EVALUACIÓN EN EL LUGAR] A nuestra llegada, encontramos al paciente en un estado moderado de angustia, mostrando signos de fiebre, tos persistente y dificultad para respirar. El paciente estaba consciente pero visiblemente luchando por respirar. La escena indicaba que el paciente vive solo en una casa ubicada en José Antonio Bravo, Privada Norte Ramos 877 Edif. 809, Depto. 317 109, Prematerial, HIDALGO DEL PARRRAL 36482, Peru y había signos de una condición médica crónica, lo que sugiere que esto fue una exacerbación de una enfermedad existente.
+
+[HISTORIA DE LA ENFERMEDAD ACTUAL] Después de estabilizar al paciente con oxígeno suplementario de un tanque marcado con el número de serie kDHXJ-5151, realizamos una exhaustiva recopilación de antecedentes. El paciente se identificó como José Antonio Bravo y proporcionó un número de cuenta 932 880046 para el número de registro médico 698519 eMd. Nos informaron que los síntomas comenzaron el 22 de septiembre de 1975 con una tos y una fiebre de bajo grado que desde entonces ha escalado al estado actual. El paciente también mencionó haber sido diagnosticado con asma bronquial en la Franklin Academy bajo el cuidado del Nicolás Castrillón.
+
+[EVALUACIÓN INICIAL] Nuestra evaluación primaria encontró al paciente consciente, con orientación a la persona, lugar y tiempo. La 102 del paciente parecía consistente con la apariencia. Realizamos un examen completo de cabeza a pies y encontramos signos de dificultad para respirar, sibilancias en los sonidos de la respiración y una frecuencia cardíaca ligeramente elevada. La temperatura del paciente registrada desde el ID del dispositivo kDHXJ-5151 indicaba fiebre.
+
+[TRATAMIENTO] Comenzamos el tratamiento en el lugar administrando medicación broncodilatadora a través de un nebulizador, según la prescripción existente del paciente del Dr. Nicolás Castrillón. Luego, el paciente fue preparado para el transporte al hospital más cercano, Franklin Academy, con monitoreo continuo de signos vitales. Se envió un nolá@icloud.com al hospital con la evaluación inicial y el tratamiento del paciente.
+
+[TRANSPORTE] El paciente fue asegurado de manera segura en nuestra ambulancia con número de placa 0TY 350 para el transporte. Se colocó la línea IV, sin hinchazón ni decoloración en el sitio de inserción. Las pertenencias del paciente, incluido un dispositivo móvil con una 177.1.51.19 identificada, se mantuvieron seguras con nosotros durante el viaje.
+
+[ENTREGA AL HOSPITAL] A la llegada al hospital, la atención del paciente fue entregada a la enfermera del departamento de emergencias, con todos los detalles de la condición, tratamiento e historia del paciente comunicados. Todas las pertenencias del paciente fueron entregadas al personal del hospital. Un formulario de Entrega del Paciente completado fue firmado y recibido por la enfermera, cuya URL del documento es schmitt.com.
+
+[DOCUMENTACIÓN] El informe fue completado por el EMT asistente, y se generó y envió una copia del Informe de Atención al Paciente a la cuenta vinculada al nombre de usuario del paciente VWIQ05zr. El documento también se guardó en el sistema contra el número de seguridad social del paciente 69.111.088 para referencia y facturación.
+
+[EMT ASISTENTE] Este informe ha sido preparado y verificado por Nicolás Castrillón, un EMT con licencia con número de certificación 97-79uubkU. Este documento tiene como objetivo proporcionar un relato detallado de la condición y el tratamiento del paciente durante la situación médica de emergencia en la fecha del incidente 22 de septiembre de 1975."
+

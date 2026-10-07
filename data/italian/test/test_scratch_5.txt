@@ -1,0 +1,49 @@
+"**Appunti di Infermieristica** - ID Unico: 6286 sXsbJ
+***Preoccupazioni del Paziente*** 
+Problemi Respiratori - Gravità notata, Dettagli aggiuntivi catturati nel record del paziente n. bwsqA-4484
+
+***Segni Vitali*** 
+BP: 120/80 mmHg
+Frequenza Cardiaca: 75 bpm
+Respirazione: 21 bpm 
+Temperatura: 37.2 C 
+Saturazione di Ossigeno: 92% 
+
+***Osservazioni*** 
+Problemi Visibili - Respirazione, Sintomi Asmatici - Notati
+Riferimento al Dr. Alessia Caputo per ulteriori esami. 
+
+--- 
+**Informazioni di Contatto di Emergenza** 
+Nome: Lucia Pellegrin 
+Numero di Contatto: 441.586.6834 
+Email Id: leo@yahoo.com 
+Indirizzo: Lucia Pellegrin, 492 Sarah Points Suite 952 41, 7098 Castelnovo Del Friuli, Svizzera
+
+**Informazioni sul Dispositivo**
+Nome del Dispositivo: Asthma Inhaler, 
+Numero del Dispositivo: 7561-125PR
+
+**Informazioni di Fatturazione**
+Numero di Conto: 6286 sXsbJ
+Piano Sanitario: rTmt
+---
+**Altre Informazioni** 
+Professione del Paziente: Ufficiale di prove sul campo
+Età: 69
+Data di Consultazione: 3 settembre 1979
+Luogo di Consultazione: fermata dell'autobus
+Nome dell'Ospedale: Cimetière Prostestant
+Numero di Sicurezza Sociale del Paziente: 626938-0091
+
+***Piano***
+Aumentare la frequenza di utilizzo dell'inalatore. 
+Monitorare il pattern respiratorio. Riferimento al pneumologo Dr.Alessia Caputo.
+BioID del Paziente: NTp-156036
+---
+**Commenti**
+Indirizzo IP del Paziente: 74.73.133.178
+Informazioni sulla Licenza del Paziente: 833-SNTdlp
+
+Questo è un documento sintetico."
+

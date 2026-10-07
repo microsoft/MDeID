@@ -1,0 +1,57 @@
+"Appunti del Dottore Scratch
+
+---------------------------
+
+Alex Romano riferisce stanchezza, sudorazioni notturne, perdita di peso, perdita di appetito e lieve disagio addominale negli ultimi 2 mesi. Nessuna febbre, brividi, tosse, nausea, vomito, prurito o problemi urinari o intestinali. 
+
+Informazioni Generali
+---------------------------
+Anamnesi medica:
+- Sarcoidosi inattiva
+- Ipertensione
+- Iperlipidemia
+- Disturbo bipolare
+- Malattia coronarica con recente intervento coronarico percutaneo
+- Diabete mellito di tipo 2 di recente diagnosi
+Nessuna storia di alcol o tabacco.
+
+Segni Vitali
+---------------------------
+BMI: 37.2 kg/m2
+Peso: 263 libbre
+18, maschio
+
+Esame
+---------------------------
+Esami generali, polmonari, cardiaci e addominali non rilevanti senza linfadenopatia palpabile. 
+
+Risultati del Laboratorio
+---------------------------
+Livelli normali di alanina aminotransferasi e aspartato aminotransferasi. 
+ALP = 258 U/L (riferimento = 38-126 U/L)
+GGT = 274 U/L (riferimento = 12-73 U/L)
+Bilirubina totale a 1.7 mg/dL (riferimento = 0.0-1.3 mg/dL) e bilirubina diretta a 0.7 mg/dL.
+
+Valutazione
+---------------------------
+Il paziente presenta sintomi indicativi di un disturbo sistemico, possibilmente correlato a una disfunzione epatica come indicato dai livelli elevati di ALP, GGT e bilirubina. Le diagnosi differenziali includono patologia epatica secondaria a farmaci, malattia epatica grassa non alcolica (con obesità e diabete), o una recrudescenza della sarcoidosi che colpisce il fegato.
+
+Piano
+---------------------------
+- Continuare i farmaci attuali.
+- Programmare un controllo tra due settimane.
+- Rivedere ulteriori test di funzionalità epatica e risultati di imaging.
+- Educare il paziente a monitorare i sintomi e a mantenere una dieta sana per gestire il peso e il diabete.
+- Considerare il rinvio a un epatologo se i test di funzionalità epatica peggiorano o non migliorano.
+
+Greta Gallo
+
+---------------------------
+ID Paziente: vgnnes-015
+ID Dottore: Greta Gallo
+Ospedale: Berkeley Keen
+Posizione: università
+Data: 30 set 1983
+Contatto: 853.790.5918x4229 / al@outlook.com
+"
+

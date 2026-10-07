@@ -1,0 +1,54 @@
+"Notas de Enfermería:
+
+==========================
+(Paciente) Victoria Quintero  
+(Historia Clínica) 1138 90081  
+(Médico Asistente) Kylych Azatbekov  
+(Plan de Salud) MXsUsC7L 
+(Fecha de Admisión) 17 de julio de 2010 
+==========================
+
+
+Signos Vitales & Observaciones
+-------------------
+BP: 130/80
+HR: 88 bpm
+Temp: 101.3 F
+RR: 20 respiraciones/min
+
+-Notado febril, posible condición subyacente  
+-Quejas del paciente: se siente realmente enfermo  
+-Sospechado: morgan-smith.mccullough.jackson.com (enlace de recurso de malaria)  
+-Se aconsejó a Victoria Quintero que descanse y se mantenga hidratada    
+
+===========================
+(Dirección) Victoria Quintero, Alameda de Cornelio Domínguez 47 Puerta 2, 41, 2311 Mercedes, Spain  
+(Contacto) 001-888-517-9262  
+(Cuenta) 54566 eVEf 
+(Correo Electrónico) atbKy@hotmail.com
+(Número de Licencia Profesional) 849-986ZZq
+(Información del Dispositivo) usouY Smib
+===========================
+
+Tratamiento
+-------------------
+-Medicamentos antimaláricos prescritos
+-Se monitoreará el progreso
+
+===========================
+(Edad del Paciente) 82 
+(Nombre de Usuario del Paciente) 1Ieuw9DY 
+(Número de Seguridad Social del Paciente) 854-93-4603 
+(Dirección IP) 140.131.45.140
+(ID de Bio del Paciente) OvgcM-42iO
+(Número de Identificación) 54566 eVEf
+===========================
+
+Notas Adicionales
+-------------------
+-El paciente necesitará seguimiento después del 17 de julio de 2010
+-El paciente se conectó con la organización Bennett, Payne and Barry
+-Contacto de Emergencia: Victoria Quintero
+
+[Fin de la Nota]"
+

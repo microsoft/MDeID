@@ -1,0 +1,60 @@
+"#Verpleegkundige Kras Notitie 
+
+--- Patiëntgegevens ---
+Naam: Emilie Bauwens
+Leeftijd: 39
+BSN: 254-7072873-34
+Medisch dossier: 9673 43538
+Rekeningnummer: DVm 298gJM
+Beroep: Ingenieur, energie
+Organisatie: Hill, Kirk and Kelly
+Zorgplan: jYio3Dr
+
+--- Contactinformatie ---
+Adres: Emilie Bauwens, Sulphobenzid 165, 6304 Unmovableness, Nederland
+Telefoon: 593.389.6887
+Email: menemke@who.int
+
+--- Diagnostische Apparaten ---
+Apparaat#: 48 sijtehx
+
+--- Artsinformatie ---
+Behandelend arts: Femke Van Damme
+Licentie: 498306 369
+
+--- IP Info ---
+IP-adres: 140.27.4.185
+
+--- Netwerk Handle ---
+Gebruikersnaam: MOzUhE0u
+
+--- Voertuig Info ---
+Kenteken#: 66-83078
+
+--- Biometrische ID ---
+BioID: fY 874mXeE
+
+--- Huidige Status ---
+Moeite met het doorslikken van voedsel, periodiek brandend maagzuur en indigestie, Potentieel voor Sapphism-504 Peptische Ulcus Ziekte.
+
+--- Vitale Tekens ---
+Bloeddruk: 120/80 mmHg 
+Pols: 72 bpm 
+Lichaamstemperatuur: 98.7\u00b0F
+Ademhalingsfrequentie: 16 ademhalingen per minuut
+
+--- Andere Relevante Informatie ---
+Patiënt werkt voor een Hill, Kirk and Kelly, verdere stressgerelateerde factoren moeten worden onderzocht. Mogelijke rook- en alcoholgeschiedenis.
+
+--- Noodcontact ---
+Naam: Emilie Bauwens 
+Relatie: Familielid
+Telefoon: 593.389.6887
+
+--- Vervolg ---
+Volgende afspraak met Dr. Femke Van Damme op 30 mei 1991 bij Saint Adelbert bibliotheek
+
+--- Aanvullende Opmerkingen ---
+MOzUhE0u moet symptomen monitoren en eventuele veranderingen melden. Vermijd pittig en moeilijk te verteren voedsel, neem medicatie zoals voorgeschreven door Dr. Femke Van Damme
+"
+

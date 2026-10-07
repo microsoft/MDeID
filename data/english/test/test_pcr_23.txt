@@ -1,0 +1,26 @@
+"Patient Care Report: Respiratory Distress 
+
+Dispatch and Arrival at Scene:
+On Thu:23:95, we received a 911 call for a person experiencing difficulty breathing. Patient Jordan Reynolds was found by our team stationed at superstore in Navigably, 61. Upon arrival, Jordan Reynolds was sitting upright in a chair, appearing to be in respiratory distress.
+
+History and Symptoms:
+Jordan Reynolds is approximately 49 weeks, with a recent history of what they self-identified as a common cold. Throughout the call, Jordan Reynolds conveyed a high level of discomfort, stating they were experiencing a persistent cough and nasal congestion. The patient was alert and oriented to person, place, and time, and had a history of similar events from 487583 Fec.
+
+Examination:
+A rapid physical evaluation was performed by Lylah Brown. The patient's airway was patent, however, labored breathing was noted. Auscultation of the chest revealed bilateral wheezes. The skin was pale and cool to touch, which could be indicative of inadequate oxygenation. Oxygen saturation was noted to be 92% in room air from the device with VAj 25505T identifier.
+
+Treatment and Transport:
+Initial treatment comprised of administration of supplemental oxygen via non-rebreather mask at a flow rate of 15 liters per minute. The patient's oxygen saturation improved to 98% post-oxygen therapy. Jordan Reynolds was then safely transferred onto the stretcher with the assistance of the EMS team and was transported via UMI-809 to the new University College Hospital.
+
+During the transport, Jordan Reynolds was continuously monitored. A reassessment was done every 5 minutes by the attending EMS personnel. The patient's condition remained stable throughout the transport, and they were handed over to the ED team at new University College Hospital with all pertinent information shared.
+
+The details of this report including the patient's symptoms, the treatment administered, medical findings, and transport information were all documented in the patient's electronic health record, number 487583 Fec, accessible through the hospital's portal with URL atkins.wells.com using ZiBEz22j and 79529-iuNy.
+
+Billing for the ambulance service was sent to the patient's health insurance provider, funU, under account number 79529-iuNy. The ambulance service was called by Jordan Reynolds through the phone number +1-299-632-9847x87539 and the email lan@who.int was used for sending the e-receipt of the payment. The ambulance was driven by an EMT with license 15-893183b from the organization Santos-Boone. The call was dispatched to our EMS team via IP address 57.70.250.106 and the fax number 001-464-976-5395x699 was used for sending the patient's medical documents to the hospital.
+
+Report Prepared by:
+Lylah Brown (signature)
+Thu:23:95
+
+NOTE: The patient's other personal details including their address Jordan Reynolds, 26 Betokenment, Navigably, 61 8429, United States, city Navigably, state 61, zip 8429, country Canada and their social security number 054 332 967 were also documented and are confidential as per the HIPAA rules."
+

@@ -1,0 +1,84 @@
+"**Nota di Osservazione Infermieristica [NSN]** 
+
+--------------------------------
+**Info Paziente** 
+Lara Huber  
+74
+Lara Huber, 01005 Shelly Lake Suite 658 158, 7974 Sapri, Svizzera
+
+**Segni Vitali**
+Frequenza Cardiaca: 110 bpm 
+Temperatura: 100.8 F 
+Frequenza Respiratoria: 20 bmp 
+Pressione Sanguigna: 130/80 
+
+**Sintomi Osservati**
+Eruzione Cutanea: SÌ 
+Febbre: SÌ 
+Malattia: SÌ 
+
+**Possibile Diagnosi**
+Varicella 
+
+**Informazioni di Contatto**
+001-741-484-9093
+ito@red-cross.org
+
+---------------------------
+**Progresso & Trattamento**
+Antivirali: INIZIATI 
+Fluidi: CONSIGLIATI 
+
+---------------------------
+**Cartella Clinica**
+040 048MPE 
+
+**Piano Sanitario**
+PjSJeuaE0 
+
+**Ospedale**
+news 
+
+**Medico di Riferimento**
+Alberto Sorrentino
+
+**Infermiere Assegnato**
+PnpE2huh
+
+---------------------------
+**Stato**
+11
+
+**Città**
+Petriano
+
+----------------------------
+**Altre Note Rilevanti:**  
+90 bksbika 
+Willis PLC 
+MUNZKS72S31B604N 
+1UD4106 
+woods.info 
+Commercialista 
+0301-67926 
+kW-98299Gz 
+90 bksbika 
+98.78.41.87 
+7974 
+scuola 
+3272822407 
+Alberto Sorrentino
+
+----------------------------
+**Data Completamento Nota**
+22 febbraio 2009 
+
+----------------------------
+**ID Licenza**
+229423-ioq 
+
+**Prossimo Appuntamento**
+22 febbraio 2009 
+
+Nota: Questa nota di osservazione è per un'istantanea della condizione del paziente. Per un rapporto dettagliato, si prega di fare riferimento alla cartella clinica del paziente."
+

@@ -1,0 +1,50 @@
+"Doctor Scratch Note
+
+-----
+Cooper Kelly, a 6 months old old male. 
+
+Presenting Complaints:
+Progressive weakness - both lower limbs > upper limbs.
+Duration: 2 days.
+Insidious onset.
+Preceded by muscle cramps - 3 days.
+No altered sensorium, seizure, bladder/bowel issues.
+
+Past Medical History:
+Similar episodes - weakness, fatigue + hypokalemia - last 3 years.
+Hospital admissions required.
+Managed as hypokalemic periodic paralysis previously.
+
+Additional Symptoms:
+Bilateral eyelid drooping.
+Foreign body sensation - eyes.
+Dry mouth.
+No recent vomiting, diuretic, alcohol, laxative use.
+
+Exam Findings:
+Motor power - Lower limbs: 3/5, Upper limbs: 4/5. Proximal + distal muscle groups.
+Deep tendon reflexes - Diminished bilaterally.
+No sensory deficits/cranial nerve abnormalities.
+Vitals within normal limits.
+Cardiovascular, respiratory, gastrointestinal, thyroid exams - Unremarkable.
+
+Lab Findings:
+Severe hypokalemia - Serum potassium level: 1.6 meq/L (Normal: 3.5-5.5 meq/L)
+ECG - Sinus bradycardia, Global T wave inversion, Subtle U wave.
+
+Assessment:
+Primary Diagnosis - Hypokalemic periodic paralysis - Trigger: Severe hypokalemia.
+Differentials - Myasthenia gravis - Ruled out by negative antibody testing.
+Recurrent symptoms + severe hypokalemia - Risks: Cardiac arrhythmias, Muscular weakness.
+
+Plan:
+Immediate management - IV potassium supplementation @20 meq/hour - Correct hypokalemia.
+Continuous cardiac monitoring - Due to ECG changes and arrhythmia risk.
+Educate Cooper Kelly - Monitor symptoms of weakness/cardiac disturbances.
+Follow-up - Reassess potassium levels + motor function post initial treatment.
+Referral to Tyler Musker (neurologist) - Further evaluation/management of hypokalemic periodic paralysis.
+Dietary advice - Potassium intake + potential triggers for hypokalemic episodes.
+
+Tyler Musker
+"
+

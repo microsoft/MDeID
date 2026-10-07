@@ -1,0 +1,46 @@
+"Nurse Narrative Note:
+
+During today's visit, Ashleigh Saunderson presented with a chronic history of uncontrolled bowel movements that has been persisting for 45. The patient's quality of life has been greatly affected due to this issue. Ashleigh Saunderson also has a past medical history of cervical cancer treated via Wertheim-Meigs radical hysterectomy in 10,7,1995 and a subtotal thyroidectomy procedure in 10,7,1995. The patient has been diagnosed with lactose and fructose malabsorption and chronic radiation colitis. Previous attempts to manage the condition with a variety of probiotics, loperamide, and mesalazine have shown no significant improvement.
+
+As part of the diagnostic procedures, Ashleigh Saunderson has had several rectoscopies and colonoscopies performed. The findings from these tests showed stenosis in the sigmoid colon but did not indicate any inflammatory bowel disease. CT scans revealed long-range concentric thickening of the rectal wall and fluid imbibition of the perirectal fatty tissue. Unfortunately, the vital signs and other specific lab results were not provided in the patient's 73099-CrAK.
+
+The primary diagnosis is chronic radiation colitis, which is likely secondary to radiation therapy received post-hysterectomy. While there could be other causes for the chronic diarrhea, these seem less probable given the imaging and endoscopic findings. The prognosis is guarded as the patient has not responded to traditional treatment methods.
+
+Moving forward, the treatment plan includes initiating fecal microbiota therapy, as Ashleigh Saunderson has consented to this experimental trial in hopes of improving symptoms. Regular follow-up appointments will be necessary to monitor the patient's response to the treatment and make any necessary adjustments. Additionally, the patient will receive education on symptom management and lifestyle adjustments to cope with chronic diarrhea. If no improvements are observed, a referral to a specialist Production designer, theatre/television/film for further management and a second opinion may also be considered.
+
+-----------------------------------
+Nurse Ella Williams, wrTCmd 539
+10,7,1995>
+
+Additional PHI placeholders: 
+
+Patient's Contact Information:
+- Email: Eia@protonmail.com
+- Phone: 3044324929
+- Address: Ashleigh Saunderson, 59 Virologies, Russellite, 15 9055, United States
+
+Emergency Contact:
+- Name: Ashleigh Saunderson
+- Relationship: 
+- Phone: 3044324929
+
+Account and Billing Information:
+- Account Number: 539-nrxEfE
+- Health Plan: 2cVCwW xGgbj6 Dtuk 4qH
+- Organization: Church, Moody and Morgan
+
+Device Information:
+- Device ID: rvSAbE 593
+
+Online Portal Information:
+- Username: eighde
+- IP Address: 60.57.183.96
+
+Other Relevant Information:
+- Vehicle ID: 149-PTC
+- Social Security Number: 364-32-5719
+- Biometric ID: sOFSQ-7555
+- Personal ID: 539-nrxEfE
+- Fax: (917)912-9801x330
+- URL:  www.fuentes.com/searchauthor.html"
+

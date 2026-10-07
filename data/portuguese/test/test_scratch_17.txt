@@ -1,0 +1,45 @@
+"```
+Nota de Enfermagem: 
+===================
+Paciente: Carolina Freitas
+MRN: jyDL-183lE
+
+    Sinais Vitais & Observações:
+    ----------------------
+    PA: 110/70 
+    Pulso: 80 bpm 
+    Temp: 37,0 °C 
+    FR: 16 bpm 
+    O2: 100% em AR 
+    Peso: 70 Kg 
+    Altura: 170 cm
+
+    Médico:
+    --------
+    Diagnósticos: Icterícia, causa em investigação
+    Medicação: Aguardando ordens do médico Rafael Teixeira
+    Laboratório: Testes de função hepática solicitados, aguardando resultados JgwsN GodO
+
+    Comentários: Paciente apresenta icterícia. Sem febre. Sem dor no peito. 
+
+Informações de Contato:
+--------------------
+Telefone: 853.685.6795
+Endereço: Carolina Freitas, Travessa de Cardoso, 79 164, 9136 Craíbas, Portugal
+Contato de Emergência: 6usDxZ6Q
+
+Informações Adicionais:
+----------------------
+Plano de Saúde: TJ2FG2cAh
+Admitido de: museu
+Endereço IP: 23.221.3.80
+Profissão: Oficial técnico médico
+Organização: Ortiz-Miller
+Veículo: 405-VST
+SSN: 366.060.407-15
+Licença: df-KtmlVXq
+Biometria: KydT-YMvAP
+
+```
+"
+

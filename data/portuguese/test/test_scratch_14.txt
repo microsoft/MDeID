@@ -1,0 +1,36 @@
+"```
+                *** NOTA RASCUNHO ***
+
+PACIENTE: Tomás Antunes
+IDADE: 42
+PROBLEMAS APRESENTADOS:
+- Micção frequente
+- Dificuldade em urinar 
+
+SINAIS VITAIS:
+PA: 130/85 mmHg
+Temp: 98.7 F
+Pulso: 78 bpm
+
+NOTAS:
+- Sinais sugerem infecção do trato urinário
+- Exames laboratoriais solicitados
+- 9858-235LV a ser acessado para histórico médico
+- unesás mencionado para login no site
+- nssé@icloud.com necessário para notificação de resultados de exames 
+
+CONTATO:
+- Contato de emergência: 296.301.3861
+- Endereço residencial: Tomás Antunes, Trecho Kevin Barros, 714 101, 6774 Nipoã, Portugal
+- Médico responsável: José Martins
+
+INFORMAÇÕES ADICIONAIS:
+- Provedor de saúde preferido: XeHKkD AeeE6
+- Última visita ao hospital: Duncan
+- Situação da conta: cUEhP-CZGH
+- Número de série do dispositivo (se houver): JKUORa jAW
+
+-FIM DA NOTA RASCUNHO-
+```
+Este documento sintético não contém nenhuma Informação de Saúde Pessoal (PHI)."
+
