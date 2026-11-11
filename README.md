@@ -105,20 +105,20 @@ All authors are affiliated with Microsoft Corporation.
 
 If you use MDeID in your research, please cite:
 
-> Surana, Risha and Quispe, Rodolfo and Johnson, Alistair and Lin, Thomas.
-> *MDeID: A Dataset for Multilingual Medical De-Identification.*
-> SSRN (2026).
-> [https://ssrn.com/abstract=6122896](https://ssrn.com/abstract=6122896)
+> Surana, Risha, Rodolfo Quispe, Alistair Johnson, and Thomas Lin.
+> *MDeID: A dataset for multilingual medical de-identification.*
+> Journal of Biomedical Informatics (2026).
+> [https://doi.org/10.1016/j.jbi.2026.105106](https://doi.org/10.1016/j.jbi.2026.105106)
 
 ### BibTeX
 
 ```bibtex
-@misc{surana2026mdeid,
-  title={MDeID: A Dataset for Multilingual Medical De-Identification},
+@article{surana2026mdeid,
+  title={{MDeID}: A dataset for multilingual medical de-identification},
   author={Surana, Risha and Quispe, Rodolfo and Johnson, Alistair and Lin, Thomas},
+  journal={Journal of Biomedical Informatics},
   year={2026},
-  howpublished={SSRN Preprint},
-  url={https://ssrn.com/abstract=6122896}
+  doi={10.1016/j.jbi.2026.105106},
+  url={https://doi.org/10.1016/j.jbi.2026.105106}
 }
 ```
-
