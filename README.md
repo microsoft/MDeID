@@ -1,7 +1,7 @@
 
 # MDeID: A Dataset for Multilingual Medical De-Identification
 
-[![Preprint](https://img.shields.io/badge/Preprint-SSRN-orange)](https://ssrn.com/abstract=6122896)
+[![Paper](https://img.shields.io/badge/Status-Published-brightgreen)](https://www.sciencedirect.com/science/article/pii/S1532046426001309)
 [![License](https://img.shields.io/badge/License-Research%20Only-lightgrey.svg)](license.md)
 
 This repository contains the dataset for the paper:
@@ -11,7 +11,7 @@ Risha Surana, Rodolfo Quispe, Alistair Johnson, Thomas Lin
 Microsoft Corporation
 Posted: January 29, 2026
 
-📄 Preprint available at: [https://ssrn.com/abstract=6122896](https://ssrn.com/abstract=6122896)
+📄 Paper available at: [[https://ssrn.com/abstract=6122896](https://ssrn.com/abstract=6122896](https://www.sciencedirect.com/science/article/pii/S1532046426001309))
 
 ---
 
@@ -25,7 +25,7 @@ Medical Text De-identification (DeID) is essential for protecting Protected Heal
 
 ## Framework Overview
 
-![MDeID Graphical Abstract](graphical-abstract.pdf)
+[MDeID Graphical Abstract (PDF)](graphical-abstract.pdf)
 
 *Figure 1: Overview of the MDeID dataset spanning seven languages, seven medical domains, and 28 PHI categories.*
 
